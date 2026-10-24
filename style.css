@@ -287,6 +287,13 @@ td a:hover { color: var(--accent); text-decoration: underline; }
 .stats b { display: block; margin-bottom: 5px; color: var(--text); font-size: 27px; line-height: 1.1; font-weight: 780; letter-spacing: -.035em; font-variant-numeric: tabular-nums; }
 .stats b.up { color: var(--up); }
 .stats b.down { color: var(--down); }
+.controls { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+.scroll { overflow-x: auto; }
+table.league th, table.league td { padding-left: 8px; padding-right: 8px; }
+table.league .sep { border-left: 1px solid var(--line); }
+table.league td.proj { background: color-mix(in srgb, var(--win) calc(var(--p) * .3), transparent); white-space: nowrap; }
+table.league td.proj.dn { background: color-mix(in srgb, var(--loss) calc(var(--p) * .3), transparent); }
+@media (max-width: 1080px) { .hide-m { display: none; } }
 .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 .cols > .card { min-width: 0; }
 td.h { text-align: right; }

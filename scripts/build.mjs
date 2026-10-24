@@ -16,7 +16,8 @@ import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc, startOf } from '../lib/seasons.mjs';
 import { clubOf } from '../lib/uefa.mjs';
 import { fetchSeason } from '../lib/matchday.mjs';
-import { LEAGUES, load } from '../lib/leagues.mjs';
+import { LEAGUES, PLACES, load } from '../lib/leagues.mjs';
+import { standings, remaining, simulate } from '../lib/table.mjs';
 import { writeCard } from './card.mjs';
 
 const params = JSON.parse(readFileSync('params.json', 'utf8'));
@@ -83,18 +84,40 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   const mine = new Set(list.flatMap((m) => [m.home, m.away]));
   for (const club of mine) writeFileSync(`data/${id}/clubs/${slug(club)}.json`, JSON.stringify({ club, name: display(club), history: history.get(club).map((x) => x[6] === 'EU' ? [...x.slice(0, 6), 'europe', leagueOfClub.get(x[2]) ?? null] : [...x.slice(0, 6), where(x[6], top)]) }) + '\n');
 
+  // a match's chances: the Elo's grid and the attack/defence model's, blended as tuned (lib/attack.mjs)
+  const price = (home, away, div = top) => {
+    const eh = ratings.get(home), ea = ratings.get(away);
+    if (eh == null || ea == null) return null;
+    const dr = eh + hfaNow[id] - ea, elo = { grid: grid(dr, p.goals), xg: goals(dr, p.goals) }, xa = attack[id].expect(home, away, div);
+    return { eh, ea, dr, m: xa && p.attack ? blended(elo, { grid: gridOf(xa, p.attack.draw), xg: xa }, p.blend ?? 1) : blended(elo, elo, 1) };
+  };
   const preds = fixtures.map((f) => {
-    const eh = ratings.get(f.home), ea = ratings.get(f.away);
-    if (eh == null || ea == null) { console.log(`${league.name}: no rating for ${eh == null ? f.home : f.away}, fixture left out`); return null; }
-    // the Elo's grid and the attack/defence model's, blended as tuned (lib/attack.mjs)
-    const dr = eh + hfaNow[id] - ea, elo = { grid: grid(dr, p.goals), xg: goals(dr, p.goals) }, xa = attack[id].expect(f.home, f.away, top);
-    const m = xa && p.attack ? blended(elo, { grid: gridOf(xa, p.attack.draw), xg: xa }, p.blend ?? 1) : blended(elo, elo, 1);
+    const q = price(f.home, f.away);
+    if (!q) { console.log(`${league.name}: no rating for ${ratings.get(f.home) == null ? f.home : f.away}, fixture left out`); return null; }
+    const { eh, ea, dr, m } = q;
     return { kickoff: f.kickoff, gw: f.gw, tbc: f.tbc || undefined, home: f.home, away: f.away, homeSlug: slug(f.home), awaySlug: slug(f.away), homeName: display(f.home), awayName: display(f.away),
       elo: [Math.round(eh), Math.round(ea)], dr: Math.round(dr), H: r3(m.H), D: r3(m.D), A: r3(m.A), xg: m.xg.map(r1), O25: r3(m.O25), btts: r3(m.btts), scores: m.scores.map(([s, q]) => [s, r3(q)]) };
   }).filter(Boolean);
 
+  // each division's table this season and, where its remaining matches are known (PLACES), where its clubs will finish
+  const projected = {};
+  for (const div of league.divs) {
+    const games = list.filter((m) => m.div === div), now = games.at(-1)?.season, results = games.filter((m) => m.season === now);
+    const members = [...divisions].filter(([, d]) => d === div).map(([c]) => c), table = standings(members, results);
+    const places = PLACES[div], left = places ? remaining(members, results).map((f) => { const q = price(f.home, f.away, div); return q && { ...f, H: q.m.H, D: q.m.D, A: q.m.A, xg: q.m.xg }; }) : [];
+    const sim = places && left.every(Boolean) ? simulate(table, left, { n: 10000, seed: results.length + 1 }) : null;
+    if (sim) projected[div === top ? 'top' : 'second'] = { ...places, left: left.length };
+    for (const r of table) {
+      const c = clubs.find((x) => x.club === r.club);
+      if (!c) continue;
+      c.table = { pos: r.pos, p: r.p, w: r.w, d: r.d, l: r.l, gf: r.gf, ga: r.ga, pts: r.pts };
+      const f = sim?.get(r.club), sum = (a, b) => r3(f.pos.slice(a, b).reduce((t, x) => t + x, 0));
+      if (f) c.proj = { pts: r1(f.pts), first: sum(0, 1), top: places.top ? sum(0, places.top) : undefined, up: places.up ? sum(0, places.up) : undefined, down: sum(table.length - places.down, table.length) };
+    }
+  }
+
   const updated = new Date().toISOString();
-  writeFileSync(`data/${id}/ratings.json`, JSON.stringify({ updated, league: id, name: league.name, through: today, season: label(season), params: p, clubs }, null, 1) + '\n');
+  writeFileSync(`data/${id}/ratings.json`, JSON.stringify({ updated, league: id, name: league.name, through: today, season: label(season), params: p, projected, clubs }, null, 1) + '\n');
   if (!offline || id !== 'pl') writeFileSync(`data/${id}/fixtures.json`, JSON.stringify({ updated, league: id, season: label(season), fixtures: preds }, null, 1) + '\n');
   index.push({ id, name: league.name, short: league.extra ? league.short : league.name, country: league.country, second: league.second, extra: !!league.extra, through: today, top: clubs.filter((c) => c.div === 'top').slice(0, 3).map((c) => [c.name, c.elo]) });
   console.log(`${league.name}: ${clubs.length} clubs through ${today}; top ${clubs.slice(0, 3).map((c) => `${c.name} ${c.elo}`).join(', ')}; ${preds.length} fixtures`);

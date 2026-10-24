@@ -165,3 +165,20 @@ test('extra-league files: "2012/2013" and calendar-year "2013" seasons, and club
     { each: (m, x) => { if (m.div === 'X') Object.assign(seen, x); } });
   assert.ok(seen.away - seen.home > 50, `Salzburg ${seen.away} v Sturm ${seen.home}`);
 });
+
+import { standings, remaining, simulate } from '../lib/table.mjs';
+test('table: points, then goal difference, then goals scored', () => {
+  const r = standings(['A', 'B', 'C'], [{ home: 'A', away: 'B', hg: 2, ag: 0 }, { home: 'B', away: 'C', hg: 3, ag: 0 }, { home: 'C', away: 'A', hg: 1, ag: 1 }]);
+  assert.deepEqual(r.map((x) => [x.club, x.pts, x.pos]), [['A', 4, 1], ['B', 3, 2], ['C', 1, 3]]);
+  assert.deepEqual([r[0].p, r[0].w, r[0].d, r[0].l, r[0].gf, r[0].ga], [2, 1, 1, 0, 3, 1]);
+});
+test('remaining: each pairing both ways, less what has been played', () => {
+  assert.deepEqual(remaining(['A', 'B', 'C'], [{ home: 'A', away: 'B' }]).map((m) => `${m.home}${m.away}`), ['AC', 'BA', 'BC', 'CA', 'CB']);
+});
+test('simulate: places sum to one, a certain result is certain, and it repeats with the same seed', () => {
+  const t = standings(['A', 'B'], []), games = [{ home: 'A', away: 'B', H: 1, D: 0, A: 0, xg: [1.5, 1] }, { home: 'B', away: 'A', H: 0.4, D: 0.3, A: 0.3, xg: [1.4, 1.1] }];
+  const s = simulate(t, games, { n: 2000 });
+  assert.equal(s.get('A').pos[0] + s.get('B').pos[0], 1);
+  assert.ok(s.get('A').pts >= 3 && s.get('B').pts <= 3);
+  assert.deepEqual(simulate(t, games, { n: 500, seed: 7 }), simulate(t, games, { n: 500, seed: 7 }));
+});

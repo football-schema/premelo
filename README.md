@@ -31,6 +31,14 @@ Finnish top divisions. (Russia is left out: its file stops in August 2026 and it
   away scoring rates. Where a match has shots on target it learns from the chances too: the goals it learns from are
   part goals scored, part shots on target × a conversion rate (both tuned; shots stay in the cache, unpublished). Each gives a Poisson score grid (0-0 and 1-1 made a little likelier); the grids are mixed, and
   home/draw/away, the goal lines, both teams to score and the likeliest scores all come from the mix.
+- **Table and projection** (`lib/table.mjs`). Each division's table from this season's results, and, in the divisions
+  played as a plain double round-robin (the big five's top two, Portugal, the Netherlands, Turkey, Poland, Norway and
+  Sweden: `PLACES` in `lib/leagues.mjs`), every remaining pairing played out 10,000 times from its chances, the ratings held
+  where they are today. Each result is drawn from home/draw/away and its score from the expected goals given that result,
+  for goal difference. Out of that: projected points and the chance of the title, the top four or automatic promotion, and
+  direct relegation. Ties split on goal difference, then goals; head-to-head rules, deductions and play-offs aren't
+  modelled. The generator is seeded, so the same results give the same numbers. Leagues that split into further rounds
+  (Belgium, Scotland, Greece, Austria, Switzerland, Denmark, Romania, Finland) or meet three times (Ireland) get the table only.
 
 ## How good it is
 

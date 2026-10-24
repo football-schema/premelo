@@ -20,15 +20,15 @@
   <text x="760" y="345" fill="#167450" text-anchor="end">+25</text>
   <polyline points="820.0,327.1 835.3,326.5 850.5,325.9 865.8,320.7 881.1,325.4 896.3,323.6 911.6,324.8 926.8,321.9 942.1,329.4 957.4,327.7 972.6,330.0 987.9,333.5 1003.2,340.4 1018.4,341.0 1033.7,339.3 1048.9,339.8 1064.2,339.3 1079.5,328.3 1094.7,325.9 1110.0,319.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="319.0" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="363" y2="363" stroke="#dfe5dc" stroke-width="2"/>
-  <text x="80" y="394" fill="#617067">3</text><text x="122" y="394" fill="#17251e" font-weight="600">Manchester City <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="394" fill="#17251e" font-weight="bold" text-anchor="end">2042</text>
-  <text x="760" y="394" fill="#b54439" text-anchor="end">−8</text>
-  <polyline points="820.0,385.2 835.3,390.0 850.5,383.8 865.8,382.6 881.1,382.0 896.3,382.0 911.6,379.6 926.8,377.8 942.1,378.4 957.4,380.5 972.6,384.6 987.9,381.4 1003.2,381.1 1018.4,376.6 1033.7,374.2 1048.9,372.2 1064.2,368.0 1079.5,374.8 1094.7,374.5 1110.0,373.6" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="373.6" r="5" fill="#167451"/>
+  <text x="80" y="394" fill="#617067">3</text><text x="122" y="394" fill="#17251e" font-weight="600">Bayern Munich <tspan fill="#617067" font-size="20" font-weight="normal">Bundesliga</tspan></text>
+  <text x="640" y="394" fill="#17251e" font-weight="bold" text-anchor="end">2036</text>
+  <text x="760" y="394" fill="#b54439" text-anchor="end">−6</text>
+  <polyline points="820.0,379.2 835.3,374.8 850.5,371.6 865.8,369.2 881.1,368.4 896.3,368.0 911.6,371.2 926.8,374.0 942.1,375.2 957.4,373.6 972.6,373.2 987.9,386.0 1003.2,387.6 1018.4,384.4 1033.7,385.6 1048.9,386.8 1064.2,388.0 1079.5,390.0 1094.7,389.2 1110.0,389.2" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="389.2" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="412" y2="412" stroke="#dfe5dc" stroke-width="2"/>
-  <text x="80" y="443" fill="#617067">4</text><text x="122" y="443" fill="#17251e" font-weight="600">Bayern Munich <tspan fill="#617067" font-size="20" font-weight="normal">Bundesliga</tspan></text>
-  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2036</text>
-  <text x="760" y="443" fill="#b54439" text-anchor="end">−6</text>
-  <polyline points="820.0,428.2 835.3,423.8 850.5,420.6 865.8,418.2 881.1,417.4 896.3,417.0 911.6,420.2 926.8,423.0 942.1,424.2 957.4,422.6 972.6,422.2 987.9,435.0 1003.2,436.6 1018.4,433.4 1033.7,434.6 1048.9,435.8 1064.2,437.0 1079.5,439.0 1094.7,438.2 1110.0,438.2" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="438.2" r="5" fill="#167451"/>
+  <text x="80" y="443" fill="#617067">4</text><text x="122" y="443" fill="#17251e" font-weight="600">Manchester City <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
+  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2034</text>
+  <text x="760" y="443" fill="#b54439" text-anchor="end">−16</text>
+  <polyline points="820.0,439.0 835.3,432.8 850.5,431.6 865.8,431.0 881.1,431.0 896.3,428.6 911.6,426.8 926.8,427.4 942.1,429.5 957.4,433.6 972.6,430.4 987.9,430.1 1003.2,425.6 1018.4,423.2 1033.7,421.2 1048.9,417.0 1064.2,423.8 1079.5,423.5 1094.7,422.6 1110.0,425.9" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="425.9" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="461" y2="461" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="492" fill="#617067">5</text><text x="122" y="492" fill="#17251e" font-weight="600">Barcelona <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
   <text x="640" y="492" fill="#17251e" font-weight="bold" text-anchor="end">2026</text>
@@ -41,5 +41,5 @@
   <polyline points="820.0,527.8 835.3,535.6 850.5,537.0 865.8,533.5 881.1,535.6 896.3,534.9 911.6,533.5 926.8,532.0 942.1,530.6 957.4,529.9 972.6,530.6 987.9,535.6 1003.2,529.9 1018.4,529.2 1033.7,527.8 1048.9,534.9 1064.2,533.5 1079.5,520.7 1094.7,517.8 1110.0,515.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="515.0" r="5" fill="#167451"/>
   
   </g>
-  <text x="80" y="606" font-size="19" fill="#617067">Through 23 October 2026 · chances for every coming match · tested against the bookmakers</text>
+  <text x="80" y="606" font-size="19" fill="#617067">Through 24 October 2026 · chances for every coming match · tested against the bookmakers</text>
 </svg>
