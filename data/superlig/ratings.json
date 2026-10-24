@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:05.360Z",
+ "updated": "2026-10-24T19:02:32.266Z",
  "league": "superlig",
  "name": "Süper Lig",
  "through": "2026-10-19",
@@ -1031,14 +1031,6 @@
     1444
    ],
    "rank": 10,
-   "next": {
-    "opp": "Amedspor",
-    "oppSlug": "amedspor",
-    "ha": "h",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.47,
-    "draw": 0.268
-   },
    "table": {
     "pos": 17,
     "p": 8,
@@ -1122,14 +1114,6 @@
     1427
    ],
    "rank": 11,
-   "next": {
-    "opp": "Samsunspor",
-    "oppSlug": "samsunspor",
-    "ha": "a",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.262,
-    "draw": 0.268
-   },
    "table": {
     "pos": 2,
     "p": 8,
@@ -1514,14 +1498,6 @@
     1392
    ],
    "rank": 15,
-   "next": {
-    "opp": "Erzurumspor",
-    "oppSlug": "erzurumspor",
-    "ha": "h",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.473,
-    "draw": 0.273
-   },
    "table": {
     "pos": 14,
     "p": 8,
@@ -1720,14 +1696,6 @@
     1377
    ],
    "rank": 17,
-   "next": {
-    "opp": "Gaziantep",
-    "oppSlug": "gaziantep",
-    "ha": "a",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.254,
-    "draw": 0.273
-   },
    "table": {
     "pos": 11,
     "p": 8,

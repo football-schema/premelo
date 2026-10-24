@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:04.094Z",
+ "updated": "2026-10-24T19:02:30.958Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-10-19",
@@ -834,14 +834,6 @@
     1502
    ],
    "rank": 8,
-   "next": {
-    "opp": "Alverca",
-    "oppSlug": "alverca",
-    "ha": "a",
-    "kickoff": "2026-10-24T17:00:00.000Z",
-    "win": 0.367,
-    "draw": 0.29
-   },
    "table": {
     "pos": 5,
     "p": 8,
@@ -1143,14 +1135,6 @@
     1434
    ],
    "rank": 11,
-   "next": {
-    "opp": "Arouca",
-    "oppSlug": "arouca",
-    "ha": "h",
-    "kickoff": "2026-10-24T17:00:00.000Z",
-    "win": 0.343,
-    "draw": 0.29
-   },
    "table": {
     "pos": 8,
     "p": 8,
@@ -1452,14 +1436,6 @@
     1404
    ],
    "rank": 14,
-   "next": {
-    "opp": "Casa Pia",
-    "oppSlug": "casa-pia",
-    "ha": "h",
-    "kickoff": "2026-10-24T14:30:00.000Z",
-    "win": 0.425,
-    "draw": 0.291
-   },
    "table": {
     "pos": 10,
     "p": 8,
@@ -1555,14 +1531,6 @@
     1400
    ],
    "rank": 15,
-   "next": {
-    "opp": "Estrela da Amadora",
-    "oppSlug": "estrela",
-    "ha": "a",
-    "kickoff": "2026-10-24T14:30:00.000Z",
-    "win": 0.285,
-    "draw": 0.291
-   },
    "table": {
     "pos": 17,
     "p": 8,

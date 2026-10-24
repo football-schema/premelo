@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:53:58.997Z",
+ "updated": "2026-10-24T19:02:26.027Z",
  "league": "laliga",
  "name": "La Liga",
  "through": "2026-10-21",
@@ -538,14 +538,6 @@
     1770
    ],
    "rank": 5,
-   "next": {
-    "opp": "Valencia",
-    "oppSlug": "valencia",
-    "ha": "a",
-    "kickoff": "2026-10-24T16:30:00.000Z",
-    "win": 0.385,
-    "draw": 0.271
-   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -1045,14 +1037,6 @@
     1684
    ],
    "rank": 10,
-   "next": {
-    "opp": "Villarreal",
-    "oppSlug": "villarreal",
-    "ha": "h",
-    "kickoff": "2026-10-24T16:30:00.000Z",
-    "win": 0.344,
-    "draw": 0.271
-   },
    "table": {
     "pos": 19,
     "p": 9,
@@ -1742,14 +1726,6 @@
     1643
    ],
    "rank": 15,
-   "next": {
-    "opp": "Racing Santander",
-    "oppSlug": "santander",
-    "ha": "a",
-    "kickoff": "2026-10-24T14:15:00.000Z",
-    "win": 0.318,
-    "draw": 0.256
-   },
    "table": {
     "pos": 16,
     "p": 9,
@@ -2233,14 +2209,6 @@
     1599
    ],
    "rank": 18,
-   "next": {
-    "opp": "Espanyol",
-    "oppSlug": "espanol",
-    "ha": "h",
-    "kickoff": "2026-10-24T14:15:00.000Z",
-    "win": 0.426,
-    "draw": 0.256
-   },
    "table": {
     "pos": 17,
     "p": 9,

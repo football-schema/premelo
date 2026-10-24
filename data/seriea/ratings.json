@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:02.214Z",
+ "updated": "2026-10-24T19:02:29.023Z",
  "league": "seriea",
  "name": "Serie A",
  "through": "2026-10-19",
@@ -229,14 +229,6 @@
     1861
    ],
    "rank": 2,
-   "next": {
-    "opp": "Napoli",
-    "oppSlug": "napoli",
-    "ha": "a",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.375,
-    "draw": 0.308
-   },
    "table": {
     "pos": 3,
     "p": 7,
@@ -332,14 +324,6 @@
     1810
    ],
    "rank": 3,
-   "next": {
-    "opp": "Sassuolo",
-    "oppSlug": "sassuolo",
-    "ha": "h",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.644,
-    "draw": 0.219
-   },
    "table": {
     "pos": 5,
     "p": 7,
@@ -641,14 +625,6 @@
     1792
    ],
    "rank": 6,
-   "next": {
-    "opp": "AS Roma",
-    "oppSlug": "roma",
-    "ha": "h",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.316,
-    "draw": 0.308
-   },
    "table": {
     "pos": 9,
     "p": 7,
@@ -950,14 +926,6 @@
     1690
    ],
    "rank": 9,
-   "next": {
-    "opp": "Cagliari",
-    "oppSlug": "cagliari",
-    "ha": "a",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.372,
-    "draw": 0.313
-   },
    "table": {
     "pos": 15,
     "p": 7,
@@ -1251,14 +1219,6 @@
     1626
    ],
    "rank": 12,
-   "next": {
-    "opp": "Como",
-    "oppSlug": "como",
-    "ha": "a",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.137,
-    "draw": 0.219
-   },
    "table": {
     "pos": 13,
     "p": 7,
@@ -1560,14 +1520,6 @@
     1608
    ],
    "rank": 15,
-   "next": {
-    "opp": "Bologna",
-    "oppSlug": "bologna",
-    "ha": "h",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.315,
-    "draw": 0.313
-   },
    "table": {
     "pos": 7,
     "p": 7,

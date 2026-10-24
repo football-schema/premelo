@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:06.228Z",
+ "updated": "2026-10-24T19:02:33.153Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-19",
@@ -532,14 +532,6 @@
     1521
    ],
    "rank": 5,
-   "next": {
-    "opp": "Radomiak Radom",
-    "oppSlug": "radomiak-radom",
-    "ha": "h",
-    "kickoff": "2026-10-24T15:30:00.000Z",
-    "win": 0.573,
-    "draw": 0.243
-   },
    "table": {
     "pos": 4,
     "p": 10,
@@ -1601,14 +1593,6 @@
     1414
    ],
    "rank": 16,
-   "next": {
-    "opp": "Pogon Szczecin",
-    "oppSlug": "pogon-szczecin",
-    "ha": "a",
-    "kickoff": "2026-10-24T15:30:00.000Z",
-    "win": 0.184,
-    "draw": 0.243
-   },
    "table": {
     "pos": 16,
     "p": 11,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:04.718Z",
+ "updated": "2026-10-24T19:02:31.601Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-10-18",
@@ -738,14 +738,6 @@
     1536
    ],
    "rank": 7,
-   "next": {
-    "opp": "Zwolle",
-    "oppSlug": "zwolle",
-    "ha": "h",
-    "kickoff": "2026-10-24T14:30:00.000Z",
-    "win": 0.606,
-    "draw": 0.219
-   },
    "table": {
     "pos": 11,
     "p": 9,
@@ -1451,14 +1443,6 @@
     1411
    ],
    "rank": 14,
-   "next": {
-    "opp": "Utrecht",
-    "oppSlug": "utrecht",
-    "ha": "a",
-    "kickoff": "2026-10-24T14:30:00.000Z",
-    "win": 0.174,
-    "draw": 0.219
-   },
    "table": {
     "pos": 15,
     "p": 9,
@@ -1649,14 +1633,6 @@
     1360
    ],
    "rank": 16,
-   "next": {
-    "opp": "Willem II",
-    "oppSlug": "willem-ii",
-    "ha": "a",
-    "kickoff": "2026-10-24T16:45:00.000Z",
-    "win": 0.338,
-    "draw": 0.272
-   },
    "table": {
     "pos": 14,
     "p": 9,
@@ -1855,14 +1831,6 @@
     1325
    ],
    "rank": 18,
-   "next": {
-    "opp": "Cambuur",
-    "oppSlug": "cambuur",
-    "ha": "h",
-    "kickoff": "2026-10-24T16:45:00.000Z",
-    "win": 0.39,
-    "draw": 0.272
-   },
    "table": {
     "pos": 18,
     "p": 9,

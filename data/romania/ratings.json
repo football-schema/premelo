@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:06.231Z",
+ "updated": "2026-10-24T19:02:33.157Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-19",
@@ -1058,14 +1058,6 @@
     1350
    ],
    "rank": 11,
-   "next": {
-    "opp": "FC Arges",
-    "oppSlug": "fc-arges",
-    "ha": "a",
-    "kickoff": "2026-10-24T15:00:00.000Z",
-    "win": 0.296,
-    "draw": 0.298
-   },
    "table": {
     "pos": 10,
     "p": 12,
@@ -1244,14 +1236,6 @@
     1329
    ],
    "rank": 13,
-   "next": {
-    "opp": "UTA Arad",
-    "oppSlug": "uta-arad",
-    "ha": "h",
-    "kickoff": "2026-10-24T15:00:00.000Z",
-    "win": 0.406,
-    "draw": 0.298
-   },
    "table": {
     "pos": 13,
     "p": 12,

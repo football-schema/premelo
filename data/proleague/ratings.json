@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:04.725Z",
+ "updated": "2026-10-24T19:02:31.608Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-10-11",
@@ -598,14 +598,6 @@
     1585
    ],
    "rank": 6,
-   "next": {
-    "opp": "Antwerp",
-    "oppSlug": "antwerp",
-    "ha": "a",
-    "kickoff": "2026-10-24T14:00:00.000Z",
-    "win": 0.399,
-    "draw": 0.27
-   },
    "table": {
     "pos": 3,
     "p": 8,
@@ -986,14 +978,6 @@
     1498
    ],
    "rank": 10,
-   "next": {
-    "opp": "Charleroi",
-    "oppSlug": "charleroi",
-    "ha": "h",
-    "kickoff": "2026-10-24T14:00:00.000Z",
-    "win": 0.33,
-    "draw": 0.27
-   },
    "table": {
     "pos": 13,
     "p": 8,
@@ -1366,14 +1350,6 @@
     1438
    ],
    "rank": 14,
-   "next": {
-    "opp": "Lommel SK",
-    "oppSlug": "lommel-sk",
-    "ha": "h",
-    "kickoff": "2026-10-24T16:15:00.000Z",
-    "win": 0.445,
-    "draw": 0.275
-   },
    "table": {
     "pos": 15,
     "p": 8,
@@ -1451,14 +1427,6 @@
     1417
    ],
    "rank": 15,
-   "next": {
-    "opp": "OH Leuven",
-    "oppSlug": "oud-heverlee-leuven",
-    "ha": "a",
-    "kickoff": "2026-10-24T16:15:00.000Z",
-    "win": 0.28,
-    "draw": 0.275
-   },
    "table": {
     "pos": 10,
     "p": 8,

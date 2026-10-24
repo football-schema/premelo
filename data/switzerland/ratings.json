@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:05.379Z",
+ "updated": "2026-10-24T19:02:32.284Z",
  "league": "switzerland",
  "name": "Swiss Super League",
  "through": "2026-10-11",
@@ -501,14 +501,6 @@
     1492
    ],
    "rank": 5,
-   "next": {
-    "opp": "Vaduz",
-    "oppSlug": "vaduz",
-    "ha": "h",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.623,
-    "draw": 0.216
-   },
    "table": {
     "pos": 6,
     "p": 10,
@@ -598,14 +590,6 @@
     1456
    ],
    "rank": 6,
-   "next": {
-    "opp": "Zurich",
-    "oppSlug": "zurich",
-    "ha": "a",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.376,
-    "draw": 0.267
-   },
    "table": {
     "pos": 8,
     "p": 10,
@@ -889,14 +873,6 @@
     1399
    ],
    "rank": 9,
-   "next": {
-    "opp": "Luzern",
-    "oppSlug": "luzern",
-    "ha": "h",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.357,
-    "draw": 0.267
-   },
    "table": {
     "pos": 5,
     "p": 10,
@@ -1180,14 +1156,6 @@
     1341
    ],
    "rank": 12,
-   "next": {
-    "opp": "Servette",
-    "oppSlug": "servette",
-    "ha": "a",
-    "kickoff": "2026-10-24T16:00:00.000Z",
-    "win": 0.161,
-    "draw": 0.216
-   },
    "table": {
     "pos": 10,
     "p": 10,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:05.377Z",
+ "updated": "2026-10-24T19:02:32.282Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-10-18",
@@ -590,14 +590,6 @@
     1438
    ],
    "rank": 6,
-   "next": {
-    "opp": "Wolfsberger AC",
-    "oppSlug": "wolfsberger-ac",
-    "ha": "h",
-    "kickoff": "2026-10-24T15:00:00.000Z",
-    "win": 0.446,
-    "draw": 0.266
-   },
    "table": {
     "pos": 7,
     "p": 9,
@@ -687,14 +679,6 @@
     1412
    ],
    "rank": 7,
-   "next": {
-    "opp": "Hartberg",
-    "oppSlug": "hartberg",
-    "ha": "a",
-    "kickoff": "2026-10-24T15:00:00.000Z",
-    "win": 0.288,
-    "draw": 0.266
-   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -881,14 +865,6 @@
     1372
    ],
    "rank": 9,
-   "next": {
-    "opp": "Grazer AK",
-    "oppSlug": "grazer-ak",
-    "ha": "h",
-    "kickoff": "2026-10-24T15:00:00.000Z",
-    "win": 0.415,
-    "draw": 0.269
-   },
    "table": {
     "pos": 6,
     "p": 9,
@@ -978,14 +954,6 @@
     1371
    ],
    "rank": 10,
-   "next": {
-    "opp": "Tirol",
-    "oppSlug": "tirol",
-    "ha": "a",
-    "kickoff": "2026-10-24T15:00:00.000Z",
-    "win": 0.315,
-    "draw": 0.269
-   },
    "table": {
     "pos": 8,
     "p": 9,

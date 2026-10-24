@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:54:05.680Z",
+ "updated": "2026-10-24T19:02:32.590Z",
  "league": "sweden",
  "name": "Allsvenskan",
  "through": "2026-10-19",
@@ -120,14 +120,6 @@
     1545
    ],
    "rank": 1,
-   "next": {
-    "opp": "Orgryte",
-    "oppSlug": "orgryte",
-    "ha": "h",
-    "kickoff": "2026-10-24T15:30:00.000Z",
-    "win": 0.777,
-    "draw": 0.149
-   },
    "table": {
     "pos": 2,
     "p": 24,
@@ -326,14 +318,6 @@
     1510
    ],
    "rank": 3,
-   "next": {
-    "opp": "AIK",
-    "oppSlug": "aik",
-    "ha": "h",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.595,
-    "draw": 0.23
-   },
    "table": {
     "pos": 1,
     "p": 24,
@@ -429,14 +413,6 @@
     1447
    ],
    "rank": 4,
-   "next": {
-    "opp": "Degerfors",
-    "oppSlug": "degerfors",
-    "ha": "h",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.644,
-    "draw": 0.215
-   },
    "table": {
     "pos": 4,
     "p": 24,
@@ -1023,14 +999,6 @@
     1370
    ],
    "rank": 10,
-   "next": {
-    "opp": "Sirius",
-    "oppSlug": "sirius",
-    "ha": "a",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.176,
-    "draw": 0.23
-   },
    "table": {
     "pos": 9,
     "p": 24,
@@ -1229,14 +1197,6 @@
     1329
    ],
    "rank": 12,
-   "next": {
-    "opp": "Kalmar",
-    "oppSlug": "kalmar",
-    "ha": "a",
-    "kickoff": "2026-10-24T15:30:00.000Z",
-    "win": 0.392,
-    "draw": 0.276
-   },
    "table": {
     "pos": 11,
     "p": 24,
@@ -1332,14 +1292,6 @@
     1263
    ],
    "rank": 13,
-   "next": {
-    "opp": "Hacken",
-    "oppSlug": "hacken",
-    "ha": "a",
-    "kickoff": "2026-10-24T13:00:00.000Z",
-    "win": 0.141,
-    "draw": 0.215
-   },
    "table": {
     "pos": 14,
     "p": 24,
@@ -1435,14 +1387,6 @@
     1256
    ],
    "rank": 14,
-   "next": {
-    "opp": "Brommapojkarna",
-    "oppSlug": "brommapojkarna",
-    "ha": "h",
-    "kickoff": "2026-10-24T15:30:00.000Z",
-    "win": 0.332,
-    "draw": 0.276
-   },
    "table": {
     "pos": 13,
     "p": 24,
@@ -1538,14 +1482,6 @@
     1250
    ],
    "rank": 15,
-   "next": {
-    "opp": "Djurgarden",
-    "oppSlug": "djurgarden",
-    "ha": "a",
-    "kickoff": "2026-10-24T15:30:00.000Z",
-    "win": 0.074,
-    "draw": 0.149
-   },
    "table": {
     "pos": 15,
     "p": 24,
