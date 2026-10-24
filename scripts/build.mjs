@@ -2,6 +2,7 @@
 //   data/ratings.json        every club of this season's Premier League and Championship, rated and ranked
 //   data/clubs/<slug>.json   a club's rating after each of its matches since 1993
 //   data/fixtures.json       the Premier League's remaining fixtures, each with its probabilities
+//   card.svg, card.png       the link-preview card, with the top six as they stand
 //   node scripts/build.mjs [--offline]   (--offline: without matchday, from results.csv alone)
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { fromCsv, byDate } from '../lib/results.mjs';
@@ -10,6 +11,7 @@ import { markets } from '../lib/goals.mjs';
 import { display, slug } from '../lib/teams.mjs';
 import { currentSeason, label } from '../lib/seasons.mjs';
 import { fetchSeason } from '../lib/matchday.mjs';
+import { writeCard } from './card.mjs';
 
 const params = JSON.parse(readFileSync('params.json', 'utf8'));
 const season = currentSeason(), list = fromCsv(readFileSync('data/results.csv', 'utf8'));
@@ -55,5 +57,6 @@ const preds = fixtures.map((f) => {
 
 const updated = new Date().toISOString();
 writeFileSync('data/ratings.json', JSON.stringify({ updated, through: today, season: label(season), params, clubs }, null, 1) + '\n');
+writeCard({ through: today, clubs });
 writeFileSync('data/fixtures.json', JSON.stringify({ updated, season: label(season), fixtures: preds }, null, 1) + '\n');
 console.log(`${clubs.length} clubs rated through ${today}; top: ${clubs.slice(0, 5).map((c) => `${c.name} ${c.elo}`).join(', ')}; ${preds.length} fixtures predicted`);
