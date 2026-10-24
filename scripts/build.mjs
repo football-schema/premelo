@@ -3,13 +3,14 @@
 //   data/<league>/clubs/<slug>.json   a club's rating after each of its matches since 1993
 //   data/<league>/fixtures.json       the coming top-division fixtures, each with its probabilities
 //   data/leagues.json                 the leagues, for the page's switcher
-//   card.svg, card.png                the link-preview card, with the Premier League's top six as they stand
+//   card.svg, card.png                the link-preview card, with the top six of the five leagues as they stand
 // The Premier League's newest results and its whole fixture list come from matchday; the other leagues' fixtures
 // from football-data's fixtures.csv, which has the next week or so.
 //   node scripts/build.mjs [--offline]   (--offline: from the results files alone, no fixtures)
-import { readFileSync, writeFileSync, mkdirSync, rmSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'node:fs';
 import { fromCsv, byDate, parseCsv, isoDate } from '../lib/results.mjs';
-import { run } from '../lib/elo.mjs';
+import { runAll } from '../lib/elo.mjs';
+import { parse as parseEurope } from '../lib/europe.mjs';
 import { markets } from '../lib/goals.mjs';
 import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
@@ -25,9 +26,12 @@ const pair = (m) => `${m.home}|${m.away}`;
 const upcoming = offline ? [] : await fetch('https://www.football-data.co.uk/fixtures.csv', { headers: { 'user-agent': 'premelo (github.com/football-schema/premelo)' } })
   .then((r) => (r.ok ? r.text() : '')).then((t) => (t ? parseCsv(t) : [])).catch(() => []);
 
-const index = [];
+// the European cups: data/europe.csv (from openfootball, CC0), which ties the countries together
+const europe = existsSync('data/europe.csv') ? fromCsv(readFileSync('data/europe.csv', 'utf8')).map((m) => ({ ...m, neutral: m.div === 'EUN', div: 'EU' })) : [];
+
+const index = [], leagues = {}, upcomingBy = {};
 for (const [id, league] of Object.entries(LEAGUES)) {
-  const p = params[id], top = league.divs[0], list = fromCsv(readFileSync(`data/${id}/results.csv`, 'utf8'));
+  const top = league.divs[0], list = fromCsv(readFileSync(`data/${id}/results.csv`, 'utf8'));
   let fixtures = [];
   if (!offline && id === 'pl') {
     // matchday's results that football-data hasn't got yet (each pairing is played once a season)
@@ -45,8 +49,15 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   }
   // a match more than two hours past kick-off is played, whether or not its result is in yet
   fixtures = fixtures.filter((f) => Date.parse(f.kickoff) > Date.now() - 2 * 3600_000).sort((a, b) => a.kickoff.localeCompare(b.kickoff));
+  leagues[id] = { list, params: params[id].elo, divs: league.divs }; upcomingBy[id] = fixtures;
+}
 
-  const { ratings, history, divisions } = run(list, p.elo, { history: true, divs: league.divs });
+// every league and the European cups in one run: one scale, countries set against each other by their clubs' European results
+const { ratings, history, divisions: byLeague } = runAll(leagues, { list: europe, params: params.europe }, { history: true });
+const leagueOfClub = new Map(Object.entries(leagues).flatMap(([id, l]) => l.list.flatMap((m) => [[m.home, id], [m.away, id]])));
+const where = (div, top) => (div === 'EU' ? 'europe' : div === top ? 'top' : 'second');
+for (const [id, league] of Object.entries(LEAGUES)) {
+  const p = params[id], top = league.divs[0], list = leagues[id].list, fixtures = upcomingBy[id], divisions = byLeague[id];
   const today = list.at(-1).date, monthAgo = new Date(Date.parse(today) - 30 * 86400_000).toISOString().slice(0, 10);
   const seasonStart = `${label(season).slice(0, 4)}-07-01`;
   const ratingOn = (h, date) => { let r = null; for (const x of h) { if (x[0] > date) break; r = x[1]; } return r; };
@@ -60,7 +71,9 @@ for (const [id, league] of Object.entries(LEAGUES)) {
 
   rmSync(`data/${id}/clubs`, { recursive: true, force: true });
   mkdirSync(`data/${id}/clubs`, { recursive: true });
-  for (const [club, h] of history) writeFileSync(`data/${id}/clubs/${slug(club)}.json`, JSON.stringify({ club, name: display(club), history: h.map((x) => [...x.slice(0, 6), x[6] === top ? 'top' : 'second']) }) + '\n');
+    // a European match also says which league the opponent is from (none for clubs outside the big five), for the link
+  const mine = new Set(list.flatMap((m) => [m.home, m.away]));
+  for (const club of mine) writeFileSync(`data/${id}/clubs/${slug(club)}.json`, JSON.stringify({ club, name: display(club), history: history.get(club).map((x) => x[6] === 'EU' ? [...x.slice(0, 6), 'europe', leagueOfClub.get(x[2]) ?? null] : [...x.slice(0, 6), where(x[6], top)]) }) + '\n');
 
   const preds = fixtures.map((f) => {
     const eh = ratings.get(f.home), ea = ratings.get(f.away);
@@ -73,8 +86,10 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   const updated = new Date().toISOString();
   writeFileSync(`data/${id}/ratings.json`, JSON.stringify({ updated, league: id, name: league.name, through: today, season: label(season), params: p, clubs }, null, 1) + '\n');
   if (!offline || id !== 'pl') writeFileSync(`data/${id}/fixtures.json`, JSON.stringify({ updated, league: id, season: label(season), fixtures: preds }, null, 1) + '\n');
-  if (id === 'pl') writeCard({ through: today, clubs: clubs.map((c) => ({ ...c, div: c.div === 'top' ? 'E0' : 'E1' })) });
   index.push({ id, name: league.name, country: league.country, second: league.second, through: today, top: clubs.filter((c) => c.div === 'top').slice(0, 3).map((c) => [c.name, c.elo]) });
   console.log(`${league.name}: ${clubs.length} clubs through ${today}; top ${clubs.slice(0, 3).map((c) => `${c.name} ${c.elo}`).join(', ')}; ${preds.length} fixtures`);
 }
+const tops = [];
+for (const id of Object.keys(LEAGUES)) for (const c of JSON.parse(readFileSync(`data/${id}/ratings.json`, 'utf8')).clubs) if (c.div === 'top') tops.push({ ...c, leagueName: LEAGUES[id].name });
+writeCard({ through: index.map((l) => l.through).sort().at(-1), clubs: tops.sort((a, b) => b.elo - a.elo) });
 writeFileSync('data/leagues.json', JSON.stringify({ updated: new Date().toISOString(), leagues: index }, null, 1) + '\n');

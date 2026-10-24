@@ -1,5 +1,5 @@
 // premelo's page: everything comes from the JSON the build writes into data/.
-// Routes: #/<league> (the table), #/<league>/fixtures, #/<league>/club/<slug>, #/method[/<league>].
+// Routes: #/<league> (the table), #/<league>/fixtures, #/<league>/club/<slug>, #/europe (the five together), #/method[/<league>].
 // The Premier League is the default, so #/, #/fixtures and #/club/<slug> are its pages.
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
@@ -49,7 +49,7 @@ async function viewTable() {
   const l = L(), rows = r.clubs.filter((c) => c.div === division);
   const next = fx.fixtures[0]?.gw ? fx.fixtures.filter((f) => f.gw === fx.fixtures[0].gw) : fx.fixtures.filter((f) => Date.parse(f.kickoff) < Date.parse(fx.fixtures[0].kickoff) + 5 * 86400_000);
   $('main').innerHTML = `<h1>${esc(l.name)} Elo</h1>
-    <p class="sub">Ratings after every result since 1993, through ${fullDate(r.through)}. A 100-point gap makes the stronger side about a 64% favourite on neutral ground. Ratings compare clubs within ${esc(l.country)} only.</p>
+    <p class="sub">Ratings after every result since 1993, through ${fullDate(r.through)}, on one scale for all five leagues, which <a href="#/europe">the European cups</a> tie together. A 100-point gap makes the stronger side about a 64% favourite on neutral ground.</p>
     <div class="card"><div class="tabs"><button data-d="top" class="${division === 'top' ? 'on' : ''}">${esc(l.name)}</button><button data-d="second" class="${division === 'second' ? 'on' : ''}">${esc(l.second)}</button></div>
     <table><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n">30 days</th><th class="hide-s">Last 20</th><th class="hide-s">Form</th></tr>
     ${rows.map((c) => `<tr><td class="n muted">${c.rank}</td><td>${clubLink(c.slug, c.name)}</td><td class="n"><b>${c.elo}</b></td>
@@ -93,7 +93,7 @@ function ratingChart(h, el) {
     hair.setAttribute('x1', px); hair.setAttribute('x2', px); hair.style.display = ''; dot.setAttribute('cx', px); dot.setAttribute('cy', py); dot.style.display = '';
     tip.textContent = '';
     const bold = document.createElement('b'); bold.textContent = m[1];
-    tip.append(bold, ` · ${fullDate(m[0])}`, document.createElement('br'), `${m[5] === 'h' ? 'v' : 'at'} ${m[2]} ${m[3]}-${m[4]}${m[6] === 'second' ? ` · ${second}` : ''}`);
+    tip.append(bold, ` · ${fullDate(m[0])}`, document.createElement('br'), `${m[5] === 'a' ? 'at' : 'v'} ${m[2]} ${m[3]}-${m[4]}${m[6] === 'second' ? ` · ${second}` : m[6] === 'europe' ? ' · Europe' : ''}`);
     tip.style.display = 'block';
     const sx = (px / W) * box.width, sy = (py / H) * box.height;
     tip.style.left = `${Math.min(box.width - tip.offsetWidth, Math.max(0, sx - tip.offsetWidth / 2))}px`; tip.style.top = `${Math.max(0, sy - tip.offsetHeight - 12)}px`;
@@ -102,6 +102,8 @@ function ratingChart(h, el) {
   svg.addEventListener('pointerleave', () => { hair.style.display = dot.style.display = tip.style.display = 'none'; });
 }
 
+// a match's opponent: a link to its page, in its own league for a European match; clubs from outside the big five have none
+const opponent = (x) => (x[6] !== 'europe' ? clubLink(slugOf(x[2]), x[2]) : x[7] ? `<a href="#/${x[7]}/club/${slugOf(x[2])}">${esc(x[2])}</a>` : esc(x[2]));
 const ordinal = (n) => `${n}${['th', 'st', 'nd', 'rd'][n % 10 > 3 || [11, 12, 13].includes(n % 100) ? 0 : n % 10]}`;
 async function viewClub(slug) {
   const [r, fx] = await Promise.all([get(path('ratings.json')), get(path('fixtures.json'))]);
@@ -111,13 +113,26 @@ async function viewClub(slug) {
   const mine = fx.fixtures.filter((f) => f.home === c.club || f.away === c.club).slice(0, 6);
   const recent = h.slice(-10).reverse();
   $('main').innerHTML = `<h1>${esc(c.name)}</h1>
-    <p class="sub">${now ? `${now.div === 'top' ? esc(l.name) : esc(l.second)} · ${ordinal(now.rank)} of ${r.clubs.filter((x) => x.div === now.div).length}` : `Outside ${esc(l.country)}'s top two divisions this season`} · ${h.length} league matches since ${h[0][0].slice(0, 4)}</p>
+    <p class="sub">${now ? `${now.div === 'top' ? esc(l.name) : esc(l.second)} · ${ordinal(now.rank)} of ${r.clubs.filter((x) => x.div === now.div).length}` : `Outside ${esc(l.country)}'s top two divisions this season`} · ${h.filter((x) => x[6] !== 'europe').length} league matches since ${h[0][0].slice(0, 4)}${h.some((x) => x[6] === 'europe') ? ` and ${h.filter((x) => x[6] === 'europe').length} in Europe` : ''}</p>
     <div class="stats"><div><b>${h.at(-1)[1]}</b>Elo now</div><div><b>${best[1]}</b>Highest · ${best[0].slice(0, 4)}</div><div><b>${worst[1]}</b>Lowest · ${worst[0].slice(0, 4)}</div>${now ? `<div><b class="${now.change30 > 0 ? 'up' : now.change30 < 0 ? 'down' : ''}">${signed(now.change30)}</b>Last 30 days</div>` : ''}</div>
     <div class="card"><h2>Rating since ${h[0][0].slice(0, 4)}</h2><div class="chart" id="chart"></div><p class="small muted" style="margin:8px 0 0">Shaded: seasons in the ${esc(l.second)}.</p></div>
     ${mine.length ? `<div class="card"><h2>Coming up</h2>${fixtureRows(mine)}</div>` : ''}
     <div class="card"><h2>Last 10 matches</h2><table><tr><th>Date</th><th>Opponent</th><th class="n">Score</th><th class="n">Elo after</th><th class="n">Change</th></tr>
-    ${recent.map((x, i) => { const prev = h[h.length - 2 - i]?.[1] ?? x[1], d = x[1] - prev; return `<tr><td class="muted">${fullDate(x[0])}</td><td>${x[5] === 'h' ? '' : '@ '}${clubLink(slugOf(x[2]), x[2])}</td><td class="n">${x[3]}-${x[4]}</td><td class="n">${x[1]}</td><td class="n ${d > 0 ? 'up' : d < 0 ? 'down' : 'muted'}">${signed(d)}</td></tr>`; }).join('')}</table></div>`;
+    ${recent.map((x, i) => { const prev = h[h.length - 2 - i]?.[1] ?? x[1], d = x[1] - prev; return `<tr><td class="muted">${fullDate(x[0])}${x[6] === 'europe' ? ' · Europe' : ''}</td><td>${x[5] === 'a' ? '@ ' : x[5] === 'n' ? 'v ' : ''}${opponent(x)}</td><td class="n">${x[3]}-${x[4]}</td><td class="n">${x[1]}</td><td class="n ${d > 0 ? 'up' : d < 0 ? 'down' : 'muted'}">${signed(d)}</td></tr>`; }).join('')}</table></div>`;
   ratingChart(h, $('chart'));
+}
+
+// the five leagues' top divisions together: one scale, so one table
+async function viewEurope() {
+  const all = await Promise.all(LEAGUES.map((l) => get(`data/${l.id}/ratings.json`).then((r) => r.clubs.filter((c) => c.div === 'top').map((c) => ({ ...c, league: l.id, leagueName: l.name })))));
+  const clubs = all.flat().sort((a, b) => b.elo - a.elo), eu = await get('data/europe.json');
+  const avg = LEAGUES.map((l, i) => [l, Math.round(all[i].reduce((t, c) => t + c.elo, 0) / all[i].length)]).sort((a, b) => b[1] - a[1]);
+  $('main').innerHTML = `<h1>Europe's big five</h1>
+    <p class="sub">Every top-division club of the five leagues on one scale. What sets one country against another is the ${eu.matches.toLocaleString()} European cup matches since ${eu.from.slice(0, 4)} (Champions League; Europa and Conference League from 2020): each result moves the clubs that played and, a little, their whole league.</p>
+    <div class="card"><h2>League strength</h2><table><tr><th>League</th><th class="n">Average top-division Elo</th></tr>${avg.map(([l, a]) => `<tr><td><a href="${home(l.id)}">${esc(l.name)}</a></td><td class="n"><b>${a}</b></td></tr>`).join('')}</table></div>
+    <div class="card"><table><tr><th class="n">#</th><th>Club</th><th class="hide-s">League</th><th class="n">Elo</th><th class="n">30 days</th><th class="hide-s">Last 20</th></tr>
+    ${clubs.map((c, i) => `<tr><td class="n muted">${i + 1}</td><td><a href="#/${c.league}/club/${c.slug}">${esc(c.name)}</a></td><td class="hide-s muted">${esc(c.leagueName)}</td><td class="n"><b>${c.elo}</b></td>
+      <td class="n ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-s">${spark(c.spark)}</td></tr>`).join('')}</table></div>`;
 }
 
 async function viewMethod() {
@@ -125,10 +140,11 @@ async function viewMethod() {
   const b = all.find((x) => x.id === league) ?? all[0], p = b.params;
   const row = (s) => `<tr><td>${s.season}</td><td class="n">${s.withOdds}</td><td class="n">${s.model.logloss.toFixed(3)}</td><td class="n">${s.market?.logloss.toFixed(3) ?? '–'}</td><td class="n hide-s">${s.model.rps.toFixed(4)}</td><td class="n hide-s">${s.market?.rps.toFixed(4) ?? '–'}</td><td class="n hide-s">${s.baseline.logloss.toFixed(3)}</td></tr>`;
   $('main').innerHTML = `<div class="prose"><h1>Method</h1>
-    <p>Each country is one Elo pool of its top two divisions, run over every league match since 1993. After each match both clubs move by <code>K × margin × (result − expected)</code>: the result is 1, ½ or 0, the expected score is <code>1 / (1 + 10<sup>−gap/400</sup>)</code>, and the home side's gap includes a home advantage (a separate one for the matches played without crowds, May 2020 to May 2021). A bigger win counts for more.</p>
+    <p>Each league runs its top two divisions, every match since 1993. After each match both clubs move by <code>K × margin × (result − expected)</code>: the result is 1, ½ or 0, the expected score is <code>1 / (1 + 10<sup>−gap/400</sup>)</code>, and the home side's gap includes a home advantage (a separate one for the matches played without crowds, May 2020 to May 2021). A bigger win counts for more.</p>
     <p>Between seasons each club is pulled part of the way to its division's average. A club arriving from the third tier, where there are no results here, takes the average rating of the clubs that left the other way. The first season is played through once as a warm-up.</p>
     <p>For a match, the rating gap becomes expected goals: <code>μ/2 · e<sup>±gap/c</sup></code> each, μ being the league's goals a match, and Poisson scores, with 0-0 and 1-1 made a little likelier. Home, draw and away, the goal lines and the likeliest scores all come from that one grid.</p>
-    <p>Every setting is chosen per league by the backtest: the one that predicted best, judged by log loss. Ratings compare clubs within a country: without European cup results nothing ties one country's pool to another's. More in the <a href="https://github.com/football-schema/premelo#readme">README</a>.</p></div>
+    <p>The five leagues are one pool. The European cups (the Champions League since 2011-12, the Europa and Conference Leagues since 2020-21, from openfootball) are the only matches between countries: each moves the two clubs, with its own K and home advantage (none in a final), and moves both whole leagues a little too, since only the clubs at the top ever play in Europe. The same rating gap means the same chances in every league.</p>
+    <p>Every league's settings are chosen by the backtest on its own matches, and the European ones on the European matches: whatever predicted best, judged by log loss. More in the <a href="https://github.com/football-schema/premelo#readme">README</a>.</p></div>
     <div class="card"><h2>Five leagues against their bookmakers</h2><p class="small muted" style="margin:0 0 10px">Every top-division match from 2000-01, predicted from the ratings before it, next to the bookmakers' prices with their margin taken out. Lower is better.</p>
     <table><tr><th>League</th><th class="n">Matches</th><th class="n">premelo</th><th class="n">Bookmakers</th><th class="n hide-s">RPS</th><th class="n hide-s">RPS bookmakers</th><th class="n hide-s">K · home</th></tr>
     ${all.map((x) => `<tr><td><a href="#/method/${x.id}">${esc(x.league)}</a></td><td class="n">${x.all.matches.toLocaleString()}</td><td class="n">${x.all.model.logloss.toFixed(3)}</td><td class="n">${x.all.market.logloss.toFixed(3)}</td><td class="n hide-s">${x.all.model.rps.toFixed(4)}</td><td class="n hide-s">${x.all.market.rps.toFixed(4)}</td><td class="n hide-s">${x.params.elo.k} · ${x.params.elo.hfa}</td></tr>`).join('')}</table></div>
@@ -142,7 +158,7 @@ async function viewMethod() {
 }
 
 function nav(page) {
-  $('leagues').innerHTML = LEAGUES.map((l) => `<a href="${page === 'method' ? `#/method/${l.id}` : page === 'fixtures' ? `#/${l.id}/fixtures` : home(l.id)}" class="${l.id === league ? 'on' : ''}">${esc(l.name)}</a>`).join('');
+  $('leagues').innerHTML = `<a href="#/europe" class="${page === 'europe' ? 'on' : ''}">Europe</a>` + LEAGUES.map((l) => `<a href="${page === 'method' ? `#/method/${l.id}` : page === 'fixtures' ? `#/${l.id}/fixtures` : home(l.id)}" class="${l.id === league && page !== 'europe' ? 'on' : ''}">${esc(l.name)}</a>`).join('');
   $('nav').innerHTML = `<a href="${home()}" class="${page === 'table' || page === 'club' ? 'on' : ''}">Table</a><a href="#/${league}/fixtures" class="${page === 'fixtures' ? 'on' : ''}">Fixtures</a><a href="#/method/${league}" class="${page === 'method' ? 'on' : ''}">Method</a>`;
 }
 
@@ -150,6 +166,7 @@ async function route() {
   if (!LEAGUES.length) LEAGUES = (await get('data/leagues.json')).leagues;
   let parts = (location.hash || '#/').slice(2).split('/').filter(Boolean);
   if (parts[0] === 'method') { league = LEAGUES.some((l) => l.id === parts[1]) ? parts[1] : league; parts = ['method']; }
+  else if (parts[0] === 'europe') parts = ['europe'];
   else if (LEAGUES.some((l) => l.id === parts[0])) league = parts.shift();
   else league = 'pl';
   const [page = 'table', arg] = parts;
@@ -158,6 +175,7 @@ async function route() {
   try {
     if (page === 'fixtures') await viewFixtures();
     else if (page === 'method') await viewMethod();
+    else if (page === 'europe') await viewEurope();
     else if (page === 'club' && arg) await viewClub(arg);
     else await viewTable();
   } catch (e) { $('main').innerHTML = `<p class="pad muted">Couldn't load: ${esc(e.message)}</p>`; }

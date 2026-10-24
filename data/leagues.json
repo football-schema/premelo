@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:17:06.865Z",
+ "updated": "2026-10-24T07:41:37.624Z",
  "leagues": [
   {
    "id": "pl",
@@ -9,16 +9,16 @@
    "through": "2026-10-23",
    "top": [
     [
+     "Arsenal",
+     2012
+    ],
+    [
      "Manchester City",
      1922
     ],
     [
-     "Arsenal",
-     1904
-    ],
-    [
-     "Liverpool",
-     1804
+     "Brighton & Hove Albion",
+     1840
     ]
    ]
   },
@@ -31,15 +31,15 @@
    "top": [
     [
      "Barcelona",
-     1759
+     1925
     ],
     [
      "Real Madrid",
-     1717
+     1896
     ],
     [
      "Atlético Madrid",
-     1652
+     1822
     ]
    ]
   },
@@ -52,15 +52,15 @@
    "top": [
     [
      "Bayern Munich",
-     1907
+     1985
     ],
     [
      "Borussia Dortmund",
-     1791
+     1787
     ],
     [
      "Bayer Leverkusen",
-     1773
+     1767
     ]
    ]
   },
@@ -73,15 +73,15 @@
    "top": [
     [
      "Inter",
-     1970
+     1878
     ],
     [
      "AS Roma",
-     1848
+     1809
     ],
     [
-     "Napoli",
-     1807
+     "AC Milan",
+     1746
     ]
    ]
   },
@@ -94,15 +94,15 @@
    "top": [
     [
      "Paris Saint-Germain",
-     1819
+     2020
     ],
     [
-     "Lens",
-     1718
+     "Lille",
+     1750
     ],
     [
      "Olympique Lyonnais",
-     1715
+     1742
     ]
    ]
   }

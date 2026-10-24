@@ -1,7 +1,8 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { parseCsv, isoDate, matches, oddsOf, toCsv, fromCsv } from '../lib/results.mjs';
-import { run, marginFactor, expectedScore } from '../lib/elo.mjs';
+import { run, runAll, marginFactor, expectedScore } from '../lib/elo.mjs';
+import { parse as parseEurope, score as score90 } from '../lib/europe.mjs';
 import { markets, table } from '../lib/goals.mjs';
 import { seasons, currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
 import { slug, canonical } from '../lib/teams.mjs';
@@ -92,4 +93,41 @@ test('a country whose second division starts later still rates the clubs coming 
   let novo = null;
   run(list, { regress: 0 }, { divs: ['I1', 'I2'], each: (m, x) => { if (m.away === 'Novo') novo = x.away; } });
   assert.ok(Number.isFinite(novo) && novo < 1600, 'Novo takes the relegated Bari\'s rating');
+});
+
+test('European cup results: 90-minute scores, years across the new year, finals at neutral grounds, clubs under football-data names', () => {
+  assert.deepEqual(score90('2-1 (1-0)'), [2, 1]); assert.deepEqual(score90('3-2 pen. 1-1 a.e.t. (1-1, 0-0)'), [1, 1]); assert.deepEqual(score90('2-3 a.e.t. (1-1, 0-1)'), [1, 1]);
+  const txt = `= UEFA Champions League 2019/20
+
+▪ Group A
+  Wed Sep 18 2019
+    21:00  FC Barcelona (ESP)      v SSC Napoli (ITA)         2-1 (1-0)
+▪ Group B
+  Tue Sep 17
+    21:00  FK Crvena Zvezda (SRB)  v FC Bayern München (GER)  0-3
+▪ Round of 16
+  Tue Feb 25
+    21:00  Chelsea FC (ENG)        v Bayern München (GER)     0-3 (0-0)
+▪ Final
+  Sun Aug 23
+    21:00  Paris Saint-Germain (FRA) v Bayern München (GER)   0-1 (0-0)
+`;
+  const ms = parseEurope(txt, '2019-20', 'cl');
+  assert.deepEqual(ms.map((m) => m.date), ['2019-09-18', '2019-09-17', '2020-02-25', '2020-08-23']);
+  assert.deepEqual(ms.map((m) => m.neutral), [false, false, false, true]);
+  assert.deepEqual([ms[0].home, ms[0].away, ms[1].home, ms[1].away, ms[3].home], ['Barcelona', 'Napoli', 'FK Crvena Zvezda (SRB)', 'Bayern Munich', 'Paris SG']);
+});
+
+test('a European win lifts the winner\'s whole league a little and leaves every gap inside it as it was', () => {
+  const g = (date, div, home, away, hg, ag) => ({ season: '1112', date, div, home, away, hg, ag });
+  const leagues = {
+    a: { list: [g('2011-08-20', 'A1', 'A', 'B', 1, 1)], params: { k: 20 }, divs: ['A1', 'A2'] },
+    b: { list: [g('2011-08-20', 'B1', 'C', 'D', 1, 1)], params: { k: 20 }, divs: ['B1', 'B2'] },
+  };
+  const eu = { list: [{ date: '2011-09-14', season: '1112', div: 'EU', home: 'A', away: 'C', hg: 3, ag: 0 }], params: { k: 20, kLeague: 5, hfa: 0 } };
+  const { ratings: R0 } = runAll(leagues, null);
+  const { ratings: R } = runAll(leagues, eu);
+  assert.ok(R.get('B') > R0.get('B') && R.get('D') < R0.get('D'), 'B and D moved with their leagues');
+  assert.ok(Math.abs((R.get('B') - R0.get('B')) + (R.get('D') - R0.get('D'))) < 1e-9, 'what one league gains the other loses');
+  assert.ok(R.get('A') - R.get('B') > R0.get('A') - R0.get('B'), 'A gained on B too: it won');
 });

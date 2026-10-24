@@ -1,0 +1,3389 @@
+date,season,div,home,away,hg,ag
+2011-09-13,1112,EU,APOEL Nikosia (CYP),Zenit St. Petersburg (RUS),2,1
+2011-09-13,1112,EU,Barcelona,Milan,2,2
+2011-09-13,1112,EU,Chelsea,Leverkusen,2,0
+2011-09-13,1112,EU,Dortmund,Arsenal,1,1
+2011-09-13,1112,EU,FC Porto (POR),Shakhtar Donetsk (UKR),2,1
+2011-09-13,1112,EU,KRC Genk (BEL),Valencia,0,0
+2011-09-13,1112,EU,Olympiakos Piraeus (GRE),Marseille,0,1
+2011-09-13,1112,EU,Viktoria Plzeň (CZE),BATE Borisov (BLR),1,1
+2011-09-14,1112,EU,AFC Ajax (NED),Lyon,0,0
+2011-09-14,1112,EU,Dinamo Zagreb (CRO),Real Madrid,0,1
+2011-09-14,1112,EU,FC Basel 1893 (SUI),Oţelul Galaţi (ROU),2,1
+2011-09-14,1112,EU,Inter,Trabzonspor (TUR),0,1
+2011-09-14,1112,EU,Lille,CSKA Moskva (RUS),2,2
+2011-09-14,1112,EU,Man City,Napoli,1,1
+2011-09-14,1112,EU,SL Benfica (POR),Man United,1,1
+2011-09-14,1112,EU,Villarreal,Bayern Munich,0,2
+2011-09-27,1112,EU,Bayern Munich,Man City,2,0
+2011-09-27,1112,EU,CSKA Moskva (RUS),Inter,2,3
+2011-09-27,1112,EU,Lyon,Dinamo Zagreb (CRO),2,0
+2011-09-27,1112,EU,Man United,FC Basel 1893 (SUI),3,3
+2011-09-27,1112,EU,Napoli,Villarreal,2,0
+2011-09-27,1112,EU,Oţelul Galaţi (ROU),SL Benfica (POR),0,1
+2011-09-27,1112,EU,Real Madrid,AFC Ajax (NED),3,0
+2011-09-27,1112,EU,Trabzonspor (TUR),Lille,1,1
+2011-09-28,1112,EU,Arsenal,Olympiakos Piraeus (GRE),2,1
+2011-09-28,1112,EU,BATE Borisov (BLR),Barcelona,0,5
+2011-09-28,1112,EU,Leverkusen,KRC Genk (BEL),2,0
+2011-09-28,1112,EU,Marseille,Dortmund,3,0
+2011-09-28,1112,EU,Milan,Viktoria Plzeň (CZE),2,0
+2011-09-28,1112,EU,Shakhtar Donetsk (UKR),APOEL Nikosia (CYP),1,1
+2011-09-28,1112,EU,Valencia,Chelsea,1,1
+2011-09-28,1112,EU,Zenit St. Petersburg (RUS),FC Porto (POR),3,1
+2011-10-18,1112,EU,CSKA Moskva (RUS),Trabzonspor (TUR),3,0
+2011-10-18,1112,EU,Dinamo Zagreb (CRO),AFC Ajax (NED),0,2
+2011-10-18,1112,EU,FC Basel 1893 (SUI),SL Benfica (POR),0,2
+2011-10-18,1112,EU,Lille,Inter,0,1
+2011-10-18,1112,EU,Man City,Villarreal,2,1
+2011-10-18,1112,EU,Napoli,Bayern Munich,1,1
+2011-10-18,1112,EU,Oţelul Galaţi (ROU),Man United,0,2
+2011-10-18,1112,EU,Real Madrid,Lyon,4,0
+2011-10-19,1112,EU,Barcelona,Viktoria Plzeň (CZE),2,0
+2011-10-19,1112,EU,Chelsea,KRC Genk (BEL),5,0
+2011-10-19,1112,EU,FC Porto (POR),APOEL Nikosia (CYP),1,1
+2011-10-19,1112,EU,Leverkusen,Valencia,2,1
+2011-10-19,1112,EU,Marseille,Arsenal,0,1
+2011-10-19,1112,EU,Milan,BATE Borisov (BLR),2,0
+2011-10-19,1112,EU,Olympiakos Piraeus (GRE),Dortmund,3,1
+2011-10-19,1112,EU,Shakhtar Donetsk (UKR),Zenit St. Petersburg (RUS),2,2
+2011-11-01,1112,EU,APOEL Nikosia (CYP),FC Porto (POR),2,1
+2011-11-01,1112,EU,Arsenal,Marseille,0,0
+2011-11-01,1112,EU,BATE Borisov (BLR),Milan,1,1
+2011-11-01,1112,EU,Dortmund,Olympiakos Piraeus (GRE),1,0
+2011-11-01,1112,EU,KRC Genk (BEL),Chelsea,1,1
+2011-11-01,1112,EU,Valencia,Leverkusen,3,1
+2011-11-01,1112,EU,Viktoria Plzeň (CZE),Barcelona,0,4
+2011-11-01,1112,EU,Zenit St. Petersburg (RUS),Shakhtar Donetsk (UKR),1,0
+2011-11-02,1112,EU,AFC Ajax (NED),Dinamo Zagreb (CRO),4,0
+2011-11-02,1112,EU,Bayern Munich,Napoli,3,2
+2011-11-02,1112,EU,Inter,Lille,2,1
+2011-11-02,1112,EU,Lyon,Real Madrid,0,2
+2011-11-02,1112,EU,Man United,Oţelul Galaţi (ROU),2,0
+2011-11-02,1112,EU,SL Benfica (POR),FC Basel 1893 (SUI),1,1
+2011-11-02,1112,EU,Trabzonspor (TUR),CSKA Moskva (RUS),0,0
+2011-11-02,1112,EU,Villarreal,Man City,0,3
+2011-11-22,1112,EU,Bayern Munich,Villarreal,3,1
+2011-11-22,1112,EU,CSKA Moskva (RUS),Lille,0,2
+2011-11-22,1112,EU,Lyon,AFC Ajax (NED),0,0
+2011-11-22,1112,EU,Man United,SL Benfica (POR),2,2
+2011-11-22,1112,EU,Napoli,Man City,2,1
+2011-11-22,1112,EU,Oţelul Galaţi (ROU),FC Basel 1893 (SUI),2,3
+2011-11-22,1112,EU,Real Madrid,Dinamo Zagreb (CRO),6,2
+2011-11-22,1112,EU,Trabzonspor (TUR),Inter,1,1
+2011-11-23,1112,EU,Arsenal,Dortmund,2,1
+2011-11-23,1112,EU,BATE Borisov (BLR),Viktoria Plzeň (CZE),0,1
+2011-11-23,1112,EU,Leverkusen,Chelsea,2,1
+2011-11-23,1112,EU,Marseille,Olympiakos Piraeus (GRE),0,1
+2011-11-23,1112,EU,Milan,Barcelona,2,3
+2011-11-23,1112,EU,Shakhtar Donetsk (UKR),FC Porto (POR),0,2
+2011-11-23,1112,EU,Valencia,KRC Genk (BEL),7,0
+2011-11-23,1112,EU,Zenit St. Petersburg (RUS),APOEL Nikosia (CYP),0,0
+2011-12-06,1112,EU,APOEL Nikosia (CYP),Shakhtar Donetsk (UKR),0,2
+2011-12-06,1112,EU,Barcelona,BATE Borisov (BLR),4,0
+2011-12-06,1112,EU,Chelsea,Valencia,3,0
+2011-12-06,1112,EU,Dortmund,Marseille,2,3
+2011-12-06,1112,EU,FC Porto (POR),Zenit St. Petersburg (RUS),0,0
+2011-12-06,1112,EU,KRC Genk (BEL),Leverkusen,1,1
+2011-12-06,1112,EU,Olympiakos Piraeus (GRE),Arsenal,3,1
+2011-12-06,1112,EU,Viktoria Plzeň (CZE),Milan,2,2
+2011-12-07,1112,EU,AFC Ajax (NED),Real Madrid,0,3
+2011-12-07,1112,EU,Dinamo Zagreb (CRO),Lyon,1,7
+2011-12-07,1112,EU,FC Basel 1893 (SUI),Man United,2,1
+2011-12-07,1112,EU,Inter,CSKA Moskva (RUS),1,2
+2011-12-07,1112,EU,Lille,Trabzonspor (TUR),0,0
+2011-12-07,1112,EU,Man City,Bayern Munich,2,0
+2011-12-07,1112,EU,SL Benfica (POR),Oţelul Galaţi (ROU),1,0
+2011-12-07,1112,EU,Villarreal,Napoli,0,2
+2012-02-14,1112,EU,Leverkusen,Barcelona,1,3
+2012-02-14,1112,EU,Lyon,APOEL Nikosia (CYP),1,0
+2012-02-15,1112,EU,Milan,Arsenal,4,0
+2012-02-15,1112,EU,Zenit St. Petersburg (RUS),SL Benfica (POR),3,2
+2012-02-21,1112,EU,CSKA Moskva (RUS),Real Madrid,1,1
+2012-02-21,1112,EU,Napoli,Chelsea,3,1
+2012-02-22,1112,EU,FC Basel 1893 (SUI),Bayern Munich,1,0
+2012-02-22,1112,EU,Marseille,Inter,1,0
+2012-03-06,1112,EU,Arsenal,Milan,3,0
+2012-03-06,1112,EU,SL Benfica (POR),Zenit St. Petersburg (RUS),2,0
+2012-03-07,1112,EU,APOEL Nikosia (CYP),Lyon,1,0
+2012-03-07,1112,EU,Barcelona,Leverkusen,7,1
+2012-03-13,1112,EU,Bayern Munich,FC Basel 1893 (SUI),7,0
+2012-03-13,1112,EU,Inter,Marseille,2,1
+2012-03-14,1112,EU,Chelsea,Napoli,3,1
+2012-03-14,1112,EU,Real Madrid,CSKA Moskva (RUS),4,1
+2012-03-27,1112,EU,APOEL Nikosia (CYP),Real Madrid,0,3
+2012-03-27,1112,EU,SL Benfica (POR),Chelsea,0,1
+2012-03-28,1112,EU,Marseille,Bayern Munich,0,2
+2012-03-28,1112,EU,Milan,Barcelona,0,0
+2012-04-03,1112,EU,Barcelona,Milan,3,1
+2012-04-03,1112,EU,Bayern Munich,Marseille,2,0
+2012-04-04,1112,EU,Chelsea,SL Benfica (POR),2,1
+2012-04-04,1112,EU,Real Madrid,APOEL Nikosia (CYP),5,2
+2012-04-17,1112,EU,Bayern Munich,Real Madrid,2,1
+2012-04-18,1112,EU,Chelsea,Barcelona,1,0
+2012-04-24,1112,EU,Barcelona,Chelsea,2,2
+2012-04-25,1112,EU,Real Madrid,Bayern Munich,2,1
+2012-05-19,1112,EUN,Bayern Munich,Chelsea,1,1
+2012-09-18,1213,EU,Dinamo Zagreb (CRO),FC Porto (POR),0,2
+2012-09-18,1213,EU,Dortmund,AFC Ajax (NED),1,0
+2012-09-18,1213,EU,Malaga,Zenit St. Petersburg (RUS),3,0
+2012-09-18,1213,EU,Milan,RSC Anderlecht (BEL),0,0
+2012-09-18,1213,EU,Montpellier,Arsenal,1,2
+2012-09-18,1213,EU,Olympiakos Piraeus (GRE),Schalke 04,1,2
+2012-09-18,1213,EU,Paris SG,Dinamo Kiev (UKR),4,1
+2012-09-18,1213,EU,Real Madrid,Man City,3,2
+2012-09-19,1213,EU,Barcelona,Spartak Moskva (RUS),3,2
+2012-09-19,1213,EU,Bayern Munich,Valencia,2,1
+2012-09-19,1213,EU,Celtic FC (SCO),SL Benfica (POR),0,0
+2012-09-19,1213,EU,Chelsea,Juventus,2,2
+2012-09-19,1213,EU,Lille,BATE Borisov (BLR),1,3
+2012-09-19,1213,EU,Man United,Galatasaray (TUR),1,0
+2012-09-19,1213,EU,Shakhtar Donetsk (UKR),FC Nordsjælland (DEN),2,0
+2012-09-19,1213,EU,Sporting Braga (POR),CFR Cluj (ROU),0,2
+2012-10-02,1213,EU,BATE Borisov (BLR),Bayern Munich,3,1
+2012-10-02,1213,EU,CFR Cluj (ROU),Man United,1,2
+2012-10-02,1213,EU,FC Nordsjælland (DEN),Chelsea,0,4
+2012-10-02,1213,EU,Galatasaray (TUR),Sporting Braga (POR),0,2
+2012-10-02,1213,EU,Juventus,Shakhtar Donetsk (UKR),1,1
+2012-10-02,1213,EU,SL Benfica (POR),Barcelona,0,2
+2012-10-02,1213,EU,Spartak Moskva (RUS),Celtic FC (SCO),2,3
+2012-10-02,1213,EU,Valencia,Lille,2,0
+2012-10-03,1213,EU,AFC Ajax (NED),Real Madrid,1,4
+2012-10-03,1213,EU,Arsenal,Olympiakos Piraeus (GRE),3,1
+2012-10-03,1213,EU,Dinamo Kiev (UKR),Dinamo Zagreb (CRO),2,0
+2012-10-03,1213,EU,FC Porto (POR),Paris SG,1,0
+2012-10-03,1213,EU,Man City,Dortmund,1,1
+2012-10-03,1213,EU,RSC Anderlecht (BEL),Malaga,0,3
+2012-10-03,1213,EU,Schalke 04,Montpellier,2,2
+2012-10-03,1213,EU,Zenit St. Petersburg (RUS),Milan,2,3
+2012-10-23,1213,EU,Barcelona,Celtic FC (SCO),2,1
+2012-10-23,1213,EU,BATE Borisov (BLR),Valencia,0,3
+2012-10-23,1213,EU,FC Nordsjælland (DEN),Juventus,1,1
+2012-10-23,1213,EU,Galatasaray (TUR),CFR Cluj (ROU),1,1
+2012-10-23,1213,EU,Lille,Bayern Munich,0,1
+2012-10-23,1213,EU,Man United,Sporting Braga (POR),3,2
+2012-10-23,1213,EU,Shakhtar Donetsk (UKR),Chelsea,2,1
+2012-10-23,1213,EU,Spartak Moskva (RUS),SL Benfica (POR),2,1
+2012-10-24,1213,EU,AFC Ajax (NED),Man City,3,1
+2012-10-24,1213,EU,Arsenal,Schalke 04,0,2
+2012-10-24,1213,EU,Dinamo Zagreb (CRO),Paris SG,0,2
+2012-10-24,1213,EU,Dortmund,Real Madrid,2,1
+2012-10-24,1213,EU,FC Porto (POR),Dinamo Kiev (UKR),3,2
+2012-10-24,1213,EU,Malaga,Milan,1,0
+2012-10-24,1213,EU,Montpellier,Olympiakos Piraeus (GRE),1,2
+2012-10-24,1213,EU,Zenit St. Petersburg (RUS),RSC Anderlecht (BEL),1,0
+2012-11-06,1213,EU,Dinamo Kiev (UKR),FC Porto (POR),0,0
+2012-11-06,1213,EU,Man City,AFC Ajax (NED),2,2
+2012-11-06,1213,EU,Milan,Malaga,1,1
+2012-11-06,1213,EU,Olympiakos Piraeus (GRE),Montpellier,3,1
+2012-11-06,1213,EU,Paris SG,Dinamo Zagreb (CRO),4,0
+2012-11-06,1213,EU,Real Madrid,Dortmund,2,2
+2012-11-06,1213,EU,RSC Anderlecht (BEL),Zenit St. Petersburg (RUS),1,0
+2012-11-06,1213,EU,Schalke 04,Arsenal,2,2
+2012-11-07,1213,EU,Bayern Munich,Lille,6,1
+2012-11-07,1213,EU,Celtic FC (SCO),Barcelona,2,1
+2012-11-07,1213,EU,CFR Cluj (ROU),Galatasaray (TUR),1,3
+2012-11-07,1213,EU,Chelsea,Shakhtar Donetsk (UKR),3,2
+2012-11-07,1213,EU,Juventus,FC Nordsjælland (DEN),4,0
+2012-11-07,1213,EU,SL Benfica (POR),Spartak Moskva (RUS),2,0
+2012-11-07,1213,EU,Sporting Braga (POR),Man United,1,3
+2012-11-07,1213,EU,Valencia,BATE Borisov (BLR),4,2
+2012-11-20,1213,EU,BATE Borisov (BLR),Lille,0,2
+2012-11-20,1213,EU,CFR Cluj (ROU),Sporting Braga (POR),3,1
+2012-11-20,1213,EU,FC Nordsjælland (DEN),Shakhtar Donetsk (UKR),2,5
+2012-11-20,1213,EU,Galatasaray (TUR),Man United,1,0
+2012-11-20,1213,EU,Juventus,Chelsea,3,0
+2012-11-20,1213,EU,SL Benfica (POR),Celtic FC (SCO),2,1
+2012-11-20,1213,EU,Spartak Moskva (RUS),Barcelona,0,3
+2012-11-20,1213,EU,Valencia,Bayern Munich,1,1
+2012-11-21,1213,EU,AFC Ajax (NED),Dortmund,1,4
+2012-11-21,1213,EU,Arsenal,Montpellier,2,0
+2012-11-21,1213,EU,Dinamo Kiev (UKR),Paris SG,0,2
+2012-11-21,1213,EU,FC Porto (POR),Dinamo Zagreb (CRO),3,0
+2012-11-21,1213,EU,Man City,Real Madrid,1,1
+2012-11-21,1213,EU,RSC Anderlecht (BEL),Milan,1,3
+2012-11-21,1213,EU,Schalke 04,Olympiakos Piraeus (GRE),1,0
+2012-11-21,1213,EU,Zenit St. Petersburg (RUS),Malaga,2,2
+2012-12-04,1213,EU,Dinamo Zagreb (CRO),Dinamo Kiev (UKR),1,1
+2012-12-04,1213,EU,Dortmund,Man City,1,0
+2012-12-04,1213,EU,Malaga,RSC Anderlecht (BEL),2,2
+2012-12-04,1213,EU,Milan,Zenit St. Petersburg (RUS),0,1
+2012-12-04,1213,EU,Montpellier,Schalke 04,1,1
+2012-12-04,1213,EU,Olympiakos Piraeus (GRE),Arsenal,2,1
+2012-12-04,1213,EU,Paris SG,FC Porto (POR),2,1
+2012-12-04,1213,EU,Real Madrid,AFC Ajax (NED),4,1
+2012-12-05,1213,EU,Barcelona,SL Benfica (POR),0,0
+2012-12-05,1213,EU,Bayern Munich,BATE Borisov (BLR),4,1
+2012-12-05,1213,EU,Celtic FC (SCO),Spartak Moskva (RUS),2,1
+2012-12-05,1213,EU,Chelsea,FC Nordsjælland (DEN),6,1
+2012-12-05,1213,EU,Lille,Valencia,0,1
+2012-12-05,1213,EU,Man United,CFR Cluj (ROU),0,1
+2012-12-05,1213,EU,Shakhtar Donetsk (UKR),Juventus,0,1
+2012-12-05,1213,EU,Sporting Braga (POR),Galatasaray (TUR),1,2
+2013-02-12,1213,EU,Celtic FC (SCO),Juventus,0,3
+2013-02-12,1213,EU,Valencia,Paris SG,1,2
+2013-02-13,1213,EU,Real Madrid,Man United,1,1
+2013-02-13,1213,EU,Shakhtar Donetsk (UKR),Dortmund,2,2
+2013-02-19,1213,EU,Arsenal,Bayern Munich,1,3
+2013-02-19,1213,EU,FC Porto (POR),Malaga,1,0
+2013-02-20,1213,EU,Galatasaray (TUR),Schalke 04,1,1
+2013-02-20,1213,EU,Milan,Barcelona,2,0
+2013-03-05,1213,EU,Dortmund,Shakhtar Donetsk (UKR),3,0
+2013-03-05,1213,EU,Man United,Real Madrid,1,2
+2013-03-06,1213,EU,Juventus,Celtic FC (SCO),2,0
+2013-03-06,1213,EU,Paris SG,Valencia,1,1
+2013-03-12,1213,EU,Barcelona,Milan,4,0
+2013-03-12,1213,EU,Schalke 04,Galatasaray (TUR),2,3
+2013-03-13,1213,EU,Bayern Munich,Arsenal,0,2
+2013-03-13,1213,EU,Malaga,FC Porto (POR),2,0
+2013-04-02,1213,EU,Bayern Munich,Juventus,2,0
+2013-04-02,1213,EU,Paris SG,Barcelona,2,2
+2013-04-03,1213,EU,Malaga,Dortmund,0,0
+2013-04-03,1213,EU,Real Madrid,Galatasaray (TUR),3,0
+2013-04-09,1213,EU,Dortmund,Malaga,3,2
+2013-04-09,1213,EU,Galatasaray (TUR),Real Madrid,3,2
+2013-04-10,1213,EU,Barcelona,Paris SG,1,1
+2013-04-10,1213,EU,Juventus,Bayern Munich,0,2
+2013-04-23,1213,EU,Bayern Munich,Barcelona,4,0
+2013-04-24,1213,EU,Dortmund,Real Madrid,4,1
+2013-04-30,1213,EU,Real Madrid,Dortmund,2,0
+2013-05-01,1213,EU,Barcelona,Bayern Munich,0,3
+2013-05-25,1213,EUN,Dortmund,Bayern Munich,1,2
+2013-09-17,1314,EU,Bayern Munich,CSKA Moskva (RUS),3,0
+2013-09-17,1314,EU,FC København (DEN),Juventus,1,1
+2013-09-17,1314,EU,Galatasaray (TUR),Real Madrid,1,6
+2013-09-17,1314,EU,Man United,Leverkusen,4,2
+2013-09-17,1314,EU,Olympiakos Piraeus (GRE),Paris SG,1,4
+2013-09-17,1314,EU,SL Benfica (POR),RSC Anderlecht (BEL),2,0
+2013-09-17,1314,EU,Sociedad,Shakhtar Donetsk (UKR),0,2
+2013-09-17,1314,EU,Viktoria Plzeň (CZE),Man City,0,3
+2013-09-18,1314,EU,Ath Madrid,Zenit St. Petersburg (RUS),3,1
+2013-09-18,1314,EU,Austria Wien (AUT),FC Porto (POR),0,1
+2013-09-18,1314,EU,Barcelona,AFC Ajax (NED),4,0
+2013-09-18,1314,EU,Chelsea,FC Basel 1893 (SUI),1,2
+2013-09-18,1314,EU,Marseille,Arsenal,1,2
+2013-09-18,1314,EU,Milan,Celtic FC (SCO),2,0
+2013-09-18,1314,EU,Napoli,Dortmund,2,1
+2013-09-18,1314,EU,Schalke 04,FC Steaua Bucureşti (ROU),3,0
+2013-10-01,1314,EU,AFC Ajax (NED),Milan,1,1
+2013-10-01,1314,EU,Arsenal,Napoli,2,0
+2013-10-01,1314,EU,Celtic FC (SCO),Barcelona,0,1
+2013-10-01,1314,EU,Dortmund,Marseille,3,0
+2013-10-01,1314,EU,FC Basel 1893 (SUI),Schalke 04,0,1
+2013-10-01,1314,EU,FC Porto (POR),Ath Madrid,1,2
+2013-10-01,1314,EU,FC Steaua Bucureşti (ROU),Chelsea,0,4
+2013-10-01,1314,EU,Zenit St. Petersburg (RUS),Austria Wien (AUT),0,0
+2013-10-02,1314,EU,CSKA Moskva (RUS),Viktoria Plzeň (CZE),3,2
+2013-10-02,1314,EU,Juventus,Galatasaray (TUR),2,2
+2013-10-02,1314,EU,Leverkusen,Sociedad,2,1
+2013-10-02,1314,EU,Man City,Bayern Munich,1,3
+2013-10-02,1314,EU,Paris SG,SL Benfica (POR),3,0
+2013-10-02,1314,EU,Real Madrid,FC København (DEN),4,0
+2013-10-02,1314,EU,RSC Anderlecht (BEL),Olympiakos Piraeus (GRE),0,3
+2013-10-02,1314,EU,Shakhtar Donetsk (UKR),Man United,1,1
+2013-10-22,1314,EU,Arsenal,Dortmund,1,2
+2013-10-22,1314,EU,Austria Wien (AUT),Ath Madrid,0,3
+2013-10-22,1314,EU,Celtic FC (SCO),AFC Ajax (NED),2,1
+2013-10-22,1314,EU,FC Porto (POR),Zenit St. Petersburg (RUS),0,1
+2013-10-22,1314,EU,FC Steaua Bucureşti (ROU),FC Basel 1893 (SUI),1,1
+2013-10-22,1314,EU,Marseille,Napoli,1,2
+2013-10-22,1314,EU,Milan,Barcelona,1,1
+2013-10-22,1314,EU,Schalke 04,Chelsea,0,3
+2013-10-23,1314,EU,Bayern Munich,Viktoria Plzeň (CZE),5,0
+2013-10-23,1314,EU,CSKA Moskva (RUS),Man City,1,2
+2013-10-23,1314,EU,Galatasaray (TUR),FC København (DEN),3,1
+2013-10-23,1314,EU,Leverkusen,Shakhtar Donetsk (UKR),4,0
+2013-10-23,1314,EU,Man United,Sociedad,1,0
+2013-10-23,1314,EU,Real Madrid,Juventus,2,1
+2013-10-23,1314,EU,RSC Anderlecht (BEL),Paris SG,0,5
+2013-10-23,1314,EU,SL Benfica (POR),Olympiakos Piraeus (GRE),1,1
+2013-11-05,1314,EU,FC København (DEN),Galatasaray (TUR),1,0
+2013-11-05,1314,EU,Juventus,Real Madrid,2,2
+2013-11-05,1314,EU,Man City,CSKA Moskva (RUS),5,2
+2013-11-05,1314,EU,Olympiakos Piraeus (GRE),SL Benfica (POR),1,0
+2013-11-05,1314,EU,Paris SG,RSC Anderlecht (BEL),1,1
+2013-11-05,1314,EU,Shakhtar Donetsk (UKR),Leverkusen,0,0
+2013-11-05,1314,EU,Sociedad,Man United,0,0
+2013-11-05,1314,EU,Viktoria Plzeň (CZE),Bayern Munich,0,1
+2013-11-06,1314,EU,AFC Ajax (NED),Celtic FC (SCO),1,0
+2013-11-06,1314,EU,Ath Madrid,Austria Wien (AUT),4,0
+2013-11-06,1314,EU,Barcelona,Milan,3,1
+2013-11-06,1314,EU,Chelsea,Schalke 04,3,0
+2013-11-06,1314,EU,Dortmund,Arsenal,0,1
+2013-11-06,1314,EU,FC Basel 1893 (SUI),FC Steaua Bucureşti (ROU),1,1
+2013-11-06,1314,EU,Napoli,Marseille,3,2
+2013-11-06,1314,EU,Zenit St. Petersburg (RUS),FC Porto (POR),1,1
+2013-11-26,1314,EU,AFC Ajax (NED),Barcelona,2,1
+2013-11-26,1314,EU,Arsenal,Marseille,2,0
+2013-11-26,1314,EU,Celtic FC (SCO),Milan,0,3
+2013-11-26,1314,EU,Dortmund,Napoli,3,1
+2013-11-26,1314,EU,FC Basel 1893 (SUI),Chelsea,1,0
+2013-11-26,1314,EU,FC Porto (POR),Austria Wien (AUT),1,1
+2013-11-26,1314,EU,FC Steaua Bucureşti (ROU),Schalke 04,0,0
+2013-11-26,1314,EU,Zenit St. Petersburg (RUS),Ath Madrid,1,1
+2013-11-27,1314,EU,CSKA Moskva (RUS),Bayern Munich,1,3
+2013-11-27,1314,EU,Juventus,FC København (DEN),3,1
+2013-11-27,1314,EU,Leverkusen,Man United,0,5
+2013-11-27,1314,EU,Man City,Viktoria Plzeň (CZE),4,2
+2013-11-27,1314,EU,Paris SG,Olympiakos Piraeus (GRE),2,1
+2013-11-27,1314,EU,Real Madrid,Galatasaray (TUR),4,1
+2013-11-27,1314,EU,RSC Anderlecht (BEL),SL Benfica (POR),2,3
+2013-11-27,1314,EU,Shakhtar Donetsk (UKR),Sociedad,4,0
+2013-12-10,1314,EU,Bayern Munich,Man City,2,3
+2013-12-10,1314,EU,FC København (DEN),Real Madrid,0,2
+2013-12-10,1314,EU,Man United,Shakhtar Donetsk (UKR),1,0
+2013-12-10,1314,EU,Olympiakos Piraeus (GRE),RSC Anderlecht (BEL),3,1
+2013-12-10,1314,EU,SL Benfica (POR),Paris SG,2,1
+2013-12-10,1314,EU,Sociedad,Leverkusen,0,1
+2013-12-10,1314,EU,Viktoria Plzeň (CZE),CSKA Moskva (RUS),2,1
+2013-12-11,1314,EU,Ath Madrid,FC Porto (POR),2,0
+2013-12-11,1314,EU,Austria Wien (AUT),Zenit St. Petersburg (RUS),4,1
+2013-12-11,1314,EU,Barcelona,Celtic FC (SCO),6,1
+2013-12-11,1314,EU,Chelsea,FC Steaua Bucureşti (ROU),1,0
+2013-12-11,1314,EU,Galatasaray (TUR),Juventus,1,0
+2013-12-11,1314,EU,Marseille,Dortmund,1,2
+2013-12-11,1314,EU,Milan,AFC Ajax (NED),0,0
+2013-12-11,1314,EU,Napoli,Arsenal,2,0
+2013-12-11,1314,EU,Schalke 04,FC Basel 1893 (SUI),2,0
+2014-02-18,1314,EU,Leverkusen,Paris SG,0,4
+2014-02-18,1314,EU,Man City,Barcelona,0,2
+2014-02-19,1314,EU,Arsenal,Bayern Munich,0,2
+2014-02-19,1314,EU,Milan,Ath Madrid,0,1
+2014-02-25,1314,EU,Olympiakos Piraeus (GRE),Man United,2,0
+2014-02-25,1314,EU,Zenit St. Petersburg (RUS),Dortmund,2,4
+2014-02-26,1314,EU,Galatasaray (TUR),Chelsea,1,1
+2014-02-26,1314,EU,Schalke 04,Real Madrid,1,6
+2014-03-11,1314,EU,Ath Madrid,Milan,4,1
+2014-03-11,1314,EU,Bayern Munich,Arsenal,1,1
+2014-03-12,1314,EU,Barcelona,Man City,2,1
+2014-03-12,1314,EU,Paris SG,Leverkusen,2,1
+2014-03-18,1314,EU,Chelsea,Galatasaray (TUR),2,0
+2014-03-18,1314,EU,Real Madrid,Schalke 04,3,1
+2014-03-19,1314,EU,Dortmund,Zenit St. Petersburg (RUS),1,2
+2014-03-19,1314,EU,Man United,Olympiakos Piraeus (GRE),3,0
+2014-04-01,1314,EU,Barcelona,Ath Madrid,1,1
+2014-04-01,1314,EU,Man United,Bayern Munich,1,1
+2014-04-02,1314,EU,Paris SG,Chelsea,3,1
+2014-04-02,1314,EU,Real Madrid,Dortmund,3,0
+2014-04-08,1314,EU,Chelsea,Paris SG,2,0
+2014-04-08,1314,EU,Dortmund,Real Madrid,2,0
+2014-04-09,1314,EU,Ath Madrid,Barcelona,1,0
+2014-04-09,1314,EU,Bayern Munich,Man United,3,1
+2014-04-22,1314,EU,Ath Madrid,Chelsea,0,0
+2014-04-23,1314,EU,Real Madrid,Bayern Munich,1,0
+2014-04-29,1314,EU,Bayern Munich,Real Madrid,0,4
+2014-04-30,1314,EU,Chelsea,Ath Madrid,1,3
+2014-05-24,1314,EUN,Real Madrid,Ath Madrid,1,1
+2014-09-16,1415,EU,Dortmund,Arsenal,2,0
+2014-09-16,1415,EU,Galatasaray (TUR),RSC Anderlecht (BEL),1,1
+2014-09-16,1415,EU,Juventus,Malmö FF (SWE),2,0
+2014-09-16,1415,EU,Liverpool,PFC Ludogorets Razgrad (BUL),2,1
+2014-09-16,1415,EU,Monaco,Leverkusen,1,0
+2014-09-16,1415,EU,Olympiakos Piraeus (GRE),Ath Madrid,3,2
+2014-09-16,1415,EU,Real Madrid,FC Basel 1893 (SUI),5,1
+2014-09-16,1415,EU,SL Benfica (POR),Zenit St. Petersburg (RUS),0,2
+2014-09-17,1415,EU,AFC Ajax (NED),Paris SG,1,1
+2014-09-17,1415,EU,Ath Bilbao,Shakhtar Donetsk (UKR),0,0
+2014-09-17,1415,EU,Barcelona,APOEL Nikosia (CYP),1,0
+2014-09-17,1415,EU,Bayern Munich,Man City,1,0
+2014-09-17,1415,EU,Chelsea,Schalke 04,1,1
+2014-09-17,1415,EU,FC Porto (POR),BATE Borisov (BLR),6,0
+2014-09-17,1415,EU,NK Maribor (SVN),Sporting CP (POR),1,1
+2014-09-17,1415,EU,Roma,CSKA Moskva (RUS),5,1
+2014-09-30,1415,EU,APOEL Nikosia (CYP),AFC Ajax (NED),1,1
+2014-09-30,1415,EU,BATE Borisov (BLR),Ath Bilbao,2,1
+2014-09-30,1415,EU,CSKA Moskva (RUS),Bayern Munich,0,1
+2014-09-30,1415,EU,Man City,Roma,1,1
+2014-09-30,1415,EU,Paris SG,Barcelona,3,2
+2014-09-30,1415,EU,Schalke 04,NK Maribor (SVN),1,1
+2014-09-30,1415,EU,Shakhtar Donetsk (UKR),FC Porto (POR),2,2
+2014-09-30,1415,EU,Sporting CP (POR),Chelsea,0,1
+2014-10-01,1415,EU,Arsenal,Galatasaray (TUR),4,1
+2014-10-01,1415,EU,Ath Madrid,Juventus,1,0
+2014-10-01,1415,EU,FC Basel 1893 (SUI),Liverpool,1,0
+2014-10-01,1415,EU,Leverkusen,SL Benfica (POR),3,1
+2014-10-01,1415,EU,Malmö FF (SWE),Olympiakos Piraeus (GRE),2,0
+2014-10-01,1415,EU,PFC Ludogorets Razgrad (BUL),Real Madrid,1,2
+2014-10-01,1415,EU,RSC Anderlecht (BEL),Dortmund,0,3
+2014-10-01,1415,EU,Zenit St. Petersburg (RUS),Monaco,0,0
+2014-10-21,1415,EU,APOEL Nikosia (CYP),Paris SG,0,1
+2014-10-21,1415,EU,Barcelona,AFC Ajax (NED),3,1
+2014-10-21,1415,EU,BATE Borisov (BLR),Shakhtar Donetsk (UKR),0,7
+2014-10-21,1415,EU,Chelsea,NK Maribor (SVN),6,0
+2014-10-21,1415,EU,CSKA Moskva (RUS),Man City,2,2
+2014-10-21,1415,EU,FC Porto (POR),Ath Bilbao,2,1
+2014-10-21,1415,EU,Roma,Bayern Munich,1,7
+2014-10-21,1415,EU,Schalke 04,Sporting CP (POR),4,3
+2014-10-22,1415,EU,Ath Madrid,Malmö FF (SWE),5,0
+2014-10-22,1415,EU,Galatasaray (TUR),Dortmund,0,4
+2014-10-22,1415,EU,Leverkusen,Zenit St. Petersburg (RUS),2,0
+2014-10-22,1415,EU,Liverpool,Real Madrid,0,3
+2014-10-22,1415,EU,Monaco,SL Benfica (POR),0,0
+2014-10-22,1415,EU,Olympiakos Piraeus (GRE),Juventus,1,0
+2014-10-22,1415,EU,PFC Ludogorets Razgrad (BUL),FC Basel 1893 (SUI),1,0
+2014-10-22,1415,EU,RSC Anderlecht (BEL),Arsenal,1,2
+2014-11-04,1415,EU,Arsenal,RSC Anderlecht (BEL),3,3
+2014-11-04,1415,EU,Dortmund,Galatasaray (TUR),4,1
+2014-11-04,1415,EU,FC Basel 1893 (SUI),PFC Ludogorets Razgrad (BUL),4,0
+2014-11-04,1415,EU,Juventus,Olympiakos Piraeus (GRE),3,2
+2014-11-04,1415,EU,Malmö FF (SWE),Ath Madrid,0,2
+2014-11-04,1415,EU,Real Madrid,Liverpool,1,0
+2014-11-04,1415,EU,SL Benfica (POR),Monaco,1,0
+2014-11-04,1415,EU,Zenit St. Petersburg (RUS),Leverkusen,1,2
+2014-11-05,1415,EU,AFC Ajax (NED),Barcelona,0,2
+2014-11-05,1415,EU,Ath Bilbao,FC Porto (POR),0,2
+2014-11-05,1415,EU,Bayern Munich,Roma,2,0
+2014-11-05,1415,EU,Man City,CSKA Moskva (RUS),1,2
+2014-11-05,1415,EU,NK Maribor (SVN),Chelsea,1,1
+2014-11-05,1415,EU,Paris SG,APOEL Nikosia (CYP),1,0
+2014-11-05,1415,EU,Shakhtar Donetsk (UKR),BATE Borisov (BLR),5,0
+2014-11-05,1415,EU,Sporting CP (POR),Schalke 04,4,2
+2014-11-25,1415,EU,APOEL Nikosia (CYP),Barcelona,0,4
+2014-11-25,1415,EU,BATE Borisov (BLR),FC Porto (POR),0,3
+2014-11-25,1415,EU,CSKA Moskva (RUS),Roma,1,1
+2014-11-25,1415,EU,Man City,Bayern Munich,3,2
+2014-11-25,1415,EU,Paris SG,AFC Ajax (NED),3,1
+2014-11-25,1415,EU,Schalke 04,Chelsea,0,5
+2014-11-25,1415,EU,Shakhtar Donetsk (UKR),Ath Bilbao,0,1
+2014-11-25,1415,EU,Sporting CP (POR),NK Maribor (SVN),3,1
+2014-11-26,1415,EU,Arsenal,Dortmund,2,0
+2014-11-26,1415,EU,Ath Madrid,Olympiakos Piraeus (GRE),4,0
+2014-11-26,1415,EU,FC Basel 1893 (SUI),Real Madrid,0,1
+2014-11-26,1415,EU,Leverkusen,Monaco,0,1
+2014-11-26,1415,EU,Malmö FF (SWE),Juventus,0,2
+2014-11-26,1415,EU,PFC Ludogorets Razgrad (BUL),Liverpool,2,2
+2014-11-26,1415,EU,RSC Anderlecht (BEL),Galatasaray (TUR),2,0
+2014-11-26,1415,EU,Zenit St. Petersburg (RUS),SL Benfica (POR),1,0
+2014-12-09,1415,EU,Dortmund,RSC Anderlecht (BEL),1,1
+2014-12-09,1415,EU,Galatasaray (TUR),Arsenal,1,4
+2014-12-09,1415,EU,Juventus,Ath Madrid,0,0
+2014-12-09,1415,EU,Liverpool,FC Basel 1893 (SUI),1,1
+2014-12-09,1415,EU,Monaco,Zenit St. Petersburg (RUS),2,0
+2014-12-09,1415,EU,Olympiakos Piraeus (GRE),Malmö FF (SWE),4,2
+2014-12-09,1415,EU,Real Madrid,PFC Ludogorets Razgrad (BUL),4,0
+2014-12-09,1415,EU,SL Benfica (POR),Leverkusen,0,0
+2014-12-10,1415,EU,AFC Ajax (NED),APOEL Nikosia (CYP),4,0
+2014-12-10,1415,EU,Ath Bilbao,BATE Borisov (BLR),2,0
+2014-12-10,1415,EU,Barcelona,Paris SG,3,1
+2014-12-10,1415,EU,Bayern Munich,CSKA Moskva (RUS),3,0
+2014-12-10,1415,EU,Chelsea,Sporting CP (POR),3,1
+2014-12-10,1415,EU,FC Porto (POR),Shakhtar Donetsk (UKR),1,1
+2014-12-10,1415,EU,NK Maribor (SVN),Schalke 04,0,1
+2014-12-10,1415,EU,Roma,Man City,0,2
+2015-02-17,1415,EU,Paris SG,Chelsea,1,1
+2015-02-17,1415,EU,Shakhtar Donetsk (UKR),Bayern Munich,0,0
+2015-02-18,1415,EU,FC Basel 1893 (SUI),FC Porto (POR),1,1
+2015-02-18,1415,EU,Schalke 04,Real Madrid,0,2
+2015-02-24,1415,EU,Juventus,Dortmund,2,1
+2015-02-24,1415,EU,Man City,Barcelona,1,2
+2015-02-25,1415,EU,Arsenal,Monaco,1,3
+2015-02-25,1415,EU,Leverkusen,Ath Madrid,1,0
+2015-03-10,1415,EU,FC Porto (POR),FC Basel 1893 (SUI),4,0
+2015-03-10,1415,EU,Real Madrid,Schalke 04,3,4
+2015-03-11,1415,EU,Bayern Munich,Shakhtar Donetsk (UKR),7,0
+2015-03-11,1415,EU,Chelsea,Paris SG,1,1
+2015-03-17,1415,EU,Ath Madrid,Leverkusen,1,0
+2015-03-17,1415,EU,Monaco,Arsenal,0,2
+2015-03-18,1415,EU,Barcelona,Man City,1,0
+2015-03-18,1415,EU,Dortmund,Juventus,0,3
+2015-04-14,1415,EU,Ath Madrid,Real Madrid,0,0
+2015-04-14,1415,EU,Juventus,Monaco,1,0
+2015-04-15,1415,EU,FC Porto (POR),Bayern Munich,3,1
+2015-04-15,1415,EU,Paris SG,Barcelona,1,3
+2015-04-21,1415,EU,Barcelona,Paris SG,2,0
+2015-04-21,1415,EU,Bayern Munich,FC Porto (POR),6,1
+2015-04-22,1415,EU,Monaco,Juventus,0,0
+2015-04-22,1415,EU,Real Madrid,Ath Madrid,1,0
+2015-05-05,1415,EU,Juventus,Real Madrid,2,1
+2015-05-06,1415,EU,Barcelona,Bayern Munich,3,0
+2015-05-12,1415,EU,Bayern Munich,Barcelona,3,2
+2015-05-13,1415,EU,Real Madrid,Juventus,1,1
+2015-06-06,1415,EUN,Juventus,Barcelona,1,3
+2015-09-15,1516,EU,Galatasaray (TUR),Ath Madrid,0,2
+2015-09-15,1516,EU,Man City,Juventus,1,2
+2015-09-15,1516,EU,Paris SG,Malmö FF (SWE),2,0
+2015-09-15,1516,EU,PSV Eindhoven (NED),Man United,2,1
+2015-09-15,1516,EU,Real Madrid,Shakhtar Donetsk (UKR),4,0
+2015-09-15,1516,EU,Sevilla,M'gladbach,3,0
+2015-09-15,1516,EU,SL Benfica (POR),FK Astana (KAZ),2,0
+2015-09-15,1516,EU,Wolfsburg,CSKA Moskva (RUS),1,0
+2015-09-16,1516,EU,Chelsea,Maccabi Tel Aviv (ISR),4,0
+2015-09-16,1516,EU,Dinamo Kiev (UKR),FC Porto (POR),2,2
+2015-09-16,1516,EU,Dinamo Zagreb (CRO),Arsenal,2,1
+2015-09-16,1516,EU,KAA Gent (BEL),Lyon,1,1
+2015-09-16,1516,EU,Leverkusen,BATE Borisov (BLR),4,1
+2015-09-16,1516,EU,Olympiakos Piraeus (GRE),Bayern Munich,0,3
+2015-09-16,1516,EU,Roma,Barcelona,1,1
+2015-09-16,1516,EU,Valencia,Zenit St. Petersburg (RUS),2,3
+2015-09-29,1516,EU,Arsenal,Olympiakos Piraeus (GRE),2,3
+2015-09-29,1516,EU,Barcelona,Leverkusen,2,1
+2015-09-29,1516,EU,BATE Borisov (BLR),Roma,3,2
+2015-09-29,1516,EU,Bayern Munich,Dinamo Zagreb (CRO),5,0
+2015-09-29,1516,EU,FC Porto (POR),Chelsea,2,1
+2015-09-29,1516,EU,Lyon,Valencia,0,1
+2015-09-29,1516,EU,Maccabi Tel Aviv (ISR),Dinamo Kiev (UKR),0,2
+2015-09-29,1516,EU,Zenit St. Petersburg (RUS),KAA Gent (BEL),2,1
+2015-09-30,1516,EU,Ath Madrid,SL Benfica (POR),1,2
+2015-09-30,1516,EU,CSKA Moskva (RUS),PSV Eindhoven (NED),3,2
+2015-09-30,1516,EU,FK Astana (KAZ),Galatasaray (TUR),2,2
+2015-09-30,1516,EU,Juventus,Sevilla,2,0
+2015-09-30,1516,EU,M'gladbach,Man City,1,2
+2015-09-30,1516,EU,Malmö FF (SWE),Real Madrid,0,2
+2015-09-30,1516,EU,Man United,Wolfsburg,2,1
+2015-09-30,1516,EU,Shakhtar Donetsk (UKR),Paris SG,0,3
+2015-10-20,1516,EU,Arsenal,Bayern Munich,2,0
+2015-10-20,1516,EU,BATE Borisov (BLR),Barcelona,0,2
+2015-10-20,1516,EU,Dinamo Kiev (UKR),Chelsea,0,0
+2015-10-20,1516,EU,Dinamo Zagreb (CRO),Olympiakos Piraeus (GRE),0,1
+2015-10-20,1516,EU,FC Porto (POR),Maccabi Tel Aviv (ISR),2,0
+2015-10-20,1516,EU,Leverkusen,Roma,4,4
+2015-10-20,1516,EU,Valencia,KAA Gent (BEL),2,1
+2015-10-20,1516,EU,Zenit St. Petersburg (RUS),Lyon,3,1
+2015-10-21,1516,EU,Ath Madrid,FK Astana (KAZ),4,0
+2015-10-21,1516,EU,CSKA Moskva (RUS),Man United,1,1
+2015-10-21,1516,EU,Galatasaray (TUR),SL Benfica (POR),2,1
+2015-10-21,1516,EU,Juventus,M'gladbach,0,0
+2015-10-21,1516,EU,Malmö FF (SWE),Shakhtar Donetsk (UKR),1,0
+2015-10-21,1516,EU,Man City,Sevilla,2,1
+2015-10-21,1516,EU,Paris SG,Real Madrid,0,0
+2015-10-21,1516,EU,Wolfsburg,PSV Eindhoven (NED),2,0
+2015-11-03,1516,EU,FK Astana (KAZ),Ath Madrid,0,0
+2015-11-03,1516,EU,M'gladbach,Juventus,1,1
+2015-11-03,1516,EU,Man United,CSKA Moskva (RUS),1,0
+2015-11-03,1516,EU,PSV Eindhoven (NED),Wolfsburg,2,0
+2015-11-03,1516,EU,Real Madrid,Paris SG,1,0
+2015-11-03,1516,EU,Sevilla,Man City,1,3
+2015-11-03,1516,EU,Shakhtar Donetsk (UKR),Malmö FF (SWE),4,0
+2015-11-03,1516,EU,SL Benfica (POR),Galatasaray (TUR),2,1
+2015-11-04,1516,EU,Barcelona,BATE Borisov (BLR),3,0
+2015-11-04,1516,EU,Bayern Munich,Arsenal,5,1
+2015-11-04,1516,EU,Chelsea,Dinamo Kiev (UKR),2,1
+2015-11-04,1516,EU,KAA Gent (BEL),Valencia,1,0
+2015-11-04,1516,EU,Lyon,Zenit St. Petersburg (RUS),0,2
+2015-11-04,1516,EU,Maccabi Tel Aviv (ISR),FC Porto (POR),1,3
+2015-11-04,1516,EU,Olympiakos Piraeus (GRE),Dinamo Zagreb (CRO),2,1
+2015-11-04,1516,EU,Roma,Leverkusen,3,2
+2015-11-24,1516,EU,Arsenal,Dinamo Zagreb (CRO),3,0
+2015-11-24,1516,EU,Barcelona,Roma,6,1
+2015-11-24,1516,EU,BATE Borisov (BLR),Leverkusen,1,1
+2015-11-24,1516,EU,Bayern Munich,Olympiakos Piraeus (GRE),4,0
+2015-11-24,1516,EU,FC Porto (POR),Dinamo Kiev (UKR),0,2
+2015-11-24,1516,EU,Lyon,KAA Gent (BEL),1,2
+2015-11-24,1516,EU,Maccabi Tel Aviv (ISR),Chelsea,0,4
+2015-11-24,1516,EU,Zenit St. Petersburg (RUS),Valencia,2,0
+2015-11-25,1516,EU,Ath Madrid,Galatasaray (TUR),2,0
+2015-11-25,1516,EU,CSKA Moskva (RUS),Wolfsburg,0,2
+2015-11-25,1516,EU,FK Astana (KAZ),SL Benfica (POR),2,2
+2015-11-25,1516,EU,Juventus,Man City,1,0
+2015-11-25,1516,EU,M'gladbach,Sevilla,4,2
+2015-11-25,1516,EU,Malmö FF (SWE),Paris SG,0,5
+2015-11-25,1516,EU,Man United,PSV Eindhoven (NED),0,0
+2015-11-25,1516,EU,Shakhtar Donetsk (UKR),Real Madrid,3,4
+2015-12-08,1516,EU,Galatasaray (TUR),FK Astana (KAZ),1,1
+2015-12-08,1516,EU,Man City,M'gladbach,4,2
+2015-12-08,1516,EU,Paris SG,Shakhtar Donetsk (UKR),2,0
+2015-12-08,1516,EU,PSV Eindhoven (NED),CSKA Moskva (RUS),2,1
+2015-12-08,1516,EU,Real Madrid,Malmö FF (SWE),8,0
+2015-12-08,1516,EU,Sevilla,Juventus,1,0
+2015-12-08,1516,EU,SL Benfica (POR),Ath Madrid,1,2
+2015-12-08,1516,EU,Wolfsburg,Man United,3,2
+2015-12-09,1516,EU,Chelsea,FC Porto (POR),2,0
+2015-12-09,1516,EU,Dinamo Kiev (UKR),Maccabi Tel Aviv (ISR),1,0
+2015-12-09,1516,EU,Dinamo Zagreb (CRO),Bayern Munich,0,2
+2015-12-09,1516,EU,KAA Gent (BEL),Zenit St. Petersburg (RUS),2,1
+2015-12-09,1516,EU,Leverkusen,Barcelona,1,1
+2015-12-09,1516,EU,Olympiakos Piraeus (GRE),Arsenal,0,3
+2015-12-09,1516,EU,Roma,BATE Borisov (BLR),0,0
+2015-12-09,1516,EU,Valencia,Lyon,0,2
+2016-02-16,1516,EU,Paris SG,Chelsea,2,1
+2016-02-16,1516,EU,SL Benfica (POR),Zenit St. Petersburg (RUS),1,0
+2016-02-17,1516,EU,KAA Gent (BEL),Wolfsburg,2,3
+2016-02-17,1516,EU,Roma,Real Madrid,0,2
+2016-02-23,1516,EU,Arsenal,Barcelona,0,2
+2016-02-23,1516,EU,Juventus,Bayern Munich,2,2
+2016-02-24,1516,EU,Dinamo Kiev (UKR),Man City,1,3
+2016-02-24,1516,EU,PSV Eindhoven (NED),Ath Madrid,0,0
+2016-03-08,1516,EU,Real Madrid,Roma,2,0
+2016-03-08,1516,EU,Wolfsburg,KAA Gent (BEL),1,0
+2016-03-09,1516,EU,Chelsea,Paris SG,1,2
+2016-03-09,1516,EU,Zenit St. Petersburg (RUS),SL Benfica (POR),1,2
+2016-03-15,1516,EU,Ath Madrid,PSV Eindhoven (NED),0,0
+2016-03-15,1516,EU,Man City,Dinamo Kiev (UKR),0,0
+2016-03-16,1516,EU,Barcelona,Arsenal,3,1
+2016-03-16,1516,EU,Bayern Munich,Juventus,2,2
+2016-04-05,1516,EU,Barcelona,Ath Madrid,2,1
+2016-04-05,1516,EU,Bayern Munich,SL Benfica (POR),1,0
+2016-04-06,1516,EU,Paris SG,Man City,2,2
+2016-04-06,1516,EU,Wolfsburg,Real Madrid,2,0
+2016-04-12,1516,EU,Man City,Paris SG,1,0
+2016-04-12,1516,EU,Real Madrid,Wolfsburg,3,0
+2016-04-13,1516,EU,Ath Madrid,Barcelona,2,0
+2016-04-13,1516,EU,SL Benfica (POR),Bayern Munich,2,2
+2016-04-26,1516,EU,Man City,Real Madrid,0,0
+2016-04-27,1516,EU,Ath Madrid,Bayern Munich,1,0
+2016-05-03,1516,EU,Bayern Munich,Ath Madrid,2,1
+2016-05-04,1516,EU,Real Madrid,Man City,1,0
+2016-05-28,1516,EUN,Real Madrid,Ath Madrid,1,1
+2016-09-13,1617,EU,Barcelona,Celtic FC (SCO),7,0
+2016-09-13,1617,EU,Bayern Munich,FK Rostov (RUS),5,0
+2016-09-13,1617,EU,Dinamo Kiev (UKR),Napoli,1,2
+2016-09-13,1617,EU,FC Basel 1893 (SUI),PFC Ludogorets Razgrad (BUL),1,1
+2016-09-13,1617,EU,Paris SG,Arsenal,1,1
+2016-09-13,1617,EU,PSV Eindhoven (NED),Ath Madrid,0,1
+2016-09-13,1617,EU,SL Benfica (POR),Beşiktaş (TUR),1,1
+2016-09-14,1617,EU,Club Brugge KV (BEL),Leicester,0,3
+2016-09-14,1617,EU,FC Porto (POR),FC København (DEN),1,1
+2016-09-14,1617,EU,Juventus,Sevilla,0,0
+2016-09-14,1617,EU,Legia Warszawa (POL),Dortmund,0,6
+2016-09-14,1617,EU,Leverkusen,CSKA Moskva (RUS),2,2
+2016-09-14,1617,EU,Lyon,Dinamo Zagreb (CRO),3,0
+2016-09-14,1617,EU,Man City,M'gladbach,4,0
+2016-09-14,1617,EU,Real Madrid,Sporting CP (POR),2,1
+2016-09-14,1617,EU,Tottenham,Monaco,1,2
+2016-09-27,1617,EU,CSKA Moskva (RUS),Tottenham,0,1
+2016-09-27,1617,EU,Dinamo Zagreb (CRO),Juventus,0,4
+2016-09-27,1617,EU,Dortmund,Real Madrid,2,2
+2016-09-27,1617,EU,FC København (DEN),Club Brugge KV (BEL),4,0
+2016-09-27,1617,EU,Leicester,FC Porto (POR),1,0
+2016-09-27,1617,EU,Monaco,Leverkusen,1,1
+2016-09-27,1617,EU,Sevilla,Lyon,1,0
+2016-09-27,1617,EU,Sporting CP (POR),Legia Warszawa (POL),2,0
+2016-09-28,1617,EU,Arsenal,FC Basel 1893 (SUI),2,0
+2016-09-28,1617,EU,Ath Madrid,Bayern Munich,1,0
+2016-09-28,1617,EU,Beşiktaş (TUR),Dinamo Kiev (UKR),1,1
+2016-09-28,1617,EU,Celtic FC (SCO),Man City,3,3
+2016-09-28,1617,EU,FK Rostov (RUS),PSV Eindhoven (NED),2,2
+2016-09-28,1617,EU,M'gladbach,Barcelona,1,2
+2016-09-28,1617,EU,Napoli,SL Benfica (POR),4,2
+2016-09-28,1617,EU,PFC Ludogorets Razgrad (BUL),Paris SG,1,3
+2016-10-18,1617,EU,Club Brugge KV (BEL),FC Porto (POR),1,2
+2016-10-18,1617,EU,CSKA Moskva (RUS),Monaco,1,1
+2016-10-18,1617,EU,Dinamo Zagreb (CRO),Sevilla,0,1
+2016-10-18,1617,EU,Leicester,FC København (DEN),1,0
+2016-10-18,1617,EU,Leverkusen,Tottenham,0,0
+2016-10-18,1617,EU,Lyon,Juventus,0,1
+2016-10-18,1617,EU,Real Madrid,Legia Warszawa (POL),5,1
+2016-10-18,1617,EU,Sporting CP (POR),Dortmund,1,2
+2016-10-19,1617,EU,Arsenal,PFC Ludogorets Razgrad (BUL),6,0
+2016-10-19,1617,EU,Barcelona,Man City,4,0
+2016-10-19,1617,EU,Bayern Munich,PSV Eindhoven (NED),4,1
+2016-10-19,1617,EU,Celtic FC (SCO),M'gladbach,0,2
+2016-10-19,1617,EU,Dinamo Kiev (UKR),SL Benfica (POR),0,2
+2016-10-19,1617,EU,FK Rostov (RUS),Ath Madrid,0,1
+2016-10-19,1617,EU,Napoli,Beşiktaş (TUR),2,3
+2016-10-19,1617,EU,Paris SG,FC Basel 1893 (SUI),3,0
+2016-11-01,1617,EU,Ath Madrid,FK Rostov (RUS),2,1
+2016-11-01,1617,EU,Beşiktaş (TUR),Napoli,1,1
+2016-11-01,1617,EU,FC Basel 1893 (SUI),Paris SG,1,2
+2016-11-01,1617,EU,M'gladbach,Celtic FC (SCO),1,1
+2016-11-01,1617,EU,Man City,Barcelona,3,1
+2016-11-01,1617,EU,PFC Ludogorets Razgrad (BUL),Arsenal,2,3
+2016-11-01,1617,EU,PSV Eindhoven (NED),Bayern Munich,1,2
+2016-11-01,1617,EU,SL Benfica (POR),Dinamo Kiev (UKR),1,0
+2016-11-02,1617,EU,Dortmund,Sporting CP (POR),1,0
+2016-11-02,1617,EU,FC København (DEN),Leicester,0,0
+2016-11-02,1617,EU,FC Porto (POR),Club Brugge KV (BEL),1,0
+2016-11-02,1617,EU,Juventus,Lyon,1,1
+2016-11-02,1617,EU,Legia Warszawa (POL),Real Madrid,3,3
+2016-11-02,1617,EU,Monaco,CSKA Moskva (RUS),3,0
+2016-11-02,1617,EU,Sevilla,Dinamo Zagreb (CRO),4,0
+2016-11-02,1617,EU,Tottenham,Leverkusen,0,1
+2016-11-22,1617,EU,CSKA Moskva (RUS),Leverkusen,1,1
+2016-11-22,1617,EU,Dinamo Zagreb (CRO),Lyon,0,1
+2016-11-22,1617,EU,Dortmund,Legia Warszawa (POL),8,4
+2016-11-22,1617,EU,FC København (DEN),FC Porto (POR),0,0
+2016-11-22,1617,EU,Leicester,Club Brugge KV (BEL),2,1
+2016-11-22,1617,EU,Monaco,Tottenham,2,1
+2016-11-22,1617,EU,Sevilla,Juventus,1,3
+2016-11-22,1617,EU,Sporting CP (POR),Real Madrid,1,2
+2016-11-23,1617,EU,Arsenal,Paris SG,2,2
+2016-11-23,1617,EU,Ath Madrid,PSV Eindhoven (NED),2,0
+2016-11-23,1617,EU,Beşiktaş (TUR),SL Benfica (POR),3,3
+2016-11-23,1617,EU,Celtic FC (SCO),Barcelona,0,2
+2016-11-23,1617,EU,FK Rostov (RUS),Bayern Munich,3,2
+2016-11-23,1617,EU,M'gladbach,Man City,1,1
+2016-11-23,1617,EU,Napoli,Dinamo Kiev (UKR),0,0
+2016-11-23,1617,EU,PFC Ludogorets Razgrad (BUL),FC Basel 1893 (SUI),0,0
+2016-12-06,1617,EU,Barcelona,M'gladbach,4,0
+2016-12-06,1617,EU,Bayern Munich,Ath Madrid,1,0
+2016-12-06,1617,EU,Dinamo Kiev (UKR),Beşiktaş (TUR),6,0
+2016-12-06,1617,EU,FC Basel 1893 (SUI),Arsenal,1,4
+2016-12-06,1617,EU,Man City,Celtic FC (SCO),1,1
+2016-12-06,1617,EU,Paris SG,PFC Ludogorets Razgrad (BUL),2,2
+2016-12-06,1617,EU,PSV Eindhoven (NED),FK Rostov (RUS),0,0
+2016-12-06,1617,EU,SL Benfica (POR),Napoli,1,2
+2016-12-07,1617,EU,Club Brugge KV (BEL),FC København (DEN),0,2
+2016-12-07,1617,EU,FC Porto (POR),Leicester,5,0
+2016-12-07,1617,EU,Juventus,Dinamo Zagreb (CRO),2,0
+2016-12-07,1617,EU,Legia Warszawa (POL),Sporting CP (POR),1,0
+2016-12-07,1617,EU,Leverkusen,Monaco,3,0
+2016-12-07,1617,EU,Lyon,Sevilla,0,0
+2016-12-07,1617,EU,Real Madrid,Dortmund,2,2
+2016-12-07,1617,EU,Tottenham,CSKA Moskva (RUS),3,1
+2017-02-14,1617,EU,Paris SG,Barcelona,4,0
+2017-02-14,1617,EU,SL Benfica (POR),Dortmund,1,0
+2017-02-15,1617,EU,Bayern Munich,Arsenal,5,1
+2017-02-15,1617,EU,Real Madrid,Napoli,3,1
+2017-02-21,1617,EU,Leverkusen,Ath Madrid,2,4
+2017-02-21,1617,EU,Man City,Monaco,5,3
+2017-02-22,1617,EU,FC Porto (POR),Juventus,0,2
+2017-02-22,1617,EU,Sevilla,Leicester,2,1
+2017-03-07,1617,EU,Arsenal,Bayern Munich,1,5
+2017-03-07,1617,EU,Napoli,Real Madrid,1,3
+2017-03-08,1617,EU,Barcelona,Paris SG,6,1
+2017-03-08,1617,EU,Dortmund,SL Benfica (POR),4,0
+2017-03-14,1617,EU,Juventus,FC Porto (POR),1,0
+2017-03-14,1617,EU,Leicester,Sevilla,2,0
+2017-03-15,1617,EU,Ath Madrid,Leverkusen,0,0
+2017-03-15,1617,EU,Monaco,Man City,3,1
+2017-04-11,1617,EU,Juventus,Barcelona,3,0
+2017-04-12,1617,EU,Ath Madrid,Leicester,1,0
+2017-04-12,1617,EU,Bayern Munich,Real Madrid,1,2
+2017-04-12,1617,EU,Dortmund,Monaco,2,3
+2017-04-18,1617,EU,Leicester,Ath Madrid,1,1
+2017-04-18,1617,EU,Real Madrid,Bayern Munich,1,2
+2017-04-19,1617,EU,Barcelona,Juventus,0,0
+2017-04-19,1617,EU,Monaco,Dortmund,3,1
+2017-05-02,1617,EU,Real Madrid,Ath Madrid,3,0
+2017-05-03,1617,EU,Monaco,Juventus,0,2
+2017-05-09,1617,EU,Juventus,Monaco,2,1
+2017-05-10,1617,EU,Ath Madrid,Real Madrid,2,1
+2017-06-03,1617,EUN,Juventus,Real Madrid,1,4
+2017-09-12,1718,EU,Barcelona,Juventus,3,0
+2017-09-12,1718,EU,Bayern Munich,RSC Anderlecht (BEL),3,0
+2017-09-12,1718,EU,Celtic FC (SCO),Paris SG,0,5
+2017-09-12,1718,EU,Chelsea,Qarabağ FK (AZE),6,0
+2017-09-12,1718,EU,Man United,FC Basel 1893 (SUI),3,0
+2017-09-12,1718,EU,Olympiakos Piraeus (GRE),Sporting CP (POR),2,3
+2017-09-12,1718,EU,Roma,Ath Madrid,0,0
+2017-09-12,1718,EU,SL Benfica (POR),CSKA Moskva (RUS),1,2
+2017-09-13,1718,EU,FC Porto (POR),Beşiktaş (TUR),1,3
+2017-09-13,1718,EU,Feyenoord (NED),Man City,0,4
+2017-09-13,1718,EU,Liverpool,Sevilla,2,2
+2017-09-13,1718,EU,NK Maribor (SVN),Spartak Moskva (RUS),1,1
+2017-09-13,1718,EU,RB Leipzig,Monaco,1,1
+2017-09-13,1718,EU,Real Madrid,APOEL Nikosia (CYP),3,0
+2017-09-13,1718,EU,Shakhtar Donetsk (UKR),Napoli,2,1
+2017-09-13,1718,EU,Tottenham,Dortmund,3,1
+2017-09-26,1718,EU,APOEL Nikosia (CYP),Tottenham,0,3
+2017-09-26,1718,EU,Beşiktaş (TUR),RB Leipzig,2,0
+2017-09-26,1718,EU,Dortmund,Real Madrid,1,3
+2017-09-26,1718,EU,Man City,Shakhtar Donetsk (UKR),2,0
+2017-09-26,1718,EU,Monaco,FC Porto (POR),0,3
+2017-09-26,1718,EU,Napoli,Feyenoord (NED),3,1
+2017-09-26,1718,EU,Sevilla,NK Maribor (SVN),3,0
+2017-09-26,1718,EU,Spartak Moskva (RUS),Liverpool,1,1
+2017-09-27,1718,EU,Ath Madrid,Chelsea,1,2
+2017-09-27,1718,EU,CSKA Moskva (RUS),Man United,1,4
+2017-09-27,1718,EU,FC Basel 1893 (SUI),SL Benfica (POR),5,0
+2017-09-27,1718,EU,Juventus,Olympiakos Piraeus (GRE),2,0
+2017-09-27,1718,EU,Paris SG,Bayern Munich,3,0
+2017-09-27,1718,EU,Qarabağ FK (AZE),Roma,1,2
+2017-09-27,1718,EU,RSC Anderlecht (BEL),Celtic FC (SCO),0,3
+2017-09-27,1718,EU,Sporting CP (POR),Barcelona,0,1
+2017-10-17,1718,EU,APOEL Nikosia (CYP),Dortmund,1,1
+2017-10-17,1718,EU,Feyenoord (NED),Shakhtar Donetsk (UKR),1,2
+2017-10-17,1718,EU,Man City,Napoli,2,1
+2017-10-17,1718,EU,Monaco,Beşiktaş (TUR),1,2
+2017-10-17,1718,EU,NK Maribor (SVN),Liverpool,0,7
+2017-10-17,1718,EU,RB Leipzig,FC Porto (POR),3,2
+2017-10-17,1718,EU,Real Madrid,Tottenham,1,1
+2017-10-17,1718,EU,Spartak Moskva (RUS),Sevilla,5,1
+2017-10-18,1718,EU,Barcelona,Olympiakos Piraeus (GRE),3,1
+2017-10-18,1718,EU,Bayern Munich,Celtic FC (SCO),3,0
+2017-10-18,1718,EU,Chelsea,Roma,3,3
+2017-10-18,1718,EU,CSKA Moskva (RUS),FC Basel 1893 (SUI),0,2
+2017-10-18,1718,EU,Juventus,Sporting CP (POR),2,1
+2017-10-18,1718,EU,Qarabağ FK (AZE),Ath Madrid,0,0
+2017-10-18,1718,EU,RSC Anderlecht (BEL),Paris SG,0,4
+2017-10-18,1718,EU,SL Benfica (POR),Man United,0,1
+2017-10-31,1718,EU,Ath Madrid,Qarabağ FK (AZE),1,1
+2017-10-31,1718,EU,Celtic FC (SCO),Bayern Munich,1,2
+2017-10-31,1718,EU,FC Basel 1893 (SUI),CSKA Moskva (RUS),1,2
+2017-10-31,1718,EU,Man United,SL Benfica (POR),2,0
+2017-10-31,1718,EU,Olympiakos Piraeus (GRE),Barcelona,0,0
+2017-10-31,1718,EU,Paris SG,RSC Anderlecht (BEL),5,0
+2017-10-31,1718,EU,Roma,Chelsea,3,0
+2017-10-31,1718,EU,Sporting CP (POR),Juventus,1,1
+2017-11-01,1718,EU,Beşiktaş (TUR),Monaco,1,1
+2017-11-01,1718,EU,Dortmund,APOEL Nikosia (CYP),1,1
+2017-11-01,1718,EU,FC Porto (POR),RB Leipzig,3,1
+2017-11-01,1718,EU,Liverpool,NK Maribor (SVN),3,0
+2017-11-01,1718,EU,Napoli,Man City,2,4
+2017-11-01,1718,EU,Sevilla,Spartak Moskva (RUS),2,1
+2017-11-01,1718,EU,Shakhtar Donetsk (UKR),Feyenoord (NED),3,1
+2017-11-01,1718,EU,Tottenham,Real Madrid,3,1
+2017-11-21,1718,EU,APOEL Nikosia (CYP),Real Madrid,0,6
+2017-11-21,1718,EU,Beşiktaş (TUR),FC Porto (POR),1,1
+2017-11-21,1718,EU,Dortmund,Tottenham,1,2
+2017-11-21,1718,EU,Man City,Feyenoord (NED),1,0
+2017-11-21,1718,EU,Monaco,RB Leipzig,1,4
+2017-11-21,1718,EU,Napoli,Shakhtar Donetsk (UKR),3,0
+2017-11-21,1718,EU,Sevilla,Liverpool,3,3
+2017-11-21,1718,EU,Spartak Moskva (RUS),NK Maribor (SVN),1,1
+2017-11-22,1718,EU,Ath Madrid,Roma,2,0
+2017-11-22,1718,EU,CSKA Moskva (RUS),SL Benfica (POR),2,0
+2017-11-22,1718,EU,FC Basel 1893 (SUI),Man United,1,0
+2017-11-22,1718,EU,Juventus,Barcelona,0,0
+2017-11-22,1718,EU,Paris SG,Celtic FC (SCO),7,1
+2017-11-22,1718,EU,Qarabağ FK (AZE),Chelsea,0,4
+2017-11-22,1718,EU,RSC Anderlecht (BEL),Bayern Munich,1,2
+2017-11-22,1718,EU,Sporting CP (POR),Olympiakos Piraeus (GRE),3,1
+2017-12-05,1718,EU,Barcelona,Sporting CP (POR),2,0
+2017-12-05,1718,EU,Bayern Munich,Paris SG,3,1
+2017-12-05,1718,EU,Celtic FC (SCO),RSC Anderlecht (BEL),0,1
+2017-12-05,1718,EU,Chelsea,Ath Madrid,1,1
+2017-12-05,1718,EU,Man United,CSKA Moskva (RUS),2,1
+2017-12-05,1718,EU,Olympiakos Piraeus (GRE),Juventus,0,2
+2017-12-05,1718,EU,Roma,Qarabağ FK (AZE),1,0
+2017-12-05,1718,EU,SL Benfica (POR),FC Basel 1893 (SUI),0,2
+2017-12-06,1718,EU,FC Porto (POR),Monaco,5,2
+2017-12-06,1718,EU,Feyenoord (NED),Napoli,2,1
+2017-12-06,1718,EU,Liverpool,Spartak Moskva (RUS),7,0
+2017-12-06,1718,EU,NK Maribor (SVN),Sevilla,1,1
+2017-12-06,1718,EU,RB Leipzig,Beşiktaş (TUR),1,2
+2017-12-06,1718,EU,Real Madrid,Dortmund,3,2
+2017-12-06,1718,EU,Shakhtar Donetsk (UKR),Man City,2,1
+2017-12-06,1718,EU,Tottenham,APOEL Nikosia (CYP),3,0
+2018-02-13,1718,EU,FC Basel 1893 (SUI),Man City,0,4
+2018-02-13,1718,EU,Juventus,Tottenham,2,2
+2018-02-14,1718,EU,FC Porto (POR),Liverpool,0,5
+2018-02-14,1718,EU,Real Madrid,Paris SG,3,1
+2018-02-20,1718,EU,Bayern Munich,Beşiktaş (TUR),5,0
+2018-02-20,1718,EU,Chelsea,Barcelona,1,1
+2018-02-21,1718,EU,Sevilla,Man United,0,0
+2018-02-21,1718,EU,Shakhtar Donetsk (UKR),Roma,2,1
+2018-03-06,1718,EU,Liverpool,FC Porto (POR),0,0
+2018-03-06,1718,EU,Paris SG,Real Madrid,1,2
+2018-03-07,1718,EU,Man City,FC Basel 1893 (SUI),1,2
+2018-03-07,1718,EU,Tottenham,Juventus,1,2
+2018-03-13,1718,EU,Man United,Sevilla,1,2
+2018-03-13,1718,EU,Roma,Shakhtar Donetsk (UKR),1,0
+2018-03-14,1718,EU,Barcelona,Chelsea,3,0
+2018-03-14,1718,EU,Beşiktaş (TUR),Bayern Munich,1,3
+2018-04-03,1718,EU,Juventus,Real Madrid,0,3
+2018-04-03,1718,EU,Sevilla,Bayern Munich,1,2
+2018-04-04,1718,EU,Barcelona,Roma,4,1
+2018-04-04,1718,EU,Liverpool,Man City,3,0
+2018-04-10,1718,EU,Man City,Liverpool,1,2
+2018-04-10,1718,EU,Roma,Barcelona,3,0
+2018-04-11,1718,EU,Bayern Munich,Sevilla,0,0
+2018-04-11,1718,EU,Real Madrid,Juventus,1,3
+2018-04-24,1718,EU,Liverpool,Roma,5,2
+2018-04-25,1718,EU,Bayern Munich,Real Madrid,1,2
+2018-05-01,1718,EU,Real Madrid,Bayern Munich,2,2
+2018-05-02,1718,EU,Roma,Liverpool,4,2
+2018-05-26,1718,EUN,Real Madrid,Liverpool,3,1
+2018-09-18,1819,EU,Barcelona,PSV Eindhoven (NED),4,0
+2018-09-18,1819,EU,Club Brugge KV (BEL),Dortmund,0,1
+2018-09-18,1819,EU,Crvena Zvezda (SRB),Napoli,0,0
+2018-09-18,1819,EU,Galatasaray (TUR),Lokomotiv Moskva (RUS),3,0
+2018-09-18,1819,EU,Inter,Tottenham,2,1
+2018-09-18,1819,EU,Liverpool,Paris SG,3,2
+2018-09-18,1819,EU,Monaco,Ath Madrid,1,2
+2018-09-18,1819,EU,Schalke 04,FC Porto (POR),1,1
+2018-09-19,1819,EU,AFC Ajax (NED),AEK Athen (GRE),3,0
+2018-09-19,1819,EU,BSC Young Boys (SUI),Man United,0,3
+2018-09-19,1819,EU,Man City,Lyon,1,2
+2018-09-19,1819,EU,Real Madrid,Roma,3,0
+2018-09-19,1819,EU,Shakhtar Donetsk (UKR),Hoffenheim,2,2
+2018-09-19,1819,EU,SL Benfica (POR),Bayern Munich,0,2
+2018-09-19,1819,EU,Valencia,Juventus,0,2
+2018-09-19,1819,EU,Viktoria Plzeň (CZE),CSKA Moskva (RUS),2,2
+2018-10-02,1819,EU,AEK Athen (GRE),SL Benfica (POR),2,3
+2018-10-02,1819,EU,Bayern Munich,AFC Ajax (NED),1,1
+2018-10-02,1819,EU,CSKA Moskva (RUS),Real Madrid,1,0
+2018-10-02,1819,EU,Hoffenheim,Man City,1,2
+2018-10-02,1819,EU,Juventus,BSC Young Boys (SUI),3,0
+2018-10-02,1819,EU,Lyon,Shakhtar Donetsk (UKR),2,2
+2018-10-02,1819,EU,Man United,Valencia,0,0
+2018-10-02,1819,EU,Roma,Viktoria Plzeň (CZE),5,0
+2018-10-03,1819,EU,Ath Madrid,Club Brugge KV (BEL),3,1
+2018-10-03,1819,EU,Dortmund,Monaco,3,0
+2018-10-03,1819,EU,FC Porto (POR),Galatasaray (TUR),1,0
+2018-10-03,1819,EU,Lokomotiv Moskva (RUS),Schalke 04,0,1
+2018-10-03,1819,EU,Napoli,Liverpool,1,0
+2018-10-03,1819,EU,Paris SG,Crvena Zvezda (SRB),6,1
+2018-10-03,1819,EU,PSV Eindhoven (NED),Inter,1,2
+2018-10-03,1819,EU,Tottenham,Barcelona,2,4
+2018-10-23,1819,EU,AEK Athen (GRE),Bayern Munich,0,2
+2018-10-23,1819,EU,AFC Ajax (NED),SL Benfica (POR),1,0
+2018-10-23,1819,EU,BSC Young Boys (SUI),Valencia,1,1
+2018-10-23,1819,EU,Hoffenheim,Lyon,3,3
+2018-10-23,1819,EU,Man United,Juventus,0,1
+2018-10-23,1819,EU,Real Madrid,Viktoria Plzeň (CZE),2,1
+2018-10-23,1819,EU,Roma,CSKA Moskva (RUS),3,0
+2018-10-23,1819,EU,Shakhtar Donetsk (UKR),Man City,0,3
+2018-10-24,1819,EU,Barcelona,Inter,2,0
+2018-10-24,1819,EU,Club Brugge KV (BEL),Monaco,1,1
+2018-10-24,1819,EU,Dortmund,Ath Madrid,4,0
+2018-10-24,1819,EU,Galatasaray (TUR),Schalke 04,0,0
+2018-10-24,1819,EU,Liverpool,Crvena Zvezda (SRB),4,0
+2018-10-24,1819,EU,Lokomotiv Moskva (RUS),FC Porto (POR),1,3
+2018-10-24,1819,EU,Paris SG,Napoli,2,2
+2018-10-24,1819,EU,PSV Eindhoven (NED),Tottenham,2,2
+2018-11-06,1819,EU,Ath Madrid,Dortmund,2,0
+2018-11-06,1819,EU,Crvena Zvezda (SRB),Liverpool,2,0
+2018-11-06,1819,EU,FC Porto (POR),Lokomotiv Moskva (RUS),4,1
+2018-11-06,1819,EU,Inter,Barcelona,1,1
+2018-11-06,1819,EU,Monaco,Club Brugge KV (BEL),0,4
+2018-11-06,1819,EU,Napoli,Paris SG,1,1
+2018-11-06,1819,EU,Schalke 04,Galatasaray (TUR),2,0
+2018-11-06,1819,EU,Tottenham,PSV Eindhoven (NED),2,1
+2018-11-07,1819,EU,Bayern Munich,AEK Athen (GRE),2,0
+2018-11-07,1819,EU,CSKA Moskva (RUS),Roma,1,2
+2018-11-07,1819,EU,Juventus,Man United,1,2
+2018-11-07,1819,EU,Lyon,Hoffenheim,2,2
+2018-11-07,1819,EU,Man City,Shakhtar Donetsk (UKR),6,0
+2018-11-07,1819,EU,SL Benfica (POR),AFC Ajax (NED),1,1
+2018-11-07,1819,EU,Valencia,BSC Young Boys (SUI),3,1
+2018-11-07,1819,EU,Viktoria Plzeň (CZE),Real Madrid,0,5
+2018-11-27,1819,EU,AEK Athen (GRE),AFC Ajax (NED),0,2
+2018-11-27,1819,EU,Bayern Munich,SL Benfica (POR),5,1
+2018-11-27,1819,EU,CSKA Moskva (RUS),Viktoria Plzeň (CZE),1,2
+2018-11-27,1819,EU,Hoffenheim,Shakhtar Donetsk (UKR),2,3
+2018-11-27,1819,EU,Juventus,Valencia,1,0
+2018-11-27,1819,EU,Lyon,Man City,2,2
+2018-11-27,1819,EU,Man United,BSC Young Boys (SUI),1,0
+2018-11-27,1819,EU,Roma,Real Madrid,0,2
+2018-11-28,1819,EU,Ath Madrid,Monaco,2,0
+2018-11-28,1819,EU,Dortmund,Club Brugge KV (BEL),0,0
+2018-11-28,1819,EU,FC Porto (POR),Schalke 04,3,1
+2018-11-28,1819,EU,Lokomotiv Moskva (RUS),Galatasaray (TUR),2,0
+2018-11-28,1819,EU,Napoli,Crvena Zvezda (SRB),3,1
+2018-11-28,1819,EU,Paris SG,Liverpool,2,1
+2018-11-28,1819,EU,PSV Eindhoven (NED),Barcelona,1,2
+2018-11-28,1819,EU,Tottenham,Inter,1,0
+2018-12-11,1819,EU,Barcelona,Tottenham,1,1
+2018-12-11,1819,EU,Club Brugge KV (BEL),Ath Madrid,0,0
+2018-12-11,1819,EU,Crvena Zvezda (SRB),Paris SG,1,4
+2018-12-11,1819,EU,Galatasaray (TUR),FC Porto (POR),2,3
+2018-12-11,1819,EU,Inter,PSV Eindhoven (NED),1,1
+2018-12-11,1819,EU,Liverpool,Napoli,1,0
+2018-12-11,1819,EU,Monaco,Dortmund,0,2
+2018-12-11,1819,EU,Schalke 04,Lokomotiv Moskva (RUS),1,0
+2018-12-12,1819,EU,AFC Ajax (NED),Bayern Munich,3,3
+2018-12-12,1819,EU,BSC Young Boys (SUI),Juventus,2,1
+2018-12-12,1819,EU,Man City,Hoffenheim,2,1
+2018-12-12,1819,EU,Real Madrid,CSKA Moskva (RUS),0,3
+2018-12-12,1819,EU,Shakhtar Donetsk (UKR),Lyon,1,1
+2018-12-12,1819,EU,SL Benfica (POR),AEK Athen (GRE),1,0
+2018-12-12,1819,EU,Valencia,Man United,2,1
+2018-12-12,1819,EU,Viktoria Plzeň (CZE),Roma,2,1
+2019-02-12,1819,EU,Man United,Paris SG,0,2
+2019-02-12,1819,EU,Roma,FC Porto (POR),2,1
+2019-02-13,1819,EU,AFC Ajax (NED),Real Madrid,1,2
+2019-02-13,1819,EU,Tottenham,Dortmund,3,0
+2019-02-19,1819,EU,Liverpool,Bayern Munich,0,0
+2019-02-19,1819,EU,Lyon,Barcelona,0,0
+2019-02-20,1819,EU,Ath Madrid,Juventus,2,0
+2019-02-20,1819,EU,Schalke 04,Man City,2,3
+2019-03-05,1819,EU,Dortmund,Tottenham,0,1
+2019-03-05,1819,EU,Real Madrid,AFC Ajax (NED),1,4
+2019-03-06,1819,EU,FC Porto (POR),Roma,2,1
+2019-03-06,1819,EU,Paris SG,Man United,1,3
+2019-03-12,1819,EU,Juventus,Ath Madrid,3,0
+2019-03-12,1819,EU,Man City,Schalke 04,7,0
+2019-03-13,1819,EU,Barcelona,Lyon,5,1
+2019-03-13,1819,EU,Bayern Munich,Liverpool,1,3
+2019-04-09,1819,EU,Liverpool,FC Porto (POR),2,0
+2019-04-09,1819,EU,Tottenham,Man City,1,0
+2019-04-10,1819,EU,AFC Ajax (NED),Juventus,1,1
+2019-04-10,1819,EU,Man United,Barcelona,0,1
+2019-04-16,1819,EU,Barcelona,Man United,3,0
+2019-04-16,1819,EU,Juventus,AFC Ajax (NED),1,2
+2019-04-17,1819,EU,FC Porto (POR),Liverpool,1,4
+2019-04-17,1819,EU,Man City,Tottenham,4,3
+2019-04-30,1819,EU,Tottenham,AFC Ajax (NED),0,1
+2019-05-01,1819,EU,Barcelona,Liverpool,3,0
+2019-05-07,1819,EU,Liverpool,Barcelona,4,0
+2019-05-08,1819,EU,AFC Ajax (NED),Tottenham,2,3
+2019-06-01,1819,EUN,Tottenham,Liverpool,0,2
+2019-09-17,1920,EU,AFC Ajax (NED),Lille,3,0
+2019-09-17,1920,EU,Chelsea,Valencia,0,1
+2019-09-17,1920,EU,Dortmund,Barcelona,0,0
+2019-09-17,1920,EU,Inter,Slavia Praha (CZE),1,1
+2019-09-17,1920,EU,Lyon,Zenit St. Petersburg (RUS),1,1
+2019-09-17,1920,EU,Napoli,Liverpool,2,0
+2019-09-17,1920,EU,RB Salzburg (AUT),KRC Genk (BEL),6,2
+2019-09-17,1920,EU,SL Benfica (POR),RB Leipzig,1,2
+2019-09-18,1920,EU,Ath Madrid,Juventus,2,2
+2019-09-18,1920,EU,Bayern Munich,Crvena Zvezda (SRB),3,0
+2019-09-18,1920,EU,Club Brugge KV (BEL),Galatasaray (TUR),0,0
+2019-09-18,1920,EU,Dinamo Zagreb (CRO),Atalanta,4,0
+2019-09-18,1920,EU,Leverkusen,Lokomotiv Moskva (RUS),1,2
+2019-09-18,1920,EU,Olympiakos Piraeus (GRE),Tottenham,2,2
+2019-09-18,1920,EU,Paris SG,Real Madrid,3,0
+2019-09-18,1920,EU,Shakhtar Donetsk (UKR),Man City,0,3
+2019-10-01,1920,EU,Atalanta,Shakhtar Donetsk (UKR),1,2
+2019-10-01,1920,EU,Crvena Zvezda (SRB),Olympiakos Piraeus (GRE),3,1
+2019-10-01,1920,EU,Galatasaray (TUR),Paris SG,0,1
+2019-10-01,1920,EU,Juventus,Leverkusen,3,0
+2019-10-01,1920,EU,Lokomotiv Moskva (RUS),Ath Madrid,0,2
+2019-10-01,1920,EU,Man City,Dinamo Zagreb (CRO),2,0
+2019-10-01,1920,EU,Real Madrid,Club Brugge KV (BEL),2,2
+2019-10-01,1920,EU,Tottenham,Bayern Munich,2,7
+2019-10-02,1920,EU,Barcelona,Inter,2,1
+2019-10-02,1920,EU,KRC Genk (BEL),Napoli,0,0
+2019-10-02,1920,EU,Lille,Chelsea,1,2
+2019-10-02,1920,EU,Liverpool,RB Salzburg (AUT),4,3
+2019-10-02,1920,EU,RB Leipzig,Lyon,0,2
+2019-10-02,1920,EU,Slavia Praha (CZE),Dortmund,0,2
+2019-10-02,1920,EU,Valencia,AFC Ajax (NED),0,3
+2019-10-02,1920,EU,Zenit St. Petersburg (RUS),SL Benfica (POR),3,1
+2019-10-22,1920,EU,Ath Madrid,Leverkusen,1,0
+2019-10-22,1920,EU,Club Brugge KV (BEL),Paris SG,0,5
+2019-10-22,1920,EU,Galatasaray (TUR),Real Madrid,0,1
+2019-10-22,1920,EU,Juventus,Lokomotiv Moskva (RUS),2,1
+2019-10-22,1920,EU,Man City,Atalanta,5,1
+2019-10-22,1920,EU,Olympiakos Piraeus (GRE),Bayern Munich,2,3
+2019-10-22,1920,EU,Shakhtar Donetsk (UKR),Dinamo Zagreb (CRO),2,2
+2019-10-22,1920,EU,Tottenham,Crvena Zvezda (SRB),5,0
+2019-10-23,1920,EU,AFC Ajax (NED),Chelsea,0,1
+2019-10-23,1920,EU,Inter,Dortmund,2,0
+2019-10-23,1920,EU,KRC Genk (BEL),Liverpool,1,4
+2019-10-23,1920,EU,Lille,Valencia,1,1
+2019-10-23,1920,EU,RB Leipzig,Zenit St. Petersburg (RUS),2,1
+2019-10-23,1920,EU,RB Salzburg (AUT),Napoli,2,3
+2019-10-23,1920,EU,SL Benfica (POR),Lyon,2,1
+2019-10-23,1920,EU,Slavia Praha (CZE),Barcelona,1,2
+2019-11-05,1920,EU,Barcelona,Slavia Praha (CZE),0,0
+2019-11-05,1920,EU,Chelsea,AFC Ajax (NED),4,4
+2019-11-05,1920,EU,Dortmund,Inter,3,2
+2019-11-05,1920,EU,Liverpool,KRC Genk (BEL),2,1
+2019-11-05,1920,EU,Lyon,SL Benfica (POR),3,1
+2019-11-05,1920,EU,Napoli,RB Salzburg (AUT),1,1
+2019-11-05,1920,EU,Valencia,Lille,4,1
+2019-11-05,1920,EU,Zenit St. Petersburg (RUS),RB Leipzig,0,2
+2019-11-06,1920,EU,Atalanta,Man City,1,1
+2019-11-06,1920,EU,Bayern Munich,Olympiakos Piraeus (GRE),2,0
+2019-11-06,1920,EU,Crvena Zvezda (SRB),Tottenham,0,4
+2019-11-06,1920,EU,Dinamo Zagreb (CRO),Shakhtar Donetsk (UKR),3,3
+2019-11-06,1920,EU,Leverkusen,Ath Madrid,2,1
+2019-11-06,1920,EU,Lokomotiv Moskva (RUS),Juventus,1,2
+2019-11-06,1920,EU,Paris SG,Club Brugge KV (BEL),1,0
+2019-11-06,1920,EU,Real Madrid,Galatasaray (TUR),6,0
+2019-11-26,1920,EU,Atalanta,Dinamo Zagreb (CRO),2,0
+2019-11-26,1920,EU,Crvena Zvezda (SRB),Bayern Munich,0,6
+2019-11-26,1920,EU,Galatasaray (TUR),Club Brugge KV (BEL),1,1
+2019-11-26,1920,EU,Juventus,Ath Madrid,1,0
+2019-11-26,1920,EU,Lokomotiv Moskva (RUS),Leverkusen,0,2
+2019-11-26,1920,EU,Man City,Shakhtar Donetsk (UKR),1,1
+2019-11-26,1920,EU,Real Madrid,Paris SG,2,2
+2019-11-26,1920,EU,Tottenham,Olympiakos Piraeus (GRE),4,2
+2019-11-27,1920,EU,Barcelona,Dortmund,3,1
+2019-11-27,1920,EU,KRC Genk (BEL),RB Salzburg (AUT),1,4
+2019-11-27,1920,EU,Lille,AFC Ajax (NED),0,2
+2019-11-27,1920,EU,Liverpool,Napoli,1,1
+2019-11-27,1920,EU,RB Leipzig,SL Benfica (POR),2,2
+2019-11-27,1920,EU,Slavia Praha (CZE),Inter,1,3
+2019-11-27,1920,EU,Valencia,Chelsea,2,2
+2019-11-27,1920,EU,Zenit St. Petersburg (RUS),Lyon,2,0
+2019-12-10,1920,EU,AFC Ajax (NED),Valencia,0,1
+2019-12-10,1920,EU,Chelsea,Lille,2,1
+2019-12-10,1920,EU,Dortmund,Slavia Praha (CZE),2,1
+2019-12-10,1920,EU,Inter,Barcelona,1,2
+2019-12-10,1920,EU,Lyon,RB Leipzig,2,2
+2019-12-10,1920,EU,Napoli,KRC Genk (BEL),4,0
+2019-12-10,1920,EU,RB Salzburg (AUT),Liverpool,0,2
+2019-12-10,1920,EU,SL Benfica (POR),Zenit St. Petersburg (RUS),3,0
+2019-12-11,1920,EU,Ath Madrid,Lokomotiv Moskva (RUS),2,0
+2019-12-11,1920,EU,Bayern Munich,Tottenham,3,1
+2019-12-11,1920,EU,Club Brugge KV (BEL),Real Madrid,1,3
+2019-12-11,1920,EU,Dinamo Zagreb (CRO),Man City,1,4
+2019-12-11,1920,EU,Leverkusen,Juventus,0,2
+2019-12-11,1920,EU,Olympiakos Piraeus (GRE),Crvena Zvezda (SRB),1,0
+2019-12-11,1920,EU,Paris SG,Galatasaray (TUR),5,0
+2019-12-11,1920,EU,Shakhtar Donetsk (UKR),Atalanta,0,3
+2020-02-18,1920,EU,Ath Madrid,Liverpool,1,0
+2020-02-18,1920,EU,Dortmund,Paris SG,2,1
+2020-02-19,1920,EU,Atalanta,Valencia,4,1
+2020-02-19,1920,EU,Tottenham,RB Leipzig,0,1
+2020-02-25,1920,EU,Chelsea,Bayern Munich,0,3
+2020-02-25,1920,EU,Napoli,Barcelona,1,1
+2020-02-26,1920,EU,Lyon,Juventus,1,0
+2020-02-26,1920,EU,Real Madrid,Man City,1,2
+2020-03-10,1920,EU,RB Leipzig,Tottenham,3,0
+2020-03-10,1920,EU,Valencia,Atalanta,3,4
+2020-03-11,1920,EU,Liverpool,Ath Madrid,1,0
+2020-03-11,1920,EU,Paris SG,Dortmund,2,0
+2020-08-07,1920,EU,Juventus,Lyon,2,1
+2020-08-07,1920,EU,Man City,Real Madrid,2,1
+2020-08-08,1920,EU,Barcelona,Napoli,3,1
+2020-08-08,1920,EU,Bayern Munich,Chelsea,4,1
+2020-08-12,1920,EU,Atalanta,Paris SG,1,2
+2020-08-13,1920,EU,RB Leipzig,Ath Madrid,2,1
+2020-08-14,1920,EU,Barcelona,Bayern Munich,2,8
+2020-08-15,1920,EU,Man City,Lyon,1,3
+2020-08-18,1920,EU,RB Leipzig,Paris SG,0,3
+2020-08-19,1920,EU,Lyon,Bayern Munich,0,3
+2020-08-23,1920,EUN,Paris SG,Bayern Munich,0,1
+2020-10-20,2021,EU,Barcelona,Ferencvárosi TC (HUN),5,1
+2020-10-20,2021,EU,Chelsea,Sevilla,0,0
+2020-10-20,2021,EU,Dinamo Kiev (UKR),Juventus,0,2
+2020-10-20,2021,EU,Lazio,Dortmund,3,1
+2020-10-20,2021,EU,Paris SG,Man United,1,2
+2020-10-20,2021,EU,RB Leipzig,İstanbul Başakşehir (TUR),2,0
+2020-10-20,2021,EU,Rennes,FK Krasnodar (RUS),1,1
+2020-10-20,2021,EU,Zenit St. Petersburg (RUS),Club Brugge KV (BEL),1,2
+2020-10-21,2021,EU,AFC Ajax (NED),Liverpool,0,1
+2020-10-21,2021,EU,Bayern Munich,Ath Madrid,4,0
+2020-10-21,2021,EU,FC Midtjylland (DEN),Atalanta,0,4
+2020-10-21,2021,EU,Inter,M'gladbach,2,2
+2020-10-21,2021,EU,Man City,FC Porto (POR),3,1
+2020-10-21,2021,EU,Olympiakos Piraeus (GRE),Marseille,1,0
+2020-10-21,2021,EU,RB Salzburg (AUT),Lokomotiv Moskva (RUS),2,2
+2020-10-21,2021,EU,Real Madrid,Shakhtar Donetsk (UKR),2,3
+2020-10-22,2021,EU,AC Sparta Praha (CZE),Lille,1,4
+2020-10-22,2021,EU,BSC Young Boys (SUI),Roma,1,2
+2020-10-22,2021,EU,Celtic FC (SCO),Milan,1,3
+2020-10-22,2021,EU,CSKA Sofia (BUL),CFR Cluj (ROU),0,2
+2020-10-22,2021,EU,Dinamo Zagreb (CRO),Feyenoord (NED),0,0
+2020-10-22,2021,EU,Dundalk FC (IRL),Molde FK (NOR),1,2
+2020-10-22,2021,EU,Hapoel Be'er Sheva (ISR),Slavia Praha (CZE),3,1
+2020-10-22,2021,EU,HNK Rijeka (CRO),Sociedad,0,1
+2020-10-22,2021,EU,Hoffenheim,Crvena Zvezda (SRB),2,0
+2020-10-22,2021,EU,Lech Poznań (POL),SL Benfica (POR),2,4
+2020-10-22,2021,EU,Leicester,Zorya Lugansk (UKR),3,0
+2020-10-22,2021,EU,Leverkusen,Nice,6,2
+2020-10-22,2021,EU,Maccabi Tel Aviv (ISR),Qarabağ FK (AZE),1,0
+2020-10-22,2021,EU,Napoli,AZ Alkmaar (NED),0,1
+2020-10-22,2021,EU,PAOK Saloniki (GRE),Omonia Nikosia (CYP),1,1
+2020-10-22,2021,EU,PFC Ludogorets Razgrad (BUL),Royal Antwerp FC (BEL),1,2
+2020-10-22,2021,EU,PSV Eindhoven (NED),Granada,1,2
+2020-10-22,2021,EU,Rapid Wien (AUT),Arsenal,1,2
+2020-10-22,2021,EU,Slovan Liberec (CZE),KAA Gent (BEL),1,0
+2020-10-22,2021,EU,Sporting Braga (POR),AEK Athen (GRE),3,0
+2020-10-22,2021,EU,Standard Liège (BEL),Rangers FC (SCO),0,2
+2020-10-22,2021,EU,Tottenham,LASK (AUT),3,0
+2020-10-22,2021,EU,Villarreal,Sivasspor (TUR),5,3
+2020-10-22,2021,EU,Wolfsberger AC (AUT),CSKA Moskva (RUS),1,1
+2020-10-27,2021,EU,Atalanta,AFC Ajax (NED),2,2
+2020-10-27,2021,EU,Ath Madrid,RB Salzburg (AUT),3,2
+2020-10-27,2021,EU,FC Porto (POR),Olympiakos Piraeus (GRE),2,0
+2020-10-27,2021,EU,Liverpool,FC Midtjylland (DEN),2,0
+2020-10-27,2021,EU,Lokomotiv Moskva (RUS),Bayern Munich,1,2
+2020-10-27,2021,EU,M'gladbach,Real Madrid,2,2
+2020-10-27,2021,EU,Marseille,Man City,0,3
+2020-10-27,2021,EU,Shakhtar Donetsk (UKR),Inter,0,0
+2020-10-28,2021,EU,Club Brugge KV (BEL),Lazio,1,1
+2020-10-28,2021,EU,Dortmund,Zenit St. Petersburg (RUS),2,0
+2020-10-28,2021,EU,Ferencvárosi TC (HUN),Dinamo Kiev (UKR),2,2
+2020-10-28,2021,EU,FK Krasnodar (RUS),Chelsea,0,4
+2020-10-28,2021,EU,İstanbul Başakşehir (TUR),Paris SG,0,2
+2020-10-28,2021,EU,Juventus,Barcelona,0,2
+2020-10-28,2021,EU,Man United,RB Leipzig,5,0
+2020-10-28,2021,EU,Sevilla,Rennes,1,0
+2020-10-29,2021,EU,AEK Athen (GRE),Leicester,1,2
+2020-10-29,2021,EU,Arsenal,Dundalk FC (IRL),3,0
+2020-10-29,2021,EU,AZ Alkmaar (NED),HNK Rijeka (CRO),4,1
+2020-10-29,2021,EU,CFR Cluj (ROU),BSC Young Boys (SUI),1,1
+2020-10-29,2021,EU,Crvena Zvezda (SRB),Slovan Liberec (CZE),5,1
+2020-10-29,2021,EU,CSKA Moskva (RUS),Dinamo Zagreb (CRO),0,0
+2020-10-29,2021,EU,Feyenoord (NED),Wolfsberger AC (AUT),1,4
+2020-10-29,2021,EU,Granada,PAOK Saloniki (GRE),0,0
+2020-10-29,2021,EU,KAA Gent (BEL),Hoffenheim,1,4
+2020-10-29,2021,EU,LASK (AUT),PFC Ludogorets Razgrad (BUL),4,3
+2020-10-29,2021,EU,Lille,Celtic FC (SCO),2,2
+2020-10-29,2021,EU,Milan,AC Sparta Praha (CZE),3,0
+2020-10-29,2021,EU,Molde FK (NOR),Rapid Wien (AUT),1,0
+2020-10-29,2021,EU,Nice,Hapoel Be'er Sheva (ISR),1,0
+2020-10-29,2021,EU,Omonia Nikosia (CYP),PSV Eindhoven (NED),1,2
+2020-10-29,2021,EU,Qarabağ FK (AZE),Villarreal,1,3
+2020-10-29,2021,EU,Rangers FC (SCO),Lech Poznań (POL),1,0
+2020-10-29,2021,EU,Roma,CSKA Sofia (BUL),0,0
+2020-10-29,2021,EU,Royal Antwerp FC (BEL),Tottenham,1,0
+2020-10-29,2021,EU,Sivasspor (TUR),Maccabi Tel Aviv (ISR),1,2
+2020-10-29,2021,EU,SL Benfica (POR),Standard Liège (BEL),3,0
+2020-10-29,2021,EU,Slavia Praha (CZE),Leverkusen,1,0
+2020-10-29,2021,EU,Sociedad,Napoli,0,1
+2020-10-29,2021,EU,Zorya Lugansk (UKR),Sporting Braga (POR),1,2
+2020-11-03,2021,EU,Atalanta,Liverpool,0,5
+2020-11-03,2021,EU,FC Midtjylland (DEN),AFC Ajax (NED),1,2
+2020-11-03,2021,EU,FC Porto (POR),Marseille,3,0
+2020-11-03,2021,EU,Lokomotiv Moskva (RUS),Ath Madrid,1,1
+2020-11-03,2021,EU,Man City,Olympiakos Piraeus (GRE),3,0
+2020-11-03,2021,EU,RB Salzburg (AUT),Bayern Munich,2,6
+2020-11-03,2021,EU,Real Madrid,Inter,3,2
+2020-11-03,2021,EU,Shakhtar Donetsk (UKR),M'gladbach,0,6
+2020-11-04,2021,EU,Barcelona,Dinamo Kiev (UKR),2,1
+2020-11-04,2021,EU,Chelsea,Rennes,3,0
+2020-11-04,2021,EU,Club Brugge KV (BEL),Dortmund,0,3
+2020-11-04,2021,EU,Ferencvárosi TC (HUN),Juventus,1,4
+2020-11-04,2021,EU,İstanbul Başakşehir (TUR),Man United,2,1
+2020-11-04,2021,EU,RB Leipzig,Paris SG,2,1
+2020-11-04,2021,EU,Sevilla,FK Krasnodar (RUS),3,2
+2020-11-04,2021,EU,Zenit St. Petersburg (RUS),Lazio,1,1
+2020-11-05,2021,EU,Arsenal,Molde FK (NOR),4,1
+2020-11-05,2021,EU,BSC Young Boys (SUI),CSKA Sofia (BUL),3,0
+2020-11-05,2021,EU,Celtic FC (SCO),AC Sparta Praha (CZE),1,4
+2020-11-05,2021,EU,Crvena Zvezda (SRB),KAA Gent (BEL),2,1
+2020-11-05,2021,EU,Dinamo Zagreb (CRO),Wolfsberger AC (AUT),1,0
+2020-11-05,2021,EU,Feyenoord (NED),CSKA Moskva (RUS),3,1
+2020-11-05,2021,EU,Hapoel Be'er Sheva (ISR),Leverkusen,2,4
+2020-11-05,2021,EU,HNK Rijeka (CRO),Napoli,1,2
+2020-11-05,2021,EU,Hoffenheim,Slovan Liberec (CZE),5,0
+2020-11-05,2021,EU,Lech Poznań (POL),Standard Liège (BEL),3,1
+2020-11-05,2021,EU,Leicester,Sporting Braga (POR),4,0
+2020-11-05,2021,EU,Milan,Lille,0,3
+2020-11-05,2021,EU,Omonia Nikosia (CYP),Granada,0,2
+2020-11-05,2021,EU,PAOK Saloniki (GRE),PSV Eindhoven (NED),4,1
+2020-11-05,2021,EU,PFC Ludogorets Razgrad (BUL),Tottenham,1,3
+2020-11-05,2021,EU,Rapid Wien (AUT),Dundalk FC (IRL),4,3
+2020-11-05,2021,EU,Roma,CFR Cluj (ROU),5,0
+2020-11-05,2021,EU,Royal Antwerp FC (BEL),LASK (AUT),0,1
+2020-11-05,2021,EU,Sivasspor (TUR),Qarabağ FK (AZE),2,0
+2020-11-05,2021,EU,SL Benfica (POR),Rangers FC (SCO),3,3
+2020-11-05,2021,EU,Slavia Praha (CZE),Nice,3,2
+2020-11-05,2021,EU,Sociedad,AZ Alkmaar (NED),1,0
+2020-11-05,2021,EU,Villarreal,Maccabi Tel Aviv (ISR),4,0
+2020-11-05,2021,EU,Zorya Lugansk (UKR),AEK Athen (GRE),1,4
+2020-11-24,2021,EU,Dinamo Kiev (UKR),Barcelona,0,4
+2020-11-24,2021,EU,Dortmund,Club Brugge KV (BEL),3,0
+2020-11-24,2021,EU,FK Krasnodar (RUS),Sevilla,1,2
+2020-11-24,2021,EU,Juventus,Ferencvárosi TC (HUN),2,1
+2020-11-24,2021,EU,Lazio,Zenit St. Petersburg (RUS),3,1
+2020-11-24,2021,EU,Man United,İstanbul Başakşehir (TUR),4,1
+2020-11-24,2021,EU,Paris SG,RB Leipzig,1,0
+2020-11-24,2021,EU,Rennes,Chelsea,1,2
+2020-11-25,2021,EU,AFC Ajax (NED),FC Midtjylland (DEN),3,1
+2020-11-25,2021,EU,Ath Madrid,Lokomotiv Moskva (RUS),0,0
+2020-11-25,2021,EU,Bayern Munich,RB Salzburg (AUT),3,1
+2020-11-25,2021,EU,Inter,Real Madrid,0,2
+2020-11-25,2021,EU,Liverpool,Atalanta,0,2
+2020-11-25,2021,EU,M'gladbach,Shakhtar Donetsk (UKR),4,0
+2020-11-25,2021,EU,Marseille,FC Porto (POR),0,2
+2020-11-25,2021,EU,Olympiakos Piraeus (GRE),Man City,0,1
+2020-11-26,2021,EU,AC Sparta Praha (CZE),Celtic FC (SCO),4,1
+2020-11-26,2021,EU,AEK Athen (GRE),Zorya Lugansk (UKR),0,3
+2020-11-26,2021,EU,AZ Alkmaar (NED),Sociedad,0,0
+2020-11-26,2021,EU,CFR Cluj (ROU),Roma,0,2
+2020-11-26,2021,EU,CSKA Moskva (RUS),Feyenoord (NED),0,0
+2020-11-26,2021,EU,CSKA Sofia (BUL),BSC Young Boys (SUI),0,1
+2020-11-26,2021,EU,Dundalk FC (IRL),Rapid Wien (AUT),1,3
+2020-11-26,2021,EU,Granada,Omonia Nikosia (CYP),2,1
+2020-11-26,2021,EU,KAA Gent (BEL),Crvena Zvezda (SRB),0,2
+2020-11-26,2021,EU,LASK (AUT),Royal Antwerp FC (BEL),0,2
+2020-11-26,2021,EU,Leverkusen,Hapoel Be'er Sheva (ISR),4,1
+2020-11-26,2021,EU,Lille,Milan,1,1
+2020-11-26,2021,EU,Maccabi Tel Aviv (ISR),Villarreal,1,1
+2020-11-26,2021,EU,Molde FK (NOR),Arsenal,0,3
+2020-11-26,2021,EU,Napoli,HNK Rijeka (CRO),2,0
+2020-11-26,2021,EU,Nice,Slavia Praha (CZE),1,3
+2020-11-26,2021,EU,PSV Eindhoven (NED),PAOK Saloniki (GRE),3,2
+2020-11-26,2021,EU,Qarabağ FK (AZE),Sivasspor (TUR),2,3
+2020-11-26,2021,EU,Rangers FC (SCO),SL Benfica (POR),2,2
+2020-11-26,2021,EU,Slovan Liberec (CZE),Hoffenheim,0,2
+2020-11-26,2021,EU,Sporting Braga (POR),Leicester,3,3
+2020-11-26,2021,EU,Standard Liège (BEL),Lech Poznań (POL),2,1
+2020-11-26,2021,EU,Tottenham,PFC Ludogorets Razgrad (BUL),4,0
+2020-11-26,2021,EU,Wolfsberger AC (AUT),Dinamo Zagreb (CRO),0,3
+2020-12-01,2021,EU,Atalanta,FC Midtjylland (DEN),1,1
+2020-12-01,2021,EU,Ath Madrid,Bayern Munich,1,1
+2020-12-01,2021,EU,FC Porto (POR),Man City,0,0
+2020-12-01,2021,EU,Liverpool,AFC Ajax (NED),1,0
+2020-12-01,2021,EU,Lokomotiv Moskva (RUS),RB Salzburg (AUT),1,3
+2020-12-01,2021,EU,M'gladbach,Inter,2,3
+2020-12-01,2021,EU,Marseille,Olympiakos Piraeus (GRE),2,1
+2020-12-01,2021,EU,Shakhtar Donetsk (UKR),Real Madrid,2,0
+2020-12-02,2021,EU,Club Brugge KV (BEL),Zenit St. Petersburg (RUS),3,0
+2020-12-02,2021,EU,Dortmund,Lazio,1,1
+2020-12-02,2021,EU,Ferencvárosi TC (HUN),Barcelona,0,3
+2020-12-02,2021,EU,FK Krasnodar (RUS),Rennes,1,0
+2020-12-02,2021,EU,İstanbul Başakşehir (TUR),RB Leipzig,3,4
+2020-12-02,2021,EU,Juventus,Dinamo Kiev (UKR),3,0
+2020-12-02,2021,EU,Man United,Paris SG,1,3
+2020-12-02,2021,EU,Sevilla,Chelsea,0,4
+2020-12-03,2021,EU,AEK Athen (GRE),Sporting Braga (POR),2,4
+2020-12-03,2021,EU,Arsenal,Rapid Wien (AUT),4,1
+2020-12-03,2021,EU,AZ Alkmaar (NED),Napoli,1,1
+2020-12-03,2021,EU,CFR Cluj (ROU),CSKA Sofia (BUL),0,0
+2020-12-03,2021,EU,Crvena Zvezda (SRB),Hoffenheim,0,0
+2020-12-03,2021,EU,CSKA Moskva (RUS),Wolfsberger AC (AUT),0,1
+2020-12-03,2021,EU,Feyenoord (NED),Dinamo Zagreb (CRO),0,2
+2020-12-03,2021,EU,Granada,PSV Eindhoven (NED),0,1
+2020-12-03,2021,EU,KAA Gent (BEL),Slovan Liberec (CZE),1,2
+2020-12-03,2021,EU,LASK (AUT),Tottenham,3,3
+2020-12-03,2021,EU,Lille,AC Sparta Praha (CZE),2,1
+2020-12-03,2021,EU,Milan,Celtic FC (SCO),4,2
+2020-12-03,2021,EU,Molde FK (NOR),Dundalk FC (IRL),3,1
+2020-12-03,2021,EU,Nice,Leverkusen,2,3
+2020-12-03,2021,EU,Omonia Nikosia (CYP),PAOK Saloniki (GRE),2,1
+2020-12-03,2021,EU,Qarabağ FK (AZE),Maccabi Tel Aviv (ISR),1,1
+2020-12-03,2021,EU,Rangers FC (SCO),Standard Liège (BEL),3,2
+2020-12-03,2021,EU,Roma,BSC Young Boys (SUI),3,1
+2020-12-03,2021,EU,Royal Antwerp FC (BEL),PFC Ludogorets Razgrad (BUL),3,1
+2020-12-03,2021,EU,Sivasspor (TUR),Villarreal,0,1
+2020-12-03,2021,EU,SL Benfica (POR),Lech Poznań (POL),4,0
+2020-12-03,2021,EU,Slavia Praha (CZE),Hapoel Be'er Sheva (ISR),3,0
+2020-12-03,2021,EU,Sociedad,HNK Rijeka (CRO),2,2
+2020-12-03,2021,EU,Zorya Lugansk (UKR),Leicester,1,0
+2020-12-08,2021,EU,Barcelona,Juventus,0,3
+2020-12-08,2021,EU,Chelsea,FK Krasnodar (RUS),1,1
+2020-12-08,2021,EU,Dinamo Kiev (UKR),Ferencvárosi TC (HUN),1,0
+2020-12-08,2021,EU,Lazio,Club Brugge KV (BEL),2,2
+2020-12-08,2021,EU,RB Leipzig,Man United,3,2
+2020-12-08,2021,EU,Rennes,Sevilla,1,3
+2020-12-08,2021,EU,Zenit St. Petersburg (RUS),Dortmund,1,2
+2020-12-09,2021,EU,AFC Ajax (NED),Atalanta,0,1
+2020-12-09,2021,EU,Bayern Munich,Lokomotiv Moskva (RUS),2,0
+2020-12-09,2021,EU,FC Midtjylland (DEN),Liverpool,1,1
+2020-12-09,2021,EU,Inter,Shakhtar Donetsk (UKR),0,0
+2020-12-09,2021,EU,Man City,Marseille,3,0
+2020-12-09,2021,EU,Olympiakos Piraeus (GRE),FC Porto (POR),0,2
+2020-12-09,2021,EU,Paris SG,İstanbul Başakşehir (TUR),5,1
+2020-12-09,2021,EU,RB Salzburg (AUT),Ath Madrid,0,2
+2020-12-09,2021,EU,Real Madrid,M'gladbach,2,0
+2020-12-10,2021,EU,AC Sparta Praha (CZE),Milan,0,1
+2020-12-10,2021,EU,BSC Young Boys (SUI),CFR Cluj (ROU),2,1
+2020-12-10,2021,EU,Celtic FC (SCO),Lille,3,2
+2020-12-10,2021,EU,CSKA Sofia (BUL),Roma,3,1
+2020-12-10,2021,EU,Dinamo Zagreb (CRO),CSKA Moskva (RUS),3,1
+2020-12-10,2021,EU,Dundalk FC (IRL),Arsenal,2,4
+2020-12-10,2021,EU,Hapoel Be'er Sheva (ISR),Nice,1,0
+2020-12-10,2021,EU,HNK Rijeka (CRO),AZ Alkmaar (NED),2,1
+2020-12-10,2021,EU,Hoffenheim,KAA Gent (BEL),4,1
+2020-12-10,2021,EU,Lech Poznań (POL),Rangers FC (SCO),0,2
+2020-12-10,2021,EU,Leicester,AEK Athen (GRE),2,0
+2020-12-10,2021,EU,Leverkusen,Slavia Praha (CZE),4,0
+2020-12-10,2021,EU,Maccabi Tel Aviv (ISR),Sivasspor (TUR),1,0
+2020-12-10,2021,EU,Napoli,Sociedad,1,1
+2020-12-10,2021,EU,PAOK Saloniki (GRE),Granada,0,0
+2020-12-10,2021,EU,PFC Ludogorets Razgrad (BUL),LASK (AUT),1,3
+2020-12-10,2021,EU,PSV Eindhoven (NED),Omonia Nikosia (CYP),4,0
+2020-12-10,2021,EU,Rapid Wien (AUT),Molde FK (NOR),2,2
+2020-12-10,2021,EU,Slovan Liberec (CZE),Crvena Zvezda (SRB),0,0
+2020-12-10,2021,EU,Sporting Braga (POR),Zorya Lugansk (UKR),2,0
+2020-12-10,2021,EU,Standard Liège (BEL),SL Benfica (POR),2,2
+2020-12-10,2021,EU,Tottenham,Royal Antwerp FC (BEL),2,0
+2020-12-10,2021,EU,Villarreal,Qarabağ FK (AZE),3,0
+2020-12-10,2021,EU,Wolfsberger AC (AUT),Feyenoord (NED),1,0
+2021-02-16,2021,EU,Barcelona,Paris SG,1,4
+2021-02-16,2021,EU,RB Leipzig,Liverpool,0,2
+2021-02-17,2021,EU,FC Porto (POR),Juventus,2,1
+2021-02-17,2021,EU,Sevilla,Dortmund,2,3
+2021-02-18,2021,EU,BSC Young Boys (SUI),Leverkusen,4,3
+2021-02-18,2021,EU,Crvena Zvezda (SRB),Milan,2,2
+2021-02-18,2021,EU,Dinamo Kiev (UKR),Club Brugge KV (BEL),1,1
+2021-02-18,2021,EU,FK Krasnodar (RUS),Dinamo Zagreb (CRO),2,3
+2021-02-18,2021,EU,Granada,Napoli,2,0
+2021-02-18,2021,EU,Lille,AFC Ajax (NED),1,2
+2021-02-18,2021,EU,Maccabi Tel Aviv (ISR),Shakhtar Donetsk (UKR),0,2
+2021-02-18,2021,EU,Molde FK (NOR),Hoffenheim,3,3
+2021-02-18,2021,EU,Olympiakos Piraeus (GRE),PSV Eindhoven (NED),4,2
+2021-02-18,2021,EU,RB Salzburg (AUT),Villarreal,0,2
+2021-02-18,2021,EU,Royal Antwerp FC (BEL),Rangers FC (SCO),3,4
+2021-02-18,2021,EU,SL Benfica (POR),Arsenal,1,1
+2021-02-18,2021,EU,Slavia Praha (CZE),Leicester,0,0
+2021-02-18,2021,EU,Sociedad,Man United,0,4
+2021-02-18,2021,EU,Sporting Braga (POR),Roma,0,2
+2021-02-18,2021,EU,Wolfsberger AC (AUT),Tottenham,1,4
+2021-02-23,2021,EU,Ath Madrid,Chelsea,0,1
+2021-02-23,2021,EU,Lazio,Bayern Munich,1,4
+2021-02-24,2021,EU,Atalanta,Real Madrid,0,1
+2021-02-24,2021,EU,M'gladbach,Man City,0,2
+2021-02-24,2021,EU,Tottenham,Wolfsberger AC (AUT),4,0
+2021-02-25,2021,EU,AFC Ajax (NED),Lille,2,1
+2021-02-25,2021,EU,Arsenal,SL Benfica (POR),3,2
+2021-02-25,2021,EU,Club Brugge KV (BEL),Dinamo Kiev (UKR),0,1
+2021-02-25,2021,EU,Dinamo Zagreb (CRO),FK Krasnodar (RUS),1,0
+2021-02-25,2021,EU,Hoffenheim,Molde FK (NOR),0,2
+2021-02-25,2021,EU,Leicester,Slavia Praha (CZE),0,2
+2021-02-25,2021,EU,Leverkusen,BSC Young Boys (SUI),0,2
+2021-02-25,2021,EU,Man United,Sociedad,0,0
+2021-02-25,2021,EU,Milan,Crvena Zvezda (SRB),1,1
+2021-02-25,2021,EU,Napoli,Granada,2,1
+2021-02-25,2021,EU,PSV Eindhoven (NED),Olympiakos Piraeus (GRE),2,1
+2021-02-25,2021,EU,Rangers FC (SCO),Royal Antwerp FC (BEL),5,2
+2021-02-25,2021,EU,Roma,Sporting Braga (POR),3,1
+2021-02-25,2021,EU,Shakhtar Donetsk (UKR),Maccabi Tel Aviv (ISR),1,0
+2021-02-25,2021,EU,Villarreal,RB Salzburg (AUT),2,1
+2021-03-09,2021,EU,Dortmund,Sevilla,2,2
+2021-03-09,2021,EU,Juventus,FC Porto (POR),2,1
+2021-03-10,2021,EU,Liverpool,RB Leipzig,2,0
+2021-03-10,2021,EU,Paris SG,Barcelona,1,1
+2021-03-11,2021,EU,AFC Ajax (NED),BSC Young Boys (SUI),3,0
+2021-03-11,2021,EU,Dinamo Kiev (UKR),Villarreal,0,2
+2021-03-11,2021,EU,Granada,Molde FK (NOR),2,0
+2021-03-11,2021,EU,Man United,Milan,1,1
+2021-03-11,2021,EU,Olympiakos Piraeus (GRE),Arsenal,1,3
+2021-03-11,2021,EU,Roma,Shakhtar Donetsk (UKR),3,0
+2021-03-11,2021,EU,Slavia Praha (CZE),Rangers FC (SCO),1,1
+2021-03-11,2021,EU,Tottenham,Dinamo Zagreb (CRO),2,0
+2021-03-16,2021,EU,Man City,M'gladbach,2,0
+2021-03-16,2021,EU,Real Madrid,Atalanta,3,1
+2021-03-17,2021,EU,Bayern Munich,Lazio,2,1
+2021-03-17,2021,EU,Chelsea,Ath Madrid,2,0
+2021-03-18,2021,EU,Arsenal,Olympiakos Piraeus (GRE),0,1
+2021-03-18,2021,EU,BSC Young Boys (SUI),AFC Ajax (NED),0,2
+2021-03-18,2021,EU,Dinamo Zagreb (CRO),Tottenham,2,0
+2021-03-18,2021,EU,Milan,Man United,0,1
+2021-03-18,2021,EU,Molde FK (NOR),Granada,2,1
+2021-03-18,2021,EU,Rangers FC (SCO),Slavia Praha (CZE),0,2
+2021-03-18,2021,EU,Shakhtar Donetsk (UKR),Roma,1,2
+2021-03-18,2021,EU,Villarreal,Dinamo Kiev (UKR),2,0
+2021-04-06,2021,EU,Man City,Dortmund,2,1
+2021-04-06,2021,EU,Real Madrid,Liverpool,3,1
+2021-04-07,2021,EU,Bayern Munich,Paris SG,2,3
+2021-04-07,2021,EU,FC Porto (POR),Chelsea,0,2
+2021-04-08,2021,EU,AFC Ajax (NED),Roma,1,2
+2021-04-08,2021,EU,Arsenal,Slavia Praha (CZE),1,1
+2021-04-08,2021,EU,Dinamo Zagreb (CRO),Villarreal,0,1
+2021-04-08,2021,EU,Granada,Man United,0,2
+2021-04-13,2021,EU,Chelsea,FC Porto (POR),0,1
+2021-04-13,2021,EU,Paris SG,Bayern Munich,0,1
+2021-04-14,2021,EU,Dortmund,Man City,1,2
+2021-04-14,2021,EU,Liverpool,Real Madrid,0,0
+2021-04-15,2021,EU,Man United,Granada,2,0
+2021-04-15,2021,EU,Roma,AFC Ajax (NED),1,1
+2021-04-15,2021,EU,Slavia Praha (CZE),Arsenal,0,4
+2021-04-15,2021,EU,Villarreal,Dinamo Zagreb (CRO),2,1
+2021-04-27,2021,EU,Real Madrid,Chelsea,1,1
+2021-04-28,2021,EU,Paris SG,Man City,1,2
+2021-04-29,2021,EU,Man United,Roma,6,2
+2021-04-29,2021,EU,Villarreal,Arsenal,2,1
+2021-05-04,2021,EU,Man City,Paris SG,2,0
+2021-05-05,2021,EU,Chelsea,Real Madrid,2,0
+2021-05-06,2021,EU,Arsenal,Villarreal,0,0
+2021-05-06,2021,EU,Roma,Man United,3,2
+2021-05-26,2021,EUN,Villarreal,Man United,1,1
+2021-05-29,2021,EUN,Man City,Chelsea,0,1
+2021-09-14,2122,EU,Barcelona,Bayern Munich,0,3
+2021-09-14,2122,EU,BSC Young Boys (SUI),Man United,2,1
+2021-09-14,2122,EU,Chelsea,Zenit St. Petersburg (RUS),1,0
+2021-09-14,2122,EU,Dinamo Kiev (UKR),SL Benfica (POR),0,0
+2021-09-14,2122,EU,Lille,Wolfsburg,0,0
+2021-09-14,2122,EU,Maccabi Haifa (ISR),Feyenoord (NED),0,0
+2021-09-14,2122,EU,Maccabi Tel Aviv (ISR),FC Alashkert (ARM),4,1
+2021-09-14,2122,EU,Malmö FF (SWE),Juventus,0,3
+2021-09-14,2122,EU,Sevilla,RB Salzburg (AUT),1,1
+2021-09-14,2122,EU,Villarreal,Atalanta,2,2
+2021-09-15,2122,EU,Ath Madrid,FC Porto (POR),0,0
+2021-09-15,2122,EU,Beşiktaş (TUR),Dortmund,1,2
+2021-09-15,2122,EU,Club Brugge KV (BEL),Paris SG,1,1
+2021-09-15,2122,EU,FC Sheriff (MDA),Shakhtar Donetsk (UKR),2,0
+2021-09-15,2122,EU,Inter,Real Madrid,0,1
+2021-09-15,2122,EU,Liverpool,Milan,3,2
+2021-09-15,2122,EU,Man City,RB Leipzig,6,3
+2021-09-15,2122,EU,Spartak Moskva (RUS),Legia Warszawa (POL),0,1
+2021-09-15,2122,EU,Sporting CP (POR),AFC Ajax (NED),1,5
+2021-09-16,2122,EU,Anorthosis Famagusta (CYP),Partizan (SRB),0,2
+2021-09-16,2122,EU,Betis,Celtic FC (SCO),4,3
+2021-09-16,2122,EU,Brøndby IF (DEN),AC Sparta Praha (CZE),0,0
+2021-09-16,2122,EU,Crvena Zvezda (SRB),Sporting Braga (POR),2,1
+2021-09-16,2122,EU,Dinamo Zagreb (CRO),West Ham,0,2
+2021-09-16,2122,EU,Ein Frankfurt,Fenerbahçe (TUR),1,1
+2021-09-16,2122,EU,FC Flora (EST),KAA Gent (BEL),0,1
+2021-09-16,2122,EU,FC Midtjylland (DEN),PFC Ludogorets Razgrad (BUL),1,1
+2021-09-16,2122,EU,FK Bodø/Glimt (NOR),Zorya Lugansk (UKR),3,1
+2021-09-16,2122,EU,FK Jablonec (CZE),CFR Cluj (ROU),1,0
+2021-09-16,2122,EU,FK Kairat (KAZ),Omonia Nikosia (CYP),0,0
+2021-09-16,2122,EU,Galatasaray (TUR),Lazio,1,0
+2021-09-16,2122,EU,HJK Helsinki (FIN),LASK (AUT),0,2
+2021-09-16,2122,EU,Leicester,Napoli,2,2
+2021-09-16,2122,EU,Leverkusen,Ferencvárosi TC (HUN),2,1
+2021-09-16,2122,EU,Lincoln Red Imps (GIB),PAOK Saloniki (GRE),0,2
+2021-09-16,2122,EU,Lokomotiv Moskva (RUS),Marseille,1,1
+2021-09-16,2122,EU,Monaco,Sturm Graz (AUT),1,0
+2021-09-16,2122,EU,NŠ Mura (SVN),Vitesse (NED),0,2
+2021-09-16,2122,EU,Olympiakos Piraeus (GRE),Royal Antwerp FC (BEL),2,1
+2021-09-16,2122,EU,PSV Eindhoven (NED),Sociedad,2,2
+2021-09-16,2122,EU,Qarabağ FK (AZE),FC Basel 1893 (SUI),0,0
+2021-09-16,2122,EU,Randers FC (DEN),AZ Alkmaar (NED),2,2
+2021-09-16,2122,EU,Rangers FC (SCO),Lyon,0,2
+2021-09-16,2122,EU,Rapid Wien (AUT),KRC Genk (BEL),0,1
+2021-09-16,2122,EU,Rennes,Tottenham,2,2
+2021-09-16,2122,EU,Roma,CSKA Sofia (BUL),5,1
+2021-09-16,2122,EU,Slavia Praha (CZE),Union Berlin,3,1
+2021-09-16,2122,EU,Slovan Bratislava (SVK),FC København (DEN),1,3
+2021-09-28,2122,EU,AFC Ajax (NED),Beşiktaş (TUR),2,0
+2021-09-28,2122,EU,Dortmund,Sporting CP (POR),1,0
+2021-09-28,2122,EU,FC Porto (POR),Liverpool,1,5
+2021-09-28,2122,EU,Milan,Ath Madrid,1,2
+2021-09-28,2122,EU,Paris SG,Man City,2,0
+2021-09-28,2122,EU,RB Leipzig,Club Brugge KV (BEL),1,2
+2021-09-28,2122,EU,Real Madrid,FC Sheriff (MDA),1,2
+2021-09-28,2122,EU,Shakhtar Donetsk (UKR),Inter,0,0
+2021-09-29,2122,EU,Atalanta,BSC Young Boys (SUI),1,0
+2021-09-29,2122,EU,Bayern Munich,Dinamo Kiev (UKR),5,0
+2021-09-29,2122,EU,Juventus,Chelsea,1,0
+2021-09-29,2122,EU,Man United,Villarreal,2,1
+2021-09-29,2122,EU,RB Salzburg (AUT),Lille,2,1
+2021-09-29,2122,EU,SL Benfica (POR),Barcelona,3,0
+2021-09-29,2122,EU,Wolfsburg,Sevilla,1,1
+2021-09-29,2122,EU,Zenit St. Petersburg (RUS),Malmö FF (SWE),4,0
+2021-09-30,2122,EU,AC Sparta Praha (CZE),Rangers FC (SCO),1,0
+2021-09-30,2122,EU,AZ Alkmaar (NED),FK Jablonec (CZE),1,0
+2021-09-30,2122,EU,Celtic FC (SCO),Leverkusen,0,4
+2021-09-30,2122,EU,CFR Cluj (ROU),Randers FC (DEN),1,1
+2021-09-30,2122,EU,CSKA Sofia (BUL),FK Bodø/Glimt (NOR),0,0
+2021-09-30,2122,EU,FC Alashkert (ARM),HJK Helsinki (FIN),2,4
+2021-09-30,2122,EU,FC Basel 1893 (SUI),FK Kairat (KAZ),4,2
+2021-09-30,2122,EU,FC København (DEN),Lincoln Red Imps (GIB),3,1
+2021-09-30,2122,EU,Fenerbahçe (TUR),Olympiakos Piraeus (GRE),0,3
+2021-09-30,2122,EU,Ferencvárosi TC (HUN),Betis,1,3
+2021-09-30,2122,EU,Feyenoord (NED),Slavia Praha (CZE),2,1
+2021-09-30,2122,EU,KAA Gent (BEL),Anorthosis Famagusta (CYP),2,0
+2021-09-30,2122,EU,KRC Genk (BEL),Dinamo Zagreb (CRO),0,3
+2021-09-30,2122,EU,LASK (AUT),Maccabi Tel Aviv (ISR),1,1
+2021-09-30,2122,EU,Lazio,Lokomotiv Moskva (RUS),2,0
+2021-09-30,2122,EU,Legia Warszawa (POL),Leicester,1,0
+2021-09-30,2122,EU,Lyon,Brøndby IF (DEN),3,0
+2021-09-30,2122,EU,Marseille,Galatasaray (TUR),0,0
+2021-09-30,2122,EU,Napoli,Spartak Moskva (RUS),2,3
+2021-09-30,2122,EU,Omonia Nikosia (CYP),Qarabağ FK (AZE),1,4
+2021-09-30,2122,EU,PAOK Saloniki (GRE),Slovan Bratislava (SVK),1,1
+2021-09-30,2122,EU,Partizan (SRB),FC Flora (EST),2,0
+2021-09-30,2122,EU,PFC Ludogorets Razgrad (BUL),Crvena Zvezda (SRB),0,1
+2021-09-30,2122,EU,Royal Antwerp FC (BEL),Ein Frankfurt,0,1
+2021-09-30,2122,EU,Sociedad,Monaco,1,1
+2021-09-30,2122,EU,Sporting Braga (POR),FC Midtjylland (DEN),3,1
+2021-09-30,2122,EU,Sturm Graz (AUT),PSV Eindhoven (NED),1,4
+2021-09-30,2122,EU,Tottenham,NŠ Mura (SVN),5,1
+2021-09-30,2122,EU,Union Berlin,Maccabi Haifa (ISR),3,0
+2021-09-30,2122,EU,Vitesse (NED),Rennes,1,2
+2021-09-30,2122,EU,West Ham,Rapid Wien (AUT),2,0
+2021-09-30,2122,EU,Zorya Lugansk (UKR),Roma,0,3
+2021-10-19,2122,EU,AFC Ajax (NED),Dortmund,4,0
+2021-10-19,2122,EU,Ath Madrid,Liverpool,2,3
+2021-10-19,2122,EU,Beşiktaş (TUR),Sporting CP (POR),1,4
+2021-10-19,2122,EU,Celtic FC (SCO),Ferencvárosi TC (HUN),2,0
+2021-10-19,2122,EU,Club Brugge KV (BEL),Man City,1,5
+2021-10-19,2122,EU,FC Porto (POR),Milan,1,0
+2021-10-19,2122,EU,Inter,FC Sheriff (MDA),3,1
+2021-10-19,2122,EU,Paris SG,RB Leipzig,3,2
+2021-10-19,2122,EU,Shakhtar Donetsk (UKR),Real Madrid,0,5
+2021-10-20,2122,EU,Barcelona,Dinamo Kiev (UKR),1,0
+2021-10-20,2122,EU,BSC Young Boys (SUI),Villarreal,1,4
+2021-10-20,2122,EU,Chelsea,Malmö FF (SWE),4,0
+2021-10-20,2122,EU,Lille,Sevilla,0,0
+2021-10-20,2122,EU,Man United,Atalanta,3,2
+2021-10-20,2122,EU,RB Salzburg (AUT),Wolfsburg,3,1
+2021-10-20,2122,EU,SL Benfica (POR),Bayern Munich,0,4
+2021-10-20,2122,EU,Spartak Moskva (RUS),Leicester,3,4
+2021-10-20,2122,EU,Zenit St. Petersburg (RUS),Juventus,0,1
+2021-10-21,2122,EU,AC Sparta Praha (CZE),Lyon,3,4
+2021-10-21,2122,EU,Anorthosis Famagusta (CYP),FC Flora (EST),2,2
+2021-10-21,2122,EU,Betis,Leverkusen,1,1
+2021-10-21,2122,EU,CFR Cluj (ROU),AZ Alkmaar (NED),0,1
+2021-10-21,2122,EU,CSKA Sofia (BUL),Zorya Lugansk (UKR),0,1
+2021-10-21,2122,EU,Ein Frankfurt,Olympiakos Piraeus (GRE),3,1
+2021-10-21,2122,EU,FC Alashkert (ARM),LASK (AUT),0,3
+2021-10-21,2122,EU,FC Basel 1893 (SUI),Omonia Nikosia (CYP),3,1
+2021-10-21,2122,EU,FC København (DEN),PAOK Saloniki (GRE),1,2
+2021-10-21,2122,EU,FC Midtjylland (DEN),Crvena Zvezda (SRB),1,1
+2021-10-21,2122,EU,Fenerbahçe (TUR),Royal Antwerp FC (BEL),2,2
+2021-10-21,2122,EU,Feyenoord (NED),Union Berlin,3,1
+2021-10-21,2122,EU,FK Bodø/Glimt (NOR),Roma,6,1
+2021-10-21,2122,EU,FK Jablonec (CZE),Randers FC (DEN),2,2
+2021-10-21,2122,EU,HJK Helsinki (FIN),Maccabi Tel Aviv (ISR),0,5
+2021-10-21,2122,EU,Lazio,Marseille,0,0
+2021-10-21,2122,EU,Lokomotiv Moskva (RUS),Galatasaray (TUR),0,1
+2021-10-21,2122,EU,Maccabi Haifa (ISR),Slavia Praha (CZE),1,0
+2021-10-21,2122,EU,Napoli,Legia Warszawa (POL),3,0
+2021-10-21,2122,EU,NŠ Mura (SVN),Rennes,1,2
+2021-10-21,2122,EU,Partizan (SRB),KAA Gent (BEL),0,1
+2021-10-21,2122,EU,PFC Ludogorets Razgrad (BUL),Sporting Braga (POR),0,1
+2021-10-21,2122,EU,PSV Eindhoven (NED),Monaco,1,2
+2021-10-21,2122,EU,Qarabağ FK (AZE),FK Kairat (KAZ),2,1
+2021-10-21,2122,EU,Rangers FC (SCO),Brøndby IF (DEN),2,0
+2021-10-21,2122,EU,Rapid Wien (AUT),Dinamo Zagreb (CRO),2,1
+2021-10-21,2122,EU,Slovan Bratislava (SVK),Lincoln Red Imps (GIB),2,0
+2021-10-21,2122,EU,Sturm Graz (AUT),Sociedad,0,1
+2021-10-21,2122,EU,Vitesse (NED),Tottenham,1,0
+2021-10-21,2122,EU,West Ham,KRC Genk (BEL),3,0
+2021-11-02,2122,EU,Atalanta,Man United,2,2
+2021-11-02,2122,EU,Bayern Munich,SL Benfica (POR),5,2
+2021-11-02,2122,EU,Dinamo Kiev (UKR),Barcelona,0,1
+2021-11-02,2122,EU,Juventus,Zenit St. Petersburg (RUS),4,2
+2021-11-02,2122,EU,Malmö FF (SWE),Chelsea,0,1
+2021-11-02,2122,EU,Sevilla,Lille,1,2
+2021-11-02,2122,EU,Villarreal,BSC Young Boys (SUI),2,0
+2021-11-02,2122,EU,Wolfsburg,RB Salzburg (AUT),2,1
+2021-11-03,2122,EU,Dortmund,AFC Ajax (NED),1,3
+2021-11-03,2122,EU,FC Sheriff (MDA),Inter,1,3
+2021-11-03,2122,EU,Liverpool,Ath Madrid,2,0
+2021-11-03,2122,EU,Man City,Club Brugge KV (BEL),4,1
+2021-11-03,2122,EU,Milan,FC Porto (POR),1,1
+2021-11-03,2122,EU,RB Leipzig,Paris SG,2,2
+2021-11-03,2122,EU,Real Madrid,Shakhtar Donetsk (UKR),2,1
+2021-11-03,2122,EU,Sporting CP (POR),Beşiktaş (TUR),4,0
+2021-11-04,2122,EU,AZ Alkmaar (NED),CFR Cluj (ROU),2,0
+2021-11-04,2122,EU,Brøndby IF (DEN),Rangers FC (SCO),1,1
+2021-11-04,2122,EU,Crvena Zvezda (SRB),FC Midtjylland (DEN),0,1
+2021-11-04,2122,EU,Dinamo Zagreb (CRO),Rapid Wien (AUT),3,1
+2021-11-04,2122,EU,FC Flora (EST),Anorthosis Famagusta (CYP),2,2
+2021-11-04,2122,EU,Ferencvárosi TC (HUN),Celtic FC (SCO),2,3
+2021-11-04,2122,EU,FK Kairat (KAZ),Qarabağ FK (AZE),1,2
+2021-11-04,2122,EU,Galatasaray (TUR),Lokomotiv Moskva (RUS),1,1
+2021-11-04,2122,EU,KAA Gent (BEL),Partizan (SRB),1,1
+2021-11-04,2122,EU,KRC Genk (BEL),West Ham,2,2
+2021-11-04,2122,EU,LASK (AUT),FC Alashkert (ARM),2,0
+2021-11-04,2122,EU,Legia Warszawa (POL),Napoli,1,4
+2021-11-04,2122,EU,Leicester,Spartak Moskva (RUS),1,1
+2021-11-04,2122,EU,Leverkusen,Betis,4,0
+2021-11-04,2122,EU,Lincoln Red Imps (GIB),Slovan Bratislava (SVK),1,4
+2021-11-04,2122,EU,Lyon,AC Sparta Praha (CZE),3,0
+2021-11-04,2122,EU,Maccabi Tel Aviv (ISR),HJK Helsinki (FIN),3,0
+2021-11-04,2122,EU,Marseille,Lazio,2,2
+2021-11-04,2122,EU,Monaco,PSV Eindhoven (NED),0,0
+2021-11-04,2122,EU,Olympiakos Piraeus (GRE),Ein Frankfurt,1,2
+2021-11-04,2122,EU,Omonia Nikosia (CYP),FC Basel 1893 (SUI),1,1
+2021-11-04,2122,EU,PAOK Saloniki (GRE),FC København (DEN),1,2
+2021-11-04,2122,EU,Randers FC (DEN),FK Jablonec (CZE),2,2
+2021-11-04,2122,EU,Rennes,NŠ Mura (SVN),1,0
+2021-11-04,2122,EU,Roma,FK Bodø/Glimt (NOR),2,2
+2021-11-04,2122,EU,Royal Antwerp FC (BEL),Fenerbahçe (TUR),0,3
+2021-11-04,2122,EU,Slavia Praha (CZE),Maccabi Haifa (ISR),1,0
+2021-11-04,2122,EU,Sociedad,Sturm Graz (AUT),1,1
+2021-11-04,2122,EU,Sporting Braga (POR),PFC Ludogorets Razgrad (BUL),4,2
+2021-11-04,2122,EU,Tottenham,Vitesse (NED),3,2
+2021-11-04,2122,EU,Union Berlin,Feyenoord (NED),1,2
+2021-11-04,2122,EU,Zorya Lugansk (UKR),CSKA Sofia (BUL),2,0
+2021-11-23,2122,EU,Barcelona,SL Benfica (POR),0,0
+2021-11-23,2122,EU,BSC Young Boys (SUI),Atalanta,3,3
+2021-11-23,2122,EU,Chelsea,Juventus,4,0
+2021-11-23,2122,EU,Dinamo Kiev (UKR),Bayern Munich,1,2
+2021-11-23,2122,EU,Lille,RB Salzburg (AUT),1,0
+2021-11-23,2122,EU,Malmö FF (SWE),Zenit St. Petersburg (RUS),1,1
+2021-11-23,2122,EU,Sevilla,Wolfsburg,2,0
+2021-11-23,2122,EU,Villarreal,Man United,0,2
+2021-11-24,2122,EU,Ath Madrid,Milan,0,1
+2021-11-24,2122,EU,Beşiktaş (TUR),AFC Ajax (NED),1,2
+2021-11-24,2122,EU,Club Brugge KV (BEL),RB Leipzig,0,5
+2021-11-24,2122,EU,FC Sheriff (MDA),Real Madrid,0,3
+2021-11-24,2122,EU,Inter,Shakhtar Donetsk (UKR),2,0
+2021-11-24,2122,EU,Liverpool,FC Porto (POR),2,0
+2021-11-24,2122,EU,Man City,Paris SG,2,1
+2021-11-24,2122,EU,Spartak Moskva (RUS),Napoli,2,1
+2021-11-24,2122,EU,Sporting CP (POR),Dortmund,3,1
+2021-11-25,2122,EU,Anorthosis Famagusta (CYP),KAA Gent (BEL),1,0
+2021-11-25,2122,EU,Betis,Ferencvárosi TC (HUN),2,0
+2021-11-25,2122,EU,Brøndby IF (DEN),Lyon,1,3
+2021-11-25,2122,EU,Crvena Zvezda (SRB),PFC Ludogorets Razgrad (BUL),1,0
+2021-11-25,2122,EU,Dinamo Zagreb (CRO),KRC Genk (BEL),1,1
+2021-11-25,2122,EU,Ein Frankfurt,Royal Antwerp FC (BEL),2,2
+2021-11-25,2122,EU,FC Flora (EST),Partizan (SRB),1,0
+2021-11-25,2122,EU,FC Midtjylland (DEN),Sporting Braga (POR),3,2
+2021-11-25,2122,EU,FK Bodø/Glimt (NOR),CSKA Sofia (BUL),2,0
+2021-11-25,2122,EU,FK Jablonec (CZE),AZ Alkmaar (NED),1,1
+2021-11-25,2122,EU,FK Kairat (KAZ),FC Basel 1893 (SUI),2,3
+2021-11-25,2122,EU,Galatasaray (TUR),Marseille,4,2
+2021-11-25,2122,EU,HJK Helsinki (FIN),FC Alashkert (ARM),1,0
+2021-11-25,2122,EU,Leicester,Legia Warszawa (POL),3,1
+2021-11-25,2122,EU,Leverkusen,Celtic FC (SCO),3,2
+2021-11-25,2122,EU,Lincoln Red Imps (GIB),FC København (DEN),0,4
+2021-11-25,2122,EU,Lokomotiv Moskva (RUS),Lazio,0,3
+2021-11-25,2122,EU,Maccabi Haifa (ISR),Union Berlin,0,1
+2021-11-25,2122,EU,Maccabi Tel Aviv (ISR),LASK (AUT),0,1
+2021-11-25,2122,EU,Monaco,Sociedad,2,1
+2021-11-25,2122,EU,NŠ Mura (SVN),Tottenham,2,1
+2021-11-25,2122,EU,Olympiakos Piraeus (GRE),Fenerbahçe (TUR),1,0
+2021-11-25,2122,EU,PSV Eindhoven (NED),Sturm Graz (AUT),2,0
+2021-11-25,2122,EU,Qarabağ FK (AZE),Omonia Nikosia (CYP),2,2
+2021-11-25,2122,EU,Randers FC (DEN),CFR Cluj (ROU),2,1
+2021-11-25,2122,EU,Rangers FC (SCO),AC Sparta Praha (CZE),2,0
+2021-11-25,2122,EU,Rapid Wien (AUT),West Ham,0,2
+2021-11-25,2122,EU,Rennes,Vitesse (NED),3,3
+2021-11-25,2122,EU,Roma,Zorya Lugansk (UKR),4,0
+2021-11-25,2122,EU,Slavia Praha (CZE),Feyenoord (NED),2,2
+2021-11-25,2122,EU,Slovan Bratislava (SVK),PAOK Saloniki (GRE),0,0
+2021-12-07,2122,EU,AFC Ajax (NED),Sporting CP (POR),4,2
+2021-12-07,2122,EU,Dortmund,Beşiktaş (TUR),5,0
+2021-12-07,2122,EU,FC Porto (POR),Ath Madrid,1,3
+2021-12-07,2122,EU,Milan,Liverpool,1,2
+2021-12-07,2122,EU,Paris SG,Club Brugge KV (BEL),4,1
+2021-12-07,2122,EU,RB Leipzig,Man City,2,1
+2021-12-07,2122,EU,Real Madrid,Inter,2,0
+2021-12-07,2122,EU,Shakhtar Donetsk (UKR),FC Sheriff (MDA),1,1
+2021-12-08,2122,EU,Bayern Munich,Barcelona,3,0
+2021-12-08,2122,EU,Juventus,Malmö FF (SWE),1,0
+2021-12-08,2122,EU,Man United,BSC Young Boys (SUI),1,1
+2021-12-08,2122,EU,RB Salzburg (AUT),Sevilla,1,0
+2021-12-08,2122,EU,SL Benfica (POR),Dinamo Kiev (UKR),2,0
+2021-12-08,2122,EU,Wolfsburg,Lille,1,3
+2021-12-08,2122,EU,Zenit St. Petersburg (RUS),Chelsea,3,3
+2021-12-09,2122,EU,AC Sparta Praha (CZE),Brøndby IF (DEN),2,0
+2021-12-09,2122,EU,Atalanta,Villarreal,2,3
+2021-12-09,2122,EU,AZ Alkmaar (NED),Randers FC (DEN),1,0
+2021-12-09,2122,EU,Celtic FC (SCO),Betis,3,2
+2021-12-09,2122,EU,CFR Cluj (ROU),FK Jablonec (CZE),2,0
+2021-12-09,2122,EU,CSKA Sofia (BUL),Roma,2,3
+2021-12-09,2122,EU,FC Alashkert (ARM),Maccabi Tel Aviv (ISR),1,1
+2021-12-09,2122,EU,FC Basel 1893 (SUI),Qarabağ FK (AZE),3,0
+2021-12-09,2122,EU,FC København (DEN),Slovan Bratislava (SVK),2,0
+2021-12-09,2122,EU,Fenerbahçe (TUR),Ein Frankfurt,1,1
+2021-12-09,2122,EU,Ferencvárosi TC (HUN),Leverkusen,1,0
+2021-12-09,2122,EU,Feyenoord (NED),Maccabi Haifa (ISR),2,1
+2021-12-09,2122,EU,KAA Gent (BEL),FC Flora (EST),1,0
+2021-12-09,2122,EU,KRC Genk (BEL),Rapid Wien (AUT),0,1
+2021-12-09,2122,EU,LASK (AUT),HJK Helsinki (FIN),3,0
+2021-12-09,2122,EU,Lazio,Galatasaray (TUR),0,0
+2021-12-09,2122,EU,Legia Warszawa (POL),Spartak Moskva (RUS),0,1
+2021-12-09,2122,EU,Lyon,Rangers FC (SCO),1,1
+2021-12-09,2122,EU,Marseille,Lokomotiv Moskva (RUS),1,0
+2021-12-09,2122,EU,Napoli,Leicester,3,2
+2021-12-09,2122,EU,Omonia Nikosia (CYP),FK Kairat (KAZ),0,0
+2021-12-09,2122,EU,PAOK Saloniki (GRE),Lincoln Red Imps (GIB),2,0
+2021-12-09,2122,EU,Partizan (SRB),Anorthosis Famagusta (CYP),1,1
+2021-12-09,2122,EU,PFC Ludogorets Razgrad (BUL),FC Midtjylland (DEN),0,0
+2021-12-09,2122,EU,Royal Antwerp FC (BEL),Olympiakos Piraeus (GRE),1,0
+2021-12-09,2122,EU,Sociedad,PSV Eindhoven (NED),3,0
+2021-12-09,2122,EU,Sporting Braga (POR),Crvena Zvezda (SRB),1,1
+2021-12-09,2122,EU,Sturm Graz (AUT),Monaco,1,1
+2021-12-09,2122,EU,Tottenham,Rennes,0,3
+2021-12-09,2122,EU,Union Berlin,Slavia Praha (CZE),1,1
+2021-12-09,2122,EU,Vitesse (NED),NŠ Mura (SVN),3,1
+2021-12-09,2122,EU,West Ham,Dinamo Zagreb (CRO),0,1
+2021-12-09,2122,EU,Zorya Lugansk (UKR),FK Bodø/Glimt (NOR),1,1
+2022-02-15,2122,EU,Paris SG,Real Madrid,1,0
+2022-02-15,2122,EU,Sporting CP (POR),Man City,0,5
+2022-02-16,2122,EU,Inter,Liverpool,0,2
+2022-02-16,2122,EU,RB Salzburg (AUT),Bayern Munich,1,1
+2022-02-17,2122,EU,AC Sparta Praha (CZE),Partizan (SRB),0,1
+2022-02-17,2122,EU,Atalanta,Olympiakos Piraeus (GRE),2,1
+2022-02-17,2122,EU,Barcelona,Napoli,1,1
+2022-02-17,2122,EU,Celtic FC (SCO),FK Bodø/Glimt (NOR),1,3
+2022-02-17,2122,EU,Dortmund,Rangers FC (SCO),2,4
+2022-02-17,2122,EU,FC Midtjylland (DEN),PAOK Saloniki (GRE),1,0
+2022-02-17,2122,EU,FC Porto (POR),Lazio,2,1
+2022-02-17,2122,EU,FC Sheriff (MDA),Sporting Braga (POR),2,0
+2022-02-17,2122,EU,Fenerbahçe (TUR),Slavia Praha (CZE),2,3
+2022-02-17,2122,EU,Leicester,Randers FC (DEN),4,1
+2022-02-17,2122,EU,Marseille,Qarabağ FK (AZE),3,1
+2022-02-17,2122,EU,PSV Eindhoven (NED),Maccabi Tel Aviv (ISR),1,0
+2022-02-17,2122,EU,Rapid Wien (AUT),Vitesse (NED),2,1
+2022-02-17,2122,EU,RB Leipzig,Sociedad,2,2
+2022-02-17,2122,EU,Sevilla,Dinamo Zagreb (CRO),3,1
+2022-02-17,2122,EU,Zenit St. Petersburg (RUS),Betis,2,3
+2022-02-22,2122,EU,Chelsea,Lille,2,0
+2022-02-22,2122,EU,Villarreal,Juventus,1,1
+2022-02-23,2122,EU,Ath Madrid,Man United,1,1
+2022-02-23,2122,EU,SL Benfica (POR),AFC Ajax (NED),2,2
+2022-02-24,2122,EU,Betis,Zenit St. Petersburg (RUS),0,0
+2022-02-24,2122,EU,Dinamo Zagreb (CRO),Sevilla,1,0
+2022-02-24,2122,EU,FK Bodø/Glimt (NOR),Celtic FC (SCO),2,0
+2022-02-24,2122,EU,Lazio,FC Porto (POR),2,2
+2022-02-24,2122,EU,Maccabi Tel Aviv (ISR),PSV Eindhoven (NED),1,1
+2022-02-24,2122,EU,Napoli,Barcelona,2,4
+2022-02-24,2122,EU,Olympiakos Piraeus (GRE),Atalanta,0,3
+2022-02-24,2122,EU,PAOK Saloniki (GRE),FC Midtjylland (DEN),2,1
+2022-02-24,2122,EU,Partizan (SRB),AC Sparta Praha (CZE),2,1
+2022-02-24,2122,EU,Qarabağ FK (AZE),Marseille,0,3
+2022-02-24,2122,EU,Randers FC (DEN),Leicester,1,3
+2022-02-24,2122,EU,Rangers FC (SCO),Dortmund,2,2
+2022-02-24,2122,EU,Slavia Praha (CZE),Fenerbahçe (TUR),3,2
+2022-02-24,2122,EU,Sociedad,RB Leipzig,1,3
+2022-02-24,2122,EU,Sporting Braga (POR),FC Sheriff (MDA),2,0
+2022-02-24,2122,EU,Vitesse (NED),Rapid Wien (AUT),2,0
+2022-03-08,2122,EU,Bayern Munich,RB Salzburg (AUT),7,1
+2022-03-08,2122,EU,Liverpool,Inter,0,1
+2022-03-09,2122,EU,Betis,Ein Frankfurt,1,2
+2022-03-09,2122,EU,FC Porto (POR),Lyon,0,1
+2022-03-09,2122,EU,Man City,Sporting CP (POR),0,0
+2022-03-09,2122,EU,Real Madrid,Paris SG,3,1
+2022-03-10,2122,EU,Atalanta,Leverkusen,3,2
+2022-03-10,2122,EU,Barcelona,Galatasaray (TUR),0,0
+2022-03-10,2122,EU,FK Bodø/Glimt (NOR),AZ Alkmaar (NED),2,1
+2022-03-10,2122,EU,Leicester,Rennes,2,0
+2022-03-10,2122,EU,Marseille,FC Basel 1893 (SUI),2,1
+2022-03-10,2122,EU,PAOK Saloniki (GRE),KAA Gent (BEL),1,0
+2022-03-10,2122,EU,Partizan (SRB),Feyenoord (NED),2,5
+2022-03-10,2122,EU,PSV Eindhoven (NED),FC København (DEN),4,4
+2022-03-10,2122,EU,Rangers FC (SCO),Crvena Zvezda (SRB),3,0
+2022-03-10,2122,EU,Sevilla,West Ham,1,0
+2022-03-10,2122,EU,Slavia Praha (CZE),LASK (AUT),4,1
+2022-03-10,2122,EU,Sporting Braga (POR),Monaco,2,0
+2022-03-10,2122,EU,Vitesse (NED),Roma,0,1
+2022-03-15,2122,EU,AFC Ajax (NED),SL Benfica (POR),0,1
+2022-03-15,2122,EU,Man United,Ath Madrid,0,1
+2022-03-16,2122,EU,Juventus,Villarreal,0,3
+2022-03-16,2122,EU,Lille,Chelsea,1,2
+2022-03-17,2122,EU,AZ Alkmaar (NED),FK Bodø/Glimt (NOR),2,1
+2022-03-17,2122,EU,Crvena Zvezda (SRB),Rangers FC (SCO),2,1
+2022-03-17,2122,EU,Ein Frankfurt,Betis,0,1
+2022-03-17,2122,EU,FC Basel 1893 (SUI),Marseille,1,2
+2022-03-17,2122,EU,FC København (DEN),PSV Eindhoven (NED),0,4
+2022-03-17,2122,EU,Feyenoord (NED),Partizan (SRB),3,1
+2022-03-17,2122,EU,Galatasaray (TUR),Barcelona,1,2
+2022-03-17,2122,EU,KAA Gent (BEL),PAOK Saloniki (GRE),1,2
+2022-03-17,2122,EU,LASK (AUT),Slavia Praha (CZE),4,3
+2022-03-17,2122,EU,Leverkusen,Atalanta,0,1
+2022-03-17,2122,EU,Lyon,FC Porto (POR),1,1
+2022-03-17,2122,EU,Monaco,Sporting Braga (POR),1,1
+2022-03-17,2122,EU,Rennes,Leicester,2,1
+2022-03-17,2122,EU,Roma,Vitesse (NED),1,1
+2022-03-17,2122,EU,West Ham,Sevilla,1,0
+2022-04-05,2122,EU,Man City,Ath Madrid,1,0
+2022-04-05,2122,EU,SL Benfica (POR),Liverpool,1,3
+2022-04-06,2122,EU,Chelsea,Real Madrid,1,3
+2022-04-06,2122,EU,Villarreal,Bayern Munich,1,0
+2022-04-07,2122,EU,Ein Frankfurt,Barcelona,1,1
+2022-04-07,2122,EU,Feyenoord (NED),Slavia Praha (CZE),3,3
+2022-04-07,2122,EU,FK Bodø/Glimt (NOR),Roma,2,1
+2022-04-07,2122,EU,Leicester,PSV Eindhoven (NED),0,0
+2022-04-07,2122,EU,Marseille,PAOK Saloniki (GRE),2,1
+2022-04-07,2122,EU,RB Leipzig,Atalanta,1,1
+2022-04-07,2122,EU,Sporting Braga (POR),Rangers FC (SCO),1,0
+2022-04-07,2122,EU,West Ham,Lyon,1,1
+2022-04-12,2122,EU,Bayern Munich,Villarreal,1,1
+2022-04-12,2122,EU,Real Madrid,Chelsea,1,3
+2022-04-13,2122,EU,Ath Madrid,Man City,0,0
+2022-04-13,2122,EU,Liverpool,SL Benfica (POR),3,3
+2022-04-14,2122,EU,Atalanta,RB Leipzig,0,2
+2022-04-14,2122,EU,Barcelona,Ein Frankfurt,2,3
+2022-04-14,2122,EU,Lyon,West Ham,0,3
+2022-04-14,2122,EU,PAOK Saloniki (GRE),Marseille,0,1
+2022-04-14,2122,EU,PSV Eindhoven (NED),Leicester,1,2
+2022-04-14,2122,EU,Rangers FC (SCO),Sporting Braga (POR),2,1
+2022-04-14,2122,EU,Roma,FK Bodø/Glimt (NOR),4,0
+2022-04-14,2122,EU,Slavia Praha (CZE),Feyenoord (NED),1,3
+2022-04-26,2122,EU,Man City,Real Madrid,4,3
+2022-04-27,2122,EU,Liverpool,Villarreal,2,0
+2022-04-28,2122,EU,Feyenoord (NED),Marseille,3,2
+2022-04-28,2122,EU,Leicester,Roma,1,1
+2022-04-28,2122,EU,RB Leipzig,Rangers FC (SCO),1,0
+2022-04-28,2122,EU,West Ham,Ein Frankfurt,1,2
+2022-05-03,2122,EU,Villarreal,Liverpool,2,3
+2022-05-04,2122,EU,Real Madrid,Man City,2,1
+2022-05-05,2122,EU,Ein Frankfurt,West Ham,1,0
+2022-05-05,2122,EU,Marseille,Feyenoord (NED),0,0
+2022-05-05,2122,EU,Rangers FC (SCO),RB Leipzig,3,1
+2022-05-05,2122,EU,Roma,Leicester,1,0
+2022-05-18,2122,EUN,Ein Frankfurt,Rangers FC (SCO),1,1
+2022-05-25,2122,EUN,Roma,Feyenoord (NED),1,0
+2022-05-28,2122,EUN,Liverpool,Real Madrid,0,1
+2022-09-06,2223,EU,Celtic FC (SCO),Real Madrid,0,3
+2022-09-06,2223,EU,Dinamo Zagreb (CRO),Chelsea,1,0
+2022-09-06,2223,EU,Dortmund,FC København (DEN),3,0
+2022-09-06,2223,EU,Paris SG,Juventus,2,1
+2022-09-06,2223,EU,RB Leipzig,Shakhtar Donetsk (UKR),1,4
+2022-09-06,2223,EU,RB Salzburg (AUT),Milan,1,1
+2022-09-06,2223,EU,Sevilla,Man City,0,4
+2022-09-06,2223,EU,SL Benfica (POR),Maccabi Haifa (ISR),2,0
+2022-09-07,2223,EU,AFC Ajax (NED),Rangers FC (SCO),4,0
+2022-09-07,2223,EU,Ath Madrid,FC Porto (POR),2,1
+2022-09-07,2223,EU,Barcelona,Viktoria Plzeň (CZE),5,1
+2022-09-07,2223,EU,Club Brugge KV (BEL),Leverkusen,1,0
+2022-09-07,2223,EU,Ein Frankfurt,Sporting CP (POR),0,3
+2022-09-07,2223,EU,Inter,Bayern Munich,0,2
+2022-09-07,2223,EU,Napoli,Liverpool,4,1
+2022-09-07,2223,EU,Tottenham,Marseille,2,0
+2022-09-08,2223,EU,1. FC Slovácko (CZE),Partizan (SRB),3,3
+2022-09-08,2223,EU,AEK Larnaca (CYP),Rennes,1,2
+2022-09-08,2223,EU,Austria Wien (AUT),Hapoel Be'er Sheva (ISR),0,0
+2022-09-08,2223,EU,Crvena Zvezda (SRB),Monaco,0,1
+2022-09-08,2223,EU,FC Basel 1893 (SUI),Pyunik FC (ARM),3,1
+2022-09-08,2223,EU,FC Vaduz (LIE),Apollon Limassol (CYP),0,0
+2022-09-08,2223,EU,FC Zürich (SUI),Arsenal,1,2
+2022-09-08,2223,EU,Fenerbahçe (TUR),Dinamo Kiev (UKR),2,1
+2022-09-08,2223,EU,Ferencvárosi TC (HUN),Trabzonspor (TUR),3,2
+2022-09-08,2223,EU,Fiorentina,FK RFS (LVA),1,1
+2022-09-08,2223,EU,Freiburg,Qarabağ FK (AZE),2,1
+2022-09-08,2223,EU,Heart of Midlothian (SCO),İstanbul Başakşehir (TUR),0,4
+2022-09-08,2223,EU,HJK Helsinki (FIN),Betis,0,2
+2022-09-08,2223,EU,KF Ballkani (KOS),CFR Cluj (ROU),1,1
+2022-09-08,2223,EU,Lazio,Feyenoord (NED),4,2
+2022-09-08,2223,EU,Malmö FF (SWE),Sporting Braga (POR),0,2
+2022-09-08,2223,EU,Man United,Sociedad,0,1
+2022-09-08,2223,EU,Molde FK (NOR),KAA Gent (BEL),0,0
+2022-09-08,2223,EU,Nantes,Olympiakos Piraeus (GRE),2,1
+2022-09-08,2223,EU,Nice,FC Koln,1,1
+2022-09-08,2223,EU,Omonia Nikosia (CYP),FC Sheriff (MDA),0,3
+2022-09-08,2223,EU,PFC Ludogorets Razgrad (BUL),Roma,2,1
+2022-09-08,2223,EU,PSV Eindhoven (NED),FK Bodø/Glimt (NOR),1,1
+2022-09-08,2223,EU,RSC Anderlecht (BEL),Silkeborg IF (DEN),1,0
+2022-09-08,2223,EU,Shamrock Rovers (IRL),Djurgårdens IF (SWE),0,0
+2022-09-08,2223,EU,Sivasspor (TUR),Slavia Praha (CZE),1,1
+2022-09-08,2223,EU,SK Dnipro-1 (UKR),AZ Alkmaar (NED),0,1
+2022-09-08,2223,EU,Slovan Bratislava (SVK),FK Žalgiris (LTU),0,0
+2022-09-08,2223,EU,Sturm Graz (AUT),FC Midtjylland (DEN),1,0
+2022-09-08,2223,EU,Union Berlin,Union Saint-Gilloise (BEL),0,1
+2022-09-08,2223,EU,Villarreal,Lech Poznań (POL),4,3
+2022-09-08,2223,EU,West Ham,FCSB (ROU),3,1
+2022-09-13,2223,EU,Bayern Munich,Barcelona,2,0
+2022-09-13,2223,EU,FC Porto (POR),Club Brugge KV (BEL),0,4
+2022-09-13,2223,EU,Leverkusen,Ath Madrid,2,0
+2022-09-13,2223,EU,Liverpool,AFC Ajax (NED),2,1
+2022-09-13,2223,EU,Marseille,Ein Frankfurt,0,1
+2022-09-13,2223,EU,Sporting CP (POR),Tottenham,2,0
+2022-09-13,2223,EU,Viktoria Plzeň (CZE),Inter,0,2
+2022-09-14,2223,EU,Chelsea,RB Salzburg (AUT),1,1
+2022-09-14,2223,EU,FC København (DEN),Sevilla,0,0
+2022-09-14,2223,EU,Juventus,SL Benfica (POR),1,2
+2022-09-14,2223,EU,Maccabi Haifa (ISR),Paris SG,1,3
+2022-09-14,2223,EU,Man City,Dortmund,2,1
+2022-09-14,2223,EU,Milan,Dinamo Zagreb (CRO),3,1
+2022-09-14,2223,EU,Rangers FC (SCO),Napoli,0,3
+2022-09-14,2223,EU,Real Madrid,RB Leipzig,2,0
+2022-09-14,2223,EU,Shakhtar Donetsk (UKR),Celtic FC (SCO),1,1
+2022-09-15,2223,EU,Apollon Limassol (CYP),SK Dnipro-1 (UKR),1,3
+2022-09-15,2223,EU,AZ Alkmaar (NED),FC Vaduz (LIE),4,1
+2022-09-15,2223,EU,Betis,PFC Ludogorets Razgrad (BUL),3,2
+2022-09-15,2223,EU,CFR Cluj (ROU),Sivasspor (TUR),0,1
+2022-09-15,2223,EU,Dinamo Kiev (UKR),AEK Larnaca (CYP),0,1
+2022-09-15,2223,EU,Djurgårdens IF (SWE),Molde FK (NOR),3,2
+2022-09-15,2223,EU,FC Koln,1. FC Slovácko (CZE),4,2
+2022-09-15,2223,EU,FC Midtjylland (DEN),Lazio,5,1
+2022-09-15,2223,EU,FC Sheriff (MDA),Man United,0,2
+2022-09-15,2223,EU,FCSB (ROU),RSC Anderlecht (BEL),0,0
+2022-09-15,2223,EU,Feyenoord (NED),Sturm Graz (AUT),6,0
+2022-09-15,2223,EU,FK Bodø/Glimt (NOR),FC Zürich (SUI),2,1
+2022-09-15,2223,EU,FK RFS (LVA),Heart of Midlothian (SCO),0,2
+2022-09-15,2223,EU,FK Žalgiris (LTU),FC Basel 1893 (SUI),0,1
+2022-09-15,2223,EU,Hapoel Be'er Sheva (ISR),Villarreal,1,2
+2022-09-15,2223,EU,İstanbul Başakşehir (TUR),Fiorentina,3,0
+2022-09-15,2223,EU,KAA Gent (BEL),Shamrock Rovers (IRL),3,0
+2022-09-15,2223,EU,Lech Poznań (POL),Austria Wien (AUT),4,1
+2022-09-15,2223,EU,Monaco,Ferencvárosi TC (HUN),0,1
+2022-09-15,2223,EU,Olympiakos Piraeus (GRE),Freiburg,0,3
+2022-09-15,2223,EU,Partizan (SRB),Nice,1,1
+2022-09-15,2223,EU,Pyunik FC (ARM),Slovan Bratislava (SVK),2,0
+2022-09-15,2223,EU,Qarabağ FK (AZE),Nantes,3,0
+2022-09-15,2223,EU,Rennes,Fenerbahçe (TUR),2,2
+2022-09-15,2223,EU,Roma,HJK Helsinki (FIN),3,0
+2022-09-15,2223,EU,Silkeborg IF (DEN),West Ham,2,3
+2022-09-15,2223,EU,Slavia Praha (CZE),KF Ballkani (KOS),3,2
+2022-09-15,2223,EU,Sociedad,Omonia Nikosia (CYP),2,1
+2022-09-15,2223,EU,Sporting Braga (POR),Union Berlin,1,0
+2022-09-15,2223,EU,Trabzonspor (TUR),Crvena Zvezda (SRB),2,1
+2022-09-15,2223,EU,Union Saint-Gilloise (BEL),Malmö FF (SWE),3,2
+2022-10-04,2223,EU,AFC Ajax (NED),Napoli,1,6
+2022-10-04,2223,EU,Bayern Munich,Viktoria Plzeň (CZE),5,0
+2022-10-04,2223,EU,Club Brugge KV (BEL),Ath Madrid,2,0
+2022-10-04,2223,EU,Ein Frankfurt,Tottenham,0,0
+2022-10-04,2223,EU,FC Porto (POR),Leverkusen,2,0
+2022-10-04,2223,EU,Inter,Barcelona,1,0
+2022-10-04,2223,EU,Liverpool,Rangers FC (SCO),2,0
+2022-10-04,2223,EU,Marseille,Sporting CP (POR),4,1
+2022-10-05,2223,EU,Chelsea,Milan,3,0
+2022-10-05,2223,EU,Juventus,Maccabi Haifa (ISR),3,1
+2022-10-05,2223,EU,Man City,FC København (DEN),5,0
+2022-10-05,2223,EU,RB Leipzig,Celtic FC (SCO),3,1
+2022-10-05,2223,EU,RB Salzburg (AUT),Dinamo Zagreb (CRO),1,0
+2022-10-05,2223,EU,Real Madrid,Shakhtar Donetsk (UKR),2,1
+2022-10-05,2223,EU,Sevilla,Dortmund,1,4
+2022-10-05,2223,EU,SL Benfica (POR),Paris SG,1,1
+2022-10-06,2223,EU,1. FC Slovácko (CZE),Nice,0,1
+2022-10-06,2223,EU,Arsenal,FK Bodø/Glimt (NOR),3,0
+2022-10-06,2223,EU,AZ Alkmaar (NED),Apollon Limassol (CYP),3,2
+2022-10-06,2223,EU,Crvena Zvezda (SRB),Ferencvárosi TC (HUN),4,1
+2022-10-06,2223,EU,FC Basel 1893 (SUI),Slovan Bratislava (SVK),0,2
+2022-10-06,2223,EU,FC Koln,Partizan (SRB),0,1
+2022-10-06,2223,EU,FC Midtjylland (DEN),Feyenoord (NED),2,2
+2022-10-06,2223,EU,FC Sheriff (MDA),Sociedad,0,2
+2022-10-06,2223,EU,FC Zürich (SUI),PSV Eindhoven (NED),1,5
+2022-10-06,2223,EU,Fenerbahçe (TUR),AEK Larnaca (CYP),2,0
+2022-10-06,2223,EU,FK RFS (LVA),İstanbul Başakşehir (TUR),0,0
+2022-10-06,2223,EU,Freiburg,Nantes,2,0
+2022-10-06,2223,EU,Heart of Midlothian (SCO),Fiorentina,0,3
+2022-10-06,2223,EU,HJK Helsinki (FIN),PFC Ludogorets Razgrad (BUL),1,1
+2022-10-06,2223,EU,KAA Gent (BEL),Djurgårdens IF (SWE),0,1
+2022-10-06,2223,EU,Lech Poznań (POL),Hapoel Be'er Sheva (ISR),0,0
+2022-10-06,2223,EU,Malmö FF (SWE),Union Berlin,0,1
+2022-10-06,2223,EU,Molde FK (NOR),Shamrock Rovers (IRL),3,0
+2022-10-06,2223,EU,Monaco,Trabzonspor (TUR),3,1
+2022-10-06,2223,EU,Olympiakos Piraeus (GRE),Qarabağ FK (AZE),0,3
+2022-10-06,2223,EU,Omonia Nikosia (CYP),Man United,2,3
+2022-10-06,2223,EU,Pyunik FC (ARM),FK Žalgiris (LTU),2,0
+2022-10-06,2223,EU,Rennes,Dinamo Kiev (UKR),2,1
+2022-10-06,2223,EU,Roma,Betis,1,2
+2022-10-06,2223,EU,RSC Anderlecht (BEL),West Ham,0,1
+2022-10-06,2223,EU,Silkeborg IF (DEN),FCSB (ROU),5,0
+2022-10-06,2223,EU,Sivasspor (TUR),KF Ballkani (KOS),3,4
+2022-10-06,2223,EU,SK Dnipro-1 (UKR),FC Vaduz (LIE),2,2
+2022-10-06,2223,EU,Slavia Praha (CZE),CFR Cluj (ROU),0,1
+2022-10-06,2223,EU,Sporting Braga (POR),Union Saint-Gilloise (BEL),1,2
+2022-10-06,2223,EU,Sturm Graz (AUT),Lazio,0,0
+2022-10-06,2223,EU,Villarreal,Austria Wien (AUT),5,0
+2022-10-11,2223,EU,Celtic FC (SCO),RB Leipzig,0,2
+2022-10-11,2223,EU,Dinamo Zagreb (CRO),RB Salzburg (AUT),1,1
+2022-10-11,2223,EU,Dortmund,Sevilla,1,1
+2022-10-11,2223,EU,FC København (DEN),Man City,0,0
+2022-10-11,2223,EU,Maccabi Haifa (ISR),Juventus,2,0
+2022-10-11,2223,EU,Milan,Chelsea,0,2
+2022-10-11,2223,EU,Paris SG,SL Benfica (POR),1,1
+2022-10-11,2223,EU,Shakhtar Donetsk (UKR),Real Madrid,1,1
+2022-10-12,2223,EU,Ath Madrid,Club Brugge KV (BEL),0,0
+2022-10-12,2223,EU,Barcelona,Inter,3,3
+2022-10-12,2223,EU,Leverkusen,FC Porto (POR),0,3
+2022-10-12,2223,EU,Napoli,AFC Ajax (NED),4,2
+2022-10-12,2223,EU,Rangers FC (SCO),Liverpool,1,7
+2022-10-12,2223,EU,Sporting CP (POR),Marseille,0,2
+2022-10-12,2223,EU,Tottenham,Ein Frankfurt,3,2
+2022-10-12,2223,EU,Viktoria Plzeň (CZE),Bayern Munich,2,4
+2022-10-13,2223,EU,AEK Larnaca (CYP),Fenerbahçe (TUR),1,2
+2022-10-13,2223,EU,Apollon Limassol (CYP),AZ Alkmaar (NED),1,0
+2022-10-13,2223,EU,Austria Wien (AUT),Villarreal,0,1
+2022-10-13,2223,EU,Betis,Roma,1,1
+2022-10-13,2223,EU,CFR Cluj (ROU),Slavia Praha (CZE),2,0
+2022-10-13,2223,EU,Dinamo Kiev (UKR),Rennes,0,1
+2022-10-13,2223,EU,Djurgårdens IF (SWE),KAA Gent (BEL),4,2
+2022-10-13,2223,EU,FC Vaduz (LIE),SK Dnipro-1 (UKR),1,2
+2022-10-13,2223,EU,FCSB (ROU),Silkeborg IF (DEN),0,5
+2022-10-13,2223,EU,Ferencvárosi TC (HUN),Crvena Zvezda (SRB),2,1
+2022-10-13,2223,EU,Feyenoord (NED),FC Midtjylland (DEN),2,2
+2022-10-13,2223,EU,Fiorentina,Heart of Midlothian (SCO),5,1
+2022-10-13,2223,EU,FK Bodø/Glimt (NOR),Arsenal,0,1
+2022-10-13,2223,EU,FK Žalgiris (LTU),Pyunik FC (ARM),2,1
+2022-10-13,2223,EU,Hapoel Be'er Sheva (ISR),Lech Poznań (POL),1,1
+2022-10-13,2223,EU,İstanbul Başakşehir (TUR),FK RFS (LVA),3,0
+2022-10-13,2223,EU,KF Ballkani (KOS),Sivasspor (TUR),1,2
+2022-10-13,2223,EU,Lazio,Sturm Graz (AUT),2,2
+2022-10-13,2223,EU,Man United,Omonia Nikosia (CYP),1,0
+2022-10-13,2223,EU,Nantes,Freiburg,0,4
+2022-10-13,2223,EU,Nice,1. FC Slovácko (CZE),1,2
+2022-10-13,2223,EU,Partizan (SRB),FC Koln,2,0
+2022-10-13,2223,EU,PFC Ludogorets Razgrad (BUL),HJK Helsinki (FIN),2,0
+2022-10-13,2223,EU,PSV Eindhoven (NED),FC Zürich (SUI),5,0
+2022-10-13,2223,EU,Qarabağ FK (AZE),Olympiakos Piraeus (GRE),0,0
+2022-10-13,2223,EU,Shamrock Rovers (IRL),Molde FK (NOR),0,2
+2022-10-13,2223,EU,Slovan Bratislava (SVK),FC Basel 1893 (SUI),3,3
+2022-10-13,2223,EU,Sociedad,FC Sheriff (MDA),3,0
+2022-10-13,2223,EU,Trabzonspor (TUR),Monaco,4,0
+2022-10-13,2223,EU,Union Berlin,Malmö FF (SWE),1,0
+2022-10-13,2223,EU,Union Saint-Gilloise (BEL),Sporting Braga (POR),3,3
+2022-10-13,2223,EU,West Ham,RSC Anderlecht (BEL),2,1
+2022-10-20,2223,EU,Arsenal,PSV Eindhoven (NED),1,0
+2022-10-25,2223,EU,Celtic FC (SCO),Shakhtar Donetsk (UKR),1,1
+2022-10-25,2223,EU,Dinamo Zagreb (CRO),Milan,0,4
+2022-10-25,2223,EU,Dortmund,Man City,0,0
+2022-10-25,2223,EU,Paris SG,Maccabi Haifa (ISR),7,2
+2022-10-25,2223,EU,RB Leipzig,Real Madrid,3,2
+2022-10-25,2223,EU,RB Salzburg (AUT),Chelsea,1,2
+2022-10-25,2223,EU,Sevilla,FC København (DEN),3,0
+2022-10-25,2223,EU,SL Benfica (POR),Juventus,4,3
+2022-10-26,2223,EU,AFC Ajax (NED),Liverpool,0,3
+2022-10-26,2223,EU,Ath Madrid,Leverkusen,2,2
+2022-10-26,2223,EU,Barcelona,Bayern Munich,0,3
+2022-10-26,2223,EU,Club Brugge KV (BEL),FC Porto (POR),0,4
+2022-10-26,2223,EU,Ein Frankfurt,Marseille,2,1
+2022-10-26,2223,EU,Inter,Viktoria Plzeň (CZE),4,0
+2022-10-26,2223,EU,Napoli,Rangers FC (SCO),3,0
+2022-10-26,2223,EU,Tottenham,Sporting CP (POR),1,1
+2022-10-27,2223,EU,AEK Larnaca (CYP),Dinamo Kiev (UKR),3,3
+2022-10-27,2223,EU,Austria Wien (AUT),Lech Poznań (POL),1,1
+2022-10-27,2223,EU,Crvena Zvezda (SRB),Trabzonspor (TUR),2,1
+2022-10-27,2223,EU,FC Basel 1893 (SUI),FK Žalgiris (LTU),2,2
+2022-10-27,2223,EU,FC Vaduz (LIE),AZ Alkmaar (NED),1,2
+2022-10-27,2223,EU,FC Zürich (SUI),FK Bodø/Glimt (NOR),2,1
+2022-10-27,2223,EU,Fenerbahçe (TUR),Rennes,3,3
+2022-10-27,2223,EU,Ferencvárosi TC (HUN),Monaco,1,1
+2022-10-27,2223,EU,Fiorentina,İstanbul Başakşehir (TUR),2,1
+2022-10-27,2223,EU,Freiburg,Olympiakos Piraeus (GRE),1,1
+2022-10-27,2223,EU,Heart of Midlothian (SCO),FK RFS (LVA),2,1
+2022-10-27,2223,EU,HJK Helsinki (FIN),Roma,1,2
+2022-10-27,2223,EU,KF Ballkani (KOS),Slavia Praha (CZE),0,1
+2022-10-27,2223,EU,Lazio,FC Midtjylland (DEN),2,1
+2022-10-27,2223,EU,Malmö FF (SWE),Union Saint-Gilloise (BEL),0,2
+2022-10-27,2223,EU,Man United,FC Sheriff (MDA),3,0
+2022-10-27,2223,EU,Molde FK (NOR),Djurgårdens IF (SWE),2,3
+2022-10-27,2223,EU,Nantes,Qarabağ FK (AZE),2,1
+2022-10-27,2223,EU,Nice,Partizan (SRB),2,1
+2022-10-27,2223,EU,Omonia Nikosia (CYP),Sociedad,0,2
+2022-10-27,2223,EU,PFC Ludogorets Razgrad (BUL),Betis,0,1
+2022-10-27,2223,EU,PSV Eindhoven (NED),Arsenal,2,0
+2022-10-27,2223,EU,RSC Anderlecht (BEL),FCSB (ROU),2,2
+2022-10-27,2223,EU,Shamrock Rovers (IRL),KAA Gent (BEL),1,1
+2022-10-27,2223,EU,Sivasspor (TUR),CFR Cluj (ROU),3,0
+2022-10-27,2223,EU,SK Dnipro-1 (UKR),Apollon Limassol (CYP),1,0
+2022-10-27,2223,EU,Slovan Bratislava (SVK),Pyunik FC (ARM),2,1
+2022-10-27,2223,EU,Sturm Graz (AUT),Feyenoord (NED),1,0
+2022-10-27,2223,EU,Union Berlin,Sporting Braga (POR),1,0
+2022-10-27,2223,EU,Villarreal,Hapoel Be'er Sheva (ISR),2,2
+2022-10-27,2223,EU,West Ham,Silkeborg IF (DEN),1,0
+2022-10-28,2223,EU,1. FC Slovácko (CZE),FC Koln,0,1
+2022-11-01,2223,EU,Bayern Munich,Inter,2,0
+2022-11-01,2223,EU,FC Porto (POR),Ath Madrid,2,1
+2022-11-01,2223,EU,Leverkusen,Club Brugge KV (BEL),0,0
+2022-11-01,2223,EU,Liverpool,Napoli,2,0
+2022-11-01,2223,EU,Marseille,Tottenham,1,2
+2022-11-01,2223,EU,Rangers FC (SCO),AFC Ajax (NED),1,3
+2022-11-01,2223,EU,Sporting CP (POR),Ein Frankfurt,1,2
+2022-11-01,2223,EU,Viktoria Plzeň (CZE),Barcelona,2,4
+2022-11-02,2223,EU,Chelsea,Dinamo Zagreb (CRO),2,1
+2022-11-02,2223,EU,FC København (DEN),Dortmund,1,1
+2022-11-02,2223,EU,Juventus,Paris SG,1,2
+2022-11-02,2223,EU,Maccabi Haifa (ISR),SL Benfica (POR),1,6
+2022-11-02,2223,EU,Man City,Sevilla,3,1
+2022-11-02,2223,EU,Milan,RB Salzburg (AUT),4,0
+2022-11-02,2223,EU,Real Madrid,Celtic FC (SCO),5,1
+2022-11-02,2223,EU,Shakhtar Donetsk (UKR),RB Leipzig,0,4
+2022-11-03,2223,EU,Apollon Limassol (CYP),FC Vaduz (LIE),1,0
+2022-11-03,2223,EU,Arsenal,FC Zürich (SUI),1,0
+2022-11-03,2223,EU,AZ Alkmaar (NED),SK Dnipro-1 (UKR),2,1
+2022-11-03,2223,EU,Betis,HJK Helsinki (FIN),3,0
+2022-11-03,2223,EU,CFR Cluj (ROU),KF Ballkani (KOS),1,0
+2022-11-03,2223,EU,Dinamo Kiev (UKR),Fenerbahçe (TUR),0,2
+2022-11-03,2223,EU,Djurgårdens IF (SWE),Shamrock Rovers (IRL),1,0
+2022-11-03,2223,EU,FC Koln,Nice,2,2
+2022-11-03,2223,EU,FC Midtjylland (DEN),Sturm Graz (AUT),2,0
+2022-11-03,2223,EU,FC Sheriff (MDA),Omonia Nikosia (CYP),1,0
+2022-11-03,2223,EU,FCSB (ROU),West Ham,0,3
+2022-11-03,2223,EU,Feyenoord (NED),Lazio,1,0
+2022-11-03,2223,EU,FK Bodø/Glimt (NOR),PSV Eindhoven (NED),1,2
+2022-11-03,2223,EU,FK RFS (LVA),Fiorentina,0,3
+2022-11-03,2223,EU,FK Žalgiris (LTU),Slovan Bratislava (SVK),1,2
+2022-11-03,2223,EU,Hapoel Be'er Sheva (ISR),Austria Wien (AUT),4,0
+2022-11-03,2223,EU,İstanbul Başakşehir (TUR),Heart of Midlothian (SCO),3,1
+2022-11-03,2223,EU,KAA Gent (BEL),Molde FK (NOR),4,0
+2022-11-03,2223,EU,Lech Poznań (POL),Villarreal,3,0
+2022-11-03,2223,EU,Monaco,Crvena Zvezda (SRB),4,1
+2022-11-03,2223,EU,Olympiakos Piraeus (GRE),Nantes,0,2
+2022-11-03,2223,EU,Partizan (SRB),1. FC Slovácko (CZE),1,1
+2022-11-03,2223,EU,Pyunik FC (ARM),FC Basel 1893 (SUI),1,2
+2022-11-03,2223,EU,Qarabağ FK (AZE),Freiburg,1,1
+2022-11-03,2223,EU,Rennes,AEK Larnaca (CYP),1,1
+2022-11-03,2223,EU,Roma,PFC Ludogorets Razgrad (BUL),3,1
+2022-11-03,2223,EU,Silkeborg IF (DEN),RSC Anderlecht (BEL),0,2
+2022-11-03,2223,EU,Slavia Praha (CZE),Sivasspor (TUR),1,1
+2022-11-03,2223,EU,Sociedad,Man United,0,1
+2022-11-03,2223,EU,Sporting Braga (POR),Malmö FF (SWE),2,1
+2022-11-03,2223,EU,Trabzonspor (TUR),Ferencvárosi TC (HUN),1,0
+2022-11-03,2223,EU,Union Saint-Gilloise (BEL),Union Berlin,0,1
+2023-02-14,2223,EU,Milan,Tottenham,1,0
+2023-02-14,2223,EU,Paris SG,Bayern Munich,0,1
+2023-02-15,2223,EU,Club Brugge KV (BEL),SL Benfica (POR),0,2
+2023-02-15,2223,EU,Dortmund,Chelsea,1,0
+2023-02-16,2223,EU,AEK Larnaca (CYP),SK Dnipro-1 (UKR),1,0
+2023-02-16,2223,EU,AFC Ajax (NED),Union Berlin,0,0
+2023-02-16,2223,EU,Barcelona,Man United,2,2
+2023-02-16,2223,EU,FC Sheriff (MDA),Partizan (SRB),0,1
+2023-02-16,2223,EU,FK Bodø/Glimt (NOR),Lech Poznań (POL),0,0
+2023-02-16,2223,EU,Juventus,Nantes,1,1
+2023-02-16,2223,EU,Lazio,CFR Cluj (ROU),1,0
+2023-02-16,2223,EU,Leverkusen,Monaco,2,3
+2023-02-16,2223,EU,PFC Ludogorets Razgrad (BUL),RSC Anderlecht (BEL),1,0
+2023-02-16,2223,EU,Qarabağ FK (AZE),KAA Gent (BEL),1,0
+2023-02-16,2223,EU,RB Salzburg (AUT),Roma,1,0
+2023-02-16,2223,EU,Sevilla,PSV Eindhoven (NED),3,0
+2023-02-16,2223,EU,Shakhtar Donetsk (UKR),Rennes,2,1
+2023-02-16,2223,EU,Sporting Braga (POR),Fiorentina,0,4
+2023-02-16,2223,EU,Sporting CP (POR),FC Midtjylland (DEN),1,1
+2023-02-16,2223,EU,Trabzonspor (TUR),FC Basel 1893 (SUI),1,0
+2023-02-21,2223,EU,Ein Frankfurt,Napoli,0,2
+2023-02-21,2223,EU,Liverpool,Real Madrid,2,5
+2023-02-22,2223,EU,Inter,FC Porto (POR),1,0
+2023-02-22,2223,EU,RB Leipzig,Man City,1,1
+2023-02-23,2223,EU,CFR Cluj (ROU),Lazio,0,0
+2023-02-23,2223,EU,FC Basel 1893 (SUI),Trabzonspor (TUR),2,0
+2023-02-23,2223,EU,FC Midtjylland (DEN),Sporting CP (POR),0,4
+2023-02-23,2223,EU,Fiorentina,Sporting Braga (POR),3,2
+2023-02-23,2223,EU,KAA Gent (BEL),Qarabağ FK (AZE),1,0
+2023-02-23,2223,EU,Lech Poznań (POL),FK Bodø/Glimt (NOR),1,0
+2023-02-23,2223,EU,Man United,Barcelona,2,1
+2023-02-23,2223,EU,Monaco,Leverkusen,2,3
+2023-02-23,2223,EU,Nantes,Juventus,0,3
+2023-02-23,2223,EU,Partizan (SRB),FC Sheriff (MDA),1,3
+2023-02-23,2223,EU,PSV Eindhoven (NED),Sevilla,2,0
+2023-02-23,2223,EU,Rennes,Shakhtar Donetsk (UKR),1,0
+2023-02-23,2223,EU,Roma,RB Salzburg (AUT),2,0
+2023-02-23,2223,EU,RSC Anderlecht (BEL),PFC Ludogorets Razgrad (BUL),2,1
+2023-02-23,2223,EU,SK Dnipro-1 (UKR),AEK Larnaca (CYP),0,0
+2023-02-23,2223,EU,Union Berlin,AFC Ajax (NED),3,1
+2023-03-07,2223,EU,Chelsea,Dortmund,2,0
+2023-03-07,2223,EU,Lazio,AZ Alkmaar (NED),1,2
+2023-03-07,2223,EU,SL Benfica (POR),Club Brugge KV (BEL),5,1
+2023-03-08,2223,EU,Bayern Munich,Paris SG,2,0
+2023-03-08,2223,EU,Tottenham,Milan,0,0
+2023-03-09,2223,EU,AEK Larnaca (CYP),West Ham,0,2
+2023-03-09,2223,EU,FC Basel 1893 (SUI),Slovan Bratislava (SVK),2,2
+2023-03-09,2223,EU,FC Sheriff (MDA),Nice,0,1
+2023-03-09,2223,EU,Fiorentina,Sivasspor (TUR),1,0
+2023-03-09,2223,EU,Juventus,Freiburg,1,0
+2023-03-09,2223,EU,KAA Gent (BEL),İstanbul Başakşehir (TUR),1,1
+2023-03-09,2223,EU,Lech Poznań (POL),Djurgårdens IF (SWE),2,0
+2023-03-09,2223,EU,Leverkusen,Ferencvárosi TC (HUN),2,0
+2023-03-09,2223,EU,Man United,Betis,4,1
+2023-03-09,2223,EU,Roma,Sociedad,2,0
+2023-03-09,2223,EU,RSC Anderlecht (BEL),Villarreal,1,1
+2023-03-09,2223,EU,Sevilla,Fenerbahçe (TUR),2,0
+2023-03-09,2223,EU,Shakhtar Donetsk (UKR),Feyenoord (NED),1,1
+2023-03-09,2223,EU,Sporting CP (POR),Arsenal,2,2
+2023-03-09,2223,EU,Union Berlin,Union Saint-Gilloise (BEL),3,3
+2023-03-14,2223,EU,FC Porto (POR),Inter,0,0
+2023-03-14,2223,EU,Man City,RB Leipzig,7,0
+2023-03-15,2223,EU,İstanbul Başakşehir (TUR),KAA Gent (BEL),1,4
+2023-03-15,2223,EU,Napoli,Ein Frankfurt,3,0
+2023-03-15,2223,EU,Real Madrid,Liverpool,1,0
+2023-03-16,2223,EU,Arsenal,Sporting CP (POR),1,1
+2023-03-16,2223,EU,AZ Alkmaar (NED),Lazio,2,1
+2023-03-16,2223,EU,Betis,Man United,0,1
+2023-03-16,2223,EU,Djurgårdens IF (SWE),Lech Poznań (POL),0,3
+2023-03-16,2223,EU,Fenerbahçe (TUR),Sevilla,1,0
+2023-03-16,2223,EU,Ferencvárosi TC (HUN),Leverkusen,0,2
+2023-03-16,2223,EU,Feyenoord (NED),Shakhtar Donetsk (UKR),7,1
+2023-03-16,2223,EU,Freiburg,Juventus,0,2
+2023-03-16,2223,EU,Nice,FC Sheriff (MDA),3,1
+2023-03-16,2223,EU,Sivasspor (TUR),Fiorentina,1,4
+2023-03-16,2223,EU,Slovan Bratislava (SVK),FC Basel 1893 (SUI),2,2
+2023-03-16,2223,EU,Sociedad,Roma,0,0
+2023-03-16,2223,EU,Union Saint-Gilloise (BEL),Union Berlin,3,0
+2023-03-16,2223,EU,Villarreal,RSC Anderlecht (BEL),0,1
+2023-03-16,2223,EU,West Ham,AEK Larnaca (CYP),4,0
+2023-04-11,2223,EU,Man City,Bayern Munich,3,0
+2023-04-11,2223,EU,SL Benfica (POR),Inter,0,2
+2023-04-12,2223,EU,Milan,Napoli,1,0
+2023-04-12,2223,EU,Real Madrid,Chelsea,2,0
+2023-04-13,2223,EU,FC Basel 1893 (SUI),Nice,2,2
+2023-04-13,2223,EU,Feyenoord (NED),Roma,1,0
+2023-04-13,2223,EU,Juventus,Sporting CP (POR),1,0
+2023-04-13,2223,EU,KAA Gent (BEL),West Ham,1,1
+2023-04-13,2223,EU,Lech Poznań (POL),Fiorentina,1,4
+2023-04-13,2223,EU,Leverkusen,Union Saint-Gilloise (BEL),1,1
+2023-04-13,2223,EU,Man United,Sevilla,2,2
+2023-04-13,2223,EU,RSC Anderlecht (BEL),AZ Alkmaar (NED),2,0
+2023-04-18,2223,EU,Chelsea,Real Madrid,0,2
+2023-04-18,2223,EU,Napoli,Milan,1,1
+2023-04-19,2223,EU,Bayern Munich,Man City,1,1
+2023-04-19,2223,EU,Inter,SL Benfica (POR),3,3
+2023-04-20,2223,EU,AZ Alkmaar (NED),RSC Anderlecht (BEL),2,0
+2023-04-20,2223,EU,Fiorentina,Lech Poznań (POL),2,3
+2023-04-20,2223,EU,Nice,FC Basel 1893 (SUI),1,1
+2023-04-20,2223,EU,Roma,Feyenoord (NED),2,1
+2023-04-20,2223,EU,Sevilla,Man United,3,0
+2023-04-20,2223,EU,Sporting CP (POR),Juventus,1,1
+2023-04-20,2223,EU,Union Saint-Gilloise (BEL),Leverkusen,1,4
+2023-04-20,2223,EU,West Ham,KAA Gent (BEL),4,1
+2023-05-09,2223,EU,Real Madrid,Man City,1,1
+2023-05-10,2223,EU,Milan,Inter,0,2
+2023-05-11,2223,EU,Fiorentina,FC Basel 1893 (SUI),1,2
+2023-05-11,2223,EU,Juventus,Sevilla,1,1
+2023-05-11,2223,EU,Roma,Leverkusen,1,0
+2023-05-11,2223,EU,West Ham,AZ Alkmaar (NED),2,1
+2023-05-16,2223,EU,Inter,Milan,1,0
+2023-05-17,2223,EU,Man City,Real Madrid,4,0
+2023-05-18,2223,EU,AZ Alkmaar (NED),West Ham,0,1
+2023-05-18,2223,EU,FC Basel 1893 (SUI),Fiorentina,1,2
+2023-05-18,2223,EU,Leverkusen,Roma,0,0
+2023-05-18,2223,EU,Sevilla,Juventus,1,1
+2023-05-31,2223,EUN,Sevilla,Roma,1,1
+2023-06-07,2223,EUN,Fiorentina,West Ham,1,2
+2023-06-10,2223,EUN,Man City,Inter,1,0
+2023-09-19,2324,EU,Barcelona,Royal Antwerp FC (BEL),5,0
+2023-09-19,2324,EU,BSC Young Boys (SUI),RB Leipzig,1,3
+2023-09-19,2324,EU,Feyenoord Rotterdam (NED),Celtic FC (SCO),2,0
+2023-09-19,2324,EU,FK Shakhtar Donetsk (UKR),FC Porto (POR),1,3
+2023-09-19,2324,EU,Lazio,Ath Madrid,1,1
+2023-09-19,2324,EU,Man City,FK Crvena Zvezda (SRB),3,1
+2023-09-19,2324,EU,Milan,Newcastle,0,0
+2023-09-19,2324,EU,Paris SG,Dortmund,2,0
+2023-09-20,2324,EU,Arsenal,PSV (NED),4,0
+2023-09-20,2324,EU,Bayern Munich,Man United,4,3
+2023-09-20,2324,EU,Galatasaray SK (TUR),FC København (DEN),2,2
+2023-09-20,2324,EU,Lille,Olimpija Ljubljana (SVN),2,0
+2023-09-20,2324,EU,Real Madrid,Union Berlin,1,0
+2023-09-20,2324,EU,Sevilla,Lens,1,1
+2023-09-20,2324,EU,Sociedad,Inter,1,1
+2023-09-20,2324,EU,Sport Lisboa e Benfica (POR),FC Red Bull Salzburg (AUT),0,2
+2023-09-20,2324,EU,Sporting Clube de Braga (POR),Napoli,1,2
+2023-09-21,2324,EU,AC Sparta Praha (CZE),Aris Limassol (CYP),3,2
+2023-09-21,2324,EU,AFC Ajax (NED),Marseille,3,3
+2023-09-21,2324,EU,Atalanta,Raków Częstochowa (POL),2,0
+2023-09-21,2324,EU,Brighton,AEK Athen (GRE),2,3
+2023-09-21,2324,EU,Club Brugge KV (BEL),Beşiktaş (TUR),1,1
+2023-09-21,2324,EU,Dinamo Zagreb (CRO),FK Astana (KAZ),5,1
+2023-09-21,2324,EU,Ein Frankfurt,Aberdeen FC (SCO),2,1
+2023-09-21,2324,EU,FC Lugano (SUI),FK Bodø/Glimt (NOR),0,0
+2023-09-21,2324,EU,FC Sheriff (MDA),Roma,1,2
+2023-09-21,2324,EU,Fenerbahçe (TUR),FC Nordsjælland (DEN),3,1
+2023-09-21,2324,EU,Ferencvárosi TC (HUN),FK Čukarički (SRB),3,1
+2023-09-21,2324,EU,HJK Helsinki (FIN),PAOK Saloniki (GRE),2,3
+2023-09-21,2324,EU,KRC Genk (BEL),Fiorentina,2,2
+2023-09-21,2324,EU,LASK (AUT),Liverpool,1,3
+2023-09-21,2324,EU,Legia Warszawa (POL),Aston Villa,3,2
+2023-09-21,2324,EU,Leverkusen,BK Häcken (SWE),4,0
+2023-09-21,2324,EU,Maccabi Tel Aviv (ISR),Breiðablik (ISL),3,2
+2023-09-21,2324,EU,Olympiakos Piraeus (GRE),Freiburg,2,3
+2023-09-21,2324,EU,Panathinaikos (GRE),Villarreal,2,0
+2023-09-21,2324,EU,PFC Ludogorets Razgrad (BUL),Spartak Trnava (SVK),4,0
+2023-09-21,2324,EU,Qarabağ FK (AZE),Molde FK (NOR),1,0
+2023-09-21,2324,EU,Rangers FC (SCO),Betis,1,0
+2023-09-21,2324,EU,Rennes,Maccabi Haifa (ISR),3,0
+2023-09-21,2324,EU,Servette FC (SUI),Slavia Praha (CZE),0,2
+2023-09-21,2324,EU,Slovan Bratislava (SVK),KÍ Klaksvík (FRO),2,1
+2023-09-21,2324,EU,Sturm Graz (AUT),Sporting CP (POR),1,2
+2023-09-21,2324,EU,Union Saint-Gilloise (BEL),Toulouse,1,1
+2023-09-21,2324,EU,Viktoria Plzeň (CZE),KF Ballkani (KOS),1,0
+2023-09-21,2324,EU,West Ham,TSC Bačka Topola (SRB),3,1
+2023-09-21,2324,EU,Zorya Lugansk (UKR),KAA Gent (BEL),1,1
+2023-09-21,2324,EU,Zrinjski Mostar (BIH),AZ Alkmaar (NED),4,3
+2023-10-03,2324,EU,FC København (DEN),Bayern Munich,1,2
+2023-10-03,2324,EU,FC Red Bull Salzburg (AUT),Sociedad,0,2
+2023-10-03,2324,EU,Inter,Sport Lisboa e Benfica (POR),1,0
+2023-10-03,2324,EU,Lens,Arsenal,2,1
+2023-10-03,2324,EU,Man United,Galatasaray SK (TUR),2,3
+2023-10-03,2324,EU,Napoli,Real Madrid,2,3
+2023-10-03,2324,EU,PSV (NED),Sevilla,2,2
+2023-10-03,2324,EU,Union Berlin,Sporting Clube de Braga (POR),2,3
+2023-10-04,2324,EU,Ath Madrid,Feyenoord Rotterdam (NED),3,2
+2023-10-04,2324,EU,Celtic FC (SCO),Lazio,1,2
+2023-10-04,2324,EU,Dortmund,Milan,0,0
+2023-10-04,2324,EU,FC Porto (POR),Barcelona,0,1
+2023-10-04,2324,EU,FK Crvena Zvezda (SRB),BSC Young Boys (SUI),2,2
+2023-10-04,2324,EU,Newcastle,Paris SG,4,1
+2023-10-04,2324,EU,RB Leipzig,Man City,1,3
+2023-10-04,2324,EU,Royal Antwerp FC (BEL),FK Shakhtar Donetsk (UKR),2,3
+2023-10-05,2324,EU,Aberdeen FC (SCO),HJK Helsinki (FIN),1,1
+2023-10-05,2324,EU,AEK Athen (GRE),AFC Ajax (NED),1,1
+2023-10-05,2324,EU,Aris Limassol (CYP),Rangers FC (SCO),2,1
+2023-10-05,2324,EU,Aston Villa,Zrinjski Mostar (BIH),1,0
+2023-10-05,2324,EU,AZ Alkmaar (NED),Legia Warszawa (POL),1,0
+2023-10-05,2324,EU,Beşiktaş (TUR),FC Lugano (SUI),2,3
+2023-10-05,2324,EU,Betis,AC Sparta Praha (CZE),2,1
+2023-10-05,2324,EU,BK Häcken (SWE),Qarabağ FK (AZE),0,1
+2023-10-05,2324,EU,Breiðablik (ISL),Zorya Lugansk (UKR),0,1
+2023-10-05,2324,EU,FC Nordsjælland (DEN),PFC Ludogorets Razgrad (BUL),7,1
+2023-10-05,2324,EU,Fiorentina,Ferencvárosi TC (HUN),2,2
+2023-10-05,2324,EU,FK Astana (KAZ),Viktoria Plzeň (CZE),1,2
+2023-10-05,2324,EU,FK Bodø/Glimt (NOR),Club Brugge KV (BEL),0,1
+2023-10-05,2324,EU,FK Čukarički (SRB),KRC Genk (BEL),0,2
+2023-10-05,2324,EU,Freiburg,West Ham,1,2
+2023-10-05,2324,EU,KAA Gent (BEL),Maccabi Tel Aviv (ISR),2,0
+2023-10-05,2324,EU,KF Ballkani (KOS),Dinamo Zagreb (CRO),2,0
+2023-10-05,2324,EU,KÍ Klaksvík (FRO),Lille,0,0
+2023-10-05,2324,EU,Liverpool,Union Saint-Gilloise (BEL),2,0
+2023-10-05,2324,EU,Maccabi Haifa (ISR),Panathinaikos (GRE),0,0
+2023-10-05,2324,EU,Marseille,Brighton,2,2
+2023-10-05,2324,EU,Molde FK (NOR),Leverkusen,1,2
+2023-10-05,2324,EU,Olimpija Ljubljana (SVN),Slovan Bratislava (SVK),0,1
+2023-10-05,2324,EU,PAOK Saloniki (GRE),Ein Frankfurt,2,1
+2023-10-05,2324,EU,Raków Częstochowa (POL),Sturm Graz (AUT),0,1
+2023-10-05,2324,EU,Roma,Servette FC (SUI),4,0
+2023-10-05,2324,EU,Slavia Praha (CZE),FC Sheriff (MDA),6,0
+2023-10-05,2324,EU,Spartak Trnava (SVK),Fenerbahçe (TUR),1,2
+2023-10-05,2324,EU,Sporting CP (POR),Atalanta,1,2
+2023-10-05,2324,EU,Toulouse,LASK (AUT),1,0
+2023-10-05,2324,EU,TSC Bačka Topola (SRB),Olympiakos Piraeus (GRE),2,2
+2023-10-05,2324,EU,Villarreal,Rennes,1,0
+2023-10-24,2324,EU,Galatasaray SK (TUR),Bayern Munich,1,3
+2023-10-24,2324,EU,Inter,FC Red Bull Salzburg (AUT),2,1
+2023-10-24,2324,EU,Lens,PSV (NED),1,1
+2023-10-24,2324,EU,Man United,FC København (DEN),1,0
+2023-10-24,2324,EU,Sevilla,Arsenal,1,2
+2023-10-24,2324,EU,Sport Lisboa e Benfica (POR),Sociedad,0,1
+2023-10-24,2324,EU,Sporting Clube de Braga (POR),Real Madrid,1,2
+2023-10-24,2324,EU,Union Berlin,Napoli,0,1
+2023-10-25,2324,EU,Barcelona,FK Shakhtar Donetsk (UKR),2,1
+2023-10-25,2324,EU,BSC Young Boys (SUI),Man City,1,3
+2023-10-25,2324,EU,Celtic FC (SCO),Ath Madrid,2,2
+2023-10-25,2324,EU,Feyenoord Rotterdam (NED),Lazio,3,1
+2023-10-25,2324,EU,Newcastle,Dortmund,0,1
+2023-10-25,2324,EU,Paris SG,Milan,3,0
+2023-10-25,2324,EU,RB Leipzig,FK Crvena Zvezda (SRB),3,1
+2023-10-25,2324,EU,Royal Antwerp FC (BEL),FC Porto (POR),1,4
+2023-10-26,2324,EU,Aberdeen FC (SCO),PAOK Saloniki (GRE),2,3
+2023-10-26,2324,EU,AC Sparta Praha (CZE),Rangers FC (SCO),0,0
+2023-10-26,2324,EU,Aris Limassol (CYP),Betis,0,1
+2023-10-26,2324,EU,AZ Alkmaar (NED),Aston Villa,1,4
+2023-10-26,2324,EU,Brighton,AFC Ajax (NED),2,0
+2023-10-26,2324,EU,Dinamo Zagreb (CRO),Viktoria Plzeň (CZE),0,1
+2023-10-26,2324,EU,Ein Frankfurt,HJK Helsinki (FIN),6,0
+2023-10-26,2324,EU,FC Lugano (SUI),Club Brugge KV (BEL),1,3
+2023-10-26,2324,EU,FC Sheriff (MDA),Servette FC (SUI),1,1
+2023-10-26,2324,EU,Fenerbahçe (TUR),PFC Ludogorets Razgrad (BUL),3,1
+2023-10-26,2324,EU,Fiorentina,FK Čukarički (SRB),6,0
+2023-10-26,2324,EU,FK Bodø/Glimt (NOR),Beşiktaş (TUR),3,1
+2023-10-26,2324,EU,KAA Gent (BEL),Breiðablik (ISL),5,0
+2023-10-26,2324,EU,KF Ballkani (KOS),FK Astana (KAZ),1,2
+2023-10-26,2324,EU,KÍ Klaksvík (FRO),Olimpija Ljubljana (SVN),3,0
+2023-10-26,2324,EU,KRC Genk (BEL),Ferencvárosi TC (HUN),0,0
+2023-10-26,2324,EU,Leverkusen,Qarabağ FK (AZE),5,1
+2023-10-26,2324,EU,Lille,Slovan Bratislava (SVK),2,1
+2023-10-26,2324,EU,Liverpool,Toulouse,5,1
+2023-10-26,2324,EU,Marseille,AEK Athen (GRE),3,1
+2023-10-26,2324,EU,Molde FK (NOR),BK Häcken (SWE),5,1
+2023-10-26,2324,EU,Olympiakos Piraeus (GRE),West Ham,2,1
+2023-10-26,2324,EU,Panathinaikos (GRE),Rennes,1,2
+2023-10-26,2324,EU,Raków Częstochowa (POL),Sporting CP (POR),1,1
+2023-10-26,2324,EU,Roma,Slavia Praha (CZE),2,0
+2023-10-26,2324,EU,Spartak Trnava (SVK),FC Nordsjælland (DEN),0,2
+2023-10-26,2324,EU,Sturm Graz (AUT),Atalanta,2,2
+2023-10-26,2324,EU,TSC Bačka Topola (SRB),Freiburg,1,3
+2023-10-26,2324,EU,Union Saint-Gilloise (BEL),LASK (AUT),2,1
+2023-10-26,2324,EU,Zrinjski Mostar (BIH),Legia Warszawa (POL),1,2
+2023-11-07,2324,EU,Ath Madrid,Celtic FC (SCO),6,0
+2023-11-07,2324,EU,Dortmund,Newcastle,2,0
+2023-11-07,2324,EU,FC Porto (POR),Royal Antwerp FC (BEL),2,0
+2023-11-07,2324,EU,FK Crvena Zvezda (SRB),RB Leipzig,1,2
+2023-11-07,2324,EU,FK Shakhtar Donetsk (UKR),Barcelona,1,0
+2023-11-07,2324,EU,Lazio,Feyenoord Rotterdam (NED),1,0
+2023-11-07,2324,EU,Man City,BSC Young Boys (SUI),3,0
+2023-11-07,2324,EU,Milan,Paris SG,2,1
+2023-11-08,2324,EU,Arsenal,Sevilla,2,0
+2023-11-08,2324,EU,Bayern Munich,Galatasaray SK (TUR),2,1
+2023-11-08,2324,EU,FC København (DEN),Man United,4,3
+2023-11-08,2324,EU,FC Red Bull Salzburg (AUT),Inter,0,1
+2023-11-08,2324,EU,Napoli,Union Berlin,1,1
+2023-11-08,2324,EU,PSV (NED),Lens,1,0
+2023-11-08,2324,EU,Real Madrid,Sporting Clube de Braga (POR),3,0
+2023-11-08,2324,EU,Sociedad,Sport Lisboa e Benfica (POR),3,1
+2023-11-09,2324,EU,AEK Athen (GRE),Marseille,0,2
+2023-11-09,2324,EU,AFC Ajax (NED),Brighton,0,2
+2023-11-09,2324,EU,Aston Villa,AZ Alkmaar (NED),2,1
+2023-11-09,2324,EU,Atalanta,Sturm Graz (AUT),1,0
+2023-11-09,2324,EU,Beşiktaş (TUR),FK Bodø/Glimt (NOR),1,2
+2023-11-09,2324,EU,Betis,Aris Limassol (CYP),4,1
+2023-11-09,2324,EU,BK Häcken (SWE),Molde FK (NOR),1,3
+2023-11-09,2324,EU,Breiðablik (ISL),KAA Gent (BEL),2,3
+2023-11-09,2324,EU,Club Brugge KV (BEL),FC Lugano (SUI),2,0
+2023-11-09,2324,EU,FC Nordsjælland (DEN),Spartak Trnava (SVK),1,1
+2023-11-09,2324,EU,Ferencvárosi TC (HUN),KRC Genk (BEL),1,1
+2023-11-09,2324,EU,FK Astana (KAZ),KF Ballkani (KOS),0,0
+2023-11-09,2324,EU,FK Čukarički (SRB),Fiorentina,0,1
+2023-11-09,2324,EU,Freiburg,TSC Bačka Topola (SRB),5,0
+2023-11-09,2324,EU,HJK Helsinki (FIN),Ein Frankfurt,0,1
+2023-11-09,2324,EU,LASK (AUT),Union Saint-Gilloise (BEL),3,0
+2023-11-09,2324,EU,Legia Warszawa (POL),Zrinjski Mostar (BIH),2,0
+2023-11-09,2324,EU,Maccabi Haifa (ISR),Villarreal,1,2
+2023-11-09,2324,EU,Olimpija Ljubljana (SVN),KÍ Klaksvík (FRO),2,0
+2023-11-09,2324,EU,PAOK Saloniki (GRE),Aberdeen FC (SCO),2,2
+2023-11-09,2324,EU,PFC Ludogorets Razgrad (BUL),Fenerbahçe (TUR),2,0
+2023-11-09,2324,EU,Qarabağ FK (AZE),Leverkusen,0,1
+2023-11-09,2324,EU,Rangers FC (SCO),AC Sparta Praha (CZE),2,1
+2023-11-09,2324,EU,Rennes,Panathinaikos (GRE),3,1
+2023-11-09,2324,EU,Servette FC (SUI),FC Sheriff (MDA),2,1
+2023-11-09,2324,EU,Slavia Praha (CZE),Roma,2,0
+2023-11-09,2324,EU,Slovan Bratislava (SVK),Lille,1,1
+2023-11-09,2324,EU,Sporting CP (POR),Raków Częstochowa (POL),2,1
+2023-11-09,2324,EU,Toulouse,Liverpool,3,2
+2023-11-09,2324,EU,Viktoria Plzeň (CZE),Dinamo Zagreb (CRO),1,0
+2023-11-09,2324,EU,West Ham,Olympiakos Piraeus (GRE),1,0
+2023-11-09,2324,EU,Zorya Lugansk (UKR),Maccabi Tel Aviv (ISR),1,3
+2023-11-25,2324,EU,Maccabi Tel Aviv (ISR),Zorya Lugansk (UKR),3,2
+2023-11-28,2324,EU,Barcelona,FC Porto (POR),2,1
+2023-11-28,2324,EU,BSC Young Boys (SUI),FK Crvena Zvezda (SRB),2,0
+2023-11-28,2324,EU,Feyenoord Rotterdam (NED),Ath Madrid,1,3
+2023-11-28,2324,EU,FK Shakhtar Donetsk (UKR),Royal Antwerp FC (BEL),1,0
+2023-11-28,2324,EU,Lazio,Celtic FC (SCO),2,0
+2023-11-28,2324,EU,Man City,RB Leipzig,3,2
+2023-11-28,2324,EU,Milan,Dortmund,1,3
+2023-11-28,2324,EU,Paris SG,Newcastle,1,1
+2023-11-29,2324,EU,Arsenal,Lens,6,0
+2023-11-29,2324,EU,Bayern Munich,FC København (DEN),0,0
+2023-11-29,2324,EU,Galatasaray SK (TUR),Man United,3,3
+2023-11-29,2324,EU,Real Madrid,Napoli,4,2
+2023-11-29,2324,EU,Sevilla,PSV (NED),2,3
+2023-11-29,2324,EU,Sociedad,FC Red Bull Salzburg (AUT),0,0
+2023-11-29,2324,EU,Sport Lisboa e Benfica (POR),Inter,3,3
+2023-11-29,2324,EU,Sporting Clube de Braga (POR),Union Berlin,1,1
+2023-11-30,2324,EU,AC Sparta Praha (CZE),Betis,1,0
+2023-11-30,2324,EU,AEK Athen (GRE),Brighton,0,1
+2023-11-30,2324,EU,Aston Villa,Legia Warszawa (POL),2,1
+2023-11-30,2324,EU,Atalanta,Sporting CP (POR),1,1
+2023-11-30,2324,EU,AZ Alkmaar (NED),Zrinjski Mostar (BIH),1,0
+2023-11-30,2324,EU,Beşiktaş (TUR),Club Brugge KV (BEL),0,5
+2023-11-30,2324,EU,BK Häcken (SWE),Leverkusen,0,2
+2023-11-30,2324,EU,Breiðablik (ISL),Maccabi Tel Aviv (ISR),1,2
+2023-11-30,2324,EU,Ein Frankfurt,PAOK Saloniki (GRE),1,2
+2023-11-30,2324,EU,FC Nordsjælland (DEN),Fenerbahçe (TUR),6,1
+2023-11-30,2324,EU,FC Sheriff (MDA),Slavia Praha (CZE),2,3
+2023-11-30,2324,EU,Fiorentina,KRC Genk (BEL),2,1
+2023-11-30,2324,EU,FK Astana (KAZ),Dinamo Zagreb (CRO),0,2
+2023-11-30,2324,EU,FK Bodø/Glimt (NOR),FC Lugano (SUI),5,2
+2023-11-30,2324,EU,FK Čukarički (SRB),Ferencvárosi TC (HUN),1,2
+2023-11-30,2324,EU,Freiburg,Olympiakos Piraeus (GRE),5,0
+2023-11-30,2324,EU,HJK Helsinki (FIN),Aberdeen FC (SCO),2,2
+2023-11-30,2324,EU,KAA Gent (BEL),Zorya Lugansk (UKR),4,1
+2023-11-30,2324,EU,KF Ballkani (KOS),Viktoria Plzeň (CZE),0,1
+2023-11-30,2324,EU,KÍ Klaksvík (FRO),Slovan Bratislava (SVK),1,2
+2023-11-30,2324,EU,Liverpool,LASK (AUT),4,0
+2023-11-30,2324,EU,Maccabi Haifa (ISR),Rennes,0,3
+2023-11-30,2324,EU,Marseille,AFC Ajax (NED),4,3
+2023-11-30,2324,EU,Molde FK (NOR),Qarabağ FK (AZE),2,2
+2023-11-30,2324,EU,Olimpija Ljubljana (SVN),Lille,0,2
+2023-11-30,2324,EU,Rangers FC (SCO),Aris Limassol (CYP),1,1
+2023-11-30,2324,EU,Servette FC (SUI),Roma,1,1
+2023-11-30,2324,EU,Spartak Trnava (SVK),PFC Ludogorets Razgrad (BUL),1,2
+2023-11-30,2324,EU,Sturm Graz (AUT),Raków Częstochowa (POL),0,1
+2023-11-30,2324,EU,Toulouse,Union Saint-Gilloise (BEL),0,0
+2023-11-30,2324,EU,TSC Bačka Topola (SRB),West Ham,0,1
+2023-11-30,2324,EU,Villarreal,Panathinaikos (GRE),3,2
+2023-12-06,2324,EU,Villarreal,Maccabi Haifa (ISR),0,0
+2023-12-12,2324,EU,FC København (DEN),Galatasaray SK (TUR),1,0
+2023-12-12,2324,EU,FC Red Bull Salzburg (AUT),Sport Lisboa e Benfica (POR),1,3
+2023-12-12,2324,EU,Inter,Sociedad,0,0
+2023-12-12,2324,EU,Lens,Sevilla,2,1
+2023-12-12,2324,EU,Man United,Bayern Munich,0,1
+2023-12-12,2324,EU,Napoli,Sporting Clube de Braga (POR),2,0
+2023-12-12,2324,EU,PSV (NED),Arsenal,1,1
+2023-12-12,2324,EU,Union Berlin,Real Madrid,2,3
+2023-12-13,2324,EU,Ath Madrid,Lazio,2,0
+2023-12-13,2324,EU,Celtic FC (SCO),Feyenoord Rotterdam (NED),2,1
+2023-12-13,2324,EU,Dortmund,Paris SG,1,1
+2023-12-13,2324,EU,FC Porto (POR),FK Shakhtar Donetsk (UKR),5,3
+2023-12-13,2324,EU,FK Crvena Zvezda (SRB),Man City,2,3
+2023-12-13,2324,EU,Newcastle,Milan,1,2
+2023-12-13,2324,EU,RB Leipzig,BSC Young Boys (SUI),2,1
+2023-12-13,2324,EU,Royal Antwerp FC (BEL),Barcelona,3,2
+2023-12-14,2324,EU,Aberdeen FC (SCO),Ein Frankfurt,2,0
+2023-12-14,2324,EU,AFC Ajax (NED),AEK Athen (GRE),3,1
+2023-12-14,2324,EU,Aris Limassol (CYP),AC Sparta Praha (CZE),1,3
+2023-12-14,2324,EU,Betis,Rangers FC (SCO),2,3
+2023-12-14,2324,EU,Brighton,Marseille,1,0
+2023-12-14,2324,EU,Club Brugge KV (BEL),FK Bodø/Glimt (NOR),3,1
+2023-12-14,2324,EU,Dinamo Zagreb (CRO),KF Ballkani (KOS),3,0
+2023-12-14,2324,EU,FC Lugano (SUI),Beşiktaş (TUR),0,2
+2023-12-14,2324,EU,Fenerbahçe (TUR),Spartak Trnava (SVK),4,0
+2023-12-14,2324,EU,Ferencvárosi TC (HUN),Fiorentina,1,1
+2023-12-14,2324,EU,KRC Genk (BEL),FK Čukarički (SRB),2,0
+2023-12-14,2324,EU,LASK (AUT),Toulouse,1,2
+2023-12-14,2324,EU,Legia Warszawa (POL),AZ Alkmaar (NED),2,0
+2023-12-14,2324,EU,Leverkusen,Molde FK (NOR),5,1
+2023-12-14,2324,EU,Lille,KÍ Klaksvík (FRO),3,0
+2023-12-14,2324,EU,Maccabi Tel Aviv (ISR),KAA Gent (BEL),3,1
+2023-12-14,2324,EU,Olympiakos Piraeus (GRE),TSC Bačka Topola (SRB),5,2
+2023-12-14,2324,EU,Panathinaikos (GRE),Maccabi Haifa (ISR),1,2
+2023-12-14,2324,EU,PAOK Saloniki (GRE),HJK Helsinki (FIN),4,2
+2023-12-14,2324,EU,PFC Ludogorets Razgrad (BUL),FC Nordsjælland (DEN),1,0
+2023-12-14,2324,EU,Qarabağ FK (AZE),BK Häcken (SWE),2,1
+2023-12-14,2324,EU,Raków Częstochowa (POL),Atalanta,0,4
+2023-12-14,2324,EU,Rennes,Villarreal,2,3
+2023-12-14,2324,EU,Roma,FC Sheriff (MDA),3,0
+2023-12-14,2324,EU,Slavia Praha (CZE),Servette FC (SUI),4,0
+2023-12-14,2324,EU,Slovan Bratislava (SVK),Olimpija Ljubljana (SVN),1,2
+2023-12-14,2324,EU,Sporting CP (POR),Sturm Graz (AUT),3,0
+2023-12-14,2324,EU,Union Saint-Gilloise (BEL),Liverpool,2,1
+2023-12-14,2324,EU,Viktoria Plzeň (CZE),FK Astana (KAZ),3,0
+2023-12-14,2324,EU,West Ham,Freiburg,2,0
+2023-12-14,2324,EU,Zorya Lugansk (UKR),Breiðablik (ISL),4,0
+2023-12-14,2324,EU,Zrinjski Mostar (BIH),Aston Villa,1,1
+2024-02-13,2324,EU,FC København (DEN),Man City,1,3
+2024-02-13,2324,EU,RB Leipzig,Real Madrid,0,1
+2024-02-14,2324,EU,Lazio,Bayern Munich,1,0
+2024-02-14,2324,EU,Paris SG,Sociedad,2,0
+2024-02-15,2324,EU,AFC Ajax (NED),FK Bodø/Glimt (NOR),2,2
+2024-02-15,2324,EU,Betis,Dinamo Zagreb (CRO),0,1
+2024-02-15,2324,EU,BSC Young Boys (SUI),Sporting CP (POR),1,3
+2024-02-15,2324,EU,Feyenoord (NED),Roma,1,1
+2024-02-15,2324,EU,Galatasaray (TUR),AC Sparta Praha (CZE),3,2
+2024-02-15,2324,EU,Lens,Freiburg,0,0
+2024-02-15,2324,EU,Maccabi Haifa (ISR),KAA Gent (BEL),1,0
+2024-02-15,2324,EU,Milan,Rennes,3,0
+2024-02-15,2324,EU,Molde FK (NOR),Legia Warszawa (POL),3,2
+2024-02-15,2324,EU,Olympiakos Piraeus (GRE),Ferencvárosi TC (HUN),1,0
+2024-02-15,2324,EU,Servette FC (SUI),PFC Ludogorets Razgrad (BUL),0,0
+2024-02-15,2324,EU,Shakhtar Donetsk (UKR),Marseille,2,2
+2024-02-15,2324,EU,SL Benfica (POR),Toulouse,2,1
+2024-02-15,2324,EU,Sporting Braga (POR),Qarabağ FK (AZE),2,4
+2024-02-15,2324,EU,Sturm Graz (AUT),Slovan Bratislava (SVK),4,1
+2024-02-15,2324,EU,Union Saint-Gilloise (BEL),Ein Frankfurt,2,2
+2024-02-20,2324,EU,Inter,Ath Madrid,1,0
+2024-02-20,2324,EU,PSV (NED),Dortmund,1,1
+2024-02-21,2324,EU,FC Porto (POR),Arsenal,1,0
+2024-02-21,2324,EU,KAA Gent (BEL),Maccabi Haifa (ISR),1,1
+2024-02-21,2324,EU,Napoli,Barcelona,1,1
+2024-02-22,2324,EU,AC Sparta Praha (CZE),Galatasaray (TUR),4,1
+2024-02-22,2324,EU,Dinamo Zagreb (CRO),Betis,1,1
+2024-02-22,2324,EU,Ein Frankfurt,Union Saint-Gilloise (BEL),1,2
+2024-02-22,2324,EU,Ferencvárosi TC (HUN),Olympiakos Piraeus (GRE),0,1
+2024-02-22,2324,EU,FK Bodø/Glimt (NOR),AFC Ajax (NED),1,1
+2024-02-22,2324,EU,Freiburg,Lens,2,2
+2024-02-22,2324,EU,Legia Warszawa (POL),Molde FK (NOR),0,3
+2024-02-22,2324,EU,Marseille,Shakhtar Donetsk (UKR),3,1
+2024-02-22,2324,EU,PFC Ludogorets Razgrad (BUL),Servette FC (SUI),0,1
+2024-02-22,2324,EU,Qarabağ FK (AZE),Sporting Braga (POR),0,2
+2024-02-22,2324,EU,Rennes,Milan,3,2
+2024-02-22,2324,EU,Roma,Feyenoord (NED),1,1
+2024-02-22,2324,EU,Slovan Bratislava (SVK),Sturm Graz (AUT),0,1
+2024-02-22,2324,EU,Sporting CP (POR),BSC Young Boys (SUI),1,1
+2024-02-22,2324,EU,Toulouse,SL Benfica (POR),0,0
+2024-03-05,2324,EU,Bayern Munich,Lazio,3,0
+2024-03-05,2324,EU,Sociedad,Paris SG,1,2
+2024-03-06,2324,EU,Man City,FC København (DEN),3,1
+2024-03-06,2324,EU,Real Madrid,RB Leipzig,1,1
+2024-03-06,2324,EU,Sporting CP (POR),Atalanta,1,1
+2024-03-07,2324,EU,AC Sparta Praha (CZE),Liverpool,1,5
+2024-03-07,2324,EU,AFC Ajax (NED),Aston Villa,0,0
+2024-03-07,2324,EU,Dinamo Zagreb (CRO),PAOK Saloniki (GRE),2,0
+2024-03-07,2324,EU,Freiburg,West Ham,1,0
+2024-03-07,2324,EU,Maccabi Haifa (ISR),Fiorentina,3,4
+2024-03-07,2324,EU,Marseille,Villarreal,4,0
+2024-03-07,2324,EU,Milan,Slavia Praha (CZE),4,2
+2024-03-07,2324,EU,Molde FK (NOR),Club Brugge KV (BEL),2,1
+2024-03-07,2324,EU,Olympiakos Piraeus (GRE),Maccabi Tel Aviv (ISR),1,4
+2024-03-07,2324,EU,Qarabağ FK (AZE),Leverkusen,2,2
+2024-03-07,2324,EU,Roma,Brighton,4,0
+2024-03-07,2324,EU,Servette FC (SUI),Viktoria Plzeň (CZE),0,0
+2024-03-07,2324,EU,SL Benfica (POR),Rangers FC (SCO),2,2
+2024-03-07,2324,EU,Sturm Graz (AUT),Lille,0,3
+2024-03-07,2324,EU,Union Saint-Gilloise (BEL),Fenerbahçe (TUR),0,3
+2024-03-12,2324,EU,Arsenal,FC Porto (POR),1,0
+2024-03-12,2324,EU,Barcelona,Napoli,3,1
+2024-03-13,2324,EU,Ath Madrid,Inter,2,1
+2024-03-13,2324,EU,Dortmund,PSV (NED),2,0
+2024-03-14,2324,EU,Aston Villa,AFC Ajax (NED),4,0
+2024-03-14,2324,EU,Atalanta,Sporting CP (POR),2,1
+2024-03-14,2324,EU,Brighton,Roma,1,0
+2024-03-14,2324,EU,Club Brugge KV (BEL),Molde FK (NOR),3,0
+2024-03-14,2324,EU,Fenerbahçe (TUR),Union Saint-Gilloise (BEL),0,1
+2024-03-14,2324,EU,Fiorentina,Maccabi Haifa (ISR),1,1
+2024-03-14,2324,EU,Leverkusen,Qarabağ FK (AZE),3,2
+2024-03-14,2324,EU,Lille,Sturm Graz (AUT),1,1
+2024-03-14,2324,EU,Liverpool,AC Sparta Praha (CZE),6,1
+2024-03-14,2324,EU,Maccabi Tel Aviv (ISR),Olympiakos Piraeus (GRE),1,4
+2024-03-14,2324,EU,PAOK Saloniki (GRE),Dinamo Zagreb (CRO),5,1
+2024-03-14,2324,EU,Rangers FC (SCO),SL Benfica (POR),0,1
+2024-03-14,2324,EU,Slavia Praha (CZE),Milan,1,3
+2024-03-14,2324,EU,Viktoria Plzeň (CZE),Servette FC (SUI),0,0
+2024-03-14,2324,EU,Villarreal,Marseille,3,1
+2024-03-14,2324,EU,West Ham,Freiburg,5,0
+2024-04-09,2324,EU,Arsenal,Bayern Munich,2,2
+2024-04-09,2324,EU,Real Madrid,Man City,3,3
+2024-04-10,2324,EU,Ath Madrid,Dortmund,2,1
+2024-04-10,2324,EU,Paris SG,Barcelona,2,3
+2024-04-11,2324,EU,Aston Villa,Lille,2,1
+2024-04-11,2324,EU,Club Brugge KV (BEL),PAOK Saloniki (GRE),1,0
+2024-04-11,2324,EU,Leverkusen,West Ham,2,0
+2024-04-11,2324,EU,Liverpool,Atalanta,0,3
+2024-04-11,2324,EU,Milan,Roma,0,1
+2024-04-11,2324,EU,Olympiakos Piraeus (GRE),Fenerbahçe (TUR),3,2
+2024-04-11,2324,EU,SL Benfica (POR),Marseille,2,1
+2024-04-11,2324,EU,Viktoria Plzeň (CZE),Fiorentina,0,0
+2024-04-16,2324,EU,Barcelona,Paris SG,1,4
+2024-04-16,2324,EU,Dortmund,Ath Madrid,4,2
+2024-04-17,2324,EU,Bayern Munich,Arsenal,1,0
+2024-04-17,2324,EU,Man City,Real Madrid,1,1
+2024-04-18,2324,EU,Atalanta,Liverpool,0,1
+2024-04-18,2324,EU,Fenerbahçe (TUR),Olympiakos Piraeus (GRE),1,0
+2024-04-18,2324,EU,Fiorentina,Viktoria Plzeň (CZE),0,0
+2024-04-18,2324,EU,Lille,Aston Villa,2,1
+2024-04-18,2324,EU,Marseille,SL Benfica (POR),1,0
+2024-04-18,2324,EU,PAOK Saloniki (GRE),Club Brugge KV (BEL),0,2
+2024-04-18,2324,EU,Roma,Milan,2,1
+2024-04-18,2324,EU,West Ham,Leverkusen,1,1
+2024-04-30,2324,EU,Bayern Munich,Real Madrid,2,2
+2024-05-01,2324,EU,Dortmund,Paris SG,1,0
+2024-05-02,2324,EU,Aston Villa,Olympiakos Piraeus (GRE),2,4
+2024-05-02,2324,EU,Fiorentina,Club Brugge KV (BEL),3,2
+2024-05-02,2324,EU,Marseille,Atalanta,1,1
+2024-05-02,2324,EU,Roma,Leverkusen,0,2
+2024-05-07,2324,EU,Paris SG,Dortmund,0,1
+2024-05-08,2324,EU,Club Brugge KV (BEL),Fiorentina,1,1
+2024-05-08,2324,EU,Real Madrid,Bayern Munich,2,1
+2024-05-09,2324,EU,Atalanta,Marseille,3,0
+2024-05-09,2324,EU,Leverkusen,Roma,2,2
+2024-05-09,2324,EU,Olympiakos Piraeus (GRE),Aston Villa,2,0
+2024-05-22,2324,EUN,Atalanta,Leverkusen,3,0
+2024-05-29,2324,EUN,Olympiakos Piraeus (GRE),Fiorentina,0,0
+2024-06-01,2324,EUN,Dortmund,Real Madrid,0,2
+2024-09-17,2425,EU,Bayern Munich,GNK Dinamo Zagreb (CRO),9,2
+2024-09-17,2425,EU,BSC Young Boys (SUI),Aston Villa,0,3
+2024-09-17,2425,EU,Juventus,PSV (NED),3,1
+2024-09-17,2425,EU,Milan,Liverpool,1,3
+2024-09-17,2425,EU,Real Madrid,Stuttgart,3,1
+2024-09-17,2425,EU,Sporting Clube de Portugal (POR),Lille,2,0
+2024-09-18,2425,EU,AC Sparta Praha (CZE),FC Red Bull Salzburg (AUT),3,0
+2024-09-18,2425,EU,Bologna,FK Shakhtar Donetsk (UKR),0,0
+2024-09-18,2425,EU,Celtic FC (SCO),ŠK Slovan Bratislava (SVK),5,1
+2024-09-18,2425,EU,Club Brugge KV (BEL),Dortmund,0,3
+2024-09-18,2425,EU,Man City,Inter,0,0
+2024-09-18,2425,EU,Paris SG,Girona,1,0
+2024-09-19,2425,EU,AS Monaco FC (MCO),Barcelona,2,1
+2024-09-19,2425,EU,Atalanta,Arsenal,0,0
+2024-09-19,2425,EU,Ath Madrid,RB Leipzig,2,1
+2024-09-19,2425,EU,Brest,SK Sturm Graz (AUT),2,1
+2024-09-19,2425,EU,Feyenoord Rotterdam (NED),Leverkusen,0,4
+2024-09-19,2425,EU,FK Crvena Zvezda (SRB),Sport Lisboa e Benfica (POR),1,2
+2024-09-25,2425,EU,AZ Alkmaar (NED),IF Elfsborg (SWE),3,2
+2024-09-25,2425,EU,Dinamo Kiev (UKR),Lazio,0,3
+2024-09-25,2425,EU,FC Midtjylland (DEN),Hoffenheim,1,1
+2024-09-25,2425,EU,FK Bodø/Glimt (NOR),FC Porto (POR),3,2
+2024-09-25,2425,EU,Galatasaray (TUR),PAOK Saloniki (GRE),3,1
+2024-09-25,2425,EU,Man United,FC Twente (NED),1,1
+2024-09-25,2425,EU,Nice,Sociedad,1,1
+2024-09-25,2425,EU,PFC Ludogorets Razgrad (BUL),Slavia Praha (CZE),0,2
+2024-09-25,2425,EU,RSC Anderlecht (BEL),Ferencvárosi TC (HUN),2,1
+2024-09-26,2425,EU,AFC Ajax (NED),Beşiktaş (TUR),4,0
+2024-09-26,2425,EU,Ein Frankfurt,Viktoria Plzeň (CZE),3,3
+2024-09-26,2425,EU,FCSB (ROU),FK RFS (LVA),4,1
+2024-09-26,2425,EU,Fenerbahçe (TUR),Union Saint-Gilloise (BEL),2,1
+2024-09-26,2425,EU,Lyon,Olympiakos Piraeus (GRE),2,0
+2024-09-26,2425,EU,Malmö FF (SWE),Rangers FC (SCO),0,2
+2024-09-26,2425,EU,Roma,Ath Bilbao,1,1
+2024-09-26,2425,EU,Sporting Braga (POR),Maccabi Tel Aviv (ISR),2,1
+2024-09-26,2425,EU,Tottenham,Qarabağ FK (AZE),3,0
+2024-10-01,2425,EU,Arsenal,Paris SG,2,0
+2024-10-01,2425,EU,Barcelona,BSC Young Boys (SUI),5,0
+2024-10-01,2425,EU,Dortmund,Celtic FC (SCO),7,1
+2024-10-01,2425,EU,FC Red Bull Salzburg (AUT),Brest,0,4
+2024-10-01,2425,EU,Inter,FK Crvena Zvezda (SRB),4,0
+2024-10-01,2425,EU,Leverkusen,Milan,1,0
+2024-10-01,2425,EU,PSV (NED),Sporting Clube de Portugal (POR),1,1
+2024-10-01,2425,EU,ŠK Slovan Bratislava (SVK),Man City,0,4
+2024-10-01,2425,EU,Stuttgart,AC Sparta Praha (CZE),1,1
+2024-10-02,2425,EU,Aston Villa,Bayern Munich,1,0
+2024-10-02,2425,EU,FK Shakhtar Donetsk (UKR),Atalanta,0,3
+2024-10-02,2425,EU,Girona,Feyenoord Rotterdam (NED),2,3
+2024-10-02,2425,EU,GNK Dinamo Zagreb (CRO),AS Monaco FC (MCO),2,2
+2024-10-02,2425,EU,İstanbul Başakşehir (TUR),Rapid Wien (AUT),1,2
+2024-10-02,2425,EU,Lille,Real Madrid,1,0
+2024-10-02,2425,EU,Liverpool,Bologna,2,0
+2024-10-02,2425,EU,RB Leipzig,Juventus,2,3
+2024-10-02,2425,EU,SK Sturm Graz (AUT),Club Brugge KV (BEL),0,1
+2024-10-02,2425,EU,Sport Lisboa e Benfica (POR),Ath Madrid,4,0
+2024-10-02,2425,EU,Vitória Guimarães (POR),NK Celje (SVN),3,1
+2024-10-03,2425,EU,Ath Bilbao,AZ Alkmaar (NED),2,0
+2024-10-03,2425,EU,Beşiktaş (TUR),Ein Frankfurt,1,3
+2024-10-03,2425,EU,Borac Banja Luka (BIH),Panathinaikos (GRE),1,1
+2024-10-03,2425,EU,Cercle Brugge (BEL),FC St. Gallen (SUI),6,2
+2024-10-03,2425,EU,Chelsea,KAA Gent (BEL),4,2
+2024-10-03,2425,EU,CS Petrocub (MDA),Paphos FC (CYP),1,4
+2024-10-03,2425,EU,Dinamo Minsk (BLR),Heart of Midlothian (SCO),1,2
+2024-10-03,2425,EU,FC København (DEN),Jagiellonia Białystok (POL),1,2
+2024-10-03,2425,EU,FC Lugano (SUI),HJK Helsinki (FIN),3,0
+2024-10-03,2425,EU,FC Noah (ARM),FK Mladá Boleslav (CZE),2,0
+2024-10-03,2425,EU,FC Porto (POR),Man United,3,3
+2024-10-03,2425,EU,FC Twente (NED),Fenerbahçe (TUR),1,1
+2024-10-03,2425,EU,Ferencvárosi TC (HUN),Tottenham,1,2
+2024-10-03,2425,EU,Fiorentina,The New Saints (WAL),2,0
+2024-10-03,2425,EU,FK Astana (KAZ),TSC Bačka Topola (SRB),1,0
+2024-10-03,2425,EU,FK RFS (LVA),Galatasaray (TUR),2,2
+2024-10-03,2425,EU,Heidenheim,Olimpija Ljubljana (SVN),2,1
+2024-10-03,2425,EU,Hoffenheim,Dinamo Kiev (UKR),2,0
+2024-10-03,2425,EU,IF Elfsborg (SWE),Roma,1,0
+2024-10-03,2425,EU,LASK (AUT),Djurgårdens IF (SWE),2,2
+2024-10-03,2425,EU,Lazio,Nice,4,1
+2024-10-03,2425,EU,Legia Warszawa (POL),Betis,1,0
+2024-10-03,2425,EU,Maccabi Tel Aviv (ISR),FC Midtjylland (DEN),0,2
+2024-10-03,2425,EU,Molde FK (NOR),Larne FC (NIR),3,0
+2024-10-03,2425,EU,Olympiakos Piraeus (GRE),Sporting Braga (POR),3,0
+2024-10-03,2425,EU,Omonia Nikosia (CYP),Víkingur Reykjavík (ISL),4,0
+2024-10-03,2425,EU,PAOK Saloniki (GRE),FCSB (ROU),0,1
+2024-10-03,2425,EU,Qarabağ FK (AZE),Malmö FF (SWE),1,2
+2024-10-03,2425,EU,Rangers FC (SCO),Lyon,1,4
+2024-10-03,2425,EU,Shamrock Rovers (IRL),APOEL Nikosia (CYP),1,1
+2024-10-03,2425,EU,Slavia Praha (CZE),AFC Ajax (NED),1,1
+2024-10-03,2425,EU,Sociedad,RSC Anderlecht (BEL),1,2
+2024-10-03,2425,EU,Union Saint-Gilloise (BEL),FK Bodø/Glimt (NOR),0,0
+2024-10-03,2425,EU,Viktoria Plzeň (CZE),PFC Ludogorets Razgrad (BUL),0,0
+2024-10-22,2425,EU,Arsenal,FK Shakhtar Donetsk (UKR),1,0
+2024-10-22,2425,EU,AS Monaco FC (MCO),FK Crvena Zvezda (SRB),5,1
+2024-10-22,2425,EU,Aston Villa,Bologna,2,0
+2024-10-22,2425,EU,Girona,ŠK Slovan Bratislava (SVK),2,0
+2024-10-22,2425,EU,Juventus,Stuttgart,0,1
+2024-10-22,2425,EU,Milan,Club Brugge KV (BEL),3,1
+2024-10-22,2425,EU,Paris SG,PSV (NED),1,1
+2024-10-22,2425,EU,Real Madrid,Dortmund,5,2
+2024-10-22,2425,EU,SK Sturm Graz (AUT),Sporting Clube de Portugal (POR),0,2
+2024-10-23,2425,EU,Atalanta,Celtic FC (SCO),0,0
+2024-10-23,2425,EU,Ath Madrid,Lille,1,3
+2024-10-23,2425,EU,Barcelona,Bayern Munich,4,1
+2024-10-23,2425,EU,Brest,Leverkusen,1,1
+2024-10-23,2425,EU,BSC Young Boys (SUI),Inter,0,1
+2024-10-23,2425,EU,FC Red Bull Salzburg (AUT),GNK Dinamo Zagreb (CRO),0,2
+2024-10-23,2425,EU,Galatasaray (TUR),IF Elfsborg (SWE),4,3
+2024-10-23,2425,EU,Man City,AC Sparta Praha (CZE),5,0
+2024-10-23,2425,EU,RB Leipzig,Liverpool,0,1
+2024-10-23,2425,EU,Sport Lisboa e Benfica (POR),Feyenoord Rotterdam (NED),1,3
+2024-10-23,2425,EU,Sporting Braga (POR),FK Bodø/Glimt (NOR),1,2
+2024-10-24,2425,EU,APOEL Nikosia (CYP),Borac Banja Luka (BIH),0,1
+2024-10-24,2425,EU,Ath Bilbao,Slavia Praha (CZE),1,0
+2024-10-24,2425,EU,Betis,FC København (DEN),1,1
+2024-10-24,2425,EU,Djurgårdens IF (SWE),Vitória Guimarães (POR),1,2
+2024-10-24,2425,EU,Ein Frankfurt,FK RFS (LVA),1,0
+2024-10-24,2425,EU,FC Midtjylland (DEN),Union Saint-Gilloise (BEL),1,0
+2024-10-24,2425,EU,FC Porto (POR),Hoffenheim,2,0
+2024-10-24,2425,EU,FC St. Gallen (SUI),Fiorentina,2,4
+2024-10-24,2425,EU,FC Twente (NED),Lazio,0,2
+2024-10-24,2425,EU,Fenerbahçe (TUR),Man United,1,1
+2024-10-24,2425,EU,Ferencvárosi TC (HUN),Nice,1,0
+2024-10-24,2425,EU,FK Mladá Boleslav (CZE),FC Lugano (SUI),0,1
+2024-10-24,2425,EU,Heart of Midlothian (SCO),Omonia Nikosia (CYP),2,0
+2024-10-24,2425,EU,HJK Helsinki (FIN),Dinamo Minsk (BLR),1,0
+2024-10-24,2425,EU,Jagiellonia Białystok (POL),CS Petrocub (MDA),2,0
+2024-10-24,2425,EU,KAA Gent (BEL),Molde FK (NOR),2,1
+2024-10-24,2425,EU,Larne FC (NIR),Shamrock Rovers (IRL),1,4
+2024-10-24,2425,EU,Lyon,Beşiktaş (TUR),0,1
+2024-10-24,2425,EU,Maccabi Tel Aviv (ISR),Sociedad,1,2
+2024-10-24,2425,EU,Malmö FF (SWE),Olympiakos Piraeus (GRE),0,1
+2024-10-24,2425,EU,NK Celje (SVN),İstanbul Başakşehir (TUR),5,1
+2024-10-24,2425,EU,Olimpija Ljubljana (SVN),LASK (AUT),2,0
+2024-10-24,2425,EU,Panathinaikos (GRE),Chelsea,1,4
+2024-10-24,2425,EU,PAOK Saloniki (GRE),Viktoria Plzeň (CZE),2,2
+2024-10-24,2425,EU,Paphos FC (CYP),Heidenheim,0,1
+2024-10-24,2425,EU,Qarabağ FK (AZE),AFC Ajax (NED),0,3
+2024-10-24,2425,EU,Rangers FC (SCO),FCSB (ROU),4,0
+2024-10-24,2425,EU,Rapid Wien (AUT),FC Noah (ARM),1,0
+2024-10-24,2425,EU,Roma,Dinamo Kiev (UKR),1,0
+2024-10-24,2425,EU,RSC Anderlecht (BEL),PFC Ludogorets Razgrad (BUL),2,0
+2024-10-24,2425,EU,The New Saints (WAL),FK Astana (KAZ),2,0
+2024-10-24,2425,EU,Tottenham,AZ Alkmaar (NED),1,0
+2024-10-24,2425,EU,TSC Bačka Topola (SRB),Legia Warszawa (POL),0,3
+2024-10-24,2425,EU,Víkingur Reykjavík (ISL),Cercle Brugge (BEL),3,1
+2024-11-05,2425,EU,Bologna,AS Monaco FC (MCO),0,1
+2024-11-05,2425,EU,Celtic FC (SCO),RB Leipzig,3,1
+2024-11-05,2425,EU,Dortmund,SK Sturm Graz (AUT),1,0
+2024-11-05,2425,EU,Lille,Juventus,1,1
+2024-11-05,2425,EU,Liverpool,Leverkusen,4,0
+2024-11-05,2425,EU,PSV (NED),Girona,4,0
+2024-11-05,2425,EU,Real Madrid,Milan,1,3
+2024-11-05,2425,EU,ŠK Slovan Bratislava (SVK),GNK Dinamo Zagreb (CRO),1,4
+2024-11-05,2425,EU,Sporting Clube de Portugal (POR),Man City,4,1
+2024-11-06,2425,EU,AC Sparta Praha (CZE),Brest,1,2
+2024-11-06,2425,EU,Bayern Munich,Sport Lisboa e Benfica (POR),1,0
+2024-11-06,2425,EU,Beşiktaş (TUR),Malmö FF (SWE),2,1
+2024-11-06,2425,EU,Club Brugge KV (BEL),Aston Villa,1,0
+2024-11-06,2425,EU,Feyenoord Rotterdam (NED),FC Red Bull Salzburg (AUT),1,3
+2024-11-06,2425,EU,FK Crvena Zvezda (SRB),Barcelona,2,5
+2024-11-06,2425,EU,FK Shakhtar Donetsk (UKR),BSC Young Boys (SUI),2,1
+2024-11-06,2425,EU,Inter,Arsenal,1,0
+2024-11-06,2425,EU,Paris SG,Ath Madrid,1,2
+2024-11-06,2425,EU,Stuttgart,Atalanta,0,2
+2024-11-07,2425,EU,AFC Ajax (NED),Maccabi Tel Aviv (ISR),5,0
+2024-11-07,2425,EU,APOEL Nikosia (CYP),Fiorentina,2,1
+2024-11-07,2425,EU,AZ Alkmaar (NED),Fenerbahçe (TUR),3,1
+2024-11-07,2425,EU,Betis,NK Celje (SVN),2,1
+2024-11-07,2425,EU,Chelsea,FC Noah (ARM),8,0
+2024-11-07,2425,EU,CS Petrocub (MDA),Rapid Wien (AUT),0,3
+2024-11-07,2425,EU,Dinamo Kiev (UKR),Ferencvárosi TC (HUN),0,4
+2024-11-07,2425,EU,Djurgårdens IF (SWE),Panathinaikos (GRE),2,1
+2024-11-07,2425,EU,Ein Frankfurt,Slavia Praha (CZE),1,0
+2024-11-07,2425,EU,FC København (DEN),İstanbul Başakşehir (TUR),2,2
+2024-11-07,2425,EU,FCSB (ROU),FC Midtjylland (DEN),2,0
+2024-11-07,2425,EU,FK Bodø/Glimt (NOR),Qarabağ FK (AZE),1,2
+2024-11-07,2425,EU,FK RFS (LVA),RSC Anderlecht (BEL),1,1
+2024-11-07,2425,EU,Galatasaray (TUR),Tottenham,3,2
+2024-11-07,2425,EU,Heart of Midlothian (SCO),Heidenheim,0,2
+2024-11-07,2425,EU,HJK Helsinki (FIN),Olimpija Ljubljana (SVN),0,2
+2024-11-07,2425,EU,Hoffenheim,Lyon,2,2
+2024-11-07,2425,EU,IF Elfsborg (SWE),Sporting Braga (POR),1,1
+2024-11-07,2425,EU,Jagiellonia Białystok (POL),Molde FK (NOR),3,0
+2024-11-07,2425,EU,KAA Gent (BEL),Omonia Nikosia (CYP),1,0
+2024-11-07,2425,EU,Larne FC (NIR),FC St. Gallen (SUI),1,2
+2024-11-07,2425,EU,LASK (AUT),Cercle Brugge (BEL),0,0
+2024-11-07,2425,EU,Lazio,FC Porto (POR),2,1
+2024-11-07,2425,EU,Legia Warszawa (POL),Dinamo Minsk (BLR),4,0
+2024-11-07,2425,EU,Man United,PAOK Saloniki (GRE),2,0
+2024-11-07,2425,EU,Nice,FC Twente (NED),2,2
+2024-11-07,2425,EU,Olympiakos Piraeus (GRE),Rangers FC (SCO),1,1
+2024-11-07,2425,EU,Paphos FC (CYP),FK Astana (KAZ),1,0
+2024-11-07,2425,EU,PFC Ludogorets Razgrad (BUL),Ath Bilbao,1,2
+2024-11-07,2425,EU,Shamrock Rovers (IRL),The New Saints (WAL),2,1
+2024-11-07,2425,EU,TSC Bačka Topola (SRB),FC Lugano (SUI),4,1
+2024-11-07,2425,EU,Union Saint-Gilloise (BEL),Roma,1,1
+2024-11-07,2425,EU,Víkingur Reykjavík (ISL),Borac Banja Luka (BIH),2,0
+2024-11-07,2425,EU,Viktoria Plzeň (CZE),Sociedad,2,1
+2024-11-07,2425,EU,Vitória Guimarães (POR),FK Mladá Boleslav (CZE),2,1
+2024-11-26,2425,EU,AC Sparta Praha (CZE),Ath Madrid,0,6
+2024-11-26,2425,EU,Barcelona,Brest,3,0
+2024-11-26,2425,EU,Bayern Munich,Paris SG,1,0
+2024-11-26,2425,EU,BSC Young Boys (SUI),Atalanta,1,6
+2024-11-26,2425,EU,Inter,RB Leipzig,1,0
+2024-11-26,2425,EU,Leverkusen,FC Red Bull Salzburg (AUT),5,0
+2024-11-26,2425,EU,Man City,Feyenoord Rotterdam (NED),3,3
+2024-11-26,2425,EU,ŠK Slovan Bratislava (SVK),Milan,2,3
+2024-11-26,2425,EU,Sporting Clube de Portugal (POR),Arsenal,1,5
+2024-11-27,2425,EU,AS Monaco FC (MCO),Sport Lisboa e Benfica (POR),2,3
+2024-11-27,2425,EU,Aston Villa,Juventus,0,0
+2024-11-27,2425,EU,Bologna,Lille,1,2
+2024-11-27,2425,EU,Celtic FC (SCO),Club Brugge KV (BEL),1,1
+2024-11-27,2425,EU,FK Crvena Zvezda (SRB),Stuttgart,5,1
+2024-11-27,2425,EU,GNK Dinamo Zagreb (CRO),Dortmund,0,3
+2024-11-27,2425,EU,İstanbul Başakşehir (TUR),CS Petrocub (MDA),1,1
+2024-11-27,2425,EU,Liverpool,Real Madrid,2,0
+2024-11-27,2425,EU,PSV (NED),FK Shakhtar Donetsk (UKR),3,2
+2024-11-27,2425,EU,SK Sturm Graz (AUT),Girona,1,0
+2024-11-28,2425,EU,Ath Bilbao,IF Elfsborg (SWE),3,0
+2024-11-28,2425,EU,AZ Alkmaar (NED),Galatasaray (TUR),1,1
+2024-11-28,2425,EU,Beşiktaş (TUR),Maccabi Tel Aviv (ISR),1,3
+2024-11-28,2425,EU,Borac Banja Luka (BIH),LASK (AUT),2,1
+2024-11-28,2425,EU,Cercle Brugge (BEL),Heart of Midlothian (SCO),2,0
+2024-11-28,2425,EU,Dinamo Kiev (UKR),Viktoria Plzeň (CZE),1,2
+2024-11-28,2425,EU,Dinamo Minsk (BLR),FC København (DEN),1,2
+2024-11-28,2425,EU,FC Lugano (SUI),KAA Gent (BEL),2,0
+2024-11-28,2425,EU,FC Midtjylland (DEN),Ein Frankfurt,1,2
+2024-11-28,2425,EU,FC Noah (ARM),Víkingur Reykjavík (ISL),0,0
+2024-11-28,2425,EU,FC St. Gallen (SUI),TSC Bačka Topola (SRB),2,2
+2024-11-28,2425,EU,FC Twente (NED),Union Saint-Gilloise (BEL),0,1
+2024-11-28,2425,EU,FCSB (ROU),Olympiakos Piraeus (GRE),0,0
+2024-11-28,2425,EU,Ferencvárosi TC (HUN),Malmö FF (SWE),4,1
+2024-11-28,2425,EU,Fiorentina,Paphos FC (CYP),3,2
+2024-11-28,2425,EU,FK Astana (KAZ),Vitória Guimarães (POR),1,1
+2024-11-28,2425,EU,FK Mladá Boleslav (CZE),Betis,2,1
+2024-11-28,2425,EU,FK RFS (LVA),PAOK Saloniki (GRE),0,2
+2024-11-28,2425,EU,Heidenheim,Chelsea,0,2
+2024-11-28,2425,EU,Lazio,PFC Ludogorets Razgrad (BUL),0,0
+2024-11-28,2425,EU,Man United,FK Bodø/Glimt (NOR),3,2
+2024-11-28,2425,EU,Molde FK (NOR),APOEL Nikosia (CYP),0,1
+2024-11-28,2425,EU,Nice,Rangers FC (SCO),1,4
+2024-11-28,2425,EU,NK Celje (SVN),Jagiellonia Białystok (POL),3,3
+2024-11-28,2425,EU,Olimpija Ljubljana (SVN),Larne FC (NIR),1,0
+2024-11-28,2425,EU,Omonia Nikosia (CYP),Legia Warszawa (POL),0,3
+2024-11-28,2425,EU,Panathinaikos (GRE),HJK Helsinki (FIN),1,0
+2024-11-28,2425,EU,Qarabağ FK (AZE),Lyon,1,4
+2024-11-28,2425,EU,Rapid Wien (AUT),Shamrock Rovers (IRL),1,1
+2024-11-28,2425,EU,RSC Anderlecht (BEL),FC Porto (POR),2,2
+2024-11-28,2425,EU,Slavia Praha (CZE),Fenerbahçe (TUR),1,2
+2024-11-28,2425,EU,Sociedad,AFC Ajax (NED),2,0
+2024-11-28,2425,EU,Sporting Braga (POR),Hoffenheim,3,0
+2024-11-28,2425,EU,The New Saints (WAL),Djurgårdens IF (SWE),0,1
+2024-11-28,2425,EU,Tottenham,Roma,2,2
+2024-12-10,2425,EU,Atalanta,Real Madrid,2,3
+2024-12-10,2425,EU,Brest,PSV (NED),1,0
+2024-12-10,2425,EU,Club Brugge KV (BEL),Sporting Clube de Portugal (POR),2,1
+2024-12-10,2425,EU,FC Red Bull Salzburg (AUT),Paris SG,0,3
+2024-12-10,2425,EU,FK Shakhtar Donetsk (UKR),Bayern Munich,1,5
+2024-12-10,2425,EU,Girona,Liverpool,0,1
+2024-12-10,2425,EU,GNK Dinamo Zagreb (CRO),Celtic FC (SCO),0,0
+2024-12-10,2425,EU,Leverkusen,Inter,1,0
+2024-12-10,2425,EU,RB Leipzig,Aston Villa,2,3
+2024-12-11,2425,EU,Arsenal,AS Monaco FC (MCO),3,0
+2024-12-11,2425,EU,Ath Madrid,ŠK Slovan Bratislava (SVK),3,1
+2024-12-11,2425,EU,Dortmund,Barcelona,2,3
+2024-12-11,2425,EU,Fenerbahçe (TUR),Ath Bilbao,0,2
+2024-12-11,2425,EU,Feyenoord Rotterdam (NED),AC Sparta Praha (CZE),4,2
+2024-12-11,2425,EU,Juventus,Man City,2,0
+2024-12-11,2425,EU,Lille,SK Sturm Graz (AUT),3,2
+2024-12-11,2425,EU,Milan,FK Crvena Zvezda (SRB),2,1
+2024-12-11,2425,EU,Sport Lisboa e Benfica (POR),Bologna,0,0
+2024-12-11,2425,EU,Stuttgart,BSC Young Boys (SUI),5,1
+2024-12-12,2425,EU,AFC Ajax (NED),Lazio,1,3
+2024-12-12,2425,EU,CS Petrocub (MDA),Betis,0,1
+2024-12-12,2425,EU,Dinamo Minsk (BLR),Larne FC (NIR),2,0
+2024-12-12,2425,EU,FC København (DEN),Heart of Midlothian (SCO),2,0
+2024-12-12,2425,EU,FC Noah (ARM),APOEL Nikosia (CYP),1,3
+2024-12-12,2425,EU,FC Porto (POR),FC Midtjylland (DEN),2,0
+2024-12-12,2425,EU,FC St. Gallen (SUI),Vitória Guimarães (POR),1,4
+2024-12-12,2425,EU,Fiorentina,LASK (AUT),7,0
+2024-12-12,2425,EU,FK Astana (KAZ),Chelsea,1,3
+2024-12-12,2425,EU,FK Bodø/Glimt (NOR),Beşiktaş (TUR),2,1
+2024-12-12,2425,EU,FK Mladá Boleslav (CZE),Jagiellonia Białystok (POL),1,0
+2024-12-12,2425,EU,HJK Helsinki (FIN),Molde FK (NOR),2,2
+2024-12-12,2425,EU,Hoffenheim,FCSB (ROU),0,0
+2024-12-12,2425,EU,IF Elfsborg (SWE),Qarabağ FK (AZE),1,0
+2024-12-12,2425,EU,İstanbul Başakşehir (TUR),Heidenheim,3,1
+2024-12-12,2425,EU,KAA Gent (BEL),TSC Bačka Topola (SRB),3,0
+2024-12-12,2425,EU,Legia Warszawa (POL),FC Lugano (SUI),1,2
+2024-12-12,2425,EU,Lyon,Ein Frankfurt,3,2
+2024-12-12,2425,EU,Maccabi Tel Aviv (ISR),FK RFS (LVA),2,1
+2024-12-12,2425,EU,Malmö FF (SWE),Galatasaray (TUR),2,2
+2024-12-12,2425,EU,Olimpija Ljubljana (SVN),Cercle Brugge (BEL),1,4
+2024-12-12,2425,EU,Olympiakos Piraeus (GRE),FC Twente (NED),0,0
+2024-12-12,2425,EU,Omonia Nikosia (CYP),Rapid Wien (AUT),3,1
+2024-12-12,2425,EU,PAOK Saloniki (GRE),Ferencvárosi TC (HUN),5,0
+2024-12-12,2425,EU,Paphos FC (CYP),NK Celje (SVN),2,0
+2024-12-12,2425,EU,PFC Ludogorets Razgrad (BUL),AZ Alkmaar (NED),2,2
+2024-12-12,2425,EU,Rangers FC (SCO),Tottenham,1,1
+2024-12-12,2425,EU,Roma,Sporting Braga (POR),3,0
+2024-12-12,2425,EU,Shamrock Rovers (IRL),Borac Banja Luka (BIH),3,0
+2024-12-12,2425,EU,Slavia Praha (CZE),RSC Anderlecht (BEL),1,2
+2024-12-12,2425,EU,Sociedad,Dinamo Kiev (UKR),3,0
+2024-12-12,2425,EU,The New Saints (WAL),Panathinaikos (GRE),0,2
+2024-12-12,2425,EU,Union Saint-Gilloise (BEL),Nice,2,1
+2024-12-12,2425,EU,Víkingur Reykjavík (ISL),Djurgårdens IF (SWE),1,2
+2024-12-12,2425,EU,Viktoria Plzeň (CZE),Man United,1,2
+2024-12-19,2425,EU,APOEL Nikosia (CYP),FK Astana (KAZ),1,1
+2024-12-19,2425,EU,Betis,HJK Helsinki (FIN),1,0
+2024-12-19,2425,EU,Borac Banja Luka (BIH),Omonia Nikosia (CYP),0,0
+2024-12-19,2425,EU,Cercle Brugge (BEL),İstanbul Başakşehir (TUR),1,1
+2024-12-19,2425,EU,Chelsea,Shamrock Rovers (IRL),5,1
+2024-12-19,2425,EU,Djurgårdens IF (SWE),Legia Warszawa (POL),3,1
+2024-12-19,2425,EU,FC Lugano (SUI),Paphos FC (CYP),2,2
+2024-12-19,2425,EU,Heart of Midlothian (SCO),CS Petrocub (MDA),2,2
+2024-12-19,2425,EU,Heidenheim,FC St. Gallen (SUI),1,1
+2024-12-19,2425,EU,Jagiellonia Białystok (POL),Olimpija Ljubljana (SVN),0,0
+2024-12-19,2425,EU,Larne FC (NIR),KAA Gent (BEL),1,0
+2024-12-19,2425,EU,LASK (AUT),Víkingur Reykjavík (ISL),1,1
+2024-12-19,2425,EU,Molde FK (NOR),FK Mladá Boleslav (CZE),4,3
+2024-12-19,2425,EU,NK Celje (SVN),The New Saints (WAL),3,2
+2024-12-19,2425,EU,Panathinaikos (GRE),Dinamo Minsk (BLR),4,0
+2024-12-19,2425,EU,Rapid Wien (AUT),FC København (DEN),3,0
+2024-12-19,2425,EU,TSC Bačka Topola (SRB),FC Noah (ARM),4,3
+2024-12-19,2425,EU,Vitória Guimarães (POR),Fiorentina,1,1
+2025-01-21,2425,EU,AS Monaco FC (MCO),Aston Villa,1,0
+2025-01-21,2425,EU,Atalanta,SK Sturm Graz (AUT),5,0
+2025-01-21,2425,EU,Ath Madrid,Leverkusen,2,1
+2025-01-21,2425,EU,Bologna,Dortmund,2,1
+2025-01-21,2425,EU,Club Brugge KV (BEL),Juventus,0,0
+2025-01-21,2425,EU,FK Crvena Zvezda (SRB),PSV (NED),2,3
+2025-01-21,2425,EU,Galatasaray (TUR),Dinamo Kiev (UKR),3,3
+2025-01-21,2425,EU,Liverpool,Lille,2,1
+2025-01-21,2425,EU,ŠK Slovan Bratislava (SVK),Stuttgart,1,3
+2025-01-21,2425,EU,Sport Lisboa e Benfica (POR),Barcelona,4,5
+2025-01-22,2425,EU,AC Sparta Praha (CZE),Inter,0,1
+2025-01-22,2425,EU,Arsenal,GNK Dinamo Zagreb (CRO),3,0
+2025-01-22,2425,EU,Beşiktaş (TUR),Ath Bilbao,4,1
+2025-01-22,2425,EU,Celtic FC (SCO),BSC Young Boys (SUI),1,0
+2025-01-22,2425,EU,Feyenoord Rotterdam (NED),Bayern Munich,3,0
+2025-01-22,2425,EU,FK Shakhtar Donetsk (UKR),Brest,2,0
+2025-01-22,2425,EU,Milan,Girona,1,0
+2025-01-22,2425,EU,Paris SG,Man City,4,2
+2025-01-22,2425,EU,RB Leipzig,Sporting Clube de Portugal (POR),2,1
+2025-01-22,2425,EU,Real Madrid,FC Red Bull Salzburg (AUT),5,1
+2025-01-23,2425,EU,AZ Alkmaar (NED),Roma,1,0
+2025-01-23,2425,EU,Ein Frankfurt,Ferencvárosi TC (HUN),2,0
+2025-01-23,2425,EU,FC Porto (POR),Olympiakos Piraeus (GRE),0,1
+2025-01-23,2425,EU,Fenerbahçe (TUR),Lyon,0,0
+2025-01-23,2425,EU,FK Bodø/Glimt (NOR),Maccabi Tel Aviv (ISR),3,1
+2025-01-23,2425,EU,FK RFS (LVA),AFC Ajax (NED),1,0
+2025-01-23,2425,EU,Hoffenheim,Tottenham,2,3
+2025-01-23,2425,EU,IF Elfsborg (SWE),Nice,1,0
+2025-01-23,2425,EU,Lazio,Sociedad,3,1
+2025-01-23,2425,EU,Malmö FF (SWE),FC Twente (NED),2,3
+2025-01-23,2425,EU,Man United,Rangers FC (SCO),2,1
+2025-01-23,2425,EU,PAOK Saloniki (GRE),Slavia Praha (CZE),2,0
+2025-01-23,2425,EU,PFC Ludogorets Razgrad (BUL),FC Midtjylland (DEN),0,2
+2025-01-23,2425,EU,Qarabağ FK (AZE),FCSB (ROU),2,3
+2025-01-23,2425,EU,Union Saint-Gilloise (BEL),Sporting Braga (POR),2,1
+2025-01-23,2425,EU,Viktoria Plzeň (CZE),RSC Anderlecht (BEL),2,0
+2025-01-29,2425,EU,Aston Villa,Celtic FC (SCO),4,2
+2025-01-29,2425,EU,Barcelona,Atalanta,2,2
+2025-01-29,2425,EU,Bayern Munich,ŠK Slovan Bratislava (SVK),3,1
+2025-01-29,2425,EU,Brest,Real Madrid,0,3
+2025-01-29,2425,EU,BSC Young Boys (SUI),FK Crvena Zvezda (SRB),0,1
+2025-01-29,2425,EU,Dortmund,FK Shakhtar Donetsk (UKR),3,1
+2025-01-29,2425,EU,FC Red Bull Salzburg (AUT),Ath Madrid,1,4
+2025-01-29,2425,EU,Girona,Arsenal,1,2
+2025-01-29,2425,EU,GNK Dinamo Zagreb (CRO),Milan,2,1
+2025-01-29,2425,EU,Inter,AS Monaco FC (MCO),3,0
+2025-01-29,2425,EU,Juventus,Sport Lisboa e Benfica (POR),0,2
+2025-01-29,2425,EU,Leverkusen,AC Sparta Praha (CZE),2,0
+2025-01-29,2425,EU,Lille,Feyenoord Rotterdam (NED),6,1
+2025-01-29,2425,EU,Man City,Club Brugge KV (BEL),3,1
+2025-01-29,2425,EU,PSV (NED),Liverpool,3,2
+2025-01-29,2425,EU,SK Sturm Graz (AUT),RB Leipzig,1,0
+2025-01-29,2425,EU,Sporting Clube de Portugal (POR),Bologna,1,1
+2025-01-29,2425,EU,Stuttgart,Paris SG,1,4
+2025-01-30,2425,EU,AFC Ajax (NED),Galatasaray (TUR),2,1
+2025-01-30,2425,EU,Ath Bilbao,Viktoria Plzeň (CZE),3,1
+2025-01-30,2425,EU,Dinamo Kiev (UKR),FK RFS (LVA),1,0
+2025-01-30,2425,EU,FC Midtjylland (DEN),Fenerbahçe (TUR),2,2
+2025-01-30,2425,EU,FC Twente (NED),Beşiktaş (TUR),1,0
+2025-01-30,2425,EU,FCSB (ROU),Man United,0,2
+2025-01-30,2425,EU,Ferencvárosi TC (HUN),AZ Alkmaar (NED),4,3
+2025-01-30,2425,EU,Lyon,PFC Ludogorets Razgrad (BUL),1,1
+2025-01-30,2425,EU,Maccabi Tel Aviv (ISR),FC Porto (POR),0,1
+2025-01-30,2425,EU,Nice,FK Bodø/Glimt (NOR),1,1
+2025-01-30,2425,EU,Olympiakos Piraeus (GRE),Qarabağ FK (AZE),3,0
+2025-01-30,2425,EU,Rangers FC (SCO),Union Saint-Gilloise (BEL),2,1
+2025-01-30,2425,EU,Roma,Ein Frankfurt,2,0
+2025-01-30,2425,EU,RSC Anderlecht (BEL),Hoffenheim,3,4
+2025-01-30,2425,EU,Slavia Praha (CZE),Malmö FF (SWE),2,2
+2025-01-30,2425,EU,Sociedad,PAOK Saloniki (GRE),2,0
+2025-01-30,2425,EU,Sporting Braga (POR),Lazio,1,0
+2025-01-30,2425,EU,Tottenham,IF Elfsborg (SWE),3,0
+2025-02-11,2425,EU,Brest,Paris SG,0,3
+2025-02-11,2425,EU,Juventus,PSV (NED),2,1
+2025-02-11,2425,EU,Man City,Real Madrid,2,3
+2025-02-11,2425,EU,Sporting Clube de Portugal (POR),Dortmund,0,3
+2025-02-12,2425,EU,AS Monaco FC (MCO),Sport Lisboa e Benfica (POR),0,1
+2025-02-12,2425,EU,Celtic FC (SCO),Bayern Munich,1,2
+2025-02-12,2425,EU,Club Brugge KV (BEL),Atalanta,2,1
+2025-02-12,2425,EU,Feyenoord Rotterdam (NED),Milan,1,0
+2025-02-13,2425,EU,AZ Alkmaar (NED),Galatasaray (TUR),4,1
+2025-02-13,2425,EU,Borac Banja Luka (BIH),Olimpija Ljubljana (SVN),1,0
+2025-02-13,2425,EU,FC København (DEN),Heidenheim,1,2
+2025-02-13,2425,EU,FC Midtjylland (DEN),Sociedad,1,2
+2025-02-13,2425,EU,FC Porto (POR),Roma,1,1
+2025-02-13,2425,EU,FC Twente (NED),FK Bodø/Glimt (NOR),2,1
+2025-02-13,2425,EU,Fenerbahçe (TUR),RSC Anderlecht (BEL),3,0
+2025-02-13,2425,EU,Ferencvárosi TC (HUN),Viktoria Plzeň (CZE),1,0
+2025-02-13,2425,EU,KAA Gent (BEL),Betis,0,3
+2025-02-13,2425,EU,Molde FK (NOR),Shamrock Rovers (IRL),0,1
+2025-02-13,2425,EU,NK Celje (SVN),APOEL Nikosia (CYP),2,2
+2025-02-13,2425,EU,Omonia Nikosia (CYP),Paphos FC (CYP),1,1
+2025-02-13,2425,EU,PAOK Saloniki (GRE),FCSB (ROU),1,2
+2025-02-13,2425,EU,TSC Bačka Topola (SRB),Jagiellonia Białystok (POL),1,3
+2025-02-13,2425,EU,Union Saint-Gilloise (BEL),AFC Ajax (NED),0,2
+2025-02-13,2425,EU,Víkingur Reykjavík (ISL),Panathinaikos (GRE),2,1
+2025-02-18,2425,EU,Atalanta,Club Brugge KV (BEL),1,3
+2025-02-18,2425,EU,Bayern Munich,Celtic FC (SCO),1,1
+2025-02-18,2425,EU,Milan,Feyenoord Rotterdam (NED),1,1
+2025-02-18,2425,EU,Sport Lisboa e Benfica (POR),AS Monaco FC (MCO),3,3
+2025-02-19,2425,EU,Dortmund,Sporting Clube de Portugal (POR),0,0
+2025-02-19,2425,EU,Paris SG,Brest,7,0
+2025-02-19,2425,EU,PSV (NED),Juventus,3,1
+2025-02-19,2425,EU,Real Madrid,Man City,3,1
+2025-02-20,2425,EU,AFC Ajax (NED),Union Saint-Gilloise (BEL),0,2
+2025-02-20,2425,EU,APOEL Nikosia (CYP),NK Celje (SVN),0,2
+2025-02-20,2425,EU,Betis,KAA Gent (BEL),0,1
+2025-02-20,2425,EU,FCSB (ROU),PAOK Saloniki (GRE),2,0
+2025-02-20,2425,EU,FK Bodø/Glimt (NOR),FC Twente (NED),3,2
+2025-02-20,2425,EU,Galatasaray (TUR),AZ Alkmaar (NED),2,2
+2025-02-20,2425,EU,Heidenheim,FC København (DEN),1,2
+2025-02-20,2425,EU,Jagiellonia Białystok (POL),TSC Bačka Topola (SRB),3,1
+2025-02-20,2425,EU,Olimpija Ljubljana (SVN),Borac Banja Luka (BIH),0,0
+2025-02-20,2425,EU,Panathinaikos (GRE),Víkingur Reykjavík (ISL),2,0
+2025-02-20,2425,EU,Paphos FC (CYP),Omonia Nikosia (CYP),2,1
+2025-02-20,2425,EU,Roma,FC Porto (POR),3,2
+2025-02-20,2425,EU,RSC Anderlecht (BEL),Fenerbahçe (TUR),2,2
+2025-02-20,2425,EU,Shamrock Rovers (IRL),Molde FK (NOR),0,1
+2025-02-20,2425,EU,Sociedad,FC Midtjylland (DEN),5,2
+2025-02-20,2425,EU,Viktoria Plzeň (CZE),Ferencvárosi TC (HUN),3,0
+2025-03-04,2425,EU,Club Brugge KV (BEL),Aston Villa,1,3
+2025-03-04,2425,EU,Dortmund,Lille,1,1
+2025-03-04,2425,EU,PSV (NED),Arsenal,1,7
+2025-03-04,2425,EU,Real Madrid,Ath Madrid,2,1
+2025-03-05,2425,EU,Bayern Munich,Leverkusen,3,0
+2025-03-05,2425,EU,Feyenoord Rotterdam (NED),Inter,0,2
+2025-03-05,2425,EU,Paris SG,Liverpool,0,1
+2025-03-05,2425,EU,Sport Lisboa e Benfica (POR),Barcelona,0,1
+2025-03-06,2425,EU,AFC Ajax (NED),Ein Frankfurt,1,2
+2025-03-06,2425,EU,AZ Alkmaar (NED),Tottenham,1,0
+2025-03-06,2425,EU,Betis,Vitória Guimarães (POR),2,2
+2025-03-06,2425,EU,Borac Banja Luka (BIH),Rapid Wien (AUT),1,1
+2025-03-06,2425,EU,FC København (DEN),Chelsea,1,2
+2025-03-06,2425,EU,FCSB (ROU),Lyon,1,3
+2025-03-06,2425,EU,Fenerbahçe (TUR),Rangers FC (SCO),1,3
+2025-03-06,2425,EU,FK Bodø/Glimt (NOR),Olympiakos Piraeus (GRE),3,0
+2025-03-06,2425,EU,Jagiellonia Białystok (POL),Cercle Brugge (BEL),3,0
+2025-03-06,2425,EU,Molde FK (NOR),Legia Warszawa (POL),3,2
+2025-03-06,2425,EU,NK Celje (SVN),FC Lugano (SUI),1,0
+2025-03-06,2425,EU,Panathinaikos (GRE),Fiorentina,3,2
+2025-03-06,2425,EU,Paphos FC (CYP),Djurgårdens IF (SWE),1,0
+2025-03-06,2425,EU,Roma,Ath Bilbao,2,1
+2025-03-06,2425,EU,Sociedad,Man United,1,1
+2025-03-06,2425,EU,Viktoria Plzeň (CZE),Lazio,1,2
+2025-03-11,2425,EU,Barcelona,Sport Lisboa e Benfica (POR),3,1
+2025-03-11,2425,EU,Inter,Feyenoord Rotterdam (NED),2,1
+2025-03-11,2425,EU,Leverkusen,Bayern Munich,0,2
+2025-03-11,2425,EU,Liverpool,Paris SG,0,1
+2025-03-12,2425,EU,Arsenal,PSV (NED),2,2
+2025-03-12,2425,EU,Aston Villa,Club Brugge KV (BEL),3,0
+2025-03-12,2425,EU,Ath Madrid,Real Madrid,1,0
+2025-03-12,2425,EU,Lille,Dortmund,1,2
+2025-03-13,2425,EU,Ath Bilbao,Roma,3,1
+2025-03-13,2425,EU,Cercle Brugge (BEL),Jagiellonia Białystok (POL),2,0
+2025-03-13,2425,EU,Chelsea,FC København (DEN),1,0
+2025-03-13,2425,EU,Djurgårdens IF (SWE),Paphos FC (CYP),3,0
+2025-03-13,2425,EU,Ein Frankfurt,AFC Ajax (NED),4,1
+2025-03-13,2425,EU,FC Lugano (SUI),NK Celje (SVN),4,3
+2025-03-13,2425,EU,Fiorentina,Panathinaikos (GRE),3,1
+2025-03-13,2425,EU,Lazio,Viktoria Plzeň (CZE),1,1
+2025-03-13,2425,EU,Legia Warszawa (POL),Molde FK (NOR),1,0
+2025-03-13,2425,EU,Lyon,FCSB (ROU),4,0
+2025-03-13,2425,EU,Man United,Sociedad,4,1
+2025-03-13,2425,EU,Olympiakos Piraeus (GRE),FK Bodø/Glimt (NOR),2,1
+2025-03-13,2425,EU,Rangers FC (SCO),Fenerbahçe (TUR),0,2
+2025-03-13,2425,EU,Rapid Wien (AUT),Borac Banja Luka (BIH),1,1
+2025-03-13,2425,EU,Tottenham,AZ Alkmaar (NED),3,1
+2025-03-13,2425,EU,Vitória Guimarães (POR),Betis,0,4
+2025-04-08,2425,EU,Arsenal,Real Madrid,3,0
+2025-04-08,2425,EU,Bayern Munich,Inter,1,2
+2025-04-09,2425,EU,Barcelona,Dortmund,4,0
+2025-04-09,2425,EU,Paris SG,Aston Villa,3,1
+2025-04-10,2425,EU,Betis,Jagiellonia Białystok (POL),2,0
+2025-04-10,2425,EU,Djurgårdens IF (SWE),Rapid Wien (AUT),0,1
+2025-04-10,2425,EU,FK Bodø/Glimt (NOR),Lazio,2,0
+2025-04-10,2425,EU,Legia Warszawa (POL),Chelsea,0,3
+2025-04-10,2425,EU,Lyon,Man United,2,2
+2025-04-10,2425,EU,NK Celje (SVN),Fiorentina,1,2
+2025-04-10,2425,EU,Rangers FC (SCO),Ath Bilbao,0,0
+2025-04-10,2425,EU,Tottenham,Ein Frankfurt,1,1
+2025-04-15,2425,EU,Aston Villa,Paris SG,3,2
+2025-04-15,2425,EU,Dortmund,Barcelona,3,1
+2025-04-16,2425,EU,Inter,Bayern Munich,2,2
+2025-04-16,2425,EU,Real Madrid,Arsenal,1,2
+2025-04-17,2425,EU,Ath Bilbao,Rangers FC (SCO),2,0
+2025-04-17,2425,EU,Chelsea,Legia Warszawa (POL),1,2
+2025-04-17,2425,EU,Ein Frankfurt,Tottenham,0,1
+2025-04-17,2425,EU,Fiorentina,NK Celje (SVN),2,2
+2025-04-17,2425,EU,Jagiellonia Białystok (POL),Betis,1,1
+2025-04-17,2425,EU,Lazio,FK Bodø/Glimt (NOR),2,0
+2025-04-17,2425,EU,Man United,Lyon,2,2
+2025-04-17,2425,EU,Rapid Wien (AUT),Djurgårdens IF (SWE),1,2
+2025-04-29,2425,EU,Arsenal,Paris SG,0,1
+2025-04-30,2425,EU,Barcelona,Inter,3,3
+2025-05-01,2425,EU,Ath Bilbao,Man United,0,3
+2025-05-01,2425,EU,Betis,Fiorentina,2,1
+2025-05-01,2425,EU,Djurgårdens IF (SWE),Chelsea,1,4
+2025-05-01,2425,EU,Tottenham,FK Bodø/Glimt (NOR),3,1
+2025-05-06,2425,EU,Inter,Barcelona,4,3
+2025-05-07,2425,EU,Paris SG,Arsenal,2,1
+2025-05-08,2425,EU,Chelsea,Djurgårdens IF (SWE),1,0
+2025-05-08,2425,EU,Fiorentina,Betis,2,1
+2025-05-08,2425,EU,FK Bodø/Glimt (NOR),Tottenham,0,2
+2025-05-08,2425,EU,Man United,Ath Bilbao,4,1
+2025-05-21,2425,EUN,Tottenham,Man United,1,0
+2025-05-28,2425,EUN,Betis,Chelsea,1,4
+2025-05-31,2425,EUN,Paris SG,Inter,5,0
+2025-09-16,2526,EU,Ath Bilbao,Arsenal,0,2
+2025-09-16,2526,EU,Juventus,Dortmund,4,4
+2025-09-16,2526,EU,PSV (NED),Royale Union Saint-Gilloise (BEL),1,3
+2025-09-16,2526,EU,Real Madrid,Marseille,2,1
+2025-09-16,2526,EU,Sport Lisboa e Benfica (POR),Qarabağ Ağdam FK (AZE),2,3
+2025-09-16,2526,EU,Tottenham,Villarreal,1,0
+2025-09-17,2526,EU,AFC Ajax (NED),Inter,0,2
+2025-09-17,2526,EU,Bayern Munich,Chelsea,3,1
+2025-09-17,2526,EU,Liverpool,Ath Madrid,3,2
+2025-09-17,2526,EU,PAE Olympiakos SFP (GRE),Paphos FC (CYP),0,0
+2025-09-17,2526,EU,Paris SG,Atalanta,4,0
+2025-09-17,2526,EU,SK Slavia Praha (CZE),FK Bodø/Glimt (NOR),2,2
+2025-09-18,2526,EU,Club Brugge KV (BEL),AS Monaco FC (MCO),4,1
+2025-09-18,2526,EU,Ein Frankfurt,Galatasaray SK (TUR),5,1
+2025-09-18,2526,EU,FC København (DEN),Leverkusen,2,2
+2025-09-18,2526,EU,Man City,Napoli,2,0
+2025-09-18,2526,EU,Newcastle,Barcelona,1,2
+2025-09-18,2526,EU,Sporting Clube de Portugal (POR),FK Kairat (KAZ),4,1
+2025-09-30,2526,EU,Atalanta,Club Brugge KV (BEL),2,1
+2025-09-30,2526,EU,Ath Madrid,Ein Frankfurt,5,1
+2025-09-30,2526,EU,Chelsea,Sport Lisboa e Benfica (POR),1,0
+2025-09-30,2526,EU,FK Bodø/Glimt (NOR),Tottenham,2,2
+2025-09-30,2526,EU,FK Kairat (KAZ),Real Madrid,0,5
+2025-09-30,2526,EU,Galatasaray SK (TUR),Liverpool,1,0
+2025-09-30,2526,EU,Inter,SK Slavia Praha (CZE),3,0
+2025-09-30,2526,EU,Marseille,AFC Ajax (NED),4,0
+2025-09-30,2526,EU,Paphos FC (CYP),Bayern Munich,1,5
+2025-10-01,2526,EU,Arsenal,PAE Olympiakos SFP (GRE),2,0
+2025-10-01,2526,EU,AS Monaco FC (MCO),Man City,2,2
+2025-10-01,2526,EU,Barcelona,Paris SG,1,2
+2025-10-01,2526,EU,Dortmund,Ath Bilbao,4,1
+2025-10-01,2526,EU,Leverkusen,PSV (NED),1,1
+2025-10-01,2526,EU,Napoli,Sporting Clube de Portugal (POR),2,1
+2025-10-01,2526,EU,Qarabağ Ağdam FK (AZE),FC København (DEN),2,0
+2025-10-01,2526,EU,Royale Union Saint-Gilloise (BEL),Newcastle,0,4
+2025-10-01,2526,EU,Villarreal,Juventus,2,2
+2025-10-21,2526,EU,Arsenal,Ath Madrid,4,0
+2025-10-21,2526,EU,Barcelona,PAE Olympiakos SFP (GRE),6,1
+2025-10-21,2526,EU,FC København (DEN),Dortmund,2,4
+2025-10-21,2526,EU,FK Kairat (KAZ),Paphos FC (CYP),0,0
+2025-10-21,2526,EU,Leverkusen,Paris SG,2,7
+2025-10-21,2526,EU,Newcastle,Sport Lisboa e Benfica (POR),3,0
+2025-10-21,2526,EU,PSV (NED),Napoli,6,2
+2025-10-21,2526,EU,Royale Union Saint-Gilloise (BEL),Inter,0,4
+2025-10-21,2526,EU,Villarreal,Man City,0,2
+2025-10-22,2526,EU,AS Monaco FC (MCO),Tottenham,0,0
+2025-10-22,2526,EU,Atalanta,SK Slavia Praha (CZE),0,0
+2025-10-22,2526,EU,Ath Bilbao,Qarabağ Ağdam FK (AZE),3,1
+2025-10-22,2526,EU,Bayern Munich,Club Brugge KV (BEL),4,0
+2025-10-22,2526,EU,Chelsea,AFC Ajax (NED),5,1
+2025-10-22,2526,EU,Ein Frankfurt,Liverpool,1,5
+2025-10-22,2526,EU,Galatasaray SK (TUR),FK Bodø/Glimt (NOR),3,1
+2025-10-22,2526,EU,Real Madrid,Juventus,1,0
+2025-10-22,2526,EU,Sporting Clube de Portugal (POR),Marseille,2,1
+2025-11-04,2526,EU,Ath Madrid,Royale Union Saint-Gilloise (BEL),3,1
+2025-11-04,2526,EU,FK Bodø/Glimt (NOR),AS Monaco FC (MCO),0,1
+2025-11-04,2526,EU,Juventus,Sporting Clube de Portugal (POR),1,1
+2025-11-04,2526,EU,Liverpool,Real Madrid,1,0
+2025-11-04,2526,EU,Napoli,Ein Frankfurt,0,0
+2025-11-04,2526,EU,PAE Olympiakos SFP (GRE),PSV (NED),1,1
+2025-11-04,2526,EU,Paris SG,Bayern Munich,1,2
+2025-11-04,2526,EU,SK Slavia Praha (CZE),Arsenal,0,3
+2025-11-04,2526,EU,Tottenham,FC København (DEN),4,0
+2025-11-05,2526,EU,AFC Ajax (NED),Galatasaray SK (TUR),0,3
+2025-11-05,2526,EU,Club Brugge KV (BEL),Barcelona,3,3
+2025-11-05,2526,EU,Inter,FK Kairat (KAZ),2,1
+2025-11-05,2526,EU,Man City,Dortmund,4,1
+2025-11-05,2526,EU,Marseille,Atalanta,0,1
+2025-11-05,2526,EU,Newcastle,Ath Bilbao,2,0
+2025-11-05,2526,EU,Paphos FC (CYP),Villarreal,1,0
+2025-11-05,2526,EU,Qarabağ Ağdam FK (AZE),Chelsea,2,2
+2025-11-05,2526,EU,Sport Lisboa e Benfica (POR),Leverkusen,0,1
+2025-11-25,2526,EU,AFC Ajax (NED),Sport Lisboa e Benfica (POR),0,2
+2025-11-25,2526,EU,Chelsea,Barcelona,3,0
+2025-11-25,2526,EU,Dortmund,Villarreal,4,0
+2025-11-25,2526,EU,FK Bodø/Glimt (NOR),Juventus,2,3
+2025-11-25,2526,EU,Galatasaray SK (TUR),Royale Union Saint-Gilloise (BEL),0,1
+2025-11-25,2526,EU,Man City,Leverkusen,0,2
+2025-11-25,2526,EU,Marseille,Newcastle,2,1
+2025-11-25,2526,EU,Napoli,Qarabağ Ağdam FK (AZE),2,0
+2025-11-25,2526,EU,SK Slavia Praha (CZE),Ath Bilbao,0,0
+2025-11-26,2526,EU,Arsenal,Bayern Munich,3,1
+2025-11-26,2526,EU,Ath Madrid,Inter,2,1
+2025-11-26,2526,EU,Ein Frankfurt,Atalanta,0,3
+2025-11-26,2526,EU,FC København (DEN),FK Kairat (KAZ),3,2
+2025-11-26,2526,EU,Liverpool,PSV (NED),1,4
+2025-11-26,2526,EU,PAE Olympiakos SFP (GRE),Real Madrid,3,4
+2025-11-26,2526,EU,Paphos FC (CYP),AS Monaco FC (MCO),2,2
+2025-11-26,2526,EU,Paris SG,Tottenham,5,3
+2025-11-26,2526,EU,Sporting Clube de Portugal (POR),Club Brugge KV (BEL),3,0
+2025-12-09,2526,EU,AS Monaco FC (MCO),Galatasaray SK (TUR),1,0
+2025-12-09,2526,EU,Atalanta,Chelsea,2,1
+2025-12-09,2526,EU,Barcelona,Ein Frankfurt,2,1
+2025-12-09,2526,EU,Bayern Munich,Sporting Clube de Portugal (POR),3,1
+2025-12-09,2526,EU,FK Kairat (KAZ),PAE Olympiakos SFP (GRE),0,1
+2025-12-09,2526,EU,Inter,Liverpool,0,1
+2025-12-09,2526,EU,PSV (NED),Ath Madrid,2,3
+2025-12-09,2526,EU,Royale Union Saint-Gilloise (BEL),Marseille,2,3
+2025-12-09,2526,EU,Tottenham,SK Slavia Praha (CZE),3,0
+2025-12-10,2526,EU,Ath Bilbao,Paris SG,0,0
+2025-12-10,2526,EU,Club Brugge KV (BEL),Arsenal,0,3
+2025-12-10,2526,EU,Dortmund,FK Bodø/Glimt (NOR),2,2
+2025-12-10,2526,EU,Juventus,Paphos FC (CYP),2,0
+2025-12-10,2526,EU,Leverkusen,Newcastle,2,2
+2025-12-10,2526,EU,Qarabağ Ağdam FK (AZE),AFC Ajax (NED),2,4
+2025-12-10,2526,EU,Real Madrid,Man City,1,2
+2025-12-10,2526,EU,Sport Lisboa e Benfica (POR),Napoli,2,0
+2025-12-10,2526,EU,Villarreal,FC København (DEN),2,3
+2026-01-20,2526,EU,FC København (DEN),Napoli,1,1
+2026-01-20,2526,EU,FK Bodø/Glimt (NOR),Man City,3,1
+2026-01-20,2526,EU,FK Kairat (KAZ),Club Brugge KV (BEL),1,4
+2026-01-20,2526,EU,Inter,Arsenal,1,3
+2026-01-20,2526,EU,PAE Olympiakos SFP (GRE),Leverkusen,2,0
+2026-01-20,2526,EU,Real Madrid,AS Monaco FC (MCO),6,1
+2026-01-20,2526,EU,Sporting Clube de Portugal (POR),Paris SG,2,1
+2026-01-20,2526,EU,Tottenham,Dortmund,2,0
+2026-01-20,2526,EU,Villarreal,AFC Ajax (NED),1,2
+2026-01-21,2526,EU,Atalanta,Ath Bilbao,2,3
+2026-01-21,2526,EU,Bayern Munich,Royale Union Saint-Gilloise (BEL),2,0
+2026-01-21,2526,EU,Chelsea,Paphos FC (CYP),1,0
+2026-01-21,2526,EU,Galatasaray SK (TUR),Ath Madrid,1,1
+2026-01-21,2526,EU,Juventus,Sport Lisboa e Benfica (POR),2,0
+2026-01-21,2526,EU,Marseille,Liverpool,0,3
+2026-01-21,2526,EU,Newcastle,PSV (NED),3,0
+2026-01-21,2526,EU,Qarabağ Ağdam FK (AZE),Ein Frankfurt,3,2
+2026-01-21,2526,EU,SK Slavia Praha (CZE),Barcelona,2,4
+2026-01-28,2526,EU,AFC Ajax (NED),PAE Olympiakos SFP (GRE),1,2
+2026-01-28,2526,EU,Arsenal,FK Kairat (KAZ),3,2
+2026-01-28,2526,EU,AS Monaco FC (MCO),Juventus,0,0
+2026-01-28,2526,EU,Ath Bilbao,Sporting Clube de Portugal (POR),2,3
+2026-01-28,2526,EU,Ath Madrid,FK Bodø/Glimt (NOR),1,2
+2026-01-28,2526,EU,Barcelona,FC København (DEN),4,1
+2026-01-28,2526,EU,Club Brugge KV (BEL),Marseille,3,0
+2026-01-28,2526,EU,Dortmund,Inter,0,2
+2026-01-28,2526,EU,Ein Frankfurt,Tottenham,0,2
+2026-01-28,2526,EU,Leverkusen,Villarreal,3,0
+2026-01-28,2526,EU,Liverpool,Qarabağ Ağdam FK (AZE),6,0
+2026-01-28,2526,EU,Man City,Galatasaray SK (TUR),2,0
+2026-01-28,2526,EU,Napoli,Chelsea,2,3
+2026-01-28,2526,EU,Paphos FC (CYP),SK Slavia Praha (CZE),4,1
+2026-01-28,2526,EU,Paris SG,Newcastle,1,1
+2026-01-28,2526,EU,PSV (NED),Bayern Munich,1,2
+2026-01-28,2526,EU,Royale Union Saint-Gilloise (BEL),Atalanta,1,0
+2026-01-28,2526,EU,Sport Lisboa e Benfica (POR),Real Madrid,4,2
+2026-02-17,2526,EU,AS Monaco FC (MCO),Paris SG,2,3
+2026-02-17,2526,EU,Dortmund,Atalanta,2,0
+2026-02-17,2526,EU,Galatasaray SK (TUR),Juventus,5,2
+2026-02-17,2526,EU,Sport Lisboa e Benfica (POR),Real Madrid,0,1
+2026-02-18,2526,EU,Club Brugge KV (BEL),Ath Madrid,3,3
+2026-02-18,2526,EU,FK Bodø/Glimt (NOR),Inter,3,1
+2026-02-18,2526,EU,PAE Olympiakos SFP (GRE),Leverkusen,0,2
+2026-02-18,2526,EU,Qarabağ Ağdam FK (AZE),Newcastle,1,6
+2026-02-24,2526,EU,Ath Madrid,Club Brugge KV (BEL),4,1
+2026-02-24,2526,EU,Inter,FK Bodø/Glimt (NOR),1,2
+2026-02-24,2526,EU,Leverkusen,PAE Olympiakos SFP (GRE),0,0
+2026-02-24,2526,EU,Newcastle,Qarabağ Ağdam FK (AZE),3,2
+2026-02-25,2526,EU,Atalanta,Dortmund,4,1
+2026-02-25,2526,EU,Juventus,Galatasaray SK (TUR),3,0
+2026-02-25,2526,EU,Paris SG,AS Monaco FC (MCO),2,2
+2026-02-25,2526,EU,Real Madrid,Sport Lisboa e Benfica (POR),2,1
+2026-03-10,2526,EU,Atalanta,Bayern Munich,1,6
+2026-03-10,2526,EU,Ath Madrid,Tottenham,5,2
+2026-03-10,2526,EU,Galatasaray SK (TUR),Liverpool,1,0
+2026-03-10,2526,EU,Newcastle,Barcelona,1,1
+2026-03-11,2526,EU,FK Bodø/Glimt (NOR),Sporting Clube de Portugal (POR),3,0
+2026-03-11,2526,EU,Leverkusen,Arsenal,1,1
+2026-03-11,2526,EU,Paris SG,Chelsea,5,2
+2026-03-11,2526,EU,Real Madrid,Man City,3,0
+2026-03-17,2526,EU,Arsenal,Leverkusen,2,0
+2026-03-17,2526,EU,Chelsea,Paris SG,0,3
+2026-03-17,2526,EU,Man City,Real Madrid,1,2
+2026-03-17,2526,EU,Sporting Clube de Portugal (POR),FK Bodø/Glimt (NOR),3,0
+2026-03-18,2526,EU,Barcelona,Newcastle,7,2
+2026-03-18,2526,EU,Bayern Munich,Atalanta,4,1
+2026-03-18,2526,EU,Liverpool,Galatasaray SK (TUR),4,0
+2026-03-18,2526,EU,Tottenham,Ath Madrid,3,2
+2026-04-07,2526,EU,Real Madrid,Bayern Munich,1,2
+2026-04-07,2526,EU,Sporting Clube de Portugal (POR),Arsenal,0,1
+2026-04-08,2526,EU,Barcelona,Ath Madrid,0,2
+2026-04-08,2526,EU,Paris SG,Liverpool,2,0
+2026-04-14,2526,EU,Ath Madrid,Barcelona,1,2
+2026-04-14,2526,EU,Liverpool,Paris SG,0,2
+2026-04-15,2526,EU,Arsenal,Sporting Clube de Portugal (POR),0,0
+2026-04-15,2526,EU,Bayern Munich,Real Madrid,4,3
+2026-04-28,2526,EU,Paris SG,Bayern Munich,5,4
+2026-04-29,2526,EU,Ath Madrid,Arsenal,1,1
+2026-05-05,2526,EU,Arsenal,Ath Madrid,1,0
+2026-05-06,2526,EU,Bayern Munich,Paris SG,1,1
+2026-05-30,2526,EUN,Paris SG,Arsenal,1,1

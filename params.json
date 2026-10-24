@@ -19,10 +19,10 @@
   },
   "laliga": {
     "elo": {
-      "k": 8,
-      "hfa": 70,
+      "k": 10,
+      "hfa": 90,
       "margin": "wfe",
-      "regress": 0.1,
+      "regress": 0,
       "start": {
         "top": 1600,
         "second": 1450
@@ -31,7 +31,7 @@
     },
     "goals": {
       "mu": 2.668,
-      "c": 400,
+      "c": 525,
       "draw": 0.2
     }
   },
@@ -49,15 +49,15 @@
     },
     "goals": {
       "mu": 2.964,
-      "c": 500,
+      "c": 525,
       "draw": 0.25
     }
   },
   "seriea": {
     "elo": {
       "k": 16,
-      "hfa": 90,
-      "margin": "log",
+      "hfa": 80,
+      "margin": "wfe",
       "regress": 0,
       "start": {
         "top": 1600,
@@ -67,16 +67,16 @@
     },
     "goals": {
       "mu": 2.665,
-      "c": 575,
-      "draw": 0.3
+      "c": 525,
+      "draw": 0.35
     }
   },
   "ligue1": {
     "elo": {
-      "k": 10,
-      "hfa": 70,
-      "margin": "log",
-      "regress": 0.2,
+      "k": 14,
+      "hfa": 90,
+      "margin": "wfe",
+      "regress": 0,
       "start": {
         "top": 1600,
         "second": 1450
@@ -85,8 +85,18 @@
     },
     "goals": {
       "mu": 2.499,
-      "c": 400,
+      "c": 525,
       "draw": 0.25
     }
+  },
+  "common": {
+    "c": 525
+  },
+  "europe": {
+    "k": 30,
+    "hfa": 90,
+    "margin": "log",
+    "other": 100,
+    "kLeague": 2
   }
 }
