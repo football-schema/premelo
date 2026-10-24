@@ -1,0 +1,3019 @@
+date,season,div,home,away,hg,ag
+2012-07-13,1213,DNK,Aarhus,Aalborg,1,1
+2012-07-14,1213,DNK,Sonderjyske,Randers FC,6,1
+2012-07-15,1213,DNK,Brondby,Odense,0,1
+2012-07-15,1213,DNK,Esbjerg,Silkeborg,2,3
+2012-07-15,1213,DNK,FC Copenhagen,Midtjylland,4,2
+2012-07-16,1213,DNK,Horsens,Nordsjaelland,0,4
+2012-07-20,1213,DNK,Silkeborg,Horsens,0,2
+2012-07-21,1213,DNK,Midtjylland,Nordsjaelland,3,1
+2012-07-22,1213,DNK,Aalborg,Brondby,2,1
+2012-07-22,1213,DNK,Odense,Randers FC,0,1
+2012-07-22,1213,DNK,Sonderjyske,FC Copenhagen,1,1
+2012-07-23,1213,DNK,Aarhus,Esbjerg,0,0
+2012-07-27,1213,DNK,Horsens,Midtjylland,2,2
+2012-07-28,1213,DNK,Esbjerg,Sonderjyske,1,2
+2012-07-28,1213,DNK,FC Copenhagen,Aalborg,3,0
+2012-07-29,1213,DNK,Nordsjaelland,Odense,1,1
+2012-07-29,1213,DNK,Randers FC,Aarhus,2,1
+2012-07-30,1213,DNK,Brondby,Silkeborg,2,1
+2012-08-03,1213,DNK,Silkeborg,Odense,0,1
+2012-08-04,1213,DNK,Aalborg,Nordsjaelland,1,1
+2012-08-04,1213,DNK,Esbjerg,FC Copenhagen,1,2
+2012-08-05,1213,DNK,Aarhus,Brondby,3,1
+2012-08-05,1213,DNK,Midtjylland,Randers FC,2,1
+2012-08-06,1213,DNK,Sonderjyske,Horsens,0,2
+2012-08-10,1213,DNK,Odense,Midtjylland,2,1
+2012-08-11,1213,DNK,Nordsjaelland,Silkeborg,6,1
+2012-08-12,1213,DNK,Brondby,Sonderjyske,0,1
+2012-08-12,1213,DNK,FC Copenhagen,Aarhus,3,0
+2012-08-12,1213,DNK,Horsens,Aalborg,1,4
+2012-08-13,1213,DNK,Randers FC,Esbjerg,1,0
+2012-08-17,1213,DNK,Aalborg,Midtjylland,3,0
+2012-08-18,1213,DNK,FC Copenhagen,Brondby,1,1
+2012-08-18,1213,DNK,Silkeborg,Randers FC,0,1
+2012-08-19,1213,DNK,Aarhus,Nordsjaelland,0,1
+2012-08-19,1213,DNK,Esbjerg,Horsens,0,0
+2012-08-20,1213,DNK,Sonderjyske,Odense,1,2
+2012-08-24,1213,DNK,Nordsjaelland,Sonderjyske,4,1
+2012-08-25,1213,DNK,Randers FC,FC Copenhagen,2,3
+2012-08-26,1213,DNK,Brondby,Esbjerg,1,1
+2012-08-26,1213,DNK,Midtjylland,Silkeborg,1,1
+2012-08-26,1213,DNK,Odense,Aalborg,0,4
+2012-08-27,1213,DNK,Horsens,Aarhus,1,4
+2012-08-31,1213,DNK,Sonderjyske,Aalborg,0,4
+2012-09-01,1213,DNK,Silkeborg,Aarhus,0,4
+2012-09-02,1213,DNK,Midtjylland,Esbjerg,1,0
+2012-09-02,1213,DNK,Nordsjaelland,Brondby,0,0
+2012-09-02,1213,DNK,Odense,FC Copenhagen,2,2
+2012-09-02,1213,DNK,Randers FC,Horsens,0,1
+2012-09-14,1213,DNK,Esbjerg,Odense,3,0
+2012-09-15,1213,DNK,FC Copenhagen,Nordsjaelland,2,1
+2012-09-15,1213,DNK,Sonderjyske,Silkeborg,0,2
+2012-09-16,1213,DNK,Aalborg,Randers FC,4,0
+2012-09-16,1213,DNK,Brondby,Horsens,2,2
+2012-09-17,1213,DNK,Aarhus,Midtjylland,3,2
+2012-09-21,1213,DNK,Aarhus,Sonderjyske,2,2
+2012-09-22,1213,DNK,Nordsjaelland,Randers FC,1,1
+2012-09-23,1213,DNK,FC Copenhagen,Silkeborg,5,0
+2012-09-23,1213,DNK,Horsens,Odense,2,2
+2012-09-23,1213,DNK,Midtjylland,Brondby,1,1
+2012-09-24,1213,DNK,Aalborg,Esbjerg,0,2
+2012-09-28,1213,DNK,Nordsjaelland,Esbjerg,3,0
+2012-09-29,1213,DNK,Horsens,FC Copenhagen,1,1
+2012-09-30,1213,DNK,Odense,Aarhus,1,2
+2012-09-30,1213,DNK,Randers FC,Brondby,3,2
+2012-09-30,1213,DNK,Silkeborg,Aalborg,2,1
+2012-10-01,1213,DNK,Midtjylland,Sonderjyske,1,3
+2012-10-05,1213,DNK,Odense,Nordsjaelland,3,0
+2012-10-06,1213,DNK,Sonderjyske,Aarhus,0,3
+2012-10-07,1213,DNK,Brondby,Aalborg,1,3
+2012-10-07,1213,DNK,Esbjerg,FC Copenhagen,2,2
+2012-10-07,1213,DNK,Randers FC,Midtjylland,2,1
+2012-10-07,1213,DNK,Silkeborg,Horsens,1,1
+2012-10-19,1213,DNK,Nordsjaelland,Silkeborg,3,0
+2012-10-20,1213,DNK,Aalborg,Sonderjyske,2,1
+2012-10-21,1213,DNK,FC Copenhagen,Brondby,1,0
+2012-10-21,1213,DNK,Horsens,Esbjerg,0,0
+2012-10-21,1213,DNK,Midtjylland,Odense,1,1
+2012-10-22,1213,DNK,Aarhus,Randers FC,1,1
+2012-10-26,1213,DNK,Nordsjaelland,Aalborg,1,0
+2012-10-27,1213,DNK,Silkeborg,Randers FC,1,2
+2012-10-28,1213,DNK,Esbjerg,Sonderjyske,1,2
+2012-10-28,1213,DNK,Midtjylland,Brondby,1,1
+2012-10-28,1213,DNK,Odense,Aarhus,2,4
+2012-10-29,1213,DNK,Horsens,FC Copenhagen,1,0
+2012-11-02,1213,DNK,Esbjerg,Silkeborg,1,0
+2012-11-03,1213,DNK,Sonderjyske,Nordsjaelland,1,2
+2012-11-04,1213,DNK,Aarhus,FC Copenhagen,0,2
+2012-11-04,1213,DNK,Brondby,Odense,0,3
+2012-11-04,1213,DNK,Randers FC,Horsens,0,0
+2012-11-05,1213,DNK,Aalborg,Midtjylland,1,3
+2012-11-09,1213,DNK,Horsens,Aarhus,2,0
+2012-11-10,1213,DNK,Nordsjaelland,Randers FC,2,2
+2012-11-11,1213,DNK,FC Copenhagen,Aalborg,4,0
+2012-11-11,1213,DNK,Odense,Sonderjyske,5,0
+2012-11-11,1213,DNK,Silkeborg,Brondby,1,2
+2012-11-12,1213,DNK,Midtjylland,Esbjerg,0,0
+2012-11-16,1213,DNK,Aarhus,Nordsjaelland,0,2
+2012-11-17,1213,DNK,Sonderjyske,Silkeborg,2,3
+2012-11-18,1213,DNK,Aalborg,Horsens,2,0
+2012-11-18,1213,DNK,Brondby,Esbjerg,2,2
+2012-11-18,1213,DNK,FC Copenhagen,Midtjylland,2,1
+2012-11-19,1213,DNK,Randers FC,Odense,3,2
+2012-11-23,1213,DNK,Randers FC,Aalborg,0,1
+2012-11-24,1213,DNK,Silkeborg,Odense,0,2
+2012-11-25,1213,DNK,Brondby,Horsens,2,0
+2012-11-25,1213,DNK,Esbjerg,Nordsjaelland,1,0
+2012-11-25,1213,DNK,Sonderjyske,FC Copenhagen,1,2
+2012-11-26,1213,DNK,Aarhus,Midtjylland,1,1
+2012-11-30,1213,DNK,Horsens,Sonderjyske,1,3
+2012-12-01,1213,DNK,Odense,Esbjerg,3,0
+2012-12-02,1213,DNK,FC Copenhagen,Randers FC,2,0
+2012-12-02,1213,DNK,Midtjylland,Silkeborg,1,3
+2012-12-02,1213,DNK,Nordsjaelland,Brondby,3,0
+2012-12-03,1213,DNK,Aalborg,Aarhus,0,3
+2012-12-07,1213,DNK,Sonderjyske,Brondby,2,2
+2012-12-08,1213,DNK,Randers FC,Esbjerg,2,1
+2012-12-09,1213,DNK,FC Copenhagen,Nordsjaelland,4,1
+2012-12-09,1213,DNK,Horsens,Midtjylland,0,2
+2012-12-10,1213,DNK,Aarhus,Silkeborg,3,3
+2013-03-01,1213,DNK,Silkeborg,Aalborg,3,2
+2013-03-02,1213,DNK,Midtjylland,Sonderjyske,1,0
+2013-03-03,1213,DNK,Brondby,Randers FC,0,2
+2013-03-03,1213,DNK,Nordsjaelland,Horsens,1,0
+2013-03-03,1213,DNK,Odense,FC Copenhagen,2,3
+2013-03-04,1213,DNK,Esbjerg,Aarhus,2,1
+2013-03-06,1213,DNK,Aalborg,Odense,2,2
+2013-03-08,1213,DNK,Randers FC,Sonderjyske,2,0
+2013-03-09,1213,DNK,Aalborg,Esbjerg,0,0
+2013-03-10,1213,DNK,Aarhus,Brondby,0,3
+2013-03-10,1213,DNK,FC Copenhagen,Silkeborg,3,1
+2013-03-10,1213,DNK,Horsens,Odense,2,0
+2013-03-11,1213,DNK,Midtjylland,Nordsjaelland,1,1
+2013-03-15,1213,DNK,FC Copenhagen,Horsens,2,1
+2013-03-17,1213,DNK,Aarhus,Odense,2,1
+2013-03-17,1213,DNK,Brondby,Midtjylland,1,1
+2013-03-17,1213,DNK,Randers FC,Silkeborg,1,0
+2013-03-28,1213,DNK,Horsens,Aalborg,2,2
+2013-03-28,1213,DNK,Odense,Randers FC,0,0
+2013-03-28,1213,DNK,Silkeborg,Sonderjyske,0,5
+2013-03-29,1213,DNK,Esbjerg,Brondby,1,0
+2013-03-29,1213,DNK,Midtjylland,FC Copenhagen,2,2
+2013-03-29,1213,DNK,Nordsjaelland,Aarhus,4,2
+2013-03-31,1213,DNK,Odense,Horsens,2,0
+2013-03-31,1213,DNK,Sonderjyske,Randers FC,0,2
+2013-04-01,1213,DNK,Brondby,Aarhus,3,2
+2013-04-01,1213,DNK,Esbjerg,Aalborg,1,0
+2013-04-01,1213,DNK,Nordsjaelland,Midtjylland,3,1
+2013-04-01,1213,DNK,Silkeborg,FC Copenhagen,1,0
+2013-04-04,1213,DNK,Aalborg,Nordsjaelland,0,1
+2013-04-05,1213,DNK,Aarhus,Esbjerg,0,1
+2013-04-06,1213,DNK,Sonderjyske,Midtjylland,0,2
+2013-04-07,1213,DNK,FC Copenhagen,Odense,1,1
+2013-04-07,1213,DNK,Horsens,Nordsjaelland,0,2
+2013-04-07,1213,DNK,Randers FC,Brondby,0,1
+2013-04-08,1213,DNK,Aalborg,Silkeborg,1,0
+2013-04-09,1213,DNK,Sonderjyske,Esbjerg,3,1
+2013-04-12,1213,DNK,Silkeborg,Aarhus,3,1
+2013-04-13,1213,DNK,Midtjylland,Horsens,5,2
+2013-04-14,1213,DNK,Brondby,Sonderjyske,0,3
+2013-04-14,1213,DNK,Esbjerg,Randers FC,4,0
+2013-04-14,1213,DNK,Odense,Aalborg,3,4
+2013-04-15,1213,DNK,Nordsjaelland,FC Copenhagen,2,3
+2013-04-20,1213,DNK,Aarhus,Horsens,0,0
+2013-04-21,1213,DNK,Aalborg,FC Copenhagen,1,1
+2013-04-21,1213,DNK,Brondby,Silkeborg,2,2
+2013-04-21,1213,DNK,Randers FC,Nordsjaelland,0,0
+2013-04-21,1213,DNK,Sonderjyske,Odense,4,1
+2013-04-22,1213,DNK,Esbjerg,Midtjylland,0,1
+2013-04-26,1213,DNK,Silkeborg,Esbjerg,0,1
+2013-04-27,1213,DNK,Nordsjaelland,Sonderjyske,2,2
+2013-04-28,1213,DNK,FC Copenhagen,Aarhus,0,0
+2013-04-28,1213,DNK,Horsens,Randers FC,1,0
+2013-04-28,1213,DNK,Odense,Brondby,1,2
+2013-04-29,1213,DNK,Midtjylland,Aalborg,2,3
+2013-05-03,1213,DNK,Silkeborg,Nordsjaelland,2,2
+2013-05-04,1213,DNK,Sonderjyske,Aalborg,1,0
+2013-05-05,1213,DNK,Brondby,FC Copenhagen,0,0
+2013-05-05,1213,DNK,Esbjerg,Horsens,1,0
+2013-05-05,1213,DNK,Randers FC,Aarhus,1,0
+2013-05-06,1213,DNK,Odense,Midtjylland,0,1
+2013-05-10,1213,DNK,Nordsjaelland,Odense,4,1
+2013-05-11,1213,DNK,Aarhus,Sonderjyske,2,1
+2013-05-12,1213,DNK,Aalborg,Brondby,1,1
+2013-05-12,1213,DNK,FC Copenhagen,Esbjerg,0,2
+2013-05-12,1213,DNK,Midtjylland,Randers FC,3,0
+2013-05-13,1213,DNK,Horsens,Silkeborg,2,0
+2013-05-16,1213,DNK,Aarhus,Aalborg,3,0
+2013-05-16,1213,DNK,Brondby,Nordsjaelland,4,0
+2013-05-16,1213,DNK,Esbjerg,Odense,6,2
+2013-05-16,1213,DNK,Randers FC,FC Copenhagen,1,0
+2013-05-16,1213,DNK,Silkeborg,Midtjylland,1,1
+2013-05-16,1213,DNK,Sonderjyske,Horsens,4,2
+2013-05-20,1213,DNK,Aalborg,Randers FC,2,2
+2013-05-20,1213,DNK,FC Copenhagen,Sonderjyske,1,1
+2013-05-20,1213,DNK,Horsens,Brondby,0,1
+2013-05-20,1213,DNK,Midtjylland,Aarhus,3,2
+2013-05-20,1213,DNK,Nordsjaelland,Esbjerg,1,0
+2013-05-20,1213,DNK,Odense,Silkeborg,3,3
+2013-07-19,1314,DNK,Aarhus,Midtjylland,0,2
+2013-07-20,1314,DNK,Viborg,Randers FC,2,2
+2013-07-21,1314,DNK,Aalborg,FC Copenhagen,2,1
+2013-07-21,1314,DNK,Brondby,Vestsjaelland,1,1
+2013-07-21,1314,DNK,Odense,Sonderjyske,1,1
+2013-07-22,1314,DNK,Esbjerg,Nordsjaelland,4,0
+2013-07-26,1314,DNK,Nordsjaelland,Viborg,1,1
+2013-07-27,1314,DNK,Vestsjaelland,Aarhus,0,2
+2013-07-28,1314,DNK,Midtjylland,FC Copenhagen,1,0
+2013-07-28,1314,DNK,Randers FC,Odense,1,1
+2013-07-28,1314,DNK,Sonderjyske,Brondby,1,0
+2013-07-29,1314,DNK,Esbjerg,Aalborg,1,2
+2013-08-02,1314,DNK,Midtjylland,Sonderjyske,2,1
+2013-08-03,1314,DNK,Aarhus,Nordsjaelland,2,1
+2013-08-04,1314,DNK,Brondby,Esbjerg,0,2
+2013-08-04,1314,DNK,FC Copenhagen,Randers FC,1,3
+2013-08-04,1314,DNK,Odense,Viborg,4,2
+2013-08-05,1314,DNK,Vestsjaelland,Aalborg,2,1
+2013-08-09,1314,DNK,Viborg,Brondby,2,2
+2013-08-10,1314,DNK,Esbjerg,Aarhus,5,1
+2013-08-11,1314,DNK,Aalborg,Odense,0,0
+2013-08-11,1314,DNK,Nordsjaelland,FC Copenhagen,2,2
+2013-08-11,1314,DNK,Randers FC,Midtjylland,1,3
+2013-08-12,1314,DNK,Sonderjyske,Vestsjaelland,0,0
+2013-08-16,1314,DNK,Midtjylland,Brondby,5,2
+2013-08-17,1314,DNK,Nordsjaelland,Aalborg,2,1
+2013-08-18,1314,DNK,FC Copenhagen,Aarhus,1,1
+2013-08-18,1314,DNK,Sonderjyske,Viborg,0,3
+2013-08-18,1314,DNK,Vestsjaelland,Odense,1,1
+2013-08-19,1314,DNK,Randers FC,Esbjerg,3,2
+2013-08-23,1314,DNK,Aarhus,Sonderjyske,3,1
+2013-08-25,1314,DNK,Brondby,Randers FC,0,0
+2013-08-25,1314,DNK,FC Copenhagen,Vestsjaelland,1,1
+2013-08-25,1314,DNK,Odense,Nordsjaelland,1,0
+2013-08-25,1314,DNK,Viborg,Esbjerg,3,1
+2013-08-26,1314,DNK,Aalborg,Midtjylland,1,1
+2013-08-30,1314,DNK,Odense,Aarhus,3,6
+2013-09-01,1314,DNK,Aalborg,Brondby,2,1
+2013-09-01,1314,DNK,Esbjerg,Midtjylland,1,1
+2013-09-01,1314,DNK,Nordsjaelland,Vestsjaelland,1,2
+2013-09-01,1314,DNK,Viborg,FC Copenhagen,1,4
+2013-09-02,1314,DNK,Randers FC,Sonderjyske,0,2
+2013-09-13,1314,DNK,Sonderjyske,Aalborg,1,3
+2013-09-14,1314,DNK,FC Copenhagen,Esbjerg,1,1
+2013-09-15,1314,DNK,Aarhus,Viborg,0,1
+2013-09-15,1314,DNK,Brondby,Odense,2,1
+2013-09-15,1314,DNK,Vestsjaelland,Randers FC,2,0
+2013-09-16,1314,DNK,Midtjylland,Nordsjaelland,2,1
+2013-09-20,1314,DNK,Randers FC,Aalborg,3,2
+2013-09-21,1314,DNK,Midtjylland,Viborg,0,0
+2013-09-22,1314,DNK,Aarhus,Brondby,1,3
+2013-09-22,1314,DNK,FC Copenhagen,Odense,2,1
+2013-09-22,1314,DNK,Sonderjyske,Nordsjaelland,2,0
+2013-09-23,1314,DNK,Vestsjaelland,Esbjerg,1,3
+2013-09-27,1314,DNK,Viborg,Vestsjaelland,2,0
+2013-09-28,1314,DNK,Brondby,FC Copenhagen,3,2
+2013-09-29,1314,DNK,Aalborg,Aarhus,0,0
+2013-09-29,1314,DNK,Esbjerg,Sonderjyske,4,1
+2013-09-29,1314,DNK,Odense,Midtjylland,1,1
+2013-09-30,1314,DNK,Nordsjaelland,Randers FC,1,0
+2013-10-05,1314,DNK,Randers FC,Aarhus,2,2
+2013-10-06,1314,DNK,Aalborg,Viborg,3,1
+2013-10-06,1314,DNK,Esbjerg,Odense,1,3
+2013-10-06,1314,DNK,FC Copenhagen,Sonderjyske,2,1
+2013-10-06,1314,DNK,Nordsjaelland,Brondby,1,1
+2013-10-07,1314,DNK,Midtjylland,Vestsjaelland,2,2
+2013-10-18,1314,DNK,Aarhus,Nordsjaelland,0,1
+2013-10-19,1314,DNK,Midtjylland,Randers FC,1,1
+2013-10-20,1314,DNK,Brondby,Viborg,0,0
+2013-10-20,1314,DNK,FC Copenhagen,Aalborg,3,0
+2013-10-20,1314,DNK,Vestsjaelland,Esbjerg,2,1
+2013-10-21,1314,DNK,Sonderjyske,Odense,1,5
+2013-10-25,1314,DNK,Viborg,Vestsjaelland,4,1
+2013-10-26,1314,DNK,Nordsjaelland,Midtjylland,2,1
+2013-10-27,1314,DNK,Aalborg,Sonderjyske,2,0
+2013-10-27,1314,DNK,Odense,Brondby,0,0
+2013-10-27,1314,DNK,Randers FC,FC Copenhagen,1,1
+2013-10-28,1314,DNK,Esbjerg,Aarhus,0,2
+2013-11-01,1314,DNK,Sonderjyske,Randers FC,1,3
+2013-11-02,1314,DNK,Aalborg,Odense,1,0
+2013-11-02,1314,DNK,FC Copenhagen,Nordsjaelland,4,0
+2013-11-03,1314,DNK,Aarhus,Viborg,2,1
+2013-11-03,1314,DNK,Midtjylland,Esbjerg,3,0
+2013-11-04,1314,DNK,Vestsjaelland,Brondby,0,2
+2013-11-08,1314,DNK,Viborg,Midtjylland,2,3
+2013-11-09,1314,DNK,Nordsjaelland,Sonderjyske,3,0
+2013-11-10,1314,DNK,Brondby,Aarhus,3,0
+2013-11-10,1314,DNK,Esbjerg,FC Copenhagen,1,1
+2013-11-10,1314,DNK,Odense,Vestsjaelland,1,3
+2013-11-11,1314,DNK,Randers FC,Aalborg,1,4
+2013-11-22,1314,DNK,Sonderjyske,Esbjerg,1,0
+2013-11-23,1314,DNK,Randers FC,Odense,1,1
+2013-11-24,1314,DNK,Aarhus,Vestsjaelland,2,2
+2013-11-24,1314,DNK,FC Copenhagen,Viborg,4,1
+2013-11-24,1314,DNK,Midtjylland,Brondby,0,1
+2013-11-25,1314,DNK,Aalborg,Nordsjaelland,1,1
+2013-11-29,1314,DNK,Vestsjaelland,Midtjylland,0,1
+2013-11-30,1314,DNK,Viborg,Sonderjyske,2,2
+2013-12-01,1314,DNK,Brondby,FC Copenhagen,1,3
+2013-12-01,1314,DNK,Nordsjaelland,Randers FC,1,1
+2013-12-01,1314,DNK,Odense,Aarhus,4,1
+2013-12-02,1314,DNK,Esbjerg,Aalborg,2,2
+2013-12-06,1314,DNK,Nordsjaelland,Odense,2,0
+2013-12-07,1314,DNK,FC Copenhagen,Vestsjaelland,1,0
+2013-12-08,1314,DNK,Midtjylland,Aarhus,3,0
+2013-12-08,1314,DNK,Randers FC,Esbjerg,1,0
+2013-12-08,1314,DNK,Sonderjyske,Brondby,1,1
+2013-12-09,1314,DNK,Aalborg,Viborg,5,0
+2014-02-21,1314,DNK,Vestsjaelland,Sonderjyske,0,4
+2014-02-22,1314,DNK,Odense,Midtjylland,2,1
+2014-02-23,1314,DNK,Aarhus,FC Copenhagen,1,1
+2014-02-23,1314,DNK,Brondby,Aalborg,2,2
+2014-02-23,1314,DNK,Viborg,Randers FC,1,1
+2014-02-24,1314,DNK,Esbjerg,Nordsjaelland,2,1
+2014-02-28,1314,DNK,Nordsjaelland,Viborg,2,0
+2014-03-01,1314,DNK,Sonderjyske,Aarhus,1,2
+2014-03-02,1314,DNK,Aalborg,Vestsjaelland,0,0
+2014-03-02,1314,DNK,Esbjerg,Odense,1,0
+2014-03-02,1314,DNK,FC Copenhagen,Midtjylland,1,5
+2014-03-02,1314,DNK,Randers FC,Brondby,0,1
+2014-03-07,1314,DNK,Vestsjaelland,Randers FC,1,1
+2014-03-08,1314,DNK,Aarhus,Aalborg,2,5
+2014-03-09,1314,DNK,Brondby,Nordsjaelland,4,1
+2014-03-09,1314,DNK,Odense,FC Copenhagen,0,1
+2014-03-09,1314,DNK,Viborg,Esbjerg,1,3
+2014-03-10,1314,DNK,Midtjylland,Sonderjyske,2,0
+2014-03-14,1314,DNK,Sonderjyske,FC Copenhagen,0,0
+2014-03-15,1314,DNK,Nordsjaelland,Vestsjaelland,1,2
+2014-03-16,1314,DNK,Aalborg,Midtjylland,1,0
+2014-03-16,1314,DNK,Esbjerg,Brondby,0,0
+2014-03-16,1314,DNK,Odense,Viborg,1,1
+2014-03-17,1314,DNK,Randers FC,Aarhus,1,3
+2014-03-21,1314,DNK,Vestsjaelland,Viborg,0,1
+2014-03-22,1314,DNK,Midtjylland,Nordsjaelland,0,1
+2014-03-23,1314,DNK,Brondby,Odense,1,2
+2014-03-23,1314,DNK,FC Copenhagen,Randers FC,1,1
+2014-03-23,1314,DNK,Sonderjyske,Aalborg,3,2
+2014-03-24,1314,DNK,Aarhus,Esbjerg,0,3
+2014-03-28,1314,DNK,Odense,Sonderjyske,2,2
+2014-03-29,1314,DNK,Esbjerg,Vestsjaelland,0,0
+2014-03-30,1314,DNK,Aalborg,FC Copenhagen,2,1
+2014-03-30,1314,DNK,Randers FC,Midtjylland,0,3
+2014-03-30,1314,DNK,Viborg,Brondby,0,1
+2014-03-31,1314,DNK,Nordsjaelland,Aarhus,1,0
+2014-04-04,1314,DNK,Aarhus,Randers FC,0,1
+2014-04-05,1314,DNK,Midtjylland,Aalborg,2,3
+2014-04-06,1314,DNK,Brondby,Esbjerg,1,0
+2014-04-06,1314,DNK,FC Copenhagen,Sonderjyske,2,0
+2014-04-06,1314,DNK,Viborg,Odense,2,2
+2014-04-07,1314,DNK,Vestsjaelland,Nordsjaelland,0,0
+2014-04-11,1314,DNK,Sonderjyske,Vestsjaelland,1,1
+2014-04-12,1314,DNK,Midtjylland,Odense,0,2
+2014-04-13,1314,DNK,Aalborg,Brondby,2,0
+2014-04-13,1314,DNK,FC Copenhagen,Aarhus,1,0
+2014-04-13,1314,DNK,Randers FC,Viborg,3,1
+2014-04-14,1314,DNK,Nordsjaelland,Esbjerg,0,1
+2014-04-16,1314,DNK,Viborg,Aalborg,0,2
+2014-04-17,1314,DNK,Esbjerg,Randers FC,0,3
+2014-04-17,1314,DNK,Odense,Nordsjaelland,0,1
+2014-04-17,1314,DNK,Vestsjaelland,FC Copenhagen,0,1
+2014-04-18,1314,DNK,Aarhus,Midtjylland,0,4
+2014-04-18,1314,DNK,Brondby,Sonderjyske,3,1
+2014-04-20,1314,DNK,Aalborg,Randers FC,1,2
+2014-04-20,1314,DNK,Vestsjaelland,Odense,1,0
+2014-04-21,1314,DNK,Aarhus,Brondby,1,2
+2014-04-21,1314,DNK,FC Copenhagen,Esbjerg,2,2
+2014-04-21,1314,DNK,Midtjylland,Viborg,5,2
+2014-04-21,1314,DNK,Sonderjyske,Nordsjaelland,3,1
+2014-04-25,1314,DNK,Randers FC,Sonderjyske,1,1
+2014-04-26,1314,DNK,Odense,Aalborg,2,3
+2014-04-27,1314,DNK,Brondby,Vestsjaelland,2,2
+2014-04-27,1314,DNK,Nordsjaelland,FC Copenhagen,1,0
+2014-04-27,1314,DNK,Viborg,Aarhus,0,3
+2014-04-28,1314,DNK,Esbjerg,Midtjylland,0,0
+2014-05-02,1314,DNK,Randers FC,Nordsjaelland,0,1
+2014-05-03,1314,DNK,Aalborg,Esbjerg,0,2
+2014-05-04,1314,DNK,FC Copenhagen,Brondby,1,1
+2014-05-04,1314,DNK,Midtjylland,Vestsjaelland,3,1
+2014-05-04,1314,DNK,Sonderjyske,Viborg,1,0
+2014-05-05,1314,DNK,Aarhus,Odense,0,1
+2014-05-07,1314,DNK,Esbjerg,Sonderjyske,2,1
+2014-05-07,1314,DNK,Nordsjaelland,Aalborg,2,4
+2014-05-08,1314,DNK,Brondby,Midtjylland,3,1
+2014-05-08,1314,DNK,Odense,Randers FC,2,1
+2014-05-08,1314,DNK,Vestsjaelland,Aarhus,2,1
+2014-05-08,1314,DNK,Viborg,FC Copenhagen,0,2
+2014-05-11,1314,DNK,Aarhus,Sonderjyske,0,3
+2014-05-11,1314,DNK,Brondby,Randers FC,1,1
+2014-05-11,1314,DNK,Midtjylland,FC Copenhagen,2,3
+2014-05-11,1314,DNK,Odense,Esbjerg,1,2
+2014-05-11,1314,DNK,Vestsjaelland,Aalborg,0,0
+2014-05-11,1314,DNK,Viborg,Nordsjaelland,1,3
+2014-05-18,1314,DNK,Aalborg,Aarhus,1,0
+2014-05-18,1314,DNK,Esbjerg,Viborg,0,0
+2014-05-18,1314,DNK,FC Copenhagen,Odense,3,2
+2014-05-18,1314,DNK,Nordsjaelland,Brondby,2,2
+2014-05-18,1314,DNK,Randers FC,Vestsjaelland,1,1
+2014-05-18,1314,DNK,Sonderjyske,Midtjylland,3,1
+2014-07-18,1415,DNK,Nordsjaelland,Vestsjaelland,3,2
+2014-07-19,1415,DNK,Sonderjyske,Aalborg,0,0
+2014-07-20,1415,DNK,Midtjylland,Brondby,3,1
+2014-07-20,1415,DNK,Odense,Hobro,1,2
+2014-07-20,1415,DNK,Silkeborg,FC Copenhagen,0,0
+2014-07-21,1415,DNK,Esbjerg,Randers FC,0,1
+2014-07-25,1415,DNK,Vestsjaelland,Odense,3,1
+2014-07-26,1415,DNK,Aalborg,Midtjylland,2,0
+2014-07-26,1415,DNK,FC Copenhagen,Nordsjaelland,2,1
+2014-07-27,1415,DNK,Esbjerg,Sonderjyske,1,1
+2014-07-27,1415,DNK,Randers FC,Hobro,2,1
+2014-07-28,1415,DNK,Brondby,Silkeborg,2,0
+2014-08-01,1415,DNK,Silkeborg,Sonderjyske,0,2
+2014-08-02,1415,DNK,Odense,Aalborg,1,1
+2014-08-02,1415,DNK,Vestsjaelland,FC Copenhagen,2,2
+2014-08-03,1415,DNK,Hobro,Brondby,2,0
+2014-08-03,1415,DNK,Nordsjaelland,Esbjerg,3,2
+2014-08-04,1415,DNK,Midtjylland,Randers FC,3,1
+2014-08-08,1415,DNK,Randers FC,Vestsjaelland,1,0
+2014-08-09,1415,DNK,Aalborg,Nordsjaelland,1,2
+2014-08-10,1415,DNK,Brondby,Odense,1,1
+2014-08-10,1415,DNK,FC Copenhagen,Hobro,0,3
+2014-08-10,1415,DNK,Sonderjyske,Midtjylland,1,3
+2014-08-11,1415,DNK,Esbjerg,Silkeborg,0,0
+2014-08-15,1415,DNK,FC Copenhagen,Midtjylland,1,2
+2014-08-16,1415,DNK,Aalborg,Esbjerg,1,1
+2014-08-17,1415,DNK,Brondby,Sonderjyske,2,0
+2014-08-17,1415,DNK,Randers FC,Odense,0,2
+2014-08-17,1415,DNK,Vestsjaelland,Silkeborg,2,0
+2014-08-18,1415,DNK,Hobro,Nordsjaelland,0,0
+2014-08-30,1415,DNK,Sonderjyske,Randers FC,1,1
+2014-08-31,1415,DNK,Midtjylland,Esbjerg,2,0
+2014-08-31,1415,DNK,Nordsjaelland,Brondby,0,3
+2014-08-31,1415,DNK,Odense,FC Copenhagen,0,1
+2014-08-31,1415,DNK,Silkeborg,Aalborg,2,2
+2014-09-01,1415,DNK,Hobro,Vestsjaelland,3,1
+2014-09-12,1415,DNK,Midtjylland,Odense,3,2
+2014-09-13,1415,DNK,Aalborg,FC Copenhagen,1,0
+2014-09-14,1415,DNK,Brondby,Randers FC,0,2
+2014-09-14,1415,DNK,Esbjerg,Vestsjaelland,3,0
+2014-09-14,1415,DNK,Silkeborg,Nordsjaelland,1,2
+2014-09-15,1415,DNK,Sonderjyske,Hobro,1,1
+2014-09-19,1415,DNK,Randers FC,Silkeborg,1,0
+2014-09-20,1415,DNK,Hobro,Esbjerg,1,1
+2014-09-21,1415,DNK,FC Copenhagen,Brondby,1,0
+2014-09-21,1415,DNK,Nordsjaelland,Midtjylland,2,1
+2014-09-21,1415,DNK,Odense,Sonderjyske,1,1
+2014-09-22,1415,DNK,Vestsjaelland,Aalborg,1,0
+2014-09-26,1415,DNK,Aalborg,Randers FC,0,0
+2014-09-27,1415,DNK,Silkeborg,Hobro,2,2
+2014-09-27,1415,DNK,Sonderjyske,FC Copenhagen,1,1
+2014-09-28,1415,DNK,Esbjerg,Brondby,2,2
+2014-09-28,1415,DNK,Midtjylland,Vestsjaelland,1,0
+2014-09-29,1415,DNK,Nordsjaelland,Odense,2,1
+2014-10-03,1415,DNK,Hobro,Midtjylland,1,5
+2014-10-04,1415,DNK,Odense,Silkeborg,2,0
+2014-10-05,1415,DNK,Brondby,Aalborg,2,1
+2014-10-05,1415,DNK,FC Copenhagen,Esbjerg,2,1
+2014-10-05,1415,DNK,Randers FC,Nordsjaelland,0,0
+2014-10-05,1415,DNK,Vestsjaelland,Sonderjyske,1,1
+2014-10-17,1415,DNK,Aalborg,Hobro,1,1
+2014-10-18,1415,DNK,Nordsjaelland,Sonderjyske,2,3
+2014-10-19,1415,DNK,Brondby,Vestsjaelland,5,0
+2014-10-19,1415,DNK,FC Copenhagen,Randers FC,1,0
+2014-10-19,1415,DNK,Midtjylland,Silkeborg,2,1
+2014-10-20,1415,DNK,Esbjerg,Odense,2,0
+2014-10-24,1415,DNK,Silkeborg,Vestsjaelland,1,2
+2014-10-25,1415,DNK,Sonderjyske,Midtjylland,1,1
+2014-10-26,1415,DNK,Esbjerg,Brondby,0,0
+2014-10-26,1415,DNK,Hobro,FC Copenhagen,0,2
+2014-10-26,1415,DNK,Randers FC,Odense,3,0
+2014-10-27,1415,DNK,Nordsjaelland,Aalborg,0,1
+2014-10-31,1415,DNK,Midtjylland,Nordsjaelland,2,0
+2014-11-01,1415,DNK,Vestsjaelland,Esbjerg,1,4
+2014-11-02,1415,DNK,Brondby,Randers FC,1,0
+2014-11-02,1415,DNK,FC Copenhagen,Sonderjyske,1,1
+2014-11-02,1415,DNK,Odense,Hobro,3,1
+2014-11-03,1415,DNK,Aalborg,Silkeborg,2,0
+2014-11-07,1415,DNK,Silkeborg,Midtjylland,1,2
+2014-11-08,1415,DNK,Randers FC,Esbjerg,3,2
+2014-11-09,1415,DNK,Aalborg,Vestsjaelland,2,0
+2014-11-09,1415,DNK,Hobro,Brondby,3,0
+2014-11-09,1415,DNK,Nordsjaelland,FC Copenhagen,0,0
+2014-11-09,1415,DNK,Sonderjyske,Odense,2,1
+2014-11-21,1415,DNK,Vestsjaelland,Randers FC,0,1
+2014-11-22,1415,DNK,Esbjerg,Hobro,4,2
+2014-11-22,1415,DNK,FC Copenhagen,Silkeborg,1,0
+2014-11-23,1415,DNK,Brondby,Sonderjyske,1,0
+2014-11-23,1415,DNK,Midtjylland,Aalborg,2,0
+2014-11-23,1415,DNK,Odense,Nordsjaelland,1,0
+2014-11-28,1415,DNK,Sonderjyske,Esbjerg,0,0
+2014-11-29,1415,DNK,Silkeborg,Odense,0,1
+2014-11-30,1415,DNK,Aalborg,FC Copenhagen,0,1
+2014-11-30,1415,DNK,Hobro,Randers FC,0,1
+2014-11-30,1415,DNK,Nordsjaelland,Brondby,2,0
+2014-12-01,1415,DNK,Midtjylland,Vestsjaelland,2,1
+2014-12-05,1415,DNK,Randers FC,Sonderjyske,0,0
+2014-12-06,1415,DNK,Odense,Aalborg,1,1
+2014-12-07,1415,DNK,Brondby,Silkeborg,1,0
+2014-12-07,1415,DNK,FC Copenhagen,Midtjylland,3,0
+2014-12-07,1415,DNK,Vestsjaelland,Hobro,1,1
+2014-12-08,1415,DNK,Esbjerg,Nordsjaelland,0,0
+2015-02-20,1415,DNK,Nordsjaelland,Randers FC,0,3
+2015-02-21,1415,DNK,Silkeborg,Esbjerg,1,3
+2015-02-22,1415,DNK,Aalborg,Brondby,1,0
+2015-02-22,1415,DNK,FC Copenhagen,Vestsjaelland,2,0
+2015-02-22,1415,DNK,Sonderjyske,Hobro,1,0
+2015-02-23,1415,DNK,Midtjylland,Odense,3,0
+2015-02-27,1415,DNK,Vestsjaelland,Sonderjyske,0,1
+2015-02-28,1415,DNK,Hobro,Nordsjaelland,1,0
+2015-03-01,1415,DNK,Brondby,Midtjylland,1,1
+2015-03-01,1415,DNK,Odense,FC Copenhagen,1,0
+2015-03-01,1415,DNK,Randers FC,Silkeborg,1,2
+2015-03-02,1415,DNK,Esbjerg,Aalborg,1,3
+2015-03-07,1415,DNK,Nordsjaelland,Sonderjyske,4,0
+2015-03-08,1415,DNK,Aalborg,Randers FC,2,1
+2015-03-08,1415,DNK,FC Copenhagen,Brondby,3,1
+2015-03-08,1415,DNK,Midtjylland,Esbjerg,3,0
+2015-03-08,1415,DNK,Silkeborg,Hobro,0,1
+2015-03-09,1415,DNK,Vestsjaelland,Odense,1,2
+2015-03-13,1415,DNK,Randers FC,Midtjylland,1,2
+2015-03-14,1415,DNK,Sonderjyske,Silkeborg,1,4
+2015-03-15,1415,DNK,Brondby,Odense,2,0
+2015-03-15,1415,DNK,Esbjerg,FC Copenhagen,0,1
+2015-03-15,1415,DNK,Nordsjaelland,Vestsjaelland,2,0
+2015-03-16,1415,DNK,Hobro,Aalborg,1,0
+2015-03-20,1415,DNK,Odense,Esbjerg,0,2
+2015-03-21,1415,DNK,Midtjylland,Hobro,3,0
+2015-03-22,1415,DNK,Aalborg,Sonderjyske,1,4
+2015-03-22,1415,DNK,FC Copenhagen,Randers FC,1,1
+2015-03-22,1415,DNK,Silkeborg,Nordsjaelland,2,2
+2015-03-22,1415,DNK,Vestsjaelland,Brondby,0,1
+2015-04-04,1415,DNK,Sonderjyske,Nordsjaelland,1,2
+2015-04-05,1415,DNK,Esbjerg,Midtjylland,3,3
+2015-04-05,1415,DNK,Hobro,Silkeborg,2,2
+2015-04-06,1415,DNK,Brondby,FC Copenhagen,0,0
+2015-04-06,1415,DNK,Randers FC,Aalborg,1,1
+2015-04-07,1415,DNK,Odense,Vestsjaelland,1,2
+2015-04-10,1415,DNK,Hobro,Esbjerg,3,1
+2015-04-11,1415,DNK,Randers FC,Vestsjaelland,1,1
+2015-04-12,1415,DNK,Aalborg,Midtjylland,1,2
+2015-04-12,1415,DNK,Nordsjaelland,Odense,1,2
+2015-04-12,1415,DNK,Sonderjyske,Brondby,0,1
+2015-04-13,1415,DNK,Silkeborg,FC Copenhagen,0,4
+2015-04-17,1415,DNK,Midtjylland,Silkeborg,1,0
+2015-04-18,1415,DNK,Vestsjaelland,Aalborg,2,1
+2015-04-19,1415,DNK,Brondby,Hobro,0,1
+2015-04-19,1415,DNK,FC Copenhagen,Nordsjaelland,2,0
+2015-04-19,1415,DNK,Odense,Sonderjyske,0,0
+2015-04-20,1415,DNK,Esbjerg,Randers FC,0,0
+2015-04-24,1415,DNK,Esbjerg,Odense,0,2
+2015-04-25,1415,DNK,Nordsjaelland,Silkeborg,1,0
+2015-04-26,1415,DNK,Brondby,Vestsjaelland,4,0
+2015-04-26,1415,DNK,Randers FC,FC Copenhagen,3,0
+2015-04-26,1415,DNK,Sonderjyske,Aalborg,0,3
+2015-04-27,1415,DNK,Hobro,Midtjylland,0,0
+2015-05-01,1415,DNK,Aalborg,Hobro,5,0
+2015-05-02,1415,DNK,Silkeborg,Sonderjyske,2,2
+2015-05-03,1415,DNK,FC Copenhagen,Esbjerg,2,1
+2015-05-03,1415,DNK,Odense,Brondby,0,2
+2015-05-03,1415,DNK,Vestsjaelland,Nordsjaelland,2,1
+2015-05-04,1415,DNK,Midtjylland,Randers FC,5,2
+2015-05-08,1415,DNK,Randers FC,Nordsjaelland,2,0
+2015-05-09,1415,DNK,Esbjerg,Silkeborg,5,2
+2015-05-10,1415,DNK,Brondby,Aalborg,1,1
+2015-05-10,1415,DNK,Hobro,Sonderjyske,2,2
+2015-05-10,1415,DNK,Odense,Midtjylland,3,1
+2015-05-11,1415,DNK,Vestsjaelland,FC Copenhagen,0,1
+2015-05-15,1415,DNK,Aalborg,Odense,0,2
+2015-05-17,1415,DNK,Hobro,Vestsjaelland,0,1
+2015-05-17,1415,DNK,Midtjylland,FC Copenhagen,2,0
+2015-05-17,1415,DNK,Silkeborg,Brondby,0,2
+2015-05-18,1415,DNK,Nordsjaelland,Esbjerg,1,3
+2015-05-18,1415,DNK,Sonderjyske,Randers FC,1,1
+2015-05-20,1415,DNK,FC Copenhagen,Aalborg,1,0
+2015-05-20,1415,DNK,Odense,Silkeborg,1,1
+2015-05-21,1415,DNK,Brondby,Nordsjaelland,3,1
+2015-05-21,1415,DNK,Esbjerg,Sonderjyske,2,3
+2015-05-21,1415,DNK,Randers FC,Hobro,0,1
+2015-05-21,1415,DNK,Vestsjaelland,Midtjylland,0,0
+2015-05-24,1415,DNK,Sonderjyske,Vestsjaelland,1,1
+2015-05-25,1415,DNK,FC Copenhagen,Odense,1,0
+2015-05-25,1415,DNK,Midtjylland,Brondby,2,3
+2015-05-25,1415,DNK,Nordsjaelland,Hobro,4,2
+2015-05-25,1415,DNK,Silkeborg,Randers FC,0,2
+2015-05-26,1415,DNK,Aalborg,Esbjerg,1,0
+2015-05-31,1415,DNK,Esbjerg,Vestsjaelland,2,1
+2015-05-31,1415,DNK,Hobro,Odense,2,2
+2015-05-31,1415,DNK,Nordsjaelland,Midtjylland,1,0
+2015-05-31,1415,DNK,Randers FC,Brondby,1,1
+2015-05-31,1415,DNK,Silkeborg,Aalborg,1,2
+2015-05-31,1415,DNK,Sonderjyske,FC Copenhagen,1,2
+2015-06-07,1415,DNK,Aalborg,Nordsjaelland,1,0
+2015-06-07,1415,DNK,Brondby,Esbjerg,0,1
+2015-06-07,1415,DNK,FC Copenhagen,Hobro,1,0
+2015-06-07,1415,DNK,Midtjylland,Sonderjyske,2,1
+2015-06-07,1415,DNK,Odense,Randers FC,0,2
+2015-06-07,1415,DNK,Vestsjaelland,Silkeborg,3,1
+2015-07-17,1516,DNK,Nordsjaelland,Sonderjyske,0,2
+2015-07-18,1516,DNK,Midtjylland,Viborg,2,0
+2015-07-19,1516,DNK,Aarhus,Brondby,2,1
+2015-07-19,1516,DNK,Odense,Hobro,3,0
+2015-07-20,1516,DNK,Aalborg,Esbjerg,1,1
+2015-07-24,1516,DNK,Hobro,Aalborg,0,1
+2015-07-24,1516,DNK,Sonderjyske,Midtjylland,1,2
+2015-07-26,1516,DNK,Brondby,Odense,1,2
+2015-07-26,1516,DNK,Esbjerg,FC Copenhagen,1,2
+2015-07-26,1516,DNK,Randers FC,Nordsjaelland,3,0
+2015-07-27,1516,DNK,Viborg,Aarhus,0,0
+2015-07-31,1516,DNK,Midtjylland,Odense,1,0
+2015-07-31,1516,DNK,Viborg,Esbjerg,2,1
+2015-08-02,1516,DNK,Aarhus,Randers FC,3,2
+2015-08-02,1516,DNK,Brondby,Hobro,0,2
+2015-08-02,1516,DNK,Sonderjyske,FC Copenhagen,1,3
+2015-08-03,1516,DNK,Nordsjaelland,Aalborg,2,1
+2015-08-07,1516,DNK,Odense,Aarhus,2,2
+2015-08-08,1516,DNK,Hobro,Viborg,1,1
+2015-08-09,1516,DNK,Esbjerg,Sonderjyske,0,4
+2015-08-09,1516,DNK,FC Copenhagen,Nordsjaelland,1,1
+2015-08-09,1516,DNK,Randers FC,Brondby,3,3
+2015-08-10,1516,DNK,Aalborg,Midtjylland,0,2
+2015-08-14,1516,DNK,Midtjylland,FC Copenhagen,0,0
+2015-08-15,1516,DNK,Aarhus,Aalborg,2,3
+2015-08-16,1516,DNK,Nordsjaelland,Esbjerg,1,2
+2015-08-16,1516,DNK,Odense,Randers FC,2,3
+2015-08-16,1516,DNK,Viborg,Brondby,0,4
+2015-08-17,1516,DNK,Sonderjyske,Hobro,3,0
+2015-08-21,1516,DNK,Hobro,Nordsjaelland,1,3
+2015-08-23,1516,DNK,Brondby,Sonderjyske,1,0
+2015-08-23,1516,DNK,Esbjerg,Midtjylland,1,1
+2015-08-23,1516,DNK,FC Copenhagen,Aarhus,2,2
+2015-08-23,1516,DNK,Randers FC,Viborg,0,1
+2015-08-24,1516,DNK,Aalborg,Odense,5,1
+2015-08-28,1516,DNK,Aarhus,Esbjerg,0,0
+2015-08-29,1516,DNK,Sonderjyske,Viborg,2,1
+2015-08-30,1516,DNK,Aalborg,Randers FC,0,2
+2015-08-30,1516,DNK,Midtjylland,Hobro,2,0
+2015-08-30,1516,DNK,Nordsjaelland,Brondby,0,2
+2015-08-30,1516,DNK,Odense,FC Copenhagen,1,0
+2015-09-11,1516,DNK,Hobro,Aarhus,0,3
+2015-09-12,1516,DNK,Viborg,Nordsjaelland,0,1
+2015-09-13,1516,DNK,Brondby,Midtjylland,0,0
+2015-09-13,1516,DNK,FC Copenhagen,Aalborg,4,2
+2015-09-13,1516,DNK,Randers FC,Sonderjyske,1,0
+2015-09-14,1516,DNK,Esbjerg,Odense,4,2
+2015-09-16,1516,DNK,FC Copenhagen,Randers FC,3,0
+2015-09-18,1516,DNK,Aarhus,Sonderjyske,1,2
+2015-09-19,1516,DNK,Odense,Viborg,2,0
+2015-09-20,1516,DNK,Aalborg,Brondby,4,1
+2015-09-20,1516,DNK,FC Copenhagen,Hobro,1,0
+2015-09-20,1516,DNK,Midtjylland,Nordsjaelland,0,1
+2015-09-21,1516,DNK,Esbjerg,Randers FC,0,2
+2015-09-25,1516,DNK,Sonderjyske,Odense,4,0
+2015-09-25,1516,DNK,Viborg,Aalborg,1,0
+2015-09-27,1516,DNK,Brondby,FC Copenhagen,1,0
+2015-09-27,1516,DNK,Nordsjaelland,Aarhus,2,0
+2015-09-27,1516,DNK,Randers FC,Midtjylland,0,2
+2015-09-28,1516,DNK,Hobro,Esbjerg,2,2
+2015-10-02,1516,DNK,Nordsjaelland,Odense,1,5
+2015-10-03,1516,DNK,Randers FC,Hobro,2,1
+2015-10-04,1516,DNK,Aalborg,Sonderjyske,5,0
+2015-10-04,1516,DNK,Brondby,Esbjerg,1,1
+2015-10-04,1516,DNK,FC Copenhagen,Viborg,1,0
+2015-10-04,1516,DNK,Midtjylland,Aarhus,2,0
+2015-10-16,1516,DNK,Midtjylland,Randers FC,2,1
+2015-10-17,1516,DNK,Odense,Sonderjyske,1,2
+2015-10-18,1516,DNK,Aarhus,Nordsjaelland,3,0
+2015-10-18,1516,DNK,FC Copenhagen,Hobro,3,1
+2015-10-18,1516,DNK,Viborg,Brondby,0,2
+2015-10-19,1516,DNK,Esbjerg,Aalborg,1,2
+2015-10-23,1516,DNK,Hobro,Aarhus,3,1
+2015-10-24,1516,DNK,Viborg,Esbjerg,4,2
+2015-10-25,1516,DNK,Brondby,Midtjylland,2,1
+2015-10-25,1516,DNK,Nordsjaelland,Aalborg,3,0
+2015-10-25,1516,DNK,Sonderjyske,FC Copenhagen,1,2
+2015-10-26,1516,DNK,Randers FC,Odense,1,1
+2015-10-30,1516,DNK,Esbjerg,Nordsjaelland,2,1
+2015-10-31,1516,DNK,Midtjylland,Viborg,2,4
+2015-11-01,1516,DNK,Aalborg,Hobro,6,0
+2015-11-01,1516,DNK,FC Copenhagen,Randers FC,4,0
+2015-11-01,1516,DNK,Odense,Brondby,2,5
+2015-11-02,1516,DNK,Aarhus,Sonderjyske,0,0
+2015-11-06,1516,DNK,Randers FC,Aarhus,4,1
+2015-11-06,1516,DNK,Sonderjyske,Aalborg,1,2
+2015-11-07,1516,DNK,Hobro,Nordsjaelland,0,1
+2015-11-08,1516,DNK,Brondby,FC Copenhagen,0,0
+2015-11-08,1516,DNK,Midtjylland,Esbjerg,5,1
+2015-11-08,1516,DNK,Viborg,Odense,0,1
+2015-11-20,1516,DNK,Odense,Midtjylland,1,1
+2015-11-21,1516,DNK,Nordsjaelland,Sonderjyske,1,2
+2015-11-22,1516,DNK,Aarhus,Brondby,1,1
+2015-11-22,1516,DNK,Esbjerg,Hobro,4,4
+2015-11-22,1516,DNK,FC Copenhagen,Viborg,0,0
+2015-11-23,1516,DNK,Aalborg,Randers FC,3,2
+2015-11-27,1516,DNK,Viborg,Aarhus,1,0
+2015-11-28,1516,DNK,Randers FC,Nordsjaelland,1,0
+2015-11-29,1516,DNK,Brondby,Aalborg,0,2
+2015-11-29,1516,DNK,Sonderjyske,Hobro,2,0
+2015-11-30,1516,DNK,Odense,Esbjerg,2,1
+2015-12-04,1516,DNK,Aarhus,Midtjylland,2,1
+2015-12-05,1516,DNK,Hobro,Randers FC,0,0
+2015-12-06,1516,DNK,Esbjerg,Sonderjyske,0,1
+2015-12-06,1516,DNK,FC Copenhagen,Odense,4,1
+2015-12-06,1516,DNK,Nordsjaelland,Brondby,0,2
+2015-12-07,1516,DNK,Aalborg,Viborg,2,0
+2016-02-26,1516,DNK,Odense,Aarhus,2,2
+2016-02-27,1516,DNK,Randers FC,Sonderjyske,1,1
+2016-02-28,1516,DNK,Brondby,Hobro,1,0
+2016-02-28,1516,DNK,FC Copenhagen,Esbjerg,2,1
+2016-02-28,1516,DNK,Viborg,Nordsjaelland,1,1
+2016-02-29,1516,DNK,Midtjylland,Aalborg,1,1
+2016-03-03,1516,DNK,Midtjylland,FC Copenhagen,0,1
+2016-03-04,1516,DNK,Aalborg,Odense,0,1
+2016-03-05,1516,DNK,Hobro,Viborg,0,6
+2016-03-06,1516,DNK,Aarhus,FC Copenhagen,0,0
+2016-03-06,1516,DNK,Esbjerg,Randers FC,1,0
+2016-03-06,1516,DNK,Sonderjyske,Brondby,3,1
+2016-03-07,1516,DNK,Nordsjaelland,Midtjylland,2,1
+2016-03-11,1516,DNK,Esbjerg,Aarhus,2,1
+2016-03-12,1516,DNK,Viborg,Sonderjyske,0,0
+2016-03-13,1516,DNK,Brondby,Randers FC,1,0
+2016-03-13,1516,DNK,FC Copenhagen,Aalborg,6,2
+2016-03-13,1516,DNK,Odense,Nordsjaelland,3,1
+2016-03-14,1516,DNK,Midtjylland,Hobro,3,0
+2016-03-18,1516,DNK,Aalborg,Aarhus,2,2
+2016-03-19,1516,DNK,Hobro,Odense,0,2
+2016-03-20,1516,DNK,Brondby,Esbjerg,0,0
+2016-03-20,1516,DNK,Nordsjaelland,FC Copenhagen,2,0
+2016-03-20,1516,DNK,Randers FC,Viborg,1,3
+2016-03-20,1516,DNK,Sonderjyske,Midtjylland,3,2
+2016-04-01,1516,DNK,Aalborg,Nordsjaelland,1,0
+2016-04-02,1516,DNK,Aarhus,Hobro,1,1
+2016-04-03,1516,DNK,FC Copenhagen,Sonderjyske,1,0
+2016-04-03,1516,DNK,Midtjylland,Brondby,2,0
+2016-04-03,1516,DNK,Odense,Randers FC,0,1
+2016-04-04,1516,DNK,Esbjerg,Viborg,1,0
+2016-04-08,1516,DNK,Viborg,Midtjylland,1,1
+2016-04-09,1516,DNK,Sonderjyske,Aarhus,2,2
+2016-04-10,1516,DNK,Brondby,Odense,1,0
+2016-04-10,1516,DNK,Hobro,Aalborg,0,2
+2016-04-10,1516,DNK,Randers FC,FC Copenhagen,1,1
+2016-04-11,1516,DNK,Nordsjaelland,Esbjerg,0,0
+2016-04-15,1516,DNK,Nordsjaelland,Hobro,2,1
+2016-04-16,1516,DNK,Aarhus,Randers FC,0,2
+2016-04-17,1516,DNK,Aalborg,Sonderjyske,1,2
+2016-04-17,1516,DNK,FC Copenhagen,Brondby,2,0
+2016-04-17,1516,DNK,Odense,Viborg,5,1
+2016-04-18,1516,DNK,Esbjerg,Midtjylland,0,2
+2016-04-22,1516,DNK,Midtjylland,Odense,2,0
+2016-04-23,1516,DNK,Hobro,Esbjerg,2,2
+2016-04-24,1516,DNK,Brondby,Aarhus,2,1
+2016-04-24,1516,DNK,Sonderjyske,Nordsjaelland,3,1
+2016-04-24,1516,DNK,Viborg,FC Copenhagen,1,1
+2016-04-25,1516,DNK,Randers FC,Aalborg,0,0
+2016-04-29,1516,DNK,Aarhus,Viborg,1,2
+2016-04-30,1516,DNK,Hobro,Sonderjyske,1,2
+2016-05-01,1516,DNK,Aalborg,Brondby,3,0
+2016-05-01,1516,DNK,FC Copenhagen,Midtjylland,5,3
+2016-05-01,1516,DNK,Nordsjaelland,Randers FC,2,2
+2016-05-02,1516,DNK,Esbjerg,Odense,0,2
+2016-05-06,1516,DNK,Sonderjyske,Esbjerg,2,0
+2016-05-07,1516,DNK,Randers FC,Hobro,2,0
+2016-05-08,1516,DNK,Midtjylland,Aarhus,1,1
+2016-05-08,1516,DNK,Odense,FC Copenhagen,0,1
+2016-05-08,1516,DNK,Viborg,Aalborg,0,2
+2016-05-09,1516,DNK,Brondby,Nordsjaelland,2,1
+2016-05-11,1516,DNK,Aarhus,Esbjerg,5,1
+2016-05-11,1516,DNK,Hobro,Midtjylland,1,4
+2016-05-11,1516,DNK,Sonderjyske,Viborg,2,0
+2016-05-12,1516,DNK,Aalborg,FC Copenhagen,0,2
+2016-05-12,1516,DNK,Nordsjaelland,Odense,0,1
+2016-05-12,1516,DNK,Randers FC,Brondby,0,2
+2016-05-14,1516,DNK,Midtjylland,Sonderjyske,3,2
+2016-05-15,1516,DNK,Odense,Hobro,0,1
+2016-05-16,1516,DNK,Esbjerg,Brondby,2,3
+2016-05-16,1516,DNK,FC Copenhagen,Nordsjaelland,2,0
+2016-05-16,1516,DNK,Viborg,Randers FC,2,3
+2016-05-17,1516,DNK,Aarhus,Aalborg,2,0
+2016-05-20,1516,DNK,Sonderjyske,Odense,3,1
+2016-05-21,1516,DNK,Nordsjaelland,Aarhus,3,3
+2016-05-22,1516,DNK,Aalborg,Esbjerg,1,2
+2016-05-22,1516,DNK,Hobro,FC Copenhagen,4,2
+2016-05-22,1516,DNK,Randers FC,Midtjylland,1,2
+2016-05-23,1516,DNK,Brondby,Viborg,0,1
+2016-05-26,1516,DNK,Aalborg,Midtjylland,0,0
+2016-05-26,1516,DNK,Aarhus,Odense,2,1
+2016-05-26,1516,DNK,Esbjerg,FC Copenhagen,1,4
+2016-05-26,1516,DNK,Hobro,Brondby,0,2
+2016-05-26,1516,DNK,Nordsjaelland,Viborg,1,0
+2016-05-26,1516,DNK,Sonderjyske,Randers FC,1,1
+2016-05-29,1516,DNK,Brondby,Sonderjyske,1,2
+2016-05-29,1516,DNK,FC Copenhagen,Aarhus,2,1
+2016-05-29,1516,DNK,Midtjylland,Nordsjaelland,4,1
+2016-05-29,1516,DNK,Odense,Aalborg,3,2
+2016-05-29,1516,DNK,Randers FC,Esbjerg,3,1
+2016-05-29,1516,DNK,Viborg,Hobro,1,0
+2016-07-15,1617,DNK,Odense,Silkeborg,0,0
+2016-07-15,1617,DNK,Viborg,Nordsjaelland,0,4
+2016-07-16,1617,DNK,FC Copenhagen,Lyngby,3,0
+2016-07-17,1617,DNK,Aalborg,Horsens,1,1
+2016-07-17,1617,DNK,Brondby,Esbjerg,4,0
+2016-07-17,1617,DNK,Sonderjyske,Aarhus,1,2
+2016-07-18,1617,DNK,Midtjylland,Randers FC,2,2
+2016-07-22,1617,DNK,Aarhus,Viborg,2,1
+2016-07-23,1617,DNK,Esbjerg,FC Copenhagen,0,4
+2016-07-24,1617,DNK,Horsens,Sonderjyske,1,1
+2016-07-24,1617,DNK,Lyngby,Odense,2,2
+2016-07-24,1617,DNK,Nordsjaelland,Midtjylland,0,4
+2016-07-24,1617,DNK,Randers FC,Aalborg,0,1
+2016-07-24,1617,DNK,Silkeborg,Brondby,0,2
+2016-07-29,1617,DNK,Viborg,Esbjerg,2,1
+2016-07-30,1617,DNK,FC Copenhagen,Nordsjaelland,4,0
+2016-07-31,1617,DNK,Aarhus,Randers FC,1,2
+2016-07-31,1617,DNK,Brondby,Horsens,2,2
+2016-07-31,1617,DNK,Midtjylland,Silkeborg,3,0
+2016-07-31,1617,DNK,Sonderjyske,Lyngby,0,1
+2016-08-01,1617,DNK,Aalborg,Odense,2,2
+2016-08-05,1617,DNK,Randers FC,Horsens,1,0
+2016-08-05,1617,DNK,Silkeborg,Lyngby,0,4
+2016-08-06,1617,DNK,Odense,Viborg,0,0
+2016-08-07,1617,DNK,Midtjylland,Brondby,3,3
+2016-08-07,1617,DNK,Nordsjaelland,Aalborg,1,2
+2016-08-07,1617,DNK,Sonderjyske,FC Copenhagen,1,1
+2016-08-08,1617,DNK,Esbjerg,Aarhus,2,2
+2016-08-12,1617,DNK,Lyngby,Aarhus,0,0
+2016-08-12,1617,DNK,Viborg,Randers FC,0,1
+2016-08-13,1617,DNK,FC Copenhagen,Midtjylland,3,1
+2016-08-13,1617,DNK,Horsens,Silkeborg,3,3
+2016-08-14,1617,DNK,Brondby,Sonderjyske,4,0
+2016-08-14,1617,DNK,Odense,Nordsjaelland,3,1
+2016-08-15,1617,DNK,Aalborg,Esbjerg,2,1
+2016-08-19,1617,DNK,Horsens,Lyngby,2,1
+2016-08-19,1617,DNK,Nordsjaelland,Randers FC,1,1
+2016-08-20,1617,DNK,FC Copenhagen,Aalborg,1,1
+2016-08-21,1617,DNK,Aarhus,Brondby,0,7
+2016-08-21,1617,DNK,Midtjylland,Sonderjyske,2,2
+2016-08-21,1617,DNK,Silkeborg,Viborg,1,5
+2016-08-22,1617,DNK,Esbjerg,Odense,3,2
+2016-08-26,1617,DNK,Lyngby,Nordsjaelland,0,1
+2016-08-26,1617,DNK,Randers FC,Silkeborg,1,0
+2016-08-28,1617,DNK,Aalborg,Aarhus,2,1
+2016-08-28,1617,DNK,Brondby,FC Copenhagen,1,1
+2016-08-28,1617,DNK,Odense,Horsens,0,1
+2016-08-28,1617,DNK,Sonderjyske,Esbjerg,1,1
+2016-08-28,1617,DNK,Viborg,Midtjylland,0,0
+2016-09-09,1617,DNK,Midtjylland,Esbjerg,3,0
+2016-09-09,1617,DNK,Randers FC,Lyngby,2,0
+2016-09-10,1617,DNK,FC Copenhagen,Odense,2,0
+2016-09-10,1617,DNK,Viborg,Horsens,2,4
+2016-09-11,1617,DNK,Aalborg,Brondby,0,1
+2016-09-11,1617,DNK,Sonderjyske,Silkeborg,2,2
+2016-09-12,1617,DNK,Aarhus,Nordsjaelland,3,1
+2016-09-16,1617,DNK,Esbjerg,Randers FC,1,1
+2016-09-17,1617,DNK,Silkeborg,Aarhus,1,0
+2016-09-18,1617,DNK,Brondby,Viborg,1,2
+2016-09-18,1617,DNK,Horsens,FC Copenhagen,0,2
+2016-09-18,1617,DNK,Nordsjaelland,Sonderjyske,2,3
+2016-09-18,1617,DNK,Odense,Midtjylland,0,1
+2016-09-19,1617,DNK,Lyngby,Aalborg,1,0
+2016-09-20,1617,DNK,Esbjerg,Silkeborg,0,0
+2016-09-21,1617,DNK,Aarhus,Midtjylland,1,1
+2016-09-21,1617,DNK,Horsens,Nordsjaelland,0,0
+2016-09-21,1617,DNK,Randers FC,FC Copenhagen,2,2
+2016-09-22,1617,DNK,Aalborg,Viborg,1,0
+2016-09-22,1617,DNK,Lyngby,Brondby,1,0
+2016-09-22,1617,DNK,Sonderjyske,Odense,1,0
+2016-09-24,1617,DNK,FC Copenhagen,Aarhus,2,0
+2016-09-25,1617,DNK,Brondby,Odense,3,0
+2016-09-25,1617,DNK,Midtjylland,Horsens,5,2
+2016-09-25,1617,DNK,Nordsjaelland,Esbjerg,3,0
+2016-09-25,1617,DNK,Randers FC,Sonderjyske,0,4
+2016-09-25,1617,DNK,Viborg,Lyngby,0,1
+2016-09-26,1617,DNK,Silkeborg,Aalborg,5,3
+2016-09-30,1617,DNK,Odense,Aarhus,2,1
+2016-09-30,1617,DNK,Silkeborg,Nordsjaelland,2,2
+2016-10-01,1617,DNK,Horsens,Esbjerg,1,0
+2016-10-02,1617,DNK,Aalborg,Sonderjyske,0,1
+2016-10-02,1617,DNK,Brondby,Randers FC,2,2
+2016-10-02,1617,DNK,Lyngby,Midtjylland,1,0
+2016-10-02,1617,DNK,Viborg,FC Copenhagen,0,0
+2016-10-14,1617,DNK,Aarhus,Horsens,1,1
+2016-10-14,1617,DNK,Sonderjyske,Viborg,1,0
+2016-10-15,1617,DNK,FC Copenhagen,Silkeborg,2,0
+2016-10-16,1617,DNK,Midtjylland,Aalborg,2,0
+2016-10-16,1617,DNK,Nordsjaelland,Brondby,1,1
+2016-10-16,1617,DNK,Randers FC,Odense,3,0
+2016-10-17,1617,DNK,Esbjerg,Lyngby,2,2
+2016-10-21,1617,DNK,Aalborg,Nordsjaelland,1,1
+2016-10-21,1617,DNK,Viborg,Silkeborg,1,3
+2016-10-22,1617,DNK,Lyngby,Sonderjyske,2,0
+2016-10-23,1617,DNK,Brondby,Aarhus,1,0
+2016-10-23,1617,DNK,Horsens,Randers FC,1,0
+2016-10-23,1617,DNK,Odense,FC Copenhagen,0,3
+2016-10-24,1617,DNK,Esbjerg,Midtjylland,1,3
+2016-10-28,1617,DNK,Nordsjaelland,Viborg,4,3
+2016-10-28,1617,DNK,Silkeborg,Odense,1,1
+2016-10-29,1617,DNK,Lyngby,Randers FC,0,2
+2016-10-30,1617,DNK,Brondby,Aalborg,2,0
+2016-10-30,1617,DNK,Midtjylland,FC Copenhagen,1,3
+2016-10-30,1617,DNK,Sonderjyske,Horsens,2,0
+2016-10-31,1617,DNK,Aarhus,Esbjerg,6,2
+2016-11-04,1617,DNK,Aarhus,Silkeborg,0,0
+2016-11-04,1617,DNK,Esbjerg,Aalborg,3,0
+2016-11-05,1617,DNK,Randers FC,Nordsjaelland,2,1
+2016-11-06,1617,DNK,FC Copenhagen,Sonderjyske,4,0
+2016-11-06,1617,DNK,Horsens,Midtjylland,1,5
+2016-11-06,1617,DNK,Odense,Lyngby,1,2
+2016-11-06,1617,DNK,Viborg,Brondby,1,2
+2016-11-18,1617,DNK,Aalborg,FC Copenhagen,1,2
+2016-11-18,1617,DNK,Lyngby,Horsens,0,1
+2016-11-19,1617,DNK,Nordsjaelland,Aarhus,3,2
+2016-11-20,1617,DNK,Odense,Brondby,1,0
+2016-11-20,1617,DNK,Randers FC,Viborg,2,1
+2016-11-20,1617,DNK,Sonderjyske,Midtjylland,1,0
+2016-11-21,1617,DNK,Silkeborg,Esbjerg,3,0
+2016-11-25,1617,DNK,Aalborg,Randers FC,2,1
+2016-11-25,1617,DNK,Horsens,Aarhus,1,5
+2016-11-26,1617,DNK,Lyngby,FC Copenhagen,0,1
+2016-11-26,1617,DNK,Viborg,Sonderjyske,2,2
+2016-11-27,1617,DNK,Brondby,Silkeborg,3,1
+2016-11-27,1617,DNK,Esbjerg,Nordsjaelland,2,2
+2016-11-28,1617,DNK,Midtjylland,Odense,1,0
+2016-11-29,1617,DNK,Aarhus,Lyngby,0,1
+2016-11-29,1617,DNK,FC Copenhagen,Viborg,4,0
+2016-11-29,1617,DNK,Sonderjyske,Aalborg,1,1
+2016-11-30,1617,DNK,Nordsjaelland,Horsens,2,1
+2016-11-30,1617,DNK,Randers FC,Brondby,0,1
+2016-12-01,1617,DNK,Odense,Esbjerg,0,1
+2016-12-01,1617,DNK,Silkeborg,Midtjylland,2,1
+2016-12-03,1617,DNK,FC Copenhagen,Randers FC,1,0
+2016-12-03,1617,DNK,Horsens,Viborg,1,2
+2016-12-04,1617,DNK,Esbjerg,Brondby,1,1
+2016-12-04,1617,DNK,Midtjylland,Aarhus,0,1
+2016-12-04,1617,DNK,Nordsjaelland,Odense,0,1
+2016-12-05,1617,DNK,Aalborg,Lyngby,1,0
+2016-12-05,1617,DNK,Silkeborg,Sonderjyske,1,1
+2016-12-09,1617,DNK,Horsens,Aalborg,3,0
+2016-12-09,1617,DNK,Sonderjyske,Nordsjaelland,0,0
+2016-12-10,1617,DNK,Lyngby,Silkeborg,1,1
+2016-12-11,1617,DNK,Aarhus,FC Copenhagen,0,1
+2016-12-11,1617,DNK,Brondby,Midtjylland,2,1
+2016-12-11,1617,DNK,Randers FC,Esbjerg,0,2
+2016-12-12,1617,DNK,Viborg,Odense,1,1
+2017-02-17,1617,DNK,Esbjerg,Sonderjyske,3,0
+2017-02-17,1617,DNK,Nordsjaelland,Lyngby,0,1
+2017-02-18,1617,DNK,Silkeborg,Horsens,1,0
+2017-02-19,1617,DNK,Aarhus,Aalborg,1,2
+2017-02-19,1617,DNK,FC Copenhagen,Brondby,0,0
+2017-02-19,1617,DNK,Midtjylland,Viborg,0,0
+2017-02-20,1617,DNK,Odense,Randers FC,3,0
+2017-02-24,1617,DNK,Randers FC,Midtjylland,0,2
+2017-02-25,1617,DNK,Horsens,Odense,1,1
+2017-02-26,1617,DNK,Aalborg,Silkeborg,3,0
+2017-02-26,1617,DNK,Nordsjaelland,FC Copenhagen,1,1
+2017-02-26,1617,DNK,Sonderjyske,Brondby,1,2
+2017-02-27,1617,DNK,Lyngby,Esbjerg,0,0
+2017-02-27,1617,DNK,Viborg,Aarhus,1,1
+2017-03-03,1617,DNK,Esbjerg,Viborg,1,3
+2017-03-03,1617,DNK,Midtjylland,Lyngby,1,1
+2017-03-04,1617,DNK,Aarhus,Sonderjyske,1,2
+2017-03-05,1617,DNK,Brondby,Nordsjaelland,2,3
+2017-03-05,1617,DNK,FC Copenhagen,Horsens,5,0
+2017-03-05,1617,DNK,Silkeborg,Randers FC,2,0
+2017-03-06,1617,DNK,Odense,Aalborg,4,0
+2017-03-10,1617,DNK,Nordsjaelland,Silkeborg,5,1
+2017-03-10,1617,DNK,Randers FC,Aarhus,1,1
+2017-03-11,1617,DNK,Lyngby,Viborg,1,0
+2017-03-12,1617,DNK,FC Copenhagen,Esbjerg,2,0
+2017-03-12,1617,DNK,Horsens,Brondby,0,2
+2017-03-12,1617,DNK,Odense,Sonderjyske,0,1
+2017-03-13,1617,DNK,Aalborg,Midtjylland,1,1
+2017-03-19,1617,DNK,Aarhus,Odense,1,2
+2017-03-19,1617,DNK,Brondby,Lyngby,3,2
+2017-03-19,1617,DNK,Esbjerg,Horsens,1,1
+2017-03-19,1617,DNK,Midtjylland,Nordsjaelland,1,2
+2017-03-19,1617,DNK,Silkeborg,FC Copenhagen,1,3
+2017-03-19,1617,DNK,Sonderjyske,Randers FC,1,0
+2017-03-19,1617,DNK,Viborg,Aalborg,2,1
+2017-03-31,1617,DNK,Horsens,Odense,0,0
+2017-03-31,1617,DNK,Nordsjaelland,Lyngby,2,0
+2017-04-01,1617,DNK,Silkeborg,Aalborg,0,0
+2017-04-02,1617,DNK,Brondby,Midtjylland,3,2
+2017-04-02,1617,DNK,Esbjerg,Randers FC,0,0
+2017-04-02,1617,DNK,Viborg,Aarhus,2,4
+2017-04-03,1617,DNK,Sonderjyske,FC Copenhagen,1,2
+2017-04-07,1617,DNK,Odense,Esbjerg,3,0
+2017-04-07,1617,DNK,Randers FC,Horsens,2,0
+2017-04-08,1617,DNK,Aalborg,Viborg,0,1
+2017-04-09,1617,DNK,FC Copenhagen,Nordsjaelland,1,1
+2017-04-09,1617,DNK,Lyngby,Brondby,1,2
+2017-04-09,1617,DNK,Midtjylland,Sonderjyske,3,1
+2017-04-10,1617,DNK,Aarhus,Silkeborg,1,3
+2017-04-14,1617,DNK,Sonderjyske,Nordsjaelland,1,4
+2017-04-15,1617,DNK,Esbjerg,Horsens,0,1
+2017-04-16,1617,DNK,Lyngby,Midtjylland,2,2
+2017-04-17,1617,DNK,Aalborg,Aarhus,1,0
+2017-04-17,1617,DNK,Brondby,FC Copenhagen,0,1
+2017-04-17,1617,DNK,Viborg,Silkeborg,0,0
+2017-04-18,1617,DNK,Odense,Randers FC,1,0
+2017-04-21,1617,DNK,Silkeborg,Viborg,1,2
+2017-04-21,1617,DNK,Sonderjyske,Lyngby,1,2
+2017-04-22,1617,DNK,Horsens,Esbjerg,1,3
+2017-04-23,1617,DNK,FC Copenhagen,Midtjylland,3,1
+2017-04-23,1617,DNK,Nordsjaelland,Brondby,0,1
+2017-04-23,1617,DNK,Randers FC,Odense,4,0
+2017-04-24,1617,DNK,Aarhus,Aalborg,4,0
+2017-04-28,1617,DNK,Odense,Horsens,2,1
+2017-04-28,1617,DNK,Randers FC,Esbjerg,0,0
+2017-04-29,1617,DNK,Midtjylland,Nordsjaelland,3,1
+2017-04-30,1617,DNK,Brondby,Sonderjyske,1,1
+2017-04-30,1617,DNK,FC Copenhagen,Lyngby,3,0
+2017-04-30,1617,DNK,Viborg,Aalborg,1,1
+2017-05-01,1617,DNK,Silkeborg,Aarhus,0,2
+2017-05-05,1617,DNK,Nordsjaelland,FC Copenhagen,1,1
+2017-05-07,1617,DNK,Aalborg,Silkeborg,0,1
+2017-05-07,1617,DNK,Aarhus,Viborg,1,0
+2017-05-07,1617,DNK,Lyngby,Sonderjyske,2,0
+2017-05-07,1617,DNK,Midtjylland,Brondby,4,2
+2017-05-08,1617,DNK,Esbjerg,Odense,1,1
+2017-05-08,1617,DNK,Horsens,Randers FC,2,1
+2017-05-12,1617,DNK,Aalborg,Randers FC,0,2
+2017-05-12,1617,DNK,Lyngby,Nordsjaelland,2,1
+2017-05-12,1617,DNK,Sonderjyske,Midtjylland,5,2
+2017-05-12,1617,DNK,Viborg,Horsens,3,0
+2017-05-13,1617,DNK,Odense,Silkeborg,3,1
+2017-05-14,1617,DNK,Esbjerg,Aarhus,0,0
+2017-05-14,1617,DNK,FC Copenhagen,Brondby,1,0
+2017-05-16,1617,DNK,Horsens,Viborg,1,0
+2017-05-16,1617,DNK,Nordsjaelland,Sonderjyske,4,1
+2017-05-16,1617,DNK,Silkeborg,Odense,2,1
+2017-05-17,1617,DNK,Aarhus,Esbjerg,3,1
+2017-05-17,1617,DNK,Midtjylland,FC Copenhagen,3,2
+2017-05-17,1617,DNK,Randers FC,Aalborg,2,1
+2017-05-18,1617,DNK,Brondby,Lyngby,0,2
+2017-05-20,1617,DNK,Esbjerg,Horsens,1,1
+2017-05-20,1617,DNK,Nordsjaelland,Midtjylland,2,3
+2017-05-20,1617,DNK,Odense,Randers FC,1,1
+2017-05-21,1617,DNK,Lyngby,FC Copenhagen,3,1
+2017-05-21,1617,DNK,Sonderjyske,Brondby,3,0
+2017-05-22,1617,DNK,Viborg,Aarhus,2,2
+2017-05-28,1617,DNK,Aarhus,Viborg,1,0
+2017-05-28,1617,DNK,Brondby,Nordsjaelland,1,2
+2017-05-28,1617,DNK,FC Copenhagen,Sonderjyske,2,0
+2017-05-28,1617,DNK,Horsens,Esbjerg,3,2
+2017-05-28,1617,DNK,Midtjylland,Lyngby,0,3
+2017-05-29,1617,DNK,Randers FC,Odense,2,0
+2017-05-31,1617,DNK,Helsingor,Viborg,1,1
+2017-05-31,1617,DNK,Horsens,Vendsyssel,0,0
+2017-06-01,1617,DNK,Midtjylland,Randers FC,3,0
+2017-06-04,1617,DNK,Vendsyssel,Horsens,1,3
+2017-06-04,1617,DNK,Viborg,Helsingor,1,1
+2017-07-14,1718,DNK,Aarhus,Horsens,1,2
+2017-07-15,1718,DNK,FC Copenhagen,Aalborg,1,1
+2017-07-15,1718,DNK,Sonderjyske,Randers FC,0,0
+2017-07-16,1718,DNK,Brondby,Midtjylland,4,0
+2017-07-16,1718,DNK,Hobro,Helsingor,2,1
+2017-07-16,1718,DNK,Lyngby,Silkeborg,2,1
+2017-07-17,1718,DNK,Odense,Nordsjaelland,1,2
+2017-07-21,1718,DNK,Aarhus,Hobro,2,0
+2017-07-22,1718,DNK,Randers FC,FC Copenhagen,0,3
+2017-07-23,1718,DNK,Aalborg,Sonderjyske,1,4
+2017-07-23,1718,DNK,Horsens,Lyngby,4,1
+2017-07-23,1718,DNK,Midtjylland,Silkeborg,2,0
+2017-07-23,1718,DNK,Nordsjaelland,Brondby,3,2
+2017-07-24,1718,DNK,Helsingor,Odense,0,2
+2017-07-28,1718,DNK,Sonderjyske,Helsingor,1,2
+2017-07-29,1718,DNK,FC Copenhagen,Hobro,0,0
+2017-07-29,1718,DNK,Odense,Horsens,1,0
+2017-07-30,1718,DNK,Brondby,Lyngby,5,3
+2017-07-30,1718,DNK,Midtjylland,Randers FC,2,1
+2017-07-30,1718,DNK,Nordsjaelland,Aalborg,3,2
+2017-07-31,1718,DNK,Silkeborg,Aarhus,2,1
+2017-08-04,1718,DNK,Horsens,Silkeborg,1,0
+2017-08-05,1718,DNK,Hobro,Randers FC,2,0
+2017-08-06,1718,DNK,Brondby,FC Copenhagen,1,0
+2017-08-06,1718,DNK,Helsingor,Midtjylland,2,1
+2017-08-06,1718,DNK,Lyngby,Nordsjaelland,1,4
+2017-08-06,1718,DNK,Odense,Aalborg,0,0
+2017-08-07,1718,DNK,Sonderjyske,Aarhus,3,0
+2017-08-11,1718,DNK,Silkeborg,Helsingor,4,1
+2017-08-12,1718,DNK,FC Copenhagen,Horsens,1,1
+2017-08-12,1718,DNK,Lyngby,Sonderjyske,1,1
+2017-08-13,1718,DNK,Aarhus,Odense,0,0
+2017-08-13,1718,DNK,Midtjylland,Nordsjaelland,4,3
+2017-08-13,1718,DNK,Randers FC,Brondby,0,0
+2017-08-14,1718,DNK,Aalborg,Hobro,1,1
+2017-08-18,1718,DNK,Horsens,Aalborg,0,0
+2017-08-18,1718,DNK,Randers FC,Silkeborg,1,1
+2017-08-19,1718,DNK,FC Copenhagen,Sonderjyske,3,2
+2017-08-20,1718,DNK,Aarhus,Brondby,2,0
+2017-08-20,1718,DNK,Hobro,Lyngby,3,0
+2017-08-20,1718,DNK,Odense,Midtjylland,0,2
+2017-08-21,1718,DNK,Nordsjaelland,Helsingor,1,0
+2017-08-25,1718,DNK,Silkeborg,Hobro,0,2
+2017-08-25,1718,DNK,Sonderjyske,Odense,2,2
+2017-08-26,1718,DNK,Aalborg,Aarhus,0,0
+2017-08-26,1718,DNK,Helsingor,Randers FC,2,0
+2017-08-27,1718,DNK,Brondby,Horsens,2,0
+2017-08-27,1718,DNK,Midtjylland,Lyngby,1,1
+2017-08-27,1718,DNK,Nordsjaelland,FC Copenhagen,3,0
+2017-09-08,1718,DNK,Hobro,Sonderjyske,3,2
+2017-09-08,1718,DNK,Horsens,Nordsjaelland,2,2
+2017-09-09,1718,DNK,Aarhus,Randers FC,1,4
+2017-09-10,1718,DNK,FC Copenhagen,Midtjylland,4,3
+2017-09-10,1718,DNK,Lyngby,Helsingor,3,1
+2017-09-10,1718,DNK,Odense,Brondby,1,1
+2017-09-11,1718,DNK,Aalborg,Silkeborg,2,1
+2017-09-15,1718,DNK,Randers FC,Lyngby,0,0
+2017-09-15,1718,DNK,Silkeborg,Odense,1,0
+2017-09-16,1718,DNK,Sonderjyske,Horsens,2,2
+2017-09-17,1718,DNK,Brondby,Aalborg,0,0
+2017-09-17,1718,DNK,Helsingor,FC Copenhagen,0,4
+2017-09-17,1718,DNK,Midtjylland,Hobro,5,1
+2017-09-18,1718,DNK,Nordsjaelland,Aarhus,1,2
+2017-09-22,1718,DNK,Nordsjaelland,Sonderjyske,2,2
+2017-09-23,1718,DNK,FC Copenhagen,Silkeborg,4,0
+2017-09-23,1718,DNK,Horsens,Helsingor,2,0
+2017-09-24,1718,DNK,Aalborg,Lyngby,3,1
+2017-09-24,1718,DNK,Hobro,Brondby,1,2
+2017-09-24,1718,DNK,Odense,Randers FC,3,1
+2017-09-25,1718,DNK,Aarhus,Midtjylland,0,3
+2017-09-29,1718,DNK,Helsingor,Aarhus,1,5
+2017-09-29,1718,DNK,Randers FC,Horsens,0,1
+2017-09-30,1718,DNK,Hobro,Odense,1,1
+2017-10-01,1718,DNK,Brondby,Sonderjyske,4,0
+2017-10-01,1718,DNK,Lyngby,FC Copenhagen,3,1
+2017-10-01,1718,DNK,Midtjylland,Aalborg,4,1
+2017-10-01,1718,DNK,Silkeborg,Nordsjaelland,2,4
+2017-10-13,1718,DNK,Sonderjyske,Midtjylland,0,1
+2017-10-14,1718,DNK,Nordsjaelland,Randers FC,3,2
+2017-10-15,1718,DNK,Aalborg,Helsingor,1,0
+2017-10-15,1718,DNK,Brondby,Silkeborg,4,1
+2017-10-15,1718,DNK,Horsens,Hobro,2,2
+2017-10-15,1718,DNK,Odense,FC Copenhagen,1,0
+2017-10-16,1718,DNK,Aarhus,Lyngby,0,2
+2017-10-20,1718,DNK,Midtjylland,Horsens,4,2
+2017-10-21,1718,DNK,Silkeborg,Sonderjyske,1,0
+2017-10-22,1718,DNK,FC Copenhagen,Aarhus,4,0
+2017-10-22,1718,DNK,Helsingor,Brondby,0,1
+2017-10-22,1718,DNK,Hobro,Nordsjaelland,4,0
+2017-10-22,1718,DNK,Lyngby,Odense,1,1
+2017-10-23,1718,DNK,Randers FC,Aalborg,1,1
+2017-10-27,1718,DNK,Aarhus,Nordsjaelland,1,4
+2017-10-28,1718,DNK,Helsingor,Silkeborg,2,0
+2017-10-29,1718,DNK,Aalborg,Odense,0,2
+2017-10-29,1718,DNK,Horsens,FC Copenhagen,1,1
+2017-10-29,1718,DNK,Lyngby,Midtjylland,2,2
+2017-10-29,1718,DNK,Sonderjyske,Hobro,1,1
+2017-10-30,1718,DNK,Brondby,Randers FC,3,1
+2017-11-03,1718,DNK,Midtjylland,Helsingor,2,1
+2017-11-03,1718,DNK,Silkeborg,Horsens,2,2
+2017-11-04,1718,DNK,Nordsjaelland,Lyngby,2,2
+2017-11-05,1718,DNK,FC Copenhagen,Brondby,0,1
+2017-11-05,1718,DNK,Hobro,Aalborg,0,1
+2017-11-05,1718,DNK,Odense,Sonderjyske,0,3
+2017-11-05,1718,DNK,Randers FC,Aarhus,1,0
+2017-11-17,1718,DNK,Helsingor,Hobro,0,1
+2017-11-18,1718,DNK,Aarhus,Silkeborg,3,1
+2017-11-19,1718,DNK,Brondby,Nordsjaelland,4,2
+2017-11-19,1718,DNK,Horsens,Odense,0,0
+2017-11-19,1718,DNK,Lyngby,Randers FC,1,3
+2017-11-19,1718,DNK,Sonderjyske,FC Copenhagen,3,0
+2017-11-20,1718,DNK,Aalborg,Midtjylland,0,1
+2017-11-24,1718,DNK,Randers FC,Sonderjyske,0,2
+2017-11-25,1718,DNK,Helsingor,Aalborg,0,1
+2017-11-26,1718,DNK,FC Copenhagen,Lyngby,5,1
+2017-11-26,1718,DNK,Nordsjaelland,Horsens,6,0
+2017-11-26,1718,DNK,Odense,Hobro,3,0
+2017-11-26,1718,DNK,Silkeborg,Brondby,1,3
+2017-11-27,1718,DNK,Midtjylland,Aarhus,4,0
+2017-12-01,1718,DNK,Aarhus,Helsingor,0,0
+2017-12-02,1718,DNK,Lyngby,Aalborg,1,2
+2017-12-03,1718,DNK,FC Copenhagen,Nordsjaelland,1,3
+2017-12-03,1718,DNK,Hobro,Horsens,1,1
+2017-12-03,1718,DNK,Silkeborg,Randers FC,3,2
+2017-12-03,1718,DNK,Sonderjyske,Brondby,1,3
+2017-12-04,1718,DNK,Midtjylland,Odense,3,1
+2017-12-08,1718,DNK,Horsens,Sonderjyske,2,1
+2017-12-09,1718,DNK,Helsingor,Lyngby,2,1
+2017-12-10,1718,DNK,Aalborg,FC Copenhagen,1,1
+2017-12-10,1718,DNK,Brondby,Aarhus,2,2
+2017-12-10,1718,DNK,Nordsjaelland,Hobro,3,2
+2017-12-10,1718,DNK,Odense,Silkeborg,1,2
+2017-12-11,1718,DNK,Randers FC,Midtjylland,0,4
+2018-02-09,1718,DNK,Horsens,Midtjylland,0,2
+2018-02-10,1718,DNK,FC Copenhagen,Randers FC,5,1
+2018-02-10,1718,DNK,Silkeborg,Aalborg,3,2
+2018-02-11,1718,DNK,Lyngby,Brondby,1,3
+2018-02-11,1718,DNK,Odense,Helsingor,6,1
+2018-02-11,1718,DNK,Sonderjyske,Nordsjaelland,2,1
+2018-02-12,1718,DNK,Hobro,Aarhus,0,1
+2018-02-16,1718,DNK,Nordsjaelland,Odense,2,1
+2018-02-17,1718,DNK,Silkeborg,Lyngby,1,1
+2018-02-18,1718,DNK,Aalborg,Brondby,1,1
+2018-02-18,1718,DNK,Helsingor,Horsens,0,2
+2018-02-18,1718,DNK,Midtjylland,FC Copenhagen,3,1
+2018-02-18,1718,DNK,Randers FC,Hobro,0,0
+2018-02-19,1718,DNK,Aarhus,Sonderjyske,0,0
+2018-02-23,1718,DNK,Horsens,Randers FC,1,1
+2018-02-24,1718,DNK,Lyngby,Aarhus,0,0
+2018-02-25,1718,DNK,Aalborg,Nordsjaelland,1,1
+2018-02-25,1718,DNK,Brondby,Helsingor,6,1
+2018-02-25,1718,DNK,FC Copenhagen,Odense,1,0
+2018-02-25,1718,DNK,Hobro,Midtjylland,1,2
+2018-02-26,1718,DNK,Sonderjyske,Silkeborg,0,1
+2018-02-27,1718,DNK,Horsens,Aarhus,1,1
+2018-02-28,1718,DNK,Hobro,FC Copenhagen,0,2
+2018-02-28,1718,DNK,Odense,Lyngby,3,1
+2018-02-28,1718,DNK,Randers FC,Helsingor,0,0
+2018-03-01,1718,DNK,Midtjylland,Brondby,0,1
+2018-03-01,1718,DNK,Nordsjaelland,Silkeborg,3,1
+2018-03-01,1718,DNK,Sonderjyske,Aalborg,0,1
+2018-03-03,1718,DNK,Lyngby,Hobro,0,3
+2018-03-04,1718,DNK,Aarhus,FC Copenhagen,0,1
+2018-03-04,1718,DNK,Brondby,Odense,2,1
+2018-03-04,1718,DNK,Helsingor,Sonderjyske,1,2
+2018-03-04,1718,DNK,Randers FC,Nordsjaelland,0,3
+2018-03-05,1718,DNK,Aalborg,Horsens,1,1
+2018-03-05,1718,DNK,Silkeborg,Midtjylland,1,2
+2018-03-09,1718,DNK,Odense,Aarhus,0,1
+2018-03-10,1718,DNK,Hobro,Silkeborg,1,1
+2018-03-11,1718,DNK,Aalborg,Randers FC,4,0
+2018-03-11,1718,DNK,Horsens,Brondby,1,1
+2018-03-11,1718,DNK,Nordsjaelland,Midtjylland,1,1
+2018-03-11,1718,DNK,Sonderjyske,Lyngby,1,0
+2018-03-12,1718,DNK,FC Copenhagen,Helsingor,4,3
+2018-03-18,1718,DNK,Aarhus,Aalborg,0,0
+2018-03-18,1718,DNK,Brondby,Hobro,2,1
+2018-03-18,1718,DNK,Helsingor,Nordsjaelland,1,0
+2018-03-18,1718,DNK,Lyngby,Horsens,1,1
+2018-03-18,1718,DNK,Midtjylland,Sonderjyske,2,1
+2018-03-18,1718,DNK,Randers FC,Odense,4,1
+2018-03-18,1718,DNK,Silkeborg,FC Copenhagen,1,3
+2018-03-31,1718,DNK,Silkeborg,Helsingor,2,3
+2018-04-01,1718,DNK,Hobro,Aarhus,1,3
+2018-04-01,1718,DNK,Randers FC,Lyngby,2,0
+2018-04-02,1718,DNK,Aalborg,Brondby,0,3
+2018-04-02,1718,DNK,FC Copenhagen,Nordsjaelland,2,1
+2018-04-02,1718,DNK,Odense,Sonderjyske,2,1
+2018-04-03,1718,DNK,Horsens,Midtjylland,0,1
+2018-04-06,1718,DNK,Nordsjaelland,Aalborg,3,1
+2018-04-07,1718,DNK,Lyngby,Odense,2,2
+2018-04-08,1718,DNK,Aarhus,Silkeborg,2,1
+2018-04-08,1718,DNK,Brondby,Horsens,5,1
+2018-04-08,1718,DNK,Helsingor,Hobro,0,1
+2018-04-08,1718,DNK,Sonderjyske,Randers FC,1,0
+2018-04-09,1718,DNK,Midtjylland,FC Copenhagen,3,2
+2018-04-13,1718,DNK,Aarhus,Helsingor,2,1
+2018-04-14,1718,DNK,Sonderjyske,Lyngby,1,0
+2018-04-15,1718,DNK,Aalborg,Horsens,2,0
+2018-04-15,1718,DNK,Brondby,FC Copenhagen,2,1
+2018-04-15,1718,DNK,Nordsjaelland,Midtjylland,1,2
+2018-04-15,1718,DNK,Odense,Randers FC,3,0
+2018-04-16,1718,DNK,Hobro,Silkeborg,1,0
+2018-04-17,1718,DNK,Helsingor,Aarhus,1,0
+2018-04-18,1718,DNK,FC Copenhagen,Aalborg,2,1
+2018-04-18,1718,DNK,Horsens,Nordsjaelland,2,2
+2018-04-18,1718,DNK,Randers FC,Odense,1,1
+2018-04-19,1718,DNK,Lyngby,Sonderjyske,1,1
+2018-04-19,1718,DNK,Midtjylland,Brondby,2,3
+2018-04-19,1718,DNK,Silkeborg,Hobro,2,0
+2018-04-21,1718,DNK,FC Copenhagen,Horsens,4,1
+2018-04-22,1718,DNK,Aalborg,Midtjylland,3,3
+2018-04-22,1718,DNK,Helsingor,Silkeborg,0,0
+2018-04-22,1718,DNK,Nordsjaelland,Brondby,3,4
+2018-04-22,1718,DNK,Odense,Lyngby,3,0
+2018-04-22,1718,DNK,Randers FC,Sonderjyske,3,0
+2018-04-23,1718,DNK,Aarhus,Hobro,0,1
+2018-04-27,1718,DNK,Horsens,FC Copenhagen,2,3
+2018-04-29,1718,DNK,Brondby,Nordsjaelland,3,1
+2018-04-29,1718,DNK,Lyngby,Randers FC,1,3
+2018-04-29,1718,DNK,Midtjylland,Aalborg,3,0
+2018-04-29,1718,DNK,Sonderjyske,Odense,2,0
+2018-04-30,1718,DNK,Hobro,Helsingor,4,1
+2018-04-30,1718,DNK,Silkeborg,Aarhus,2,5
+2018-05-04,1718,DNK,Horsens,Aalborg,2,1
+2018-05-06,1718,DNK,Aarhus,Odense,3,2
+2018-05-06,1718,DNK,FC Copenhagen,Brondby,1,1
+2018-05-06,1718,DNK,Helsingor,Randers FC,1,1
+2018-05-06,1718,DNK,Lyngby,Silkeborg,2,1
+2018-05-06,1718,DNK,Sonderjyske,Hobro,1,0
+2018-05-07,1718,DNK,Midtjylland,Nordsjaelland,2,1
+2018-05-11,1718,DNK,Nordsjaelland,Horsens,2,1
+2018-05-13,1718,DNK,Aalborg,FC Copenhagen,1,0
+2018-05-13,1718,DNK,Hobro,Sonderjyske,3,2
+2018-05-13,1718,DNK,Odense,Aarhus,2,3
+2018-05-13,1718,DNK,Randers FC,Helsingor,2,1
+2018-05-13,1718,DNK,Silkeborg,Lyngby,2,2
+2018-05-14,1718,DNK,Brondby,Midtjylland,0,1
+2018-05-17,1718,DNK,Helsingor,Silkeborg,1,1
+2018-05-17,1718,DNK,Lyngby,Randers FC,1,2
+2018-05-18,1718,DNK,Aalborg,Nordsjaelland,0,0
+2018-05-18,1718,DNK,FC Copenhagen,Midtjylland,0,2
+2018-05-18,1718,DNK,Horsens,Brondby,2,2
+2018-05-19,1718,DNK,Aarhus,Sonderjyske,2,2
+2018-05-21,1718,DNK,Brondby,Aalborg,1,1
+2018-05-21,1718,DNK,Midtjylland,Horsens,1,0
+2018-05-21,1718,DNK,Nordsjaelland,FC Copenhagen,0,0
+2018-05-21,1718,DNK,Randers FC,Lyngby,2,1
+2018-05-21,1718,DNK,Silkeborg,Helsingor,4,3
+2018-05-22,1718,DNK,Sonderjyske,Aarhus,0,2
+2018-05-24,1718,DNK,Silkeborg,Esbjerg,1,0
+2018-05-24,1718,DNK,Vendsyssel,Lyngby,1,0
+2018-05-25,1718,DNK,FC Copenhagen,Aarhus,4,1
+2018-05-27,1718,DNK,Esbjerg,Silkeborg,3,0
+2018-05-27,1718,DNK,Lyngby,Vendsyssel,1,2
+2018-07-13,1819,DNK,Sonderjyske,Aalborg,0,1
+2018-07-13,1819,DNK,Vejle,Hobro,3,1
+2018-07-14,1819,DNK,Midtjylland,Aarhus,0,0
+2018-07-15,1819,DNK,Nordsjaelland,Esbjerg,1,1
+2018-07-15,1819,DNK,Vendsyssel,Odense,3,2
+2018-07-16,1819,DNK,FC Copenhagen,Horsens,1,2
+2018-07-16,1819,DNK,Randers FC,Brondby,0,2
+2018-07-20,1819,DNK,Aalborg,Midtjylland,2,1
+2018-07-21,1819,DNK,Esbjerg,Vendsyssel,2,3
+2018-07-22,1819,DNK,Aarhus,Nordsjaelland,1,1
+2018-07-22,1819,DNK,Brondby,Vejle,1,1
+2018-07-22,1819,DNK,Horsens,Randers FC,1,1
+2018-07-22,1819,DNK,Odense,Sonderjyske,2,2
+2018-07-23,1819,DNK,Hobro,FC Copenhagen,0,3
+2018-07-27,1819,DNK,Sonderjyske,Horsens,2,0
+2018-07-28,1819,DNK,Midtjylland,Esbjerg,3,1
+2018-07-29,1819,DNK,FC Copenhagen,Aalborg,4,0
+2018-07-29,1819,DNK,Hobro,Brondby,1,2
+2018-07-29,1819,DNK,Nordsjaelland,Vendsyssel,3,0
+2018-07-29,1819,DNK,Randers FC,Odense,1,0
+2018-07-30,1819,DNK,Vejle,Aarhus,1,1
+2018-08-03,1819,DNK,Aarhus,Sonderjyske,1,0
+2018-08-04,1819,DNK,Esbjerg,Randers FC,3,3
+2018-08-04,1819,DNK,Vejle,Midtjylland,1,3
+2018-08-05,1819,DNK,Brondby,Nordsjaelland,2,0
+2018-08-05,1819,DNK,Horsens,Hobro,2,2
+2018-08-05,1819,DNK,Odense,FC Copenhagen,0,1
+2018-08-06,1819,DNK,Vendsyssel,Aalborg,0,1
+2018-08-10,1819,DNK,Vendsyssel,Vejle,1,1
+2018-08-11,1819,DNK,Hobro,Odense,3,2
+2018-08-12,1819,DNK,Aalborg,Nordsjaelland,1,0
+2018-08-12,1819,DNK,FC Copenhagen,Brondby,3,1
+2018-08-12,1819,DNK,Midtjylland,Horsens,3,0
+2018-08-12,1819,DNK,Randers FC,Aarhus,0,0
+2018-08-13,1819,DNK,Esbjerg,Sonderjyske,1,0
+2018-08-17,1819,DNK,Sonderjyske,Vendsyssel,2,1
+2018-08-19,1819,DNK,Aarhus,FC Copenhagen,1,1
+2018-08-19,1819,DNK,Brondby,Esbjerg,0,1
+2018-08-19,1819,DNK,Nordsjaelland,Vejle,2,0
+2018-08-19,1819,DNK,Odense,Midtjylland,1,1
+2018-08-19,1819,DNK,Randers FC,Hobro,3,0
+2018-08-20,1819,DNK,Horsens,Aalborg,0,0
+2018-08-24,1819,DNK,Hobro,Aarhus,0,2
+2018-08-26,1819,DNK,FC Copenhagen,Sonderjyske,3,2
+2018-08-26,1819,DNK,Midtjylland,Randers FC,3,0
+2018-08-26,1819,DNK,Nordsjaelland,Horsens,0,1
+2018-08-26,1819,DNK,Vejle,Odense,0,2
+2018-08-26,1819,DNK,Vendsyssel,Brondby,1,2
+2018-08-27,1819,DNK,Aalborg,Esbjerg,0,1
+2018-08-31,1819,DNK,Horsens,Vejle,0,0
+2018-09-01,1819,DNK,Sonderjyske,Hobro,1,1
+2018-09-02,1819,DNK,Aarhus,Vendsyssel,1,1
+2018-09-02,1819,DNK,Brondby,Midtjylland,2,2
+2018-09-02,1819,DNK,Esbjerg,FC Copenhagen,0,2
+2018-09-02,1819,DNK,Odense,Nordsjaelland,0,0
+2018-09-02,1819,DNK,Randers FC,Aalborg,2,2
+2018-09-14,1819,DNK,Esbjerg,Odense,2,0
+2018-09-15,1819,DNK,Nordsjaelland,Randers FC,4,1
+2018-09-16,1819,DNK,Brondby,Sonderjyske,2,4
+2018-09-16,1819,DNK,Horsens,Aarhus,3,2
+2018-09-16,1819,DNK,Midtjylland,FC Copenhagen,3,1
+2018-09-16,1819,DNK,Vendsyssel,Hobro,1,1
+2018-09-17,1819,DNK,Aalborg,Vejle,1,1
+2018-09-21,1819,DNK,Vejle,Esbjerg,1,0
+2018-09-22,1819,DNK,Randers FC,Vendsyssel,2,0
+2018-09-23,1819,DNK,Aarhus,Brondby,3,2
+2018-09-23,1819,DNK,FC Copenhagen,Nordsjaelland,2,1
+2018-09-23,1819,DNK,Hobro,Aalborg,0,5
+2018-09-23,1819,DNK,Sonderjyske,Midtjylland,0,0
+2018-09-24,1819,DNK,Odense,Horsens,4,0
+2018-09-28,1819,DNK,Vejle,Randers FC,1,1
+2018-09-29,1819,DNK,Midtjylland,Hobro,5,2
+2018-09-30,1819,DNK,Aalborg,Odense,0,1
+2018-09-30,1819,DNK,Brondby,Horsens,1,2
+2018-09-30,1819,DNK,Esbjerg,Aarhus,0,0
+2018-09-30,1819,DNK,Vendsyssel,FC Copenhagen,2,1
+2018-10-01,1819,DNK,Nordsjaelland,Sonderjyske,4,1
+2018-10-05,1819,DNK,Sonderjyske,Vejle,3,0
+2018-10-06,1819,DNK,Odense,Aarhus,2,2
+2018-10-07,1819,DNK,Aalborg,Brondby,1,3
+2018-10-07,1819,DNK,FC Copenhagen,Randers FC,4,0
+2018-10-07,1819,DNK,Hobro,Nordsjaelland,3,2
+2018-10-07,1819,DNK,Horsens,Esbjerg,1,2
+2018-10-07,1819,DNK,Midtjylland,Vendsyssel,3,0
+2018-10-19,1819,DNK,Esbjerg,Hobro,2,0
+2018-10-20,1819,DNK,Nordsjaelland,Midtjylland,1,4
+2018-10-21,1819,DNK,Aarhus,Aalborg,2,2
+2018-10-21,1819,DNK,Randers FC,Sonderjyske,1,1
+2018-10-21,1819,DNK,Vejle,FC Copenhagen,1,3
+2018-10-21,1819,DNK,Vendsyssel,Horsens,0,1
+2018-10-22,1819,DNK,Brondby,Odense,1,1
+2018-10-26,1819,DNK,Sonderjyske,Odense,0,0
+2018-10-27,1819,DNK,Horsens,Nordsjaelland,3,3
+2018-10-28,1819,DNK,Aalborg,Vendsyssel,0,1
+2018-10-28,1819,DNK,FC Copenhagen,Aarhus,4,2
+2018-10-28,1819,DNK,Hobro,Vejle,1,0
+2018-10-28,1819,DNK,Randers FC,Esbjerg,0,2
+2018-10-29,1819,DNK,Midtjylland,Brondby,3,2
+2018-11-02,1819,DNK,Odense,Hobro,1,0
+2018-11-02,1819,DNK,Vendsyssel,Sonderjyske,2,3
+2018-11-04,1819,DNK,Aarhus,Randers FC,0,2
+2018-11-04,1819,DNK,Brondby,FC Copenhagen,0,1
+2018-11-04,1819,DNK,Esbjerg,Midtjylland,2,2
+2018-11-04,1819,DNK,Nordsjaelland,Aalborg,1,1
+2018-11-05,1819,DNK,Vejle,Horsens,3,1
+2018-11-09,1819,DNK,Brondby,Aarhus,2,0
+2018-11-10,1819,DNK,Horsens,Sonderjyske,1,1
+2018-11-11,1819,DNK,Aalborg,FC Copenhagen,1,1
+2018-11-11,1819,DNK,Hobro,Vendsyssel,1,0
+2018-11-11,1819,DNK,Midtjylland,Vejle,5,0
+2018-11-11,1819,DNK,Odense,Esbjerg,2,1
+2018-11-11,1819,DNK,Randers FC,Nordsjaelland,1,1
+2018-11-23,1819,DNK,Vejle,Aalborg,1,1
+2018-11-24,1819,DNK,Hobro,Randers FC,0,1
+2018-11-25,1819,DNK,FC Copenhagen,Midtjylland,2,1
+2018-11-25,1819,DNK,Nordsjaelland,Odense,1,3
+2018-11-25,1819,DNK,Sonderjyske,Brondby,0,2
+2018-11-25,1819,DNK,Vendsyssel,Esbjerg,1,1
+2018-11-26,1819,DNK,Aarhus,Horsens,1,2
+2018-11-30,1819,DNK,Esbjerg,Aalborg,1,4
+2018-12-01,1819,DNK,Odense,Vendsyssel,2,0
+2018-12-02,1819,DNK,Brondby,Hobro,1,0
+2018-12-02,1819,DNK,Horsens,FC Copenhagen,1,6
+2018-12-02,1819,DNK,Randers FC,Midtjylland,1,2
+2018-12-02,1819,DNK,Sonderjyske,Nordsjaelland,1,2
+2018-12-03,1819,DNK,Aarhus,Vejle,2,1
+2018-12-07,1819,DNK,Midtjylland,Odense,3,0
+2018-12-08,1819,DNK,Hobro,Sonderjyske,0,0
+2018-12-09,1819,DNK,Aalborg,Horsens,2,4
+2018-12-09,1819,DNK,FC Copenhagen,Esbjerg,3,0
+2018-12-09,1819,DNK,Vejle,Brondby,1,2
+2018-12-09,1819,DNK,Vendsyssel,Randers FC,0,1
+2018-12-10,1819,DNK,Nordsjaelland,Aarhus,1,0
+2018-12-14,1819,DNK,Odense,Aalborg,1,2
+2018-12-15,1819,DNK,Randers FC,Vejle,2,0
+2018-12-16,1819,DNK,Brondby,Vendsyssel,2,3
+2018-12-16,1819,DNK,Esbjerg,Nordsjaelland,3,0
+2018-12-16,1819,DNK,Horsens,Midtjylland,1,3
+2018-12-16,1819,DNK,Sonderjyske,FC Copenhagen,0,3
+2018-12-17,1819,DNK,Aarhus,Hobro,1,0
+2019-02-08,1819,DNK,Aarhus,Esbjerg,2,0
+2019-02-09,1819,DNK,Vejle,Sonderjyske,2,0
+2019-02-10,1819,DNK,Aalborg,Randers FC,0,3
+2019-02-10,1819,DNK,FC Copenhagen,Odense,6,1
+2019-02-10,1819,DNK,Hobro,Horsens,0,0
+2019-02-10,1819,DNK,Nordsjaelland,Brondby,3,3
+2019-02-11,1819,DNK,Vendsyssel,Midtjylland,0,1
+2019-02-15,1819,DNK,Sonderjyske,Aarhus,0,2
+2019-02-16,1819,DNK,Nordsjaelland,Hobro,2,1
+2019-02-17,1819,DNK,Esbjerg,Brondby,2,1
+2019-02-17,1819,DNK,Horsens,Vendsyssel,3,0
+2019-02-17,1819,DNK,Odense,Vejle,1,0
+2019-02-17,1819,DNK,Randers FC,FC Copenhagen,0,2
+2019-02-18,1819,DNK,Midtjylland,Aalborg,2,1
+2019-02-22,1819,DNK,Aalborg,Sonderjyske,3,0
+2019-02-23,1819,DNK,Vejle,Nordsjaelland,1,3
+2019-02-24,1819,DNK,Aarhus,Midtjylland,1,2
+2019-02-24,1819,DNK,Brondby,Randers FC,2,1
+2019-02-24,1819,DNK,Hobro,Esbjerg,2,0
+2019-02-24,1819,DNK,Horsens,Odense,1,2
+2019-02-25,1819,DNK,FC Copenhagen,Vendsyssel,1,1
+2019-03-01,1819,DNK,Aalborg,Hobro,1,1
+2019-03-02,1819,DNK,Esbjerg,Horsens,1,0
+2019-03-03,1819,DNK,FC Copenhagen,Vejle,2,0
+2019-03-03,1819,DNK,Odense,Brondby,2,0
+2019-03-03,1819,DNK,Sonderjyske,Randers FC,3,0
+2019-03-03,1819,DNK,Vendsyssel,Aarhus,2,2
+2019-03-04,1819,DNK,Midtjylland,Nordsjaelland,3,3
+2019-03-08,1819,DNK,Hobro,Midtjylland,1,2
+2019-03-09,1819,DNK,Vejle,Vendsyssel,1,1
+2019-03-10,1819,DNK,Brondby,Aalborg,3,3
+2019-03-10,1819,DNK,Nordsjaelland,FC Copenhagen,2,2
+2019-03-10,1819,DNK,Randers FC,Horsens,2,0
+2019-03-10,1819,DNK,Sonderjyske,Esbjerg,3,1
+2019-03-11,1819,DNK,Aarhus,Odense,1,2
+2019-03-17,1819,DNK,Aalborg,Aarhus,3,1
+2019-03-17,1819,DNK,Esbjerg,Vejle,2,1
+2019-03-17,1819,DNK,FC Copenhagen,Hobro,3,1
+2019-03-17,1819,DNK,Horsens,Brondby,1,3
+2019-03-17,1819,DNK,Midtjylland,Sonderjyske,2,1
+2019-03-17,1819,DNK,Odense,Randers FC,1,0
+2019-03-17,1819,DNK,Vendsyssel,Nordsjaelland,0,1
+2019-03-29,1819,DNK,Brondby,Odense,2,2
+2019-03-30,1819,DNK,Midtjylland,Nordsjaelland,0,0
+2019-03-31,1819,DNK,Aalborg,Randers FC,1,2
+2019-03-31,1819,DNK,FC Copenhagen,Esbjerg,1,0
+2019-03-31,1819,DNK,Sonderjyske,Horsens,0,0
+2019-03-31,1819,DNK,Vendsyssel,Hobro,3,3
+2019-04-01,1819,DNK,Aarhus,Vejle,2,2
+2019-04-05,1819,DNK,Horsens,Aarhus,0,3
+2019-04-06,1819,DNK,Randers FC,Vendsyssel,1,1
+2019-04-07,1819,DNK,Esbjerg,Midtjylland,2,2
+2019-04-07,1819,DNK,Hobro,Aalborg,1,1
+2019-04-07,1819,DNK,Odense,FC Copenhagen,0,1
+2019-04-07,1819,DNK,Vejle,Sonderjyske,4,1
+2019-04-08,1819,DNK,Nordsjaelland,Brondby,1,1
+2019-04-12,1819,DNK,Vejle,Horsens,3,0
+2019-04-13,1819,DNK,Vendsyssel,Aalborg,1,0
+2019-04-14,1819,DNK,Brondby,FC Copenhagen,1,2
+2019-04-14,1819,DNK,Hobro,Randers FC,1,2
+2019-04-14,1819,DNK,Midtjylland,Odense,2,0
+2019-04-14,1819,DNK,Nordsjaelland,Esbjerg,1,2
+2019-04-15,1819,DNK,Sonderjyske,Aarhus,0,1
+2019-04-17,1819,DNK,Aalborg,Vendsyssel,1,1
+2019-04-18,1819,DNK,Aarhus,Sonderjyske,2,1
+2019-04-18,1819,DNK,Esbjerg,Brondby,1,0
+2019-04-18,1819,DNK,FC Copenhagen,Midtjylland,3,0
+2019-04-18,1819,DNK,Horsens,Vejle,0,0
+2019-04-19,1819,DNK,Odense,Nordsjaelland,2,2
+2019-04-19,1819,DNK,Randers FC,Hobro,1,0
+2019-04-21,1819,DNK,Horsens,Sonderjyske,0,1
+2019-04-21,1819,DNK,Vejle,Aarhus,2,4
+2019-04-22,1819,DNK,Hobro,Vendsyssel,3,2
+2019-04-22,1819,DNK,Midtjylland,Brondby,1,2
+2019-04-22,1819,DNK,Nordsjaelland,FC Copenhagen,0,3
+2019-04-22,1819,DNK,Randers FC,Aalborg,0,2
+2019-04-23,1819,DNK,Esbjerg,Odense,0,0
+2019-04-26,1819,DNK,Aalborg,Hobro,1,1
+2019-04-26,1819,DNK,Vendsyssel,Randers FC,0,0
+2019-04-28,1819,DNK,Aarhus,Horsens,3,1
+2019-04-28,1819,DNK,Brondby,Esbjerg,0,1
+2019-04-28,1819,DNK,FC Copenhagen,Odense,4,0
+2019-04-28,1819,DNK,Sonderjyske,Vejle,4,1
+2019-04-29,1819,DNK,Nordsjaelland,Midtjylland,1,2
+2019-05-05,1819,DNK,Aalborg,Aarhus,0,1
+2019-05-05,1819,DNK,FC Copenhagen,Brondby,3,2
+2019-05-05,1819,DNK,Odense,Midtjylland,3,1
+2019-05-05,1819,DNK,Sonderjyske,Randers FC,1,1
+2019-05-06,1819,DNK,Esbjerg,Nordsjaelland,0,0
+2019-05-10,1819,DNK,Odense,Esbjerg,4,1
+2019-05-12,1819,DNK,Aarhus,Aalborg,2,0
+2019-05-12,1819,DNK,Hobro,Vejle,0,1
+2019-05-12,1819,DNK,Midtjylland,FC Copenhagen,4,0
+2019-05-12,1819,DNK,Randers FC,Sonderjyske,4,3
+2019-05-12,1819,DNK,Vendsyssel,Horsens,0,1
+2019-05-13,1819,DNK,Brondby,Nordsjaelland,2,0
+2019-05-18,1819,DNK,Randers FC,Aarhus,2,1
+2019-05-19,1819,DNK,Esbjerg,FC Copenhagen,4,3
+2019-05-19,1819,DNK,Horsens,Vendsyssel,1,1
+2019-05-19,1819,DNK,Nordsjaelland,Odense,2,2
+2019-05-19,1819,DNK,Vejle,Hobro,0,2
+2019-05-20,1819,DNK,Brondby,Midtjylland,4,1
+2019-05-25,1819,DNK,FC Copenhagen,Nordsjaelland,1,3
+2019-05-25,1819,DNK,Midtjylland,Esbjerg,1,2
+2019-05-25,1819,DNK,Odense,Brondby,0,2
+2019-05-26,1819,DNK,Aarhus,Randers FC,1,1
+2019-05-30,1819,DNK,Hobro,Viborg,1,0
+2019-05-30,1819,DNK,Lyngby,Vendsyssel,2,1
+2019-05-31,1819,DNK,Brondby,Randers FC,4,2
+2019-06-02,1819,DNK,Vendsyssel,Lyngby,2,2
+2019-06-02,1819,DNK,Viborg,Hobro,0,2
+2019-07-12,1920,DNK,Midtjylland,Esbjerg,1,0
+2019-07-14,1920,DNK,Brondby,Silkeborg,3,0
+2019-07-14,1920,DNK,Horsens,Nordsjaelland,0,3
+2019-07-14,1920,DNK,Lyngby,Aalborg,2,0
+2019-07-14,1920,DNK,Odense,FC Copenhagen,2,3
+2019-07-14,1920,DNK,Sonderjyske,Randers FC,2,1
+2019-07-15,1920,DNK,Hobro,Aarhus,1,1
+2019-07-19,1920,DNK,FC Copenhagen,Aarhus,2,1
+2019-07-21,1920,DNK,Aalborg,Sonderjyske,1,1
+2019-07-21,1920,DNK,Esbjerg,Hobro,1,1
+2019-07-21,1920,DNK,Midtjylland,Nordsjaelland,2,1
+2019-07-21,1920,DNK,Randers FC,Brondby,2,2
+2019-07-21,1920,DNK,Silkeborg,Horsens,0,3
+2019-07-22,1920,DNK,Odense,Lyngby,4,1
+2019-07-26,1920,DNK,Lyngby,Sonderjyske,0,3
+2019-07-27,1920,DNK,Horsens,FC Copenhagen,0,2
+2019-07-28,1920,DNK,Aarhus,Midtjylland,0,1
+2019-07-28,1920,DNK,Brondby,Odense,3,2
+2019-07-28,1920,DNK,Hobro,Randers FC,2,2
+2019-07-28,1920,DNK,Nordsjaelland,Esbjerg,2,0
+2019-07-29,1920,DNK,Aalborg,Silkeborg,3,1
+2019-08-02,1920,DNK,Silkeborg,Hobro,2,3
+2019-08-03,1920,DNK,Sonderjyske,FC Copenhagen,1,2
+2019-08-04,1920,DNK,Brondby,Horsens,1,2
+2019-08-04,1920,DNK,Esbjerg,Odense,0,1
+2019-08-04,1920,DNK,Midtjylland,Aalborg,1,0
+2019-08-04,1920,DNK,Randers FC,Nordsjaelland,3,1
+2019-08-05,1920,DNK,Lyngby,Aarhus,2,1
+2019-08-09,1920,DNK,FC Copenhagen,Lyngby,2,0
+2019-08-09,1920,DNK,Odense,Randers FC,1,0
+2019-08-11,1920,DNK,Aalborg,Esbjerg,4,0
+2019-08-11,1920,DNK,Hobro,Brondby,0,2
+2019-08-11,1920,DNK,Horsens,Midtjylland,0,2
+2019-08-11,1920,DNK,Nordsjaelland,Silkeborg,2,2
+2019-08-12,1920,DNK,Sonderjyske,Aarhus,0,0
+2019-08-16,1920,DNK,Nordsjaelland,Odense,2,0
+2019-08-16,1920,DNK,Randers FC,FC Copenhagen,0,1
+2019-08-18,1920,DNK,Brondby,Aalborg,2,1
+2019-08-18,1920,DNK,Esbjerg,Lyngby,1,0
+2019-08-18,1920,DNK,Midtjylland,Hobro,1,1
+2019-08-18,1920,DNK,Silkeborg,Sonderjyske,3,3
+2019-08-19,1920,DNK,Aarhus,Horsens,2,0
+2019-08-23,1920,DNK,Hobro,Odense,0,0
+2019-08-25,1920,DNK,Brondby,Aarhus,0,3
+2019-08-25,1920,DNK,Esbjerg,Silkeborg,2,2
+2019-08-25,1920,DNK,FC Copenhagen,Nordsjaelland,3,1
+2019-08-25,1920,DNK,Lyngby,Randers FC,2,0
+2019-08-25,1920,DNK,Sonderjyske,Midtjylland,0,2
+2019-08-26,1920,DNK,Horsens,Aalborg,0,5
+2019-08-30,1920,DNK,Odense,Sonderjyske,0,0
+2019-08-31,1920,DNK,Nordsjaelland,Hobro,2,1
+2019-09-01,1920,DNK,Aalborg,FC Copenhagen,1,0
+2019-09-01,1920,DNK,Aarhus,Esbjerg,1,0
+2019-09-01,1920,DNK,Horsens,Lyngby,2,1
+2019-09-01,1920,DNK,Midtjylland,Brondby,1,0
+2019-09-01,1920,DNK,Randers FC,Silkeborg,2,0
+2019-09-13,1920,DNK,Sonderjyske,Horsens,0,0
+2019-09-15,1920,DNK,Aarhus,Aalborg,3,0
+2019-09-15,1920,DNK,Brondby,Nordsjaelland,4,2
+2019-09-15,1920,DNK,Esbjerg,Randers FC,0,3
+2019-09-15,1920,DNK,Hobro,FC Copenhagen,2,1
+2019-09-15,1920,DNK,Lyngby,Midtjylland,0,3
+2019-09-16,1920,DNK,Silkeborg,Odense,0,3
+2019-09-20,1920,DNK,Odense,Aarhus,1,2
+2019-09-22,1920,DNK,Esbjerg,Brondby,3,1
+2019-09-22,1920,DNK,FC Copenhagen,Midtjylland,0,0
+2019-09-22,1920,DNK,Hobro,Sonderjyske,1,1
+2019-09-22,1920,DNK,Nordsjaelland,Aalborg,2,1
+2019-09-22,1920,DNK,Silkeborg,Lyngby,2,3
+2019-09-23,1920,DNK,Randers FC,Horsens,2,1
+2019-09-27,1920,DNK,Lyngby,Hobro,2,1
+2019-09-28,1920,DNK,FC Copenhagen,Silkeborg,4,2
+2019-09-29,1920,DNK,Aalborg,Randers FC,0,3
+2019-09-29,1920,DNK,Aarhus,Nordsjaelland,3,1
+2019-09-29,1920,DNK,Midtjylland,Odense,0,1
+2019-09-29,1920,DNK,Sonderjyske,Brondby,2,1
+2019-09-30,1920,DNK,Horsens,Esbjerg,1,1
+2019-10-04,1920,DNK,Nordsjaelland,Lyngby,1,1
+2019-10-05,1920,DNK,Hobro,Aalborg,0,2
+2019-10-06,1920,DNK,Brondby,FC Copenhagen,3,1
+2019-10-06,1920,DNK,Esbjerg,Sonderjyske,1,2
+2019-10-06,1920,DNK,Odense,Horsens,3,0
+2019-10-06,1920,DNK,Randers FC,Aarhus,2,0
+2019-10-06,1920,DNK,Silkeborg,Midtjylland,1,2
+2019-10-18,1920,DNK,Aalborg,Odense,1,0
+2019-10-20,1920,DNK,Aarhus,Silkeborg,3,4
+2019-10-20,1920,DNK,FC Copenhagen,Esbjerg,3,1
+2019-10-20,1920,DNK,Horsens,Hobro,1,0
+2019-10-20,1920,DNK,Lyngby,Brondby,0,3
+2019-10-20,1920,DNK,Sonderjyske,Nordsjaelland,1,4
+2019-10-21,1920,DNK,Midtjylland,Randers FC,2,1
+2019-10-25,1920,DNK,Esbjerg,Midtjylland,1,2
+2019-10-27,1920,DNK,Brondby,Randers FC,5,2
+2019-10-27,1920,DNK,Hobro,Silkeborg,1,1
+2019-10-27,1920,DNK,Lyngby,Horsens,2,1
+2019-10-27,1920,DNK,Odense,Nordsjaelland,3,1
+2019-10-27,1920,DNK,Sonderjyske,Aalborg,1,3
+2019-10-28,1920,DNK,Aarhus,FC Copenhagen,1,2
+2019-11-01,1920,DNK,Esbjerg,Horsens,1,1
+2019-11-03,1920,DNK,Aalborg,Midtjylland,0,1
+2019-11-03,1920,DNK,FC Copenhagen,Sonderjyske,3,0
+2019-11-03,1920,DNK,Nordsjaelland,Aarhus,0,1
+2019-11-03,1920,DNK,Odense,Hobro,2,1
+2019-11-03,1920,DNK,Randers FC,Lyngby,2,1
+2019-11-04,1920,DNK,Silkeborg,Brondby,0,1
+2019-11-08,1920,DNK,Randers FC,Aalborg,3,3
+2019-11-09,1920,DNK,Horsens,Silkeborg,2,1
+2019-11-10,1920,DNK,Aarhus,Sonderjyske,4,2
+2019-11-10,1920,DNK,Brondby,Esbjerg,2,1
+2019-11-10,1920,DNK,Hobro,Nordsjaelland,2,2
+2019-11-10,1920,DNK,Lyngby,Odense,4,3
+2019-11-10,1920,DNK,Midtjylland,FC Copenhagen,4,1
+2019-11-22,1920,DNK,Nordsjaelland,Randers FC,3,0
+2019-11-24,1920,DNK,Aalborg,Horsens,4,0
+2019-11-24,1920,DNK,Aarhus,Brondby,2,1
+2019-11-24,1920,DNK,FC Copenhagen,Hobro,2,1
+2019-11-24,1920,DNK,Silkeborg,Esbjerg,1,2
+2019-11-24,1920,DNK,Sonderjyske,Lyngby,2,2
+2019-11-25,1920,DNK,Odense,Midtjylland,1,2
+2019-11-29,1920,DNK,Lyngby,Nordsjaelland,1,1
+2019-12-01,1920,DNK,Aalborg,Hobro,1,1
+2019-12-01,1920,DNK,Esbjerg,Aarhus,1,2
+2019-12-01,1920,DNK,FC Copenhagen,Brondby,2,1
+2019-12-01,1920,DNK,Horsens,Odense,2,1
+2019-12-01,1920,DNK,Randers FC,Sonderjyske,3,0
+2019-12-02,1920,DNK,Midtjylland,Silkeborg,2,1
+2019-12-06,1920,DNK,Hobro,Horsens,0,0
+2019-12-08,1920,DNK,Aarhus,Lyngby,1,1
+2019-12-08,1920,DNK,Brondby,Midtjylland,1,2
+2019-12-08,1920,DNK,Nordsjaelland,FC Copenhagen,0,1
+2019-12-08,1920,DNK,Silkeborg,Randers FC,2,1
+2019-12-08,1920,DNK,Sonderjyske,Esbjerg,2,1
+2019-12-09,1920,DNK,Odense,Aalborg,0,0
+2019-12-13,1920,DNK,Aalborg,Nordsjaelland,1,3
+2019-12-15,1920,DNK,Brondby,Hobro,1,1
+2019-12-15,1920,DNK,Horsens,Sonderjyske,2,1
+2019-12-15,1920,DNK,Lyngby,Silkeborg,1,0
+2019-12-15,1920,DNK,Midtjylland,Aarhus,1,3
+2019-12-15,1920,DNK,Randers FC,Esbjerg,3,0
+2019-12-16,1920,DNK,FC Copenhagen,Odense,2,1
+2020-02-14,1920,DNK,Esbjerg,FC Copenhagen,1,0
+2020-02-16,1920,DNK,Odense,Brondby,0,2
+2020-02-16,1920,DNK,Silkeborg,Aalborg,0,2
+2020-02-16,1920,DNK,Sonderjyske,Hobro,3,1
+2020-02-17,1920,DNK,Midtjylland,Lyngby,2,0
+2020-02-19,1920,DNK,Nordsjaelland,Horsens,6,0
+2020-02-21,1920,DNK,Hobro,Midtjylland,0,2
+2020-02-23,1920,DNK,Aalborg,Brondby,3,2
+2020-02-23,1920,DNK,Lyngby,Esbjerg,2,0
+2020-02-23,1920,DNK,Nordsjaelland,Sonderjyske,2,1
+2020-02-23,1920,DNK,Randers FC,Odense,0,0
+2020-02-23,1920,DNK,Silkeborg,FC Copenhagen,1,1
+2020-02-24,1920,DNK,Horsens,Aarhus,1,2
+2020-02-28,1920,DNK,Aarhus,Hobro,0,0
+2020-02-29,1920,DNK,Esbjerg,Nordsjaelland,1,2
+2020-03-01,1920,DNK,Brondby,Lyngby,1,0
+2020-03-01,1920,DNK,FC Copenhagen,Aalborg,3,2
+2020-03-01,1920,DNK,Horsens,Randers FC,1,2
+2020-03-01,1920,DNK,Odense,Silkeborg,1,1
+2020-03-02,1920,DNK,Midtjylland,Sonderjyske,3,0
+2020-03-08,1920,DNK,Aalborg,Lyngby,3,0
+2020-03-08,1920,DNK,FC Copenhagen,Horsens,0,1
+2020-03-08,1920,DNK,Hobro,Esbjerg,1,1
+2020-03-08,1920,DNK,Nordsjaelland,Brondby,2,2
+2020-03-08,1920,DNK,Randers FC,Midtjylland,0,2
+2020-03-08,1920,DNK,Sonderjyske,Odense,1,1
+2020-03-09,1920,DNK,Silkeborg,Aarhus,2,1
+2020-05-28,1920,DNK,Aarhus,Randers FC,1,1
+2020-05-29,1920,DNK,Silkeborg,Nordsjaelland,0,2
+2020-05-31,1920,DNK,Esbjerg,Aalborg,1,1
+2020-06-01,1920,DNK,Aarhus,Odense,1,0
+2020-06-01,1920,DNK,Lyngby,FC Copenhagen,1,4
+2020-06-01,1920,DNK,Midtjylland,Horsens,0,1
+2020-06-01,1920,DNK,Randers FC,Hobro,0,1
+2020-06-02,1920,DNK,Brondby,Sonderjyske,1,0
+2020-06-07,1920,DNK,Aalborg,Aarhus,2,3
+2020-06-07,1920,DNK,FC Copenhagen,Randers FC,2,1
+2020-06-07,1920,DNK,Hobro,Lyngby,2,2
+2020-06-07,1920,DNK,Horsens,Brondby,3,2
+2020-06-07,1920,DNK,Nordsjaelland,Midtjylland,0,1
+2020-06-07,1920,DNK,Odense,Esbjerg,3,1
+2020-06-07,1920,DNK,Sonderjyske,Silkeborg,2,2
+2020-06-12,1920,DNK,Esbjerg,Randers FC,4,2
+2020-06-13,1920,DNK,Hobro,Horsens,1,1
+2020-06-14,1920,DNK,Aalborg,Midtjylland,0,2
+2020-06-14,1920,DNK,Brondby,Aarhus,0,0
+2020-06-14,1920,DNK,Nordsjaelland,FC Copenhagen,1,1
+2020-06-14,1920,DNK,Sonderjyske,Lyngby,1,0
+2020-06-15,1920,DNK,Silkeborg,Odense,6,0
+2020-06-16,1920,DNK,Horsens,Esbjerg,2,2
+2020-06-16,1920,DNK,Randers FC,Hobro,4,0
+2020-06-17,1920,DNK,Aarhus,Nordsjaelland,2,1
+2020-06-17,1920,DNK,FC Copenhagen,Aalborg,2,0
+2020-06-18,1920,DNK,Lyngby,Silkeborg,0,0
+2020-06-18,1920,DNK,Midtjylland,Brondby,0,0
+2020-06-18,1920,DNK,Odense,Sonderjyske,2,0
+2020-06-20,1920,DNK,Aalborg,Nordsjaelland,0,4
+2020-06-20,1920,DNK,Horsens,Randers FC,0,0
+2020-06-21,1920,DNK,Brondby,FC Copenhagen,1,1
+2020-06-21,1920,DNK,Esbjerg,Hobro,1,3
+2020-06-21,1920,DNK,Midtjylland,Aarhus,3,4
+2020-06-21,1920,DNK,Silkeborg,Sonderjyske,1,2
+2020-06-22,1920,DNK,Lyngby,Odense,1,2
+2020-06-26,1920,DNK,Aarhus,Aalborg,1,4
+2020-06-27,1920,DNK,Sonderjyske,Silkeborg,1,0
+2020-06-28,1920,DNK,FC Copenhagen,Midtjylland,1,2
+2020-06-28,1920,DNK,Hobro,Esbjerg,2,1
+2020-06-28,1920,DNK,Nordsjaelland,Brondby,0,2
+2020-06-28,1920,DNK,Randers FC,Horsens,0,3
+2020-06-29,1920,DNK,Odense,Lyngby,3,1
+2020-07-03,1920,DNK,Esbjerg,Horsens,1,2
+2020-07-04,1920,DNK,Silkeborg,Lyngby,2,0
+2020-07-04,1920,DNK,Sonderjyske,Odense,1,1
+2020-07-05,1920,DNK,Aalborg,Brondby,2,0
+2020-07-05,1920,DNK,Aarhus,FC Copenhagen,1,0
+2020-07-05,1920,DNK,Hobro,Randers FC,2,3
+2020-07-05,1920,DNK,Nordsjaelland,Midtjylland,0,1
+2020-07-08,1920,DNK,Horsens,Hobro,3,2
+2020-07-08,1920,DNK,Lyngby,Sonderjyske,1,1
+2020-07-08,1920,DNK,Odense,Silkeborg,1,3
+2020-07-08,1920,DNK,Randers FC,Esbjerg,3,1
+2020-07-09,1920,DNK,Aalborg,Aarhus,1,0
+2020-07-09,1920,DNK,Brondby,Nordsjaelland,4,0
+2020-07-09,1920,DNK,Midtjylland,FC Copenhagen,3,1
+2020-07-11,1920,DNK,Randers FC,Odense,2,1
+2020-07-12,1920,DNK,Aarhus,Midtjylland,3,0
+2020-07-12,1920,DNK,FC Copenhagen,Brondby,0,0
+2020-07-12,1920,DNK,Nordsjaelland,Aalborg,0,0
+2020-07-13,1920,DNK,Hobro,Lyngby,1,2
+2020-07-17,1920,DNK,Midtjylland,Nordsjaelland,6,3
+2020-07-19,1920,DNK,Brondby,Aalborg,0,1
+2020-07-19,1920,DNK,FC Copenhagen,Aarhus,2,4
+2020-07-19,1920,DNK,Odense,Randers FC,2,0
+2020-07-20,1920,DNK,Lyngby,Hobro,2,2
+2020-07-22,1920,DNK,Brondby,Midtjylland,1,1
+2020-07-22,1920,DNK,Nordsjaelland,Aarhus,1,1
+2020-07-23,1920,DNK,Aalborg,FC Copenhagen,0,1
+2020-07-23,1920,DNK,Odense,Horsens,3,1
+2020-07-26,1920,DNK,Aarhus,Brondby,0,1
+2020-07-26,1920,DNK,FC Copenhagen,Nordsjaelland,2,1
+2020-07-26,1920,DNK,Horsens,Odense,1,1
+2020-07-26,1920,DNK,Midtjylland,Aalborg,1,2
+2020-07-29,1920,DNK,Aarhus,Odense,2,1
+2020-09-11,2021,DNK,Sonderjyske,Midtjylland,2,0
+2020-09-13,2021,DNK,Brondby,Nordsjaelland,3,2
+2020-09-13,2021,DNK,Horsens,Randers FC,0,3
+2020-09-13,2021,DNK,Lyngby,Aalborg,0,0
+2020-09-13,2021,DNK,Odense,FC Copenhagen,3,2
+2020-09-14,2021,DNK,Aarhus,Vejle,4,2
+2020-09-19,2021,DNK,Midtjylland,Lyngby,1,0
+2020-09-20,2021,DNK,FC Copenhagen,Brondby,1,2
+2020-09-20,2021,DNK,Odense,Nordsjaelland,1,1
+2020-09-20,2021,DNK,Randers FC,Aarhus,1,1
+2020-09-20,2021,DNK,Vejle,Sonderjyske,4,1
+2020-09-21,2021,DNK,Aalborg,Horsens,1,0
+2020-09-26,2021,DNK,Midtjylland,Randers FC,1,0
+2020-09-27,2021,DNK,Aarhus,Odense,4,2
+2020-09-27,2021,DNK,Brondby,Horsens,2,1
+2020-09-27,2021,DNK,Sonderjyske,Aalborg,3,1
+2020-09-27,2021,DNK,Vejle,FC Copenhagen,2,2
+2020-09-28,2021,DNK,Nordsjaelland,Lyngby,4,1
+2020-10-02,2021,DNK,Randers FC,Brondby,1,2
+2020-10-04,2021,DNK,Aalborg,Aarhus,1,1
+2020-10-04,2021,DNK,FC Copenhagen,Nordsjaelland,3,2
+2020-10-04,2021,DNK,Horsens,Midtjylland,2,2
+2020-10-04,2021,DNK,Lyngby,Sonderjyske,2,2
+2020-10-04,2021,DNK,Odense,Vejle,0,1
+2020-10-17,2021,DNK,Midtjylland,Odense,3,1
+2020-10-18,2021,DNK,Aarhus,Horsens,3,0
+2020-10-18,2021,DNK,FC Copenhagen,Aalborg,1,2
+2020-10-18,2021,DNK,Sonderjyske,Brondby,2,0
+2020-10-18,2021,DNK,Vejle,Lyngby,3,2
+2020-10-19,2021,DNK,Nordsjaelland,Randers FC,1,0
+2020-10-23,2021,DNK,Lyngby,Odense,0,3
+2020-10-24,2021,DNK,Brondby,Midtjylland,2,3
+2020-10-25,2021,DNK,Aarhus,FC Copenhagen,0,1
+2020-10-25,2021,DNK,Horsens,Nordsjaelland,1,1
+2020-10-25,2021,DNK,Randers FC,Sonderjyske,1,2
+2020-10-26,2021,DNK,Aalborg,Vejle,1,3
+2020-10-30,2021,DNK,Vejle,Randers FC,0,3
+2020-10-31,2021,DNK,Nordsjaelland,Midtjylland,4,1
+2020-11-01,2021,DNK,Aalborg,Brondby,2,1
+2020-11-01,2021,DNK,FC Copenhagen,Lyngby,4,2
+2020-11-01,2021,DNK,Odense,Horsens,1,0
+2020-11-02,2021,DNK,Sonderjyske,Aarhus,1,1
+2020-11-06,2021,DNK,Randers FC,Aalborg,1,2
+2020-11-08,2021,DNK,Brondby,Odense,3,1
+2020-11-08,2021,DNK,Horsens,Sonderjyske,0,3
+2020-11-08,2021,DNK,Lyngby,Aarhus,1,2
+2020-11-08,2021,DNK,Midtjylland,FC Copenhagen,4,0
+2020-11-08,2021,DNK,Nordsjaelland,Vejle,1,1
+2020-11-20,2021,DNK,Lyngby,Horsens,1,1
+2020-11-22,2021,DNK,Aalborg,Nordsjaelland,1,1
+2020-11-22,2021,DNK,Aarhus,Midtjylland,1,2
+2020-11-22,2021,DNK,Odense,Sonderjyske,1,1
+2020-11-22,2021,DNK,Vejle,Brondby,0,2
+2020-11-23,2021,DNK,FC Copenhagen,Randers FC,1,2
+2020-11-27,2021,DNK,Randers FC,Odense,2,1
+2020-11-28,2021,DNK,Midtjylland,Aalborg,0,0
+2020-11-29,2021,DNK,Horsens,Vejle,3,1
+2020-11-29,2021,DNK,Nordsjaelland,Aarhus,3,1
+2020-11-29,2021,DNK,Sonderjyske,FC Copenhagen,1,3
+2020-11-30,2021,DNK,Brondby,Lyngby,4,1
+2020-12-04,2021,DNK,Odense,Aalborg,2,1
+2020-12-05,2021,DNK,Vejle,Midtjylland,0,2
+2020-12-06,2021,DNK,FC Copenhagen,Horsens,2,0
+2020-12-06,2021,DNK,Lyngby,Randers FC,0,3
+2020-12-06,2021,DNK,Sonderjyske,Nordsjaelland,2,1
+2020-12-07,2021,DNK,Aarhus,Brondby,3,1
+2020-12-11,2021,DNK,Randers FC,Vejle,3,1
+2020-12-13,2021,DNK,Aalborg,Lyngby,3,2
+2020-12-13,2021,DNK,Brondby,Sonderjyske,2,1
+2020-12-13,2021,DNK,Horsens,Aarhus,1,2
+2020-12-13,2021,DNK,Nordsjaelland,FC Copenhagen,0,1
+2020-12-14,2021,DNK,Odense,Midtjylland,1,1
+2020-12-20,2021,DNK,Aarhus,Aalborg,3,0
+2020-12-20,2021,DNK,FC Copenhagen,Odense,1,1
+2020-12-20,2021,DNK,Horsens,Brondby,1,2
+2020-12-20,2021,DNK,Lyngby,Vejle,0,0
+2020-12-20,2021,DNK,Sonderjyske,Randers FC,0,1
+2020-12-21,2021,DNK,Midtjylland,Nordsjaelland,3,1
+2021-02-02,2021,DNK,Randers FC,Horsens,3,0
+2021-02-02,2021,DNK,Vejle,Aarhus,0,0
+2021-02-03,2021,DNK,Aalborg,FC Copenhagen,2,3
+2021-02-03,2021,DNK,Odense,Lyngby,0,1
+2021-02-04,2021,DNK,Midtjylland,Sonderjyske,1,2
+2021-02-04,2021,DNK,Nordsjaelland,Brondby,0,1
+2021-02-07,2021,DNK,Aarhus,Lyngby,1,0
+2021-02-07,2021,DNK,Brondby,Aalborg,1,1
+2021-02-07,2021,DNK,Horsens,FC Copenhagen,0,2
+2021-02-07,2021,DNK,Nordsjaelland,Odense,0,2
+2021-02-07,2021,DNK,Sonderjyske,Vejle,0,1
+2021-02-08,2021,DNK,Randers FC,Midtjylland,1,2
+2021-02-14,2021,DNK,Aalborg,Randers FC,0,0
+2021-02-14,2021,DNK,Lyngby,Brondby,0,4
+2021-02-14,2021,DNK,Midtjylland,Horsens,1,0
+2021-02-14,2021,DNK,Odense,Aarhus,0,0
+2021-02-14,2021,DNK,Vejle,Nordsjaelland,2,2
+2021-02-15,2021,DNK,FC Copenhagen,Sonderjyske,3,2
+2021-02-19,2021,DNK,Aalborg,Midtjylland,0,2
+2021-02-21,2021,DNK,Aarhus,Sonderjyske,2,0
+2021-02-21,2021,DNK,Brondby,Vejle,2,1
+2021-02-21,2021,DNK,Horsens,Odense,0,0
+2021-02-21,2021,DNK,Randers FC,Nordsjaelland,1,1
+2021-02-22,2021,DNK,Lyngby,FC Copenhagen,2,2
+2021-02-26,2021,DNK,Vejle,Horsens,0,0
+2021-02-28,2021,DNK,FC Copenhagen,Aarhus,3,3
+2021-02-28,2021,DNK,Midtjylland,Brondby,1,0
+2021-02-28,2021,DNK,Nordsjaelland,Aalborg,2,2
+2021-02-28,2021,DNK,Odense,Randers FC,2,1
+2021-03-01,2021,DNK,Sonderjyske,Lyngby,1,4
+2021-03-03,2021,DNK,Aarhus,Nordsjaelland,0,1
+2021-03-03,2021,DNK,FC Copenhagen,Vejle,2,1
+2021-03-03,2021,DNK,Horsens,Aalborg,2,1
+2021-03-04,2021,DNK,Brondby,Randers FC,0,0
+2021-03-04,2021,DNK,Lyngby,Midtjylland,2,0
+2021-03-04,2021,DNK,Sonderjyske,Odense,1,1
+2021-03-07,2021,DNK,Brondby,FC Copenhagen,2,1
+2021-03-07,2021,DNK,Midtjylland,Aarhus,0,1
+2021-03-07,2021,DNK,Nordsjaelland,Horsens,2,2
+2021-03-07,2021,DNK,Randers FC,Lyngby,1,2
+2021-03-07,2021,DNK,Vejle,Odense,2,0
+2021-03-08,2021,DNK,Aalborg,Sonderjyske,1,0
+2021-03-12,2021,DNK,Lyngby,Nordsjaelland,0,3
+2021-03-14,2021,DNK,FC Copenhagen,Midtjylland,0,0
+2021-03-14,2021,DNK,Odense,Brondby,0,3
+2021-03-14,2021,DNK,Sonderjyske,Horsens,2,0
+2021-03-14,2021,DNK,Vejle,Aalborg,0,2
+2021-03-15,2021,DNK,Aarhus,Randers FC,1,1
+2021-03-21,2021,DNK,Aalborg,Odense,0,2
+2021-03-21,2021,DNK,Brondby,Aarhus,1,1
+2021-03-21,2021,DNK,Horsens,Lyngby,1,2
+2021-03-21,2021,DNK,Midtjylland,Vejle,5,0
+2021-03-21,2021,DNK,Nordsjaelland,Sonderjyske,2,1
+2021-03-21,2021,DNK,Randers FC,FC Copenhagen,2,1
+2021-04-04,2021,DNK,Horsens,Odense,1,1
+2021-04-04,2021,DNK,Nordsjaelland,Aarhus,2,0
+2021-04-05,2021,DNK,Aalborg,Sonderjyske,3,2
+2021-04-05,2021,DNK,FC Copenhagen,Randers FC,2,1
+2021-04-05,2021,DNK,Midtjylland,Brondby,1,0
+2021-04-06,2021,DNK,Lyngby,Vejle,0,0
+2021-04-09,2021,DNK,Odense,Vejle,0,1
+2021-04-11,2021,DNK,Aarhus,Midtjylland,1,4
+2021-04-11,2021,DNK,Brondby,FC Copenhagen,1,3
+2021-04-11,2021,DNK,Randers FC,Nordsjaelland,3,4
+2021-04-11,2021,DNK,Sonderjyske,Horsens,2,3
+2021-04-12,2021,DNK,Lyngby,Aalborg,2,2
+2021-04-16,2021,DNK,Vejle,Aalborg,1,1
+2021-04-18,2021,DNK,Brondby,Aarhus,2,2
+2021-04-18,2021,DNK,FC Copenhagen,Nordsjaelland,2,2
+2021-04-18,2021,DNK,Horsens,Lyngby,1,3
+2021-04-18,2021,DNK,Odense,Sonderjyske,1,1
+2021-04-19,2021,DNK,Randers FC,Midtjylland,0,0
+2021-04-21,2021,DNK,Aalborg,Odense,3,2
+2021-04-21,2021,DNK,Lyngby,Sonderjyske,0,1
+2021-04-21,2021,DNK,Nordsjaelland,Brondby,0,3
+2021-04-22,2021,DNK,Aarhus,Randers FC,2,0
+2021-04-22,2021,DNK,Midtjylland,FC Copenhagen,4,1
+2021-04-22,2021,DNK,Vejle,Horsens,3,0
+2021-04-25,2021,DNK,Aarhus,FC Copenhagen,1,2
+2021-04-25,2021,DNK,Brondby,Randers FC,2,0
+2021-04-25,2021,DNK,Horsens,Aalborg,1,0
+2021-04-25,2021,DNK,Odense,Lyngby,2,0
+2021-04-25,2021,DNK,Sonderjyske,Vejle,1,0
+2021-04-26,2021,DNK,Nordsjaelland,Midtjylland,3,2
+2021-04-30,2021,DNK,Aalborg,Lyngby,4,0
+2021-04-30,2021,DNK,Horsens,Vejle,3,3
+2021-05-02,2021,DNK,Midtjylland,Nordsjaelland,3,0
+2021-05-02,2021,DNK,Randers FC,Brondby,4,2
+2021-05-02,2021,DNK,Sonderjyske,Odense,2,0
+2021-05-03,2021,DNK,FC Copenhagen,Aarhus,3,2
+2021-05-07,2021,DNK,Odense,Aalborg,1,0
+2021-05-09,2021,DNK,Brondby,Midtjylland,3,1
+2021-05-09,2021,DNK,Lyngby,Horsens,3,4
+2021-05-09,2021,DNK,Randers FC,Aarhus,0,1
+2021-05-09,2021,DNK,Vejle,Sonderjyske,4,2
+2021-05-10,2021,DNK,Nordsjaelland,FC Copenhagen,2,2
+2021-05-14,2021,DNK,Vejle,Odense,2,2
+2021-05-16,2021,DNK,Aalborg,Horsens,1,1
+2021-05-16,2021,DNK,Aarhus,Nordsjaelland,3,1
+2021-05-16,2021,DNK,FC Copenhagen,Brondby,2,1
+2021-05-16,2021,DNK,Midtjylland,Randers FC,1,1
+2021-05-17,2021,DNK,Sonderjyske,Lyngby,2,0
+2021-05-19,2021,DNK,Aalborg,Vejle,2,1
+2021-05-19,2021,DNK,FC Copenhagen,Midtjylland,4,2
+2021-05-19,2021,DNK,Nordsjaelland,Randers FC,2,1
+2021-05-20,2021,DNK,Aarhus,Brondby,1,2
+2021-05-20,2021,DNK,Horsens,Sonderjyske,1,2
+2021-05-20,2021,DNK,Lyngby,Odense,1,2
+2021-05-24,2021,DNK,Brondby,Nordsjaelland,2,0
+2021-05-24,2021,DNK,Midtjylland,Aarhus,4,0
+2021-05-24,2021,DNK,Odense,Horsens,4,0
+2021-05-24,2021,DNK,Randers FC,FC Copenhagen,2,1
+2021-05-24,2021,DNK,Sonderjyske,Aalborg,0,4
+2021-05-24,2021,DNK,Vejle,Lyngby,2,2
+2021-05-28,2021,DNK,Aarhus,Aalborg,1,1
+2021-07-16,2122,DNK,Midtjylland,Odense,1,2
+2021-07-18,2122,DNK,Aarhus,Brondby,1,1
+2021-07-18,2122,DNK,FC Copenhagen,Aalborg,2,2
+2021-07-18,2122,DNK,Nordsjaelland,Viborg,1,2
+2021-07-18,2122,DNK,Vejle,Randers FC,0,2
+2021-07-19,2122,DNK,Silkeborg,Sonderjyske,0,0
+2021-07-24,2122,DNK,Aalborg,Midtjylland,0,1
+2021-07-25,2122,DNK,Brondby,Viborg,1,1
+2021-07-25,2122,DNK,FC Copenhagen,Silkeborg,0,0
+2021-07-25,2122,DNK,Nordsjaelland,Aarhus,0,0
+2021-07-25,2122,DNK,Randers FC,Odense,1,1
+2021-07-26,2122,DNK,Sonderjyske,Vejle,1,0
+2021-07-31,2122,DNK,Viborg,Midtjylland,0,2
+2021-08-01,2122,DNK,Aarhus,Randers FC,1,2
+2021-08-01,2122,DNK,Odense,FC Copenhagen,0,2
+2021-08-01,2122,DNK,Silkeborg,Aalborg,0,0
+2021-08-01,2122,DNK,Vejle,Brondby,2,2
+2021-08-02,2122,DNK,Sonderjyske,Nordsjaelland,0,2
+2021-08-06,2122,DNK,Midtjylland,Vejle,4,1
+2021-08-06,2122,DNK,Silkeborg,Viborg,4,1
+2021-08-08,2122,DNK,Aalborg,Aarhus,2,0
+2021-08-08,2122,DNK,FC Copenhagen,Brondby,4,2
+2021-08-08,2122,DNK,Randers FC,Sonderjyske,1,0
+2021-08-09,2122,DNK,Nordsjaelland,Odense,3,1
+2021-08-13,2122,DNK,Brondby,Nordsjaelland,0,1
+2021-08-13,2122,DNK,Sonderjyske,Midtjylland,0,2
+2021-08-13,2122,DNK,Viborg,Randers FC,1,2
+2021-08-15,2122,DNK,Aarhus,FC Copenhagen,1,3
+2021-08-15,2122,DNK,Odense,Silkeborg,1,1
+2021-08-16,2122,DNK,Vejle,Aalborg,0,1
+2021-08-20,2122,DNK,Midtjylland,Silkeborg,3,0
+2021-08-21,2122,DNK,Odense,Brondby,2,2
+2021-08-22,2122,DNK,FC Copenhagen,Sonderjyske,2,0
+2021-08-22,2122,DNK,Randers FC,Aalborg,1,1
+2021-08-22,2122,DNK,Viborg,Aarhus,2,0
+2021-08-23,2122,DNK,Nordsjaelland,Vejle,3,1
+2021-08-27,2122,DNK,Aalborg,Nordsjaelland,2,1
+2021-08-29,2122,DNK,Aarhus,Odense,2,2
+2021-08-29,2122,DNK,Brondby,Midtjylland,2,0
+2021-08-29,2122,DNK,Silkeborg,Randers FC,2,1
+2021-08-29,2122,DNK,Sonderjyske,Viborg,2,2
+2021-08-29,2122,DNK,Vejle,FC Copenhagen,0,4
+2021-09-10,2122,DNK,Brondby,Silkeborg,1,1
+2021-09-10,2122,DNK,Midtjylland,Nordsjaelland,2,0
+2021-09-12,2122,DNK,Aarhus,Vejle,1,0
+2021-09-12,2122,DNK,Randers FC,FC Copenhagen,0,2
+2021-09-12,2122,DNK,Viborg,Aalborg,2,3
+2021-09-13,2122,DNK,Odense,Sonderjyske,2,1
+2021-09-17,2122,DNK,Aalborg,Odense,2,0
+2021-09-19,2122,DNK,FC Copenhagen,Midtjylland,0,1
+2021-09-19,2122,DNK,Randers FC,Nordsjaelland,3,2
+2021-09-19,2122,DNK,Sonderjyske,Brondby,1,0
+2021-09-19,2122,DNK,Vejle,Viborg,1,1
+2021-09-20,2122,DNK,Silkeborg,Aarhus,0,2
+2021-09-26,2122,DNK,Brondby,Aalborg,2,1
+2021-09-26,2122,DNK,Midtjylland,Randers FC,1,0
+2021-09-26,2122,DNK,Nordsjaelland,FC Copenhagen,1,5
+2021-09-26,2122,DNK,Vejle,Silkeborg,2,4
+2021-09-26,2122,DNK,Viborg,Odense,1,1
+2021-09-27,2122,DNK,Aarhus,Sonderjyske,1,0
+2021-10-01,2122,DNK,Odense,Vejle,6,0
+2021-10-03,2122,DNK,Aalborg,Sonderjyske,4,0
+2021-10-03,2122,DNK,FC Copenhagen,Viborg,1,1
+2021-10-03,2122,DNK,Midtjylland,Aarhus,4,0
+2021-10-03,2122,DNK,Randers FC,Brondby,1,1
+2021-10-03,2122,DNK,Silkeborg,Nordsjaelland,4,1
+2021-10-15,2122,DNK,Viborg,Silkeborg,1,1
+2021-10-17,2122,DNK,Brondby,Vejle,3,2
+2021-10-17,2122,DNK,Nordsjaelland,Midtjylland,2,2
+2021-10-17,2122,DNK,Odense,Randers FC,1,2
+2021-10-17,2122,DNK,Sonderjyske,FC Copenhagen,1,1
+2021-10-18,2122,DNK,Aarhus,Aalborg,1,0
+2021-10-22,2122,DNK,Vejle,Nordsjaelland,2,0
+2021-10-24,2122,DNK,Brondby,FC Copenhagen,2,1
+2021-10-24,2122,DNK,Midtjylland,Sonderjyske,3,2
+2021-10-24,2122,DNK,Randers FC,Aarhus,1,0
+2021-10-24,2122,DNK,Silkeborg,Odense,1,1
+2021-10-25,2122,DNK,Aalborg,Viborg,2,5
+2021-10-31,2122,DNK,FC Copenhagen,Vejle,3,0
+2021-10-31,2122,DNK,Nordsjaelland,Aalborg,0,2
+2021-10-31,2122,DNK,Randers FC,Midtjylland,1,3
+2021-10-31,2122,DNK,Sonderjyske,Silkeborg,0,6
+2021-10-31,2122,DNK,Viborg,Brondby,0,1
+2021-11-01,2122,DNK,Odense,Aarhus,0,0
+2021-11-05,2122,DNK,Viborg,Nordsjaelland,2,2
+2021-11-07,2122,DNK,Aalborg,Randers FC,1,1
+2021-11-07,2122,DNK,Aarhus,Midtjylland,3,0
+2021-11-07,2122,DNK,Brondby,Odense,2,1
+2021-11-07,2122,DNK,Silkeborg,FC Copenhagen,0,0
+2021-11-07,2122,DNK,Vejle,Sonderjyske,3,1
+2021-11-19,2122,DNK,Odense,Viborg,2,3
+2021-11-21,2122,DNK,FC Copenhagen,Aarhus,1,1
+2021-11-21,2122,DNK,Midtjylland,Brondby,1,2
+2021-11-21,2122,DNK,Nordsjaelland,Silkeborg,1,1
+2021-11-21,2122,DNK,Randers FC,Vejle,4,1
+2021-11-22,2122,DNK,Sonderjyske,Aalborg,1,3
+2021-11-26,2122,DNK,Aarhus,Silkeborg,1,1
+2021-11-28,2122,DNK,Aalborg,FC Copenhagen,1,3
+2021-11-28,2122,DNK,Brondby,Randers FC,1,0
+2021-11-28,2122,DNK,Odense,Nordsjaelland,2,0
+2021-11-28,2122,DNK,Viborg,Sonderjyske,1,1
+2021-11-29,2122,DNK,Vejle,Midtjylland,1,1
+2022-02-18,2122,DNK,Sonderjyske,Aarhus,2,3
+2022-02-20,2122,DNK,FC Copenhagen,Odense,2,0
+2022-02-20,2122,DNK,Midtjylland,Aalborg,0,2
+2022-02-20,2122,DNK,Nordsjaelland,Brondby,0,2
+2022-02-20,2122,DNK,Silkeborg,Vejle,3,0
+2022-02-21,2122,DNK,Randers FC,Viborg,0,1
+2022-02-25,2122,DNK,Vejle,Aarhus,3,2
+2022-02-27,2122,DNK,Aalborg,Silkeborg,1,4
+2022-02-27,2122,DNK,Nordsjaelland,Randers FC,0,0
+2022-02-27,2122,DNK,Odense,Midtjylland,2,2
+2022-02-27,2122,DNK,Viborg,FC Copenhagen,0,2
+2022-02-28,2122,DNK,Brondby,Sonderjyske,1,0
+2022-03-04,2122,DNK,FC Copenhagen,Randers FC,3,0
+2022-03-04,2122,DNK,Midtjylland,Viborg,3,1
+2022-03-06,2122,DNK,Aalborg,Vejle,0,0
+2022-03-06,2122,DNK,Silkeborg,Brondby,0,1
+2022-03-06,2122,DNK,Sonderjyske,Odense,2,2
+2022-03-07,2122,DNK,Aarhus,Nordsjaelland,2,3
+2022-03-11,2122,DNK,Nordsjaelland,Sonderjyske,1,1
+2022-03-13,2122,DNK,Brondby,Aarhus,1,1
+2022-03-13,2122,DNK,Midtjylland,FC Copenhagen,0,1
+2022-03-13,2122,DNK,Randers FC,Silkeborg,2,1
+2022-03-13,2122,DNK,Viborg,Vejle,2,0
+2022-03-14,2122,DNK,Odense,Aalborg,2,3
+2022-03-20,2122,DNK,Aalborg,Brondby,3,0
+2022-03-20,2122,DNK,Aarhus,Viborg,1,1
+2022-03-20,2122,DNK,FC Copenhagen,Nordsjaelland,1,0
+2022-03-20,2122,DNK,Silkeborg,Midtjylland,0,1
+2022-03-20,2122,DNK,Sonderjyske,Randers FC,1,1
+2022-03-20,2122,DNK,Vejle,Odense,2,0
+2022-04-01,2122,DNK,Viborg,Sonderjyske,2,1
+2022-04-03,2122,DNK,Aalborg,FC Copenhagen,0,1
+2022-04-03,2122,DNK,Aarhus,Vejle,0,0
+2022-04-03,2122,DNK,Brondby,Randers FC,0,1
+2022-04-03,2122,DNK,Odense,Nordsjaelland,2,1
+2022-04-04,2122,DNK,Midtjylland,Silkeborg,3,2
+2022-04-08,2122,DNK,Aalborg,Randers FC,3,0
+2022-04-10,2122,DNK,FC Copenhagen,Midtjylland,1,0
+2022-04-10,2122,DNK,Nordsjaelland,Aarhus,2,2
+2022-04-10,2122,DNK,Silkeborg,Brondby,3,0
+2022-04-10,2122,DNK,Sonderjyske,Odense,2,2
+2022-04-11,2122,DNK,Vejle,Viborg,2,2
+2022-04-13,2122,DNK,Randers FC,Midtjylland,1,3
+2022-04-14,2122,DNK,Aarhus,Viborg,0,2
+2022-04-14,2122,DNK,Brondby,Aalborg,0,1
+2022-04-14,2122,DNK,Odense,Vejle,2,1
+2022-04-14,2122,DNK,Silkeborg,FC Copenhagen,3,1
+2022-04-15,2122,DNK,Nordsjaelland,Sonderjyske,2,0
+2022-04-17,2122,DNK,Viborg,Odense,1,1
+2022-04-18,2122,DNK,FC Copenhagen,Brondby,2,0
+2022-04-18,2122,DNK,Midtjylland,Aalborg,2,0
+2022-04-18,2122,DNK,Sonderjyske,Aarhus,2,1
+2022-04-18,2122,DNK,Vejle,Nordsjaelland,0,0
+2022-04-19,2122,DNK,Randers FC,Silkeborg,1,2
+2022-04-22,2122,DNK,Sonderjyske,Vejle,0,1
+2022-04-24,2122,DNK,Aalborg,Silkeborg,1,2
+2022-04-24,2122,DNK,Aarhus,Odense,1,2
+2022-04-24,2122,DNK,FC Copenhagen,Randers FC,0,1
+2022-04-24,2122,DNK,Nordsjaelland,Viborg,2,0
+2022-04-25,2122,DNK,Brondby,Midtjylland,1,3
+2022-04-29,2122,DNK,Viborg,Nordsjaelland,1,1
+2022-05-01,2122,DNK,Midtjylland,FC Copenhagen,0,0
+2022-05-01,2122,DNK,Odense,Aarhus,1,0
+2022-05-01,2122,DNK,Randers FC,Brondby,2,1
+2022-05-01,2122,DNK,Vejle,Sonderjyske,0,3
+2022-05-02,2122,DNK,Silkeborg,Aalborg,4,2
+2022-05-06,2122,DNK,Silkeborg,Randers FC,1,0
+2022-05-08,2122,DNK,Aalborg,Midtjylland,1,2
+2022-05-08,2122,DNK,Aarhus,Sonderjyske,1,1
+2022-05-08,2122,DNK,Brondby,FC Copenhagen,1,1
+2022-05-08,2122,DNK,Nordsjaelland,Odense,1,1
+2022-05-09,2122,DNK,Viborg,Vejle,2,2
+2022-05-11,2122,DNK,FC Copenhagen,Silkeborg,2,1
+2022-05-11,2122,DNK,Randers FC,Aalborg,2,2
+2022-05-11,2122,DNK,Sonderjyske,Nordsjaelland,1,1
+2022-05-12,2122,DNK,Midtjylland,Brondby,2,2
+2022-05-12,2122,DNK,Odense,Viborg,1,1
+2022-05-12,2122,DNK,Vejle,Aarhus,1,0
+2022-05-15,2122,DNK,Aalborg,Brondby,1,3
+2022-05-15,2122,DNK,Nordsjaelland,Vejle,2,1
+2022-05-15,2122,DNK,Odense,Sonderjyske,1,1
+2022-05-15,2122,DNK,Randers FC,FC Copenhagen,0,2
+2022-05-15,2122,DNK,Viborg,Aarhus,1,0
+2022-05-16,2122,DNK,Silkeborg,Midtjylland,1,4
+2022-05-21,2122,DNK,Aarhus,Nordsjaelland,2,2
+2022-05-21,2122,DNK,Sonderjyske,Viborg,0,2
+2022-05-21,2122,DNK,Vejle,Odense,2,1
+2022-05-22,2122,DNK,Brondby,Silkeborg,2,1
+2022-05-22,2122,DNK,FC Copenhagen,Aalborg,3,0
+2022-05-22,2122,DNK,Midtjylland,Randers FC,3,2
+2022-05-29,2122,DNK,Aalborg,Viborg,1,1
+2022-07-15,2223,DNK,Midtjylland,Randers FC,1,1
+2022-07-17,2223,DNK,Brondby,Aarhus,1,0
+2022-07-17,2223,DNK,FC Copenhagen,Horsens,0,1
+2022-07-17,2223,DNK,Lyngby,Silkeborg,2,2
+2022-07-17,2223,DNK,Viborg,Aalborg,2,1
+2022-07-18,2223,DNK,Odense,Nordsjaelland,0,2
+2022-07-22,2223,DNK,Midtjylland,Silkeborg,1,3
+2022-07-24,2223,DNK,Aalborg,FC Copenhagen,1,3
+2022-07-24,2223,DNK,Aarhus,Viborg,3,1
+2022-07-24,2223,DNK,Brondby,Nordsjaelland,1,3
+2022-07-24,2223,DNK,Randers FC,Odense,2,2
+2022-07-25,2223,DNK,Horsens,Lyngby,1,0
+2022-07-29,2223,DNK,Odense,Midtjylland,1,5
+2022-07-31,2223,DNK,Aalborg,Horsens,0,0
+2022-07-31,2223,DNK,Aarhus,Randers FC,0,0
+2022-07-31,2223,DNK,Silkeborg,Brondby,2,0
+2022-07-31,2223,DNK,Viborg,FC Copenhagen,4,2
+2022-08-01,2223,DNK,Nordsjaelland,Lyngby,2,1
+2022-08-05,2223,DNK,Lyngby,Midtjylland,3,3
+2022-08-05,2223,DNK,Randers FC,Horsens,1,0
+2022-08-06,2223,DNK,Nordsjaelland,Viborg,1,0
+2022-08-07,2223,DNK,FC Copenhagen,Brondby,4,1
+2022-08-07,2223,DNK,Odense,Aarhus,1,2
+2022-08-08,2223,DNK,Silkeborg,Aalborg,3,1
+2022-08-12,2223,DNK,FC Copenhagen,Randers FC,1,3
+2022-08-12,2223,DNK,Horsens,Midtjylland,3,3
+2022-08-14,2223,DNK,Aalborg,Nordsjaelland,0,0
+2022-08-14,2223,DNK,Brondby,Odense,2,0
+2022-08-14,2223,DNK,Viborg,Silkeborg,2,0
+2022-08-15,2223,DNK,Aarhus,Lyngby,1,0
+2022-08-19,2223,DNK,Lyngby,FC Copenhagen,0,3
+2022-08-20,2223,DNK,Midtjylland,Aarhus,0,2
+2022-08-21,2223,DNK,Aalborg,Brondby,2,1
+2022-08-21,2223,DNK,Nordsjaelland,Silkeborg,0,2
+2022-08-21,2223,DNK,Randers FC,Viborg,1,0
+2022-08-22,2223,DNK,Odense,Horsens,1,0
+2022-08-26,2223,DNK,Horsens,Aarhus,2,1
+2022-08-28,2223,DNK,Nordsjaelland,FC Copenhagen,3,1
+2022-08-28,2223,DNK,Randers FC,Aalborg,1,0
+2022-08-28,2223,DNK,Silkeborg,Odense,1,2
+2022-08-28,2223,DNK,Viborg,Lyngby,2,1
+2022-08-29,2223,DNK,Brondby,Midtjylland,0,2
+2022-09-02,2223,DNK,FC Copenhagen,Silkeborg,1,0
+2022-09-04,2223,DNK,Horsens,Brondby,0,2
+2022-09-04,2223,DNK,Lyngby,Randers FC,0,2
+2022-09-04,2223,DNK,Midtjylland,Aalborg,0,2
+2022-09-04,2223,DNK,Odense,Viborg,1,2
+2022-09-05,2223,DNK,Aarhus,Nordsjaelland,2,3
+2022-09-10,2223,DNK,Odense,FC Copenhagen,2,1
+2022-09-11,2223,DNK,Aalborg,Lyngby,1,1
+2022-09-11,2223,DNK,Brondby,Randers FC,2,2
+2022-09-11,2223,DNK,Nordsjaelland,Midtjylland,1,1
+2022-09-11,2223,DNK,Silkeborg,Aarhus,1,0
+2022-09-12,2223,DNK,Viborg,Horsens,2,1
+2022-09-16,2223,DNK,Horsens,Nordsjaelland,1,0
+2022-09-17,2223,DNK,Aarhus,Aalborg,3,1
+2022-09-18,2223,DNK,Lyngby,Odense,0,2
+2022-09-18,2223,DNK,Midtjylland,FC Copenhagen,2,1
+2022-09-18,2223,DNK,Randers FC,Silkeborg,3,2
+2022-09-18,2223,DNK,Viborg,Brondby,0,0
+2022-09-30,2223,DNK,Aalborg,Odense,1,1
+2022-10-02,2223,DNK,Brondby,Lyngby,3,3
+2022-10-02,2223,DNK,FC Copenhagen,Aarhus,1,0
+2022-10-02,2223,DNK,Midtjylland,Viborg,1,1
+2022-10-02,2223,DNK,Silkeborg,Horsens,2,1
+2022-10-03,2223,DNK,Nordsjaelland,Randers FC,3,1
+2022-10-07,2223,DNK,Lyngby,Viborg,1,1
+2022-10-08,2223,DNK,FC Copenhagen,Nordsjaelland,1,1
+2022-10-09,2223,DNK,Aarhus,Midtjylland,0,1
+2022-10-09,2223,DNK,Odense,Silkeborg,1,1
+2022-10-09,2223,DNK,Randers FC,Brondby,2,3
+2022-10-10,2223,DNK,Horsens,Aalborg,0,0
+2022-10-14,2223,DNK,Lyngby,Aalborg,0,2
+2022-10-16,2223,DNK,Brondby,FC Copenhagen,1,1
+2022-10-16,2223,DNK,Midtjylland,Horsens,2,1
+2022-10-16,2223,DNK,Nordsjaelland,Aarhus,1,1
+2022-10-16,2223,DNK,Viborg,Odense,0,0
+2022-10-17,2223,DNK,Silkeborg,Randers FC,3,3
+2022-10-21,2223,DNK,Odense,Lyngby,3,1
+2022-10-22,2223,DNK,FC Copenhagen,Midtjylland,1,1
+2022-10-23,2223,DNK,Aarhus,Brondby,2,2
+2022-10-23,2223,DNK,Horsens,Silkeborg,3,2
+2022-10-23,2223,DNK,Randers FC,Nordsjaelland,0,2
+2022-10-24,2223,DNK,Aalborg,Viborg,1,3
+2022-10-28,2223,DNK,Nordsjaelland,Horsens,2,0
+2022-10-29,2223,DNK,Randers FC,FC Copenhagen,0,2
+2022-10-30,2223,DNK,Brondby,Aalborg,3,2
+2022-10-30,2223,DNK,Lyngby,Aarhus,0,1
+2022-10-30,2223,DNK,Silkeborg,Viborg,1,2
+2022-10-31,2223,DNK,Midtjylland,Odense,1,2
+2022-11-04,2223,DNK,Horsens,Randers FC,5,1
+2022-11-06,2223,DNK,Aalborg,Silkeborg,1,2
+2022-11-06,2223,DNK,FC Copenhagen,Lyngby,3,0
+2022-11-06,2223,DNK,Odense,Brondby,1,1
+2022-11-06,2223,DNK,Viborg,Aarhus,1,1
+2022-11-07,2223,DNK,Midtjylland,Nordsjaelland,0,0
+2022-11-12,2223,DNK,Silkeborg,Lyngby,0,2
+2022-11-13,2223,DNK,Aarhus,FC Copenhagen,0,2
+2022-11-13,2223,DNK,Brondby,Viborg,0,2
+2022-11-13,2223,DNK,Horsens,Odense,3,3
+2022-11-13,2223,DNK,Nordsjaelland,Aalborg,5,1
+2022-11-13,2223,DNK,Randers FC,Midtjylland,0,0
+2023-02-17,2223,DNK,Aalborg,Aarhus,0,1
+2023-02-19,2223,DNK,Brondby,Horsens,5,2
+2023-02-19,2223,DNK,Lyngby,Nordsjaelland,1,1
+2023-02-19,2223,DNK,Odense,Randers FC,0,0
+2023-02-19,2223,DNK,Silkeborg,FC Copenhagen,0,3
+2023-02-20,2223,DNK,Viborg,Midtjylland,0,4
+2023-02-24,2223,DNK,Nordsjaelland,Odense,4,2
+2023-02-26,2223,DNK,Aarhus,Silkeborg,1,1
+2023-02-26,2223,DNK,FC Copenhagen,Aalborg,1,0
+2023-02-26,2223,DNK,Horsens,Viborg,0,3
+2023-02-26,2223,DNK,Randers FC,Lyngby,1,0
+2023-02-27,2223,DNK,Midtjylland,Brondby,0,1
+2023-03-03,2223,DNK,Aarhus,Horsens,2,0
+2023-03-05,2223,DNK,FC Copenhagen,Odense,7,0
+2023-03-05,2223,DNK,Lyngby,Brondby,1,0
+2023-03-05,2223,DNK,Silkeborg,Nordsjaelland,2,1
+2023-03-05,2223,DNK,Viborg,Randers FC,2,2
+2023-03-06,2223,DNK,Aalborg,Midtjylland,0,0
+2023-03-10,2223,DNK,Odense,Aalborg,2,1
+2023-03-12,2223,DNK,Brondby,Silkeborg,2,1
+2023-03-12,2223,DNK,Horsens,FC Copenhagen,1,4
+2023-03-12,2223,DNK,Midtjylland,Lyngby,1,3
+2023-03-12,2223,DNK,Viborg,Nordsjaelland,1,1
+2023-03-13,2223,DNK,Randers FC,Aarhus,1,2
+2023-03-19,2223,DNK,Aalborg,Randers FC,0,1
+2023-03-19,2223,DNK,Aarhus,Odense,1,0
+2023-03-19,2223,DNK,FC Copenhagen,Viborg,2,1
+2023-03-19,2223,DNK,Lyngby,Horsens,1,1
+2023-03-19,2223,DNK,Nordsjaelland,Brondby,2,1
+2023-03-19,2223,DNK,Silkeborg,Midtjylland,3,3
+2023-03-31,2223,DNK,Odense,Midtjylland,1,3
+2023-04-02,2223,DNK,Brondby,Viborg,0,3
+2023-04-02,2223,DNK,FC Copenhagen,Nordsjaelland,2,1
+2023-04-02,2223,DNK,Horsens,Aalborg,0,4
+2023-04-02,2223,DNK,Lyngby,Silkeborg,1,1
+2023-04-03,2223,DNK,Aarhus,Randers FC,1,1
+2023-04-09,2223,DNK,Viborg,Aarhus,0,1
+2023-04-10,2223,DNK,Aalborg,Odense,2,3
+2023-04-10,2223,DNK,Midtjylland,Lyngby,1,0
+2023-04-10,2223,DNK,Nordsjaelland,Brondby,2,1
+2023-04-10,2223,DNK,Randers FC,FC Copenhagen,1,0
+2023-04-11,2223,DNK,Silkeborg,Horsens,1,2
+2023-04-14,2223,DNK,Midtjylland,Aalborg,1,1
+2023-04-16,2223,DNK,Brondby,Aarhus,1,0
+2023-04-16,2223,DNK,FC Copenhagen,Viborg,2,1
+2023-04-16,2223,DNK,Lyngby,Horsens,2,1
+2023-04-16,2223,DNK,Odense,Silkeborg,2,0
+2023-04-17,2223,DNK,Randers FC,Nordsjaelland,1,1
+2023-04-21,2223,DNK,Silkeborg,Aalborg,2,2
+2023-04-23,2223,DNK,Aarhus,FC Copenhagen,0,0
+2023-04-23,2223,DNK,Brondby,Randers FC,0,4
+2023-04-23,2223,DNK,Horsens,Midtjylland,0,2
+2023-04-23,2223,DNK,Viborg,Nordsjaelland,1,0
+2023-04-24,2223,DNK,Odense,Lyngby,2,2
+2023-04-28,2223,DNK,Horsens,Odense,2,2
+2023-04-30,2223,DNK,Aalborg,Lyngby,1,0
+2023-04-30,2223,DNK,FC Copenhagen,Brondby,0,1
+2023-04-30,2223,DNK,Nordsjaelland,Aarhus,0,1
+2023-04-30,2223,DNK,Viborg,Randers FC,3,1
+2023-05-01,2223,DNK,Midtjylland,Silkeborg,3,0
+2023-05-07,2223,DNK,Aalborg,Horsens,4,0
+2023-05-07,2223,DNK,Aarhus,Viborg,3,0
+2023-05-07,2223,DNK,Lyngby,Midtjylland,2,1
+2023-05-07,2223,DNK,Randers FC,Brondby,1,3
+2023-05-07,2223,DNK,Silkeborg,Odense,0,1
+2023-05-08,2223,DNK,Nordsjaelland,FC Copenhagen,3,2
+2023-05-12,2223,DNK,Odense,Aalborg,1,1
+2023-05-14,2223,DNK,Aarhus,Nordsjaelland,1,1
+2023-05-14,2223,DNK,Brondby,FC Copenhagen,1,3
+2023-05-14,2223,DNK,Midtjylland,Horsens,3,1
+2023-05-14,2223,DNK,Silkeborg,Lyngby,1,0
+2023-05-15,2223,DNK,Randers FC,Viborg,0,2
+2023-05-19,2223,DNK,Horsens,Silkeborg,0,1
+2023-05-21,2223,DNK,Aalborg,Midtjylland,0,2
+2023-05-21,2223,DNK,FC Copenhagen,Aarhus,4,3
+2023-05-21,2223,DNK,Lyngby,Odense,0,4
+2023-05-21,2223,DNK,Viborg,Brondby,1,1
+2023-05-22,2223,DNK,Nordsjaelland,Randers FC,3,1
+2023-05-26,2223,DNK,Odense,Horsens,2,1
+2023-05-29,2223,DNK,Brondby,Nordsjaelland,5,1
+2023-05-29,2223,DNK,Lyngby,Aalborg,2,1
+2023-05-29,2223,DNK,Silkeborg,Midtjylland,3,3
+2023-05-29,2223,DNK,Viborg,FC Copenhagen,1,2
+2023-05-30,2223,DNK,Randers FC,Aarhus,1,3
+2023-06-03,2223,DNK,Aalborg,Silkeborg,0,1
+2023-06-03,2223,DNK,Horsens,Lyngby,0,0
+2023-06-03,2223,DNK,Midtjylland,Odense,4,2
+2023-06-04,2223,DNK,Aarhus,Brondby,3,3
+2023-06-04,2223,DNK,FC Copenhagen,Randers FC,1,1
+2023-06-04,2223,DNK,Nordsjaelland,Viborg,0,0
+2023-06-09,2223,DNK,Viborg,Midtjylland,0,1
+2023-07-21,2324,DNK,Midtjylland,Hvidovre IF,1,0
+2023-07-22,2324,DNK,Lyngby,FC Copenhagen,1,2
+2023-07-23,2324,DNK,Aarhus,Vejle,1,0
+2023-07-23,2324,DNK,Odense,Randers FC,2,2
+2023-07-23,2324,DNK,Silkeborg,Brondby,1,2
+2023-07-24,2324,DNK,Nordsjaelland,Viborg,4,1
+2023-07-28,2324,DNK,Viborg,Lyngby,2,2
+2023-07-29,2324,DNK,Vejle,FC Copenhagen,2,3
+2023-07-30,2324,DNK,Brondby,Odense,1,2
+2023-07-30,2324,DNK,Midtjylland,Silkeborg,2,0
+2023-07-30,2324,DNK,Randers FC,Hvidovre IF,2,2
+2023-07-31,2324,DNK,Aarhus,Nordsjaelland,1,3
+2023-08-04,2324,DNK,Silkeborg,Vejle,2,1
+2023-08-05,2324,DNK,FC Copenhagen,Randers FC,4,0
+2023-08-06,2324,DNK,Hvidovre IF,Aarhus,0,2
+2023-08-06,2324,DNK,Lyngby,Midtjylland,4,1
+2023-08-06,2324,DNK,Nordsjaelland,Brondby,3,1
+2023-08-07,2324,DNK,Odense,Viborg,1,2
+2023-08-11,2324,DNK,FC Copenhagen,Odense,2,1
+2023-08-13,2324,DNK,Aarhus,Silkeborg,2,2
+2023-08-13,2324,DNK,Brondby,Lyngby,3,0
+2023-08-13,2324,DNK,Randers FC,Nordsjaelland,0,5
+2023-08-13,2324,DNK,Vejle,Midtjylland,1,2
+2023-08-14,2324,DNK,Viborg,Hvidovre IF,0,0
+2023-08-18,2324,DNK,Hvidovre IF,FC Copenhagen,0,2
+2023-08-20,2324,DNK,Lyngby,Randers FC,1,0
+2023-08-20,2324,DNK,Midtjylland,Brondby,0,1
+2023-08-20,2324,DNK,Odense,Aarhus,1,1
+2023-08-20,2324,DNK,Silkeborg,Nordsjaelland,2,0
+2023-08-21,2324,DNK,Viborg,Vejle,2,1
+2023-08-25,2324,DNK,Randers FC,Viborg,1,0
+2023-08-26,2324,DNK,FC Copenhagen,Silkeborg,1,3
+2023-08-27,2324,DNK,Aarhus,Lyngby,1,0
+2023-08-27,2324,DNK,Hvidovre IF,Odense,1,5
+2023-08-27,2324,DNK,Nordsjaelland,Midtjylland,3,0
+2023-08-28,2324,DNK,Vejle,Brondby,0,1
+2023-09-01,2324,DNK,Odense,Vejle,1,2
+2023-09-03,2324,DNK,Brondby,Randers FC,3,1
+2023-09-03,2324,DNK,FC Copenhagen,Viborg,2,0
+2023-09-03,2324,DNK,Lyngby,Nordsjaelland,1,1
+2023-09-03,2324,DNK,Midtjylland,Aarhus,1,1
+2023-09-03,2324,DNK,Silkeborg,Hvidovre IF,1,0
+2023-09-15,2324,DNK,Viborg,Midtjylland,2,2
+2023-09-16,2324,DNK,Nordsjaelland,FC Copenhagen,2,2
+2023-09-17,2324,DNK,Aarhus,Brondby,0,3
+2023-09-17,2324,DNK,Hvidovre IF,Lyngby,0,1
+2023-09-17,2324,DNK,Vejle,Randers FC,1,2
+2023-09-18,2324,DNK,Odense,Silkeborg,0,3
+2023-09-22,2324,DNK,Lyngby,Vejle,1,1
+2023-09-24,2324,DNK,Brondby,FC Copenhagen,2,3
+2023-09-24,2324,DNK,Midtjylland,Odense,2,1
+2023-09-24,2324,DNK,Randers FC,Aarhus,1,1
+2023-09-24,2324,DNK,Silkeborg,Viborg,2,0
+2023-09-25,2324,DNK,Nordsjaelland,Hvidovre IF,0,0
+2023-09-30,2324,DNK,FC Copenhagen,Midtjylland,0,2
+2023-10-01,2324,DNK,Hvidovre IF,Brondby,0,3
+2023-10-01,2324,DNK,Randers FC,Silkeborg,1,0
+2023-10-01,2324,DNK,Vejle,Nordsjaelland,0,0
+2023-10-01,2324,DNK,Viborg,Aarhus,2,1
+2023-10-02,2324,DNK,Odense,Lyngby,1,2
+2023-10-06,2324,DNK,Silkeborg,Lyngby,5,0
+2023-10-08,2324,DNK,Aarhus,FC Copenhagen,1,1
+2023-10-08,2324,DNK,Brondby,Viborg,1,0
+2023-10-08,2324,DNK,Midtjylland,Randers FC,2,2
+2023-10-08,2324,DNK,Nordsjaelland,Odense,0,1
+2023-10-08,2324,DNK,Vejle,Hvidovre IF,3,1
+2023-10-20,2324,DNK,Hvidovre IF,Silkeborg,1,2
+2023-10-21,2324,DNK,FC Copenhagen,Vejle,2,1
+2023-10-22,2324,DNK,Lyngby,Aarhus,0,2
+2023-10-22,2324,DNK,Randers FC,Brondby,2,2
+2023-10-22,2324,DNK,Viborg,Nordsjaelland,0,2
+2023-10-23,2324,DNK,Odense,Midtjylland,1,2
+2023-10-27,2324,DNK,Midtjylland,Lyngby,2,1
+2023-10-28,2324,DNK,FC Copenhagen,Hvidovre IF,4,0
+2023-10-29,2324,DNK,Brondby,Nordsjaelland,2,1
+2023-10-29,2324,DNK,Silkeborg,Odense,0,0
+2023-10-29,2324,DNK,Vejle,Viborg,1,1
+2023-10-30,2324,DNK,Aarhus,Randers FC,2,1
+2023-11-04,2324,DNK,Lyngby,Odense,2,2
+2023-11-05,2324,DNK,Hvidovre IF,Midtjylland,1,4
+2023-11-05,2324,DNK,Nordsjaelland,Vejle,1,0
+2023-11-05,2324,DNK,Randers FC,FC Copenhagen,2,4
+2023-11-05,2324,DNK,Viborg,Silkeborg,2,1
+2023-11-06,2324,DNK,Brondby,Aarhus,1,1
+2023-11-10,2324,DNK,Silkeborg,Randers FC,1,1
+2023-11-12,2324,DNK,Aarhus,Viborg,2,0
+2023-11-12,2324,DNK,FC Copenhagen,Brondby,0,0
+2023-11-12,2324,DNK,Midtjylland,Nordsjaelland,2,0
+2023-11-12,2324,DNK,Odense,Hvidovre IF,0,2
+2023-11-12,2324,DNK,Vejle,Lyngby,1,0
+2023-11-24,2324,DNK,Hvidovre IF,Vejle,1,1
+2023-11-25,2324,DNK,Viborg,FC Copenhagen,2,1
+2023-11-26,2324,DNK,Lyngby,Brondby,3,3
+2023-11-26,2324,DNK,Nordsjaelland,Aarhus,0,0
+2023-11-26,2324,DNK,Randers FC,Odense,0,1
+2023-11-27,2324,DNK,Silkeborg,Midtjylland,1,4
+2023-12-01,2324,DNK,Randers FC,Vejle,0,0
+2023-12-03,2324,DNK,Brondby,Hvidovre IF,4,0
+2023-12-03,2324,DNK,FC Copenhagen,Aarhus,1,2
+2023-12-03,2324,DNK,Lyngby,Silkeborg,2,0
+2023-12-03,2324,DNK,Odense,Nordsjaelland,1,1
+2023-12-04,2324,DNK,Midtjylland,Viborg,5,1
+2024-02-16,2324,DNK,Viborg,Odense,1,2
+2024-02-18,2324,DNK,Brondby,Midtjylland,1,0
+2024-02-18,2324,DNK,Hvidovre IF,Randers FC,1,3
+2024-02-18,2324,DNK,Nordsjaelland,Lyngby,3,2
+2024-02-18,2324,DNK,Silkeborg,FC Copenhagen,0,3
+2024-02-19,2324,DNK,Vejle,Aarhus,0,0
+2024-02-23,2324,DNK,Randers FC,Lyngby,1,0
+2024-02-25,2324,DNK,Aarhus,Midtjylland,2,3
+2024-02-25,2324,DNK,Hvidovre IF,Viborg,2,2
+2024-02-25,2324,DNK,Odense,Brondby,0,3
+2024-02-25,2324,DNK,Vejle,Silkeborg,2,0
+2024-02-26,2324,DNK,FC Copenhagen,Nordsjaelland,2,0
+2024-03-01,2324,DNK,Midtjylland,FC Copenhagen,2,0
+2024-03-03,2324,DNK,Aarhus,Odense,1,1
+2024-03-03,2324,DNK,Brondby,Vejle,1,1
+2024-03-03,2324,DNK,Lyngby,Hvidovre IF,2,4
+2024-03-03,2324,DNK,Viborg,Randers FC,3,0
+2024-03-04,2324,DNK,Nordsjaelland,Silkeborg,3,1
+2024-03-08,2324,DNK,Hvidovre IF,Nordsjaelland,1,2
+2024-03-10,2324,DNK,FC Copenhagen,Lyngby,4,0
+2024-03-10,2324,DNK,Silkeborg,Aarhus,0,1
+2024-03-10,2324,DNK,Vejle,Odense,0,1
+2024-03-10,2324,DNK,Viborg,Brondby,1,2
+2024-03-11,2324,DNK,Randers FC,Midtjylland,0,1
+2024-03-17,2324,DNK,Aarhus,Hvidovre IF,1,0
+2024-03-17,2324,DNK,Brondby,Silkeborg,4,1
+2024-03-17,2324,DNK,Lyngby,Viborg,2,0
+2024-03-17,2324,DNK,Midtjylland,Vejle,3,0
+2024-03-17,2324,DNK,Nordsjaelland,Randers FC,1,1
+2024-03-17,2324,DNK,Odense,FC Copenhagen,0,2
+2024-03-31,2324,DNK,Randers FC,Lyngby,6,2
+2024-03-31,2324,DNK,Viborg,Hvidovre IF,3,1
+2024-04-01,2324,DNK,FC Copenhagen,Brondby,1,2
+2024-04-01,2324,DNK,Midtjylland,Nordsjaelland,2,3
+2024-04-01,2324,DNK,Silkeborg,Aarhus,2,2
+2024-04-02,2324,DNK,Odense,Vejle,0,1
+2024-04-05,2324,DNK,Lyngby,Odense,0,0
+2024-04-07,2324,DNK,Aarhus,Midtjylland,0,1
+2024-04-07,2324,DNK,Hvidovre IF,Randers FC,1,3
+2024-04-07,2324,DNK,Nordsjaelland,FC Copenhagen,2,1
+2024-04-07,2324,DNK,Vejle,Viborg,1,1
+2024-04-08,2324,DNK,Brondby,Silkeborg,1,1
+2024-04-12,2324,DNK,Odense,Viborg,1,3
+2024-04-14,2324,DNK,Aarhus,Brondby,2,2
+2024-04-14,2324,DNK,Lyngby,Hvidovre IF,1,1
+2024-04-14,2324,DNK,Midtjylland,FC Copenhagen,2,2
+2024-04-14,2324,DNK,Vejle,Randers FC,1,2
+2024-04-15,2324,DNK,Silkeborg,Nordsjaelland,0,1
+2024-04-19,2324,DNK,Randers FC,Odense,2,2
+2024-04-21,2324,DNK,Brondby,Midtjylland,2,1
+2024-04-21,2324,DNK,FC Copenhagen,Silkeborg,2,0
+2024-04-21,2324,DNK,Hvidovre IF,Vejle,2,1
+2024-04-21,2324,DNK,Viborg,Lyngby,2,1
+2024-04-22,2324,DNK,Nordsjaelland,Aarhus,7,2
+2024-04-26,2324,DNK,Lyngby,Vejle,1,1
+2024-04-28,2324,DNK,FC Copenhagen,Aarhus,3,2
+2024-04-28,2324,DNK,Nordsjaelland,Brondby,1,1
+2024-04-28,2324,DNK,Odense,Hvidovre IF,1,2
+2024-04-28,2324,DNK,Viborg,Randers FC,0,0
+2024-04-29,2324,DNK,Silkeborg,Midtjylland,3,0
+2024-05-03,2324,DNK,Aarhus,Nordsjaelland,1,3
+2024-05-05,2324,DNK,Hvidovre IF,Viborg,0,1
+2024-05-05,2324,DNK,Lyngby,Randers FC,2,1
+2024-05-05,2324,DNK,Midtjylland,Brondby,3,2
+2024-05-05,2324,DNK,Silkeborg,FC Copenhagen,0,3
+2024-05-06,2324,DNK,Vejle,Odense,3,2
+2024-05-10,2324,DNK,Odense,Lyngby,1,2
+2024-05-12,2324,DNK,Brondby,FC Copenhagen,1,3
+2024-05-12,2324,DNK,Midtjylland,Aarhus,2,1
+2024-05-12,2324,DNK,Nordsjaelland,Silkeborg,4,1
+2024-05-12,2324,DNK,Randers FC,Hvidovre IF,2,2
+2024-05-12,2324,DNK,Viborg,Vejle,1,2
+2024-05-15,2324,DNK,Brondby,Nordsjaelland,1,0
+2024-05-15,2324,DNK,Randers FC,Viborg,1,0
+2024-05-15,2324,DNK,Vejle,Lyngby,1,0
+2024-05-16,2324,DNK,Aarhus,Silkeborg,0,1
+2024-05-16,2324,DNK,FC Copenhagen,Midtjylland,1,2
+2024-05-16,2324,DNK,Hvidovre IF,Odense,1,2
+2024-05-19,2324,DNK,Odense,Randers FC,2,0
+2024-05-20,2324,DNK,Lyngby,Viborg,3,1
+2024-05-20,2324,DNK,Nordsjaelland,Midtjylland,3,3
+2024-05-20,2324,DNK,Silkeborg,Brondby,0,2
+2024-05-20,2324,DNK,Vejle,Hvidovre IF,2,0
+2024-05-21,2324,DNK,Aarhus,FC Copenhagen,3,2
+2024-05-25,2324,DNK,Hvidovre IF,Lyngby,0,0
+2024-05-25,2324,DNK,Randers FC,Vejle,1,0
+2024-05-25,2324,DNK,Viborg,Odense,2,1
+2024-05-26,2324,DNK,Brondby,Aarhus,2,3
+2024-05-26,2324,DNK,FC Copenhagen,Nordsjaelland,1,1
+2024-05-26,2324,DNK,Midtjylland,Silkeborg,3,3
+2024-05-31,2324,DNK,FC Copenhagen,Randers FC,2,1
+2024-07-19,2425,DNK,Aarhus,Midtjylland,1,1
+2024-07-19,2425,DNK,Nordsjaelland,Aalborg,3,0
+2024-07-21,2425,DNK,Silkeborg,Sonderjyske,1,0
+2024-07-21,2425,DNK,Vejle,Randers FC,2,3
+2024-07-21,2425,DNK,Viborg,Brondby,3,3
+2024-07-22,2425,DNK,Lyngby,FC Copenhagen,0,2
+2024-07-26,2425,DNK,Sonderjyske,Lyngby,1,1
+2024-07-27,2425,DNK,Nordsjaelland,Midtjylland,2,2
+2024-07-28,2425,DNK,Aalborg,Silkeborg,2,1
+2024-07-28,2425,DNK,FC Copenhagen,Aarhus,3,2
+2024-07-28,2425,DNK,Randers FC,Viborg,3,1
+2024-07-29,2425,DNK,Brondby,Vejle,2,1
+2024-08-02,2425,DNK,Aarhus,Sonderjyske,4,0
+2024-08-03,2425,DNK,Midtjylland,Aalborg,2,0
+2024-08-04,2425,DNK,FC Copenhagen,Randers FC,1,1
+2024-08-04,2425,DNK,Lyngby,Brondby,0,2
+2024-08-04,2425,DNK,Silkeborg,Viborg,3,2
+2024-08-05,2425,DNK,Vejle,Nordsjaelland,0,1
+2024-08-09,2425,DNK,Midtjylland,Vejle,2,0
+2024-08-11,2425,DNK,Brondby,Aarhus,0,1
+2024-08-11,2425,DNK,Nordsjaelland,Lyngby,1,1
+2024-08-11,2425,DNK,Randers FC,Silkeborg,0,2
+2024-08-11,2425,DNK,Sonderjyske,FC Copenhagen,0,2
+2024-08-12,2425,DNK,Viborg,Aalborg,2,3
+2024-08-16,2425,DNK,Lyngby,Midtjylland,1,2
+2024-08-18,2425,DNK,Aalborg,Brondby,0,4
+2024-08-18,2425,DNK,FC Copenhagen,Viborg,1,1
+2024-08-18,2425,DNK,Randers FC,Sonderjyske,1,2
+2024-08-18,2425,DNK,Silkeborg,Nordsjaelland,4,1
+2024-08-19,2425,DNK,Aarhus,Vejle,5,1
+2024-08-23,2425,DNK,Aalborg,Aarhus,0,4
+2024-08-24,2425,DNK,Midtjylland,Sonderjyske,3,2
+2024-08-25,2425,DNK,Brondby,Randers FC,2,2
+2024-08-25,2425,DNK,Nordsjaelland,FC Copenhagen,3,2
+2024-08-25,2425,DNK,Vejle,Silkeborg,1,3
+2024-08-26,2425,DNK,Viborg,Lyngby,1,0
+2024-08-30,2425,DNK,Lyngby,Vejle,1,0
+2024-08-31,2425,DNK,Aarhus,Nordsjaelland,4,2
+2024-09-01,2425,DNK,FC Copenhagen,Brondby,3,1
+2024-09-01,2425,DNK,Randers FC,Aalborg,1,0
+2024-09-01,2425,DNK,Silkeborg,Midtjylland,1,3
+2024-09-01,2425,DNK,Sonderjyske,Viborg,2,2
+2024-09-13,2425,DNK,Aalborg,Lyngby,2,1
+2024-09-14,2425,DNK,Midtjylland,FC Copenhagen,2,1
+2024-09-15,2425,DNK,Aarhus,Silkeborg,1,1
+2024-09-15,2425,DNK,Brondby,Sonderjyske,2,0
+2024-09-15,2425,DNK,Vejle,Viborg,0,5
+2024-09-16,2425,DNK,Nordsjaelland,Randers FC,1,1
+2024-09-20,2425,DNK,Viborg,Nordsjaelland,3,2
+2024-09-22,2425,DNK,Lyngby,Aarhus,0,0
+2024-09-22,2425,DNK,Randers FC,Midtjylland,2,2
+2024-09-22,2425,DNK,Silkeborg,Brondby,3,3
+2024-09-22,2425,DNK,Sonderjyske,Vejle,2,1
+2024-09-23,2425,DNK,FC Copenhagen,Aalborg,2,0
+2024-09-28,2425,DNK,Aarhus,Randers FC,2,2
+2024-09-29,2425,DNK,Aalborg,Sonderjyske,3,0
+2024-09-29,2425,DNK,Lyngby,Silkeborg,2,2
+2024-09-29,2425,DNK,Midtjylland,Viborg,3,1
+2024-09-29,2425,DNK,Vejle,FC Copenhagen,1,2
+2024-09-30,2425,DNK,Nordsjaelland,Brondby,4,1
+2024-10-04,2425,DNK,Vejle,Aalborg,2,2
+2024-10-06,2425,DNK,Brondby,Midtjylland,2,0
+2024-10-06,2425,DNK,Randers FC,Lyngby,1,1
+2024-10-06,2425,DNK,Silkeborg,FC Copenhagen,2,2
+2024-10-06,2425,DNK,Sonderjyske,Nordsjaelland,1,4
+2024-10-06,2425,DNK,Viborg,Aarhus,1,1
+2024-10-18,2425,DNK,FC Copenhagen,Vejle,3,1
+2024-10-20,2425,DNK,Aalborg,Randers FC,0,2
+2024-10-20,2425,DNK,Lyngby,Viborg,0,0
+2024-10-20,2425,DNK,Nordsjaelland,Silkeborg,1,1
+2024-10-20,2425,DNK,Sonderjyske,Midtjylland,3,2
+2024-10-21,2425,DNK,Aarhus,Brondby,1,0
+2024-10-25,2425,DNK,Silkeborg,Aalborg,1,1
+2024-10-27,2425,DNK,Brondby,FC Copenhagen,0,0
+2024-10-27,2425,DNK,Midtjylland,Aarhus,2,0
+2024-10-27,2425,DNK,Vejle,Lyngby,2,0
+2024-10-27,2425,DNK,Viborg,Sonderjyske,4,2
+2024-10-28,2425,DNK,Randers FC,Nordsjaelland,4,0
+2024-11-02,2425,DNK,Sonderjyske,Randers FC,1,4
+2024-11-03,2425,DNK,Aalborg,Vejle,3,3
+2024-11-03,2425,DNK,Aarhus,Lyngby,2,1
+2024-11-03,2425,DNK,Midtjylland,Brondby,1,5
+2024-11-03,2425,DNK,Nordsjaelland,Viborg,2,1
+2024-11-04,2425,DNK,FC Copenhagen,Silkeborg,2,2
+2024-11-08,2425,DNK,Vejle,Sonderjyske,1,1
+2024-11-10,2425,DNK,Aarhus,FC Copenhagen,1,1
+2024-11-10,2425,DNK,Brondby,Nordsjaelland,1,1
+2024-11-10,2425,DNK,Lyngby,Aalborg,2,2
+2024-11-10,2425,DNK,Silkeborg,Randers FC,1,0
+2024-11-10,2425,DNK,Viborg,Midtjylland,1,0
+2024-11-22,2425,DNK,Nordsjaelland,Aarhus,1,0
+2024-11-24,2425,DNK,Aalborg,Viborg,0,0
+2024-11-24,2425,DNK,FC Copenhagen,Lyngby,2,1
+2024-11-24,2425,DNK,Randers FC,Vejle,2,0
+2024-11-24,2425,DNK,Sonderjyske,Brondby,2,2
+2024-11-25,2425,DNK,Midtjylland,Silkeborg,1,0
+2024-11-29,2425,DNK,Brondby,Aalborg,1,0
+2024-12-01,2425,DNK,Lyngby,Sonderjyske,0,2
+2024-12-01,2425,DNK,Silkeborg,Aarhus,1,1
+2024-12-01,2425,DNK,Vejle,Midtjylland,0,3
+2024-12-01,2425,DNK,Viborg,Randers FC,1,2
+2024-12-02,2425,DNK,FC Copenhagen,Nordsjaelland,3,1
+2025-02-14,2425,DNK,Brondby,Viborg,4,1
+2025-02-16,2425,DNK,Midtjylland,Lyngby,1,0
+2025-02-16,2425,DNK,Silkeborg,Vejle,0,1
+2025-02-16,2425,DNK,Sonderjyske,Aarhus,1,4
+2025-02-17,2425,DNK,Randers FC,FC Copenhagen,1,2
+2025-02-21,2425,DNK,Lyngby,Randers FC,0,0
+2025-02-23,2425,DNK,Aarhus,Aalborg,4,0
+2025-02-23,2425,DNK,FC Copenhagen,Midtjylland,1,0
+2025-02-23,2425,DNK,Nordsjaelland,Sonderjyske,3,2
+2025-02-23,2425,DNK,Vejle,Brondby,2,2
+2025-02-24,2425,DNK,Viborg,Silkeborg,1,4
+2025-02-26,2425,DNK,Aalborg,Nordsjaelland,1,2
+2025-02-28,2425,DNK,Randers FC,Aarhus,1,1
+2025-03-02,2425,DNK,Aalborg,FC Copenhagen,0,0
+2025-03-02,2425,DNK,Midtjylland,Nordsjaelland,2,1
+2025-03-02,2425,DNK,Sonderjyske,Silkeborg,1,3
+2025-03-02,2425,DNK,Viborg,Vejle,3,1
+2025-03-03,2425,DNK,Brondby,Lyngby,1,1
+2025-03-07,2425,DNK,Nordsjaelland,Vejle,3,1
+2025-03-09,2425,DNK,Aalborg,Midtjylland,1,4
+2025-03-09,2425,DNK,Aarhus,Viborg,1,1
+2025-03-09,2425,DNK,FC Copenhagen,Sonderjyske,1,1
+2025-03-09,2425,DNK,Silkeborg,Lyngby,0,1
+2025-03-10,2425,DNK,Randers FC,Brondby,4,2
+2025-03-16,2425,DNK,Brondby,Silkeborg,2,2
+2025-03-16,2425,DNK,Lyngby,Nordsjaelland,1,0
+2025-03-16,2425,DNK,Midtjylland,Randers FC,4,2
+2025-03-16,2425,DNK,Sonderjyske,Aalborg,0,3
+2025-03-16,2425,DNK,Vejle,Aarhus,3,2
+2025-03-16,2425,DNK,Viborg,FC Copenhagen,3,2
+2025-03-28,2425,DNK,Aalborg,Viborg,0,4
+2025-03-30,2425,DNK,Aarhus,Nordsjaelland,2,0
+2025-03-30,2425,DNK,Lyngby,Vejle,1,2
+2025-03-30,2425,DNK,Midtjylland,Brondby,0,2
+2025-03-30,2425,DNK,Sonderjyske,Silkeborg,2,1
+2025-03-31,2425,DNK,FC Copenhagen,Randers FC,1,0
+2025-04-04,2425,DNK,Randers FC,Midtjylland,2,1
+2025-04-06,2425,DNK,Nordsjaelland,FC Copenhagen,0,1
+2025-04-06,2425,DNK,Silkeborg,Lyngby,2,1
+2025-04-06,2425,DNK,Vejle,Aalborg,1,1
+2025-04-06,2425,DNK,Viborg,Sonderjyske,2,1
+2025-04-07,2425,DNK,Brondby,Aarhus,2,1
+2025-04-11,2425,DNK,Aalborg,Lyngby,2,2
+2025-04-13,2425,DNK,Aarhus,Midtjylland,1,1
+2025-04-13,2425,DNK,FC Copenhagen,Brondby,1,2
+2025-04-13,2425,DNK,Nordsjaelland,Randers FC,5,2
+2025-04-13,2425,DNK,Viborg,Silkeborg,2,1
+2025-04-14,2425,DNK,Sonderjyske,Vejle,1,0
+2025-04-16,2425,DNK,Silkeborg,Aalborg,4,0
+2025-04-17,2425,DNK,Lyngby,Sonderjyske,0,2
+2025-04-17,2425,DNK,Midtjylland,FC Copenhagen,4,2
+2025-04-17,2425,DNK,Randers FC,Aarhus,3,1
+2025-04-17,2425,DNK,Vejle,Viborg,3,3
+2025-04-18,2425,DNK,Brondby,Nordsjaelland,0,0
+2025-04-20,2425,DNK,Aalborg,Sonderjyske,2,3
+2025-04-21,2425,DNK,Brondby,Randers FC,4,3
+2025-04-21,2425,DNK,FC Copenhagen,Aarhus,3,1
+2025-04-21,2425,DNK,Vejle,Silkeborg,0,4
+2025-04-21,2425,DNK,Viborg,Lyngby,1,1
+2025-04-22,2425,DNK,Nordsjaelland,Midtjylland,3,2
+2025-04-25,2425,DNK,Randers FC,Brondby,0,0
+2025-04-27,2425,DNK,Aarhus,FC Copenhagen,1,3
+2025-04-27,2425,DNK,Lyngby,Silkeborg,2,0
+2025-04-27,2425,DNK,Midtjylland,Nordsjaelland,5,0
+2025-04-27,2425,DNK,Sonderjyske,Viborg,2,2
+2025-04-28,2425,DNK,Aalborg,Vejle,0,1
+2025-05-02,2425,DNK,Randers FC,Nordsjaelland,3,2
+2025-05-04,2425,DNK,Brondby,FC Copenhagen,0,3
+2025-05-04,2425,DNK,Lyngby,Viborg,0,0
+2025-05-04,2425,DNK,Midtjylland,Aarhus,3,1
+2025-05-04,2425,DNK,Silkeborg,Vejle,1,1
+2025-05-05,2425,DNK,Sonderjyske,Aalborg,2,2
+2025-05-11,2425,DNK,Aarhus,Randers FC,1,3
+2025-05-11,2425,DNK,FC Copenhagen,Midtjylland,1,1
+2025-05-11,2425,DNK,Nordsjaelland,Brondby,2,2
+2025-05-11,2425,DNK,Silkeborg,Sonderjyske,1,0
+2025-05-11,2425,DNK,Viborg,Aalborg,3,1
+2025-05-12,2425,DNK,Vejle,Lyngby,2,0
+2025-05-16,2425,DNK,Nordsjaelland,Aarhus,2,0
+2025-05-18,2425,DNK,Aalborg,Silkeborg,2,3
+2025-05-18,2425,DNK,Randers FC,FC Copenhagen,0,4
+2025-05-18,2425,DNK,Sonderjyske,Lyngby,5,1
+2025-05-18,2425,DNK,Viborg,Vejle,0,1
+2025-05-19,2425,DNK,Brondby,Midtjylland,1,2
+2025-05-24,2425,DNK,Lyngby,Aalborg,3,1
+2025-05-24,2425,DNK,Silkeborg,Viborg,1,2
+2025-05-24,2425,DNK,Vejle,Sonderjyske,2,3
+2025-05-25,2425,DNK,Aarhus,Brondby,2,3
+2025-05-25,2425,DNK,FC Copenhagen,Nordsjaelland,3,0
+2025-05-25,2425,DNK,Midtjylland,Randers FC,3,2
+2025-07-18,2526,DNK,Viborg,FC Copenhagen,2,3
+2025-07-20,2526,DNK,Brondby,Silkeborg,3,0
+2025-07-20,2526,DNK,Fredericia,Nordsjaelland,2,3
+2025-07-20,2526,DNK,Midtjylland,Odense,3,3
+2025-07-20,2526,DNK,Sonderjyske,Aarhus,1,1
+2025-07-20,2526,DNK,Vejle,Randers FC,1,1
+2025-07-25,2526,DNK,Aarhus,Randers FC,1,2
+2025-07-26,2526,DNK,FC Copenhagen,Vejle,2,0
+2025-07-27,2526,DNK,Nordsjaelland,Brondby,0,1
+2025-07-27,2526,DNK,Odense,Viborg,3,1
+2025-07-27,2526,DNK,Silkeborg,Fredericia,0,2
+2025-07-28,2526,DNK,Midtjylland,Sonderjyske,6,2
+2025-08-01,2526,DNK,Fredericia,FC Copenhagen,0,2
+2025-08-01,2526,DNK,Vejle,Odense,4,0
+2025-08-03,2526,DNK,Aarhus,Midtjylland,0,0
+2025-08-03,2526,DNK,Brondby,Viborg,0,2
+2025-08-03,2526,DNK,Randers FC,Silkeborg,1,0
+2025-08-03,2526,DNK,Sonderjyske,Nordsjaelland,3,2
+2025-08-08,2526,DNK,FC Copenhagen,Aarhus,2,3
+2025-08-08,2526,DNK,Viborg,Sonderjyske,1,0
+2025-08-10,2526,DNK,Brondby,Vejle,2,1
+2025-08-10,2526,DNK,Midtjylland,Fredericia,3,3
+2025-08-10,2526,DNK,Silkeborg,Nordsjaelland,4,2
+2025-08-11,2526,DNK,Odense,Randers FC,3,2
+2025-08-15,2526,DNK,Fredericia,Sonderjyske,3,2
+2025-08-15,2526,DNK,Nordsjaelland,FC Copenhagen,1,3
+2025-08-17,2526,DNK,Randers FC,Brondby,0,2
+2025-08-17,2526,DNK,Vejle,Midtjylland,0,2
+2025-08-17,2526,DNK,Viborg,Silkeborg,2,3
+2025-08-18,2526,DNK,Odense,Aarhus,1,5
+2025-08-23,2526,DNK,FC Copenhagen,Odense,1,1
+2025-08-24,2526,DNK,Aarhus,Vejle,1,0
+2025-08-24,2526,DNK,Fredericia,Randers FC,1,0
+2025-08-24,2526,DNK,Midtjylland,Silkeborg,4,2
+2025-08-24,2526,DNK,Sonderjyske,Brondby,2,0
+2025-08-25,2526,DNK,Nordsjaelland,Viborg,1,0
+2025-08-29,2526,DNK,Vejle,Viborg,1,2
+2025-08-31,2526,DNK,Aarhus,Fredericia,4,1
+2025-08-31,2526,DNK,Brondby,Midtjylland,1,3
+2025-08-31,2526,DNK,Odense,Nordsjaelland,1,2
+2025-08-31,2526,DNK,Randers FC,FC Copenhagen,1,5
+2025-08-31,2526,DNK,Silkeborg,Sonderjyske,0,2
+2025-09-12,2526,DNK,Sonderjyske,Randers FC,0,1
+2025-09-13,2526,DNK,Brondby,FC Copenhagen,2,1
+2025-09-14,2526,DNK,Nordsjaelland,Midtjylland,1,0
+2025-09-14,2526,DNK,Silkeborg,Odense,2,1
+2025-09-14,2526,DNK,Viborg,Aarhus,1,2
+2025-09-15,2526,DNK,Fredericia,Vejle,1,1
+2025-09-19,2526,DNK,Odense,Fredericia,3,2
+2025-09-20,2526,DNK,Midtjylland,Viborg,2,0
+2025-09-21,2526,DNK,Aarhus,Brondby,1,0
+2025-09-21,2526,DNK,FC Copenhagen,Silkeborg,3,3
+2025-09-21,2526,DNK,Vejle,Sonderjyske,2,2
+2025-09-22,2526,DNK,Randers FC,Nordsjaelland,3,0
+2025-09-27,2526,DNK,Sonderjyske,FC Copenhagen,1,2
+2025-09-28,2526,DNK,Brondby,Odense,5,1
+2025-09-28,2526,DNK,Nordsjaelland,Aarhus,1,2
+2025-09-28,2526,DNK,Silkeborg,Vejle,1,1
+2025-09-28,2526,DNK,Viborg,Fredericia,2,1
+2025-09-29,2526,DNK,Midtjylland,Randers FC,2,1
+2025-10-03,2526,DNK,Odense,Sonderjyske,1,1
+2025-10-05,2526,DNK,Aarhus,Silkeborg,3,1
+2025-10-05,2526,DNK,FC Copenhagen,Midtjylland,1,1
+2025-10-05,2526,DNK,Fredericia,Brondby,0,2
+2025-10-05,2526,DNK,Randers FC,Viborg,2,1
+2025-10-05,2526,DNK,Vejle,Nordsjaelland,0,3
+2025-10-17,2526,DNK,Silkeborg,FC Copenhagen,3,1
+2025-10-19,2526,DNK,Brondby,Aarhus,3,3
+2025-10-19,2526,DNK,Midtjylland,Vejle,5,1
+2025-10-19,2526,DNK,Nordsjaelland,Randers FC,1,0
+2025-10-19,2526,DNK,Viborg,Odense,1,2
+2025-10-20,2526,DNK,Sonderjyske,Fredericia,3,0
+2025-10-24,2526,DNK,Aarhus,Nordsjaelland,1,0
+2025-10-26,2526,DNK,FC Copenhagen,Viborg,0,0
+2025-10-26,2526,DNK,Fredericia,Midtjylland,0,4
+2025-10-26,2526,DNK,Randers FC,Sonderjyske,0,0
+2025-10-26,2526,DNK,Vejle,Silkeborg,1,2
+2025-10-27,2526,DNK,Odense,Brondby,1,4
+2025-11-01,2526,DNK,FC Copenhagen,Fredericia,3,2
+2025-11-02,2526,DNK,Nordsjaelland,Odense,2,4
+2025-11-02,2526,DNK,Silkeborg,Brondby,0,2
+2025-11-02,2526,DNK,Sonderjyske,Vejle,2,1
+2025-11-02,2526,DNK,Viborg,Randers FC,3,2
+2025-11-03,2526,DNK,Midtjylland,Aarhus,1,1
+2025-11-07,2526,DNK,Odense,Silkeborg,1,1
+2025-11-09,2526,DNK,Aarhus,Sonderjyske,2,3
+2025-11-09,2526,DNK,Brondby,Nordsjaelland,2,0
+2025-11-09,2526,DNK,Fredericia,Viborg,0,3
+2025-11-09,2526,DNK,Randers FC,Midtjylland,0,2
+2025-11-09,2526,DNK,Vejle,FC Copenhagen,2,0
+2025-11-21,2526,DNK,Silkeborg,Aarhus,0,2
+2025-11-23,2526,DNK,FC Copenhagen,Brondby,1,0
+2025-11-23,2526,DNK,Nordsjaelland,Fredericia,5,0
+2025-11-23,2526,DNK,Sonderjyske,Midtjylland,2,1
+2025-11-23,2526,DNK,Viborg,Vejle,5,2
+2025-11-24,2526,DNK,Randers FC,Odense,0,0
+2025-11-28,2526,DNK,Sonderjyske,Viborg,2,2
+2025-11-30,2526,DNK,Aarhus,FC Copenhagen,2,0
+2025-11-30,2526,DNK,Midtjylland,Nordsjaelland,6,0
+2025-11-30,2526,DNK,Odense,Vejle,3,0
+2025-11-30,2526,DNK,Silkeborg,Randers FC,0,0
+2025-12-01,2526,DNK,Brondby,Fredericia,1,3
+2025-12-05,2526,DNK,Fredericia,Odense,1,3
+2025-12-07,2526,DNK,FC Copenhagen,Sonderjyske,0,2
+2025-12-07,2526,DNK,Nordsjaelland,Silkeborg,5,0
+2025-12-07,2526,DNK,Randers FC,Aarhus,1,2
+2025-12-07,2526,DNK,Viborg,Midtjylland,3,3
+2025-12-08,2526,DNK,Vejle,Brondby,2,1
+2026-02-08,2526,DNK,Brondby,Randers FC,0,0
+2026-02-08,2526,DNK,Midtjylland,FC Copenhagen,2,1
+2026-02-08,2526,DNK,Nordsjaelland,Sonderjyske,2,1
+2026-02-08,2526,DNK,Silkeborg,Viborg,0,1
+2026-02-09,2526,DNK,Aarhus,Odense,2,1
+2026-02-09,2526,DNK,Vejle,Fredericia,2,3
+2026-02-13,2526,DNK,Randers FC,Vejle,2,0
+2026-02-14,2526,DNK,FC Copenhagen,Nordsjaelland,1,2
+2026-02-15,2526,DNK,Fredericia,Aarhus,1,1
+2026-02-15,2526,DNK,Odense,Midtjylland,1,4
+2026-02-15,2526,DNK,Viborg,Brondby,1,0
+2026-02-16,2526,DNK,Sonderjyske,Silkeborg,2,1
+2026-02-20,2526,DNK,Nordsjaelland,Vejle,3,3
+2026-02-21,2526,DNK,Odense,FC Copenhagen,2,2
+2026-02-22,2526,DNK,Aarhus,Viborg,5,2
+2026-02-22,2526,DNK,Randers FC,Fredericia,1,2
+2026-02-22,2526,DNK,Silkeborg,Midtjylland,0,4
+2026-02-23,2526,DNK,Brondby,Sonderjyske,0,0
+2026-03-01,2526,DNK,FC Copenhagen,Randers FC,1,2
+2026-03-01,2526,DNK,Fredericia,Silkeborg,2,1
+2026-03-01,2526,DNK,Midtjylland,Brondby,0,0
+2026-03-01,2526,DNK,Sonderjyske,Odense,1,0
+2026-03-01,2526,DNK,Vejle,Aarhus,1,2
+2026-03-01,2526,DNK,Viborg,Nordsjaelland,2,1
+2026-03-13,2526,DNK,Fredericia,Randers FC,0,3
+2026-03-15,2526,DNK,Brondby,Viborg,0,1
+2026-03-15,2526,DNK,Midtjylland,Nordsjaelland,0,1
+2026-03-15,2526,DNK,Odense,FC Copenhagen,2,1
+2026-03-15,2526,DNK,Sonderjyske,Aarhus,1,1
+2026-03-16,2526,DNK,Silkeborg,Vejle,1,1
+2026-03-20,2526,DNK,Vejle,Odense,1,1
+2026-03-22,2526,DNK,Aarhus,Brondby,0,0
+2026-03-22,2526,DNK,FC Copenhagen,Fredericia,1,2
+2026-03-22,2526,DNK,Nordsjaelland,Sonderjyske,2,0
+2026-03-22,2526,DNK,Randers FC,Silkeborg,0,3
+2026-03-22,2526,DNK,Viborg,Midtjylland,1,1
+2026-04-04,2526,DNK,Midtjylland,Sonderjyske,2,2
+2026-04-05,2526,DNK,FC Copenhagen,Silkeborg,7,0
+2026-04-06,2526,DNK,Odense,Fredericia,1,0
+2026-04-06,2526,DNK,Vejle,Randers FC,1,1
+2026-04-06,2526,DNK,Viborg,Aarhus,1,2
+2026-04-07,2526,DNK,Nordsjaelland,Brondby,2,1
+2026-04-10,2526,DNK,Aarhus,Nordsjaelland,1,1
+2026-04-12,2526,DNK,Brondby,Midtjylland,1,2
+2026-04-12,2526,DNK,Randers FC,FC Copenhagen,1,2
+2026-04-12,2526,DNK,Silkeborg,Odense,3,1
+2026-04-12,2526,DNK,Sonderjyske,Viborg,0,2
+2026-04-13,2526,DNK,Fredericia,Vejle,2,2
+2026-04-17,2526,DNK,Brondby,Sonderjyske,6,0
+2026-04-19,2526,DNK,Nordsjaelland,Viborg,2,1
+2026-04-19,2526,DNK,Odense,Randers FC,3,1
+2026-04-19,2526,DNK,Silkeborg,Fredericia,2,2
+2026-04-19,2526,DNK,Vejle,FC Copenhagen,1,4
+2026-04-20,2526,DNK,Midtjylland,Aarhus,2,1
+2026-04-22,2526,DNK,FC Copenhagen,Odense,2,1
+2026-04-22,2526,DNK,Vejle,Silkeborg,1,2
+2026-04-22,2526,DNK,Viborg,Brondby,0,1
+2026-04-23,2526,DNK,Nordsjaelland,Aarhus,1,1
+2026-04-23,2526,DNK,Randers FC,Fredericia,2,2
+2026-04-23,2526,DNK,Sonderjyske,Midtjylland,1,2
+2026-04-26,2526,DNK,Aarhus,Midtjylland,0,0
+2026-04-26,2526,DNK,Fredericia,Odense,0,2
+2026-04-26,2526,DNK,Silkeborg,Randers FC,2,0
+2026-04-26,2526,DNK,Sonderjyske,Brondby,3,0
+2026-04-26,2526,DNK,Viborg,Nordsjaelland,1,0
+2026-04-27,2526,DNK,FC Copenhagen,Vejle,3,0
+2026-05-01,2526,DNK,Brondby,Nordsjaelland,1,1
+2026-05-03,2526,DNK,Aarhus,Sonderjyske,2,1
+2026-05-03,2526,DNK,Fredericia,FC Copenhagen,3,3
+2026-05-03,2526,DNK,Odense,Silkeborg,2,3
+2026-05-03,2526,DNK,Randers FC,Vejle,1,0
+2026-05-04,2526,DNK,Midtjylland,Viborg,3,3
+2026-05-08,2526,DNK,Viborg,Sonderjyske,0,1
+2026-05-10,2526,DNK,Brondby,Aarhus,0,2
+2026-05-10,2526,DNK,Nordsjaelland,Midtjylland,0,0
+2026-05-10,2526,DNK,Silkeborg,FC Copenhagen,0,4
+2026-05-10,2526,DNK,Vejle,Fredericia,2,0
+2026-05-11,2526,DNK,Randers FC,Odense,2,2
+2026-05-17,2526,DNK,Aarhus,Viborg,6,2
+2026-05-17,2526,DNK,FC Copenhagen,Randers FC,5,0
+2026-05-17,2526,DNK,Fredericia,Silkeborg,4,1
+2026-05-17,2526,DNK,Midtjylland,Brondby,2,3
+2026-05-17,2526,DNK,Odense,Vejle,0,1
+2026-05-17,2526,DNK,Sonderjyske,Nordsjaelland,1,4
+2026-07-24,2627,DNK,Viborg,Odense,1,0
+2026-07-25,2627,DNK,Aarhus,Brondby,1,1
+2026-07-26,2627,DNK,FC Copenhagen,Lyngby,3,2
+2026-07-26,2627,DNK,Horsens,Nordsjaelland,1,1
+2026-07-26,2627,DNK,Sonderjyske,Midtjylland,2,3
+2026-07-27,2627,DNK,Randers FC,Silkeborg,1,1
+2026-08-01,2627,DNK,Lyngby,Aarhus,2,2
+2026-08-02,2627,DNK,Brondby,Viborg,1,0
+2026-08-02,2627,DNK,Midtjylland,Horsens,2,1
+2026-08-02,2627,DNK,Nordsjaelland,Randers FC,1,0
+2026-08-02,2627,DNK,Silkeborg,FC Copenhagen,1,3
+2026-08-03,2627,DNK,Odense,Sonderjyske,1,0
+2026-08-07,2627,DNK,Sonderjyske,Viborg,0,0
+2026-08-09,2627,DNK,Horsens,Brondby,0,2
+2026-08-09,2627,DNK,Randers FC,Lyngby,2,0
+2026-08-10,2627,DNK,Silkeborg,Odense,1,0
+2026-08-14,2627,DNK,Viborg,Aarhus,2,1
+2026-08-16,2627,DNK,Lyngby,Midtjylland,1,1
+2026-08-16,2627,DNK,Nordsjaelland,Silkeborg,1,0
+2026-08-16,2627,DNK,Odense,Horsens,1,2
+2026-08-16,2627,DNK,Randers FC,FC Copenhagen,0,4
+2026-08-17,2627,DNK,Brondby,Sonderjyske,3,2
+2026-08-23,2627,DNK,Aarhus,Odense,2,2
+2026-08-23,2627,DNK,Horsens,Lyngby,2,1
+2026-08-23,2627,DNK,Midtjylland,Randers FC,1,0
+2026-08-23,2627,DNK,Sonderjyske,Nordsjaelland,0,3
+2026-08-23,2627,DNK,Viborg,FC Copenhagen,4,0
+2026-08-24,2627,DNK,Brondby,Silkeborg,3,1
+2026-08-28,2627,DNK,Horsens,Viborg,2,3
+2026-08-30,2627,DNK,Lyngby,Odense,1,1
+2026-08-30,2627,DNK,Nordsjaelland,Brondby,3,1
+2026-08-30,2627,DNK,Randers FC,Aarhus,2,1
+2026-08-30,2627,DNK,Silkeborg,Midtjylland,1,1
+2026-08-31,2627,DNK,FC Copenhagen,Sonderjyske,3,1
+2026-09-02,2627,DNK,Aarhus,Midtjylland,0,2
+2026-09-03,2627,DNK,FC Copenhagen,Nordsjaelland,2,0
+2026-09-04,2627,DNK,Viborg,Lyngby,0,2
+2026-09-05,2627,DNK,Aarhus,Silkeborg,2,2
+2026-09-06,2627,DNK,Brondby,Randers FC,0,3
+2026-09-06,2627,DNK,Odense,FC Copenhagen,0,5
+2026-09-06,2627,DNK,Sonderjyske,Horsens,2,5
+2026-09-07,2627,DNK,Midtjylland,Nordsjaelland,2,2
+2026-09-11,2627,DNK,FC Copenhagen,Horsens,2,0
+2026-09-13,2627,DNK,Lyngby,Sonderjyske,1,1
+2026-09-13,2627,DNK,Nordsjaelland,Aarhus,2,0
+2026-09-13,2627,DNK,Randers FC,Odense,1,2
+2026-09-13,2627,DNK,Silkeborg,Viborg,1,1
+2026-09-14,2627,DNK,Midtjylland,Brondby,4,1
+2026-09-18,2627,DNK,Lyngby,Silkeborg,0,4
+2026-09-19,2627,DNK,Odense,Midtjylland,1,1
+2026-09-20,2627,DNK,Brondby,FC Copenhagen,0,1
+2026-09-20,2627,DNK,Horsens,Aarhus,2,2
+2026-09-20,2627,DNK,Sonderjyske,Randers FC,4,2
+2026-09-20,2627,DNK,Viborg,Nordsjaelland,4,1
+2026-10-09,2627,DNK,Nordsjaelland,Odense,0,0
+2026-10-11,2627,DNK,Brondby,Lyngby,5,2
+2026-10-11,2627,DNK,Midtjylland,FC Copenhagen,2,1
+2026-10-11,2627,DNK,Randers FC,Viborg,0,2
+2026-10-11,2627,DNK,Silkeborg,Horsens,3,3
+2026-10-12,2627,DNK,Aarhus,Sonderjyske,3,0
+2026-10-16,2627,DNK,Horsens,Randers FC,0,0
+2026-10-18,2627,DNK,FC Copenhagen,Aarhus,1,1
+2026-10-18,2627,DNK,Lyngby,Nordsjaelland,3,3
+2026-10-18,2627,DNK,Odense,Brondby,2,1
+2026-10-18,2627,DNK,Sonderjyske,Silkeborg,4,0
+2026-10-19,2627,DNK,Viborg,Midtjylland,1,2

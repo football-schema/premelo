@@ -1,0 +1,422 @@
+{
+ "updated": "2026-10-24",
+ "league": "Liga I",
+ "from": "2000-01",
+ "test": null,
+ "all": {
+  "matches": 4278,
+  "model": {
+   "logloss": 1.02,
+   "rps": 0.2063,
+   "brier": 0.6113
+  },
+  "elo": {
+   "logloss": 1.0202,
+   "rps": 0.2063,
+   "brier": 0.6115
+  },
+  "market": {
+   "logloss": 0.9967,
+   "rps": 0.1992,
+   "brier": 0.5957
+  }
+ },
+ "params": {
+  "elo": {
+   "k": 48,
+   "hfa": 70,
+   "margin": "log",
+   "regress": 0.2,
+   "start": {
+    "top": 1545,
+    "second": 1395
+   },
+   "hfaEmpty": 0,
+   "kH": 0,
+   "q": 0.01,
+   "rNew": 3
+  },
+  "goals": {
+   "mu": 2.415,
+   "c": 525,
+   "draw": 0.15
+  },
+  "attack": {
+   "k": 0.03,
+   "r": 0.2,
+   "kb": 0.002,
+   "shots": 0,
+   "conv": 0.3,
+   "draw": 0.1
+  },
+  "blend": 0.9
+ },
+ "common": {
+  "c": 525
+ },
+ "europe": {
+  "k": 16,
+  "hfa": 90,
+  "margin": "log",
+  "other": 200,
+  "kLeague": 4
+ },
+ "seasons": [
+  {
+   "season": "2012-13",
+   "matches": 307,
+   "withOdds": 307,
+   "model": {
+    "logloss": 0.9721,
+    "rps": 0.1899,
+    "brier": 0.5773
+   },
+   "market": {
+    "logloss": 0.9676,
+    "rps": 0.189,
+    "brier": 0.5777
+   },
+   "baseline": {
+    "logloss": 1.0681,
+    "rps": 0.2218,
+    "brier": 0.6453
+   }
+  },
+  {
+   "season": "2013-14",
+   "matches": 306,
+   "withOdds": 306,
+   "model": {
+    "logloss": 0.9872,
+    "rps": 0.1996,
+    "brier": 0.5892
+   },
+   "market": {
+    "logloss": 0.9548,
+    "rps": 0.19,
+    "brier": 0.5677
+   },
+   "baseline": {
+    "logloss": 1.0629,
+    "rps": 0.2248,
+    "brier": 0.6416
+   }
+  },
+  {
+   "season": "2014-15",
+   "matches": 306,
+   "withOdds": 306,
+   "model": {
+    "logloss": 1.062,
+    "rps": 0.2152,
+    "brier": 0.6353
+   },
+   "market": {
+    "logloss": 1.0485,
+    "rps": 0.2103,
+    "brier": 0.627
+   },
+   "baseline": {
+    "logloss": 1.1016,
+    "rps": 0.2297,
+    "brier": 0.6692
+   }
+  },
+  {
+   "season": "2015-16",
+   "matches": 272,
+   "withOdds": 272,
+   "model": {
+    "logloss": 1.0472,
+    "rps": 0.2078,
+    "brier": 0.6337
+   },
+   "market": {
+    "logloss": 1.0339,
+    "rps": 0.204,
+    "brier": 0.624
+   },
+   "baseline": {
+    "logloss": 1.0885,
+    "rps": 0.2211,
+    "brier": 0.6597
+   }
+  },
+  {
+   "season": "2016-17",
+   "matches": 270,
+   "withOdds": 270,
+   "model": {
+    "logloss": 1.0523,
+    "rps": 0.22,
+    "brier": 0.6353
+   },
+   "market": {
+    "logloss": 1.0072,
+    "rps": 0.2057,
+    "brier": 0.6018
+   },
+   "baseline": {
+    "logloss": 1.0727,
+    "rps": 0.2271,
+    "brier": 0.6486
+   }
+  },
+  {
+   "season": "2017-18",
+   "matches": 270,
+   "withOdds": 270,
+   "model": {
+    "logloss": 0.9757,
+    "rps": 0.1947,
+    "brier": 0.581
+   },
+   "market": {
+    "logloss": 0.9526,
+    "rps": 0.188,
+    "brier": 0.5661
+   },
+   "baseline": {
+    "logloss": 1.0814,
+    "rps": 0.2303,
+    "brier": 0.6548
+   }
+  },
+  {
+   "season": "2018-19",
+   "matches": 270,
+   "withOdds": 270,
+   "model": {
+    "logloss": 1.0245,
+    "rps": 0.2098,
+    "brier": 0.6166
+   },
+   "market": {
+    "logloss": 1.0063,
+    "rps": 0.2044,
+    "brier": 0.6047
+   },
+   "baseline": {
+    "logloss": 1.0853,
+    "rps": 0.231,
+    "brier": 0.6576
+   }
+  },
+  {
+   "season": "2019-20",
+   "matches": 262,
+   "withOdds": 262,
+   "model": {
+    "logloss": 1.0228,
+    "rps": 0.2095,
+    "brier": 0.6149
+   },
+   "market": {
+    "logloss": 0.99,
+    "rps": 0.1992,
+    "brier": 0.5923
+   },
+   "baseline": {
+    "logloss": 1.0657,
+    "rps": 0.2239,
+    "brier": 0.6437
+   }
+  },
+  {
+   "season": "2020-21",
+   "matches": 321,
+   "withOdds": 321,
+   "model": {
+    "logloss": 1.0546,
+    "rps": 0.2166,
+    "brier": 0.6349
+   },
+   "market": {
+    "logloss": 1.0426,
+    "rps": 0.2125,
+    "brier": 0.625
+   },
+   "baseline": {
+    "logloss": 1.1079,
+    "rps": 0.2353,
+    "brier": 0.6737
+   }
+  },
+  {
+   "season": "2021-22",
+   "matches": 320,
+   "withOdds": 320,
+   "model": {
+    "logloss": 0.956,
+    "rps": 0.1926,
+    "brier": 0.5659
+   },
+   "market": {
+    "logloss": 0.901,
+    "rps": 0.178,
+    "brier": 0.5287
+   },
+   "baseline": {
+    "logloss": 1.0665,
+    "rps": 0.2302,
+    "brier": 0.6446
+   }
+  },
+  {
+   "season": "2022-23",
+   "matches": 321,
+   "withOdds": 321,
+   "model": {
+    "logloss": 1.0195,
+    "rps": 0.2097,
+    "brier": 0.6104
+   },
+   "market": {
+    "logloss": 0.997,
+    "rps": 0.202,
+    "brier": 0.5955
+   },
+   "baseline": {
+    "logloss": 1.0693,
+    "rps": 0.2265,
+    "brier": 0.6463
+   }
+  },
+  {
+   "season": "2023-24",
+   "matches": 321,
+   "withOdds": 321,
+   "model": {
+    "logloss": 1.0553,
+    "rps": 0.2121,
+    "brier": 0.6365
+   },
+   "market": {
+    "logloss": 1.0224,
+    "rps": 0.203,
+    "brier": 0.6142
+   },
+   "baseline": {
+    "logloss": 1.0832,
+    "rps": 0.2213,
+    "brier": 0.6557
+   }
+  },
+  {
+   "season": "2024-25",
+   "matches": 315,
+   "withOdds": 315,
+   "model": {
+    "logloss": 1.0447,
+    "rps": 0.2075,
+    "brier": 0.6284
+   },
+   "market": {
+    "logloss": 1.0281,
+    "rps": 0.2013,
+    "brier": 0.6186
+   },
+   "baseline": {
+    "logloss": 1.0883,
+    "rps": 0.2219,
+    "brier": 0.6594
+   }
+  },
+  {
+   "season": "2025-26",
+   "matches": 321,
+   "withOdds": 321,
+   "model": {
+    "logloss": 1.0293,
+    "rps": 0.2093,
+    "brier": 0.6176
+   },
+   "market": {
+    "logloss": 1.024,
+    "rps": 0.2072,
+    "brier": 0.6144
+   },
+   "baseline": {
+    "logloss": 1.0737,
+    "rps": 0.2245,
+    "brier": 0.6493
+   }
+  },
+  {
+   "season": "2026-27",
+   "matches": 96,
+   "withOdds": 96,
+   "model": {
+    "logloss": 0.9494,
+    "rps": 0.1878,
+    "brier": 0.5593
+   },
+   "market": {
+    "logloss": 0.9238,
+    "rps": 0.1795,
+    "brier": 0.5415
+   },
+   "baseline": {
+    "logloss": 1.0348,
+    "rps": 0.2168,
+    "brier": 0.6218
+   }
+  }
+ ],
+ "calibration": [
+  {
+   "bucket": "0-10%",
+   "matches": 5,
+   "predicted": 0.084,
+   "actual": 0
+  },
+  {
+   "bucket": "10-20%",
+   "matches": 158,
+   "predicted": 0.167,
+   "actual": 0.12
+  },
+  {
+   "bucket": "20-30%",
+   "matches": 637,
+   "predicted": 0.259,
+   "actual": 0.245
+  },
+  {
+   "bucket": "30-40%",
+   "matches": 1086,
+   "predicted": 0.352,
+   "actual": 0.351
+  },
+  {
+   "bucket": "40-50%",
+   "matches": 1128,
+   "predicted": 0.449,
+   "actual": 0.441
+  },
+  {
+   "bucket": "50-60%",
+   "matches": 756,
+   "predicted": 0.546,
+   "actual": 0.579
+  },
+  {
+   "bucket": "60-70%",
+   "matches": 401,
+   "predicted": 0.643,
+   "actual": 0.663
+  },
+  {
+   "bucket": "70-80%",
+   "matches": 95,
+   "predicted": 0.742,
+   "actual": 0.779
+  },
+  {
+   "bucket": "80-90%",
+   "matches": 12,
+   "predicted": 0.837,
+   "actual": 0.75
+  }
+ ]
+}

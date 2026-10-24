@@ -1,0 +1,350 @@
+{
+ "updated": "2026-10-24T09:43:32.343Z",
+ "league": "poland",
+ "season": "2026-27",
+ "fixtures": [
+  {
+   "kickoff": "2026-10-24T10:15:00.000Z",
+   "home": "Piast Gliwice",
+   "away": "Cracovia",
+   "homeSlug": "piast-gliwice",
+   "awaySlug": "cracovia",
+   "homeName": "Piast Gliwice",
+   "awayName": "Cracovia",
+   "elo": [
+    1470,
+    1451
+   ],
+   "dr": 89,
+   "H": 0.465,
+   "D": 0.271,
+   "A": 0.264,
+   "xg": [
+    1.6,
+    1.1
+   ],
+   "O25": 0.491,
+   "btts": 0.537,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "1-0",
+     0.104
+    ],
+    [
+     "2-1",
+     0.091
+    ],
+    [
+     "2-0",
+     0.081
+    ],
+    [
+     "0-0",
+     0.076
+    ],
+    [
+     "0-1",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-24T12:45:00.000Z",
+   "home": "Korona Kielce",
+   "away": "GKS Katowice",
+   "homeSlug": "korona-kielce",
+   "awaySlug": "gks-katowice",
+   "homeName": "Korona Kielce",
+   "awayName": "GKS Katowice",
+   "elo": [
+    1439,
+    1475
+   ],
+   "dr": 34,
+   "H": 0.399,
+   "D": 0.28,
+   "A": 0.321,
+   "xg": [
+    1.4,
+    1.2
+   ],
+   "O25": 0.482,
+   "btts": 0.542,
+   "scores": [
+    [
+     "1-1",
+     0.138
+    ],
+    [
+     "1-0",
+     0.096
+    ],
+    [
+     "2-1",
+     0.085
+    ],
+    [
+     "0-1",
+     0.085
+    ],
+    [
+     "0-0",
+     0.078
+    ],
+    [
+     "1-2",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-24T15:30:00.000Z",
+   "home": "Pogon Szczecin",
+   "away": "Radomiak Radom",
+   "homeSlug": "pogon-szczecin",
+   "awaySlug": "radomiak-radom",
+   "homeName": "Pogon Szczecin",
+   "awayName": "Radomiak Radom",
+   "elo": [
+    1516,
+    1409
+   ],
+   "dr": 177,
+   "H": 0.573,
+   "D": 0.243,
+   "A": 0.184,
+   "xg": [
+    1.9,
+    0.9
+   ],
+   "O25": 0.519,
+   "btts": 0.52,
+   "scores": [
+    [
+     "1-1",
+     0.119
+    ],
+    [
+     "1-0",
+     0.11
+    ],
+    [
+     "2-0",
+     0.102
+    ],
+    [
+     "2-1",
+     0.097
+    ],
+    [
+     "0-0",
+     0.068
+    ],
+    [
+     "3-0",
+     0.063
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-24T18:15:00.000Z",
+   "home": "Wisla",
+   "away": "Rakow",
+   "homeSlug": "wisla",
+   "awaySlug": "rakow",
+   "homeName": "Wisla",
+   "awayName": "Rakow",
+   "elo": [
+    1418,
+    1536
+   ],
+   "dr": -48,
+   "H": 0.306,
+   "D": 0.279,
+   "A": 0.415,
+   "xg": [
+    1.2,
+    1.5
+   ],
+   "O25": 0.484,
+   "btts": 0.541,
+   "scores": [
+    [
+     "1-1",
+     0.137
+    ],
+    [
+     "0-1",
+     0.098
+    ],
+    [
+     "1-2",
+     0.087
+    ],
+    [
+     "1-0",
+     0.082
+    ],
+    [
+     "0-0",
+     0.078
+    ],
+    [
+     "2-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-25T12:15:00.000Z",
+   "home": "Slask Wroclaw",
+   "away": "Wieczysta Krakow",
+   "homeSlug": "slask-wroclaw",
+   "awaySlug": "wieczysta-krakow",
+   "homeName": "Slask Wroclaw",
+   "awayName": "Wieczysta Krakow",
+   "elo": [
+    1383,
+    1390
+   ],
+   "dr": 63,
+   "H": 0.434,
+   "D": 0.276,
+   "A": 0.29,
+   "xg": [
+    1.5,
+    1.2
+   ],
+   "O25": 0.486,
+   "btts": 0.54,
+   "scores": [
+    [
+     "1-1",
+     0.136
+    ],
+    [
+     "1-0",
+     0.1
+    ],
+    [
+     "2-1",
+     0.088
+    ],
+    [
+     "0-1",
+     0.079
+    ],
+    [
+     "0-0",
+     0.077
+    ],
+    [
+     "2-0",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-25T14:45:00.000Z",
+   "home": "Jagiellonia",
+   "away": "Wisla Plock",
+   "homeSlug": "jagiellonia",
+   "awaySlug": "wisla-plock",
+   "homeName": "Jagiellonia",
+   "awayName": "Wisla Plock",
+   "elo": [
+    1522,
+    1418
+   ],
+   "dr": 174,
+   "H": 0.57,
+   "D": 0.244,
+   "A": 0.186,
+   "xg": [
+    1.8,
+    1
+   ],
+   "O25": 0.518,
+   "btts": 0.52,
+   "scores": [
+    [
+     "1-1",
+     0.12
+    ],
+    [
+     "1-0",
+     0.11
+    ],
+    [
+     "2-0",
+     0.101
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "0-0",
+     0.068
+    ],
+    [
+     "3-0",
+     0.062
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-25T17:30:00.000Z",
+   "home": "Legia",
+   "away": "Lech Poznan",
+   "homeSlug": "legia",
+   "awaySlug": "lech-poznan",
+   "homeName": "Legia",
+   "awayName": "Lech Poznan",
+   "elo": [
+    1547,
+    1608
+   ],
+   "dr": 9,
+   "H": 0.37,
+   "D": 0.282,
+   "A": 0.349,
+   "xg": [
+    1.4,
+    1.3
+   ],
+   "O25": 0.481,
+   "btts": 0.543,
+   "scores": [
+    [
+     "1-1",
+     0.138
+    ],
+    [
+     "1-0",
+     0.092
+    ],
+    [
+     "0-1",
+     0.089
+    ],
+    [
+     "2-1",
+     0.081
+    ],
+    [
+     "0-0",
+     0.079
+    ],
+    [
+     "1-2",
+     0.078
+    ]
+   ]
+  }
+ ]
+}

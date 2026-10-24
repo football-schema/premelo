@@ -15,7 +15,7 @@ import { run as runAttack } from '../lib/attack.mjs';
 import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
 import { fetchSeason } from '../lib/matchday.mjs';
-import { LEAGUES } from '../lib/leagues.mjs';
+import { LEAGUES, load } from '../lib/leagues.mjs';
 import { writeCard } from './card.mjs';
 
 const params = JSON.parse(readFileSync('params.json', 'utf8'));
@@ -23,15 +23,19 @@ const season = currentSeason(), offline = process.argv.includes('--offline');
 const r1 = (x) => Math.round(x * 10) / 10, r3 = (x) => Math.round(x * 1000) / 1000;
 const pair = (m) => `${m.home}|${m.away}`;
 
-const upcoming = offline ? [] : await fetch('https://www.football-data.co.uk/fixtures.csv', { headers: { 'user-agent': 'premelo (github.com/football-schema/premelo)' } })
-  .then((r) => (r.ok ? r.text() : '')).then((t) => (t ? parseCsv(t) : [])).catch(() => []);
+// the next week or so: fixtures.csv for football-data's own leagues, new_league_fixtures.csv for the extra ones (by country)
+const getCsv = (url) => fetch(url, { headers: { 'user-agent': 'premelo (github.com/football-schema/premelo)' } }).then((r) => (r.ok ? r.text() : '')).then((t) => (t ? parseCsv(t) : [])).catch(() => []);
+const upcoming = offline ? [] : await getCsv('https://football-data.co.uk/fixtures.csv');
+const upcomingExtra = offline ? [] : await getCsv('https://football-data.co.uk/new_league_fixtures.csv');
 
 // the European cups: data/europe.csv (from UEFA's match data), which ties the countries together
 const europe = existsSync('data/europe.csv') ? fromCsv(readFileSync('data/europe.csv', 'utf8')).map((m) => ({ ...m, neutral: m.div === 'EUN', div: 'EU' })) : [];
 
 const index = [], leagues = {}, upcomingBy = {};
 for (const [id, league] of Object.entries(LEAGUES)) {
-  const top = league.divs[0], list = fromCsv(readFileSync(`data/${id}/results.csv`, 'utf8'));
+  // the season files in cache/ where they're here (they carry shots on target, which the attack/defence model learns
+  // from and which aren't published), else the published results
+  const cached = load(id), top = league.divs[0], list = cached.length ? cached : fromCsv(readFileSync(`data/${id}/results.csv`, 'utf8'));
   let fixtures = [];
   if (!offline && id === 'pl') {
     // matchday's results that football-data hasn't got yet (each pairing is played once a season)
@@ -44,7 +48,8 @@ for (const [id, league] of Object.entries(LEAGUES)) {
     fixtures = md.filter((m) => m.status !== 'finished' && m.status !== 'postponed' && !done.has(pair(m)));
   } else if (!offline) {
     const done = new Set(list.filter((m) => m.season === season && m.div === top).map(pair));
-    fixtures = upcoming.filter((r) => r.Div === top && isoDate(r.Date)).map((r) => ({ kickoff: ukToUtc(isoDate(r.Date), r.Time || undefined), home: canonical(r.HomeTeam), away: canonical(r.AwayTeam), tbc: !r.Time }))
+    const rows = league.extra ? upcomingExtra.filter((r) => r.Country === league.country).map((r) => ({ ...r, HomeTeam: r.Home, AwayTeam: r.Away })) : upcoming.filter((r) => r.Div === top);
+    fixtures = rows.filter((r) => isoDate(r.Date)).map((r) => ({ kickoff: ukToUtc(isoDate(r.Date), r.Time || undefined), home: canonical(r.HomeTeam), away: canonical(r.AwayTeam), tbc: !r.Time }))
       .filter((f) => !done.has(pair(f)));
   }
   // a match more than two hours past kick-off is played, whether or not its result is in yet
@@ -89,7 +94,7 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   const updated = new Date().toISOString();
   writeFileSync(`data/${id}/ratings.json`, JSON.stringify({ updated, league: id, name: league.name, through: today, season: label(season), params: p, clubs }, null, 1) + '\n');
   if (!offline || id !== 'pl') writeFileSync(`data/${id}/fixtures.json`, JSON.stringify({ updated, league: id, season: label(season), fixtures: preds }, null, 1) + '\n');
-  index.push({ id, name: league.name, country: league.country, second: league.second, through: today, top: clubs.filter((c) => c.div === 'top').slice(0, 3).map((c) => [c.name, c.elo]) });
+  index.push({ id, name: league.name, short: league.extra ? league.short : league.name, country: league.country, second: league.second, extra: !!league.extra, through: today, top: clubs.filter((c) => c.div === 'top').slice(0, 3).map((c) => [c.name, c.elo]) });
   console.log(`${league.name}: ${clubs.length} clubs through ${today}; top ${clubs.slice(0, 3).map((c) => `${c.name} ${c.elo}`).join(', ')}; ${preds.length} fixtures`);
 }
 const tops = [];

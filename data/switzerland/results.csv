@@ -1,0 +1,2736 @@
+date,season,div,home,away,hg,ag
+2012-07-13,1213,SWZ,Servette,Basel,0,1
+2012-07-14,1213,SWZ,Thun,Lausanne,0,0
+2012-07-15,1213,SWZ,Grasshoppers,Sion,0,2
+2012-07-15,1213,SWZ,Luzern,Zurich,1,1
+2012-07-15,1213,SWZ,St. Gallen,Young Boys,1,1
+2012-07-21,1213,SWZ,Basel,Luzern,2,2
+2012-07-21,1213,SWZ,Lausanne,St. Gallen,0,1
+2012-07-22,1213,SWZ,Sion,Servette,1,0
+2012-07-22,1213,SWZ,Young Boys,Grasshoppers,0,1
+2012-07-22,1213,SWZ,Zurich,Thun,0,2
+2012-07-28,1213,SWZ,Grasshoppers,Basel,2,2
+2012-07-28,1213,SWZ,St. Gallen,Zurich,3,1
+2012-07-29,1213,SWZ,Lausanne,Servette,5,1
+2012-07-29,1213,SWZ,Luzern,Sion,0,3
+2012-07-29,1213,SWZ,Young Boys,Thun,3,0
+2012-08-04,1213,SWZ,Sion,Basel,1,1
+2012-08-04,1213,SWZ,St. Gallen,Grasshoppers,1,1
+2012-08-05,1213,SWZ,Servette,Young Boys,1,1
+2012-08-05,1213,SWZ,Thun,Luzern,2,1
+2012-08-05,1213,SWZ,Zurich,Lausanne,4,0
+2012-08-11,1213,SWZ,Lausanne,Sion,0,2
+2012-08-11,1213,SWZ,Luzern,St. Gallen,1,1
+2012-08-12,1213,SWZ,Basel,Thun,3,1
+2012-08-12,1213,SWZ,Grasshoppers,Servette,1,0
+2012-08-12,1213,SWZ,Young Boys,Zurich,4,1
+2012-08-18,1213,SWZ,Basel,Lausanne,2,0
+2012-08-18,1213,SWZ,Thun,St. Gallen,0,1
+2012-08-19,1213,SWZ,Luzern,Grasshoppers,0,2
+2012-08-19,1213,SWZ,Servette,Zurich,1,1
+2012-08-19,1213,SWZ,Sion,Young Boys,1,0
+2012-08-25,1213,SWZ,Grasshoppers,Thun,1,0
+2012-08-25,1213,SWZ,St. Gallen,Basel,2,1
+2012-08-26,1213,SWZ,Servette,Luzern,0,2
+2012-08-26,1213,SWZ,Young Boys,Lausanne,0,0
+2012-08-26,1213,SWZ,Zurich,Sion,1,0
+2012-09-01,1213,SWZ,Lausanne,Grasshoppers,0,2
+2012-09-01,1213,SWZ,Sion,St. Gallen,0,3
+2012-09-02,1213,SWZ,Basel,Zurich,0,0
+2012-09-02,1213,SWZ,Luzern,Young Boys,1,2
+2012-09-02,1213,SWZ,Thun,Servette,3,0
+2012-09-22,1213,SWZ,Sion,Thun,2,1
+2012-09-22,1213,SWZ,Zurich,Grasshoppers,0,1
+2012-09-23,1213,SWZ,Lausanne,Luzern,1,0
+2012-09-23,1213,SWZ,St. Gallen,Servette,2,0
+2012-09-23,1213,SWZ,Young Boys,Basel,1,1
+2012-09-26,1213,SWZ,Basel,Sion,4,1
+2012-09-26,1213,SWZ,Servette,Lausanne,0,1
+2012-09-26,1213,SWZ,Zurich,St. Gallen,0,2
+2012-09-27,1213,SWZ,Grasshoppers,Luzern,2,0
+2012-09-27,1213,SWZ,Thun,Young Boys,2,1
+2012-09-29,1213,SWZ,Lausanne,Basel,1,1
+2012-09-30,1213,SWZ,Luzern,Thun,2,1
+2012-09-30,1213,SWZ,Sion,Zurich,2,2
+2012-09-30,1213,SWZ,Young Boys,Servette,6,2
+2012-10-01,1213,SWZ,Grasshoppers,St. Gallen,1,0
+2012-10-06,1213,SWZ,St. Gallen,Lausanne,2,1
+2012-10-06,1213,SWZ,Thun,Grasshoppers,2,3
+2012-10-07,1213,SWZ,Basel,Servette,3,2
+2012-10-07,1213,SWZ,Sion,Luzern,3,2
+2012-10-07,1213,SWZ,Zurich,Young Boys,1,1
+2012-10-20,1213,SWZ,Servette,St. Gallen,1,1
+2012-10-20,1213,SWZ,Thun,Sion,1,1
+2012-10-21,1213,SWZ,Grasshoppers,Young Boys,3,2
+2012-10-21,1213,SWZ,Lausanne,Zurich,0,2
+2012-10-21,1213,SWZ,Luzern,Basel,1,0
+2012-10-27,1213,SWZ,Sion,Lausanne,1,1
+2012-10-28,1213,SWZ,Servette,Grasshoppers,2,0
+2012-10-28,1213,SWZ,St. Gallen,Thun,1,0
+2012-10-28,1213,SWZ,Zurich,Basel,1,2
+2012-11-03,1213,SWZ,Basel,Young Boys,2,0
+2012-11-03,1213,SWZ,Grasshoppers,Lausanne,1,1
+2012-11-04,1213,SWZ,Luzern,Servette,1,1
+2012-11-04,1213,SWZ,St. Gallen,Sion,0,3
+2012-11-04,1213,SWZ,Thun,Zurich,1,4
+2012-11-17,1213,SWZ,Lausanne,Thun,3,0
+2012-11-17,1213,SWZ,Zurich,Luzern,0,2
+2012-11-18,1213,SWZ,Basel,Grasshoppers,4,0
+2012-11-18,1213,SWZ,Servette,Sion,0,2
+2012-11-18,1213,SWZ,Young Boys,St. Gallen,0,0
+2012-11-24,1213,SWZ,Sion,Grasshoppers,1,1
+2012-11-24,1213,SWZ,Zurich,Servette,0,2
+2012-11-25,1213,SWZ,Lausanne,Young Boys,2,1
+2012-11-25,1213,SWZ,St. Gallen,Luzern,1,1
+2012-11-25,1213,SWZ,Thun,Basel,3,2
+2012-11-28,1213,SWZ,Young Boys,Luzern,2,1
+2012-12-01,1213,SWZ,Basel,St. Gallen,1,0
+2012-12-01,1213,SWZ,Luzern,Lausanne,0,0
+2012-12-02,1213,SWZ,Grasshoppers,Zurich,1,0
+2012-12-02,1213,SWZ,Servette,Thun,0,0
+2012-12-02,1213,SWZ,Young Boys,Sion,3,1
+2013-02-09,1213,SWZ,Servette,Grasshoppers,0,1
+2013-02-09,1213,SWZ,Young Boys,Luzern,3,2
+2013-02-10,1213,SWZ,Basel,Sion,3,0
+2013-02-10,1213,SWZ,Zurich,Lausanne,2,0
+2013-02-16,1213,SWZ,Grasshoppers,Young Boys,2,0
+2013-02-16,1213,SWZ,Sion,St. Gallen,1,0
+2013-02-17,1213,SWZ,Lausanne,Basel,1,2
+2013-02-17,1213,SWZ,Luzern,Zurich,1,1
+2013-02-17,1213,SWZ,Thun,Servette,1,1
+2013-02-23,1213,SWZ,Servette,Lausanne,1,0
+2013-02-23,1213,SWZ,Zurich,Young Boys,4,0
+2013-02-24,1213,SWZ,Basel,Grasshoppers,0,0
+2013-02-24,1213,SWZ,St. Gallen,Luzern,4,0
+2013-02-24,1213,SWZ,Thun,Sion,4,0
+2013-03-02,1213,SWZ,Luzern,Thun,0,0
+2013-03-02,1213,SWZ,Zurich,Sion,3,1
+2013-03-03,1213,SWZ,Lausanne,Grasshoppers,0,0
+2013-03-03,1213,SWZ,Servette,Basel,1,2
+2013-03-03,1213,SWZ,Young Boys,St. Gallen,2,0
+2013-03-09,1213,SWZ,Grasshoppers,St. Gallen,3,1
+2013-03-09,1213,SWZ,Luzern,Servette,1,1
+2013-03-10,1213,SWZ,Basel,Young Boys,3,0
+2013-03-10,1213,SWZ,Sion,Lausanne,0,1
+2013-03-10,1213,SWZ,Thun,Zurich,0,4
+2013-03-13,1213,SWZ,St. Gallen,Thun,0,0
+2013-03-16,1213,SWZ,Servette,Zurich,1,2
+2013-03-16,1213,SWZ,St. Gallen,Lausanne,3,1
+2013-03-17,1213,SWZ,Basel,Thun,1,0
+2013-03-17,1213,SWZ,Grasshoppers,Luzern,0,0
+2013-03-17,1213,SWZ,Young Boys,Sion,0,0
+2013-03-30,1213,SWZ,Sion,Servette,1,1
+2013-03-30,1213,SWZ,Thun,Grasshoppers,1,0
+2013-03-30,1213,SWZ,Zurich,St. Gallen,1,3
+2013-04-01,1213,SWZ,Lausanne,Young Boys,0,0
+2013-04-01,1213,SWZ,Luzern,Basel,0,4
+2013-04-06,1213,SWZ,Sion,Luzern,2,1
+2013-04-06,1213,SWZ,Zurich,Grasshoppers,2,4
+2013-04-07,1213,SWZ,Lausanne,Thun,2,4
+2013-04-07,1213,SWZ,St. Gallen,Basel,1,1
+2013-04-07,1213,SWZ,Young Boys,Servette,0,2
+2013-04-13,1213,SWZ,Luzern,Lausanne,1,0
+2013-04-13,1213,SWZ,Servette,St. Gallen,1,3
+2013-04-14,1213,SWZ,Basel,Zurich,3,1
+2013-04-14,1213,SWZ,Grasshoppers,Sion,1,1
+2013-04-14,1213,SWZ,Young Boys,Thun,1,2
+2013-04-20,1213,SWZ,Lausanne,St. Gallen,1,3
+2013-04-20,1213,SWZ,Zurich,Servette,4,0
+2013-04-21,1213,SWZ,Luzern,Grasshoppers,1,1
+2013-04-21,1213,SWZ,Sion,Young Boys,0,0
+2013-04-21,1213,SWZ,Thun,Basel,2,2
+2013-04-27,1213,SWZ,Grasshoppers,Thun,0,2
+2013-04-28,1213,SWZ,Basel,Luzern,0,3
+2013-04-28,1213,SWZ,St. Gallen,Zurich,1,2
+2013-04-28,1213,SWZ,Young Boys,Lausanne,3,1
+2013-05-03,1213,SWZ,Lausanne,Zurich,1,1
+2013-05-04,1213,SWZ,Grasshoppers,Servette,2,0
+2013-05-04,1213,SWZ,St. Gallen,Young Boys,3,1
+2013-05-05,1213,SWZ,Sion,Basel,0,1
+2013-05-05,1213,SWZ,Thun,Luzern,1,1
+2013-05-07,1213,SWZ,Young Boys,Grasshoppers,4,0
+2013-05-08,1213,SWZ,Lausanne,Sion,1,3
+2013-05-08,1213,SWZ,Luzern,St. Gallen,2,0
+2013-05-08,1213,SWZ,Zurich,Basel,3,1
+2013-05-09,1213,SWZ,Servette,Thun,2,0
+2013-05-11,1213,SWZ,Luzern,Young Boys,3,1
+2013-05-11,1213,SWZ,St. Gallen,Sion,5,0
+2013-05-12,1213,SWZ,Basel,Servette,2,0
+2013-05-12,1213,SWZ,Grasshoppers,Zurich,0,1
+2013-05-12,1213,SWZ,Thun,Lausanne,2,0
+2013-05-16,1213,SWZ,Basel,Lausanne,2,0
+2013-05-16,1213,SWZ,Sion,Grasshoppers,0,4
+2013-05-17,1213,SWZ,Thun,St. Gallen,3,0
+2013-05-18,1213,SWZ,Servette,Young Boys,0,1
+2013-05-18,1213,SWZ,Zurich,Luzern,4,1
+2013-05-22,1213,SWZ,Servette,Sion,4,0
+2013-05-25,1213,SWZ,Lausanne,Luzern,3,0
+2013-05-25,1213,SWZ,Sion,Thun,0,1
+2013-05-26,1213,SWZ,Grasshoppers,Basel,1,0
+2013-05-26,1213,SWZ,St. Gallen,Servette,4,1
+2013-05-26,1213,SWZ,Young Boys,Zurich,2,4
+2013-05-29,1213,SWZ,Lausanne,Servette,3,0
+2013-05-29,1213,SWZ,Luzern,Sion,2,0
+2013-05-29,1213,SWZ,St. Gallen,Grasshoppers,1,2
+2013-05-29,1213,SWZ,Young Boys,Basel,0,1
+2013-05-29,1213,SWZ,Zurich,Thun,2,0
+2013-06-01,1213,SWZ,Basel,St. Gallen,1,0
+2013-06-01,1213,SWZ,Grasshoppers,Lausanne,4,1
+2013-06-01,1213,SWZ,Servette,Luzern,3,4
+2013-06-01,1213,SWZ,Sion,Zurich,4,2
+2013-06-01,1213,SWZ,Thun,Young Boys,2,2
+2013-07-13,1314,SWZ,Basel,Aarau,3,1
+2013-07-13,1314,SWZ,Young Boys,Sion,2,0
+2013-07-14,1314,SWZ,Luzern,Lausanne,2,0
+2013-07-14,1314,SWZ,St. Gallen,Grasshoppers,0,2
+2013-07-14,1314,SWZ,Zurich,Thun,3,2
+2013-07-20,1314,SWZ,Aarau,Luzern,4,2
+2013-07-20,1314,SWZ,Lausanne,Young Boys,1,3
+2013-07-21,1314,SWZ,Grasshoppers,Basel,1,1
+2013-07-21,1314,SWZ,Sion,Zurich,0,0
+2013-07-21,1314,SWZ,Thun,St. Gallen,3,2
+2013-07-27,1314,SWZ,Basel,Lausanne,2,0
+2013-07-27,1314,SWZ,Grasshoppers,Aarau,4,2
+2013-07-28,1314,SWZ,Luzern,Zurich,3,2
+2013-07-28,1314,SWZ,Sion,St. Gallen,0,1
+2013-07-28,1314,SWZ,Young Boys,Thun,3,2
+2013-08-03,1314,SWZ,Lausanne,Grasshoppers,0,0
+2013-08-03,1314,SWZ,St. Gallen,Basel,1,1
+2013-08-04,1314,SWZ,Luzern,Sion,1,0
+2013-08-04,1314,SWZ,Thun,Aarau,2,2
+2013-08-04,1314,SWZ,Zurich,Young Boys,1,3
+2013-08-10,1314,SWZ,Aarau,Young Boys,0,4
+2013-08-10,1314,SWZ,Grasshoppers,Sion,0,0
+2013-08-11,1314,SWZ,Basel,Zurich,1,2
+2013-08-11,1314,SWZ,St. Gallen,Lausanne,2,0
+2013-08-11,1314,SWZ,Thun,Luzern,1,1
+2013-08-24,1314,SWZ,Lausanne,Aarau,1,2
+2013-08-24,1314,SWZ,Luzern,Basel,1,1
+2013-08-25,1314,SWZ,Sion,Thun,0,0
+2013-08-25,1314,SWZ,Young Boys,Grasshoppers,1,2
+2013-08-25,1314,SWZ,Zurich,St. Gallen,0,0
+2013-08-31,1314,SWZ,Aarau,Sion,0,1
+2013-09-01,1314,SWZ,Basel,Young Boys,2,1
+2013-09-01,1314,SWZ,St. Gallen,Luzern,4,1
+2013-09-01,1314,SWZ,Thun,Lausanne,4,1
+2013-09-21,1314,SWZ,Young Boys,Luzern,0,1
+2013-09-22,1314,SWZ,Grasshoppers,Thun,2,1
+2013-09-22,1314,SWZ,Lausanne,Zurich,1,2
+2013-09-22,1314,SWZ,Sion,Basel,1,3
+2013-09-24,1314,SWZ,St. Gallen,Young Boys,0,0
+2013-09-25,1314,SWZ,Luzern,Grasshoppers,0,2
+2013-09-25,1314,SWZ,Sion,Lausanne,2,1
+2013-09-25,1314,SWZ,Thun,Basel,0,2
+2013-09-26,1314,SWZ,Zurich,Aarau,1,2
+2013-09-28,1314,SWZ,Basel,Sion,2,2
+2013-09-28,1314,SWZ,Grasshoppers,St. Gallen,0,1
+2013-09-29,1314,SWZ,Aarau,Lausanne,2,3
+2013-09-29,1314,SWZ,Luzern,Thun,1,1
+2013-09-29,1314,SWZ,Young Boys,Zurich,0,1
+2013-10-05,1314,SWZ,Sion,Young Boys,2,2
+2013-10-05,1314,SWZ,Zurich,Luzern,0,2
+2013-10-06,1314,SWZ,Lausanne,Basel,1,2
+2013-10-06,1314,SWZ,St. Gallen,Aarau,1,0
+2013-10-06,1314,SWZ,Thun,Grasshoppers,1,1
+2013-10-19,1314,SWZ,Basel,St. Gallen,3,0
+2013-10-19,1314,SWZ,Thun,Sion,1,0
+2013-10-20,1314,SWZ,Aarau,Zurich,5,1
+2013-10-20,1314,SWZ,Grasshoppers,Lausanne,2,0
+2013-10-20,1314,SWZ,Luzern,Young Boys,1,1
+2013-10-26,1314,SWZ,Lausanne,Luzern,0,1
+2013-10-26,1314,SWZ,Young Boys,Aarau,3,0
+2013-10-27,1314,SWZ,Sion,Grasshoppers,2,0
+2013-10-27,1314,SWZ,St. Gallen,Thun,0,0
+2013-10-27,1314,SWZ,Zurich,Basel,0,0
+2013-10-30,1314,SWZ,Aarau,St. Gallen,2,2
+2013-10-30,1314,SWZ,Grasshoppers,Zurich,3,1
+2013-11-02,1314,SWZ,Aarau,Basel,1,1
+2013-11-02,1314,SWZ,Sion,Luzern,3,0
+2013-11-03,1314,SWZ,Grasshoppers,Young Boys,0,1
+2013-11-03,1314,SWZ,Lausanne,St. Gallen,0,3
+2013-11-03,1314,SWZ,Thun,Zurich,2,1
+2013-11-23,1314,SWZ,Basel,Thun,4,1
+2013-11-23,1314,SWZ,Young Boys,Lausanne,3,2
+2013-11-24,1314,SWZ,Aarau,Grasshoppers,2,4
+2013-11-24,1314,SWZ,Luzern,St. Gallen,3,1
+2013-11-24,1314,SWZ,Zurich,Sion,4,1
+2013-11-30,1314,SWZ,Grasshoppers,Luzern,1,2
+2013-12-01,1314,SWZ,Lausanne,Thun,0,2
+2013-12-01,1314,SWZ,St. Gallen,Zurich,2,1
+2013-12-01,1314,SWZ,Young Boys,Basel,2,2
+2013-12-07,1314,SWZ,Basel,Grasshoppers,1,1
+2013-12-07,1314,SWZ,Zurich,Lausanne,4,0
+2013-12-08,1314,SWZ,Luzern,Aarau,1,0
+2013-12-08,1314,SWZ,St. Gallen,Sion,2,0
+2013-12-08,1314,SWZ,Thun,Young Boys,1,0
+2013-12-14,1314,SWZ,Basel,Luzern,1,1
+2013-12-14,1314,SWZ,Lausanne,Sion,3,1
+2013-12-15,1314,SWZ,Aarau,Thun,2,1
+2013-12-15,1314,SWZ,Young Boys,St. Gallen,1,0
+2013-12-15,1314,SWZ,Zurich,Grasshoppers,1,1
+2014-02-01,1314,SWZ,Aarau,St. Gallen,1,1
+2014-02-01,1314,SWZ,Zurich,Sion,1,0
+2014-02-02,1314,SWZ,Lausanne,Basel,1,3
+2014-02-02,1314,SWZ,Luzern,Grasshoppers,1,3
+2014-02-02,1314,SWZ,Young Boys,Thun,2,1
+2014-02-08,1314,SWZ,Basel,Young Boys,3,2
+2014-02-08,1314,SWZ,Thun,Luzern,2,1
+2014-02-09,1314,SWZ,Grasshoppers,Aarau,1,2
+2014-02-09,1314,SWZ,Sion,Lausanne,1,2
+2014-02-09,1314,SWZ,St. Gallen,Zurich,0,2
+2014-02-15,1314,SWZ,Basel,Sion,1,0
+2014-02-15,1314,SWZ,Luzern,Aarau,3,2
+2014-02-16,1314,SWZ,St. Gallen,Grasshoppers,1,5
+2014-02-16,1314,SWZ,Young Boys,Lausanne,5,3
+2014-02-16,1314,SWZ,Zurich,Thun,3,1
+2014-02-22,1314,SWZ,Aarau,Zurich,1,2
+2014-02-22,1314,SWZ,Thun,Sion,3,1
+2014-02-23,1314,SWZ,Grasshoppers,Basel,1,1
+2014-02-23,1314,SWZ,Lausanne,St. Gallen,3,0
+2014-02-23,1314,SWZ,Luzern,Young Boys,1,2
+2014-02-26,1314,SWZ,Sion,Young Boys,3,0
+2014-03-01,1314,SWZ,Lausanne,Aarau,0,1
+2014-03-01,1314,SWZ,Zurich,Grasshoppers,3,1
+2014-03-02,1314,SWZ,St. Gallen,Luzern,1,1
+2014-03-02,1314,SWZ,Thun,Basel,2,2
+2014-03-08,1314,SWZ,Basel,St. Gallen,1,1
+2014-03-08,1314,SWZ,Grasshoppers,Lausanne,2,1
+2014-03-09,1314,SWZ,Aarau,Thun,1,4
+2014-03-09,1314,SWZ,Sion,Luzern,3,2
+2014-03-09,1314,SWZ,Young Boys,Zurich,1,3
+2014-03-12,1314,SWZ,Sion,Aarau,1,2
+2014-03-15,1314,SWZ,St. Gallen,Young Boys,1,1
+2014-03-15,1314,SWZ,Thun,Lausanne,2,2
+2014-03-16,1314,SWZ,Basel,Aarau,5,0
+2014-03-16,1314,SWZ,Grasshoppers,Sion,4,2
+2014-03-16,1314,SWZ,Luzern,Zurich,1,0
+2014-03-22,1314,SWZ,Aarau,Sion,2,0
+2014-03-22,1314,SWZ,St. Gallen,Thun,1,0
+2014-03-23,1314,SWZ,Lausanne,Luzern,1,0
+2014-03-23,1314,SWZ,Young Boys,Grasshoppers,0,4
+2014-03-23,1314,SWZ,Zurich,Basel,0,0
+2014-03-29,1314,SWZ,Aarau,Young Boys,2,1
+2014-03-29,1314,SWZ,Sion,St. Gallen,1,1
+2014-03-30,1314,SWZ,Luzern,Basel,0,2
+2014-03-30,1314,SWZ,Thun,Grasshoppers,1,3
+2014-03-30,1314,SWZ,Zurich,Lausanne,0,3
+2014-04-05,1314,SWZ,Grasshoppers,Zurich,2,0
+2014-04-05,1314,SWZ,St. Gallen,Aarau,4,1
+2014-04-06,1314,SWZ,Basel,Thun,0,0
+2014-04-06,1314,SWZ,Lausanne,Sion,0,1
+2014-04-06,1314,SWZ,Young Boys,Luzern,2,1
+2014-04-12,1314,SWZ,Lausanne,Grasshoppers,0,2
+2014-04-12,1314,SWZ,Thun,Aarau,2,0
+2014-04-13,1314,SWZ,Luzern,St. Gallen,1,0
+2014-04-13,1314,SWZ,Sion,Basel,0,1
+2014-04-13,1314,SWZ,Zurich,Young Boys,2,2
+2014-04-16,1314,SWZ,Aarau,Luzern,1,2
+2014-04-16,1314,SWZ,Basel,Zurich,4,2
+2014-04-16,1314,SWZ,Grasshoppers,Thun,0,5
+2014-04-17,1314,SWZ,St. Gallen,Lausanne,0,0
+2014-04-17,1314,SWZ,Young Boys,Sion,0,0
+2014-04-26,1314,SWZ,Sion,Aarau,2,0
+2014-04-26,1314,SWZ,Zurich,Luzern,1,2
+2014-04-27,1314,SWZ,Basel,Grasshoppers,1,1
+2014-04-27,1314,SWZ,Lausanne,Young Boys,0,1
+2014-04-27,1314,SWZ,Thun,St. Gallen,4,0
+2014-05-03,1314,SWZ,Luzern,Sion,0,1
+2014-05-03,1314,SWZ,Thun,Zurich,1,2
+2014-05-04,1314,SWZ,Aarau,Lausanne,3,1
+2014-05-04,1314,SWZ,Grasshoppers,Young Boys,5,0
+2014-05-04,1314,SWZ,St. Gallen,Basel,0,3
+2014-05-06,1314,SWZ,Sion,Zurich,1,0
+2014-05-07,1314,SWZ,Basel,Luzern,3,1
+2014-05-07,1314,SWZ,Grasshoppers,St. Gallen,2,0
+2014-05-07,1314,SWZ,Young Boys,Aarau,2,2
+2014-05-08,1314,SWZ,Lausanne,Thun,1,3
+2014-05-10,1314,SWZ,Aarau,Grasshoppers,4,0
+2014-05-10,1314,SWZ,Zurich,St. Gallen,2,2
+2014-05-11,1314,SWZ,Luzern,Lausanne,3,4
+2014-05-11,1314,SWZ,Sion,Thun,3,1
+2014-05-11,1314,SWZ,Young Boys,Basel,3,1
+2014-05-15,1314,SWZ,Aarau,Basel,1,3
+2014-05-15,1314,SWZ,Grasshoppers,Luzern,4,1
+2014-05-15,1314,SWZ,Lausanne,Zurich,0,1
+2014-05-15,1314,SWZ,St. Gallen,Sion,2,0
+2014-05-15,1314,SWZ,Thun,Young Boys,0,3
+2014-05-18,1314,SWZ,Basel,Lausanne,4,2
+2014-05-18,1314,SWZ,Luzern,Thun,3,0
+2014-05-18,1314,SWZ,Sion,Grasshoppers,3,1
+2014-05-18,1314,SWZ,Young Boys,St. Gallen,2,0
+2014-05-18,1314,SWZ,Zurich,Aarau,2,2
+2014-07-19,1415,SWZ,Aarau,Basel,1,2
+2014-07-19,1415,SWZ,St. Gallen,Young Boys,2,2
+2014-07-20,1415,SWZ,Luzern,Sion,1,1
+2014-07-20,1415,SWZ,Thun,Vaduz,1,0
+2014-07-20,1415,SWZ,Zurich,Grasshoppers,1,0
+2014-07-23,1415,SWZ,Aarau,Sion,1,0
+2014-07-23,1415,SWZ,Zurich,Thun,2,1
+2014-07-26,1415,SWZ,Grasshoppers,Thun,2,3
+2014-07-26,1415,SWZ,Sion,St. Gallen,1,0
+2014-07-27,1415,SWZ,Basel,Luzern,3,0
+2014-07-27,1415,SWZ,Vaduz,Zurich,1,4
+2014-07-27,1415,SWZ,Young Boys,Aarau,1,1
+2014-08-02,1415,SWZ,Grasshoppers,Sion,0,0
+2014-08-02,1415,SWZ,Thun,Basel,2,3
+2014-08-03,1415,SWZ,St. Gallen,Luzern,2,1
+2014-08-03,1415,SWZ,Zurich,Young Boys,2,1
+2014-08-06,1415,SWZ,Aarau,Vaduz,1,1
+2014-08-09,1415,SWZ,Basel,Zurich,4,1
+2014-08-09,1415,SWZ,St. Gallen,Aarau,2,2
+2014-08-10,1415,SWZ,Luzern,Grasshoppers,1,1
+2014-08-10,1415,SWZ,Sion,Vaduz,1,0
+2014-08-10,1415,SWZ,Young Boys,Thun,1,1
+2014-08-13,1415,SWZ,Vaduz,Luzern,1,1
+2014-08-13,1415,SWZ,Young Boys,Grasshoppers,4,0
+2014-08-14,1415,SWZ,Basel,St. Gallen,0,2
+2014-08-16,1415,SWZ,Aarau,Grasshoppers,1,2
+2014-08-16,1415,SWZ,Luzern,Zurich,1,1
+2014-08-17,1415,SWZ,Sion,Basel,2,3
+2014-08-17,1415,SWZ,Thun,St. Gallen,3,1
+2014-08-17,1415,SWZ,Vaduz,Young Boys,0,2
+2014-08-30,1415,SWZ,Luzern,Aarau,1,1
+2014-08-30,1415,SWZ,Thun,Sion,2,1
+2014-08-31,1415,SWZ,Basel,Young Boys,3,1
+2014-08-31,1415,SWZ,Grasshoppers,Vaduz,0,1
+2014-08-31,1415,SWZ,St. Gallen,Zurich,0,2
+2014-09-13,1415,SWZ,Aarau,Thun,2,1
+2014-09-13,1415,SWZ,Grasshoppers,Basel,3,1
+2014-09-14,1415,SWZ,Vaduz,St. Gallen,2,2
+2014-09-14,1415,SWZ,Young Boys,Luzern,3,2
+2014-09-14,1415,SWZ,Zurich,Sion,4,1
+2014-09-23,1415,SWZ,Basel,Vaduz,3,1
+2014-09-23,1415,SWZ,Thun,Luzern,3,2
+2014-09-24,1415,SWZ,Sion,Young Boys,0,1
+2014-09-24,1415,SWZ,St. Gallen,Grasshoppers,3,0
+2014-09-24,1415,SWZ,Zurich,Aarau,0,0
+2014-09-27,1415,SWZ,Basel,Thun,1,1
+2014-09-27,1415,SWZ,Grasshoppers,Aarau,2,1
+2014-09-28,1415,SWZ,Luzern,St. Gallen,1,2
+2014-09-28,1415,SWZ,Vaduz,Sion,1,0
+2014-09-28,1415,SWZ,Young Boys,Zurich,2,1
+2014-10-04,1415,SWZ,St. Gallen,Basel,2,1
+2014-10-04,1415,SWZ,Thun,Grasshoppers,3,2
+2014-10-05,1415,SWZ,Aarau,Young Boys,3,2
+2014-10-05,1415,SWZ,Sion,Luzern,3,1
+2014-10-05,1415,SWZ,Zurich,Vaduz,3,0
+2014-10-18,1415,SWZ,Aarau,St. Gallen,0,3
+2014-10-18,1415,SWZ,Young Boys,Basel,0,1
+2014-10-19,1415,SWZ,Grasshoppers,Zurich,1,3
+2014-10-19,1415,SWZ,Luzern,Vaduz,0,0
+2014-10-19,1415,SWZ,Sion,Thun,0,0
+2014-10-25,1415,SWZ,Basel,Sion,1,1
+2014-10-25,1415,SWZ,Thun,Aarau,0,0
+2014-10-26,1415,SWZ,Vaduz,Grasshoppers,1,1
+2014-10-26,1415,SWZ,Zurich,St. Gallen,1,1
+2014-11-01,1415,SWZ,Basel,Grasshoppers,2,0
+2014-11-01,1415,SWZ,Zurich,Luzern,2,3
+2014-11-02,1415,SWZ,Sion,Aarau,2,2
+2014-11-02,1415,SWZ,St. Gallen,Thun,1,0
+2014-11-02,1415,SWZ,Young Boys,Vaduz,0,1
+2014-11-08,1415,SWZ,Grasshoppers,St. Gallen,3,0
+2014-11-08,1415,SWZ,Luzern,Thun,0,0
+2014-11-09,1415,SWZ,Aarau,Zurich,0,1
+2014-11-09,1415,SWZ,Vaduz,Basel,0,4
+2014-11-09,1415,SWZ,Young Boys,Sion,2,1
+2014-11-22,1415,SWZ,Grasshoppers,Luzern,3,2
+2014-11-22,1415,SWZ,Sion,Zurich,1,3
+2014-11-23,1415,SWZ,Basel,Aarau,3,0
+2014-11-23,1415,SWZ,St. Gallen,Vaduz,3,3
+2014-11-23,1415,SWZ,Thun,Young Boys,0,1
+2014-11-29,1415,SWZ,Aarau,Luzern,0,3
+2014-11-29,1415,SWZ,Sion,Grasshoppers,3,3
+2014-11-30,1415,SWZ,Vaduz,Thun,0,1
+2014-11-30,1415,SWZ,Young Boys,St. Gallen,4,2
+2014-11-30,1415,SWZ,Zurich,Basel,1,2
+2014-12-03,1415,SWZ,Luzern,Young Boys,1,2
+2014-12-06,1415,SWZ,Grasshoppers,Young Boys,0,1
+2014-12-06,1415,SWZ,Luzern,Basel,0,3
+2014-12-07,1415,SWZ,St. Gallen,Sion,2,0
+2014-12-07,1415,SWZ,Thun,Zurich,2,1
+2014-12-07,1415,SWZ,Vaduz,Aarau,1,0
+2015-02-07,1415,SWZ,Luzern,Young Boys,1,1
+2015-02-07,1415,SWZ,St. Gallen,Zurich,1,4
+2015-02-08,1415,SWZ,Grasshoppers,Basel,2,4
+2015-02-08,1415,SWZ,Thun,Aarau,1,1
+2015-02-14,1415,SWZ,Basel,Sion,1,1
+2015-02-14,1415,SWZ,Young Boys,Grasshoppers,4,2
+2015-02-15,1415,SWZ,Aarau,Vaduz,0,1
+2015-02-15,1415,SWZ,St. Gallen,Luzern,0,0
+2015-02-15,1415,SWZ,Zurich,Thun,0,1
+2015-02-21,1415,SWZ,Grasshoppers,Zurich,0,2
+2015-02-22,1415,SWZ,Luzern,Aarau,4,0
+2015-02-22,1415,SWZ,Vaduz,Thun,1,1
+2015-02-22,1415,SWZ,Young Boys,Basel,4,2
+2015-02-25,1415,SWZ,Vaduz,Sion,0,2
+2015-02-28,1415,SWZ,Basel,Vaduz,1,0
+2015-02-28,1415,SWZ,Zurich,Aarau,0,0
+2015-03-01,1415,SWZ,Sion,Luzern,2,2
+2015-03-01,1415,SWZ,St. Gallen,Grasshoppers,1,1
+2015-03-01,1415,SWZ,Thun,Young Boys,0,0
+2015-03-07,1415,SWZ,Basel,Thun,3,0
+2015-03-07,1415,SWZ,Grasshoppers,Luzern,1,0
+2015-03-08,1415,SWZ,Aarau,St. Gallen,0,2
+2015-03-08,1415,SWZ,Vaduz,Zurich,2,2
+2015-03-08,1415,SWZ,Young Boys,Sion,3,2
+2015-03-14,1415,SWZ,Luzern,Vaduz,2,0
+2015-03-14,1415,SWZ,Thun,Grasshoppers,2,2
+2015-03-15,1415,SWZ,Aarau,Young Boys,1,1
+2015-03-15,1415,SWZ,St. Gallen,Basel,2,2
+2015-03-15,1415,SWZ,Zurich,Sion,0,1
+2015-03-18,1415,SWZ,Sion,St. Gallen,3,0
+2015-03-21,1415,SWZ,Grasshoppers,Aarau,3,1
+2015-03-21,1415,SWZ,Luzern,Basel,1,4
+2015-03-22,1415,SWZ,Sion,Thun,3,0
+2015-03-22,1415,SWZ,Vaduz,St. Gallen,3,1
+2015-03-22,1415,SWZ,Young Boys,Zurich,3,0
+2015-04-03,1415,SWZ,Sion,Grasshoppers,0,5
+2015-04-03,1415,SWZ,Vaduz,Young Boys,0,1
+2015-04-04,1415,SWZ,Basel,Aarau,6,0
+2015-04-04,1415,SWZ,Thun,St. Gallen,4,1
+2015-04-04,1415,SWZ,Zurich,Luzern,0,1
+2015-04-11,1415,SWZ,St. Gallen,Young Boys,3,1
+2015-04-11,1415,SWZ,Thun,Luzern,1,0
+2015-04-12,1415,SWZ,Aarau,Sion,0,1
+2015-04-12,1415,SWZ,Basel,Zurich,5,1
+2015-04-12,1415,SWZ,Grasshoppers,Vaduz,1,1
+2015-04-18,1415,SWZ,Sion,Basel,0,1
+2015-04-18,1415,SWZ,Zurich,St. Gallen,1,2
+2015-04-19,1415,SWZ,Luzern,Grasshoppers,2,0
+2015-04-19,1415,SWZ,Vaduz,Aarau,0,2
+2015-04-19,1415,SWZ,Young Boys,Thun,4,0
+2015-04-25,1415,SWZ,Aarau,Zurich,0,0
+2015-04-25,1415,SWZ,Thun,Sion,2,1
+2015-04-26,1415,SWZ,Basel,Luzern,1,2
+2015-04-26,1415,SWZ,Grasshoppers,Young Boys,2,2
+2015-04-26,1415,SWZ,St. Gallen,Vaduz,1,2
+2015-04-28,1415,SWZ,Sion,Zurich,1,2
+2015-04-29,1415,SWZ,Grasshoppers,Thun,0,0
+2015-04-29,1415,SWZ,Vaduz,Basel,1,3
+2015-04-29,1415,SWZ,Young Boys,Aarau,2,2
+2015-04-30,1415,SWZ,Luzern,St. Gallen,6,2
+2015-05-02,1415,SWZ,Basel,Grasshoppers,2,1
+2015-05-02,1415,SWZ,Thun,Vaduz,4,0
+2015-05-03,1415,SWZ,Aarau,Luzern,2,6
+2015-05-03,1415,SWZ,St. Gallen,Sion,0,1
+2015-05-03,1415,SWZ,Zurich,Young Boys,0,1
+2015-05-09,1415,SWZ,Aarau,Grasshoppers,0,1
+2015-05-09,1415,SWZ,Sion,Vaduz,4,0
+2015-05-10,1415,SWZ,Luzern,Thun,0,0
+2015-05-10,1415,SWZ,Young Boys,St. Gallen,3,1
+2015-05-10,1415,SWZ,Zurich,Basel,1,2
+2015-05-16,1415,SWZ,Sion,Aarau,1,0
+2015-05-16,1415,SWZ,Vaduz,Luzern,0,2
+2015-05-17,1415,SWZ,Basel,Young Boys,0,0
+2015-05-17,1415,SWZ,Grasshoppers,St. Gallen,2,0
+2015-05-17,1415,SWZ,Thun,Zurich,2,2
+2015-05-20,1415,SWZ,Aarau,Basel,2,1
+2015-05-20,1415,SWZ,Grasshoppers,Sion,0,0
+2015-05-20,1415,SWZ,St. Gallen,Thun,2,1
+2015-05-21,1415,SWZ,Young Boys,Luzern,0,1
+2015-05-21,1415,SWZ,Zurich,Vaduz,2,2
+2015-05-25,1415,SWZ,Luzern,Zurich,0,1
+2015-05-25,1415,SWZ,Sion,Young Boys,6,2
+2015-05-25,1415,SWZ,St. Gallen,Aarau,5,1
+2015-05-25,1415,SWZ,Thun,Basel,2,2
+2015-05-25,1415,SWZ,Vaduz,Grasshoppers,0,1
+2015-05-29,1415,SWZ,Aarau,Thun,3,2
+2015-05-29,1415,SWZ,Basel,St. Gallen,4,3
+2015-05-29,1415,SWZ,Luzern,Sion,3,0
+2015-05-29,1415,SWZ,Young Boys,Vaduz,2,1
+2015-05-29,1415,SWZ,Zurich,Grasshoppers,4,3
+2015-07-18,1516,SWZ,Luzern,Sion,2,2
+2015-07-18,1516,SWZ,Zurich,Young Boys,1,1
+2015-07-19,1516,SWZ,Basel,Vaduz,2,0
+2015-07-19,1516,SWZ,St. Gallen,Lugano,2,0
+2015-07-19,1516,SWZ,Thun,Grasshoppers,3,5
+2015-07-25,1516,SWZ,Grasshoppers,Basel,2,3
+2015-07-25,1516,SWZ,Young Boys,Luzern,1,1
+2015-07-26,1516,SWZ,Lugano,Thun,2,3
+2015-07-26,1516,SWZ,Sion,St. Gallen,1,0
+2015-07-26,1516,SWZ,Vaduz,Zurich,2,2
+2015-08-01,1516,SWZ,Basel,Sion,3,0
+2015-08-01,1516,SWZ,St. Gallen,Young Boys,1,1
+2015-08-02,1516,SWZ,Lugano,Vaduz,1,0
+2015-08-02,1516,SWZ,Thun,Luzern,0,1
+2015-08-02,1516,SWZ,Zurich,Grasshoppers,2,3
+2015-08-08,1516,SWZ,Grasshoppers,Lugano,6,1
+2015-08-08,1516,SWZ,Luzern,Basel,1,3
+2015-08-09,1516,SWZ,St. Gallen,Zurich,0,2
+2015-08-09,1516,SWZ,Vaduz,Sion,1,1
+2015-08-09,1516,SWZ,Young Boys,Thun,3,1
+2015-08-12,1516,SWZ,Basel,Thun,3,1
+2015-08-12,1516,SWZ,Luzern,St. Gallen,0,1
+2015-08-12,1516,SWZ,Young Boys,Lugano,0,1
+2015-08-13,1516,SWZ,Sion,Zurich,3,1
+2015-08-13,1516,SWZ,Vaduz,Grasshoppers,3,3
+2015-08-22,1516,SWZ,Lugano,Basel,1,3
+2015-08-22,1516,SWZ,Zurich,Luzern,2,5
+2015-08-23,1516,SWZ,Sion,Young Boys,1,3
+2015-08-23,1516,SWZ,St. Gallen,Grasshoppers,0,2
+2015-08-23,1516,SWZ,Thun,Vaduz,1,0
+2015-08-29,1516,SWZ,Lugano,Luzern,0,1
+2015-08-29,1516,SWZ,Vaduz,St. Gallen,1,0
+2015-08-30,1516,SWZ,Basel,Zurich,3,1
+2015-08-30,1516,SWZ,Grasshoppers,Young Boys,3,2
+2015-08-30,1516,SWZ,Thun,Sion,0,2
+2015-09-12,1516,SWZ,Basel,St. Gallen,2,1
+2015-09-12,1516,SWZ,Young Boys,Vaduz,4,0
+2015-09-13,1516,SWZ,Luzern,Grasshoppers,3,3
+2015-09-13,1516,SWZ,Sion,Lugano,3,0
+2015-09-13,1516,SWZ,Zurich,Thun,3,3
+2015-09-22,1516,SWZ,Lugano,Zurich,0,0
+2015-09-22,1516,SWZ,St. Gallen,Thun,1,0
+2015-09-23,1516,SWZ,Grasshoppers,Sion,2,0
+2015-09-23,1516,SWZ,Vaduz,Luzern,1,2
+2015-09-23,1516,SWZ,Young Boys,Basel,4,3
+2015-09-26,1516,SWZ,Basel,Lugano,3,1
+2015-09-26,1516,SWZ,Grasshoppers,St. Gallen,1,1
+2015-09-27,1516,SWZ,Luzern,Zurich,1,0
+2015-09-27,1516,SWZ,Sion,Vaduz,0,1
+2015-09-27,1516,SWZ,Thun,Young Boys,0,1
+2015-10-03,1516,SWZ,Luzern,Lugano,2,2
+2015-10-03,1516,SWZ,Vaduz,Thun,1,1
+2015-10-04,1516,SWZ,St. Gallen,Sion,1,1
+2015-10-04,1516,SWZ,Young Boys,Grasshoppers,3,1
+2015-10-04,1516,SWZ,Zurich,Basel,2,2
+2015-10-17,1516,SWZ,Grasshoppers,Luzern,1,0
+2015-10-17,1516,SWZ,Vaduz,Young Boys,1,1
+2015-10-18,1516,SWZ,Lugano,St. Gallen,3,1
+2015-10-18,1516,SWZ,Sion,Basel,0,2
+2015-10-18,1516,SWZ,Thun,Zurich,5,1
+2015-10-24,1516,SWZ,Luzern,Vaduz,1,1
+2015-10-24,1516,SWZ,Zurich,St. Gallen,2,2
+2015-10-25,1516,SWZ,Basel,Young Boys,1,0
+2015-10-25,1516,SWZ,Sion,Grasshoppers,3,2
+2015-10-25,1516,SWZ,Thun,Lugano,2,1
+2015-10-31,1516,SWZ,Grasshoppers,Thun,1,2
+2015-10-31,1516,SWZ,Vaduz,Basel,1,2
+2015-11-01,1516,SWZ,Lugano,Sion,3,0
+2015-11-01,1516,SWZ,St. Gallen,Luzern,1,0
+2015-11-01,1516,SWZ,Young Boys,Zurich,1,1
+2015-11-07,1516,SWZ,Lugano,Young Boys,1,1
+2015-11-07,1516,SWZ,Zurich,Vaduz,1,1
+2015-11-08,1516,SWZ,Basel,Grasshoppers,2,3
+2015-11-08,1516,SWZ,Sion,Luzern,2,0
+2015-11-08,1516,SWZ,Thun,St. Gallen,0,2
+2015-11-21,1516,SWZ,Grasshoppers,Vaduz,2,0
+2015-11-21,1516,SWZ,Luzern,Thun,1,0
+2015-11-22,1516,SWZ,St. Gallen,Basel,2,1
+2015-11-22,1516,SWZ,Young Boys,Sion,1,1
+2015-11-22,1516,SWZ,Zurich,Lugano,5,3
+2015-11-28,1516,SWZ,Vaduz,Lugano,1,1
+2015-11-28,1516,SWZ,Young Boys,St. Gallen,2,1
+2015-11-29,1516,SWZ,Basel,Luzern,3,0
+2015-11-29,1516,SWZ,Grasshoppers,Zurich,5,0
+2015-11-29,1516,SWZ,Sion,Thun,1,2
+2015-12-05,1516,SWZ,Luzern,Young Boys,3,1
+2015-12-05,1516,SWZ,Zurich,Sion,1,0
+2015-12-06,1516,SWZ,Lugano,Grasshoppers,4,1
+2015-12-06,1516,SWZ,St. Gallen,Vaduz,2,2
+2015-12-06,1516,SWZ,Thun,Basel,0,2
+2016-02-06,1516,SWZ,Lugano,Vaduz,2,5
+2016-02-06,1516,SWZ,Young Boys,Grasshoppers,1,1
+2016-02-07,1516,SWZ,Basel,Luzern,3,0
+2016-02-07,1516,SWZ,St. Gallen,Thun,1,2
+2016-02-07,1516,SWZ,Zurich,Sion,0,1
+2016-02-13,1516,SWZ,Thun,Lugano,2,1
+2016-02-13,1516,SWZ,Vaduz,Young Boys,1,1
+2016-02-14,1516,SWZ,Grasshoppers,Basel,0,4
+2016-02-14,1516,SWZ,Luzern,Zurich,1,2
+2016-02-20,1516,SWZ,Lugano,Zurich,0,0
+2016-02-20,1516,SWZ,Young Boys,Thun,2,1
+2016-02-21,1516,SWZ,Basel,Vaduz,5,1
+2016-02-21,1516,SWZ,Grasshoppers,Sion,3,0
+2016-02-21,1516,SWZ,Luzern,St. Gallen,0,1
+2016-02-27,1516,SWZ,Sion,Luzern,3,1
+2016-02-27,1516,SWZ,Zurich,Young Boys,0,1
+2016-02-28,1516,SWZ,St. Gallen,Lugano,3,3
+2016-02-28,1516,SWZ,Thun,Basel,1,1
+2016-02-28,1516,SWZ,Vaduz,Grasshoppers,1,1
+2016-03-05,1516,SWZ,Zurich,Thun,0,0
+2016-03-06,1516,SWZ,Sion,Vaduz,2,0
+2016-03-06,1516,SWZ,Young Boys,Luzern,5,2
+2016-03-07,1516,SWZ,St. Gallen,Grasshoppers,2,0
+2016-03-12,1516,SWZ,Luzern,Lugano,2,1
+2016-03-12,1516,SWZ,Vaduz,Thun,0,0
+2016-03-13,1516,SWZ,Basel,St. Gallen,4,2
+2016-03-13,1516,SWZ,Grasshoppers,Zurich,4,2
+2016-03-13,1516,SWZ,Young Boys,Sion,3,2
+2016-03-19,1516,SWZ,St. Gallen,Young Boys,2,3
+2016-03-19,1516,SWZ,Thun,Luzern,1,1
+2016-03-20,1516,SWZ,Grasshoppers,Lugano,0,1
+2016-03-20,1516,SWZ,Sion,Basel,0,1
+2016-03-20,1516,SWZ,Vaduz,Zurich,0,3
+2016-04-02,1516,SWZ,Luzern,Vaduz,5,1
+2016-04-02,1516,SWZ,Zurich,St. Gallen,4,0
+2016-04-03,1516,SWZ,Basel,Young Boys,2,0
+2016-04-03,1516,SWZ,Lugano,Sion,0,6
+2016-04-03,1516,SWZ,Thun,Grasshoppers,2,1
+2016-04-09,1516,SWZ,Grasshoppers,Luzern,1,1
+2016-04-09,1516,SWZ,Young Boys,Lugano,7,0
+2016-04-10,1516,SWZ,Basel,Zurich,2,2
+2016-04-10,1516,SWZ,Sion,Thun,2,1
+2016-04-10,1516,SWZ,Vaduz,St. Gallen,3,0
+2016-04-13,1516,SWZ,Lugano,Basel,1,4
+2016-04-13,1516,SWZ,Sion,St. Gallen,1,1
+2016-04-16,1516,SWZ,Sion,Grasshoppers,2,1
+2016-04-16,1516,SWZ,Zurich,Luzern,0,1
+2016-04-17,1516,SWZ,Lugano,Thun,2,1
+2016-04-17,1516,SWZ,St. Gallen,Basel,0,7
+2016-04-17,1516,SWZ,Young Boys,Vaduz,5,4
+2016-04-19,1516,SWZ,Zurich,Grasshoppers,1,1
+2016-04-20,1516,SWZ,Basel,Lugano,3,0
+2016-04-20,1516,SWZ,Luzern,Young Boys,2,3
+2016-04-20,1516,SWZ,St. Gallen,Sion,2,1
+2016-04-21,1516,SWZ,Thun,Vaduz,2,2
+2016-04-23,1516,SWZ,Grasshoppers,St. Gallen,2,0
+2016-04-23,1516,SWZ,Sion,Lugano,3,1
+2016-04-24,1516,SWZ,Luzern,Thun,3,0
+2016-04-24,1516,SWZ,Vaduz,Basel,0,0
+2016-04-24,1516,SWZ,Young Boys,Zurich,3,0
+2016-04-30,1516,SWZ,Basel,Sion,2,1
+2016-04-30,1516,SWZ,Grasshoppers,Young Boys,1,2
+2016-05-01,1516,SWZ,Lugano,Luzern,1,1
+2016-05-01,1516,SWZ,St. Gallen,Vaduz,1,3
+2016-05-01,1516,SWZ,Thun,Zurich,4,0
+2016-05-07,1516,SWZ,Thun,St. Gallen,2,2
+2016-05-07,1516,SWZ,Zurich,Basel,2,3
+2016-05-08,1516,SWZ,Lugano,Grasshoppers,0,1
+2016-05-08,1516,SWZ,Sion,Young Boys,2,1
+2016-05-08,1516,SWZ,Vaduz,Luzern,1,2
+2016-05-10,1516,SWZ,Basel,Thun,1,1
+2016-05-11,1516,SWZ,Luzern,Grasshoppers,3,0
+2016-05-11,1516,SWZ,Vaduz,Sion,2,0
+2016-05-11,1516,SWZ,Zurich,Lugano,0,4
+2016-05-12,1516,SWZ,Young Boys,St. Gallen,3,1
+2016-05-16,1516,SWZ,Grasshoppers,Vaduz,1,2
+2016-05-16,1516,SWZ,Lugano,Young Boys,1,3
+2016-05-16,1516,SWZ,Luzern,Basel,4,0
+2016-05-16,1516,SWZ,St. Gallen,Zurich,3,0
+2016-05-16,1516,SWZ,Thun,Sion,1,1
+2016-05-22,1516,SWZ,Grasshoppers,Thun,0,0
+2016-05-22,1516,SWZ,Sion,Zurich,2,2
+2016-05-22,1516,SWZ,St. Gallen,Luzern,1,4
+2016-05-22,1516,SWZ,Vaduz,Lugano,0,0
+2016-05-22,1516,SWZ,Young Boys,Basel,2,3
+2016-05-25,1516,SWZ,Basel,Grasshoppers,0,1
+2016-05-25,1516,SWZ,Lugano,St. Gallen,3,0
+2016-05-25,1516,SWZ,Luzern,Sion,2,2
+2016-05-25,1516,SWZ,Thun,Young Boys,0,3
+2016-05-25,1516,SWZ,Zurich,Vaduz,3,1
+2016-07-23,1617,SWZ,Lugano,Luzern,1,2
+2016-07-23,1617,SWZ,St. Gallen,Young Boys,0,2
+2016-07-24,1617,SWZ,Basel,Sion,3,0
+2016-07-24,1617,SWZ,Grasshoppers,Lausanne,2,0
+2016-07-24,1617,SWZ,Thun,Vaduz,1,1
+2016-07-30,1617,SWZ,Sion,St. Gallen,2,1
+2016-07-30,1617,SWZ,Young Boys,Lugano,1,2
+2016-07-31,1617,SWZ,Lausanne,Thun,4,4
+2016-07-31,1617,SWZ,Luzern,Grasshoppers,4,3
+2016-07-31,1617,SWZ,Vaduz,Basel,1,5
+2016-08-06,1617,SWZ,Sion,Lausanne,1,3
+2016-08-06,1617,SWZ,Young Boys,Thun,4,1
+2016-08-07,1617,SWZ,Lugano,Vaduz,0,2
+2016-08-07,1617,SWZ,Luzern,Basel,2,3
+2016-08-07,1617,SWZ,St. Gallen,Grasshoppers,2,1
+2016-08-10,1617,SWZ,Basel,Young Boys,3,0
+2016-08-10,1617,SWZ,Lugano,Sion,3,1
+2016-08-10,1617,SWZ,Vaduz,Luzern,1,3
+2016-08-11,1617,SWZ,Lausanne,St. Gallen,1,0
+2016-08-11,1617,SWZ,Thun,Grasshoppers,2,1
+2016-08-20,1617,SWZ,Basel,Lugano,4,1
+2016-08-20,1617,SWZ,Young Boys,Lausanne,7,2
+2016-08-21,1617,SWZ,Grasshoppers,Sion,2,1
+2016-08-21,1617,SWZ,Luzern,Thun,3,0
+2016-08-21,1617,SWZ,Vaduz,St. Gallen,2,0
+2016-08-27,1617,SWZ,Lugano,Lausanne,1,1
+2016-08-27,1617,SWZ,Sion,Vaduz,3,1
+2016-08-28,1617,SWZ,Grasshoppers,Young Boys,4,1
+2016-08-28,1617,SWZ,St. Gallen,Luzern,3,0
+2016-08-28,1617,SWZ,Thun,Basel,0,3
+2016-09-10,1617,SWZ,Basel,Grasshoppers,3,1
+2016-09-10,1617,SWZ,Young Boys,Luzern,2,1
+2016-09-11,1617,SWZ,Lausanne,Vaduz,5,0
+2016-09-11,1617,SWZ,Sion,Thun,1,0
+2016-09-11,1617,SWZ,St. Gallen,Lugano,0,2
+2016-09-20,1617,SWZ,Thun,St. Gallen,1,2
+2016-09-21,1617,SWZ,Lausanne,Basel,1,2
+2016-09-21,1617,SWZ,Luzern,Sion,2,2
+2016-09-21,1617,SWZ,Vaduz,Young Boys,0,0
+2016-09-22,1617,SWZ,Lugano,Grasshoppers,2,0
+2016-09-24,1617,SWZ,Luzern,Lausanne,1,3
+2016-09-24,1617,SWZ,St. Gallen,Basel,1,3
+2016-09-25,1617,SWZ,Grasshoppers,Vaduz,2,1
+2016-09-25,1617,SWZ,Sion,Young Boys,0,0
+2016-09-25,1617,SWZ,Thun,Lugano,2,2
+2016-10-01,1617,SWZ,Basel,Thun,1,1
+2016-10-01,1617,SWZ,Vaduz,Sion,2,5
+2016-10-02,1617,SWZ,Grasshoppers,Luzern,3,2
+2016-10-02,1617,SWZ,Lausanne,Lugano,4,1
+2016-10-02,1617,SWZ,Young Boys,St. Gallen,2,2
+2016-10-15,1617,SWZ,Basel,Luzern,3,0
+2016-10-15,1617,SWZ,Thun,Lausanne,1,0
+2016-10-16,1617,SWZ,Lugano,Young Boys,0,0
+2016-10-16,1617,SWZ,Sion,Grasshoppers,4,2
+2016-10-16,1617,SWZ,St. Gallen,Vaduz,0,2
+2016-10-22,1617,SWZ,Lugano,Basel,2,2
+2016-10-22,1617,SWZ,Vaduz,Thun,2,3
+2016-10-23,1617,SWZ,Lausanne,Sion,0,2
+2016-10-23,1617,SWZ,Luzern,St. Gallen,3,0
+2016-10-23,1617,SWZ,Young Boys,Grasshoppers,4,0
+2016-10-29,1617,SWZ,Grasshoppers,Basel,0,2
+2016-10-29,1617,SWZ,Sion,Lugano,5,1
+2016-10-30,1617,SWZ,Lausanne,Luzern,2,3
+2016-10-30,1617,SWZ,St. Gallen,Thun,0,0
+2016-10-30,1617,SWZ,Young Boys,Vaduz,5,0
+2016-11-05,1617,SWZ,Basel,Lausanne,2,1
+2016-11-05,1617,SWZ,Thun,Sion,2,3
+2016-11-06,1617,SWZ,Lugano,St. Gallen,2,3
+2016-11-06,1617,SWZ,Luzern,Young Boys,2,2
+2016-11-06,1617,SWZ,Vaduz,Grasshoppers,0,0
+2016-11-19,1617,SWZ,Basel,Vaduz,6,0
+2016-11-19,1617,SWZ,Grasshoppers,Thun,1,1
+2016-11-20,1617,SWZ,Luzern,Lugano,2,1
+2016-11-20,1617,SWZ,St. Gallen,Lausanne,2,0
+2016-11-20,1617,SWZ,Young Boys,Sion,4,3
+2016-11-26,1617,SWZ,Grasshoppers,St. Gallen,2,2
+2016-11-26,1617,SWZ,Thun,Luzern,1,2
+2016-11-27,1617,SWZ,Lausanne,Young Boys,1,2
+2016-11-27,1617,SWZ,Sion,Basel,1,2
+2016-11-27,1617,SWZ,Vaduz,Lugano,5,1
+2016-12-03,1617,SWZ,Luzern,Vaduz,3,0
+2016-12-03,1617,SWZ,Young Boys,Basel,3,1
+2016-12-04,1617,SWZ,Lausanne,Grasshoppers,1,2
+2016-12-04,1617,SWZ,Lugano,Thun,1,1
+2016-12-04,1617,SWZ,St. Gallen,Sion,2,1
+2016-12-10,1617,SWZ,Basel,St. Gallen,1,0
+2016-12-10,1617,SWZ,Vaduz,Lausanne,1,1
+2016-12-11,1617,SWZ,Grasshoppers,Lugano,0,0
+2016-12-11,1617,SWZ,Sion,Luzern,3,1
+2016-12-11,1617,SWZ,Thun,Young Boys,2,3
+2017-02-04,1617,SWZ,Basel,Lugano,4,0
+2017-02-04,1617,SWZ,Grasshoppers,Thun,0,1
+2017-02-05,1617,SWZ,Lausanne,Luzern,4,4
+2017-02-05,1617,SWZ,Vaduz,St. Gallen,1,1
+2017-02-05,1617,SWZ,Young Boys,Sion,3,1
+2017-02-11,1617,SWZ,Lugano,Grasshoppers,3,0
+2017-02-11,1617,SWZ,Thun,Basel,0,2
+2017-02-12,1617,SWZ,Luzern,Young Boys,4,1
+2017-02-12,1617,SWZ,Sion,Vaduz,4,2
+2017-02-12,1617,SWZ,St. Gallen,Lausanne,2,1
+2017-02-18,1617,SWZ,Luzern,Thun,1,1
+2017-02-18,1617,SWZ,Young Boys,St. Gallen,2,2
+2017-02-19,1617,SWZ,Basel,Lausanne,4,3
+2017-02-19,1617,SWZ,Grasshoppers,Sion,0,1
+2017-02-19,1617,SWZ,Vaduz,Lugano,1,1
+2017-02-25,1617,SWZ,Grasshoppers,Young Boys,2,3
+2017-02-25,1617,SWZ,Thun,Vaduz,4,3
+2017-02-26,1617,SWZ,Basel,Luzern,3,1
+2017-02-26,1617,SWZ,Lausanne,Sion,0,1
+2017-02-26,1617,SWZ,St. Gallen,Lugano,0,1
+2017-03-04,1617,SWZ,Lugano,Lausanne,2,1
+2017-03-04,1617,SWZ,Young Boys,Thun,3,2
+2017-03-05,1617,SWZ,Luzern,Grasshoppers,1,1
+2017-03-05,1617,SWZ,Sion,St. Gallen,1,2
+2017-03-05,1617,SWZ,Vaduz,Basel,1,1
+2017-03-11,1617,SWZ,Grasshoppers,Vaduz,1,2
+2017-03-11,1617,SWZ,St. Gallen,Luzern,1,1
+2017-03-12,1617,SWZ,Lausanne,Young Boys,0,0
+2017-03-12,1617,SWZ,Sion,Basel,0,1
+2017-03-12,1617,SWZ,Thun,Lugano,5,2
+2017-03-18,1617,SWZ,Basel,Grasshoppers,1,0
+2017-03-18,1617,SWZ,Luzern,Sion,0,0
+2017-03-19,1617,SWZ,Lugano,Young Boys,0,2
+2017-03-19,1617,SWZ,Thun,St. Gallen,2,2
+2017-03-19,1617,SWZ,Vaduz,Lausanne,0,1
+2017-04-01,1617,SWZ,Sion,Thun,2,1
+2017-04-01,1617,SWZ,St. Gallen,Basel,0,3
+2017-04-02,1617,SWZ,Lausanne,Grasshoppers,0,0
+2017-04-02,1617,SWZ,Luzern,Lugano,0,2
+2017-04-02,1617,SWZ,Young Boys,Vaduz,3,2
+2017-04-08,1617,SWZ,Grasshoppers,St. Gallen,3,1
+2017-04-08,1617,SWZ,Thun,Lausanne,2,4
+2017-04-09,1617,SWZ,Basel,Young Boys,1,1
+2017-04-09,1617,SWZ,Lugano,Sion,4,2
+2017-04-09,1617,SWZ,Vaduz,Luzern,0,2
+2017-04-15,1617,SWZ,Lausanne,Basel,0,4
+2017-04-15,1617,SWZ,Vaduz,Sion,0,1
+2017-04-17,1617,SWZ,Lugano,Thun,2,1
+2017-04-17,1617,SWZ,Luzern,St. Gallen,2,0
+2017-04-17,1617,SWZ,Young Boys,Grasshoppers,0,1
+2017-04-22,1617,SWZ,Basel,Vaduz,2,2
+2017-04-22,1617,SWZ,Grasshoppers,Luzern,4,1
+2017-04-23,1617,SWZ,Sion,Lausanne,0,1
+2017-04-23,1617,SWZ,St. Gallen,Thun,1,2
+2017-04-23,1617,SWZ,Young Boys,Lugano,1,2
+2017-04-28,1617,SWZ,Luzern,Basel,1,2
+2017-04-29,1617,SWZ,Lausanne,Vaduz,1,3
+2017-04-30,1617,SWZ,Grasshoppers,Lugano,0,1
+2017-04-30,1617,SWZ,St. Gallen,Young Boys,0,2
+2017-04-30,1617,SWZ,Thun,Sion,2,1
+2017-05-06,1617,SWZ,Thun,Luzern,3,1
+2017-05-06,1617,SWZ,Vaduz,Grasshoppers,2,4
+2017-05-07,1617,SWZ,Lausanne,St. Gallen,0,1
+2017-05-07,1617,SWZ,Lugano,Basel,2,2
+2017-05-07,1617,SWZ,Sion,Young Boys,0,1
+2017-05-13,1617,SWZ,Sion,Lugano,2,0
+2017-05-13,1617,SWZ,St. Gallen,Vaduz,2,0
+2017-05-14,1617,SWZ,Basel,Thun,3,3
+2017-05-14,1617,SWZ,Grasshoppers,Lausanne,1,1
+2017-05-14,1617,SWZ,Young Boys,Luzern,4,1
+2017-05-16,1617,SWZ,Lugano,St. Gallen,3,2
+2017-05-17,1617,SWZ,Luzern,Lausanne,0,3
+2017-05-17,1617,SWZ,Thun,Grasshoppers,3,1
+2017-05-17,1617,SWZ,Vaduz,Young Boys,1,0
+2017-05-18,1617,SWZ,Basel,Sion,2,2
+2017-05-20,1617,SWZ,Lausanne,Thun,0,0
+2017-05-20,1617,SWZ,Lugano,Vaduz,2,1
+2017-05-21,1617,SWZ,Sion,Luzern,2,3
+2017-05-21,1617,SWZ,St. Gallen,Grasshoppers,4,1
+2017-05-21,1617,SWZ,Young Boys,Basel,2,1
+2017-05-28,1617,SWZ,Grasshoppers,Basel,1,3
+2017-05-28,1617,SWZ,Lausanne,Lugano,1,2
+2017-05-28,1617,SWZ,Luzern,Vaduz,2,2
+2017-05-28,1617,SWZ,St. Gallen,Sion,1,1
+2017-05-28,1617,SWZ,Thun,Young Boys,0,0
+2017-06-02,1617,SWZ,Basel,St. Gallen,4,1
+2017-06-02,1617,SWZ,Lugano,Luzern,0,1
+2017-06-02,1617,SWZ,Sion,Grasshoppers,1,1
+2017-06-02,1617,SWZ,Vaduz,Thun,1,3
+2017-06-02,1617,SWZ,Young Boys,Lausanne,2,0
+2017-07-22,1718,SWZ,Lausanne,St. Gallen,3,3
+2017-07-22,1718,SWZ,Young Boys,Basel,2,0
+2017-07-23,1718,SWZ,Grasshoppers,Zurich,0,2
+2017-07-23,1718,SWZ,Luzern,Lugano,1,0
+2017-07-23,1718,SWZ,Thun,Sion,0,1
+2017-07-29,1718,SWZ,Grasshoppers,Young Boys,0,4
+2017-07-30,1718,SWZ,Basel,Luzern,3,1
+2017-07-30,1718,SWZ,Lausanne,Sion,0,1
+2017-07-30,1718,SWZ,Zurich,Thun,2,1
+2017-08-05,1718,SWZ,Lugano,Zurich,0,0
+2017-08-05,1718,SWZ,Thun,Basel,0,3
+2017-08-06,1718,SWZ,Luzern,Grasshoppers,2,2
+2017-08-06,1718,SWZ,St. Gallen,Sion,2,0
+2017-08-06,1718,SWZ,Young Boys,Lausanne,3,0
+2017-08-09,1718,SWZ,Lausanne,Lugano,2,3
+2017-08-09,1718,SWZ,St. Gallen,Luzern,0,2
+2017-08-09,1718,SWZ,Young Boys,Thun,0,4
+2017-08-10,1718,SWZ,Basel,Grasshoppers,3,2
+2017-08-10,1718,SWZ,Zurich,Sion,2,0
+2017-08-16,1718,SWZ,Lugano,St. Gallen,0,1
+2017-08-19,1718,SWZ,Thun,Lausanne,5,2
+2017-08-19,1718,SWZ,Zurich,Young Boys,0,0
+2017-08-20,1718,SWZ,Basel,Lugano,1,1
+2017-08-20,1718,SWZ,Grasshoppers,St. Gallen,2,0
+2017-08-20,1718,SWZ,Sion,Luzern,1,1
+2017-08-26,1718,SWZ,Lausanne,Grasshoppers,1,1
+2017-08-26,1718,SWZ,Lugano,Thun,4,1
+2017-08-27,1718,SWZ,Luzern,Zurich,1,1
+2017-08-27,1718,SWZ,Sion,Basel,1,1
+2017-08-27,1718,SWZ,St. Gallen,Young Boys,2,2
+2017-09-09,1718,SWZ,Basel,Lausanne,1,2
+2017-09-09,1718,SWZ,Zurich,St. Gallen,1,1
+2017-09-10,1718,SWZ,Grasshoppers,Sion,3,2
+2017-09-10,1718,SWZ,Luzern,Thun,2,2
+2017-09-10,1718,SWZ,Young Boys,Lugano,3,0
+2017-09-20,1718,SWZ,Lausanne,Zurich,1,1
+2017-09-20,1718,SWZ,St. Gallen,Basel,2,1
+2017-09-20,1718,SWZ,Young Boys,Luzern,4,1
+2017-09-21,1718,SWZ,Lugano,Sion,1,2
+2017-09-21,1718,SWZ,Thun,Grasshoppers,2,2
+2017-09-23,1718,SWZ,Basel,Zurich,1,0
+2017-09-23,1718,SWZ,Luzern,Lausanne,2,3
+2017-09-24,1718,SWZ,Lugano,Grasshoppers,0,3
+2017-09-24,1718,SWZ,Sion,Young Boys,0,1
+2017-09-24,1718,SWZ,St. Gallen,Thun,3,0
+2017-09-27,1718,SWZ,Sion,Lausanne,1,1
+2017-09-30,1718,SWZ,Grasshoppers,Basel,0,0
+2017-10-01,1718,SWZ,Thun,Luzern,2,0
+2017-10-01,1718,SWZ,Young Boys,St. Gallen,6,1
+2017-10-01,1718,SWZ,Zurich,Lugano,3,0
+2017-10-14,1718,SWZ,Lausanne,Young Boys,2,1
+2017-10-14,1718,SWZ,Lugano,Basel,0,4
+2017-10-15,1718,SWZ,Grasshoppers,Luzern,1,1
+2017-10-15,1718,SWZ,Sion,St. Gallen,1,2
+2017-10-15,1718,SWZ,Thun,Zurich,1,3
+2017-10-21,1718,SWZ,Basel,Thun,2,1
+2017-10-21,1718,SWZ,Zurich,Grasshoppers,0,4
+2017-10-22,1718,SWZ,Luzern,Young Boys,0,1
+2017-10-22,1718,SWZ,Sion,Lugano,2,2
+2017-10-22,1718,SWZ,St. Gallen,Lausanne,0,4
+2017-10-28,1718,SWZ,Lausanne,Thun,1,3
+2017-10-28,1718,SWZ,Zurich,Basel,0,0
+2017-10-29,1718,SWZ,Lugano,Luzern,1,0
+2017-10-29,1718,SWZ,St. Gallen,Grasshoppers,3,1
+2017-10-29,1718,SWZ,Young Boys,Sion,5,1
+2017-11-04,1718,SWZ,Grasshoppers,Lausanne,2,0
+2017-11-04,1718,SWZ,Sion,Zurich,1,1
+2017-11-05,1718,SWZ,Basel,Young Boys,1,1
+2017-11-05,1718,SWZ,Luzern,St. Gallen,3,0
+2017-11-05,1718,SWZ,Thun,Lugano,1,1
+2017-11-18,1718,SWZ,Basel,Sion,5,1
+2017-11-18,1718,SWZ,St. Gallen,Lugano,0,2
+2017-11-19,1718,SWZ,Grasshoppers,Thun,2,0
+2017-11-19,1718,SWZ,Lausanne,Luzern,3,1
+2017-11-19,1718,SWZ,Young Boys,Zurich,2,1
+2017-11-25,1718,SWZ,Luzern,Basel,1,4
+2017-11-25,1718,SWZ,Thun,St. Gallen,1,2
+2017-11-26,1718,SWZ,Lugano,Young Boys,1,2
+2017-11-26,1718,SWZ,Sion,Grasshoppers,3,0
+2017-11-26,1718,SWZ,Zurich,Lausanne,2,0
+2017-12-02,1718,SWZ,Lausanne,Basel,1,4
+2017-12-02,1718,SWZ,Luzern,Sion,2,1
+2017-12-03,1718,SWZ,Grasshoppers,Lugano,0,1
+2017-12-03,1718,SWZ,St. Gallen,Zurich,1,3
+2017-12-03,1718,SWZ,Thun,Young Boys,3,1
+2017-12-09,1718,SWZ,Basel,St. Gallen,3,0
+2017-12-09,1718,SWZ,Sion,Thun,2,3
+2017-12-10,1718,SWZ,Lugano,Lausanne,1,2
+2017-12-10,1718,SWZ,Young Boys,Grasshoppers,1,1
+2017-12-10,1718,SWZ,Zurich,Luzern,1,2
+2017-12-16,1718,SWZ,St. Gallen,Sion,3,2
+2017-12-16,1718,SWZ,Thun,Lugano,0,2
+2017-12-17,1718,SWZ,Grasshoppers,Basel,0,2
+2017-12-17,1718,SWZ,Lausanne,Zurich,5,1
+2017-12-17,1718,SWZ,Luzern,Young Boys,2,4
+2018-02-03,1718,SWZ,Luzern,Lausanne,2,1
+2018-02-03,1718,SWZ,Young Boys,St. Gallen,2,0
+2018-02-04,1718,SWZ,Basel,Lugano,0,1
+2018-02-04,1718,SWZ,Sion,Grasshoppers,1,3
+2018-02-04,1718,SWZ,Zurich,Thun,2,4
+2018-02-10,1718,SWZ,Lugano,Sion,1,0
+2018-02-10,1718,SWZ,Thun,Basel,0,2
+2018-02-11,1718,SWZ,Grasshoppers,Luzern,1,2
+2018-02-11,1718,SWZ,Lausanne,Young Boys,1,4
+2018-02-11,1718,SWZ,St. Gallen,Zurich,1,2
+2018-02-17,1718,SWZ,Basel,St. Gallen,0,2
+2018-02-17,1718,SWZ,Lugano,Grasshoppers,1,0
+2018-02-18,1718,SWZ,Sion,Lausanne,3,1
+2018-02-18,1718,SWZ,Young Boys,Thun,3,1
+2018-02-18,1718,SWZ,Zurich,Luzern,1,1
+2018-02-24,1718,SWZ,Young Boys,Sion,1,0
+2018-02-25,1718,SWZ,Grasshoppers,Zurich,1,0
+2018-02-25,1718,SWZ,Luzern,Thun,2,1
+2018-02-25,1718,SWZ,St. Gallen,Lugano,3,0
+2018-03-03,1718,SWZ,Grasshoppers,Lausanne,0,0
+2018-03-04,1718,SWZ,Lugano,Young Boys,2,4
+2018-03-04,1718,SWZ,Sion,Luzern,1,1
+2018-03-04,1718,SWZ,Thun,St. Gallen,1,2
+2018-03-10,1718,SWZ,Lausanne,St. Gallen,1,4
+2018-03-10,1718,SWZ,Zurich,Lugano,3,0
+2018-03-11,1718,SWZ,Luzern,Basel,1,0
+2018-03-11,1718,SWZ,Sion,Thun,7,2
+2018-03-11,1718,SWZ,Young Boys,Grasshoppers,3,1
+2018-03-14,1718,SWZ,Lausanne,Basel,1,1
+2018-03-17,1718,SWZ,St. Gallen,Grasshoppers,2,1
+2018-03-17,1718,SWZ,Zurich,Young Boys,1,2
+2018-03-18,1718,SWZ,Basel,Sion,1,0
+2018-03-18,1718,SWZ,Lugano,Luzern,1,2
+2018-03-18,1718,SWZ,Thun,Lausanne,0,0
+2018-03-31,1718,SWZ,Grasshoppers,Thun,0,2
+2018-03-31,1718,SWZ,Sion,Zurich,1,1
+2018-04-02,1718,SWZ,Lausanne,Lugano,2,1
+2018-04-02,1718,SWZ,Luzern,St. Gallen,3,1
+2018-04-02,1718,SWZ,Young Boys,Basel,2,2
+2018-04-07,1718,SWZ,Thun,Luzern,1,0
+2018-04-07,1718,SWZ,Zurich,Grasshoppers,1,1
+2018-04-08,1718,SWZ,Lausanne,Sion,0,2
+2018-04-08,1718,SWZ,Lugano,Basel,0,1
+2018-04-08,1718,SWZ,St. Gallen,Young Boys,2,4
+2018-04-11,1718,SWZ,Basel,Zurich,3,0
+2018-04-14,1718,SWZ,Grasshoppers,St. Gallen,1,2
+2018-04-14,1718,SWZ,Lugano,Thun,1,1
+2018-04-15,1718,SWZ,Basel,Lausanne,2,1
+2018-04-15,1718,SWZ,Luzern,Sion,0,1
+2018-04-15,1718,SWZ,Young Boys,Zurich,1,0
+2018-04-18,1718,SWZ,Basel,Grasshoppers,1,0
+2018-04-18,1718,SWZ,Sion,Lugano,0,1
+2018-04-18,1718,SWZ,Thun,Young Boys,2,2
+2018-04-18,1718,SWZ,Zurich,St. Gallen,4,0
+2018-04-19,1718,SWZ,Lausanne,Luzern,0,1
+2018-04-21,1718,SWZ,Grasshoppers,Lugano,4,3
+2018-04-21,1718,SWZ,St. Gallen,Thun,0,1
+2018-04-22,1718,SWZ,Luzern,Zurich,2,1
+2018-04-22,1718,SWZ,Sion,Basel,2,2
+2018-04-22,1718,SWZ,Young Boys,Lausanne,4,1
+2018-04-28,1718,SWZ,Lausanne,Grasshoppers,0,1
+2018-04-28,1718,SWZ,Young Boys,Luzern,2,1
+2018-04-29,1718,SWZ,Basel,Thun,6,1
+2018-04-29,1718,SWZ,Lugano,St. Gallen,2,1
+2018-04-29,1718,SWZ,Zurich,Sion,3,3
+2018-05-05,1718,SWZ,Luzern,Lugano,2,0
+2018-05-05,1718,SWZ,Sion,Young Boys,0,1
+2018-05-06,1718,SWZ,St. Gallen,Basel,2,4
+2018-05-06,1718,SWZ,Thun,Grasshoppers,2,1
+2018-05-06,1718,SWZ,Zurich,Lausanne,1,1
+2018-05-09,1718,SWZ,Grasshoppers,Sion,0,2
+2018-05-09,1718,SWZ,St. Gallen,Luzern,2,3
+2018-05-09,1718,SWZ,Thun,Zurich,0,1
+2018-05-10,1718,SWZ,Basel,Young Boys,5,1
+2018-05-10,1718,SWZ,Lugano,Lausanne,2,0
+2018-05-13,1718,SWZ,Lausanne,Thun,0,3
+2018-05-13,1718,SWZ,Luzern,Grasshoppers,1,1
+2018-05-13,1718,SWZ,Sion,St. Gallen,3,2
+2018-05-13,1718,SWZ,Young Boys,Lugano,3,1
+2018-05-13,1718,SWZ,Zurich,Basel,4,1
+2018-05-19,1718,SWZ,Basel,Luzern,2,2
+2018-05-19,1718,SWZ,Grasshoppers,Young Boys,1,2
+2018-05-19,1718,SWZ,Lugano,Zurich,1,1
+2018-05-19,1718,SWZ,St. Gallen,Lausanne,0,3
+2018-05-19,1718,SWZ,Thun,Sion,1,4
+2018-07-21,1819,SWZ,Basel,St. Gallen,1,2
+2018-07-21,1819,SWZ,Luzern,Xamax,0,2
+2018-07-22,1819,SWZ,Sion,Lugano,1,2
+2018-07-22,1819,SWZ,Young Boys,Grasshoppers,2,0
+2018-07-22,1819,SWZ,Zurich,Thun,2,1
+2018-07-28,1819,SWZ,Grasshoppers,Zurich,0,2
+2018-07-28,1819,SWZ,Xamax,Basel,1,1
+2018-07-29,1819,SWZ,Lugano,Young Boys,0,2
+2018-07-29,1819,SWZ,St. Gallen,Sion,2,4
+2018-07-29,1819,SWZ,Thun,Luzern,2,1
+2018-08-04,1819,SWZ,Basel,Grasshoppers,4,2
+2018-08-04,1819,SWZ,Luzern,Lugano,4,2
+2018-08-05,1819,SWZ,Sion,Xamax,3,0
+2018-08-05,1819,SWZ,St. Gallen,Thun,3,2
+2018-08-05,1819,SWZ,Young Boys,Zurich,4,0
+2018-08-11,1819,SWZ,Lugano,Grasshoppers,2,2
+2018-08-11,1819,SWZ,Xamax,Thun,1,5
+2018-08-12,1819,SWZ,Basel,Sion,3,2
+2018-08-12,1819,SWZ,Luzern,Young Boys,2,3
+2018-08-12,1819,SWZ,Zurich,St. Gallen,0,0
+2018-08-25,1819,SWZ,Grasshoppers,Sion,2,1
+2018-08-25,1819,SWZ,Young Boys,Xamax,5,2
+2018-08-26,1819,SWZ,St. Gallen,Luzern,0,1
+2018-08-26,1819,SWZ,Thun,Lugano,1,1
+2018-08-26,1819,SWZ,Zurich,Basel,1,1
+2018-09-01,1819,SWZ,Lugano,Zurich,1,0
+2018-09-01,1819,SWZ,Sion,Young Boys,0,3
+2018-09-02,1819,SWZ,Basel,Thun,1,1
+2018-09-02,1819,SWZ,Luzern,Grasshoppers,2,1
+2018-09-02,1819,SWZ,Xamax,St. Gallen,2,3
+2018-09-22,1819,SWZ,Grasshoppers,Xamax,3,1
+2018-09-22,1819,SWZ,Thun,Sion,4,1
+2018-09-23,1819,SWZ,St. Gallen,Lugano,2,2
+2018-09-23,1819,SWZ,Young Boys,Basel,7,1
+2018-09-23,1819,SWZ,Zurich,Luzern,1,0
+2018-09-25,1819,SWZ,Grasshoppers,Thun,0,2
+2018-09-26,1819,SWZ,Basel,Luzern,2,1
+2018-09-26,1819,SWZ,Xamax,Lugano,2,1
+2018-09-26,1819,SWZ,Young Boys,St. Gallen,2,0
+2018-09-27,1819,SWZ,Sion,Zurich,1,2
+2018-09-29,1819,SWZ,St. Gallen,Grasshoppers,2,1
+2018-09-29,1819,SWZ,Thun,Young Boys,1,4
+2018-09-30,1819,SWZ,Lugano,Basel,2,2
+2018-09-30,1819,SWZ,Luzern,Sion,1,3
+2018-09-30,1819,SWZ,Zurich,Xamax,0,0
+2018-10-06,1819,SWZ,St. Gallen,Basel,1,3
+2018-10-06,1819,SWZ,Young Boys,Luzern,2,3
+2018-10-07,1819,SWZ,Grasshoppers,Lugano,2,1
+2018-10-07,1819,SWZ,Thun,Zurich,2,2
+2018-10-07,1819,SWZ,Xamax,Sion,1,1
+2018-10-20,1819,SWZ,Luzern,Thun,0,2
+2018-10-20,1819,SWZ,Zurich,Young Boys,3,3
+2018-10-21,1819,SWZ,Basel,Xamax,1,1
+2018-10-21,1819,SWZ,Lugano,St. Gallen,3,1
+2018-10-21,1819,SWZ,Sion,Grasshoppers,0,0
+2018-10-27,1819,SWZ,Grasshoppers,Basel,1,3
+2018-10-27,1819,SWZ,Young Boys,Sion,3,2
+2018-10-28,1819,SWZ,Lugano,Thun,2,1
+2018-10-28,1819,SWZ,St. Gallen,Zurich,3,2
+2018-10-28,1819,SWZ,Xamax,Luzern,1,2
+2018-11-03,1819,SWZ,Grasshoppers,Young Boys,0,3
+2018-11-03,1819,SWZ,Thun,Xamax,2,2
+2018-11-04,1819,SWZ,Basel,Lugano,3,2
+2018-11-04,1819,SWZ,Luzern,Zurich,2,5
+2018-11-04,1819,SWZ,Sion,St. Gallen,0,1
+2018-11-10,1819,SWZ,Lugano,Luzern,1,4
+2018-11-10,1819,SWZ,Thun,Basel,4,2
+2018-11-11,1819,SWZ,St. Gallen,Young Boys,2,3
+2018-11-11,1819,SWZ,Xamax,Grasshoppers,2,3
+2018-11-11,1819,SWZ,Zurich,Sion,1,2
+2018-11-24,1819,SWZ,Xamax,Zurich,3,3
+2018-11-24,1819,SWZ,Young Boys,Lugano,1,0
+2018-11-25,1819,SWZ,Grasshoppers,St. Gallen,2,1
+2018-11-25,1819,SWZ,Luzern,Basel,1,1
+2018-11-25,1819,SWZ,Sion,Thun,2,1
+2018-12-01,1819,SWZ,Sion,Luzern,2,0
+2018-12-01,1819,SWZ,Thun,St. Gallen,2,0
+2018-12-02,1819,SWZ,Basel,Young Boys,1,3
+2018-12-02,1819,SWZ,Lugano,Xamax,2,2
+2018-12-02,1819,SWZ,Zurich,Grasshoppers,2,0
+2018-12-08,1819,SWZ,St. Gallen,Xamax,3,2
+2018-12-08,1819,SWZ,Young Boys,Thun,3,2
+2018-12-09,1819,SWZ,Basel,Zurich,2,0
+2018-12-09,1819,SWZ,Grasshoppers,Luzern,2,3
+2018-12-09,1819,SWZ,Lugano,Sion,2,2
+2018-12-15,1819,SWZ,Sion,Basel,1,2
+2018-12-15,1819,SWZ,Thun,Grasshoppers,1,0
+2018-12-16,1819,SWZ,Luzern,St. Gallen,2,1
+2018-12-16,1819,SWZ,Xamax,Young Boys,1,4
+2018-12-16,1819,SWZ,Zurich,Lugano,0,0
+2019-02-02,1819,SWZ,Young Boys,Xamax,2,0
+2019-02-03,1819,SWZ,Grasshoppers,Basel,0,4
+2019-02-06,1819,SWZ,Lugano,Thun,1,3
+2019-02-06,1819,SWZ,St. Gallen,Zurich,3,1
+2019-02-09,1819,SWZ,Basel,St. Gallen,1,1
+2019-02-09,1819,SWZ,Zurich,Grasshoppers,3,1
+2019-02-10,1819,SWZ,Sion,Lugano,2,2
+2019-02-10,1819,SWZ,Thun,Young Boys,1,1
+2019-02-10,1819,SWZ,Xamax,Luzern,2,1
+2019-02-13,1819,SWZ,Luzern,Sion,1,3
+2019-02-16,1819,SWZ,Luzern,Lugano,0,3
+2019-02-16,1819,SWZ,St. Gallen,Thun,1,3
+2019-02-17,1819,SWZ,Basel,Sion,1,0
+2019-02-17,1819,SWZ,Grasshoppers,Xamax,0,1
+2019-02-17,1819,SWZ,Young Boys,Zurich,2,0
+2019-02-23,1819,SWZ,Sion,St. Gallen,2,2
+2019-02-23,1819,SWZ,Xamax,Basel,0,2
+2019-02-24,1819,SWZ,Lugano,Young Boys,0,1
+2019-02-24,1819,SWZ,Thun,Grasshoppers,1,1
+2019-02-24,1819,SWZ,Zurich,Luzern,1,1
+2019-03-02,1819,SWZ,Grasshoppers,Luzern,1,3
+2019-03-02,1819,SWZ,Young Boys,Sion,1,0
+2019-03-03,1819,SWZ,Basel,Thun,3,1
+2019-03-03,1819,SWZ,St. Gallen,Xamax,3,0
+2019-03-03,1819,SWZ,Zurich,Lugano,0,1
+2019-03-09,1819,SWZ,Grasshoppers,Young Boys,0,1
+2019-03-09,1819,SWZ,Xamax,Sion,3,1
+2019-03-10,1819,SWZ,Lugano,Basel,1,1
+2019-03-10,1819,SWZ,Luzern,St. Gallen,3,0
+2019-03-10,1819,SWZ,Thun,Zurich,2,2
+2019-03-16,1819,SWZ,Sion,Grasshoppers,3,0
+2019-03-16,1819,SWZ,St. Gallen,Lugano,0,2
+2019-03-17,1819,SWZ,Basel,Young Boys,2,2
+2019-03-17,1819,SWZ,Thun,Luzern,1,1
+2019-03-17,1819,SWZ,Zurich,Xamax,2,1
+2019-03-30,1819,SWZ,Luzern,Basel,0,1
+2019-03-30,1819,SWZ,Sion,Zurich,1,0
+2019-03-31,1819,SWZ,Grasshoppers,Lugano,1,1
+2019-03-31,1819,SWZ,Xamax,Thun,3,2
+2019-03-31,1819,SWZ,Young Boys,St. Gallen,3,2
+2019-04-03,1819,SWZ,Lugano,Xamax,0,0
+2019-04-03,1819,SWZ,St. Gallen,Grasshoppers,0,0
+2019-04-03,1819,SWZ,Zurich,Basel,0,2
+2019-04-04,1819,SWZ,Thun,Sion,1,2
+2019-04-06,1819,SWZ,Grasshoppers,Zurich,1,1
+2019-04-06,1819,SWZ,Xamax,St. Gallen,0,1
+2019-04-07,1819,SWZ,Basel,Lugano,1,1
+2019-04-07,1819,SWZ,Sion,Luzern,2,2
+2019-04-07,1819,SWZ,Young Boys,Thun,5,1
+2019-04-10,1819,SWZ,Luzern,Young Boys,1,3
+2019-04-13,1819,SWZ,Basel,Grasshoppers,0,0
+2019-04-13,1819,SWZ,Luzern,Xamax,0,1
+2019-04-14,1819,SWZ,Lugano,Sion,1,1
+2019-04-14,1819,SWZ,Thun,St. Gallen,0,0
+2019-04-14,1819,SWZ,Zurich,Young Boys,0,1
+2019-04-19,1819,SWZ,Lugano,Zurich,3,0
+2019-04-19,1819,SWZ,Sion,Basel,0,3
+2019-04-20,1819,SWZ,Grasshoppers,Thun,1,1
+2019-04-20,1819,SWZ,St. Gallen,Luzern,1,2
+2019-04-22,1819,SWZ,Xamax,Young Boys,1,0
+2019-04-27,1819,SWZ,Luzern,Thun,3,1
+2019-04-27,1819,SWZ,Xamax,Grasshoppers,1,1
+2019-04-28,1819,SWZ,St. Gallen,Basel,0,3
+2019-04-28,1819,SWZ,Young Boys,Lugano,2,2
+2019-04-28,1819,SWZ,Zurich,Sion,1,0
+2019-05-04,1819,SWZ,Basel,Zurich,3,0
+2019-05-04,1819,SWZ,Grasshoppers,St. Gallen,0,1
+2019-05-05,1819,SWZ,Lugano,Luzern,1,0
+2019-05-05,1819,SWZ,Sion,Young Boys,0,4
+2019-05-05,1819,SWZ,Thun,Xamax,0,2
+2019-05-11,1819,SWZ,Thun,Lugano,1,0
+2019-05-11,1819,SWZ,Xamax,Zurich,1,2
+2019-05-12,1819,SWZ,Luzern,Grasshoppers,3,0
+2019-05-12,1819,SWZ,St. Gallen,Sion,2,1
+2019-05-12,1819,SWZ,Young Boys,Basel,3,1
+2019-05-15,1819,SWZ,Basel,Luzern,3,2
+2019-05-15,1819,SWZ,Sion,Xamax,1,0
+2019-05-15,1819,SWZ,Zurich,Thun,3,0
+2019-05-16,1819,SWZ,Lugano,St. Gallen,1,0
+2019-05-16,1819,SWZ,Young Boys,Grasshoppers,6,1
+2019-05-22,1819,SWZ,Grasshoppers,Sion,0,3
+2019-05-22,1819,SWZ,Luzern,Zurich,3,0
+2019-05-22,1819,SWZ,St. Gallen,Young Boys,4,1
+2019-05-22,1819,SWZ,Thun,Basel,1,2
+2019-05-22,1819,SWZ,Xamax,Lugano,1,1
+2019-05-25,1819,SWZ,Basel,Xamax,4,1
+2019-05-25,1819,SWZ,Lugano,Grasshoppers,3,3
+2019-05-25,1819,SWZ,Sion,Thun,0,1
+2019-05-25,1819,SWZ,Young Boys,Luzern,4,0
+2019-05-25,1819,SWZ,Zurich,St. Gallen,1,1
+2019-05-30,1819,SWZ,Xamax,Aarau,0,4
+2019-06-02,1819,SWZ,Aarau,Xamax,0,5
+2019-07-19,1920,SWZ,Sion,Basel,1,4
+2019-07-20,1920,SWZ,St. Gallen,Luzern,0,2
+2019-07-20,1920,SWZ,Thun,Xamax,2,2
+2019-07-21,1920,SWZ,Young Boys,Servette,1,1
+2019-07-21,1920,SWZ,Zurich,Lugano,0,4
+2019-07-27,1920,SWZ,Basel,St. Gallen,1,2
+2019-07-27,1920,SWZ,Servette,Sion,0,0
+2019-07-28,1920,SWZ,Lugano,Thun,0,0
+2019-07-28,1920,SWZ,Luzern,Zurich,0,0
+2019-07-28,1920,SWZ,Xamax,Young Boys,0,1
+2019-08-03,1920,SWZ,Sion,Zurich,3,1
+2019-08-03,1920,SWZ,Thun,Basel,2,3
+2019-08-04,1920,SWZ,Servette,Luzern,1,0
+2019-08-04,1920,SWZ,Xamax,St. Gallen,1,1
+2019-08-04,1920,SWZ,Young Boys,Lugano,2,0
+2019-08-10,1920,SWZ,Basel,Servette,3,1
+2019-08-10,1920,SWZ,St. Gallen,Young Boys,2,3
+2019-08-11,1920,SWZ,Lugano,Sion,0,1
+2019-08-11,1920,SWZ,Luzern,Thun,0,2
+2019-08-11,1920,SWZ,Zurich,Xamax,2,2
+2019-08-14,1920,SWZ,Zurich,St. Gallen,2,1
+2019-08-24,1920,SWZ,Xamax,Basel,0,3
+2019-08-24,1920,SWZ,Young Boys,Zurich,4,0
+2019-08-25,1920,SWZ,Sion,Luzern,2,1
+2019-08-25,1920,SWZ,St. Gallen,Lugano,3,2
+2019-08-25,1920,SWZ,Thun,Servette,0,4
+2019-08-31,1920,SWZ,Servette,Xamax,2,2
+2019-09-01,1920,SWZ,Basel,Lugano,2,1
+2019-09-01,1920,SWZ,Luzern,Young Boys,2,2
+2019-09-01,1920,SWZ,Thun,Sion,0,1
+2019-09-21,1920,SWZ,St. Gallen,Servette,3,1
+2019-09-21,1920,SWZ,Xamax,Sion,1,3
+2019-09-22,1920,SWZ,Lugano,Luzern,1,1
+2019-09-22,1920,SWZ,Young Boys,Basel,1,1
+2019-09-22,1920,SWZ,Zurich,Thun,2,0
+2019-09-25,1920,SWZ,Basel,Zurich,4,0
+2019-09-25,1920,SWZ,Sion,St. Gallen,1,2
+2019-09-25,1920,SWZ,Thun,Young Boys,1,1
+2019-09-26,1920,SWZ,Luzern,Xamax,1,0
+2019-09-26,1920,SWZ,Servette,Lugano,0,0
+2019-09-28,1920,SWZ,St. Gallen,Thun,4,0
+2019-09-28,1920,SWZ,Young Boys,Sion,3,2
+2019-09-29,1920,SWZ,Basel,Luzern,3,0
+2019-09-29,1920,SWZ,Lugano,Xamax,0,1
+2019-09-29,1920,SWZ,Servette,Zurich,0,1
+2019-10-05,1920,SWZ,Thun,Luzern,0,2
+2019-10-05,1920,SWZ,Xamax,Servette,2,2
+2019-10-06,1920,SWZ,Sion,Lugano,1,2
+2019-10-06,1920,SWZ,St. Gallen,Basel,0,0
+2019-10-06,1920,SWZ,Zurich,Young Boys,0,4
+2019-10-19,1920,SWZ,Basel,Thun,3,1
+2019-10-19,1920,SWZ,Young Boys,Xamax,4,1
+2019-10-20,1920,SWZ,Lugano,Zurich,0,0
+2019-10-20,1920,SWZ,Luzern,Sion,3,1
+2019-10-20,1920,SWZ,Servette,St. Gallen,1,2
+2019-10-26,1920,SWZ,Sion,Servette,1,1
+2019-10-26,1920,SWZ,Xamax,Luzern,2,0
+2019-10-27,1920,SWZ,Lugano,St. Gallen,1,3
+2019-10-27,1920,SWZ,Young Boys,Thun,4,2
+2019-10-27,1920,SWZ,Zurich,Basel,3,2
+2019-11-02,1920,SWZ,St. Gallen,Sion,3,0
+2019-11-02,1920,SWZ,Thun,Zurich,0,1
+2019-11-03,1920,SWZ,Basel,Xamax,1,1
+2019-11-03,1920,SWZ,Luzern,Lugano,1,2
+2019-11-03,1920,SWZ,Servette,Young Boys,3,0
+2019-11-09,1920,SWZ,Luzern,Servette,1,2
+2019-11-09,1920,SWZ,Xamax,Thun,2,3
+2019-11-10,1920,SWZ,Lugano,Basel,0,3
+2019-11-10,1920,SWZ,Young Boys,St. Gallen,4,3
+2019-11-10,1920,SWZ,Zurich,Sion,4,2
+2019-11-23,1920,SWZ,Servette,Basel,2,0
+2019-11-23,1920,SWZ,Zurich,Luzern,3,0
+2019-11-24,1920,SWZ,Sion,Young Boys,3,4
+2019-11-24,1920,SWZ,St. Gallen,Xamax,4,1
+2019-11-24,1920,SWZ,Thun,Lugano,0,3
+2019-11-30,1920,SWZ,Sion,Thun,2,1
+2019-11-30,1920,SWZ,Xamax,Zurich,0,1
+2019-12-01,1920,SWZ,Basel,Young Boys,3,0
+2019-12-01,1920,SWZ,Lugano,Servette,1,0
+2019-12-01,1920,SWZ,Luzern,St. Gallen,1,4
+2019-12-07,1920,SWZ,Xamax,Lugano,1,1
+2019-12-07,1920,SWZ,Young Boys,Luzern,1,0
+2019-12-08,1920,SWZ,Basel,Sion,4,0
+2019-12-08,1920,SWZ,Thun,St. Gallen,1,4
+2019-12-08,1920,SWZ,Zurich,Servette,0,5
+2019-12-14,1920,SWZ,Servette,Thun,2,1
+2019-12-14,1920,SWZ,St. Gallen,Zurich,1,3
+2019-12-15,1920,SWZ,Lugano,Young Boys,0,0
+2019-12-15,1920,SWZ,Luzern,Basel,2,1
+2019-12-15,1920,SWZ,Sion,Xamax,1,1
+2020-01-25,1920,SWZ,Xamax,Servette,1,2
+2020-01-25,1920,SWZ,Zurich,Luzern,2,3
+2020-01-26,1920,SWZ,St. Gallen,Lugano,3,1
+2020-01-26,1920,SWZ,Thun,Sion,2,1
+2020-01-26,1920,SWZ,Young Boys,Basel,2,0
+2020-02-01,1920,SWZ,Lugano,Xamax,1,1
+2020-02-01,1920,SWZ,Luzern,Young Boys,2,0
+2020-02-02,1920,SWZ,Basel,St. Gallen,1,2
+2020-02-02,1920,SWZ,Servette,Thun,2,0
+2020-02-02,1920,SWZ,Sion,Zurich,1,1
+2020-02-08,1920,SWZ,Young Boys,Sion,1,0
+2020-02-08,1920,SWZ,Zurich,Basel,0,4
+2020-02-09,1920,SWZ,St. Gallen,Servette,1,0
+2020-02-09,1920,SWZ,Thun,Lugano,3,2
+2020-02-09,1920,SWZ,Xamax,Luzern,0,1
+2020-02-15,1920,SWZ,Basel,Thun,0,1
+2020-02-15,1920,SWZ,Sion,Xamax,1,2
+2020-02-16,1920,SWZ,Lugano,Young Boys,2,1
+2020-02-16,1920,SWZ,Luzern,St. Gallen,1,0
+2020-02-16,1920,SWZ,Servette,Zurich,4,1
+2020-02-22,1920,SWZ,Thun,Luzern,1,1
+2020-02-22,1920,SWZ,Zurich,Xamax,1,1
+2020-02-23,1920,SWZ,Basel,Servette,2,2
+2020-02-23,1920,SWZ,Lugano,Sion,0,0
+2020-02-23,1920,SWZ,St. Gallen,Young Boys,3,3
+2020-06-19,1920,SWZ,Young Boys,Zurich,3,2
+2020-06-20,1920,SWZ,Sion,St. Gallen,1,2
+2020-06-20,1920,SWZ,Xamax,Thun,2,1
+2020-06-21,1920,SWZ,Luzern,Basel,2,1
+2020-06-21,1920,SWZ,Servette,Lugano,1,1
+2020-06-23,1920,SWZ,Thun,Young Boys,1,0
+2020-06-24,1920,SWZ,Lugano,Luzern,2,0
+2020-06-24,1920,SWZ,Sion,Servette,1,1
+2020-06-24,1920,SWZ,Xamax,Basel,1,2
+2020-06-25,1920,SWZ,St. Gallen,Zurich,0,4
+2020-06-27,1920,SWZ,Luzern,Servette,2,2
+2020-06-27,1920,SWZ,Young Boys,Xamax,6,0
+2020-06-28,1920,SWZ,Basel,Sion,2,0
+2020-06-28,1920,SWZ,St. Gallen,Thun,3,2
+2020-06-28,1920,SWZ,Zurich,Lugano,1,0
+2020-06-30,1920,SWZ,Servette,Young Boys,1,1
+2020-07-01,1920,SWZ,Lugano,Basel,2,1
+2020-07-01,1920,SWZ,Thun,Zurich,3,2
+2020-07-01,1920,SWZ,Xamax,St. Gallen,1,2
+2020-07-02,1920,SWZ,Sion,Luzern,0,2
+2020-07-04,1920,SWZ,Basel,Xamax,2,0
+2020-07-04,1920,SWZ,Zurich,Servette,2,0
+2020-07-05,1920,SWZ,Luzern,Thun,3,0
+2020-07-05,1920,SWZ,St. Gallen,Sion,2,1
+2020-07-05,1920,SWZ,Young Boys,Lugano,3,0
+2020-07-07,1920,SWZ,Xamax,Zurich,1,1
+2020-07-08,1920,SWZ,Servette,Luzern,2,0
+2020-07-08,1920,SWZ,Sion,Basel,1,0
+2020-07-08,1920,SWZ,Young Boys,Thun,4,0
+2020-07-09,1920,SWZ,Lugano,St. Gallen,3,3
+2020-07-11,1920,SWZ,Basel,Young Boys,3,2
+2020-07-12,1920,SWZ,Luzern,Lugano,3,3
+2020-07-12,1920,SWZ,Servette,St. Gallen,1,1
+2020-07-12,1920,SWZ,Thun,Xamax,3,0
+2020-07-14,1920,SWZ,Basel,Zurich,4,0
+2020-07-15,1920,SWZ,Lugano,Thun,1,1
+2020-07-15,1920,SWZ,Young Boys,Servette,4,2
+2020-07-16,1920,SWZ,St. Gallen,Luzern,4,1
+2020-07-16,1920,SWZ,Xamax,Sion,0,0
+2020-07-18,1920,SWZ,Zurich,Young Boys,0,5
+2020-07-19,1920,SWZ,Luzern,Xamax,1,2
+2020-07-19,1920,SWZ,Servette,Basel,2,2
+2020-07-19,1920,SWZ,Sion,Lugano,1,1
+2020-07-19,1920,SWZ,Thun,St. Gallen,2,1
+2020-07-22,1920,SWZ,Lugano,Zurich,1,0
+2020-07-22,1920,SWZ,Luzern,Sion,1,2
+2020-07-22,1920,SWZ,St. Gallen,Basel,0,5
+2020-07-22,1920,SWZ,Thun,Servette,5,1
+2020-07-23,1920,SWZ,Xamax,Young Boys,0,1
+2020-07-25,1920,SWZ,Sion,Thun,1,1
+2020-07-25,1920,SWZ,Zurich,St. Gallen,1,3
+2020-07-26,1920,SWZ,Basel,Lugano,4,4
+2020-07-26,1920,SWZ,Servette,Xamax,4,1
+2020-07-26,1920,SWZ,Young Boys,Luzern,1,0
+2020-07-28,1920,SWZ,Zurich,Sion,0,2
+2020-07-31,1920,SWZ,Lugano,Servette,3,1
+2020-07-31,1920,SWZ,Luzern,Zurich,2,1
+2020-07-31,1920,SWZ,Sion,Young Boys,0,1
+2020-07-31,1920,SWZ,St. Gallen,Xamax,6,0
+2020-07-31,1920,SWZ,Thun,Basel,0,0
+2020-08-03,1920,SWZ,Basel,Luzern,0,0
+2020-08-03,1920,SWZ,Servette,Sion,1,2
+2020-08-03,1920,SWZ,Xamax,Lugano,0,1
+2020-08-03,1920,SWZ,Young Boys,St. Gallen,3,1
+2020-08-03,1920,SWZ,Zurich,Thun,3,3
+2020-08-07,1920,SWZ,Vaduz,Thun,2,0
+2020-08-10,1920,SWZ,Thun,Vaduz,4,3
+2020-09-19,2021,SWZ,Lugano,Luzern,2,1
+2020-09-19,2021,SWZ,Young Boys,Zurich,2,1
+2020-09-20,2021,SWZ,Basel,Vaduz,2,2
+2020-09-20,2021,SWZ,Lausanne,Servette,2,1
+2020-09-20,2021,SWZ,St. Gallen,Sion,1,0
+2020-09-26,2021,SWZ,Sion,Young Boys,0,0
+2020-09-26,2021,SWZ,Zurich,Lugano,2,2
+2020-09-27,2021,SWZ,Luzern,Lausanne,2,2
+2020-09-27,2021,SWZ,Servette,Basel,1,0
+2020-09-27,2021,SWZ,Vaduz,St. Gallen,0,1
+2020-10-03,2021,SWZ,Lausanne,Zurich,4,0
+2020-10-03,2021,SWZ,Lugano,Sion,2,2
+2020-10-04,2021,SWZ,Basel,Luzern,3,2
+2020-10-04,2021,SWZ,St. Gallen,Servette,1,0
+2020-10-04,2021,SWZ,Young Boys,Vaduz,1,0
+2020-10-17,2021,SWZ,Servette,Young Boys,0,0
+2020-10-17,2021,SWZ,Vaduz,Lugano,1,1
+2020-10-18,2021,SWZ,Luzern,St. Gallen,2,2
+2020-10-18,2021,SWZ,Sion,Lausanne,0,0
+2020-10-24,2021,SWZ,Lugano,St. Gallen,1,0
+2020-10-24,2021,SWZ,Vaduz,Zurich,1,4
+2020-10-25,2021,SWZ,Young Boys,Luzern,2,1
+2020-11-01,2021,SWZ,St. Gallen,Basel,1,3
+2020-11-04,2021,SWZ,Zurich,Basel,1,0
+2020-11-07,2021,SWZ,Lausanne,Lugano,0,1
+2020-11-07,2021,SWZ,Zurich,Luzern,2,0
+2020-11-08,2021,SWZ,Young Boys,St. Gallen,0,0
+2020-11-21,2021,SWZ,Luzern,Vaduz,1,1
+2020-11-21,2021,SWZ,Young Boys,Basel,2,1
+2020-11-22,2021,SWZ,Servette,Lugano,1,1
+2020-11-22,2021,SWZ,Sion,Zurich,2,2
+2020-11-22,2021,SWZ,St. Gallen,Lausanne,2,2
+2020-11-25,2021,SWZ,Basel,Lausanne,2,1
+2020-11-25,2021,SWZ,Sion,Servette,2,0
+2020-11-28,2021,SWZ,Servette,Luzern,1,3
+2020-11-28,2021,SWZ,Vaduz,Sion,4,1
+2020-11-29,2021,SWZ,Lausanne,Young Boys,0,3
+2020-11-29,2021,SWZ,Lugano,Basel,1,0
+2020-12-02,2021,SWZ,Lausanne,Vaduz,3,0
+2020-12-02,2021,SWZ,Luzern,Sion,2,0
+2020-12-02,2021,SWZ,Servette,Zurich,2,1
+2020-12-05,2021,SWZ,Basel,Servette,1,0
+2020-12-06,2021,SWZ,Luzern,Young Boys,2,3
+2020-12-06,2021,SWZ,Zurich,Lausanne,4,0
+2020-12-09,2021,SWZ,Basel,Sion,4,2
+2020-12-09,2021,SWZ,Vaduz,Servette,0,2
+2020-12-09,2021,SWZ,Zurich,St. Gallen,1,2
+2020-12-12,2021,SWZ,Sion,Luzern,1,2
+2020-12-12,2021,SWZ,Vaduz,Basel,0,2
+2020-12-13,2021,SWZ,Lausanne,St. Gallen,0,1
+2020-12-13,2021,SWZ,Lugano,Zurich,0,1
+2020-12-13,2021,SWZ,Young Boys,Servette,1,2
+2020-12-16,2021,SWZ,Basel,Young Boys,0,2
+2020-12-16,2021,SWZ,Luzern,Zurich,0,0
+2020-12-16,2021,SWZ,St. Gallen,Lugano,0,0
+2020-12-17,2021,SWZ,Servette,Sion,1,1
+2020-12-17,2021,SWZ,Vaduz,Lausanne,0,2
+2020-12-19,2021,SWZ,Basel,St. Gallen,0,0
+2020-12-19,2021,SWZ,Young Boys,Lugano,2,2
+2020-12-20,2021,SWZ,Lausanne,Luzern,2,1
+2020-12-20,2021,SWZ,Sion,Vaduz,2,1
+2020-12-20,2021,SWZ,Zurich,Servette,0,1
+2020-12-22,2021,SWZ,St. Gallen,Young Boys,1,2
+2020-12-23,2021,SWZ,Lugano,Lausanne,0,0
+2020-12-23,2021,SWZ,Luzern,Basel,1,2
+2020-12-23,2021,SWZ,Servette,Vaduz,1,1
+2020-12-23,2021,SWZ,Zurich,Sion,0,0
+2021-01-17,2021,SWZ,Sion,Lugano,1,1
+2021-01-20,2021,SWZ,Lugano,Young Boys,0,2
+2021-01-20,2021,SWZ,St. Gallen,Vaduz,2,0
+2021-01-23,2021,SWZ,Basel,Zurich,1,4
+2021-01-23,2021,SWZ,Lausanne,Sion,0,1
+2021-01-24,2021,SWZ,St. Gallen,Lugano,0,1
+2021-01-24,2021,SWZ,Vaduz,Young Boys,0,0
+2021-01-27,2021,SWZ,Zurich,Vaduz,0,1
+2021-01-28,2021,SWZ,Sion,Basel,2,3
+2021-01-30,2021,SWZ,St. Gallen,Zurich,2,3
+2021-01-31,2021,SWZ,Basel,Lugano,2,2
+2021-01-31,2021,SWZ,Servette,Lausanne,1,1
+2021-01-31,2021,SWZ,Young Boys,Sion,2,1
+2021-02-03,2021,SWZ,Lugano,Vaduz,1,1
+2021-02-03,2021,SWZ,Sion,St. Gallen,3,2
+2021-02-03,2021,SWZ,Zurich,Young Boys,1,4
+2021-02-04,2021,SWZ,Lausanne,Basel,1,3
+2021-02-04,2021,SWZ,Luzern,Servette,3,0
+2021-02-06,2021,SWZ,Vaduz,Zurich,3,2
+2021-02-07,2021,SWZ,Basel,Sion,2,2
+2021-02-07,2021,SWZ,Servette,Luzern,4,2
+2021-02-07,2021,SWZ,Young Boys,Lausanne,4,2
+2021-02-10,2021,SWZ,Luzern,Lugano,1,1
+2021-02-10,2021,SWZ,Servette,St. Gallen,2,2
+2021-02-10,2021,SWZ,Young Boys,Lausanne,1,0
+2021-02-13,2021,SWZ,Lausanne,Servette,3,1
+2021-02-13,2021,SWZ,Sion,St. Gallen,1,1
+2021-02-14,2021,SWZ,Lugano,Young Boys,1,3
+2021-02-14,2021,SWZ,Luzern,Vaduz,4,0
+2021-02-14,2021,SWZ,Zurich,Basel,2,0
+2021-02-17,2021,SWZ,Lugano,Servette,1,1
+2021-02-17,2021,SWZ,St. Gallen,Luzern,2,1
+2021-02-20,2021,SWZ,Basel,Lausanne,0,0
+2021-02-20,2021,SWZ,Vaduz,St. Gallen,2,1
+2021-02-21,2021,SWZ,Lugano,Luzern,2,3
+2021-02-21,2021,SWZ,Young Boys,Servette,2,0
+2021-02-21,2021,SWZ,Zurich,Sion,1,1
+2021-02-24,2021,SWZ,Vaduz,Luzern,1,1
+2021-02-27,2021,SWZ,Servette,Zurich,3,1
+2021-02-27,2021,SWZ,St. Gallen,Basel,3,1
+2021-02-28,2021,SWZ,Lausanne,Lugano,2,0
+2021-02-28,2021,SWZ,Luzern,Young Boys,2,2
+2021-02-28,2021,SWZ,Sion,Vaduz,0,2
+2021-03-03,2021,SWZ,Basel,Young Boys,1,1
+2021-03-03,2021,SWZ,St. Gallen,Servette,0,1
+2021-03-03,2021,SWZ,Vaduz,Lausanne,0,3
+2021-03-04,2021,SWZ,Sion,Lugano,0,3
+2021-03-04,2021,SWZ,Zurich,Luzern,1,2
+2021-03-06,2021,SWZ,Servette,Basel,2,1
+2021-03-06,2021,SWZ,Young Boys,Vaduz,1,1
+2021-03-07,2021,SWZ,Lausanne,Sion,1,3
+2021-03-07,2021,SWZ,Lugano,Zurich,0,1
+2021-03-07,2021,SWZ,Luzern,St. Gallen,4,2
+2021-03-13,2021,SWZ,Basel,Luzern,4,1
+2021-03-13,2021,SWZ,Zurich,Lausanne,1,1
+2021-03-14,2021,SWZ,Sion,Servette,1,2
+2021-03-14,2021,SWZ,St. Gallen,Young Boys,2,2
+2021-03-14,2021,SWZ,Vaduz,Lugano,0,3
+2021-03-20,2021,SWZ,Lausanne,St. Gallen,4,3
+2021-03-20,2021,SWZ,Lugano,Basel,2,1
+2021-03-21,2021,SWZ,Luzern,Sion,1,1
+2021-03-21,2021,SWZ,Servette,Vaduz,1,2
+2021-03-21,2021,SWZ,Young Boys,Zurich,4,0
+2021-04-03,2021,SWZ,Lausanne,Luzern,2,1
+2021-04-03,2021,SWZ,St. Gallen,Zurich,1,1
+2021-04-04,2021,SWZ,Servette,Lugano,1,1
+2021-04-04,2021,SWZ,Sion,Young Boys,0,3
+2021-04-05,2021,SWZ,Basel,Vaduz,1,2
+2021-04-10,2021,SWZ,Lugano,Lausanne,1,0
+2021-04-10,2021,SWZ,Luzern,Basel,3,4
+2021-04-11,2021,SWZ,Vaduz,Sion,3,0
+2021-04-11,2021,SWZ,Young Boys,St. Gallen,2,0
+2021-04-11,2021,SWZ,Zurich,Servette,1,2
+2021-04-17,2021,SWZ,Sion,Zurich,2,2
+2021-04-17,2021,SWZ,St. Gallen,Luzern,0,0
+2021-04-18,2021,SWZ,Basel,Servette,5,0
+2021-04-18,2021,SWZ,Lausanne,Vaduz,2,1
+2021-04-18,2021,SWZ,Young Boys,Lugano,3,0
+2021-04-21,2021,SWZ,Lugano,St. Gallen,2,0
+2021-04-21,2021,SWZ,Luzern,Lausanne,1,0
+2021-04-21,2021,SWZ,Vaduz,Basel,1,1
+2021-04-22,2021,SWZ,Servette,Sion,3,5
+2021-04-22,2021,SWZ,Zurich,Young Boys,1,2
+2021-04-24,2021,SWZ,Lausanne,Basel,3,3
+2021-04-24,2021,SWZ,St. Gallen,Vaduz,1,0
+2021-04-25,2021,SWZ,Lugano,Servette,0,1
+2021-04-25,2021,SWZ,Luzern,Zurich,3,1
+2021-04-25,2021,SWZ,Young Boys,Sion,2,1
+2021-05-01,2021,SWZ,Basel,St. Gallen,1,0
+2021-05-01,2021,SWZ,Vaduz,Luzern,1,2
+2021-05-02,2021,SWZ,Servette,Young Boys,2,1
+2021-05-02,2021,SWZ,Sion,Lausanne,1,1
+2021-05-02,2021,SWZ,Zurich,Lugano,3,0
+2021-05-08,2021,SWZ,Lugano,Vaduz,0,2
+2021-05-08,2021,SWZ,Young Boys,Basel,2,0
+2021-05-09,2021,SWZ,Lausanne,Zurich,2,2
+2021-05-09,2021,SWZ,Luzern,Servette,3,0
+2021-05-09,2021,SWZ,St. Gallen,Sion,0,3
+2021-05-11,2021,SWZ,Basel,Lugano,2,0
+2021-05-11,2021,SWZ,Vaduz,Young Boys,0,2
+2021-05-12,2021,SWZ,Servette,Lausanne,1,4
+2021-05-12,2021,SWZ,Sion,Luzern,1,1
+2021-05-12,2021,SWZ,Zurich,St. Gallen,2,2
+2021-05-15,2021,SWZ,Basel,Zurich,4,0
+2021-05-15,2021,SWZ,Lugano,Sion,3,1
+2021-05-15,2021,SWZ,St. Gallen,Lausanne,5,0
+2021-05-15,2021,SWZ,Vaduz,Servette,1,3
+2021-05-15,2021,SWZ,Young Boys,Luzern,5,2
+2021-05-21,2021,SWZ,Lausanne,Young Boys,2,4
+2021-05-21,2021,SWZ,Luzern,Lugano,1,2
+2021-05-21,2021,SWZ,Servette,St. Gallen,1,2
+2021-05-21,2021,SWZ,Sion,Basel,4,0
+2021-05-21,2021,SWZ,Zurich,Vaduz,4,1
+2021-05-27,2021,SWZ,Thun,Sion,1,4
+2021-05-30,2021,SWZ,Sion,Thun,2,3
+2021-07-24,2122,SWZ,Lausanne,St. Gallen,1,2
+2021-07-24,2122,SWZ,Luzern,Young Boys,3,4
+2021-07-25,2122,SWZ,Grasshoppers,Basel,0,2
+2021-07-25,2122,SWZ,Lugano,Zurich,0,2
+2021-07-25,2122,SWZ,Sion,Servette,1,2
+2021-07-31,2122,SWZ,Young Boys,Grasshoppers,0,0
+2021-07-31,2122,SWZ,Zurich,Lausanne,3,1
+2021-08-01,2122,SWZ,Basel,Sion,6,1
+2021-08-01,2122,SWZ,Servette,Lugano,0,2
+2021-08-01,2122,SWZ,St. Gallen,Luzern,2,2
+2021-08-07,2122,SWZ,Grasshoppers,Lausanne,3,1
+2021-08-07,2122,SWZ,Sion,Young Boys,1,0
+2021-08-08,2122,SWZ,Basel,Servette,5,1
+2021-08-08,2122,SWZ,Lugano,St. Gallen,2,1
+2021-08-08,2122,SWZ,Luzern,Zurich,1,3
+2021-08-21,2122,SWZ,St. Gallen,Sion,1,1
+2021-08-21,2122,SWZ,Zurich,Grasshoppers,2,1
+2021-08-22,2122,SWZ,Lausanne,Basel,2,2
+2021-08-22,2122,SWZ,Servette,Luzern,4,1
+2021-08-28,2122,SWZ,Sion,Lugano,3,2
+2021-08-28,2122,SWZ,St. Gallen,Zurich,3,3
+2021-08-29,2122,SWZ,Basel,Young Boys,1,1
+2021-08-29,2122,SWZ,Grasshoppers,Servette,1,1
+2021-08-29,2122,SWZ,Luzern,Lausanne,1,1
+2021-09-11,2122,SWZ,Luzern,Grasshoppers,1,1
+2021-09-11,2122,SWZ,Young Boys,Zurich,4,0
+2021-09-12,2122,SWZ,Lausanne,Sion,1,1
+2021-09-12,2122,SWZ,Lugano,Basel,1,1
+2021-09-12,2122,SWZ,Servette,St. Gallen,5,1
+2021-09-21,2122,SWZ,Zurich,Servette,2,2
+2021-09-22,2122,SWZ,Lausanne,Young Boys,1,6
+2021-09-22,2122,SWZ,St. Gallen,Basel,0,2
+2021-09-23,2122,SWZ,Lugano,Grasshoppers,1,1
+2021-09-23,2122,SWZ,Sion,Luzern,1,1
+2021-09-25,2122,SWZ,Servette,Lausanne,1,1
+2021-09-25,2122,SWZ,Young Boys,St. Gallen,2,1
+2021-09-26,2122,SWZ,Basel,Zurich,3,1
+2021-09-26,2122,SWZ,Grasshoppers,Sion,3,1
+2021-09-26,2122,SWZ,Luzern,Lugano,2,3
+2021-10-02,2122,SWZ,Grasshoppers,St. Gallen,5,2
+2021-10-02,2122,SWZ,Lugano,Lausanne,2,0
+2021-10-03,2122,SWZ,Basel,Luzern,1,1
+2021-10-03,2122,SWZ,Servette,Young Boys,0,6
+2021-10-03,2122,SWZ,Zurich,Sion,6,2
+2021-10-16,2122,SWZ,Young Boys,Luzern,1,1
+2021-10-16,2122,SWZ,Zurich,Lugano,1,0
+2021-10-17,2122,SWZ,Lausanne,Grasshoppers,3,1
+2021-10-17,2122,SWZ,Sion,Basel,0,1
+2021-10-17,2122,SWZ,St. Gallen,Servette,2,1
+2021-10-23,2122,SWZ,Grasshoppers,Zurich,3,3
+2021-10-23,2122,SWZ,Young Boys,Lausanne,3,2
+2021-10-24,2122,SWZ,Basel,Lugano,2,0
+2021-10-24,2122,SWZ,Luzern,St. Gallen,2,0
+2021-10-24,2122,SWZ,Servette,Sion,1,2
+2021-10-30,2122,SWZ,St. Gallen,Young Boys,3,1
+2021-10-30,2122,SWZ,Zurich,Basel,3,3
+2021-10-31,2122,SWZ,Lausanne,Luzern,1,1
+2021-10-31,2122,SWZ,Lugano,Servette,2,1
+2021-10-31,2122,SWZ,Sion,Grasshoppers,1,3
+2021-11-06,2122,SWZ,Grasshoppers,Young Boys,1,1
+2021-11-06,2122,SWZ,Luzern,Sion,0,1
+2021-11-07,2122,SWZ,Basel,St. Gallen,0,1
+2021-11-07,2122,SWZ,Lausanne,Lugano,0,2
+2021-11-07,2122,SWZ,Servette,Zurich,1,2
+2021-11-20,2122,SWZ,Sion,Zurich,0,1
+2021-11-21,2122,SWZ,Lugano,Luzern,3,1
+2021-11-21,2122,SWZ,Servette,Grasshoppers,3,2
+2021-11-21,2122,SWZ,St. Gallen,Lausanne,0,1
+2021-11-27,2122,SWZ,Grasshoppers,Lugano,0,1
+2021-11-27,2122,SWZ,Sion,St. Gallen,3,1
+2021-11-28,2122,SWZ,Lausanne,Servette,0,3
+2021-11-28,2122,SWZ,Luzern,Basel,1,3
+2021-11-28,2122,SWZ,Zurich,Young Boys,1,0
+2021-12-01,2122,SWZ,Young Boys,Lugano,3,1
+2021-12-04,2122,SWZ,Young Boys,Servette,1,2
+2021-12-04,2122,SWZ,Zurich,Luzern,4,0
+2021-12-05,2122,SWZ,Basel,Lausanne,1,1
+2021-12-05,2122,SWZ,Lugano,Sion,2,0
+2021-12-05,2122,SWZ,St. Gallen,Grasshoppers,0,4
+2021-12-11,2122,SWZ,Lausanne,Zurich,1,3
+2021-12-11,2122,SWZ,St. Gallen,Lugano,1,1
+2021-12-12,2122,SWZ,Grasshoppers,Luzern,1,1
+2021-12-12,2122,SWZ,Servette,Basel,2,2
+2021-12-12,2122,SWZ,Young Boys,Sion,4,3
+2021-12-15,2122,SWZ,Young Boys,Basel,1,1
+2021-12-18,2122,SWZ,Luzern,Servette,0,2
+2021-12-18,2122,SWZ,Zurich,St. Gallen,3,1
+2021-12-19,2122,SWZ,Basel,Grasshoppers,2,2
+2021-12-19,2122,SWZ,Lugano,Young Boys,0,5
+2021-12-19,2122,SWZ,Sion,Lausanne,2,0
+2022-01-29,2122,SWZ,Young Boys,Lugano,1,0
+2022-01-29,2122,SWZ,Zurich,Servette,1,0
+2022-01-30,2122,SWZ,Lausanne,St. Gallen,1,5
+2022-01-30,2122,SWZ,Luzern,Basel,0,3
+2022-01-30,2122,SWZ,Sion,Grasshoppers,2,0
+2022-02-05,2122,SWZ,Grasshoppers,Zurich,1,3
+2022-02-05,2122,SWZ,Servette,Lausanne,1,0
+2022-02-06,2122,SWZ,Basel,Sion,3,3
+2022-02-06,2122,SWZ,Lugano,Luzern,2,1
+2022-02-06,2122,SWZ,St. Gallen,Young Boys,3,3
+2022-02-12,2122,SWZ,Lausanne,Grasshoppers,0,2
+2022-02-12,2122,SWZ,St. Gallen,Servette,5,1
+2022-02-13,2122,SWZ,Luzern,Sion,1,0
+2022-02-13,2122,SWZ,Young Boys,Basel,3,1
+2022-02-13,2122,SWZ,Zurich,Lugano,3,0
+2022-02-19,2122,SWZ,Basel,Lausanne,3,0
+2022-02-19,2122,SWZ,Lugano,St. Gallen,0,2
+2022-02-20,2122,SWZ,Grasshoppers,Young Boys,2,2
+2022-02-20,2122,SWZ,Servette,Luzern,1,1
+2022-02-20,2122,SWZ,Sion,Zurich,1,1
+2022-02-26,2122,SWZ,Lugano,Servette,2,0
+2022-02-26,2122,SWZ,Young Boys,Sion,3,1
+2022-02-27,2122,SWZ,Lausanne,Luzern,1,2
+2022-02-27,2122,SWZ,St. Gallen,Grasshoppers,2,0
+2022-02-27,2122,SWZ,Zurich,Basel,4,2
+2022-03-01,2122,SWZ,Servette,Young Boys,1,0
+2022-03-02,2122,SWZ,Luzern,Zurich,0,2
+2022-03-02,2122,SWZ,Sion,Lausanne,1,0
+2022-03-03,2122,SWZ,Basel,St. Gallen,2,2
+2022-03-03,2122,SWZ,Grasshoppers,Lugano,1,2
+2022-03-05,2122,SWZ,Lausanne,Zurich,0,2
+2022-03-05,2122,SWZ,Young Boys,Luzern,2,2
+2022-03-06,2122,SWZ,Grasshoppers,Servette,2,4
+2022-03-06,2122,SWZ,Lugano,Basel,0,2
+2022-03-06,2122,SWZ,St. Gallen,Sion,1,1
+2022-03-12,2122,SWZ,Sion,Lugano,0,3
+2022-03-12,2122,SWZ,Zurich,St. Gallen,0,3
+2022-03-13,2122,SWZ,Basel,Servette,2,0
+2022-03-13,2122,SWZ,Lausanne,Young Boys,2,2
+2022-03-13,2122,SWZ,Luzern,Grasshoppers,1,0
+2022-03-19,2122,SWZ,St. Gallen,Luzern,3,2
+2022-03-19,2122,SWZ,Young Boys,Zurich,1,2
+2022-03-20,2122,SWZ,Grasshoppers,Basel,2,4
+2022-03-20,2122,SWZ,Lugano,Lausanne,3,1
+2022-03-20,2122,SWZ,Servette,Sion,2,1
+2022-04-02,2122,SWZ,Sion,St. Gallen,0,3
+2022-04-02,2122,SWZ,Zurich,Grasshoppers,1,1
+2022-04-03,2122,SWZ,Basel,Young Boys,2,2
+2022-04-03,2122,SWZ,Lausanne,Servette,4,1
+2022-04-03,2122,SWZ,Luzern,Lugano,2,2
+2022-04-09,2122,SWZ,Grasshoppers,Luzern,2,2
+2022-04-09,2122,SWZ,Young Boys,Lausanne,2,2
+2022-04-10,2122,SWZ,Lugano,Sion,1,3
+2022-04-10,2122,SWZ,Servette,Zurich,1,0
+2022-04-10,2122,SWZ,St. Gallen,Basel,2,2
+2022-04-16,2122,SWZ,Servette,Grasshoppers,0,1
+2022-04-16,2122,SWZ,Zurich,Young Boys,2,1
+2022-04-18,2122,SWZ,Lausanne,Lugano,4,1
+2022-04-18,2122,SWZ,Luzern,St. Gallen,3,2
+2022-04-18,2122,SWZ,Sion,Basel,0,0
+2022-04-23,2122,SWZ,Young Boys,Servette,3,1
+2022-04-23,2122,SWZ,Zurich,Sion,5,1
+2022-04-24,2122,SWZ,Basel,Luzern,3,0
+2022-04-24,2122,SWZ,Grasshoppers,Lausanne,3,1
+2022-04-24,2122,SWZ,St. Gallen,Lugano,3,0
+2022-04-30,2122,SWZ,Lugano,Grasshoppers,1,1
+2022-04-30,2122,SWZ,Servette,St. Gallen,0,2
+2022-05-01,2122,SWZ,Basel,Zurich,0,2
+2022-05-01,2122,SWZ,Luzern,Lausanne,3,0
+2022-05-01,2122,SWZ,Sion,Young Boys,1,2
+2022-05-07,2122,SWZ,Lugano,Young Boys,3,1
+2022-05-07,2122,SWZ,St. Gallen,Zurich,1,2
+2022-05-08,2122,SWZ,Grasshoppers,Sion,0,1
+2022-05-08,2122,SWZ,Lausanne,Basel,0,0
+2022-05-08,2122,SWZ,Luzern,Servette,4,0
+2022-05-10,2122,SWZ,Young Boys,St. Gallen,4,1
+2022-05-11,2122,SWZ,Servette,Lugano,2,2
+2022-05-11,2122,SWZ,Sion,Luzern,1,3
+2022-05-12,2122,SWZ,Basel,Grasshoppers,1,1
+2022-05-12,2122,SWZ,Zurich,Lausanne,2,2
+2022-05-19,2122,SWZ,Grasshoppers,St. Gallen,3,2
+2022-05-19,2122,SWZ,Lausanne,Sion,1,2
+2022-05-19,2122,SWZ,Lugano,Zurich,2,1
+2022-05-19,2122,SWZ,Luzern,Young Boys,2,2
+2022-05-19,2122,SWZ,Servette,Basel,0,0
+2022-05-22,2122,SWZ,Basel,Lugano,2,1
+2022-05-22,2122,SWZ,Sion,Servette,3,3
+2022-05-22,2122,SWZ,St. Gallen,Lausanne,4,0
+2022-05-22,2122,SWZ,Young Boys,Grasshoppers,3,0
+2022-05-22,2122,SWZ,Zurich,Luzern,2,3
+2022-05-29,2122,SWZ,Luzern,Schaffhausen,2,0
+2022-07-16,2223,SWZ,Winterthur,Basel,1,1
+2022-07-16,2223,SWZ,Young Boys,Zurich,4,0
+2022-07-17,2223,SWZ,Lugano,Sion,2,3
+2022-07-17,2223,SWZ,Servette,St. Gallen,1,0
+2022-07-23,2223,SWZ,St. Gallen,Winterthur,2,0
+2022-07-23,2223,SWZ,Zurich,Luzern,0,0
+2022-07-24,2223,SWZ,Basel,Servette,1,1
+2022-07-24,2223,SWZ,Grasshoppers,Lugano,2,1
+2022-07-24,2223,SWZ,Sion,Young Boys,0,3
+2022-07-30,2223,SWZ,Sion,Servette,0,0
+2022-07-30,2223,SWZ,St. Gallen,Zurich,2,0
+2022-07-31,2223,SWZ,Winterthur,Lugano,1,4
+2022-07-31,2223,SWZ,Young Boys,Grasshoppers,1,1
+2022-08-06,2223,SWZ,Grasshoppers,St. Gallen,3,2
+2022-08-06,2223,SWZ,Servette,Winterthur,1,0
+2022-08-07,2223,SWZ,Basel,Young Boys,0,0
+2022-08-07,2223,SWZ,Lugano,Luzern,1,2
+2022-08-07,2223,SWZ,Zurich,Sion,0,3
+2022-08-10,2223,SWZ,Luzern,Grasshoppers,1,1
+2022-08-13,2223,SWZ,Sion,Grasshoppers,2,2
+2022-08-13,2223,SWZ,St. Gallen,Luzern,4,1
+2022-08-14,2223,SWZ,Basel,Lugano,0,2
+2022-08-14,2223,SWZ,Winterthur,Zurich,1,1
+2022-08-14,2223,SWZ,Young Boys,Servette,3,0
+2022-08-27,2223,SWZ,Luzern,Sion,2,0
+2022-08-27,2223,SWZ,Servette,Grasshoppers,3,1
+2022-08-28,2223,SWZ,Lugano,St. Gallen,2,3
+2022-08-28,2223,SWZ,Winterthur,Young Boys,1,5
+2022-08-28,2223,SWZ,Zurich,Basel,2,4
+2022-09-03,2223,SWZ,Sion,Basel,2,1
+2022-09-03,2223,SWZ,Zurich,Lugano,1,2
+2022-09-04,2223,SWZ,Grasshoppers,Winterthur,3,0
+2022-09-04,2223,SWZ,Luzern,Servette,0,2
+2022-09-04,2223,SWZ,St. Gallen,Young Boys,2,1
+2022-09-10,2223,SWZ,St. Gallen,Sion,1,2
+2022-09-10,2223,SWZ,Winterthur,Luzern,0,6
+2022-09-11,2223,SWZ,Basel,Grasshoppers,5,1
+2022-09-11,2223,SWZ,Servette,Zurich,3,2
+2022-09-11,2223,SWZ,Young Boys,Lugano,3,0
+2022-10-01,2223,SWZ,Basel,St. Gallen,3,2
+2022-10-01,2223,SWZ,Grasshoppers,Zurich,1,1
+2022-10-02,2223,SWZ,Lugano,Servette,1,0
+2022-10-02,2223,SWZ,Luzern,Young Boys,1,2
+2022-10-02,2223,SWZ,Sion,Winterthur,1,3
+2022-10-08,2223,SWZ,Grasshoppers,Sion,4,4
+2022-10-08,2223,SWZ,Young Boys,St. Gallen,2,1
+2022-10-09,2223,SWZ,Lugano,Basel,1,0
+2022-10-09,2223,SWZ,Servette,Luzern,1,1
+2022-10-09,2223,SWZ,Zurich,Winterthur,0,0
+2022-10-15,2223,SWZ,Sion,Luzern,2,0
+2022-10-15,2223,SWZ,Winterthur,Grasshoppers,1,0
+2022-10-16,2223,SWZ,Servette,Basel,0,0
+2022-10-16,2223,SWZ,St. Gallen,Lugano,1,1
+2022-10-16,2223,SWZ,Zurich,Young Boys,0,0
+2022-10-18,2223,SWZ,Winterthur,Sion,1,0
+2022-10-19,2223,SWZ,Lugano,Young Boys,1,4
+2022-10-19,2223,SWZ,Luzern,St. Gallen,3,3
+2022-10-20,2223,SWZ,Basel,Zurich,0,0
+2022-10-20,2223,SWZ,Grasshoppers,Servette,2,3
+2022-10-22,2223,SWZ,Luzern,Lugano,3,1
+2022-10-22,2223,SWZ,Young Boys,Sion,1,1
+2022-10-23,2223,SWZ,Basel,Winterthur,3,1
+2022-10-23,2223,SWZ,St. Gallen,Servette,1,1
+2022-10-23,2223,SWZ,Zurich,Grasshoppers,1,4
+2022-10-29,2223,SWZ,Grasshoppers,Luzern,1,3
+2022-10-29,2223,SWZ,Servette,Lugano,2,2
+2022-10-30,2223,SWZ,Sion,Zurich,0,1
+2022-10-30,2223,SWZ,Winterthur,St. Gallen,1,0
+2022-10-30,2223,SWZ,Young Boys,Basel,3,1
+2022-11-05,2223,SWZ,Luzern,Winterthur,1,1
+2022-11-05,2223,SWZ,St. Gallen,Grasshoppers,2,1
+2022-11-06,2223,SWZ,Basel,Sion,0,0
+2022-11-06,2223,SWZ,Lugano,Zurich,2,0
+2022-11-06,2223,SWZ,Servette,Young Boys,0,0
+2022-11-09,2223,SWZ,Luzern,Basel,0,2
+2022-11-12,2223,SWZ,Grasshoppers,Basel,1,0
+2022-11-12,2223,SWZ,Sion,St. Gallen,2,7
+2022-11-13,2223,SWZ,Lugano,Winterthur,3,1
+2022-11-13,2223,SWZ,Young Boys,Luzern,3,0
+2022-11-13,2223,SWZ,Zurich,Servette,4,1
+2023-01-21,2223,SWZ,Grasshoppers,Young Boys,1,2
+2023-01-21,2223,SWZ,Luzern,Zurich,2,2
+2023-01-22,2223,SWZ,Sion,Lugano,2,3
+2023-01-22,2223,SWZ,St. Gallen,Basel,1,1
+2023-01-28,2223,SWZ,Basel,Luzern,2,3
+2023-01-28,2223,SWZ,Lugano,Grasshoppers,1,1
+2023-01-29,2223,SWZ,Servette,Sion,2,2
+2023-01-29,2223,SWZ,Young Boys,Winterthur,5,1
+2023-01-29,2223,SWZ,Zurich,St. Gallen,1,0
+2023-02-04,2223,SWZ,Grasshoppers,Basel,1,0
+2023-02-04,2223,SWZ,St. Gallen,Servette,3,0
+2023-02-05,2223,SWZ,Luzern,Young Boys,1,1
+2023-02-05,2223,SWZ,Sion,Zurich,0,1
+2023-02-05,2223,SWZ,Winterthur,Lugano,1,0
+2023-02-11,2223,SWZ,Basel,Sion,3,1
+2023-02-11,2223,SWZ,Servette,Grasshoppers,2,1
+2023-02-12,2223,SWZ,Lugano,Luzern,1,1
+2023-02-12,2223,SWZ,Young Boys,St. Gallen,5,1
+2023-02-12,2223,SWZ,Zurich,Winterthur,1,1
+2023-02-15,2223,SWZ,Winterthur,Servette,1,2
+2023-02-18,2223,SWZ,Winterthur,Sion,1,1
+2023-02-18,2223,SWZ,Young Boys,Lugano,1,1
+2023-02-19,2223,SWZ,Basel,Servette,2,2
+2023-02-19,2223,SWZ,Grasshoppers,Zurich,1,2
+2023-02-19,2223,SWZ,St. Gallen,Luzern,2,2
+2023-02-25,2223,SWZ,Sion,St. Gallen,0,4
+2023-02-25,2223,SWZ,Zurich,Young Boys,2,2
+2023-02-26,2223,SWZ,Lugano,Basel,2,2
+2023-02-26,2223,SWZ,Luzern,Grasshoppers,1,0
+2023-02-26,2223,SWZ,Servette,Winterthur,1,1
+2023-03-04,2223,SWZ,Luzern,Basel,0,1
+2023-03-04,2223,SWZ,Winterthur,Young Boys,1,1
+2023-03-05,2223,SWZ,Sion,Lugano,1,1
+2023-03-05,2223,SWZ,St. Gallen,Grasshoppers,1,1
+2023-03-05,2223,SWZ,Zurich,Servette,1,1
+2023-03-11,2223,SWZ,Lugano,Zurich,2,0
+2023-03-11,2223,SWZ,Young Boys,Sion,4,0
+2023-03-12,2223,SWZ,Basel,St. Gallen,1,1
+2023-03-12,2223,SWZ,Grasshoppers,Winterthur,2,1
+2023-03-12,2223,SWZ,Servette,Luzern,0,1
+2023-03-18,2223,SWZ,Sion,Grasshoppers,1,2
+2023-03-18,2223,SWZ,Zurich,Luzern,2,1
+2023-03-19,2223,SWZ,Lugano,Servette,1,1
+2023-03-19,2223,SWZ,Winterthur,St. Gallen,1,0
+2023-03-19,2223,SWZ,Young Boys,Basel,3,0
+2023-04-01,2223,SWZ,Basel,Winterthur,2,0
+2023-04-01,2223,SWZ,Servette,Young Boys,2,1
+2023-04-02,2223,SWZ,Grasshoppers,Lugano,2,1
+2023-04-02,2223,SWZ,Luzern,Sion,1,2
+2023-04-02,2223,SWZ,St. Gallen,Zurich,2,2
+2023-04-08,2223,SWZ,Sion,Servette,2,2
+2023-04-08,2223,SWZ,Zurich,Basel,1,1
+2023-04-10,2223,SWZ,Lugano,St. Gallen,1,1
+2023-04-10,2223,SWZ,Winterthur,Luzern,1,2
+2023-04-10,2223,SWZ,Young Boys,Grasshoppers,2,0
+2023-04-15,2223,SWZ,Luzern,Zurich,4,1
+2023-04-15,2223,SWZ,Servette,Lugano,0,0
+2023-04-16,2223,SWZ,Basel,Young Boys,1,1
+2023-04-16,2223,SWZ,Grasshoppers,Sion,1,3
+2023-04-16,2223,SWZ,St. Gallen,Winterthur,2,3
+2023-04-22,2223,SWZ,Winterthur,Grasshoppers,1,2
+2023-04-22,2223,SWZ,Young Boys,Servette,6,1
+2023-04-23,2223,SWZ,Basel,Luzern,0,2
+2023-04-23,2223,SWZ,Lugano,Sion,2,0
+2023-04-23,2223,SWZ,Zurich,St. Gallen,1,0
+2023-04-25,2223,SWZ,Grasshoppers,Young Boys,4,1
+2023-04-26,2223,SWZ,Servette,Zurich,4,0
+2023-04-26,2223,SWZ,St. Gallen,Lugano,1,2
+2023-04-27,2223,SWZ,Luzern,Winterthur,3,1
+2023-04-27,2223,SWZ,Sion,Basel,1,2
+2023-04-29,2223,SWZ,Lugano,Grasshoppers,5,1
+2023-04-29,2223,SWZ,Servette,St. Gallen,1,1
+2023-04-30,2223,SWZ,Winterthur,Basel,1,4
+2023-04-30,2223,SWZ,Young Boys,Luzern,5,1
+2023-04-30,2223,SWZ,Zurich,Sion,2,2
+2023-05-06,2223,SWZ,Sion,Winterthur,0,1
+2023-05-06,2223,SWZ,St. Gallen,Young Boys,0,2
+2023-05-07,2223,SWZ,Basel,Zurich,0,2
+2023-05-07,2223,SWZ,Grasshoppers,Servette,2,3
+2023-05-07,2223,SWZ,Luzern,Lugano,2,2
+2023-05-13,2223,SWZ,Grasshoppers,Luzern,2,0
+2023-05-13,2223,SWZ,Servette,Sion,5,0
+2023-05-14,2223,SWZ,Lugano,Winterthur,2,1
+2023-05-14,2223,SWZ,St. Gallen,Basel,6,1
+2023-05-14,2223,SWZ,Young Boys,Zurich,1,1
+2023-05-20,2223,SWZ,Luzern,St. Gallen,1,1
+2023-05-20,2223,SWZ,Winterthur,Servette,0,1
+2023-05-21,2223,SWZ,Basel,Lugano,1,1
+2023-05-21,2223,SWZ,Sion,Young Boys,0,2
+2023-05-21,2223,SWZ,Zurich,Grasshoppers,2,1
+2023-05-25,2223,SWZ,Grasshoppers,St. Gallen,2,2
+2023-05-25,2223,SWZ,Lugano,Young Boys,2,0
+2023-05-25,2223,SWZ,Servette,Basel,3,3
+2023-05-25,2223,SWZ,Sion,Luzern,1,2
+2023-05-25,2223,SWZ,Winterthur,Zurich,0,2
+2023-05-29,2223,SWZ,Basel,Grasshoppers,3,1
+2023-05-29,2223,SWZ,Luzern,Servette,0,1
+2023-05-29,2223,SWZ,St. Gallen,Sion,4,0
+2023-05-29,2223,SWZ,Young Boys,Winterthur,2,1
+2023-05-29,2223,SWZ,Zurich,Lugano,2,3
+2023-06-03,2223,SWZ,Sion,Lausanne Ouchy,0,2
+2023-06-06,2223,SWZ,Lausanne Ouchy,Sion,4,2
+2023-07-22,2324,SWZ,Grasshoppers,Servette,1,3
+2023-07-22,2324,SWZ,St. Gallen,Basel,2,1
+2023-07-22,2324,SWZ,Winterthur,Luzern,0,0
+2023-07-23,2324,SWZ,Young Boys,Lausanne,2,1
+2023-07-23,2324,SWZ,Zurich,Yverdon,2,0
+2023-07-26,2324,SWZ,Lausanne Ouchy,Lugano,0,3
+2023-07-29,2324,SWZ,Lausanne,Grasshoppers,1,1
+2023-07-29,2324,SWZ,Lugano,St. Gallen,1,0
+2023-07-29,2324,SWZ,Servette,Zurich,2,2
+2023-07-30,2324,SWZ,Basel,Winterthur,5,2
+2023-07-30,2324,SWZ,Luzern,Lausanne Ouchy,2,1
+2023-07-30,2324,SWZ,Yverdon,Young Boys,2,2
+2023-08-05,2324,SWZ,Lausanne Ouchy,Servette,1,1
+2023-08-05,2324,SWZ,Young Boys,Winterthur,5,2
+2023-08-05,2324,SWZ,Zurich,Lugano,3,0
+2023-08-06,2324,SWZ,Grasshoppers,Basel,3,1
+2023-08-06,2324,SWZ,Lausanne,Yverdon,1,2
+2023-08-06,2324,SWZ,St. Gallen,Luzern,2,1
+2023-08-12,2324,SWZ,Lausanne Ouchy,Zurich,0,3
+2023-08-12,2324,SWZ,Servette,St. Gallen,1,1
+2023-08-12,2324,SWZ,Winterthur,Grasshoppers,3,1
+2023-08-13,2324,SWZ,Basel,Lausanne,1,2
+2023-08-13,2324,SWZ,Lugano,Yverdon,6,1
+2023-08-13,2324,SWZ,Luzern,Young Boys,1,1
+2023-08-26,2324,SWZ,Yverdon,Servette,4,1
+2023-08-26,2324,SWZ,Zurich,St. Gallen,1,1
+2023-08-27,2324,SWZ,Grasshoppers,Luzern,0,1
+2023-08-27,2324,SWZ,Lausanne,Winterthur,2,5
+2023-09-02,2324,SWZ,Lausanne Ouchy,Grasshoppers,2,1
+2023-09-02,2324,SWZ,St. Gallen,Lausanne,2,1
+2023-09-02,2324,SWZ,Winterthur,Yverdon,1,1
+2023-09-03,2324,SWZ,Basel,Zurich,2,2
+2023-09-03,2324,SWZ,Luzern,Lugano,3,2
+2023-09-03,2324,SWZ,Servette,Young Boys,0,1
+2023-09-23,2324,SWZ,Grasshoppers,St. Gallen,1,1
+2023-09-23,2324,SWZ,Lausanne,Zurich,0,0
+2023-09-23,2324,SWZ,Winterthur,Lausanne Ouchy,2,1
+2023-09-24,2324,SWZ,Luzern,Servette,2,0
+2023-09-24,2324,SWZ,Young Boys,Lugano,4,1
+2023-09-24,2324,SWZ,Yverdon,Basel,3,2
+2023-09-26,2324,SWZ,Zurich,Grasshoppers,2,1
+2023-09-27,2324,SWZ,Lugano,Lausanne,2,1
+2023-09-27,2324,SWZ,Servette,Winterthur,2,2
+2023-09-27,2324,SWZ,St. Gallen,Young Boys,2,1
+2023-09-28,2324,SWZ,Basel,Luzern,1,1
+2023-09-28,2324,SWZ,Lausanne Ouchy,Yverdon,1,1
+2023-09-30,2324,SWZ,Grasshoppers,Young Boys,0,1
+2023-09-30,2324,SWZ,Servette,Lausanne,2,1
+2023-09-30,2324,SWZ,Winterthur,Lugano,2,3
+2023-10-01,2324,SWZ,Basel,Lausanne Ouchy,0,3
+2023-10-01,2324,SWZ,Luzern,Zurich,1,4
+2023-10-01,2324,SWZ,Yverdon,St. Gallen,1,0
+2023-10-07,2324,SWZ,St. Gallen,Lausanne Ouchy,4,0
+2023-10-07,2324,SWZ,Yverdon,Grasshoppers,0,3
+2023-10-07,2324,SWZ,Zurich,Winterthur,3,2
+2023-10-08,2324,SWZ,Lausanne,Luzern,3,1
+2023-10-08,2324,SWZ,Lugano,Servette,0,1
+2023-10-08,2324,SWZ,Young Boys,Basel,3,0
+2023-10-21,2324,SWZ,Basel,Servette,0,1
+2023-10-21,2324,SWZ,Lausanne Ouchy,Lausanne,2,2
+2023-10-21,2324,SWZ,Young Boys,Zurich,0,0
+2023-10-22,2324,SWZ,Grasshoppers,Lugano,2,1
+2023-10-22,2324,SWZ,Luzern,Yverdon,2,1
+2023-10-22,2324,SWZ,Winterthur,St. Gallen,2,1
+2023-10-28,2324,SWZ,St. Gallen,Grasshoppers,3,1
+2023-10-28,2324,SWZ,Yverdon,Winterthur,1,1
+2023-10-28,2324,SWZ,Zurich,Lausanne Ouchy,1,1
+2023-10-29,2324,SWZ,Lausanne,Basel,3,0
+2023-10-29,2324,SWZ,Lugano,Young Boys,1,1
+2023-10-29,2324,SWZ,Servette,Luzern,4,2
+2023-11-04,2324,SWZ,Lausanne,Lugano,3,1
+2023-11-04,2324,SWZ,Winterthur,Young Boys,1,4
+2023-11-04,2324,SWZ,Zurich,Servette,0,2
+2023-11-05,2324,SWZ,Basel,Yverdon,2,1
+2023-11-05,2324,SWZ,Lausanne Ouchy,St. Gallen,2,5
+2023-11-05,2324,SWZ,Luzern,Grasshoppers,2,0
+2023-11-11,2324,SWZ,St. Gallen,Winterthur,4,2
+2023-11-11,2324,SWZ,Young Boys,Luzern,6,1
+2023-11-11,2324,SWZ,Yverdon,Lausanne,2,2
+2023-11-12,2324,SWZ,Grasshoppers,Lausanne Ouchy,5,2
+2023-11-12,2324,SWZ,Lugano,Zurich,0,3
+2023-11-12,2324,SWZ,Servette,Basel,4,1
+2023-11-25,2324,SWZ,Luzern,Winterthur,3,1
+2023-11-25,2324,SWZ,Yverdon,Lugano,0,5
+2023-11-25,2324,SWZ,Zurich,Young Boys,3,1
+2023-11-26,2324,SWZ,Basel,St. Gallen,2,0
+2023-11-26,2324,SWZ,Lausanne,Lausanne Ouchy,1,0
+2023-11-26,2324,SWZ,Servette,Grasshoppers,2,0
+2023-12-02,2324,SWZ,Grasshoppers,Lausanne,5,0
+2023-12-02,2324,SWZ,Lausanne Ouchy,Basel,1,1
+2023-12-03,2324,SWZ,Lugano,Luzern,1,0
+2023-12-03,2324,SWZ,Young Boys,Servette,1,1
+2023-12-06,2324,SWZ,Lugano,Basel,1,3
+2023-12-06,2324,SWZ,St. Gallen,Yverdon,4,0
+2023-12-06,2324,SWZ,Young Boys,Lausanne Ouchy,1,0
+2023-12-09,2324,SWZ,Basel,Grasshoppers,0,1
+2023-12-09,2324,SWZ,Lausanne,Servette,1,1
+2023-12-09,2324,SWZ,Young Boys,St. Gallen,3,0
+2023-12-10,2324,SWZ,Lugano,Winterthur,2,1
+2023-12-10,2324,SWZ,Yverdon,Lausanne Ouchy,2,1
+2023-12-10,2324,SWZ,Zurich,Luzern,1,1
+2023-12-13,2324,SWZ,Winterthur,Zurich,2,1
+2023-12-16,2324,SWZ,Grasshoppers,Yverdon,1,1
+2023-12-16,2324,SWZ,Lausanne Ouchy,Young Boys,1,3
+2023-12-16,2324,SWZ,St. Gallen,Zurich,1,0
+2023-12-17,2324,SWZ,Luzern,Basel,0,1
+2023-12-17,2324,SWZ,Servette,Lugano,2,2
+2023-12-17,2324,SWZ,Winterthur,Lausanne,1,0
+2024-01-20,2324,SWZ,Lausanne,St. Gallen,0,1
+2024-01-20,2324,SWZ,Young Boys,Grasshoppers,1,0
+2024-01-21,2324,SWZ,Lugano,Lausanne Ouchy,2,3
+2024-01-21,2324,SWZ,Zurich,Basel,0,0
+2024-01-23,2324,SWZ,Winterthur,Servette,3,3
+2024-01-23,2324,SWZ,Yverdon,Luzern,2,1
+2024-01-27,2324,SWZ,Basel,Young Boys,1,0
+2024-01-27,2324,SWZ,Lausanne Ouchy,Winterthur,1,3
+2024-01-27,2324,SWZ,Servette,Yverdon,1,0
+2024-01-28,2324,SWZ,Grasshoppers,Zurich,2,1
+2024-01-28,2324,SWZ,Luzern,Lausanne,2,1
+2024-01-28,2324,SWZ,St. Gallen,Lugano,1,4
+2024-01-30,2324,SWZ,Winterthur,Basel,1,3
+2024-01-30,2324,SWZ,Young Boys,Yverdon,5,1
+2024-01-31,2324,SWZ,Lugano,Grasshoppers,0,0
+2024-01-31,2324,SWZ,St. Gallen,Servette,0,2
+2024-01-31,2324,SWZ,Zurich,Lausanne,2,2
+2024-02-01,2324,SWZ,Lausanne Ouchy,Luzern,0,3
+2024-02-03,2324,SWZ,Basel,Lugano,0,1
+2024-02-03,2324,SWZ,Grasshoppers,Winterthur,0,1
+2024-02-03,2324,SWZ,Lausanne,Young Boys,0,1
+2024-02-04,2324,SWZ,Luzern,St. Gallen,1,0
+2024-02-04,2324,SWZ,Servette,Lausanne Ouchy,3,1
+2024-02-04,2324,SWZ,Yverdon,Zurich,3,0
+2024-02-10,2324,SWZ,Lausanne Ouchy,Lausanne,1,1
+2024-02-10,2324,SWZ,Lugano,Young Boys,3,3
+2024-02-10,2324,SWZ,Zurich,Grasshoppers,1,0
+2024-02-11,2324,SWZ,Basel,St. Gallen,1,0
+2024-02-11,2324,SWZ,Winterthur,Luzern,2,1
+2024-02-11,2324,SWZ,Yverdon,Servette,2,1
+2024-02-17,2324,SWZ,Grasshoppers,Basel,2,1
+2024-02-17,2324,SWZ,Lausanne,Yverdon,3,1
+2024-02-17,2324,SWZ,St. Gallen,Winterthur,2,2
+2024-02-18,2324,SWZ,Luzern,Zurich,0,1
+2024-02-18,2324,SWZ,Servette,Lugano,2,1
+2024-02-18,2324,SWZ,Young Boys,Lausanne Ouchy,1,0
+2024-02-24,2324,SWZ,Grasshoppers,Luzern,0,1
+2024-02-24,2324,SWZ,St. Gallen,Lausanne Ouchy,1,0
+2024-02-24,2324,SWZ,Yverdon,Basel,0,2
+2024-02-25,2324,SWZ,Lausanne,Winterthur,1,1
+2024-02-25,2324,SWZ,Lugano,Zurich,2,0
+2024-02-25,2324,SWZ,Young Boys,Servette,0,1
+2024-03-02,2324,SWZ,Basel,Lausanne,1,2
+2024-03-02,2324,SWZ,Lausanne Ouchy,Grasshoppers,1,1
+2024-03-02,2324,SWZ,Servette,St. Gallen,2,0
+2024-03-03,2324,SWZ,Luzern,Lugano,0,1
+2024-03-03,2324,SWZ,Winterthur,Yverdon,2,1
+2024-03-03,2324,SWZ,Zurich,Young Boys,1,0
+2024-03-09,2324,SWZ,St. Gallen,Lugano,2,3
+2024-03-09,2324,SWZ,Winterthur,Grasshoppers,2,0
+2024-03-09,2324,SWZ,Yverdon,Zurich,3,2
+2024-03-10,2324,SWZ,Lausanne Ouchy,Luzern,2,1
+2024-03-10,2324,SWZ,Servette,Lausanne,3,1
+2024-03-10,2324,SWZ,Young Boys,Basel,5,1
+2024-03-16,2324,SWZ,Basel,Winterthur,1,1
+2024-03-16,2324,SWZ,Grasshoppers,St. Gallen,1,1
+2024-03-16,2324,SWZ,Lugano,Yverdon,2,0
+2024-03-17,2324,SWZ,Lausanne,Young Boys,2,0
+2024-03-17,2324,SWZ,Luzern,Servette,2,2
+2024-03-17,2324,SWZ,Zurich,Lausanne Ouchy,2,2
+2024-03-30,2324,SWZ,Basel,Zurich,2,2
+2024-03-30,2324,SWZ,Lausanne Ouchy,Lugano,1,3
+2024-03-30,2324,SWZ,Winterthur,Servette,1,0
+2024-04-01,2324,SWZ,Grasshoppers,Lausanne,0,1
+2024-04-01,2324,SWZ,St. Gallen,Luzern,1,1
+2024-04-01,2324,SWZ,Yverdon,Young Boys,0,0
+2024-04-02,2324,SWZ,Lugano,Basel,2,0
+2024-04-03,2324,SWZ,Servette,Lausanne Ouchy,1,2
+2024-04-03,2324,SWZ,Zurich,Winterthur,0,0
+2024-04-04,2324,SWZ,Lausanne,St. Gallen,3,3
+2024-04-04,2324,SWZ,Luzern,Yverdon,1,0
+2024-04-04,2324,SWZ,Young Boys,Grasshoppers,3,0
+2024-04-06,2324,SWZ,Lausanne Ouchy,Basel,0,2
+2024-04-06,2324,SWZ,Servette,Zurich,0,1
+2024-04-06,2324,SWZ,Winterthur,Lugano,2,2
+2024-04-07,2324,SWZ,Luzern,Lausanne,0,0
+2024-04-07,2324,SWZ,St. Gallen,Young Boys,2,2
+2024-04-07,2324,SWZ,Yverdon,Grasshoppers,3,2
+2024-04-13,2324,SWZ,Grasshoppers,Lugano,0,1
+2024-04-13,2324,SWZ,Lausanne,Zurich,1,0
+2024-04-13,2324,SWZ,St. Gallen,Yverdon,5,1
+2024-04-14,2324,SWZ,Basel,Servette,2,1
+2024-04-14,2324,SWZ,Lausanne Ouchy,Winterthur,0,1
+2024-04-14,2324,SWZ,Young Boys,Luzern,4,2
+2024-04-20,2324,SWZ,Lugano,Lausanne,2,0
+2024-04-20,2324,SWZ,Servette,Grasshoppers,1,0
+2024-04-20,2324,SWZ,Yverdon,Lausanne Ouchy,3,0
+2024-04-21,2324,SWZ,Luzern,Basel,1,1
+2024-04-21,2324,SWZ,Winterthur,Young Boys,1,2
+2024-04-21,2324,SWZ,Zurich,St. Gallen,0,1
+2024-05-04,2324,SWZ,Grasshoppers,Lausanne Ouchy,3,2
+2024-05-04,2324,SWZ,Lugano,St. Gallen,0,1
+2024-05-04,2324,SWZ,Servette,Winterthur,2,1
+2024-05-05,2324,SWZ,Basel,Luzern,1,1
+2024-05-05,2324,SWZ,Yverdon,Lausanne,3,1
+2024-05-05,2324,SWZ,Zurich,Young Boys,0,2
+2024-05-10,2324,SWZ,Lausanne,Basel,0,0
+2024-05-10,2324,SWZ,Luzern,Grasshoppers,1,1
+2024-05-11,2324,SWZ,Lausanne Ouchy,Yverdon,3,1
+2024-05-11,2324,SWZ,Young Boys,Lugano,0,1
+2024-05-12,2324,SWZ,St. Gallen,Servette,1,1
+2024-05-12,2324,SWZ,Winterthur,Zurich,1,3
+2024-05-14,2324,SWZ,Basel,Lausanne Ouchy,2,0
+2024-05-14,2324,SWZ,Grasshoppers,Yverdon,2,0
+2024-05-15,2324,SWZ,Lausanne,Luzern,0,2
+2024-05-15,2324,SWZ,Zurich,Servette,2,1
+2024-05-16,2324,SWZ,Lugano,Winterthur,4,2
+2024-05-16,2324,SWZ,Young Boys,St. Gallen,3,1
+2024-05-18,2324,SWZ,Grasshoppers,Basel,0,1
+2024-05-18,2324,SWZ,Lausanne Ouchy,Lausanne,0,4
+2024-05-18,2324,SWZ,Yverdon,Luzern,3,1
+2024-05-20,2324,SWZ,Servette,Young Boys,0,1
+2024-05-20,2324,SWZ,Winterthur,St. Gallen,1,3
+2024-05-20,2324,SWZ,Zurich,Lugano,2,1
+2024-05-21,2324,SWZ,Basel,Yverdon,0,0
+2024-05-21,2324,SWZ,Lausanne,Grasshoppers,0,0
+2024-05-21,2324,SWZ,Luzern,Lausanne Ouchy,1,2
+2024-05-25,2324,SWZ,Lugano,Servette,0,2
+2024-05-25,2324,SWZ,St. Gallen,Zurich,1,2
+2024-05-25,2324,SWZ,Young Boys,Winterthur,3,0
+2024-05-26,2324,SWZ,Grasshoppers,Thun,1,1
+2024-05-31,2324,SWZ,Thun,Grasshoppers,1,2
+2024-07-20,2425,SWZ,Lugano,Grasshoppers,2,1
+2024-07-20,2425,SWZ,Winterthur,St. Gallen,1,0
+2024-07-20,2425,SWZ,Yverdon,Zurich,0,2
+2024-07-21,2425,SWZ,Lausanne,Basel,3,2
+2024-07-21,2425,SWZ,Luzern,Servette,1,2
+2024-07-21,2425,SWZ,Young Boys,Sion,1,2
+2024-07-24,2425,SWZ,Servette,Young Boys,3,1
+2024-07-27,2425,SWZ,Basel,Lugano,1,2
+2024-07-27,2425,SWZ,Grasshoppers,Luzern,2,2
+2024-07-27,2425,SWZ,Sion,Lausanne,4,0
+2024-07-28,2425,SWZ,Servette,Yverdon,3,2
+2024-07-28,2425,SWZ,St. Gallen,Young Boys,4,0
+2024-07-28,2425,SWZ,Zurich,Winterthur,4,2
+2024-08-03,2425,SWZ,Grasshoppers,Basel,0,3
+2024-08-03,2425,SWZ,Lugano,Servette,3,1
+2024-08-03,2425,SWZ,Luzern,Sion,1,0
+2024-08-04,2425,SWZ,Lausanne,St. Gallen,3,4
+2024-08-04,2425,SWZ,Winterthur,Yverdon,0,0
+2024-08-04,2425,SWZ,Young Boys,Zurich,2,2
+2024-08-10,2425,SWZ,Sion,Winterthur,2,0
+2024-08-10,2425,SWZ,Yverdon,Young Boys,2,2
+2024-08-11,2425,SWZ,Lugano,Luzern,2,3
+2024-08-11,2425,SWZ,Servette,Basel,0,6
+2024-08-11,2425,SWZ,St. Gallen,Grasshoppers,1,0
+2024-08-11,2425,SWZ,Zurich,Lausanne,2,0
+2024-08-24,2425,SWZ,Grasshoppers,Sion,3,1
+2024-08-24,2425,SWZ,Luzern,Winterthur,3,0
+2024-08-25,2425,SWZ,Basel,Yverdon,2,0
+2024-08-31,2425,SWZ,Sion,Basel,1,1
+2024-08-31,2425,SWZ,Young Boys,Lausanne,1,1
+2024-08-31,2425,SWZ,Yverdon,Grasshoppers,2,1
+2024-09-01,2425,SWZ,Lugano,St. Gallen,1,1
+2024-09-01,2425,SWZ,Winterthur,Servette,0,1
+2024-09-01,2425,SWZ,Zurich,Luzern,1,1
+2024-09-18,2425,SWZ,Lausanne,Lugano,1,2
+2024-09-21,2425,SWZ,Basel,Zurich,0,2
+2024-09-21,2425,SWZ,Grasshoppers,Servette,2,2
+2024-09-21,2425,SWZ,St. Gallen,Luzern,2,3
+2024-09-22,2425,SWZ,Lausanne,Yverdon,3,1
+2024-09-22,2425,SWZ,Sion,Lugano,0,0
+2024-09-22,2425,SWZ,Winterthur,Young Boys,1,4
+2024-09-24,2425,SWZ,St. Gallen,Zurich,4,1
+2024-09-28,2425,SWZ,Servette,Lausanne,1,0
+2024-09-28,2425,SWZ,Young Boys,Grasshoppers,0,1
+2024-09-28,2425,SWZ,Yverdon,St. Gallen,1,0
+2024-09-29,2425,SWZ,Lugano,Winterthur,2,1
+2024-09-29,2425,SWZ,Luzern,Basel,1,0
+2024-09-29,2425,SWZ,Zurich,Sion,1,0
+2024-10-05,2425,SWZ,Luzern,Lausanne,2,2
+2024-10-05,2425,SWZ,Sion,Yverdon,1,1
+2024-10-05,2425,SWZ,Winterthur,Grasshoppers,1,0
+2024-10-06,2425,SWZ,Basel,Young Boys,1,0
+2024-10-06,2425,SWZ,St. Gallen,Servette,1,1
+2024-10-06,2425,SWZ,Zurich,Lugano,1,1
+2024-10-19,2425,SWZ,Grasshoppers,Zurich,1,2
+2024-10-19,2425,SWZ,Servette,Sion,3,0
+2024-10-19,2425,SWZ,Young Boys,Luzern,2,1
+2024-10-20,2425,SWZ,Basel,St. Gallen,2,1
+2024-10-20,2425,SWZ,Lausanne,Winterthur,2,0
+2024-10-20,2425,SWZ,Yverdon,Lugano,2,0
+2024-10-26,2425,SWZ,Lausanne,Grasshoppers,3,0
+2024-10-26,2425,SWZ,Luzern,Yverdon,2,3
+2024-10-26,2425,SWZ,Winterthur,Basel,1,6
+2024-10-27,2425,SWZ,Lugano,Young Boys,2,0
+2024-10-27,2425,SWZ,Sion,St. Gallen,2,2
+2024-10-27,2425,SWZ,Zurich,Servette,1,3
+2024-10-29,2425,SWZ,Yverdon,Lausanne,0,3
+2024-10-30,2425,SWZ,Sion,Zurich,0,2
+2024-10-30,2425,SWZ,St. Gallen,Winterthur,2,2
+2024-10-30,2425,SWZ,Young Boys,Basel,3,2
+2024-10-31,2425,SWZ,Grasshoppers,Lugano,1,1
+2024-10-31,2425,SWZ,Servette,Luzern,2,2
+2024-11-02,2425,SWZ,Basel,Winterthur,5,0
+2024-11-02,2425,SWZ,St. Gallen,Sion,1,1
+2024-11-02,2425,SWZ,Zurich,Young Boys,0,0
+2024-11-03,2425,SWZ,Lausanne,Servette,1,0
+2024-11-03,2425,SWZ,Lugano,Yverdon,2,0
+2024-11-03,2425,SWZ,Luzern,Grasshoppers,2,0
+2024-11-09,2425,SWZ,Servette,Zurich,1,1
+2024-11-09,2425,SWZ,Winterthur,Lausanne,1,0
+2024-11-09,2425,SWZ,Yverdon,Basel,1,4
+2024-11-10,2425,SWZ,Grasshoppers,St. Gallen,1,2
+2024-11-10,2425,SWZ,Sion,Luzern,4,2
+2024-11-10,2425,SWZ,Young Boys,Lugano,2,1
+2024-11-23,2425,SWZ,Grasshoppers,Winterthur,1,1
+2024-11-23,2425,SWZ,Lausanne,Sion,1,0
+2024-11-23,2425,SWZ,Luzern,Young Boys,1,1
+2024-11-24,2425,SWZ,Basel,Servette,3,1
+2024-11-24,2425,SWZ,Lugano,Zurich,4,1
+2024-11-24,2425,SWZ,St. Gallen,Yverdon,0,0
+2024-11-30,2425,SWZ,Basel,Lausanne,1,1
+2024-11-30,2425,SWZ,Yverdon,Luzern,0,1
+2024-11-30,2425,SWZ,Zurich,Grasshoppers,1,1
+2024-12-01,2425,SWZ,Servette,Lugano,3,0
+2024-12-01,2425,SWZ,Winterthur,Sion,1,3
+2024-12-01,2425,SWZ,Young Boys,St. Gallen,3,1
+2024-12-07,2425,SWZ,Grasshoppers,Yverdon,1,1
+2024-12-07,2425,SWZ,Luzern,Lugano,1,4
+2024-12-07,2425,SWZ,Sion,Young Boys,3,1
+2024-12-08,2425,SWZ,Lausanne,Zurich,3,0
+2024-12-08,2425,SWZ,Servette,Winterthur,1,1
+2024-12-08,2425,SWZ,St. Gallen,Basel,1,1
+2024-12-14,2425,SWZ,Basel,Grasshoppers,0,1
+2024-12-14,2425,SWZ,Winterthur,Luzern,3,4
+2024-12-14,2425,SWZ,Yverdon,Sion,0,1
+2024-12-15,2425,SWZ,Lugano,Lausanne,1,4
+2024-12-15,2425,SWZ,Young Boys,Servette,2,1
+2024-12-15,2425,SWZ,Zurich,St. Gallen,0,2
+2025-01-18,2425,SWZ,Servette,St. Gallen,1,1
+2025-01-18,2425,SWZ,Sion,Grasshoppers,0,1
+2025-01-18,2425,SWZ,Young Boys,Winterthur,0,0
+2025-01-19,2425,SWZ,Lausanne,Luzern,0,0
+2025-01-19,2425,SWZ,Lugano,Basel,2,2
+2025-01-19,2425,SWZ,Zurich,Yverdon,1,0
+2025-01-25,2425,SWZ,Grasshoppers,Young Boys,0,0
+2025-01-25,2425,SWZ,Winterthur,Lugano,2,3
+2025-01-25,2425,SWZ,Yverdon,Servette,0,0
+2025-01-26,2425,SWZ,Basel,Sion,4,1
+2025-01-26,2425,SWZ,Luzern,Zurich,3,1
+2025-01-26,2425,SWZ,St. Gallen,Lausanne,3,2
+2025-02-01,2425,SWZ,Lausanne,Young Boys,1,2
+2025-02-01,2425,SWZ,Lugano,Sion,3,2
+2025-02-01,2425,SWZ,Servette,Grasshoppers,1,1
+2025-02-02,2425,SWZ,Luzern,St. Gallen,2,0
+2025-02-02,2425,SWZ,Yverdon,Winterthur,3,0
+2025-02-02,2425,SWZ,Zurich,Basel,0,1
+2025-02-04,2425,SWZ,Grasshoppers,Lausanne,2,2
+2025-02-04,2425,SWZ,Sion,Servette,3,3
+2025-02-05,2425,SWZ,St. Gallen,Lugano,2,1
+2025-02-05,2425,SWZ,Young Boys,Yverdon,6,1
+2025-02-06,2425,SWZ,Basel,Luzern,2,1
+2025-02-06,2425,SWZ,Winterthur,Zurich,0,2
+2025-02-08,2425,SWZ,Lausanne,Yverdon,4,1
+2025-02-08,2425,SWZ,Lugano,Grasshoppers,1,1
+2025-02-08,2425,SWZ,Young Boys,Sion,5,1
+2025-02-09,2425,SWZ,Luzern,Winterthur,3,2
+2025-02-09,2425,SWZ,Servette,Basel,2,1
+2025-02-09,2425,SWZ,Zurich,St. Gallen,1,2
+2025-02-15,2425,SWZ,Lugano,Luzern,2,0
+2025-02-15,2425,SWZ,Sion,Zurich,2,1
+2025-02-15,2425,SWZ,Winterthur,Young Boys,1,0
+2025-02-16,2425,SWZ,Basel,Lausanne,1,1
+2025-02-16,2425,SWZ,Grasshoppers,Servette,1,2
+2025-02-16,2425,SWZ,Yverdon,St. Gallen,1,0
+2025-02-22,2425,SWZ,Lausanne,Grasshoppers,2,2
+2025-02-22,2425,SWZ,St. Gallen,Basel,2,2
+2025-02-22,2425,SWZ,Zurich,Yverdon,2,1
+2025-02-23,2425,SWZ,Luzern,Sion,2,1
+2025-02-23,2425,SWZ,Servette,Winterthur,3,1
+2025-02-23,2425,SWZ,Young Boys,Lugano,1,0
+2025-03-01,2425,SWZ,Basel,Sion,2,0
+2025-03-01,2425,SWZ,Lausanne,Servette,0,1
+2025-03-01,2425,SWZ,Winterthur,St. Gallen,4,0
+2025-03-02,2425,SWZ,Grasshoppers,Young Boys,1,0
+2025-03-02,2425,SWZ,Lugano,Zurich,0,3
+2025-03-02,2425,SWZ,Yverdon,Luzern,2,2
+2025-03-08,2425,SWZ,St. Gallen,Grasshoppers,3,1
+2025-03-08,2425,SWZ,Young Boys,Lausanne,3,0
+2025-03-08,2425,SWZ,Yverdon,Winterthur,2,1
+2025-03-09,2425,SWZ,Luzern,Basel,1,1
+2025-03-09,2425,SWZ,Sion,Lugano,2,1
+2025-03-09,2425,SWZ,Zurich,Servette,1,3
+2025-03-15,2425,SWZ,Servette,Yverdon,2,3
+2025-03-15,2425,SWZ,St. Gallen,Lausanne,0,2
+2025-03-15,2425,SWZ,Zurich,Luzern,3,2
+2025-03-16,2425,SWZ,Basel,Young Boys,1,2
+2025-03-16,2425,SWZ,Grasshoppers,Sion,1,1
+2025-03-16,2425,SWZ,Lugano,Winterthur,2,1
+2025-03-29,2425,SWZ,Lugano,Servette,0,2
+2025-03-29,2425,SWZ,Sion,Yverdon,1,1
+2025-03-29,2425,SWZ,Young Boys,St. Gallen,1,0
+2025-03-30,2425,SWZ,Grasshoppers,Zurich,1,2
+2025-03-30,2425,SWZ,Lausanne,Luzern,1,4
+2025-03-30,2425,SWZ,Winterthur,Basel,0,2
+2025-04-01,2425,SWZ,Servette,Young Boys,0,1
+2025-04-01,2425,SWZ,Yverdon,Lugano,0,2
+2025-04-02,2425,SWZ,Sion,Winterthur,1,2
+2025-04-02,2425,SWZ,Zurich,Lausanne,2,2
+2025-04-03,2425,SWZ,Basel,Grasshoppers,2,1
+2025-04-03,2425,SWZ,Luzern,St. Gallen,1,1
+2025-04-05,2425,SWZ,Lausanne,Sion,2,0
+2025-04-05,2425,SWZ,Winterthur,Zurich,0,0
+2025-04-05,2425,SWZ,Young Boys,Yverdon,1,1
+2025-04-06,2425,SWZ,Basel,Lugano,2,0
+2025-04-06,2425,SWZ,Grasshoppers,Luzern,3,1
+2025-04-06,2425,SWZ,St. Gallen,Servette,1,0
+2025-04-12,2425,SWZ,Winterthur,Lausanne,1,0
+2025-04-12,2425,SWZ,Yverdon,Grasshoppers,1,2
+2025-04-12,2425,SWZ,Zurich,Basel,0,4
+2025-04-13,2425,SWZ,Lugano,St. Gallen,1,1
+2025-04-13,2425,SWZ,Luzern,Young Boys,5,0
+2025-04-13,2425,SWZ,Sion,Servette,1,1
+2025-04-19,2425,SWZ,Grasshoppers,Winterthur,0,1
+2025-04-21,2425,SWZ,Basel,Yverdon,5,0
+2025-04-21,2425,SWZ,Lausanne,Lugano,2,0
+2025-04-21,2425,SWZ,Servette,Luzern,2,1
+2025-04-21,2425,SWZ,St. Gallen,Sion,1,0
+2025-04-21,2425,SWZ,Young Boys,Zurich,2,1
+2025-05-03,2425,SWZ,Lausanne,Young Boys,3,2
+2025-05-03,2425,SWZ,Winterthur,Grasshoppers,2,0
+2025-05-04,2425,SWZ,Basel,Servette,5,1
+2025-05-04,2425,SWZ,Luzern,Lugano,0,2
+2025-05-04,2425,SWZ,Sion,Zurich,2,1
+2025-05-06,2425,SWZ,Yverdon,St. Gallen,1,1
+2025-05-10,2425,SWZ,Lugano,Basel,2,5
+2025-05-10,2425,SWZ,St. Gallen,Winterthur,1,4
+2025-05-10,2425,SWZ,Yverdon,Sion,1,1
+2025-05-10,2425,SWZ,Zurich,Grasshoppers,3,0
+2025-05-11,2425,SWZ,Luzern,Lausanne,1,1
+2025-05-11,2425,SWZ,Servette,Young Boys,0,0
+2025-05-13,2425,SWZ,Sion,St. Gallen,1,1
+2025-05-13,2425,SWZ,Zurich,Winterthur,4,1
+2025-05-14,2425,SWZ,Grasshoppers,Yverdon,5,0
+2025-05-14,2425,SWZ,Lausanne,Basel,2,3
+2025-05-15,2425,SWZ,Servette,Lugano,4,1
+2025-05-15,2425,SWZ,Young Boys,Luzern,2,1
+2025-05-17,2425,SWZ,Sion,Grasshoppers,2,1
+2025-05-17,2425,SWZ,St. Gallen,Zurich,3,2
+2025-05-17,2425,SWZ,Winterthur,Yverdon,2,2
+2025-05-18,2425,SWZ,Lausanne,Lugano,1,1
+2025-05-18,2425,SWZ,Luzern,Servette,3,4
+2025-05-18,2425,SWZ,Young Boys,Basel,6,2
+2025-05-22,2425,SWZ,Grasshoppers,St. Gallen,2,0
+2025-05-22,2425,SWZ,Winterthur,Sion,2,0
+2025-05-22,2425,SWZ,Yverdon,Zurich,3,2
+2025-05-24,2425,SWZ,Basel,Luzern,4,0
+2025-05-24,2425,SWZ,Lugano,Young Boys,1,1
+2025-05-24,2425,SWZ,Servette,Lausanne,3,3
+2025-07-25,2526,SWZ,Zurich,Sion,2,3
+2025-07-26,2526,SWZ,Grasshoppers,Luzern,2,3
+2025-07-26,2526,SWZ,St. Gallen,Basel,2,1
+2025-07-26,2526,SWZ,Young Boys,Servette,3,1
+2025-07-27,2526,SWZ,Lausanne,Winterthur,3,2
+2025-07-27,2526,SWZ,Lugano,Thun,1,2
+2025-08-02,2526,SWZ,Basel,Grasshoppers,2,1
+2025-08-02,2526,SWZ,Servette,St. Gallen,1,4
+2025-08-02,2526,SWZ,Winterthur,Young Boys,1,1
+2025-08-03,2526,SWZ,Luzern,Zurich,1,1
+2025-08-03,2526,SWZ,Sion,Lugano,4,0
+2025-08-03,2526,SWZ,Thun,Lausanne,2,1
+2025-08-06,2526,SWZ,Basel,Young Boys,4,1
+2025-08-09,2526,SWZ,Luzern,Thun,1,2
+2025-08-09,2526,SWZ,St. Gallen,Winterthur,5,0
+2025-08-10,2526,SWZ,Lausanne,Zurich,1,2
+2025-08-10,2526,SWZ,Lugano,Basel,3,1
+2025-08-10,2526,SWZ,Servette,Grasshoppers,1,1
+2025-08-10,2526,SWZ,Young Boys,Sion,0,0
+2025-08-23,2526,SWZ,Zurich,Thun,0,4
+2025-08-24,2526,SWZ,Grasshoppers,Winterthur,2,2
+2025-08-24,2526,SWZ,St. Gallen,Luzern,0,1
+2025-08-30,2526,SWZ,Sion,Basel,0,1
+2025-08-30,2526,SWZ,Thun,Grasshoppers,1,1
+2025-08-30,2526,SWZ,Winterthur,Zurich,1,3
+2025-08-31,2526,SWZ,Lausanne,St. Gallen,1,2
+2025-08-31,2526,SWZ,Servette,Luzern,2,2
+2025-08-31,2526,SWZ,Young Boys,Lugano,3,1
+2025-09-13,2526,SWZ,St. Gallen,Lugano,1,0
+2025-09-13,2526,SWZ,Thun,Basel,1,3
+2025-09-13,2526,SWZ,Zurich,Servette,2,1
+2025-09-14,2526,SWZ,Grasshoppers,Lausanne,3,1
+2025-09-14,2526,SWZ,Luzern,Young Boys,1,2
+2025-09-14,2526,SWZ,Winterthur,Sion,2,3
+2025-09-17,2526,SWZ,Lugano,Lausanne,1,1
+2025-09-17,2526,SWZ,Sion,Servette,0,2
+2025-09-27,2526,SWZ,Lugano,Grasshoppers,2,1
+2025-09-27,2526,SWZ,Servette,Winterthur,4,0
+2025-09-27,2526,SWZ,Zurich,St. Gallen,3,1
+2025-09-28,2526,SWZ,Basel,Luzern,1,2
+2025-09-28,2526,SWZ,Sion,Lausanne,0,0
+2025-09-28,2526,SWZ,Young Boys,Thun,4,2
+2025-10-04,2526,SWZ,Grasshoppers,Zurich,3,0
+2025-10-04,2526,SWZ,Luzern,Sion,3,3
+2025-10-04,2526,SWZ,St. Gallen,Thun,1,2
+2025-10-05,2526,SWZ,Lausanne,Young Boys,5,0
+2025-10-05,2526,SWZ,Servette,Basel,0,3
+2025-10-05,2526,SWZ,Winterthur,Lugano,2,4
+2025-10-18,2526,SWZ,Basel,Winterthur,3,0
+2025-10-18,2526,SWZ,Lugano,Zurich,1,0
+2025-10-18,2526,SWZ,Thun,Servette,3,1
+2025-10-19,2526,SWZ,Grasshoppers,Sion,0,1
+2025-10-19,2526,SWZ,Luzern,Lausanne,2,2
+2025-10-19,2526,SWZ,Young Boys,St. Gallen,1,2
+2025-10-25,2526,SWZ,Sion,Thun,0,1
+2025-10-25,2526,SWZ,St. Gallen,Grasshoppers,5,0
+2025-10-25,2526,SWZ,Winterthur,Luzern,2,2
+2025-10-26,2526,SWZ,Lausanne,Basel,5,1
+2025-10-26,2526,SWZ,Servette,Lugano,2,1
+2025-10-26,2526,SWZ,Zurich,Young Boys,2,3
+2025-10-28,2526,SWZ,Sion,St. Gallen,3,2
+2025-10-28,2526,SWZ,Thun,Winterthur,3,0
+2025-10-29,2526,SWZ,Basel,Zurich,2,0
+2025-10-29,2526,SWZ,Lausanne,Servette,1,3
+2025-10-30,2526,SWZ,Grasshoppers,Young Boys,3,3
+2025-10-30,2526,SWZ,Lugano,Luzern,2,0
+2025-11-01,2526,SWZ,Thun,Sion,2,1
+2025-11-01,2526,SWZ,Winterthur,Servette,4,2
+2025-11-01,2526,SWZ,Zurich,Lausanne,1,2
+2025-11-02,2526,SWZ,Luzern,Grasshoppers,6,0
+2025-11-02,2526,SWZ,Young Boys,Basel,0,0
+2025-11-08,2526,SWZ,Servette,Thun,0,1
+2025-11-08,2526,SWZ,Winterthur,Grasshoppers,0,1
+2025-11-08,2526,SWZ,Zurich,Luzern,3,2
+2025-11-09,2526,SWZ,Basel,Lugano,0,1
+2025-11-09,2526,SWZ,Lausanne,Sion,2,2
+2025-11-09,2526,SWZ,St. Gallen,Young Boys,1,4
+2025-11-22,2526,SWZ,Luzern,Servette,2,2
+2025-11-22,2526,SWZ,Thun,Lugano,0,1
+2025-11-22,2526,SWZ,Young Boys,Winterthur,5,0
+2025-11-23,2526,SWZ,Grasshoppers,Basel,1,1
+2025-11-23,2526,SWZ,Sion,Zurich,2,2
+2025-11-23,2526,SWZ,St. Gallen,Lausanne,1,0
+2025-11-26,2526,SWZ,Lugano,St. Gallen,1,3
+2025-11-29,2526,SWZ,Lugano,Sion,1,1
+2025-11-29,2526,SWZ,Luzern,Winterthur,1,3
+2025-11-29,2526,SWZ,Zurich,Grasshoppers,1,0
+2025-11-30,2526,SWZ,Basel,St. Gallen,0,0
+2025-11-30,2526,SWZ,Lausanne,Thun,2,1
+2025-11-30,2526,SWZ,Servette,Young Boys,4,4
+2025-12-06,2526,SWZ,Grasshoppers,Servette,0,1
+2025-12-06,2526,SWZ,St. Gallen,Zurich,1,2
+2025-12-06,2526,SWZ,Thun,Luzern,4,1
+2025-12-07,2526,SWZ,Lausanne,Lugano,0,0
+2025-12-07,2526,SWZ,Sion,Young Boys,2,0
+2025-12-07,2526,SWZ,Winterthur,Basel,1,2
+2025-12-13,2526,SWZ,Sion,Grasshoppers,1,0
+2025-12-13,2526,SWZ,Thun,St. Gallen,0,2
+2025-12-13,2526,SWZ,Zurich,Winterthur,2,2
+2025-12-14,2526,SWZ,Basel,Lausanne,0,0
+2025-12-14,2526,SWZ,Lugano,Servette,4,2
+2025-12-14,2526,SWZ,Young Boys,Luzern,2,0
+2025-12-16,2526,SWZ,St. Gallen,Sion,3,1
+2025-12-16,2526,SWZ,Winterthur,Thun,1,4
+2025-12-17,2526,SWZ,Luzern,Basel,1,2
+2025-12-17,2526,SWZ,Young Boys,Grasshoppers,2,6
+2025-12-17,2526,SWZ,Zurich,Lugano,0,1
+2025-12-20,2526,SWZ,Basel,Servette,1,1
+2025-12-20,2526,SWZ,Thun,Zurich,4,2
+2025-12-21,2526,SWZ,Grasshoppers,St. Gallen,1,2
+2025-12-21,2526,SWZ,Lausanne,Luzern,0,4
+2025-12-21,2526,SWZ,Lugano,Young Boys,3,0
+2026-01-14,2526,SWZ,Servette,Lausanne,0,1
+2026-01-14,2526,SWZ,Sion,Winterthur,2,0
+2026-01-17,2526,SWZ,Luzern,Lugano,2,5
+2026-01-17,2526,SWZ,Young Boys,Lausanne,1,3
+2026-01-18,2526,SWZ,Basel,Sion,1,1
+2026-01-18,2526,SWZ,Grasshoppers,Thun,1,3
+2026-01-18,2526,SWZ,Servette,Zurich,1,1
+2026-01-24,2526,SWZ,Lausanne,Grasshoppers,1,1
+2026-01-24,2526,SWZ,Lugano,Winterthur,4,1
+2026-01-24,2526,SWZ,Sion,Luzern,1,1
+2026-01-25,2526,SWZ,St. Gallen,Servette,2,4
+2026-01-25,2526,SWZ,Thun,Young Boys,4,1
+2026-01-25,2526,SWZ,Zurich,Basel,3,4
+2026-01-31,2526,SWZ,Grasshoppers,Lugano,1,1
+2026-01-31,2526,SWZ,Servette,Sion,3,3
+2026-01-31,2526,SWZ,Winterthur,Lausanne,2,1
+2026-02-01,2526,SWZ,Basel,Thun,1,2
+2026-02-01,2526,SWZ,Luzern,St. Gallen,2,2
+2026-02-01,2526,SWZ,Young Boys,Zurich,3,0
+2026-02-07,2526,SWZ,Grasshoppers,Young Boys,1,1
+2026-02-07,2526,SWZ,Sion,Luzern,0,0
+2026-02-07,2526,SWZ,Winterthur,Lugano,1,1
+2026-02-08,2526,SWZ,Basel,Zurich,2,1
+2026-02-08,2526,SWZ,Lausanne,St. Gallen,1,1
+2026-02-08,2526,SWZ,Servette,Thun,1,3
+2026-02-10,2526,SWZ,Luzern,Grasshoppers,4,3
+2026-02-11,2526,SWZ,Lugano,Servette,1,1
+2026-02-11,2526,SWZ,St. Gallen,Young Boys,2,1
+2026-02-11,2526,SWZ,Zurich,Winterthur,3,0
+2026-02-12,2526,SWZ,Sion,Basel,2,0
+2026-02-12,2526,SWZ,Thun,Lausanne,5,1
+2026-02-14,2526,SWZ,St. Gallen,Grasshoppers,0,0
+2026-02-14,2526,SWZ,Young Boys,Winterthur,6,1
+2026-02-14,2526,SWZ,Zurich,Luzern,1,4
+2026-02-15,2526,SWZ,Basel,Lugano,1,1
+2026-02-15,2526,SWZ,Lausanne,Servette,3,3
+2026-02-15,2526,SWZ,Thun,Sion,1,0
+2026-02-18,2526,SWZ,Winterthur,St. Gallen,1,5
+2026-02-21,2526,SWZ,Grasshoppers,Zurich,1,2
+2026-02-21,2526,SWZ,Servette,St. Gallen,1,1
+2026-02-22,2526,SWZ,Lugano,Lausanne,2,1
+2026-02-22,2526,SWZ,Luzern,Basel,4,2
+2026-02-22,2526,SWZ,Sion,Young Boys,3,1
+2026-02-25,2526,SWZ,Winterthur,Thun,0,3
+2026-02-28,2526,SWZ,Servette,Sion,0,0
+2026-02-28,2526,SWZ,St. Gallen,Winterthur,2,1
+2026-02-28,2526,SWZ,Thun,Luzern,2,1
+2026-03-01,2526,SWZ,Grasshoppers,Lugano,1,0
+2026-03-01,2526,SWZ,Lausanne,Basel,1,2
+2026-03-01,2526,SWZ,Young Boys,Zurich,3,0
+2026-03-03,2526,SWZ,Winterthur,Servette,1,1
+2026-03-04,2526,SWZ,Lugano,Sion,2,1
+2026-03-04,2526,SWZ,Luzern,Young Boys,1,2
+2026-03-04,2526,SWZ,Zurich,Lausanne,1,2
+2026-03-05,2526,SWZ,Basel,Grasshoppers,1,0
+2026-03-05,2526,SWZ,Thun,St. Gallen,2,2
+2026-03-07,2526,SWZ,Lugano,Luzern,1,3
+2026-03-07,2526,SWZ,Servette,Zurich,2,1
+2026-03-07,2526,SWZ,Sion,Winterthur,1,1
+2026-03-08,2526,SWZ,Grasshoppers,Lausanne,2,3
+2026-03-08,2526,SWZ,St. Gallen,Basel,3,0
+2026-03-08,2526,SWZ,Young Boys,Thun,1,2
+2026-03-14,2526,SWZ,Thun,Grasshoppers,5,1
+2026-03-14,2526,SWZ,Zurich,Sion,1,2
+2026-03-15,2526,SWZ,Basel,Servette,3,1
+2026-03-15,2526,SWZ,Lausanne,Young Boys,0,2
+2026-03-15,2526,SWZ,Luzern,Winterthur,1,2
+2026-03-17,2526,SWZ,St. Gallen,Lugano,1,1
+2026-03-21,2526,SWZ,Servette,Grasshoppers,5,0
+2026-03-21,2526,SWZ,Sion,St. Gallen,1,1
+2026-03-21,2526,SWZ,Zurich,Thun,2,1
+2026-03-22,2526,SWZ,Luzern,Lausanne,4,0
+2026-03-22,2526,SWZ,Winterthur,Basel,0,2
+2026-03-22,2526,SWZ,Young Boys,Lugano,1,1
+2026-04-04,2526,SWZ,Basel,Young Boys,3,3
+2026-04-04,2526,SWZ,Lausanne,Winterthur,2,1
+2026-04-04,2526,SWZ,Lugano,Thun,1,0
+2026-04-06,2526,SWZ,Grasshoppers,Sion,0,4
+2026-04-06,2526,SWZ,Servette,Luzern,3,0
+2026-04-06,2526,SWZ,St. Gallen,Zurich,2,1
+2026-04-11,2526,SWZ,Winterthur,Grasshoppers,0,2
+2026-04-11,2526,SWZ,Zurich,Lugano,0,1
+2026-04-12,2526,SWZ,Luzern,St. Gallen,2,2
+2026-04-12,2526,SWZ,Sion,Lausanne,3,0
+2026-04-12,2526,SWZ,Young Boys,Servette,1,1
+2026-04-18,2526,SWZ,Thun,Basel,3,1
+2026-04-25,2526,SWZ,Grasshoppers,Luzern,1,2
+2026-04-25,2526,SWZ,Lausanne,Zurich,3,0
+2026-04-25,2526,SWZ,Thun,Lugano,0,1
+2026-04-26,2526,SWZ,Basel,Sion,0,2
+2026-04-26,2526,SWZ,Servette,Winterthur,5,3
+2026-04-26,2526,SWZ,Young Boys,St. Gallen,1,2
+2026-05-02,2526,SWZ,Basel,Thun,3,1
+2026-05-02,2526,SWZ,Lausanne,Luzern,1,3
+2026-05-02,2526,SWZ,Winterthur,Zurich,2,2
+2026-05-03,2526,SWZ,Grasshoppers,Servette,0,2
+2026-05-03,2526,SWZ,Lugano,Young Boys,1,0
+2026-05-03,2526,SWZ,St. Gallen,Sion,0,3
+2026-05-09,2526,SWZ,Luzern,Servette,3,3
+2026-05-09,2526,SWZ,Winterthur,Lausanne,2,1
+2026-05-09,2526,SWZ,Zurich,Grasshoppers,2,1
+2026-05-10,2526,SWZ,Lugano,St. Gallen,1,2
+2026-05-10,2526,SWZ,Sion,Thun,2,0
+2026-05-10,2526,SWZ,Young Boys,Basel,3,0
+2026-05-12,2526,SWZ,Grasshoppers,Winterthur,3,2
+2026-05-12,2526,SWZ,Luzern,Zurich,1,0
+2026-05-12,2526,SWZ,Servette,Lausanne,2,0
+2026-05-14,2526,SWZ,Basel,St. Gallen,1,3
+2026-05-14,2526,SWZ,Sion,Lugano,2,2
+2026-05-14,2526,SWZ,Thun,Young Boys,3,8
+2026-05-16,2526,SWZ,Lausanne,Grasshoppers,1,3
+2026-05-16,2526,SWZ,Winterthur,Luzern,0,3
+2026-05-16,2526,SWZ,Zurich,Servette,0,2
+2026-05-17,2526,SWZ,Lugano,Basel,4,0
+2026-05-17,2526,SWZ,St. Gallen,Thun,1,1
+2026-05-17,2526,SWZ,Young Boys,Sion,3,3
+2026-07-25,2627,SWZ,Lausanne,Grasshoppers,1,1
+2026-07-25,2627,SWZ,Luzern,Thun,1,3
+2026-07-25,2627,SWZ,Servette,Basel,0,1
+2026-07-26,2627,SWZ,Lugano,Vaduz,2,1
+2026-07-26,2627,SWZ,St. Gallen,Zurich,2,1
+2026-07-26,2627,SWZ,Young Boys,Sion,4,2
+2026-08-01,2627,SWZ,Basel,Lausanne,0,1
+2026-08-01,2627,SWZ,Thun,Young Boys,0,6
+2026-08-01,2627,SWZ,Zurich,Servette,2,1
+2026-08-02,2627,SWZ,Grasshoppers,Lugano,1,4
+2026-08-02,2627,SWZ,Sion,Luzern,3,0
+2026-08-02,2627,SWZ,Vaduz,St. Gallen,2,3
+2026-08-08,2627,SWZ,Lausanne,Young Boys,2,2
+2026-08-08,2627,SWZ,Servette,Grasshoppers,2,1
+2026-08-09,2627,SWZ,Basel,Thun,4,2
+2026-08-09,2627,SWZ,Lugano,Zurich,5,0
+2026-08-09,2627,SWZ,Sion,Vaduz,3,2
+2026-08-09,2627,SWZ,St. Gallen,Luzern,2,2
+2026-08-22,2627,SWZ,Luzern,Lausanne,1,0
+2026-08-22,2627,SWZ,Zurich,Basel,1,2
+2026-08-23,2627,SWZ,Young Boys,Vaduz,4,2
+2026-08-29,2627,SWZ,Lausanne,Zurich,2,3
+2026-08-29,2627,SWZ,Servette,Luzern,1,1
+2026-08-29,2627,SWZ,Young Boys,Basel,3,3
+2026-08-30,2627,SWZ,Sion,Lugano,1,2
+2026-08-30,2627,SWZ,St. Gallen,Thun,3,4
+2026-08-30,2627,SWZ,Vaduz,Grasshoppers,5,2
+2026-09-01,2627,SWZ,Zurich,Young Boys,2,4
+2026-09-02,2627,SWZ,Grasshoppers,St. Gallen,2,0
+2026-09-02,2627,SWZ,Luzern,Vaduz,2,1
+2026-09-02,2627,SWZ,Thun,Lausanne,0,0
+2026-09-03,2627,SWZ,Basel,Sion,1,2
+2026-09-03,2627,SWZ,Lugano,Servette,1,0
+2026-09-05,2627,SWZ,Grasshoppers,Zurich,2,2
+2026-09-05,2627,SWZ,Vaduz,Lausanne,3,1
+2026-09-05,2627,SWZ,Young Boys,Luzern,3,3
+2026-09-06,2627,SWZ,Basel,Lugano,1,3
+2026-09-06,2627,SWZ,Servette,St. Gallen,0,2
+2026-09-06,2627,SWZ,Sion,Thun,3,2
+2026-09-12,2627,SWZ,Lugano,Young Boys,2,2
+2026-09-12,2627,SWZ,St. Gallen,Sion,0,3
+2026-09-12,2627,SWZ,Thun,Grasshoppers,0,1
+2026-09-13,2627,SWZ,Lausanne,Servette,0,1
+2026-09-13,2627,SWZ,Luzern,Basel,2,4
+2026-09-13,2627,SWZ,Zurich,Vaduz,2,1
+2026-09-15,2627,SWZ,Grasshoppers,Sion,2,5
+2026-09-16,2627,SWZ,Lugano,St. Gallen,4,1
+2026-09-16,2627,SWZ,Thun,Servette,2,4
+2026-09-19,2627,SWZ,Luzern,Grasshoppers,5,1
+2026-09-19,2627,SWZ,Sion,Zurich,1,1
+2026-09-19,2627,SWZ,Young Boys,Servette,3,2
+2026-09-20,2627,SWZ,Basel,St. Gallen,1,3
+2026-09-20,2627,SWZ,Lausanne,Lugano,0,4
+2026-09-20,2627,SWZ,Vaduz,Thun,1,2
+2026-10-10,2627,SWZ,Lugano,Luzern,4,0
+2026-10-10,2627,SWZ,Servette,Sion,3,0
+2026-10-10,2627,SWZ,Zurich,Thun,4,2
+2026-10-11,2627,SWZ,Grasshoppers,Young Boys,0,2
+2026-10-11,2627,SWZ,St. Gallen,Lausanne,1,0
+2026-10-11,2627,SWZ,Vaduz,Basel,3,0

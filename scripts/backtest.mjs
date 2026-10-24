@@ -15,12 +15,12 @@
 // Every gap means the same in every league: the Elo goals model's c is params.common.c for all of them.
 // Needs cache/ (node scripts/fetch.mjs): the odds are football-data's, so they're read here and not published.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
-import { seasons, label } from '../lib/seasons.mjs';
-import { matches, byDate, fromCsv } from '../lib/results.mjs';
+import { label } from '../lib/seasons.mjs';
+import { fromCsv } from '../lib/results.mjs';
 import { run, runAll } from '../lib/elo.mjs';
 import { run as runAttack } from '../lib/attack.mjs';
 import { table, x12 } from '../lib/goals.mjs';
-import { LEAGUES, IDS } from '../lib/leagues.mjs';
+import { LEAGUES, IDS, load } from '../lib/leagues.mjs';
 
 const FROM = 2000, HOLD = 2012; // first season scored; first season of the holdout, by the year each starts
 const year = (code) => { const y = Number(code.slice(0, 2)); return y >= 90 ? 1900 + y : 2000 + y; };
@@ -38,7 +38,7 @@ const FILE = holdout ? 'params-holdout.json' : 'params.json';
 const params = JSON.parse(readFileSync(existsSync(FILE) ? FILE : 'params.json', 'utf8'));
 const save = (key, value) => { const now = JSON.parse(readFileSync(existsSync(FILE) ? FILE : 'params.json', 'utf8')); now[key] = value; writeFileSync(FILE, JSON.stringify(now, null, 2) + '\n'); };
 const C = params.common.c;
-const lists = Object.fromEntries(IDS.map((id) => [id, seasons().flatMap((s) => LEAGUES[id].divs.flatMap((d) => existsSync(`cache/${s}-${d}.csv`) ? matches(readFileSync(`cache/${s}-${d}.csv`, 'utf8'), s, d, { odds: true }) : [])).sort(byDate)]));
+const lists = Object.fromEntries(IDS.map((id) => [id, load(id, { odds: true })]));
 const europe = fromCsv(readFileSync('data/europe.csv', 'utf8')).map((m) => ({ ...m, neutral: m.div === 'EUN', div: 'EU' })); // scripts/import.mjs makes it from UEFA's data
 const top = (id) => (m) => m.div === LEAGUES[id].divs[0] && year(m.season) >= FROM;
 const tuning = (id) => (m) => top(id)(m) && (!holdout || year(m.season) < HOLD); // what --tune may look at
@@ -65,7 +65,7 @@ if (argv.includes('--tune')) {
     // 1. the Elo
     let best = null;
     for (const margin of ['wfe', 'log']) for (const k of [8, 10, 12, 14, 16, 20, 24]) for (const hfa of [50, 60, 70, 80, 90, 100]) for (const regress of [0, 0.1, 0.2]) for (const hfaEmpty of [0, 30]) {
-      const elo = { ...params[id].elo, k, hfa, hfaEmpty, margin, regress, kH: 0 }, f = fitGoals(gaps(elo));
+      const elo = { ...params[id].elo, k, hfa, hfaEmpty, margin, regress, kH: 0, q: 0 }, f = fitGoals(gaps(elo));
       if (!best || f.ll < best.ll) { best = { ...f, elo }; console.log(`${id} elo ${f.ll.toFixed(4)}  k ${k} hfa ${hfa}/${hfaEmpty} ${margin} regress ${regress}  draw ${f.goals.draw}`); }
     }
     // 2. home advantage learnt as it goes
@@ -73,18 +73,23 @@ if (argv.includes('--tune')) {
       const elo = { ...best.elo, kH }, f = fitGoals(gaps(elo));
       if (f.ll < best.ll) { best = { ...f, elo }; console.log(`${id} elo ${f.ll.toFixed(4)}  kH ${kH}`); }
     }
-    // 3. the attack/defence model
+    // 3. uncertainty per club (with K searched again, since it scales K)
+    for (const q of [0.003, 0.006, 0.01, 0.02]) for (const rNew of [1, 2, 3]) for (const m of [1, 1.5, 2, 3, 4]) {
+      const elo = { ...best.elo, q, rNew, k: Math.round(best.elo.k * m) }, f = fitGoals(gaps(elo));
+      if (f.ll < best.ll) { best = { ...f, elo }; console.log(`${id} elo ${f.ll.toFixed(4)}  q ${q} rNew ${rNew} k ${elo.k}`); }
+    }
+    // 4. the attack/defence model, learning from goals and, where there are shots on target, the chances
     const eloRows = gaps(best.elo), t = table(best.goals);
     let att = null;
-    for (const k of [0.01, 0.015, 0.02, 0.03]) for (const r of [0, 0.1, 0.2]) for (const kb of [0.002, 0.005]) {
-      const xg = attackGoals(id, { k, r, kb });
+    for (const k of [0.01, 0.015, 0.02, 0.03]) for (const r of [0, 0.1, 0.2]) for (const kb of [0.002, 0.005]) for (const shots of [0, 0.3, 0.5, 0.7]) for (const conv of shots ? [0.25, 0.32] : [0.3]) {
+      const xg = attackGoals(id, { k, r, kb, shots, conv });
       for (const draw of DRAWS) {
         const ll = logloss(eloRows, (row) => x12(xg.get(row.m), draw));
-        if (!att || ll < att.ll) att = { ll, a: { k, r, kb, draw }, xg };
+        if (!att || ll < att.ll) att = { ll, a: { k, r, kb, shots, conv, draw }, xg };
       }
     }
     console.log(`${id} attack/defence ${att.ll.toFixed(4)}  ${JSON.stringify(att.a)}`);
-    // 4. the blend
+    // 5. the blend
     let w = null;
     for (let x = 0; x <= 1.0001; x += 0.1) {
       const ll = logloss(eloRows, (row) => blend(x, t(row.dr), x12(att.xg.get(row.m), att.a.draw)));
@@ -146,7 +151,8 @@ for (const id of IDS) {
   const ro = all.filter((r) => r.m.odds);
   const inSample = { matches: ro.length, model: scores(ro, model), elo: scores(ro, elo), market: scores(ro, market) };
   // the headline: settings frozen at the end of 2011-12, scored on every match since with the closing prices
-  const ht = held?.[id].filter((r) => year(r.m.season) >= HOLD && r.m.odds);
+  // (a league whose files start in 2012 has nothing before the holdout to be tuned on: it gets no holdout score)
+  const ht = league.extra ? null : held?.[id].filter((r) => year(r.m.season) >= HOLD && r.m.odds);
   const test = ht?.length ? { from: label(`${String(HOLD).slice(2)}${String(HOLD + 1).slice(2)}`), matches: ht.length, model: scores(ht, model), elo: scores(ht, elo), market: scores(ht, market) } : null;
   // calibration: matches bucketed by the model's home-win chance, how often the home side won
   const cal = Array.from({ length: 10 }, (_, i) => { const b = ro.filter((r) => Math.min(9, Math.floor(model(r)[0] * 10)) === i); return b.length ? { bucket: `${i * 10}-${i * 10 + 10}%`, matches: b.length, predicted: +(b.reduce((s, r) => s + model(r)[0], 0) / b.length).toFixed(3), actual: +(b.filter((r) => r.o === 0).length / b.length).toFixed(3) } : null; }).filter(Boolean);

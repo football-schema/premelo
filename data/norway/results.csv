@@ -1,0 +1,3567 @@
+date,season,div,home,away,hg,ag
+2012-03-23,1212,NOR,Molde,Stromsgodset,2,1
+2012-03-24,1212,NOR,Honefoss,Lillestrom,0,0
+2012-03-25,1212,NOR,Odd,Sogndal,0,4
+2012-03-25,1212,NOR,Rosenborg,Brann,3,1
+2012-03-25,1212,NOR,Stabaek,Aalesund,0,0
+2012-03-25,1212,NOR,Tromso,Fredrikstad,1,0
+2012-03-25,1212,NOR,Valerenga,Haugesund,2,1
+2012-03-26,1212,NOR,Sandnes,Viking,2,2
+2012-03-30,1212,NOR,Brann,Sandnes,3,1
+2012-03-31,1212,NOR,Stromsgodset,Valerenga,3,2
+2012-04-01,1212,NOR,Fredrikstad,Stabaek,5,1
+2012-04-01,1212,NOR,Haugesund,Molde,2,0
+2012-04-01,1212,NOR,Lillestrom,Rosenborg,2,2
+2012-04-01,1212,NOR,Sogndal,Honefoss,0,0
+2012-04-01,1212,NOR,Viking,Odd,1,0
+2012-04-02,1212,NOR,Aalesund,Tromso,0,0
+2012-04-09,1212,NOR,Honefoss,Fredrikstad,1,1
+2012-04-09,1212,NOR,Molde,Brann,2,1
+2012-04-09,1212,NOR,Odd,Lillestrom,2,0
+2012-04-09,1212,NOR,Rosenborg,Sogndal,0,0
+2012-04-09,1212,NOR,Sandnes,Aalesund,1,1
+2012-04-09,1212,NOR,Stromsgodset,Haugesund,3,3
+2012-04-09,1212,NOR,Tromso,Stabaek,3,0
+2012-04-10,1212,NOR,Valerenga,Viking,1,0
+2012-04-13,1212,NOR,Fredrikstad,Rosenborg,1,2
+2012-04-15,1212,NOR,Aalesund,Odd,2,1
+2012-04-15,1212,NOR,Brann,Stromsgodset,1,2
+2012-04-15,1212,NOR,Lillestrom,Valerenga,1,1
+2012-04-15,1212,NOR,Sogndal,Haugesund,1,1
+2012-04-15,1212,NOR,Tromso,Sandnes,3,1
+2012-04-16,1212,NOR,Stabaek,Honefoss,0,2
+2012-04-16,1212,NOR,Viking,Molde,1,0
+2012-04-20,1212,NOR,Valerenga,Sogndal,0,2
+2012-04-21,1212,NOR,Haugesund,Brann,2,1
+2012-04-22,1212,NOR,Honefoss,Aalesund,3,1
+2012-04-22,1212,NOR,Odd,Fredrikstad,1,1
+2012-04-22,1212,NOR,Rosenborg,Tromso,3,0
+2012-04-22,1212,NOR,Sandnes,Stabaek,2,1
+2012-04-22,1212,NOR,Stromsgodset,Viking,1,0
+2012-04-23,1212,NOR,Molde,Lillestrom,3,2
+2012-04-27,1212,NOR,Aalesund,Rosenborg,2,2
+2012-04-28,1212,NOR,Fredrikstad,Sandnes,3,4
+2012-04-28,1212,NOR,Lillestrom,Stromsgodset,0,1
+2012-04-28,1212,NOR,Sogndal,Molde,2,1
+2012-04-28,1212,NOR,Stabaek,Odd,0,2
+2012-04-28,1212,NOR,Tromso,Honefoss,0,0
+2012-04-28,1212,NOR,Viking,Haugesund,0,2
+2012-04-29,1212,NOR,Brann,Valerenga,1,2
+2012-05-04,1212,NOR,Rosenborg,Stabaek,3,1
+2012-05-05,1212,NOR,Odd,Tromso,2,2
+2012-05-06,1212,NOR,Haugesund,Lillestrom,1,1
+2012-05-06,1212,NOR,Molde,Aalesund,2,1
+2012-05-06,1212,NOR,Sandnes,Honefoss,1,0
+2012-05-06,1212,NOR,Stromsgodset,Sogndal,3,0
+2012-05-06,1212,NOR,Valerenga,Fredrikstad,3,2
+2012-05-07,1212,NOR,Brann,Viking,0,0
+2012-05-12,1212,NOR,Stabaek,Molde,0,5
+2012-05-12,1212,NOR,Tromso,Valerenga,3,1
+2012-05-13,1212,NOR,Aalesund,Stromsgodset,3,1
+2012-05-13,1212,NOR,Fredrikstad,Haugesund,0,0
+2012-05-13,1212,NOR,Honefoss,Odd,1,4
+2012-05-13,1212,NOR,Lillestrom,Brann,3,4
+2012-05-13,1212,NOR,Sandnes,Rosenborg,1,1
+2012-05-13,1212,NOR,Sogndal,Viking,1,2
+2012-05-16,1212,NOR,Brann,Sogndal,5,0
+2012-05-16,1212,NOR,Haugesund,Aalesund,4,2
+2012-05-16,1212,NOR,Molde,Fredrikstad,2,0
+2012-05-16,1212,NOR,Odd,Sandnes,2,2
+2012-05-16,1212,NOR,Rosenborg,Honefoss,0,1
+2012-05-16,1212,NOR,Stromsgodset,Tromso,2,0
+2012-05-16,1212,NOR,Viking,Lillestrom,1,2
+2012-05-19,1212,NOR,Fredrikstad,Stromsgodset,2,3
+2012-05-19,1212,NOR,Honefoss,Valerenga,1,0
+2012-05-20,1212,NOR,Aalesund,Brann,2,0
+2012-05-20,1212,NOR,Lillestrom,Sogndal,1,0
+2012-05-20,1212,NOR,Rosenborg,Odd,0,0
+2012-05-20,1212,NOR,Sandnes,Molde,0,2
+2012-05-20,1212,NOR,Stabaek,Haugesund,0,2
+2012-05-20,1212,NOR,Tromso,Viking,5,1
+2012-05-23,1212,NOR,Brann,Fredrikstad,2,0
+2012-05-23,1212,NOR,Sogndal,Sandnes,0,0
+2012-05-23,1212,NOR,Stromsgodset,Odd,1,0
+2012-05-23,1212,NOR,Valerenga,Rosenborg,0,0
+2012-05-23,1212,NOR,Viking,Stabaek,1,0
+2012-05-24,1212,NOR,Haugesund,Honefoss,1,1
+2012-05-24,1212,NOR,Lillestrom,Aalesund,0,0
+2012-05-24,1212,NOR,Molde,Tromso,3,2
+2012-05-28,1212,NOR,Honefoss,Molde,1,1
+2012-05-28,1212,NOR,Sandnes,Haugesund,0,2
+2012-05-28,1212,NOR,Stabaek,Lillestrom,4,1
+2012-05-28,1212,NOR,Tromso,Brann,2,0
+2012-05-29,1212,NOR,Fredrikstad,Viking,3,0
+2012-06-24,1212,NOR,Aalesund,Sogndal,2,2
+2012-06-24,1212,NOR,Rosenborg,Stromsgodset,3,3
+2012-06-24,1212,NOR,Valerenga,Stabaek,1,2
+2012-06-29,1212,NOR,Sogndal,Fredrikstad,1,3
+2012-06-30,1212,NOR,Brann,Stabaek,2,1
+2012-06-30,1212,NOR,Haugesund,Tromso,1,1
+2012-06-30,1212,NOR,Lillestrom,Sandnes,1,3
+2012-06-30,1212,NOR,Molde,Odd,3,1
+2012-06-30,1212,NOR,Stromsgodset,Honefoss,4,0
+2012-06-30,1212,NOR,Viking,Rosenborg,1,4
+2012-07-02,1212,NOR,Valerenga,Aalesund,0,0
+2012-07-07,1212,NOR,Honefoss,Brann,2,1
+2012-07-07,1212,NOR,Tromso,Sogndal,1,1
+2012-07-08,1212,NOR,Aalesund,Viking,1,1
+2012-07-08,1212,NOR,Odd,Haugesund,2,1
+2012-07-08,1212,NOR,Rosenborg,Molde,1,0
+2012-07-08,1212,NOR,Sandnes,Valerenga,0,2
+2012-07-08,1212,NOR,Stabaek,Stromsgodset,1,2
+2012-07-09,1212,NOR,Fredrikstad,Lillestrom,3,4
+2012-07-11,1212,NOR,Odd,Valerenga,2,3
+2012-07-13,1212,NOR,Lillestrom,Tromso,4,2
+2012-07-14,1212,NOR,Valerenga,Molde,1,2
+2012-07-15,1212,NOR,Aalesund,Fredrikstad,3,0
+2012-07-15,1212,NOR,Brann,Odd,6,2
+2012-07-15,1212,NOR,Haugesund,Rosenborg,0,1
+2012-07-15,1212,NOR,Sogndal,Stabaek,3,1
+2012-07-15,1212,NOR,Viking,Honefoss,2,1
+2012-07-16,1212,NOR,Stromsgodset,Sandnes,2,1
+2012-07-20,1212,NOR,Haugesund,Sogndal,0,0
+2012-07-21,1212,NOR,Molde,Viking,1,2
+2012-07-22,1212,NOR,Brann,Aalesund,2,1
+2012-07-22,1212,NOR,Fredrikstad,Honefoss,0,2
+2012-07-22,1212,NOR,Odd,Stromsgodset,2,1
+2012-07-22,1212,NOR,Stabaek,Valerenga,1,3
+2012-07-23,1212,NOR,Rosenborg,Lillestrom,1,1
+2012-07-27,1212,NOR,Stromsgodset,Fredrikstad,5,0
+2012-07-28,1212,NOR,Lillestrom,Molde,1,1
+2012-07-29,1212,NOR,Aalesund,Stabaek,3,1
+2012-07-29,1212,NOR,Honefoss,Haugesund,3,2
+2012-07-29,1212,NOR,Sogndal,Odd,0,1
+2012-07-29,1212,NOR,Tromso,Rosenborg,1,1
+2012-07-29,1212,NOR,Viking,Sandnes,3,0
+2012-07-30,1212,NOR,Valerenga,Brann,1,1
+2012-08-03,1212,NOR,Haugesund,Valerenga,4,2
+2012-08-04,1212,NOR,Honefoss,Stromsgodset,1,1
+2012-08-04,1212,NOR,Molde,Sogndal,2,1
+2012-08-05,1212,NOR,Fredrikstad,Tromso,2,0
+2012-08-05,1212,NOR,Odd,Viking,1,4
+2012-08-05,1212,NOR,Rosenborg,Aalesund,3,0
+2012-08-05,1212,NOR,Sandnes,Lillestrom,0,1
+2012-08-06,1212,NOR,Stabaek,Brann,0,4
+2012-08-10,1212,NOR,Valerenga,Odd,3,1
+2012-08-11,1212,NOR,Brann,Haugesund,3,2
+2012-08-12,1212,NOR,Aalesund,Molde,0,1
+2012-08-12,1212,NOR,Lillestrom,Honefoss,2,2
+2012-08-12,1212,NOR,Sogndal,Rosenborg,0,3
+2012-08-12,1212,NOR,Stabaek,Sandnes,2,1
+2012-08-12,1212,NOR,Tromso,Stromsgodset,4,0
+2012-08-12,1212,NOR,Viking,Fredrikstad,3,0
+2012-08-24,1212,NOR,Odd,Brann,1,0
+2012-08-25,1212,NOR,Stromsgodset,Lillestrom,3,3
+2012-08-26,1212,NOR,Haugesund,Stabaek,4,1
+2012-08-26,1212,NOR,Honefoss,Tromso,0,1
+2012-08-26,1212,NOR,Molde,Valerenga,2,0
+2012-08-26,1212,NOR,Rosenborg,Viking,1,1
+2012-08-26,1212,NOR,Sandnes,Sogndal,3,1
+2012-08-27,1212,NOR,Fredrikstad,Aalesund,1,3
+2012-08-31,1212,NOR,Valerenga,Sandnes,4,0
+2012-09-01,1212,NOR,Lillestrom,Fredrikstad,1,2
+2012-09-02,1212,NOR,Aalesund,Honefoss,2,0
+2012-09-02,1212,NOR,Brann,Molde,4,1
+2012-09-02,1212,NOR,Haugesund,Odd,0,1
+2012-09-02,1212,NOR,Sogndal,Stromsgodset,1,1
+2012-09-02,1212,NOR,Viking,Tromso,0,1
+2012-09-03,1212,NOR,Stabaek,Rosenborg,0,2
+2012-09-14,1212,NOR,Stromsgodset,Aalesund,4,0
+2012-09-15,1212,NOR,Molde,Haugesund,1,0
+2012-09-16,1212,NOR,Fredrikstad,Sogndal,2,1
+2012-09-16,1212,NOR,Honefoss,Viking,2,2
+2012-09-16,1212,NOR,Odd,Stabaek,1,2
+2012-09-16,1212,NOR,Rosenborg,Valerenga,3,0
+2012-09-16,1212,NOR,Sandnes,Brann,3,3
+2012-09-17,1212,NOR,Tromso,Lillestrom,5,1
+2012-09-21,1212,NOR,Viking,Stromsgodset,3,2
+2012-09-22,1212,NOR,Aalesund,Lillestrom,1,2
+2012-09-23,1212,NOR,Brann,Rosenborg,2,1
+2012-09-23,1212,NOR,Haugesund,Sandnes,3,2
+2012-09-23,1212,NOR,Odd,Molde,0,0
+2012-09-23,1212,NOR,Sogndal,Tromso,1,0
+2012-09-23,1212,NOR,Stabaek,Fredrikstad,0,1
+2012-09-24,1212,NOR,Valerenga,Honefoss,3,2
+2012-09-28,1212,NOR,Rosenborg,Haugesund,5,2
+2012-09-29,1212,NOR,Lillestrom,Viking,0,0
+2012-09-30,1212,NOR,Honefoss,Sogndal,0,0
+2012-09-30,1212,NOR,Molde,Stabaek,4,3
+2012-09-30,1212,NOR,Sandnes,Odd,0,0
+2012-09-30,1212,NOR,Stromsgodset,Brann,2,0
+2012-09-30,1212,NOR,Tromso,Aalesund,1,0
+2012-10-01,1212,NOR,Fredrikstad,Valerenga,1,2
+2012-10-05,1212,NOR,Valerenga,Stromsgodset,1,1
+2012-10-06,1212,NOR,Viking,Aalesund,1,1
+2012-10-07,1212,NOR,Haugesund,Fredrikstad,1,0
+2012-10-07,1212,NOR,Molde,Sandnes,3,2
+2012-10-07,1212,NOR,Odd,Rosenborg,0,1
+2012-10-07,1212,NOR,Sogndal,Lillestrom,1,0
+2012-10-07,1212,NOR,Stabaek,Tromso,0,1
+2012-10-08,1212,NOR,Brann,Honefoss,3,2
+2012-10-19,1212,NOR,Rosenborg,Sandnes,2,0
+2012-10-20,1212,NOR,Lillestrom,Odd,1,1
+2012-10-21,1212,NOR,Aalesund,Valerenga,3,1
+2012-10-21,1212,NOR,Honefoss,Stabaek,0,0
+2012-10-21,1212,NOR,Stromsgodset,Molde,1,1
+2012-10-21,1212,NOR,Tromso,Haugesund,2,0
+2012-10-21,1212,NOR,Viking,Sogndal,2,1
+2012-10-22,1212,NOR,Fredrikstad,Brann,3,4
+2012-10-26,1212,NOR,Haugesund,Stromsgodset,2,3
+2012-10-27,1212,NOR,Sandnes,Fredrikstad,5,1
+2012-10-28,1212,NOR,Molde,Rosenborg,2,0
+2012-10-28,1212,NOR,Odd,Honefoss,4,0
+2012-10-28,1212,NOR,Sogndal,Aalesund,1,1
+2012-10-28,1212,NOR,Stabaek,Viking,0,1
+2012-10-28,1212,NOR,Valerenga,Tromso,1,0
+2012-10-29,1212,NOR,Brann,Lillestrom,2,3
+2012-11-02,1212,NOR,Fredrikstad,Odd,4,2
+2012-11-03,1212,NOR,Tromso,Molde,1,1
+2012-11-04,1212,NOR,Aalesund,Haugesund,2,2
+2012-11-04,1212,NOR,Honefoss,Sandnes,1,1
+2012-11-04,1212,NOR,Lillestrom,Stabaek,6,0
+2012-11-04,1212,NOR,Stromsgodset,Rosenborg,2,1
+2012-11-04,1212,NOR,Viking,Brann,2,1
+2012-11-05,1212,NOR,Sogndal,Valerenga,1,0
+2012-11-07,1212,NOR,Sandnes,Tromso,5,1
+2012-11-11,1212,NOR,Brann,Tromso,0,2
+2012-11-11,1212,NOR,Haugesund,Viking,1,0
+2012-11-11,1212,NOR,Molde,Honefoss,1,0
+2012-11-11,1212,NOR,Odd,Aalesund,3,0
+2012-11-11,1212,NOR,Rosenborg,Fredrikstad,0,1
+2012-11-11,1212,NOR,Sandnes,Stromsgodset,2,1
+2012-11-11,1212,NOR,Stabaek,Sogndal,2,1
+2012-11-11,1212,NOR,Valerenga,Lillestrom,1,2
+2012-11-18,1212,NOR,Aalesund,Sandnes,3,1
+2012-11-18,1212,NOR,Fredrikstad,Molde,0,2
+2012-11-18,1212,NOR,Honefoss,Rosenborg,1,4
+2012-11-18,1212,NOR,Lillestrom,Haugesund,0,0
+2012-11-18,1212,NOR,Sogndal,Brann,2,0
+2012-11-18,1212,NOR,Stromsgodset,Stabaek,3,1
+2012-11-18,1212,NOR,Tromso,Odd,0,1
+2012-11-18,1212,NOR,Viking,Valerenga,2,1
+2012-11-21,1212,NOR,Ull/Kisa,Sandnes,0,4
+2012-11-24,1212,NOR,Sandnes,Ull/Kisa,3,1
+2013-03-15,1313,NOR,Viking,Molde,2,1
+2013-03-16,1313,NOR,Aalesund,Haugesund,3,0
+2013-03-16,1313,NOR,Brann,Valerenga,3,1
+2013-03-17,1313,NOR,Lillestrom,Sarpsborg 08,2,2
+2013-03-17,1313,NOR,Odd,Rosenborg,0,1
+2013-03-17,1313,NOR,Sogndal,Tromso,2,2
+2013-03-17,1313,NOR,Start,Honefoss,3,2
+2013-03-17,1313,NOR,Stromsgodset,Sandnes,2,0
+2013-04-01,1313,NOR,Rosenborg,Brann,4,0
+2013-04-01,1313,NOR,Sandnes,Aalesund,0,1
+2013-04-01,1313,NOR,Sarpsborg 08,Viking,2,1
+2013-04-01,1313,NOR,Tromso,Odd,2,1
+2013-04-01,1313,NOR,Valerenga,Sogndal,1,0
+2013-04-02,1313,NOR,Honefoss,Stromsgodset,2,0
+2013-04-02,1313,NOR,Molde,Lillestrom,1,2
+2013-04-05,1313,NOR,Odd,Valerenga,2,0
+2013-04-06,1313,NOR,Brann,Molde,1,0
+2013-04-06,1313,NOR,Start,Tromso,2,2
+2013-04-07,1313,NOR,Aalesund,Honefoss,4,3
+2013-04-07,1313,NOR,Lillestrom,Viking,0,1
+2013-04-07,1313,NOR,Sandnes,Haugesund,1,1
+2013-04-07,1313,NOR,Sogndal,Rosenborg,0,4
+2013-04-07,1313,NOR,Stromsgodset,Sarpsborg 08,1,1
+2013-04-12,1313,NOR,Rosenborg,Start,1,1
+2013-04-13,1313,NOR,Molde,Sogndal,1,2
+2013-04-13,1313,NOR,Valerenga,Stromsgodset,0,3
+2013-04-14,1313,NOR,Honefoss,Haugesund,0,1
+2013-04-14,1313,NOR,Lillestrom,Brann,2,0
+2013-04-14,1313,NOR,Sarpsborg 08,Aalesund,0,2
+2013-04-14,1313,NOR,Tromso,Sandnes,0,1
+2013-04-14,1313,NOR,Viking,Odd,1,0
+2013-04-19,1313,NOR,Start,Valerenga,1,0
+2013-04-20,1313,NOR,Brann,Viking,2,0
+2013-04-20,1313,NOR,Odd,Molde,1,1
+2013-04-21,1313,NOR,Aalesund,Tromso,0,0
+2013-04-21,1313,NOR,Haugesund,Rosenborg,3,1
+2013-04-21,1313,NOR,Sandnes,Honefoss,1,1
+2013-04-21,1313,NOR,Sogndal,Sarpsborg 08,0,0
+2013-04-21,1313,NOR,Stromsgodset,Lillestrom,1,0
+2013-04-24,1313,NOR,Haugesund,Start,3,2
+2013-04-26,1313,NOR,Brann,Odd,2,0
+2013-04-27,1313,NOR,Lillestrom,Start,3,2
+2013-04-27,1313,NOR,Valerenga,Aalesund,2,1
+2013-04-28,1313,NOR,Molde,Stromsgodset,1,2
+2013-04-28,1313,NOR,Rosenborg,Sandnes,0,1
+2013-04-28,1313,NOR,Sarpsborg 08,Honefoss,1,1
+2013-04-28,1313,NOR,Tromso,Haugesund,2,1
+2013-04-28,1313,NOR,Viking,Sogndal,4,1
+2013-05-04,1313,NOR,Aalesund,Rosenborg,2,2
+2013-05-04,1313,NOR,Sandnes,Valerenga,1,2
+2013-05-05,1313,NOR,Haugesund,Sarpsborg 08,0,1
+2013-05-05,1313,NOR,Honefoss,Tromso,1,1
+2013-05-05,1313,NOR,Odd,Lillestrom,2,1
+2013-05-05,1313,NOR,Sogndal,Brann,3,1
+2013-05-05,1313,NOR,Stromsgodset,Viking,3,1
+2013-05-06,1313,NOR,Start,Molde,1,1
+2013-05-08,1313,NOR,Rosenborg,Tromso,2,1
+2013-05-08,1313,NOR,Valerenga,Honefoss,1,2
+2013-05-09,1313,NOR,Brann,Start,2,0
+2013-05-09,1313,NOR,Lillestrom,Sogndal,2,2
+2013-05-09,1313,NOR,Molde,Aalesund,4,1
+2013-05-09,1313,NOR,Odd,Stromsgodset,1,1
+2013-05-09,1313,NOR,Sarpsborg 08,Sandnes,3,2
+2013-05-09,1313,NOR,Viking,Haugesund,0,0
+2013-05-12,1313,NOR,Haugesund,Valerenga,1,0
+2013-05-12,1313,NOR,Sandnes,Molde,0,0
+2013-05-12,1313,NOR,Sogndal,Odd,2,0
+2013-05-12,1313,NOR,Start,Viking,1,2
+2013-05-12,1313,NOR,Stromsgodset,Brann,2,0
+2013-05-12,1313,NOR,Tromso,Sarpsborg 08,5,0
+2013-05-13,1313,NOR,Aalesund,Lillestrom,7,1
+2013-05-13,1313,NOR,Honefoss,Rosenborg,1,2
+2013-05-16,1313,NOR,Brann,Aalesund,2,0
+2013-05-16,1313,NOR,Lillestrom,Sandnes,2,2
+2013-05-16,1313,NOR,Molde,Haugesund,1,5
+2013-05-16,1313,NOR,Odd,Start,0,1
+2013-05-16,1313,NOR,Rosenborg,Sarpsborg 08,4,2
+2013-05-16,1313,NOR,Stromsgodset,Sogndal,3,1
+2013-05-16,1313,NOR,Valerenga,Tromso,2,0
+2013-05-16,1313,NOR,Viking,Honefoss,0,0
+2013-05-20,1313,NOR,Aalesund,Odd,2,0
+2013-05-20,1313,NOR,Haugesund,Sogndal,0,1
+2013-05-20,1313,NOR,Honefoss,Lillestrom,1,0
+2013-05-20,1313,NOR,Rosenborg,Molde,0,0
+2013-05-20,1313,NOR,Start,Stromsgodset,0,6
+2013-05-20,1313,NOR,Tromso,Brann,2,0
+2013-05-21,1313,NOR,Sandnes,Viking,0,1
+2013-05-21,1313,NOR,Sarpsborg 08,Valerenga,3,3
+2013-05-24,1313,NOR,Stromsgodset,Aalesund,2,1
+2013-05-25,1313,NOR,Molde,Honefoss,4,0
+2013-05-25,1313,NOR,Valerenga,Rosenborg,1,2
+2013-05-26,1313,NOR,Brann,Sarpsborg 08,3,1
+2013-05-26,1313,NOR,Lillestrom,Haugesund,3,0
+2013-05-26,1313,NOR,Odd,Sandnes,3,0
+2013-05-26,1313,NOR,Sogndal,Start,1,1
+2013-05-26,1313,NOR,Viking,Tromso,2,1
+2013-06-22,1313,NOR,Rosenborg,Stromsgodset,1,0
+2013-06-22,1313,NOR,Sarpsborg 08,Start,2,1
+2013-06-22,1313,NOR,Valerenga,Molde,3,3
+2013-06-23,1313,NOR,Aalesund,Viking,2,1
+2013-06-23,1313,NOR,Haugesund,Brann,2,1
+2013-06-23,1313,NOR,Honefoss,Odd,1,1
+2013-06-23,1313,NOR,Sandnes,Sogndal,1,3
+2013-06-23,1313,NOR,Tromso,Lillestrom,2,0
+2013-06-29,1313,NOR,Brann,Sandnes,6,1
+2013-06-29,1313,NOR,Molde,Sarpsborg 08,3,1
+2013-06-29,1313,NOR,Sogndal,Honefoss,1,1
+2013-06-29,1313,NOR,Stromsgodset,Tromso,3,1
+2013-06-30,1313,NOR,Lillestrom,Valerenga,0,1
+2013-06-30,1313,NOR,Odd,Haugesund,4,0
+2013-06-30,1313,NOR,Start,Aalesund,2,2
+2013-06-30,1313,NOR,Viking,Rosenborg,0,0
+2013-07-06,1313,NOR,Aalesund,Sogndal,2,2
+2013-07-06,1313,NOR,Haugesund,Stromsgodset,2,1
+2013-07-07,1313,NOR,Rosenborg,Lillestrom,1,0
+2013-07-07,1313,NOR,Sandnes,Start,3,1
+2013-07-07,1313,NOR,Sarpsborg 08,Odd,0,1
+2013-07-07,1313,NOR,Tromso,Molde,2,3
+2013-07-07,1313,NOR,Valerenga,Viking,2,2
+2013-07-08,1313,NOR,Honefoss,Brann,1,1
+2013-07-12,1313,NOR,Honefoss,Valerenga,1,2
+2013-07-13,1313,NOR,Molde,Viking,1,1
+2013-07-13,1313,NOR,Start,Brann,3,3
+2013-07-14,1313,NOR,Haugesund,Aalesund,1,2
+2013-07-14,1313,NOR,Rosenborg,Odd,3,2
+2013-07-14,1313,NOR,Sandnes,Stromsgodset,2,1
+2013-07-14,1313,NOR,Sarpsborg 08,Lillestrom,0,1
+2013-07-14,1313,NOR,Tromso,Sogndal,2,2
+2013-07-27,1313,NOR,Aalesund,Sandnes,2,3
+2013-07-27,1313,NOR,Lillestrom,Molde,2,0
+2013-07-28,1313,NOR,Brann,Rosenborg,1,4
+2013-07-28,1313,NOR,Odd,Tromso,3,1
+2013-07-28,1313,NOR,Sogndal,Haugesund,1,1
+2013-07-28,1313,NOR,Stromsgodset,Honefoss,6,1
+2013-07-28,1313,NOR,Viking,Start,3,0
+2013-07-29,1313,NOR,Valerenga,Sarpsborg 08,5,3
+2013-08-03,1313,NOR,Molde,Brann,2,0
+2013-08-03,1313,NOR,Start,Odd,0,1
+2013-08-03,1313,NOR,Viking,Lillestrom,2,2
+2013-08-04,1313,NOR,Haugesund,Sandnes,3,1
+2013-08-04,1313,NOR,Honefoss,Aalesund,2,5
+2013-08-04,1313,NOR,Rosenborg,Sogndal,2,0
+2013-08-04,1313,NOR,Sarpsborg 08,Stromsgodset,2,4
+2013-08-04,1313,NOR,Tromso,Valerenga,2,2
+2013-08-09,1313,NOR,Brann,Lillestrom,1,1
+2013-08-10,1313,NOR,Odd,Viking,1,1
+2013-08-10,1313,NOR,Sogndal,Molde,1,2
+2013-08-11,1313,NOR,Aalesund,Sarpsborg 08,3,1
+2013-08-11,1313,NOR,Haugesund,Honefoss,1,0
+2013-08-11,1313,NOR,Sandnes,Tromso,2,1
+2013-08-11,1313,NOR,Stromsgodset,Rosenborg,2,2
+2013-08-11,1313,NOR,Valerenga,Start,1,3
+2013-08-17,1313,NOR,Molde,Odd,1,1
+2013-08-17,1313,NOR,Rosenborg,Valerenga,0,0
+2013-08-18,1313,NOR,Honefoss,Sandnes,0,1
+2013-08-18,1313,NOR,Sarpsborg 08,Sogndal,0,1
+2013-08-18,1313,NOR,Start,Haugesund,1,2
+2013-08-18,1313,NOR,Tromso,Aalesund,1,2
+2013-08-18,1313,NOR,Viking,Brann,3,2
+2013-08-19,1313,NOR,Lillestrom,Stromsgodset,1,1
+2013-08-24,1313,NOR,Odd,Brann,1,3
+2013-08-24,1313,NOR,Sogndal,Viking,1,0
+2013-08-25,1313,NOR,Aalesund,Start,1,1
+2013-08-25,1313,NOR,Haugesund,Tromso,1,0
+2013-08-25,1313,NOR,Honefoss,Sarpsborg 08,3,1
+2013-08-25,1313,NOR,Sandnes,Rosenborg,2,3
+2013-08-25,1313,NOR,Stromsgodset,Molde,5,2
+2013-08-25,1313,NOR,Valerenga,Lillestrom,1,1
+2013-08-30,1313,NOR,Brann,Sogndal,1,0
+2013-08-31,1313,NOR,Lillestrom,Odd,1,0
+2013-08-31,1313,NOR,Rosenborg,Aalesund,2,1
+2013-09-01,1313,NOR,Molde,Valerenga,4,0
+2013-09-01,1313,NOR,Sarpsborg 08,Haugesund,2,1
+2013-09-01,1313,NOR,Start,Sandnes,7,0
+2013-09-01,1313,NOR,Tromso,Honefoss,1,1
+2013-09-01,1313,NOR,Viking,Stromsgodset,1,0
+2013-09-13,1313,NOR,Aalesund,Molde,1,3
+2013-09-14,1313,NOR,Haugesund,Viking,1,1
+2013-09-14,1313,NOR,Sogndal,Lillestrom,1,2
+2013-09-15,1313,NOR,Honefoss,Start,0,1
+2013-09-15,1313,NOR,Sandnes,Sarpsborg 08,2,0
+2013-09-15,1313,NOR,Stromsgodset,Odd,3,1
+2013-09-15,1313,NOR,Tromso,Rosenborg,1,0
+2013-09-15,1313,NOR,Valerenga,Brann,4,3
+2013-09-20,1313,NOR,Rosenborg,Haugesund,1,1
+2013-09-21,1313,NOR,Brann,Stromsgodset,1,1
+2013-09-21,1313,NOR,Lillestrom,Honefoss,1,2
+2013-09-22,1313,NOR,Molde,Sandnes,4,1
+2013-09-22,1313,NOR,Odd,Aalesund,5,1
+2013-09-22,1313,NOR,Sarpsborg 08,Tromso,3,0
+2013-09-22,1313,NOR,Start,Sogndal,2,0
+2013-09-22,1313,NOR,Viking,Valerenga,1,0
+2013-09-27,1313,NOR,Sogndal,Stromsgodset,0,5
+2013-09-28,1313,NOR,Aalesund,Brann,0,0
+2013-09-28,1313,NOR,Honefoss,Viking,2,2
+2013-09-29,1313,NOR,Haugesund,Molde,1,1
+2013-09-29,1313,NOR,Sandnes,Lillestrom,1,1
+2013-09-29,1313,NOR,Sarpsborg 08,Rosenborg,1,2
+2013-09-29,1313,NOR,Tromso,Start,2,3
+2013-09-29,1313,NOR,Valerenga,Odd,1,2
+2013-10-04,1313,NOR,Brann,Haugesund,0,1
+2013-10-05,1313,NOR,Stromsgodset,Valerenga,2,1
+2013-10-05,1313,NOR,Viking,Sandnes,1,1
+2013-10-06,1313,NOR,Lillestrom,Aalesund,1,1
+2013-10-06,1313,NOR,Molde,Tromso,1,0
+2013-10-06,1313,NOR,Odd,Sogndal,0,0
+2013-10-06,1313,NOR,Rosenborg,Honefoss,0,0
+2013-10-06,1313,NOR,Start,Sarpsborg 08,1,1
+2013-10-18,1313,NOR,Sarpsborg 08,Brann,3,2
+2013-10-19,1313,NOR,Start,Rosenborg,0,1
+2013-10-19,1313,NOR,Tromso,Viking,4,3
+2013-10-20,1313,NOR,Aalesund,Stromsgodset,0,1
+2013-10-20,1313,NOR,Haugesund,Lillestrom,3,2
+2013-10-20,1313,NOR,Honefoss,Molde,0,1
+2013-10-20,1313,NOR,Sandnes,Odd,2,4
+2013-10-20,1313,NOR,Sogndal,Valerenga,1,2
+2013-10-25,1313,NOR,Viking,Aalesund,1,3
+2013-10-26,1313,NOR,Molde,Rosenborg,1,0
+2013-10-26,1313,NOR,Valerenga,Haugesund,1,2
+2013-10-27,1313,NOR,Brann,Honefoss,0,0
+2013-10-27,1313,NOR,Lillestrom,Tromso,3,2
+2013-10-27,1313,NOR,Odd,Sarpsborg 08,2,2
+2013-10-27,1313,NOR,Sogndal,Sandnes,2,1
+2013-10-27,1313,NOR,Stromsgodset,Start,1,0
+2013-11-03,1313,NOR,Aalesund,Valerenga,1,0
+2013-11-03,1313,NOR,Haugesund,Odd,3,1
+2013-11-03,1313,NOR,Honefoss,Sogndal,3,1
+2013-11-03,1313,NOR,Rosenborg,Viking,2,1
+2013-11-03,1313,NOR,Sandnes,Brann,3,1
+2013-11-03,1313,NOR,Sarpsborg 08,Molde,1,0
+2013-11-03,1313,NOR,Start,Lillestrom,1,0
+2013-11-03,1313,NOR,Tromso,Stromsgodset,0,0
+2013-11-10,1313,NOR,Brann,Tromso,4,1
+2013-11-10,1313,NOR,Lillestrom,Rosenborg,0,3
+2013-11-10,1313,NOR,Molde,Start,0,1
+2013-11-10,1313,NOR,Odd,Honefoss,3,2
+2013-11-10,1313,NOR,Sogndal,Aalesund,1,2
+2013-11-10,1313,NOR,Stromsgodset,Haugesund,4,0
+2013-11-10,1313,NOR,Valerenga,Sandnes,2,0
+2013-11-10,1313,NOR,Viking,Sarpsborg 08,2,1
+2013-11-13,1313,NOR,Sarpsborg 08,Ranheim,1,0
+2013-11-16,1313,NOR,Ranheim,Sarpsborg 08,0,2
+2014-03-28,1414,NOR,Molde,Valerenga,2,0
+2014-03-29,1414,NOR,Haugesund,Lillestrom,1,1
+2014-03-29,1414,NOR,Rosenborg,Viking,2,2
+2014-03-30,1414,NOR,Bodo/Glimt,Aalesund,1,1
+2014-03-30,1414,NOR,Sandnes,Odd,1,1
+2014-03-30,1414,NOR,Sarpsborg 08,Brann,3,0
+2014-03-30,1414,NOR,Stabaek,Sogndal,3,0
+2014-03-30,1414,NOR,Stromsgodset,Start,4,2
+2014-04-04,1414,NOR,Viking,Stromsgodset,0,0
+2014-04-05,1414,NOR,Aalesund,Rosenborg,1,1
+2014-04-05,1414,NOR,Odd,Molde,2,1
+2014-04-06,1414,NOR,Brann,Stabaek,1,2
+2014-04-06,1414,NOR,Lillestrom,Sandnes,4,1
+2014-04-06,1414,NOR,Sogndal,Sarpsborg 08,1,1
+2014-04-06,1414,NOR,Start,Haugesund,3,1
+2014-04-06,1414,NOR,Valerenga,Bodo/Glimt,3,1
+2014-04-11,1414,NOR,Sandnes,Brann,1,1
+2014-04-12,1414,NOR,Haugesund,Valerenga,1,1
+2014-04-12,1414,NOR,Lillestrom,Viking,0,1
+2014-04-13,1414,NOR,Bodo/Glimt,Sogndal,4,2
+2014-04-13,1414,NOR,Rosenborg,Odd,2,0
+2014-04-13,1414,NOR,Sarpsborg 08,Start,1,1
+2014-04-13,1414,NOR,Stabaek,Molde,0,2
+2014-04-13,1414,NOR,Stromsgodset,Aalesund,2,0
+2014-04-21,1414,NOR,Aalesund,Start,1,2
+2014-04-21,1414,NOR,Bodo/Glimt,Rosenborg,2,2
+2014-04-21,1414,NOR,Brann,Lillestrom,2,0
+2014-04-21,1414,NOR,Molde,Sarpsborg 08,5,1
+2014-04-21,1414,NOR,Odd,Stabaek,2,1
+2014-04-21,1414,NOR,Sogndal,Stromsgodset,1,3
+2014-04-21,1414,NOR,Valerenga,Sandnes,3,0
+2014-04-21,1414,NOR,Viking,Haugesund,2,0
+2014-04-27,1414,NOR,Haugesund,Sogndal,0,3
+2014-04-27,1414,NOR,Rosenborg,Brann,5,2
+2014-04-27,1414,NOR,Sandnes,Molde,1,3
+2014-04-27,1414,NOR,Stabaek,Bodo/Glimt,2,1
+2014-04-27,1414,NOR,Start,Viking,0,2
+2014-04-27,1414,NOR,Stromsgodset,Odd,2,1
+2014-04-28,1414,NOR,Lillestrom,Aalesund,0,0
+2014-04-28,1414,NOR,Sarpsborg 08,Valerenga,3,0
+2014-04-30,1414,NOR,Brann,Haugesund,1,3
+2014-04-30,1414,NOR,Sandnes,Stabaek,2,1
+2014-05-01,1414,NOR,Aalesund,Viking,1,2
+2014-05-01,1414,NOR,Bodo/Glimt,Lillestrom,1,2
+2014-05-01,1414,NOR,Molde,Start,2,0
+2014-05-01,1414,NOR,Odd,Sarpsborg 08,2,0
+2014-05-01,1414,NOR,Sogndal,Rosenborg,1,2
+2014-05-01,1414,NOR,Valerenga,Stromsgodset,3,0
+2014-05-04,1414,NOR,Haugesund,Aalesund,1,2
+2014-05-04,1414,NOR,Lillestrom,Sogndal,2,0
+2014-05-04,1414,NOR,Rosenborg,Molde,0,2
+2014-05-04,1414,NOR,Sarpsborg 08,Sandnes,2,1
+2014-05-04,1414,NOR,Start,Brann,1,1
+2014-05-04,1414,NOR,Stromsgodset,Bodo/Glimt,2,0
+2014-05-05,1414,NOR,Stabaek,Valerenga,0,3
+2014-05-05,1414,NOR,Viking,Odd,1,1
+2014-05-10,1414,NOR,Aalesund,Brann,0,1
+2014-05-10,1414,NOR,Bodo/Glimt,Haugesund,2,1
+2014-05-11,1414,NOR,Molde,Stromsgodset,2,2
+2014-05-11,1414,NOR,Odd,Lillestrom,0,2
+2014-05-11,1414,NOR,Sogndal,Start,2,1
+2014-05-11,1414,NOR,Stabaek,Sarpsborg 08,3,2
+2014-05-11,1414,NOR,Valerenga,Viking,1,1
+2014-05-12,1414,NOR,Sandnes,Rosenborg,0,2
+2014-05-16,1414,NOR,Aalesund,Sogndal,2,2
+2014-05-16,1414,NOR,Brann,Bodo/Glimt,1,2
+2014-05-16,1414,NOR,Haugesund,Odd,1,2
+2014-05-16,1414,NOR,Lillestrom,Molde,1,2
+2014-05-16,1414,NOR,Rosenborg,Stabaek,1,3
+2014-05-16,1414,NOR,Start,Valerenga,2,2
+2014-05-16,1414,NOR,Stromsgodset,Sarpsborg 08,4,1
+2014-05-16,1414,NOR,Viking,Sandnes,2,2
+2014-05-19,1414,NOR,Sarpsborg 08,Rosenborg,1,1
+2014-05-19,1414,NOR,Valerenga,Lillestrom,2,2
+2014-05-20,1414,NOR,Bodo/Glimt,Start,2,1
+2014-05-20,1414,NOR,Molde,Viking,1,0
+2014-05-20,1414,NOR,Odd,Aalesund,2,1
+2014-05-20,1414,NOR,Sandnes,Haugesund,0,0
+2014-05-20,1414,NOR,Sogndal,Brann,2,1
+2014-05-20,1414,NOR,Stabaek,Stromsgodset,2,1
+2014-05-23,1414,NOR,Haugesund,Molde,1,1
+2014-05-24,1414,NOR,Lillestrom,Stabaek,5,1
+2014-05-24,1414,NOR,Stromsgodset,Rosenborg,1,1
+2014-05-25,1414,NOR,Aalesund,Sarpsborg 08,0,0
+2014-05-25,1414,NOR,Brann,Valerenga,2,3
+2014-05-25,1414,NOR,Sogndal,Sandnes,1,0
+2014-05-25,1414,NOR,Start,Odd,0,1
+2014-05-25,1414,NOR,Viking,Bodo/Glimt,2,3
+2014-06-09,1414,NOR,Molde,Brann,4,2
+2014-06-09,1414,NOR,Odd,Sogndal,0,0
+2014-06-09,1414,NOR,Rosenborg,Lillestrom,3,1
+2014-06-09,1414,NOR,Sandnes,Bodo/Glimt,1,0
+2014-06-09,1414,NOR,Sarpsborg 08,Viking,1,1
+2014-06-09,1414,NOR,Stabaek,Start,1,2
+2014-06-09,1414,NOR,Stromsgodset,Haugesund,2,1
+2014-06-09,1414,NOR,Valerenga,Aalesund,3,0
+2014-06-12,1414,NOR,Aalesund,Sandnes,3,0
+2014-06-12,1414,NOR,Bodo/Glimt,Molde,1,1
+2014-06-12,1414,NOR,Brann,Odd,0,1
+2014-06-12,1414,NOR,Haugesund,Sarpsborg 08,4,0
+2014-06-12,1414,NOR,Lillestrom,Stromsgodset,3,0
+2014-06-12,1414,NOR,Sogndal,Valerenga,2,0
+2014-06-12,1414,NOR,Start,Rosenborg,2,4
+2014-06-12,1414,NOR,Viking,Stabaek,4,1
+2014-07-05,1414,NOR,Molde,Sogndal,3,0
+2014-07-06,1414,NOR,Rosenborg,Haugesund,5,3
+2014-07-06,1414,NOR,Sarpsborg 08,Bodo/Glimt,2,1
+2014-07-06,1414,NOR,Stabaek,Aalesund,0,2
+2014-07-06,1414,NOR,Start,Lillestrom,3,1
+2014-07-06,1414,NOR,Stromsgodset,Sandnes,1,0
+2014-07-06,1414,NOR,Viking,Brann,0,2
+2014-07-07,1414,NOR,Odd,Valerenga,2,2
+2014-07-11,1414,NOR,Aalesund,Molde,0,1
+2014-07-12,1414,NOR,Bodo/Glimt,Odd,0,3
+2014-07-12,1414,NOR,Brann,Stromsgodset,0,1
+2014-07-12,1414,NOR,Lillestrom,Sarpsborg 08,0,0
+2014-07-12,1414,NOR,Sandnes,Start,1,2
+2014-07-12,1414,NOR,Sogndal,Viking,0,0
+2014-07-13,1414,NOR,Haugesund,Stabaek,2,0
+2014-07-13,1414,NOR,Valerenga,Rosenborg,2,2
+2014-07-18,1414,NOR,Stabaek,Brann,1,1
+2014-07-19,1414,NOR,Start,Bodo/Glimt,2,1
+2014-07-19,1414,NOR,Stromsgodset,Valerenga,0,2
+2014-07-20,1414,NOR,Molde,Sandnes,3,1
+2014-07-20,1414,NOR,Odd,Haugesund,0,0
+2014-07-20,1414,NOR,Rosenborg,Sogndal,1,0
+2014-07-20,1414,NOR,Viking,Lillestrom,0,0
+2014-07-22,1414,NOR,Sarpsborg 08,Aalesund,3,2
+2014-07-26,1414,NOR,Aalesund,Lillestrom,1,1
+2014-07-26,1414,NOR,Sandnes,Stromsgodset,1,3
+2014-07-27,1414,NOR,Bodo/Glimt,Sarpsborg 08,3,4
+2014-07-27,1414,NOR,Brann,Viking,0,1
+2014-07-27,1414,NOR,Haugesund,Start,5,1
+2014-07-27,1414,NOR,Molde,Rosenborg,3,1
+2014-07-27,1414,NOR,Sogndal,Odd,1,3
+2014-07-29,1414,NOR,Valerenga,Stabaek,3,2
+2014-08-01,1414,NOR,Lillestrom,Brann,4,3
+2014-08-02,1414,NOR,Stromsgodset,Sogndal,1,1
+2014-08-02,1414,NOR,Viking,Valerenga,5,5
+2014-08-03,1414,NOR,Aalesund,Bodo/Glimt,2,1
+2014-08-03,1414,NOR,Odd,Sandnes,3,1
+2014-08-03,1414,NOR,Sarpsborg 08,Haugesund,0,2
+2014-08-03,1414,NOR,Stabaek,Rosenborg,4,1
+2014-08-03,1414,NOR,Start,Molde,1,1
+2014-08-08,1414,NOR,Brann,Aalesund,1,0
+2014-08-09,1414,NOR,Odd,Stromsgodset,1,0
+2014-08-09,1414,NOR,Valerenga,Sarpsborg 08,2,2
+2014-08-10,1414,NOR,Haugesund,Viking,1,1
+2014-08-10,1414,NOR,Molde,Stabaek,2,2
+2014-08-10,1414,NOR,Rosenborg,Start,3,2
+2014-08-10,1414,NOR,Sandnes,Lillestrom,0,0
+2014-08-10,1414,NOR,Sogndal,Bodo/Glimt,0,1
+2014-08-15,1414,NOR,Start,Stromsgodset,2,3
+2014-08-16,1414,NOR,Aalesund,Haugesund,3,0
+2014-08-16,1414,NOR,Viking,Sogndal,4,2
+2014-08-17,1414,NOR,Bodo/Glimt,Sandnes,1,1
+2014-08-17,1414,NOR,Brann,Rosenborg,3,1
+2014-08-17,1414,NOR,Lillestrom,Valerenga,2,1
+2014-08-17,1414,NOR,Sarpsborg 08,Molde,0,2
+2014-08-17,1414,NOR,Stabaek,Odd,1,3
+2014-08-22,1414,NOR,Sandnes,Viking,2,2
+2014-08-23,1414,NOR,Stromsgodset,Stabaek,2,3
+2014-08-23,1414,NOR,Valerenga,Brann,3,3
+2014-08-24,1414,NOR,Haugesund,Bodo/Glimt,1,2
+2014-08-24,1414,NOR,Molde,Aalesund,5,0
+2014-08-24,1414,NOR,Odd,Start,4,1
+2014-08-24,1414,NOR,Rosenborg,Sarpsborg 08,2,0
+2014-08-24,1414,NOR,Sogndal,Lillestrom,0,1
+2014-08-30,1414,NOR,Aalesund,Stromsgodset,2,0
+2014-08-30,1414,NOR,Bodo/Glimt,Valerenga,4,3
+2014-08-30,1414,NOR,Sarpsborg 08,Odd,2,2
+2014-08-31,1414,NOR,Brann,Molde,0,1
+2014-08-31,1414,NOR,Lillestrom,Haugesund,2,0
+2014-08-31,1414,NOR,Stabaek,Sandnes,1,1
+2014-08-31,1414,NOR,Start,Sogndal,3,2
+2014-08-31,1414,NOR,Viking,Rosenborg,1,2
+2014-09-12,1414,NOR,Rosenborg,Bodo/Glimt,3,1
+2014-09-13,1414,NOR,Odd,Viking,4,1
+2014-09-13,1414,NOR,Stromsgodset,Brann,1,4
+2014-09-14,1414,NOR,Molde,Lillestrom,3,2
+2014-09-14,1414,NOR,Sandnes,Sarpsborg 08,0,2
+2014-09-14,1414,NOR,Sogndal,Aalesund,1,1
+2014-09-14,1414,NOR,Start,Stabaek,2,3
+2014-09-14,1414,NOR,Valerenga,Haugesund,4,1
+2014-09-19,1414,NOR,Brann,Sandnes,1,1
+2014-09-20,1414,NOR,Bodo/Glimt,Stromsgodset,0,4
+2014-09-20,1414,NOR,Valerenga,Molde,0,2
+2014-09-21,1414,NOR,Aalesund,Stabaek,3,0
+2014-09-21,1414,NOR,Haugesund,Rosenborg,2,1
+2014-09-21,1414,NOR,Lillestrom,Odd,2,0
+2014-09-21,1414,NOR,Sarpsborg 08,Sogndal,3,1
+2014-09-21,1414,NOR,Viking,Start,0,1
+2014-09-26,1414,NOR,Sandnes,Valerenga,2,1
+2014-09-27,1414,NOR,Molde,Bodo/Glimt,2,1
+2014-09-27,1414,NOR,Sogndal,Haugesund,4,1
+2014-09-27,1414,NOR,Stromsgodset,Viking,2,1
+2014-09-28,1414,NOR,Odd,Brann,4,0
+2014-09-28,1414,NOR,Rosenborg,Aalesund,3,0
+2014-09-28,1414,NOR,Stabaek,Lillestrom,2,0
+2014-09-28,1414,NOR,Start,Sarpsborg 08,3,1
+2014-10-03,1414,NOR,Lillestrom,Rosenborg,0,2
+2014-10-04,1414,NOR,Aalesund,Odd,2,2
+2014-10-04,1414,NOR,Viking,Molde,1,2
+2014-10-05,1414,NOR,Bodo/Glimt,Stabaek,1,1
+2014-10-05,1414,NOR,Brann,Start,1,2
+2014-10-05,1414,NOR,Haugesund,Sandnes,2,0
+2014-10-05,1414,NOR,Sarpsborg 08,Stromsgodset,0,0
+2014-10-05,1414,NOR,Valerenga,Sogndal,2,1
+2014-10-17,1414,NOR,Brann,Sarpsborg 08,1,2
+2014-10-18,1414,NOR,Molde,Haugesund,1,2
+2014-10-18,1414,NOR,Start,Aalesund,1,2
+2014-10-19,1414,NOR,Odd,Bodo/Glimt,4,3
+2014-10-19,1414,NOR,Rosenborg,Valerenga,3,2
+2014-10-19,1414,NOR,Sandnes,Sogndal,1,0
+2014-10-19,1414,NOR,Stabaek,Viking,1,1
+2014-10-19,1414,NOR,Stromsgodset,Lillestrom,2,1
+2014-10-24,1414,NOR,Valerenga,Odd,1,2
+2014-10-25,1414,NOR,Haugesund,Stromsgodset,3,2
+2014-10-26,1414,NOR,Bodo/Glimt,Brann,2,1
+2014-10-26,1414,NOR,Lillestrom,Start,4,1
+2014-10-26,1414,NOR,Rosenborg,Sandnes,3,1
+2014-10-26,1414,NOR,Sarpsborg 08,Stabaek,1,1
+2014-10-26,1414,NOR,Sogndal,Molde,0,1
+2014-10-26,1414,NOR,Viking,Aalesund,1,2
+2014-11-02,1414,NOR,Aalesund,Valerenga,4,1
+2014-11-02,1414,NOR,Brann,Sogndal,2,1
+2014-11-02,1414,NOR,Lillestrom,Bodo/Glimt,4,0
+2014-11-02,1414,NOR,Odd,Rosenborg,0,1
+2014-11-02,1414,NOR,Stabaek,Haugesund,0,1
+2014-11-02,1414,NOR,Start,Sandnes,3,3
+2014-11-02,1414,NOR,Stromsgodset,Molde,2,0
+2014-11-02,1414,NOR,Viking,Sarpsborg 08,1,0
+2014-11-09,1414,NOR,Bodo/Glimt,Viking,3,2
+2014-11-09,1414,NOR,Haugesund,Brann,2,3
+2014-11-09,1414,NOR,Molde,Odd,2,0
+2014-11-09,1414,NOR,Rosenborg,Stromsgodset,4,1
+2014-11-09,1414,NOR,Sandnes,Aalesund,1,2
+2014-11-09,1414,NOR,Sarpsborg 08,Lillestrom,3,2
+2014-11-09,1414,NOR,Sogndal,Stabaek,0,2
+2014-11-09,1414,NOR,Valerenga,Start,1,0
+2014-11-23,1414,NOR,Brann,Mjondalen,1,1
+2014-11-26,1414,NOR,Mjondalen,Brann,3,0
+2015-04-06,1515,NOR,Mjondalen,Viking,1,0
+2015-04-06,1515,NOR,Rosenborg,Aalesund,5,0
+2015-04-06,1515,NOR,Sandefjord,Bodo/Glimt,3,1
+2015-04-06,1515,NOR,Stabaek,Haugesund,1,1
+2015-04-06,1515,NOR,Tromso,Sarpsborg 08,0,1
+2015-04-06,1515,NOR,Valerenga,Stromsgodset,3,1
+2015-04-07,1515,NOR,Lillestrom,Start,1,1
+2015-04-07,1515,NOR,Molde,Odd,1,2
+2015-04-10,1515,NOR,Sarpsborg 08,Valerenga,1,1
+2015-04-11,1515,NOR,Bodo/Glimt,Molde,1,3
+2015-04-11,1515,NOR,Stromsgodset,Mjondalen,1,1
+2015-04-12,1515,NOR,Aalesund,Lillestrom,1,1
+2015-04-12,1515,NOR,Haugesund,Rosenborg,0,6
+2015-04-12,1515,NOR,Odd,Stabaek,2,0
+2015-04-12,1515,NOR,Start,Sandefjord,2,1
+2015-04-12,1515,NOR,Viking,Tromso,3,1
+2015-04-17,1515,NOR,Valerenga,Haugesund,2,0
+2015-04-18,1515,NOR,Mjondalen,Start,1,1
+2015-04-18,1515,NOR,Rosenborg,Stromsgodset,1,1
+2015-04-19,1515,NOR,Bodo/Glimt,Odd,2,4
+2015-04-19,1515,NOR,Molde,Aalesund,5,1
+2015-04-19,1515,NOR,Sandefjord,Sarpsborg 08,1,0
+2015-04-19,1515,NOR,Stabaek,Viking,1,0
+2015-04-19,1515,NOR,Tromso,Lillestrom,1,1
+2015-04-24,1515,NOR,Start,Valerenga,2,3
+2015-04-25,1515,NOR,Odd,Mjondalen,2,2
+2015-04-25,1515,NOR,Viking,Rosenborg,1,4
+2015-04-26,1515,NOR,Aalesund,Tromso,0,2
+2015-04-26,1515,NOR,Haugesund,Molde,0,0
+2015-04-26,1515,NOR,Lillestrom,Stabaek,0,2
+2015-04-26,1515,NOR,Sarpsborg 08,Bodo/Glimt,2,2
+2015-04-26,1515,NOR,Stromsgodset,Sandefjord,3,2
+2015-04-29,1515,NOR,Molde,Stromsgodset,3,1
+2015-04-29,1515,NOR,Sarpsborg 08,Odd,2,0
+2015-04-30,1515,NOR,Bodo/Glimt,Haugesund,1,2
+2015-04-30,1515,NOR,Mjondalen,Lillestrom,1,4
+2015-04-30,1515,NOR,Rosenborg,Start,3,2
+2015-04-30,1515,NOR,Sandefjord,Viking,1,2
+2015-04-30,1515,NOR,Tromso,Stabaek,0,2
+2015-04-30,1515,NOR,Valerenga,Aalesund,1,2
+2015-05-02,1515,NOR,Stromsgodset,Sarpsborg 08,1,1
+2015-05-03,1515,NOR,Aalesund,Bodo/Glimt,2,0
+2015-05-03,1515,NOR,Haugesund,Sandefjord,2,1
+2015-05-03,1515,NOR,Lillestrom,Valerenga,1,1
+2015-05-03,1515,NOR,Odd,Rosenborg,1,2
+2015-05-03,1515,NOR,Stabaek,Mjondalen,1,0
+2015-05-03,1515,NOR,Start,Tromso,3,1
+2015-05-04,1515,NOR,Viking,Molde,2,1
+2015-05-09,1515,NOR,Mjondalen,Tromso,4,3
+2015-05-09,1515,NOR,Rosenborg,Lillestrom,3,0
+2015-05-09,1515,NOR,Valerenga,Stabaek,0,2
+2015-05-10,1515,NOR,Bodo/Glimt,Stromsgodset,3,5
+2015-05-10,1515,NOR,Molde,Start,4,0
+2015-05-10,1515,NOR,Sandefjord,Aalesund,1,3
+2015-05-10,1515,NOR,Sarpsborg 08,Haugesund,3,0
+2015-05-10,1515,NOR,Viking,Odd,1,1
+2015-05-12,1515,NOR,Mjondalen,Rosenborg,3,2
+2015-05-12,1515,NOR,Tromso,Valerenga,4,5
+2015-05-13,1515,NOR,Aalesund,Sarpsborg 08,2,2
+2015-05-13,1515,NOR,Haugesund,Viking,0,2
+2015-05-13,1515,NOR,Lillestrom,Molde,2,1
+2015-05-13,1515,NOR,Odd,Stromsgodset,2,0
+2015-05-13,1515,NOR,Stabaek,Sandefjord,4,0
+2015-05-13,1515,NOR,Start,Bodo/Glimt,1,1
+2015-05-16,1515,NOR,Bodo/Glimt,Tromso,1,0
+2015-05-16,1515,NOR,Molde,Stabaek,3,3
+2015-05-16,1515,NOR,Odd,Haugesund,0,0
+2015-05-16,1515,NOR,Rosenborg,Sandefjord,5,1
+2015-05-16,1515,NOR,Sarpsborg 08,Lillestrom,1,3
+2015-05-16,1515,NOR,Stromsgodset,Aalesund,3,1
+2015-05-16,1515,NOR,Valerenga,Mjondalen,4,2
+2015-05-16,1515,NOR,Viking,Start,1,0
+2015-05-22,1515,NOR,Mjondalen,Molde,0,3
+2015-05-24,1515,NOR,Haugesund,Stromsgodset,4,0
+2015-05-25,1515,NOR,Aalesund,Viking,0,4
+2015-05-25,1515,NOR,Lillestrom,Bodo/Glimt,3,0
+2015-05-25,1515,NOR,Sandefjord,Valerenga,0,3
+2015-05-25,1515,NOR,Stabaek,Rosenborg,2,3
+2015-05-25,1515,NOR,Start,Sarpsborg 08,1,2
+2015-05-25,1515,NOR,Tromso,Odd,2,2
+2015-05-29,1515,NOR,Odd,Aalesund,1,1
+2015-05-30,1515,NOR,Haugesund,Start,0,2
+2015-05-30,1515,NOR,Molde,Sandefjord,6,1
+2015-05-31,1515,NOR,Bodo/Glimt,Mjondalen,5,1
+2015-05-31,1515,NOR,Rosenborg,Tromso,1,1
+2015-05-31,1515,NOR,Sarpsborg 08,Stabaek,0,1
+2015-05-31,1515,NOR,Stromsgodset,Lillestrom,2,0
+2015-05-31,1515,NOR,Viking,Valerenga,3,4
+2015-06-05,1515,NOR,Tromso,Molde,2,0
+2015-06-06,1515,NOR,Sandefjord,Odd,0,1
+2015-06-06,1515,NOR,Valerenga,Rosenborg,1,2
+2015-06-07,1515,NOR,Aalesund,Haugesund,2,1
+2015-06-07,1515,NOR,Lillestrom,Viking,2,1
+2015-06-07,1515,NOR,Mjondalen,Sarpsborg 08,1,1
+2015-06-07,1515,NOR,Stabaek,Bodo/Glimt,3,2
+2015-06-07,1515,NOR,Start,Stromsgodset,0,1
+2015-06-19,1515,NOR,Odd,Start,3,3
+2015-06-20,1515,NOR,Molde,Valerenga,0,0
+2015-06-20,1515,NOR,Sandefjord,Lillestrom,0,0
+2015-06-21,1515,NOR,Aalesund,Stabaek,1,1
+2015-06-21,1515,NOR,Bodo/Glimt,Viking,0,3
+2015-06-21,1515,NOR,Haugesund,Mjondalen,1,1
+2015-06-21,1515,NOR,Sarpsborg 08,Rosenborg,0,2
+2015-06-21,1515,NOR,Stromsgodset,Tromso,2,1
+2015-06-27,1515,NOR,Rosenborg,Molde,1,1
+2015-06-27,1515,NOR,Stabaek,Stromsgodset,3,2
+2015-06-27,1515,NOR,Start,Aalesund,3,1
+2015-06-28,1515,NOR,Lillestrom,Odd,1,1
+2015-06-28,1515,NOR,Mjondalen,Sandefjord,2,2
+2015-06-28,1515,NOR,Tromso,Haugesund,2,0
+2015-06-28,1515,NOR,Valerenga,Bodo/Glimt,1,2
+2015-06-28,1515,NOR,Viking,Sarpsborg 08,3,1
+2015-07-03,1515,NOR,Sarpsborg 08,Molde,1,4
+2015-07-04,1515,NOR,Haugesund,Lillestrom,3,3
+2015-07-04,1515,NOR,Start,Stabaek,4,1
+2015-07-05,1515,NOR,Aalesund,Mjondalen,4,2
+2015-07-05,1515,NOR,Bodo/Glimt,Rosenborg,1,0
+2015-07-05,1515,NOR,Odd,Valerenga,1,2
+2015-07-05,1515,NOR,Sandefjord,Tromso,1,1
+2015-07-05,1515,NOR,Stromsgodset,Viking,4,1
+2015-07-10,1515,NOR,Molde,Haugesund,0,1
+2015-07-11,1515,NOR,Valerenga,Sandefjord,2,0
+2015-07-11,1515,NOR,Viking,Aalesund,4,1
+2015-07-12,1515,NOR,Lillestrom,Stromsgodset,1,2
+2015-07-12,1515,NOR,Mjondalen,Bodo/Glimt,1,2
+2015-07-12,1515,NOR,Rosenborg,Odd,3,0
+2015-07-12,1515,NOR,Stabaek,Sarpsborg 08,0,0
+2015-07-12,1515,NOR,Tromso,Start,2,1
+2015-07-18,1515,NOR,Molde,Bodo/Glimt,1,2
+2015-07-24,1515,NOR,Start,Viking,0,3
+2015-07-25,1515,NOR,Haugesund,Stabaek,2,2
+2015-07-26,1515,NOR,Bodo/Glimt,Aalesund,1,0
+2015-07-26,1515,NOR,Odd,Tromso,3,2
+2015-07-26,1515,NOR,Sandefjord,Rosenborg,1,2
+2015-07-26,1515,NOR,Sarpsborg 08,Mjondalen,2,2
+2015-07-27,1515,NOR,Valerenga,Lillestrom,2,0
+2015-07-31,1515,NOR,Viking,Haugesund,0,1
+2015-08-01,1515,NOR,Stabaek,Valerenga,2,0
+2015-08-02,1515,NOR,Aalesund,Start,2,0
+2015-08-02,1515,NOR,Lillestrom,Sandefjord,3,2
+2015-08-02,1515,NOR,Mjondalen,Odd,3,6
+2015-08-02,1515,NOR,Rosenborg,Sarpsborg 08,3,2
+2015-08-02,1515,NOR,Tromso,Stromsgodset,0,6
+2015-08-07,1515,NOR,Sandefjord,Mjondalen,2,1
+2015-08-07,1515,NOR,Valerenga,Tromso,1,0
+2015-08-08,1515,NOR,Sarpsborg 08,Viking,0,2
+2015-08-09,1515,NOR,Bodo/Glimt,Start,5,1
+2015-08-09,1515,NOR,Haugesund,Aalesund,3,1
+2015-08-09,1515,NOR,Lillestrom,Rosenborg,0,5
+2015-08-09,1515,NOR,Odd,Molde,2,2
+2015-08-09,1515,NOR,Stromsgodset,Stabaek,0,2
+2015-08-14,1515,NOR,Aalesund,Stromsgodset,2,1
+2015-08-15,1515,NOR,Molde,Sarpsborg 08,0,0
+2015-08-15,1515,NOR,Viking,Bodo/Glimt,2,1
+2015-08-16,1515,NOR,Mjondalen,Haugesund,2,1
+2015-08-16,1515,NOR,Rosenborg,Valerenga,2,0
+2015-08-16,1515,NOR,Stabaek,Lillestrom,3,2
+2015-08-16,1515,NOR,Start,Odd,0,4
+2015-08-16,1515,NOR,Tromso,Sandefjord,1,1
+2015-08-21,1515,NOR,Lillestrom,Tromso,1,0
+2015-08-22,1515,NOR,Sandefjord,Stabaek,2,4
+2015-08-23,1515,NOR,Haugesund,Bodo/Glimt,2,4
+2015-08-23,1515,NOR,Odd,Viking,1,0
+2015-08-23,1515,NOR,Rosenborg,Mjondalen,1,0
+2015-08-23,1515,NOR,Sarpsborg 08,Aalesund,3,1
+2015-08-23,1515,NOR,Stromsgodset,Start,2,1
+2015-08-23,1515,NOR,Valerenga,Molde,0,1
+2015-08-28,1515,NOR,Aalesund,Valerenga,2,0
+2015-08-29,1515,NOR,Viking,Sandefjord,2,0
+2015-08-30,1515,NOR,Bodo/Glimt,Sarpsborg 08,3,1
+2015-08-30,1515,NOR,Mjondalen,Stromsgodset,2,4
+2015-08-30,1515,NOR,Molde,Lillestrom,2,2
+2015-08-30,1515,NOR,Stabaek,Odd,1,2
+2015-08-30,1515,NOR,Start,Haugesund,1,3
+2015-08-30,1515,NOR,Tromso,Rosenborg,1,1
+2015-09-11,1515,NOR,Stromsgodset,Haugesund,5,0
+2015-09-12,1515,NOR,Sandefjord,Molde,2,4
+2015-09-13,1515,NOR,Lillestrom,Aalesund,3,1
+2015-09-13,1515,NOR,Odd,Bodo/Glimt,2,1
+2015-09-13,1515,NOR,Rosenborg,Stabaek,1,0
+2015-09-13,1515,NOR,Sarpsborg 08,Start,3,1
+2015-09-13,1515,NOR,Tromso,Mjondalen,0,0
+2015-09-13,1515,NOR,Valerenga,Viking,2,4
+2015-09-18,1515,NOR,Viking,Stromsgodset,1,1
+2015-09-19,1515,NOR,Stabaek,Tromso,2,1
+2015-09-19,1515,NOR,Start,Lillestrom,0,0
+2015-09-20,1515,NOR,Aalesund,Odd,1,3
+2015-09-20,1515,NOR,Bodo/Glimt,Sandefjord,2,1
+2015-09-20,1515,NOR,Haugesund,Sarpsborg 08,1,1
+2015-09-20,1515,NOR,Mjondalen,Valerenga,0,1
+2015-09-20,1515,NOR,Molde,Rosenborg,1,0
+2015-09-23,1515,NOR,Stromsgodset,Molde,1,0
+2015-09-25,1515,NOR,Valerenga,Start,1,1
+2015-09-26,1515,NOR,Lillestrom,Mjondalen,3,0
+2015-09-26,1515,NOR,Stromsgodset,Bodo/Glimt,3,1
+2015-09-27,1515,NOR,Odd,Sarpsborg 08,1,1
+2015-09-27,1515,NOR,Rosenborg,Viking,2,0
+2015-09-27,1515,NOR,Sandefjord,Haugesund,0,1
+2015-09-27,1515,NOR,Stabaek,Molde,1,0
+2015-09-27,1515,NOR,Tromso,Aalesund,1,1
+2015-10-02,1515,NOR,Bodo/Glimt,Valerenga,1,1
+2015-10-03,1515,NOR,Mjondalen,Stabaek,1,4
+2015-10-03,1515,NOR,Sarpsborg 08,Stromsgodset,1,6
+2015-10-04,1515,NOR,Aalesund,Sandefjord,2,1
+2015-10-04,1515,NOR,Haugesund,Odd,1,2
+2015-10-04,1515,NOR,Molde,Tromso,4,0
+2015-10-04,1515,NOR,Start,Rosenborg,0,4
+2015-10-04,1515,NOR,Viking,Lillestrom,1,0
+2015-10-16,1515,NOR,Stromsgodset,Odd,2,1
+2015-10-17,1515,NOR,Sandefjord,Start,4,1
+2015-10-17,1515,NOR,Stabaek,Aalesund,1,4
+2015-10-18,1515,NOR,Lillestrom,Haugesund,2,0
+2015-10-18,1515,NOR,Molde,Mjondalen,3,1
+2015-10-18,1515,NOR,Rosenborg,Bodo/Glimt,1,1
+2015-10-18,1515,NOR,Tromso,Viking,3,1
+2015-10-18,1515,NOR,Valerenga,Sarpsborg 08,3,1
+2015-10-23,1515,NOR,Start,Mjondalen,1,1
+2015-10-24,1515,NOR,Haugesund,Valerenga,0,1
+2015-10-24,1515,NOR,Sarpsborg 08,Tromso,1,0
+2015-10-25,1515,NOR,Aalesund,Molde,1,2
+2015-10-25,1515,NOR,Bodo/Glimt,Lillestrom,0,3
+2015-10-25,1515,NOR,Odd,Sandefjord,4,3
+2015-10-25,1515,NOR,Stromsgodset,Rosenborg,3,3
+2015-10-25,1515,NOR,Viking,Stabaek,2,1
+2015-11-01,1515,NOR,Lillestrom,Sarpsborg 08,3,1
+2015-11-01,1515,NOR,Mjondalen,Aalesund,1,2
+2015-11-01,1515,NOR,Molde,Viking,4,1
+2015-11-01,1515,NOR,Rosenborg,Haugesund,4,3
+2015-11-01,1515,NOR,Sandefjord,Stromsgodset,1,2
+2015-11-01,1515,NOR,Stabaek,Start,3,2
+2015-11-01,1515,NOR,Tromso,Bodo/Glimt,3,1
+2015-11-01,1515,NOR,Valerenga,Odd,2,2
+2015-11-08,1515,NOR,Aalesund,Rosenborg,0,1
+2015-11-08,1515,NOR,Bodo/Glimt,Stabaek,6,1
+2015-11-08,1515,NOR,Haugesund,Tromso,0,1
+2015-11-08,1515,NOR,Odd,Lillestrom,5,0
+2015-11-08,1515,NOR,Sarpsborg 08,Sandefjord,2,1
+2015-11-08,1515,NOR,Start,Molde,0,3
+2015-11-08,1515,NOR,Stromsgodset,Valerenga,2,2
+2015-11-08,1515,NOR,Viking,Mjondalen,3,1
+2015-11-21,1515,NOR,Jerv,Start,1,1
+2015-11-25,1515,NOR,Start,Jerv,3,1
+2016-03-11,1616,NOR,Aalesund,Stabaek,1,0
+2016-03-12,1616,NOR,Odd,Rosenborg,1,0
+2016-03-13,1616,NOR,Bodo/Glimt,Sogndal,2,0
+2016-03-13,1616,NOR,Molde,Tromso,1,1
+2016-03-13,1616,NOR,Sarpsborg 08,Haugesund,0,1
+2016-03-13,1616,NOR,Start,Lillestrom,1,1
+2016-03-13,1616,NOR,Stromsgodset,Brann,2,2
+2016-03-14,1616,NOR,Valerenga,Viking,0,2
+2016-03-18,1616,NOR,Tromso,Start,0,0
+2016-03-19,1616,NOR,Haugesund,Aalesund,3,0
+2016-03-19,1616,NOR,Rosenborg,Stromsgodset,1,0
+2016-03-20,1616,NOR,Brann,Odd,0,0
+2016-03-20,1616,NOR,Lillestrom,Bodo/Glimt,1,1
+2016-03-20,1616,NOR,Sogndal,Valerenga,1,0
+2016-03-20,1616,NOR,Stabaek,Molde,1,2
+2016-03-20,1616,NOR,Viking,Sarpsborg 08,0,0
+2016-04-01,1616,NOR,Molde,Lillestrom,4,2
+2016-04-02,1616,NOR,Start,Viking,0,1
+2016-04-02,1616,NOR,Valerenga,Rosenborg,0,2
+2016-04-03,1616,NOR,Aalesund,Brann,1,2
+2016-04-03,1616,NOR,Bodo/Glimt,Stabaek,3,1
+2016-04-03,1616,NOR,Odd,Tromso,0,0
+2016-04-03,1616,NOR,Sarpsborg 08,Sogndal,0,0
+2016-04-03,1616,NOR,Stromsgodset,Haugesund,2,0
+2016-04-08,1616,NOR,Sogndal,Haugesund,1,0
+2016-04-09,1616,NOR,Lillestrom,Sarpsborg 08,4,0
+2016-04-09,1616,NOR,Stabaek,Valerenga,2,1
+2016-04-10,1616,NOR,Brann,Bodo/Glimt,1,0
+2016-04-10,1616,NOR,Rosenborg,Aalesund,1,0
+2016-04-10,1616,NOR,Start,Molde,1,1
+2016-04-10,1616,NOR,Tromso,Stromsgodset,2,0
+2016-04-10,1616,NOR,Viking,Odd,0,2
+2016-04-15,1616,NOR,Haugesund,Lillestrom,2,2
+2016-04-16,1616,NOR,Rosenborg,Brann,3,0
+2016-04-16,1616,NOR,Stromsgodset,Sogndal,2,1
+2016-04-17,1616,NOR,Aalesund,Viking,1,2
+2016-04-17,1616,NOR,Bodo/Glimt,Molde,1,2
+2016-04-17,1616,NOR,Odd,Start,3,0
+2016-04-17,1616,NOR,Sarpsborg 08,Stabaek,1,1
+2016-04-17,1616,NOR,Valerenga,Tromso,4,0
+2016-04-20,1616,NOR,Bodo/Glimt,Haugesund,3,4
+2016-04-20,1616,NOR,Sogndal,Odd,0,1
+2016-04-20,1616,NOR,Stabaek,Stromsgodset,0,1
+2016-04-20,1616,NOR,Viking,Brann,0,1
+2016-04-21,1616,NOR,Lillestrom,Aalesund,1,1
+2016-04-21,1616,NOR,Molde,Valerenga,4,0
+2016-04-21,1616,NOR,Start,Sarpsborg 08,1,4
+2016-04-21,1616,NOR,Tromso,Rosenborg,1,2
+2016-04-23,1616,NOR,Brann,Sogndal,2,0
+2016-04-23,1616,NOR,Stromsgodset,Bodo/Glimt,2,0
+2016-04-24,1616,NOR,Aalesund,Tromso,6,0
+2016-04-24,1616,NOR,Odd,Lillestrom,1,3
+2016-04-24,1616,NOR,Rosenborg,Viking,4,0
+2016-04-24,1616,NOR,Sarpsborg 08,Molde,4,0
+2016-04-24,1616,NOR,Valerenga,Start,2,0
+2016-04-25,1616,NOR,Haugesund,Stabaek,3,1
+2016-04-30,1616,NOR,Lillestrom,Valerenga,2,0
+2016-04-30,1616,NOR,Molde,Aalesund,1,0
+2016-05-01,1616,NOR,Sogndal,Rosenborg,1,1
+2016-05-01,1616,NOR,Stabaek,Odd,1,2
+2016-05-01,1616,NOR,Start,Stromsgodset,2,2
+2016-05-01,1616,NOR,Tromso,Brann,1,0
+2016-05-01,1616,NOR,Viking,Haugesund,3,2
+2016-05-02,1616,NOR,Bodo/Glimt,Sarpsborg 08,0,2
+2016-05-07,1616,NOR,Brann,Start,1,0
+2016-05-07,1616,NOR,Stromsgodset,Lillestrom,3,1
+2016-05-07,1616,NOR,Viking,Tromso,2,0
+2016-05-08,1616,NOR,Aalesund,Sogndal,1,4
+2016-05-08,1616,NOR,Haugesund,Molde,3,3
+2016-05-08,1616,NOR,Odd,Bodo/Glimt,2,1
+2016-05-08,1616,NOR,Rosenborg,Stabaek,3,1
+2016-05-08,1616,NOR,Valerenga,Sarpsborg 08,3,0
+2016-05-11,1616,NOR,Bodo/Glimt,Valerenga,0,0
+2016-05-11,1616,NOR,Haugesund,Odd,3,1
+2016-05-11,1616,NOR,Lillestrom,Brann,1,0
+2016-05-11,1616,NOR,Molde,Stromsgodset,4,2
+2016-05-12,1616,NOR,Sarpsborg 08,Aalesund,1,0
+2016-05-12,1616,NOR,Sogndal,Tromso,0,0
+2016-05-12,1616,NOR,Stabaek,Viking,1,0
+2016-05-12,1616,NOR,Start,Rosenborg,0,2
+2016-05-16,1616,NOR,Aalesund,Start,1,1
+2016-05-16,1616,NOR,Brann,Stabaek,1,0
+2016-05-16,1616,NOR,Odd,Molde,2,0
+2016-05-16,1616,NOR,Rosenborg,Lillestrom,2,1
+2016-05-16,1616,NOR,Stromsgodset,Sarpsborg 08,4,0
+2016-05-16,1616,NOR,Tromso,Bodo/Glimt,1,2
+2016-05-16,1616,NOR,Valerenga,Haugesund,0,1
+2016-05-16,1616,NOR,Viking,Sogndal,0,0
+2016-05-20,1616,NOR,Sarpsborg 08,Odd,0,0
+2016-05-21,1616,NOR,Molde,Brann,2,0
+2016-05-21,1616,NOR,Stabaek,Tromso,0,3
+2016-05-22,1616,NOR,Bodo/Glimt,Aalesund,0,1
+2016-05-22,1616,NOR,Haugesund,Rosenborg,1,1
+2016-05-22,1616,NOR,Lillestrom,Viking,1,2
+2016-05-22,1616,NOR,Sogndal,Start,2,2
+2016-05-22,1616,NOR,Stromsgodset,Valerenga,3,2
+2016-05-28,1616,NOR,Rosenborg,Molde,3,1
+2016-05-28,1616,NOR,Tromso,Sarpsborg 08,1,2
+2016-05-29,1616,NOR,Aalesund,Valerenga,2,2
+2016-05-29,1616,NOR,Brann,Haugesund,1,0
+2016-05-29,1616,NOR,Odd,Stromsgodset,2,1
+2016-05-29,1616,NOR,Sogndal,Lillestrom,2,2
+2016-05-29,1616,NOR,Start,Stabaek,0,5
+2016-05-29,1616,NOR,Viking,Bodo/Glimt,2,0
+2016-07-01,1616,NOR,Lillestrom,Tromso,2,4
+2016-07-02,1616,NOR,Bodo/Glimt,Rosenborg,0,0
+2016-07-02,1616,NOR,Haugesund,Start,2,1
+2016-07-03,1616,NOR,Molde,Viking,0,1
+2016-07-03,1616,NOR,Sarpsborg 08,Brann,1,0
+2016-07-03,1616,NOR,Stabaek,Sogndal,0,1
+2016-07-03,1616,NOR,Valerenga,Odd,0,1
+2016-07-04,1616,NOR,Stromsgodset,Aalesund,4,2
+2016-07-08,1616,NOR,Start,Bodo/Glimt,1,4
+2016-07-09,1616,NOR,Brann,Valerenga,4,1
+2016-07-09,1616,NOR,Rosenborg,Sarpsborg 08,5,2
+2016-07-09,1616,NOR,Sogndal,Molde,4,3
+2016-07-09,1616,NOR,Tromso,Haugesund,2,2
+2016-07-09,1616,NOR,Viking,Stromsgodset,0,1
+2016-07-10,1616,NOR,Lillestrom,Stabaek,1,2
+2016-07-10,1616,NOR,Odd,Aalesund,4,1
+2016-07-15,1616,NOR,Valerenga,Sogndal,1,1
+2016-07-16,1616,NOR,Aalesund,Rosenborg,1,1
+2016-07-16,1616,NOR,Haugesund,Viking,4,1
+2016-07-17,1616,NOR,Bodo/Glimt,Odd,2,1
+2016-07-17,1616,NOR,Molde,Start,2,2
+2016-07-17,1616,NOR,Sarpsborg 08,Lillestrom,3,0
+2016-07-17,1616,NOR,Stabaek,Brann,1,1
+2016-07-17,1616,NOR,Stromsgodset,Tromso,1,0
+2016-07-22,1616,NOR,Brann,Aalesund,6,0
+2016-07-23,1616,NOR,Molde,Sarpsborg 08,0,1
+2016-07-23,1616,NOR,Rosenborg,Haugesund,6,0
+2016-07-24,1616,NOR,Lillestrom,Stromsgodset,2,0
+2016-07-24,1616,NOR,Odd,Viking,2,2
+2016-07-24,1616,NOR,Sogndal,Bodo/Glimt,2,2
+2016-07-24,1616,NOR,Start,Valerenga,2,4
+2016-07-24,1616,NOR,Tromso,Stabaek,2,2
+2016-07-29,1616,NOR,Sarpsborg 08,Start,1,0
+2016-07-31,1616,NOR,Aalesund,Lillestrom,2,0
+2016-07-31,1616,NOR,Bodo/Glimt,Tromso,0,3
+2016-07-31,1616,NOR,Haugesund,Sogndal,0,1
+2016-07-31,1616,NOR,Odd,Brann,1,3
+2016-07-31,1616,NOR,Stromsgodset,Stabaek,2,2
+2016-08-01,1616,NOR,Valerenga,Molde,3,0
+2016-08-05,1616,NOR,Tromso,Aalesund,1,2
+2016-08-06,1616,NOR,Lillestrom,Rosenborg,3,4
+2016-08-06,1616,NOR,Molde,Bodo/Glimt,3,2
+2016-08-07,1616,NOR,Brann,Stromsgodset,1,0
+2016-08-07,1616,NOR,Sarpsborg 08,Valerenga,0,2
+2016-08-07,1616,NOR,Sogndal,Viking,1,2
+2016-08-07,1616,NOR,Stabaek,Haugesund,0,1
+2016-08-07,1616,NOR,Start,Odd,1,2
+2016-08-11,1616,NOR,Viking,Rosenborg,0,2
+2016-08-13,1616,NOR,Bodo/Glimt,Lillestrom,1,1
+2016-08-13,1616,NOR,Valerenga,Brann,3,2
+2016-08-14,1616,NOR,Aalesund,Molde,0,2
+2016-08-14,1616,NOR,Haugesund,Tromso,2,1
+2016-08-14,1616,NOR,Odd,Sarpsborg 08,0,0
+2016-08-14,1616,NOR,Rosenborg,Sogndal,3,1
+2016-08-14,1616,NOR,Stromsgodset,Start,1,1
+2016-08-14,1616,NOR,Viking,Stabaek,2,2
+2016-08-19,1616,NOR,Valerenga,Bodo/Glimt,1,1
+2016-08-20,1616,NOR,Lillestrom,Haugesund,1,1
+2016-08-21,1616,NOR,Brann,Rosenborg,1,1
+2016-08-21,1616,NOR,Molde,Odd,4,2
+2016-08-21,1616,NOR,Sarpsborg 08,Stromsgodset,1,0
+2016-08-21,1616,NOR,Stabaek,Aalesund,3,0
+2016-08-21,1616,NOR,Start,Sogndal,1,1
+2016-08-21,1616,NOR,Tromso,Viking,2,1
+2016-08-26,1616,NOR,Aalesund,Sarpsborg 08,2,2
+2016-08-27,1616,NOR,Haugesund,Brann,3,2
+2016-08-27,1616,NOR,Stromsgodset,Molde,0,2
+2016-08-28,1616,NOR,Bodo/Glimt,Start,2,0
+2016-08-28,1616,NOR,Odd,Valerenga,1,2
+2016-08-28,1616,NOR,Rosenborg,Tromso,3,1
+2016-08-28,1616,NOR,Sogndal,Stabaek,1,1
+2016-08-28,1616,NOR,Viking,Lillestrom,2,2
+2016-09-09,1616,NOR,Start,Aalesund,1,4
+2016-09-10,1616,NOR,Brann,Viking,0,0
+2016-09-10,1616,NOR,Valerenga,Stromsgodset,1,1
+2016-09-11,1616,NOR,Lillestrom,Odd,2,4
+2016-09-11,1616,NOR,Molde,Haugesund,0,0
+2016-09-11,1616,NOR,Sarpsborg 08,Bodo/Glimt,1,2
+2016-09-11,1616,NOR,Stabaek,Rosenborg,0,2
+2016-09-11,1616,NOR,Tromso,Sogndal,2,0
+2016-09-16,1616,NOR,Haugesund,Valerenga,1,1
+2016-09-17,1616,NOR,Tromso,Lillestrom,2,1
+2016-09-17,1616,NOR,Viking,Molde,1,0
+2016-09-18,1616,NOR,Aalesund,Stromsgodset,4,2
+2016-09-18,1616,NOR,Bodo/Glimt,Brann,1,3
+2016-09-18,1616,NOR,Odd,Stabaek,0,1
+2016-09-18,1616,NOR,Rosenborg,Start,2,0
+2016-09-18,1616,NOR,Sogndal,Sarpsborg 08,3,0
+2016-09-24,1616,NOR,Molde,Rosenborg,1,3
+2016-09-24,1616,NOR,Sarpsborg 08,Viking,1,0
+2016-09-25,1616,NOR,Brann,Tromso,1,0
+2016-09-25,1616,NOR,Lillestrom,Sogndal,1,2
+2016-09-25,1616,NOR,Start,Haugesund,1,0
+2016-09-25,1616,NOR,Stromsgodset,Odd,1,1
+2016-09-25,1616,NOR,Valerenga,Aalesund,0,1
+2016-09-26,1616,NOR,Stabaek,Bodo/Glimt,1,0
+2016-09-30,1616,NOR,Bodo/Glimt,Stromsgodset,4,2
+2016-10-01,1616,NOR,Sogndal,Brann,0,0
+2016-10-01,1616,NOR,Stabaek,Lillestrom,1,2
+2016-10-02,1616,NOR,Aalesund,Odd,1,0
+2016-10-02,1616,NOR,Haugesund,Sarpsborg 08,1,1
+2016-10-02,1616,NOR,Rosenborg,Valerenga,3,1
+2016-10-02,1616,NOR,Tromso,Molde,0,2
+2016-10-02,1616,NOR,Viking,Start,2,0
+2016-10-14,1616,NOR,Stromsgodset,Viking,1,1
+2016-10-15,1616,NOR,Aalesund,Bodo/Glimt,1,0
+2016-10-15,1616,NOR,Sarpsborg 08,Rosenborg,2,2
+2016-10-16,1616,NOR,Brann,Lillestrom,1,2
+2016-10-16,1616,NOR,Molde,Sogndal,0,0
+2016-10-16,1616,NOR,Odd,Haugesund,2,1
+2016-10-16,1616,NOR,Start,Tromso,2,1
+2016-10-16,1616,NOR,Valerenga,Stabaek,1,1
+2016-10-21,1616,NOR,Viking,Aalesund,2,3
+2016-10-22,1616,NOR,Brann,Molde,2,1
+2016-10-22,1616,NOR,Stabaek,Sarpsborg 08,1,2
+2016-10-23,1616,NOR,Haugesund,Bodo/Glimt,2,1
+2016-10-23,1616,NOR,Lillestrom,Start,1,1
+2016-10-23,1616,NOR,Rosenborg,Odd,1,2
+2016-10-23,1616,NOR,Sogndal,Stromsgodset,0,1
+2016-10-23,1616,NOR,Tromso,Valerenga,0,3
+2016-10-30,1616,NOR,Aalesund,Haugesund,3,3
+2016-10-30,1616,NOR,Bodo/Glimt,Viking,0,2
+2016-10-30,1616,NOR,Molde,Stabaek,3,0
+2016-10-30,1616,NOR,Odd,Sogndal,3,1
+2016-10-30,1616,NOR,Sarpsborg 08,Tromso,2,2
+2016-10-30,1616,NOR,Start,Brann,1,2
+2016-10-30,1616,NOR,Stromsgodset,Rosenborg,2,0
+2016-10-30,1616,NOR,Valerenga,Lillestrom,1,1
+2016-11-06,1616,NOR,Brann,Sarpsborg 08,2,1
+2016-11-06,1616,NOR,Haugesund,Stromsgodset,1,1
+2016-11-06,1616,NOR,Lillestrom,Molde,1,0
+2016-11-06,1616,NOR,Rosenborg,Bodo/Glimt,2,1
+2016-11-06,1616,NOR,Sogndal,Aalesund,2,4
+2016-11-06,1616,NOR,Stabaek,Start,3,0
+2016-11-06,1616,NOR,Tromso,Odd,3,1
+2016-11-06,1616,NOR,Viking,Valerenga,0,2
+2016-11-30,1616,NOR,Jerv,Stabaek,1,0
+2016-12-04,1616,NOR,Stabaek,Jerv,2,0
+2017-04-01,1717,NOR,Kristiansund,Molde,0,1
+2017-04-02,1717,NOR,Lillestrom,Sandefjord,2,1
+2017-04-02,1717,NOR,Rosenborg,Odd,3,0
+2017-04-02,1717,NOR,Sarpsborg 08,Sogndal,3,1
+2017-04-02,1717,NOR,Stabaek,Aalesund,3,1
+2017-04-02,1717,NOR,Stromsgodset,Haugesund,3,1
+2017-04-02,1717,NOR,Tromso,Brann,1,1
+2017-04-03,1717,NOR,Valerenga,Viking,1,0
+2017-04-05,1717,NOR,Aalesund,Sarpsborg 08,1,3
+2017-04-05,1717,NOR,Molde,Lillestrom,2,1
+2017-04-05,1717,NOR,Odd,Kristiansund,2,0
+2017-04-05,1717,NOR,Sandefjord,Rosenborg,0,3
+2017-04-05,1717,NOR,Sogndal,Stabaek,4,1
+2017-04-06,1717,NOR,Brann,Stromsgodset,3,0
+2017-04-06,1717,NOR,Haugesund,Valerenga,4,3
+2017-04-06,1717,NOR,Viking,Tromso,1,2
+2017-04-08,1717,NOR,Rosenborg,Molde,2,1
+2017-04-09,1717,NOR,Lillestrom,Haugesund,0,2
+2017-04-09,1717,NOR,Sarpsborg 08,Viking,3,0
+2017-04-09,1717,NOR,Stabaek,Odd,2,0
+2017-04-09,1717,NOR,Stromsgodset,Aalesund,1,1
+2017-04-09,1717,NOR,Tromso,Sogndal,3,0
+2017-04-09,1717,NOR,Valerenga,Sandefjord,1,2
+2017-04-10,1717,NOR,Kristiansund,Brann,1,0
+2017-04-17,1717,NOR,Aalesund,Lillestrom,3,1
+2017-04-17,1717,NOR,Brann,Haugesund,3,1
+2017-04-17,1717,NOR,Molde,Valerenga,4,0
+2017-04-17,1717,NOR,Odd,Tromso,1,0
+2017-04-17,1717,NOR,Sandefjord,Kristiansund,2,0
+2017-04-17,1717,NOR,Sogndal,Stromsgodset,1,1
+2017-04-17,1717,NOR,Stabaek,Sarpsborg 08,3,0
+2017-04-17,1717,NOR,Viking,Rosenborg,0,1
+2017-04-22,1717,NOR,Stromsgodset,Sandefjord,1,0
+2017-04-23,1717,NOR,Lillestrom,Brann,0,2
+2017-04-23,1717,NOR,Rosenborg,Aalesund,0,0
+2017-04-23,1717,NOR,Sarpsborg 08,Kristiansund,5,1
+2017-04-23,1717,NOR,Tromso,Stabaek,0,3
+2017-04-23,1717,NOR,Valerenga,Sogndal,3,0
+2017-04-23,1717,NOR,Viking,Odd,3,0
+2017-04-24,1717,NOR,Haugesund,Molde,0,0
+2017-04-29,1717,NOR,Brann,Viking,1,1
+2017-04-30,1717,NOR,Aalesund,Tromso,3,1
+2017-04-30,1717,NOR,Kristiansund,Stromsgodset,2,0
+2017-04-30,1717,NOR,Odd,Valerenga,2,1
+2017-04-30,1717,NOR,Sandefjord,Molde,3,3
+2017-04-30,1717,NOR,Sogndal,Lillestrom,0,1
+2017-04-30,1717,NOR,Stabaek,Haugesund,0,3
+2017-05-01,1717,NOR,Sarpsborg 08,Rosenborg,1,2
+2017-05-06,1717,NOR,Molde,Aalesund,0,1
+2017-05-07,1717,NOR,Haugesund,Sogndal,0,0
+2017-05-07,1717,NOR,Rosenborg,Brann,2,1
+2017-05-07,1717,NOR,Stromsgodset,Sarpsborg 08,1,1
+2017-05-07,1717,NOR,Tromso,Kristiansund,1,1
+2017-05-07,1717,NOR,Valerenga,Stabaek,1,1
+2017-05-07,1717,NOR,Viking,Sandefjord,0,2
+2017-05-08,1717,NOR,Lillestrom,Odd,0,1
+2017-05-12,1717,NOR,Aalesund,Valerenga,0,1
+2017-05-13,1717,NOR,Brann,Molde,4,1
+2017-05-13,1717,NOR,Kristiansund,Lillestrom,1,1
+2017-05-13,1717,NOR,Odd,Stromsgodset,2,0
+2017-05-13,1717,NOR,Sandefjord,Haugesund,2,0
+2017-05-13,1717,NOR,Sarpsborg 08,Tromso,1,1
+2017-05-13,1717,NOR,Sogndal,Viking,4,0
+2017-05-13,1717,NOR,Stabaek,Rosenborg,0,0
+2017-05-16,1717,NOR,Brann,Sandefjord,5,0
+2017-05-16,1717,NOR,Haugesund,Odd,0,2
+2017-05-16,1717,NOR,Lillestrom,Sarpsborg 08,1,2
+2017-05-16,1717,NOR,Molde,Sogndal,1,2
+2017-05-16,1717,NOR,Rosenborg,Tromso,1,2
+2017-05-16,1717,NOR,Stromsgodset,Stabaek,1,2
+2017-05-16,1717,NOR,Valerenga,Kristiansund,1,0
+2017-05-16,1717,NOR,Viking,Aalesund,1,2
+2017-05-20,1717,NOR,Rosenborg,Lillestrom,1,1
+2017-05-20,1717,NOR,Sogndal,Brann,2,3
+2017-05-21,1717,NOR,Aalesund,Sandefjord,2,0
+2017-05-21,1717,NOR,Kristiansund,Haugesund,3,2
+2017-05-21,1717,NOR,Odd,Molde,1,2
+2017-05-21,1717,NOR,Sarpsborg 08,Valerenga,2,0
+2017-05-21,1717,NOR,Tromso,Stromsgodset,1,1
+2017-05-22,1717,NOR,Stabaek,Viking,1,1
+2017-05-27,1717,NOR,Sandefjord,Odd,0,0
+2017-05-28,1717,NOR,Brann,Aalesund,1,1
+2017-05-28,1717,NOR,Haugesund,Sarpsborg 08,0,0
+2017-05-28,1717,NOR,Kristiansund,Sogndal,1,1
+2017-05-28,1717,NOR,Lillestrom,Tromso,4,1
+2017-05-28,1717,NOR,Molde,Stabaek,3,1
+2017-05-28,1717,NOR,Valerenga,Rosenborg,1,1
+2017-05-29,1717,NOR,Stromsgodset,Viking,4,2
+2017-06-03,1717,NOR,Stabaek,Lillestrom,2,4
+2017-06-03,1717,NOR,Tromso,Valerenga,2,4
+2017-06-04,1717,NOR,Aalesund,Haugesund,0,1
+2017-06-04,1717,NOR,Odd,Brann,0,0
+2017-06-04,1717,NOR,Rosenborg,Stromsgodset,3,1
+2017-06-04,1717,NOR,Sarpsborg 08,Molde,1,0
+2017-06-04,1717,NOR,Sogndal,Sandefjord,3,2
+2017-06-04,1717,NOR,Viking,Kristiansund,2,1
+2017-06-17,1717,NOR,Kristiansund,Aalesund,1,1
+2017-06-18,1717,NOR,Haugesund,Rosenborg,1,0
+2017-06-18,1717,NOR,Lillestrom,Viking,1,0
+2017-06-18,1717,NOR,Molde,Tromso,3,0
+2017-06-18,1717,NOR,Sandefjord,Sarpsborg 08,1,0
+2017-06-18,1717,NOR,Sogndal,Odd,0,0
+2017-06-18,1717,NOR,Valerenga,Stromsgodset,1,1
+2017-06-19,1717,NOR,Brann,Stabaek,5,0
+2017-06-24,1717,NOR,Valerenga,Lillestrom,3,1
+2017-06-25,1717,NOR,Aalesund,Odd,5,1
+2017-06-25,1717,NOR,Rosenborg,Sogndal,3,0
+2017-06-25,1717,NOR,Sarpsborg 08,Brann,1,1
+2017-06-25,1717,NOR,Stabaek,Kristiansund,1,4
+2017-06-25,1717,NOR,Tromso,Sandefjord,1,1
+2017-06-25,1717,NOR,Viking,Haugesund,1,1
+2017-06-26,1717,NOR,Stromsgodset,Molde,1,1
+2017-07-01,1717,NOR,Lillestrom,Stromsgodset,2,0
+2017-07-01,1717,NOR,Sogndal,Aalesund,1,0
+2017-07-02,1717,NOR,Brann,Valerenga,0,0
+2017-07-02,1717,NOR,Haugesund,Tromso,2,0
+2017-07-02,1717,NOR,Molde,Viking,3,2
+2017-07-02,1717,NOR,Odd,Sarpsborg 08,0,0
+2017-07-02,1717,NOR,Sandefjord,Stabaek,1,2
+2017-07-03,1717,NOR,Kristiansund,Rosenborg,3,3
+2017-07-08,1717,NOR,Aalesund,Molde,0,3
+2017-07-08,1717,NOR,Rosenborg,Sandefjord,5,1
+2017-07-09,1717,NOR,Stabaek,Brann,2,0
+2017-07-09,1717,NOR,Stromsgodset,Kristiansund,4,2
+2017-07-09,1717,NOR,Viking,Sogndal,1,1
+2017-07-10,1717,NOR,Sarpsborg 08,Lillestrom,3,3
+2017-07-15,1717,NOR,Lillestrom,Stabaek,2,2
+2017-07-15,1717,NOR,Sogndal,Rosenborg,0,3
+2017-07-16,1717,NOR,Brann,Sarpsborg 08,0,1
+2017-07-16,1717,NOR,Haugesund,Aalesund,2,0
+2017-07-16,1717,NOR,Molde,Stromsgodset,0,0
+2017-07-16,1717,NOR,Odd,Viking,0,2
+2017-07-16,1717,NOR,Sandefjord,Tromso,3,0
+2017-07-17,1717,NOR,Kristiansund,Valerenga,1,1
+2017-08-05,1717,NOR,Rosenborg,Kristiansund,4,1
+2017-08-06,1717,NOR,Aalesund,Brann,3,3
+2017-08-06,1717,NOR,Odd,Sogndal,2,1
+2017-08-06,1717,NOR,Sarpsborg 08,Haugesund,2,1
+2017-08-06,1717,NOR,Stabaek,Sandefjord,1,3
+2017-08-06,1717,NOR,Tromso,Molde,1,2
+2017-08-06,1717,NOR,Viking,Lillestrom,2,2
+2017-08-07,1717,NOR,Stromsgodset,Valerenga,2,0
+2017-08-11,1717,NOR,Sandefjord,Sogndal,2,1
+2017-08-12,1717,NOR,Molde,Rosenborg,1,2
+2017-08-13,1717,NOR,Aalesund,Viking,1,1
+2017-08-13,1717,NOR,Brann,Odd,2,0
+2017-08-13,1717,NOR,Haugesund,Stabaek,2,2
+2017-08-13,1717,NOR,Kristiansund,Sarpsborg 08,2,2
+2017-08-13,1717,NOR,Stromsgodset,Lillestrom,3,1
+2017-08-14,1717,NOR,Valerenga,Tromso,0,0
+2017-08-19,1717,NOR,Lillestrom,Valerenga,2,1
+2017-08-20,1717,NOR,Odd,Sandefjord,1,0
+2017-08-20,1717,NOR,Rosenborg,Haugesund,0,1
+2017-08-20,1717,NOR,Sogndal,Kristiansund,2,0
+2017-08-20,1717,NOR,Stabaek,Molde,3,2
+2017-08-20,1717,NOR,Tromso,Aalesund,3,2
+2017-08-20,1717,NOR,Viking,Brann,2,4
+2017-08-21,1717,NOR,Sarpsborg 08,Stromsgodset,0,0
+2017-09-09,1717,NOR,Brann,Sogndal,2,1
+2017-09-10,1717,NOR,Aalesund,Stabaek,1,1
+2017-09-10,1717,NOR,Haugesund,Lillestrom,1,1
+2017-09-10,1717,NOR,Kristiansund,Tromso,4,1
+2017-09-10,1717,NOR,Sandefjord,Viking,3,1
+2017-09-10,1717,NOR,Stromsgodset,Rosenborg,0,2
+2017-09-10,1717,NOR,Valerenga,Sarpsborg 08,1,2
+2017-09-11,1717,NOR,Molde,Odd,2,1
+2017-09-16,1717,NOR,Stabaek,Stromsgodset,0,2
+2017-09-17,1717,NOR,Lillestrom,Kristiansund,0,0
+2017-09-17,1717,NOR,Rosenborg,Valerenga,3,0
+2017-09-17,1717,NOR,Sandefjord,Brann,0,1
+2017-09-17,1717,NOR,Sogndal,Haugesund,0,1
+2017-09-17,1717,NOR,Tromso,Sarpsborg 08,5,0
+2017-09-17,1717,NOR,Viking,Molde,2,3
+2017-09-18,1717,NOR,Odd,Aalesund,3,2
+2017-09-21,1717,NOR,Tromso,Odd,2,2
+2017-09-23,1717,NOR,Haugesund,Viking,2,1
+2017-09-24,1717,NOR,Aalesund,Sogndal,0,1
+2017-09-24,1717,NOR,Kristiansund,Stabaek,1,0
+2017-09-24,1717,NOR,Lillestrom,Rosenborg,0,3
+2017-09-24,1717,NOR,Molde,Sandefjord,3,1
+2017-09-24,1717,NOR,Stromsgodset,Tromso,2,1
+2017-09-24,1717,NOR,Valerenga,Brann,2,1
+2017-09-25,1717,NOR,Sarpsborg 08,Odd,2,1
+2017-09-29,1717,NOR,Brann,Kristiansund,0,4
+2017-09-30,1717,NOR,Stabaek,Valerenga,4,2
+2017-10-01,1717,NOR,Odd,Haugesund,1,0
+2017-10-01,1717,NOR,Rosenborg,Sarpsborg 08,1,1
+2017-10-01,1717,NOR,Sandefjord,Aalesund,2,0
+2017-10-01,1717,NOR,Sogndal,Molde,2,2
+2017-10-01,1717,NOR,Tromso,Lillestrom,2,1
+2017-10-01,1717,NOR,Viking,Stromsgodset,0,1
+2017-10-12,1717,NOR,Valerenga,Haugesund,3,0
+2017-10-14,1717,NOR,Stromsgodset,Odd,1,0
+2017-10-14,1717,NOR,Tromso,Rosenborg,0,3
+2017-10-15,1717,NOR,Haugesund,Sandefjord,2,0
+2017-10-15,1717,NOR,Kristiansund,Viking,0,2
+2017-10-15,1717,NOR,Lillestrom,Sogndal,1,0
+2017-10-15,1717,NOR,Molde,Brann,1,0
+2017-10-15,1717,NOR,Valerenga,Aalesund,5,1
+2017-10-16,1717,NOR,Sarpsborg 08,Stabaek,2,2
+2017-10-21,1717,NOR,Aalesund,Kristiansund,1,1
+2017-10-22,1717,NOR,Brann,Rosenborg,0,3
+2017-10-22,1717,NOR,Molde,Haugesund,1,0
+2017-10-22,1717,NOR,Sandefjord,Stromsgodset,1,2
+2017-10-22,1717,NOR,Sogndal,Sarpsborg 08,3,3
+2017-10-22,1717,NOR,Stabaek,Tromso,1,2
+2017-10-22,1717,NOR,Viking,Valerenga,1,7
+2017-10-23,1717,NOR,Odd,Lillestrom,1,0
+2017-10-28,1717,NOR,Haugesund,Brann,2,3
+2017-10-29,1717,NOR,Kristiansund,Odd,2,2
+2017-10-29,1717,NOR,Rosenborg,Stabaek,0,0
+2017-10-29,1717,NOR,Sarpsborg 08,Sandefjord,5,0
+2017-10-29,1717,NOR,Stromsgodset,Sogndal,4,1
+2017-10-29,1717,NOR,Tromso,Viking,3,0
+2017-10-29,1717,NOR,Valerenga,Molde,1,2
+2017-10-30,1717,NOR,Lillestrom,Aalesund,4,0
+2017-11-03,1717,NOR,Sandefjord,Valerenga,2,0
+2017-11-04,1717,NOR,Molde,Kristiansund,0,1
+2017-11-05,1717,NOR,Aalesund,Rosenborg,2,1
+2017-11-05,1717,NOR,Brann,Lillestrom,2,0
+2017-11-05,1717,NOR,Haugesund,Stromsgodset,1,3
+2017-11-05,1717,NOR,Odd,Stabaek,0,5
+2017-11-05,1717,NOR,Sogndal,Tromso,0,2
+2017-11-05,1717,NOR,Viking,Sarpsborg 08,2,1
+2017-11-19,1717,NOR,Kristiansund,Sandefjord,3,2
+2017-11-19,1717,NOR,Lillestrom,Molde,0,1
+2017-11-19,1717,NOR,Rosenborg,Viking,2,0
+2017-11-19,1717,NOR,Sarpsborg 08,Aalesund,1,0
+2017-11-19,1717,NOR,Stabaek,Sogndal,1,1
+2017-11-19,1717,NOR,Stromsgodset,Brann,2,1
+2017-11-19,1717,NOR,Tromso,Haugesund,2,0
+2017-11-19,1717,NOR,Valerenga,Odd,2,0
+2017-11-26,1717,NOR,Aalesund,Stromsgodset,4,3
+2017-11-26,1717,NOR,Brann,Tromso,2,2
+2017-11-26,1717,NOR,Haugesund,Kristiansund,2,3
+2017-11-26,1717,NOR,Molde,Sarpsborg 08,2,2
+2017-11-26,1717,NOR,Odd,Rosenborg,1,0
+2017-11-26,1717,NOR,Sandefjord,Lillestrom,1,3
+2017-11-26,1717,NOR,Sogndal,Valerenga,5,2
+2017-11-26,1717,NOR,Viking,Stabaek,2,0
+2017-11-29,1717,NOR,Sogndal,Ranheim,1,0
+2017-12-02,1717,NOR,Ranheim,Sogndal,1,0
+2018-03-11,1818,NOR,Bodo/Glimt,Lillestrom,3,1
+2018-03-11,1818,NOR,Molde,Sandefjord,5,0
+2018-03-11,1818,NOR,Odd,Haugesund,1,2
+2018-03-11,1818,NOR,Sarpsborg 08,Rosenborg,1,0
+2018-03-11,1818,NOR,Start,Tromso,4,1
+2018-03-11,1818,NOR,Stromsgodset,Stabaek,2,2
+2018-03-12,1818,NOR,Kristiansund,Valerenga,0,1
+2018-03-17,1818,NOR,Lillestrom,Sarpsborg 08,2,2
+2018-03-17,1818,NOR,Rosenborg,Kristiansund,2,2
+2018-03-18,1818,NOR,Brann,Bodo/Glimt,2,0
+2018-03-18,1818,NOR,Haugesund,Molde,0,1
+2018-03-18,1818,NOR,Valerenga,Odd,2,1
+2018-04-02,1818,NOR,Bodo/Glimt,Haugesund,0,3
+2018-04-02,1818,NOR,Kristiansund,Lillestrom,2,1
+2018-04-02,1818,NOR,Molde,Tromso,2,1
+2018-04-02,1818,NOR,Odd,Rosenborg,1,1
+2018-04-02,1818,NOR,Ranheim,Stabaek,4,1
+2018-04-02,1818,NOR,Sarpsborg 08,Valerenga,3,0
+2018-04-02,1818,NOR,Start,Sandefjord,1,4
+2018-04-02,1818,NOR,Stromsgodset,Brann,1,1
+2018-04-07,1818,NOR,Valerenga,Stromsgodset,1,4
+2018-04-08,1818,NOR,Brann,Kristiansund,1,0
+2018-04-08,1818,NOR,Haugesund,Sarpsborg 08,1,1
+2018-04-08,1818,NOR,Odd,Bodo/Glimt,1,0
+2018-04-08,1818,NOR,Rosenborg,Molde,4,0
+2018-04-08,1818,NOR,Sandefjord,Stabaek,1,1
+2018-04-08,1818,NOR,Tromso,Ranheim,4,0
+2018-04-09,1818,NOR,Lillestrom,Start,1,0
+2018-04-11,1818,NOR,Sandefjord,Ranheim,1,2
+2018-04-11,1818,NOR,Tromso,Stromsgodset,3,1
+2018-04-14,1818,NOR,Start,Valerenga,1,6
+2018-04-15,1818,NOR,Molde,Lillestrom,2,1
+2018-04-15,1818,NOR,Ranheim,Haugesund,4,2
+2018-04-15,1818,NOR,Sandefjord,Kristiansund,3,3
+2018-04-15,1818,NOR,Sarpsborg 08,Brann,1,2
+2018-04-15,1818,NOR,Stabaek,Tromso,1,1
+2018-04-15,1818,NOR,Stromsgodset,Odd,3,0
+2018-04-16,1818,NOR,Bodo/Glimt,Rosenborg,0,1
+2018-04-21,1818,NOR,Brann,Stabaek,3,0
+2018-04-22,1818,NOR,Haugesund,Stromsgodset,1,0
+2018-04-22,1818,NOR,Kristiansund,Bodo/Glimt,1,1
+2018-04-22,1818,NOR,Lillestrom,Ranheim,0,1
+2018-04-22,1818,NOR,Rosenborg,Start,2,0
+2018-04-22,1818,NOR,Tromso,Sandefjord,4,1
+2018-04-22,1818,NOR,Valerenga,Molde,0,0
+2018-04-23,1818,NOR,Odd,Sarpsborg 08,3,1
+2018-04-25,1818,NOR,Ranheim,Brann,0,2
+2018-04-25,1818,NOR,Stabaek,Start,1,1
+2018-04-28,1818,NOR,Ranheim,Valerenga,2,2
+2018-04-29,1818,NOR,Molde,Odd,0,1
+2018-04-29,1818,NOR,Sandefjord,Brann,0,1
+2018-04-29,1818,NOR,Sarpsborg 08,Bodo/Glimt,0,0
+2018-04-29,1818,NOR,Start,Haugesund,0,1
+2018-04-29,1818,NOR,Stromsgodset,Rosenborg,0,1
+2018-04-29,1818,NOR,Tromso,Kristiansund,0,0
+2018-04-30,1818,NOR,Stabaek,Lillestrom,3,2
+2018-05-05,1818,NOR,Rosenborg,Ranheim,1,1
+2018-05-06,1818,NOR,Bodo/Glimt,Stromsgodset,2,2
+2018-05-06,1818,NOR,Brann,Tromso,3,0
+2018-05-06,1818,NOR,Kristiansund,Stabaek,1,0
+2018-05-06,1818,NOR,Lillestrom,Sandefjord,1,0
+2018-05-06,1818,NOR,Odd,Start,3,0
+2018-05-06,1818,NOR,Valerenga,Haugesund,2,2
+2018-05-07,1818,NOR,Sarpsborg 08,Molde,2,2
+2018-05-12,1818,NOR,Sandefjord,Valerenga,0,1
+2018-05-12,1818,NOR,Start,Brann,0,1
+2018-05-13,1818,NOR,Haugesund,Kristiansund,3,2
+2018-05-13,1818,NOR,Molde,Bodo/Glimt,1,2
+2018-05-13,1818,NOR,Ranheim,Odd,3,1
+2018-05-13,1818,NOR,Stabaek,Rosenborg,0,1
+2018-05-13,1818,NOR,Stromsgodset,Sarpsborg 08,1,2
+2018-05-13,1818,NOR,Tromso,Lillestrom,1,2
+2018-05-16,1818,NOR,Bodo/Glimt,Tromso,0,1
+2018-05-16,1818,NOR,Brann,Haugesund,1,1
+2018-05-16,1818,NOR,Kristiansund,Ranheim,1,3
+2018-05-16,1818,NOR,Molde,Stromsgodset,2,0
+2018-05-16,1818,NOR,Odd,Sandefjord,5,0
+2018-05-16,1818,NOR,Rosenborg,Lillestrom,3,0
+2018-05-16,1818,NOR,Sarpsborg 08,Start,4,0
+2018-05-16,1818,NOR,Valerenga,Stabaek,1,0
+2018-05-21,1818,NOR,Haugesund,Rosenborg,1,2
+2018-05-21,1818,NOR,Kristiansund,Stromsgodset,4,0
+2018-05-21,1818,NOR,Lillestrom,Brann,1,1
+2018-05-21,1818,NOR,Ranheim,Molde,3,1
+2018-05-21,1818,NOR,Sandefjord,Sarpsborg 08,0,1
+2018-05-21,1818,NOR,Stabaek,Odd,2,1
+2018-05-21,1818,NOR,Start,Bodo/Glimt,1,0
+2018-05-21,1818,NOR,Tromso,Valerenga,3,0
+2018-05-26,1818,NOR,Valerenga,Lillestrom,1,0
+2018-05-27,1818,NOR,Bodo/Glimt,Ranheim,4,0
+2018-05-27,1818,NOR,Haugesund,Tromso,1,0
+2018-05-27,1818,NOR,Molde,Start,3,1
+2018-05-27,1818,NOR,Odd,Kristiansund,1,2
+2018-05-27,1818,NOR,Rosenborg,Brann,1,2
+2018-05-27,1818,NOR,Stromsgodset,Sandefjord,2,0
+2018-05-28,1818,NOR,Sarpsborg 08,Stabaek,4,2
+2018-06-09,1818,NOR,Kristiansund,Molde,1,0
+2018-06-10,1818,NOR,Brann,Valerenga,0,0
+2018-06-10,1818,NOR,Lillestrom,Odd,0,0
+2018-06-10,1818,NOR,Ranheim,Sarpsborg 08,2,1
+2018-06-10,1818,NOR,Sandefjord,Haugesund,0,2
+2018-06-10,1818,NOR,Stabaek,Bodo/Glimt,0,0
+2018-06-10,1818,NOR,Start,Stromsgodset,1,1
+2018-06-11,1818,NOR,Tromso,Rosenborg,2,1
+2018-06-23,1818,NOR,Molde,Stabaek,3,0
+2018-06-24,1818,NOR,Bodo/Glimt,Sandefjord,1,1
+2018-06-24,1818,NOR,Haugesund,Lillestrom,2,2
+2018-06-24,1818,NOR,Rosenborg,Valerenga,3,0
+2018-06-24,1818,NOR,Sarpsborg 08,Tromso,2,3
+2018-06-24,1818,NOR,Start,Kristiansund,2,0
+2018-06-24,1818,NOR,Stromsgodset,Ranheim,3,0
+2018-06-25,1818,NOR,Odd,Brann,0,1
+2018-06-30,1818,NOR,Valerenga,Bodo/Glimt,2,2
+2018-07-01,1818,NOR,Brann,Molde,0,4
+2018-07-01,1818,NOR,Kristiansund,Sarpsborg 08,1,1
+2018-07-01,1818,NOR,Ranheim,Start,2,0
+2018-07-01,1818,NOR,Sandefjord,Rosenborg,0,1
+2018-07-01,1818,NOR,Stabaek,Haugesund,2,1
+2018-07-01,1818,NOR,Tromso,Odd,2,1
+2018-07-02,1818,NOR,Lillestrom,Stromsgodset,1,1
+2018-07-07,1818,NOR,Rosenborg,Tromso,2,1
+2018-07-08,1818,NOR,Bodo/Glimt,Brann,2,2
+2018-07-08,1818,NOR,Haugesund,Sandefjord,4,2
+2018-07-08,1818,NOR,Molde,Valerenga,5,1
+2018-07-08,1818,NOR,Odd,Lillestrom,3,1
+2018-07-08,1818,NOR,Sarpsborg 08,Ranheim,4,1
+2018-07-08,1818,NOR,Start,Stabaek,2,1
+2018-07-09,1818,NOR,Stromsgodset,Kristiansund,2,3
+2018-08-04,1818,NOR,Ranheim,Rosenborg,1,3
+2018-08-05,1818,NOR,Kristiansund,Odd,1,1
+2018-08-05,1818,NOR,Lillestrom,Molde,2,2
+2018-08-05,1818,NOR,Stabaek,Sarpsborg 08,1,3
+2018-08-05,1818,NOR,Stromsgodset,Bodo/Glimt,4,0
+2018-08-05,1818,NOR,Tromso,Haugesund,1,2
+2018-08-05,1818,NOR,Valerenga,Sandefjord,2,2
+2018-08-06,1818,NOR,Brann,Start,4,1
+2018-08-10,1818,NOR,Sandefjord,Tromso,1,0
+2018-08-12,1818,NOR,Bodo/Glimt,Kristiansund,3,0
+2018-08-12,1818,NOR,Molde,Brann,5,1
+2018-08-12,1818,NOR,Odd,Stromsgodset,2,2
+2018-08-12,1818,NOR,Rosenborg,Stabaek,1,1
+2018-08-12,1818,NOR,Sarpsborg 08,Lillestrom,2,0
+2018-08-12,1818,NOR,Start,Ranheim,0,0
+2018-08-13,1818,NOR,Haugesund,Valerenga,1,0
+2018-08-19,1818,NOR,Brann,Sarpsborg 08,2,0
+2018-08-19,1818,NOR,Kristiansund,Rosenborg,0,2
+2018-08-19,1818,NOR,Lillestrom,Haugesund,1,1
+2018-08-19,1818,NOR,Ranheim,Sandefjord,1,1
+2018-08-19,1818,NOR,Stabaek,Molde,3,1
+2018-08-19,1818,NOR,Stromsgodset,Start,1,1
+2018-08-19,1818,NOR,Valerenga,Tromso,3,0
+2018-08-20,1818,NOR,Bodo/Glimt,Odd,1,1
+2018-08-25,1818,NOR,Tromso,Bodo/Glimt,1,2
+2018-08-26,1818,NOR,Haugesund,Stabaek,2,0
+2018-08-26,1818,NOR,Molde,Ranheim,2,3
+2018-08-26,1818,NOR,Rosenborg,Stromsgodset,4,3
+2018-08-26,1818,NOR,Sandefjord,Lillestrom,1,3
+2018-08-26,1818,NOR,Sarpsborg 08,Kristiansund,1,2
+2018-08-26,1818,NOR,Valerenga,Brann,2,0
+2018-08-27,1818,NOR,Start,Odd,0,1
+2018-09-01,1818,NOR,Stabaek,Sandefjord,3,3
+2018-09-01,1818,NOR,Stromsgodset,Tromso,2,4
+2018-09-02,1818,NOR,Bodo/Glimt,Sarpsborg 08,3,1
+2018-09-02,1818,NOR,Brann,Ranheim,1,0
+2018-09-02,1818,NOR,Kristiansund,Start,1,1
+2018-09-02,1818,NOR,Lillestrom,Valerenga,0,1
+2018-09-02,1818,NOR,Odd,Molde,1,1
+2018-09-02,1818,NOR,Rosenborg,Haugesund,1,0
+2018-09-15,1818,NOR,Haugesund,Brann,1,3
+2018-09-16,1818,NOR,Ranheim,Stromsgodset,1,1
+2018-09-16,1818,NOR,Sandefjord,Bodo/Glimt,1,1
+2018-09-16,1818,NOR,Sarpsborg 08,Odd,1,2
+2018-09-16,1818,NOR,Start,Lillestrom,3,0
+2018-09-16,1818,NOR,Tromso,Stabaek,0,0
+2018-09-16,1818,NOR,Valerenga,Rosenborg,2,3
+2018-09-17,1818,NOR,Molde,Kristiansund,3,2
+2018-09-22,1818,NOR,Odd,Valerenga,3,2
+2018-09-23,1818,NOR,Bodo/Glimt,Start,1,2
+2018-09-23,1818,NOR,Brann,Sandefjord,1,1
+2018-09-23,1818,NOR,Kristiansund,Haugesund,2,1
+2018-09-23,1818,NOR,Rosenborg,Sarpsborg 08,3,1
+2018-09-23,1818,NOR,Stabaek,Ranheim,3,2
+2018-09-23,1818,NOR,Stromsgodset,Molde,1,2
+2018-09-24,1818,NOR,Lillestrom,Tromso,1,0
+2018-09-29,1818,NOR,Sandefjord,Odd,1,1
+2018-09-30,1818,NOR,Haugesund,Bodo/Glimt,1,0
+2018-09-30,1818,NOR,Lillestrom,Stabaek,3,2
+2018-09-30,1818,NOR,Molde,Rosenborg,1,0
+2018-09-30,1818,NOR,Ranheim,Kristiansund,2,1
+2018-09-30,1818,NOR,Sarpsborg 08,Stromsgodset,0,1
+2018-09-30,1818,NOR,Valerenga,Start,3,2
+2018-10-01,1818,NOR,Tromso,Brann,2,1
+2018-10-06,1818,NOR,Stabaek,Valerenga,1,1
+2018-10-06,1818,NOR,Stromsgodset,Haugesund,0,1
+2018-10-07,1818,NOR,Bodo/Glimt,Molde,0,1
+2018-10-07,1818,NOR,Brann,Lillestrom,1,1
+2018-10-07,1818,NOR,Kristiansund,Tromso,5,1
+2018-10-07,1818,NOR,Odd,Ranheim,2,0
+2018-10-07,1818,NOR,Rosenborg,Sandefjord,1,1
+2018-10-07,1818,NOR,Start,Sarpsborg 08,1,0
+2018-10-20,1818,NOR,Molde,Sarpsborg 08,2,2
+2018-10-20,1818,NOR,Sandefjord,Stromsgodset,2,1
+2018-10-21,1818,NOR,Haugesund,Odd,2,0
+2018-10-21,1818,NOR,Lillestrom,Rosenborg,0,0
+2018-10-21,1818,NOR,Ranheim,Bodo/Glimt,0,0
+2018-10-21,1818,NOR,Stabaek,Brann,1,2
+2018-10-21,1818,NOR,Tromso,Start,1,2
+2018-10-21,1818,NOR,Valerenga,Kristiansund,0,2
+2018-10-27,1818,NOR,Stromsgodset,Valerenga,2,0
+2018-10-28,1818,NOR,Bodo/Glimt,Stabaek,1,1
+2018-10-28,1818,NOR,Brann,Rosenborg,1,2
+2018-10-28,1818,NOR,Kristiansund,Sandefjord,3,2
+2018-10-28,1818,NOR,Odd,Tromso,1,0
+2018-10-28,1818,NOR,Ranheim,Lillestrom,3,2
+2018-10-28,1818,NOR,Sarpsborg 08,Haugesund,2,1
+2018-10-29,1818,NOR,Start,Molde,1,3
+2018-11-03,1818,NOR,Stabaek,Kristiansund,0,1
+2018-11-04,1818,NOR,Brann,Stromsgodset,3,1
+2018-11-04,1818,NOR,Haugesund,Ranheim,2,0
+2018-11-04,1818,NOR,Rosenborg,Odd,3,1
+2018-11-04,1818,NOR,Sandefjord,Start,4,1
+2018-11-04,1818,NOR,Tromso,Molde,2,4
+2018-11-04,1818,NOR,Valerenga,Sarpsborg 08,0,0
+2018-11-05,1818,NOR,Lillestrom,Bodo/Glimt,1,1
+2018-11-11,1818,NOR,Bodo/Glimt,Valerenga,1,1
+2018-11-11,1818,NOR,Kristiansund,Brann,3,1
+2018-11-11,1818,NOR,Molde,Haugesund,2,0
+2018-11-11,1818,NOR,Odd,Stabaek,0,3
+2018-11-11,1818,NOR,Ranheim,Tromso,1,2
+2018-11-11,1818,NOR,Sarpsborg 08,Sandefjord,1,1
+2018-11-11,1818,NOR,Start,Rosenborg,0,1
+2018-11-11,1818,NOR,Stromsgodset,Lillestrom,2,2
+2018-11-24,1818,NOR,Brann,Odd,1,0
+2018-11-24,1818,NOR,Haugesund,Start,3,1
+2018-11-24,1818,NOR,Lillestrom,Kristiansund,2,0
+2018-11-24,1818,NOR,Rosenborg,Bodo/Glimt,1,1
+2018-11-24,1818,NOR,Sandefjord,Molde,1,3
+2018-11-24,1818,NOR,Stabaek,Stromsgodset,2,2
+2018-11-24,1818,NOR,Tromso,Sarpsborg 08,0,2
+2018-11-24,1818,NOR,Valerenga,Ranheim,2,1
+2018-12-09,1818,NOR,Aalesund,Stabaek,1,1
+2019-03-30,1919,NOR,Odd,Brann,3,2
+2019-03-30,1919,NOR,Valerenga,Mjondalen,2,0
+2019-03-31,1919,NOR,Bodo/Glimt,Rosenborg,2,0
+2019-03-31,1919,NOR,Ranheim,Tromso,1,2
+2019-03-31,1919,NOR,Sarpsborg 08,Molde,1,1
+2019-03-31,1919,NOR,Stromsgodset,Haugesund,3,2
+2019-03-31,1919,NOR,Viking,Kristiansund,2,0
+2019-04-01,1919,NOR,Stabaek,Lillestrom,1,1
+2019-04-06,1919,NOR,Mjondalen,Bodo/Glimt,4,5
+2019-04-07,1919,NOR,Brann,Stromsgodset,1,1
+2019-04-07,1919,NOR,Haugesund,Sarpsborg 08,1,1
+2019-04-07,1919,NOR,Kristiansund,Valerenga,2,0
+2019-04-07,1919,NOR,Lillestrom,Ranheim,2,1
+2019-04-07,1919,NOR,Molde,Stabaek,3,0
+2019-04-07,1919,NOR,Tromso,Viking,0,2
+2019-04-08,1919,NOR,Rosenborg,Odd,1,1
+2019-04-10,1919,NOR,Brann,Kristiansund,2,1
+2019-04-10,1919,NOR,Molde,Valerenga,4,1
+2019-04-12,1919,NOR,Stromsgodset,Mjondalen,2,3
+2019-04-13,1919,NOR,Viking,Brann,2,1
+2019-04-14,1919,NOR,Bodo/Glimt,Molde,3,2
+2019-04-14,1919,NOR,Odd,Kristiansund,2,0
+2019-04-14,1919,NOR,Ranheim,Haugesund,0,2
+2019-04-14,1919,NOR,Sarpsborg 08,Lillestrom,1,0
+2019-04-14,1919,NOR,Stabaek,Rosenborg,3,1
+2019-04-14,1919,NOR,Valerenga,Tromso,4,1
+2019-04-22,1919,NOR,Bodo/Glimt,Sarpsborg 08,1,1
+2019-04-22,1919,NOR,Brann,Valerenga,1,1
+2019-04-22,1919,NOR,Haugesund,Stabaek,3,0
+2019-04-22,1919,NOR,Kristiansund,Ranheim,0,0
+2019-04-22,1919,NOR,Lillestrom,Molde,0,2
+2019-04-22,1919,NOR,Mjondalen,Tromso,1,1
+2019-04-22,1919,NOR,Rosenborg,Stromsgodset,0,0
+2019-04-23,1919,NOR,Odd,Viking,1,0
+2019-04-27,1919,NOR,Sarpsborg 08,Mjondalen,1,1
+2019-04-28,1919,NOR,Lillestrom,Haugesund,1,0
+2019-04-28,1919,NOR,Molde,Rosenborg,3,0
+2019-04-28,1919,NOR,Ranheim,Viking,5,2
+2019-04-28,1919,NOR,Stabaek,Bodo/Glimt,2,0
+2019-04-28,1919,NOR,Stromsgodset,Kristiansund,2,3
+2019-04-28,1919,NOR,Tromso,Brann,1,2
+2019-04-29,1919,NOR,Valerenga,Odd,1,0
+2019-05-04,1919,NOR,Mjondalen,Stabaek,1,0
+2019-05-05,1919,NOR,Bodo/Glimt,Lillestrom,4,0
+2019-05-05,1919,NOR,Brann,Ranheim,0,1
+2019-05-05,1919,NOR,Haugesund,Molde,1,2
+2019-05-05,1919,NOR,Kristiansund,Tromso,1,0
+2019-05-05,1919,NOR,Odd,Stromsgodset,2,1
+2019-05-05,1919,NOR,Rosenborg,Sarpsborg 08,1,0
+2019-05-06,1919,NOR,Viking,Valerenga,1,1
+2019-05-11,1919,NOR,Lillestrom,Rosenborg,1,1
+2019-05-12,1919,NOR,Haugesund,Bodo/Glimt,1,1
+2019-05-12,1919,NOR,Molde,Mjondalen,1,0
+2019-05-12,1919,NOR,Ranheim,Valerenga,1,5
+2019-05-12,1919,NOR,Sarpsborg 08,Kristiansund,0,1
+2019-05-12,1919,NOR,Stabaek,Brann,0,1
+2019-05-12,1919,NOR,Tromso,Odd,1,2
+2019-05-13,1919,NOR,Stromsgodset,Viking,0,0
+2019-05-16,1919,NOR,Brann,Sarpsborg 08,2,1
+2019-05-16,1919,NOR,Kristiansund,Molde,3,2
+2019-05-16,1919,NOR,Mjondalen,Lillestrom,2,2
+2019-05-16,1919,NOR,Odd,Ranheim,1,0
+2019-05-16,1919,NOR,Rosenborg,Haugesund,0,2
+2019-05-16,1919,NOR,Tromso,Bodo/Glimt,1,2
+2019-05-16,1919,NOR,Valerenga,Stromsgodset,2,0
+2019-05-16,1919,NOR,Viking,Stabaek,3,0
+2019-05-19,1919,NOR,Bodo/Glimt,Brann,1,2
+2019-05-19,1919,NOR,Haugesund,Kristiansund,0,0
+2019-05-19,1919,NOR,Lillestrom,Odd,0,3
+2019-05-19,1919,NOR,Rosenborg,Mjondalen,3,2
+2019-05-19,1919,NOR,Sarpsborg 08,Ranheim,1,3
+2019-05-19,1919,NOR,Stromsgodset,Tromso,3,1
+2019-05-20,1919,NOR,Molde,Viking,5,1
+2019-05-25,1919,NOR,Valerenga,Lillestrom,0,3
+2019-05-26,1919,NOR,Brann,Rosenborg,0,1
+2019-05-26,1919,NOR,Mjondalen,Haugesund,1,4
+2019-05-26,1919,NOR,Ranheim,Stromsgodset,1,0
+2019-05-26,1919,NOR,Tromso,Molde,2,1
+2019-06-15,1919,NOR,Haugesund,Brann,1,1
+2019-06-16,1919,NOR,Bodo/Glimt,Stromsgodset,2,0
+2019-06-16,1919,NOR,Lillestrom,Viking,0,2
+2019-06-16,1919,NOR,Mjondalen,Kristiansund,1,1
+2019-06-16,1919,NOR,Molde,Ranheim,2,0
+2019-06-16,1919,NOR,Rosenborg,Valerenga,3,0
+2019-06-16,1919,NOR,Sarpsborg 08,Odd,2,0
+2019-06-17,1919,NOR,Stabaek,Tromso,0,1
+2019-06-22,1919,NOR,Stromsgodset,Molde,0,4
+2019-06-23,1919,NOR,Brann,Lillestrom,1,0
+2019-06-23,1919,NOR,Kristiansund,Stabaek,0,1
+2019-06-23,1919,NOR,Odd,Haugesund,3,1
+2019-06-23,1919,NOR,Ranheim,Mjondalen,1,1
+2019-06-23,1919,NOR,Tromso,Rosenborg,1,0
+2019-06-23,1919,NOR,Valerenga,Sarpsborg 08,1,1
+2019-06-23,1919,NOR,Viking,Bodo/Glimt,3,4
+2019-06-29,1919,NOR,Rosenborg,Kristiansund,1,0
+2019-06-30,1919,NOR,Bodo/Glimt,Odd,3,0
+2019-06-30,1919,NOR,Haugesund,Valerenga,1,4
+2019-06-30,1919,NOR,Lillestrom,Tromso,4,0
+2019-06-30,1919,NOR,Mjondalen,Viking,1,1
+2019-06-30,1919,NOR,Molde,Brann,1,1
+2019-06-30,1919,NOR,Stabaek,Ranheim,0,0
+2019-07-01,1919,NOR,Sarpsborg 08,Stromsgodset,2,2
+2019-07-04,1919,NOR,Ranheim,Rosenborg,2,3
+2019-07-05,1919,NOR,Brann,Mjondalen,0,0
+2019-07-05,1919,NOR,Kristiansund,Lillestrom,5,2
+2019-07-05,1919,NOR,Odd,Molde,2,2
+2019-07-05,1919,NOR,Stromsgodset,Stabaek,0,2
+2019-07-05,1919,NOR,Tromso,Sarpsborg 08,2,0
+2019-07-05,1919,NOR,Valerenga,Bodo/Glimt,6,0
+2019-07-05,1919,NOR,Viking,Haugesund,0,0
+2019-07-10,1919,NOR,Odd,Stabaek,2,1
+2019-07-13,1919,NOR,Bodo/Glimt,Ranheim,5,1
+2019-07-13,1919,NOR,Rosenborg,Viking,5,1
+2019-07-14,1919,NOR,Haugesund,Tromso,5,1
+2019-07-14,1919,NOR,Lillestrom,Stromsgodset,2,1
+2019-07-14,1919,NOR,Mjondalen,Odd,2,0
+2019-07-15,1919,NOR,Stabaek,Sarpsborg 08,3,3
+2019-07-21,1919,NOR,Brann,Stabaek,2,1
+2019-07-21,1919,NOR,Molde,Sarpsborg 08,2,1
+2019-08-03,1919,NOR,Odd,Lillestrom,2,1
+2019-08-03,1919,NOR,Sarpsborg 08,Rosenborg,1,1
+2019-08-04,1919,NOR,Ranheim,Brann,0,3
+2019-08-04,1919,NOR,Stabaek,Haugesund,1,1
+2019-08-04,1919,NOR,Tromso,Mjondalen,2,2
+2019-08-04,1919,NOR,Valerenga,Kristiansund,1,1
+2019-08-04,1919,NOR,Viking,Molde,0,2
+2019-08-05,1919,NOR,Stromsgodset,Bodo/Glimt,1,3
+2019-08-10,1919,NOR,Rosenborg,Tromso,5,2
+2019-08-11,1919,NOR,Bodo/Glimt,Viking,2,1
+2019-08-11,1919,NOR,Haugesund,Ranheim,0,1
+2019-08-11,1919,NOR,Kristiansund,Odd,1,1
+2019-08-11,1919,NOR,Stromsgodset,Valerenga,3,2
+2019-08-12,1919,NOR,Lillestrom,Mjondalen,3,2
+2019-08-14,1919,NOR,Kristiansund,Bodo/Glimt,1,2
+2019-08-14,1919,NOR,Stabaek,Valerenga,1,1
+2019-08-14,1919,NOR,Viking,Sarpsborg 08,2,1
+2019-08-17,1919,NOR,Odd,Rosenborg,1,1
+2019-08-18,1919,NOR,Mjondalen,Brann,2,1
+2019-08-18,1919,NOR,Ranheim,Molde,2,3
+2019-08-18,1919,NOR,Stabaek,Kristiansund,2,0
+2019-08-18,1919,NOR,Tromso,Lillestrom,1,1
+2019-08-18,1919,NOR,Valerenga,Haugesund,1,2
+2019-08-18,1919,NOR,Viking,Stromsgodset,4,0
+2019-08-19,1919,NOR,Sarpsborg 08,Bodo/Glimt,1,1
+2019-08-24,1919,NOR,Rosenborg,Stabaek,3,2
+2019-08-25,1919,NOR,Brann,Tromso,2,3
+2019-08-25,1919,NOR,Haugesund,Lillestrom,0,2
+2019-08-25,1919,NOR,Kristiansund,Mjondalen,4,0
+2019-08-25,1919,NOR,Molde,Odd,2,2
+2019-08-25,1919,NOR,Stromsgodset,Sarpsborg 08,2,1
+2019-08-25,1919,NOR,Viking,Ranheim,2,2
+2019-08-26,1919,NOR,Bodo/Glimt,Valerenga,4,0
+2019-08-30,1919,NOR,Odd,Bodo/Glimt,3,1
+2019-08-31,1919,NOR,Stabaek,Stromsgodset,2,1
+2019-09-01,1919,NOR,Lillestrom,Brann,1,3
+2019-09-01,1919,NOR,Mjondalen,Molde,1,3
+2019-09-01,1919,NOR,Ranheim,Kristiansund,1,2
+2019-09-01,1919,NOR,Sarpsborg 08,Viking,2,2
+2019-09-01,1919,NOR,Tromso,Haugesund,2,2
+2019-09-01,1919,NOR,Valerenga,Rosenborg,1,1
+2019-09-14,1919,NOR,Rosenborg,Lillestrom,3,1
+2019-09-15,1919,NOR,Bodo/Glimt,Stabaek,3,3
+2019-09-15,1919,NOR,Haugesund,Mjondalen,0,0
+2019-09-15,1919,NOR,Kristiansund,Brann,1,0
+2019-09-15,1919,NOR,Molde,Tromso,3,0
+2019-09-15,1919,NOR,Stromsgodset,Ranheim,1,0
+2019-09-15,1919,NOR,Viking,Odd,2,0
+2019-09-16,1919,NOR,Sarpsborg 08,Valerenga,1,0
+2019-09-21,1919,NOR,Brann,Haugesund,0,0
+2019-09-22,1919,NOR,Lillestrom,Kristiansund,1,1
+2019-09-22,1919,NOR,Mjondalen,Rosenborg,1,2
+2019-09-22,1919,NOR,Odd,Sarpsborg 08,3,0
+2019-09-22,1919,NOR,Ranheim,Bodo/Glimt,1,1
+2019-09-22,1919,NOR,Tromso,Stromsgodset,0,1
+2019-09-22,1919,NOR,Valerenga,Viking,0,4
+2019-09-23,1919,NOR,Stabaek,Molde,1,2
+2019-09-28,1919,NOR,Rosenborg,Brann,0,0
+2019-09-29,1919,NOR,Bodo/Glimt,Tromso,4,0
+2019-09-29,1919,NOR,Kristiansund,Haugesund,2,2
+2019-09-29,1919,NOR,Molde,Lillestrom,2,1
+2019-09-29,1919,NOR,Sarpsborg 08,Stabaek,0,0
+2019-09-29,1919,NOR,Stromsgodset,Odd,2,3
+2019-09-29,1919,NOR,Valerenga,Ranheim,1,1
+2019-09-30,1919,NOR,Viking,Mjondalen,4,1
+2019-10-04,1919,NOR,Mjondalen,Stromsgodset,1,1
+2019-10-05,1919,NOR,Odd,Valerenga,1,1
+2019-10-06,1919,NOR,Brann,Molde,0,0
+2019-10-06,1919,NOR,Haugesund,Rosenborg,2,1
+2019-10-06,1919,NOR,Lillestrom,Bodo/Glimt,0,0
+2019-10-06,1919,NOR,Ranheim,Sarpsborg 08,0,2
+2019-10-06,1919,NOR,Stabaek,Viking,0,0
+2019-10-06,1919,NOR,Tromso,Kristiansund,5,0
+2019-10-19,1919,NOR,Kristiansund,Rosenborg,2,2
+2019-10-19,1919,NOR,Valerenga,Stabaek,0,2
+2019-10-20,1919,NOR,Molde,Haugesund,3,1
+2019-10-20,1919,NOR,Ranheim,Odd,4,1
+2019-10-20,1919,NOR,Sarpsborg 08,Brann,1,1
+2019-10-20,1919,NOR,Stromsgodset,Lillestrom,1,1
+2019-10-20,1919,NOR,Viking,Tromso,2,1
+2019-10-21,1919,NOR,Bodo/Glimt,Mjondalen,0,0
+2019-10-26,1919,NOR,Lillestrom,Valerenga,0,0
+2019-10-27,1919,NOR,Haugesund,Stromsgodset,2,2
+2019-10-27,1919,NOR,Kristiansund,Viking,4,2
+2019-10-27,1919,NOR,Mjondalen,Sarpsborg 08,0,0
+2019-10-27,1919,NOR,Rosenborg,Molde,3,1
+2019-10-27,1919,NOR,Stabaek,Odd,0,0
+2019-10-27,1919,NOR,Tromso,Ranheim,4,2
+2019-10-28,1919,NOR,Brann,Bodo/Glimt,1,1
+2019-11-01,1919,NOR,Stromsgodset,Rosenborg,3,3
+2019-11-02,1919,NOR,Molde,Kristiansund,2,0
+2019-11-03,1919,NOR,Bodo/Glimt,Haugesund,2,2
+2019-11-03,1919,NOR,Ranheim,Stabaek,0,2
+2019-11-03,1919,NOR,Sarpsborg 08,Tromso,3,2
+2019-11-03,1919,NOR,Valerenga,Brann,1,0
+2019-11-03,1919,NOR,Viking,Lillestrom,3,0
+2019-11-04,1919,NOR,Odd,Mjondalen,3,2
+2019-11-08,1919,NOR,Brann,Odd,1,0
+2019-11-09,1919,NOR,Haugesund,Viking,1,0
+2019-11-10,1919,NOR,Kristiansund,Sarpsborg 08,4,0
+2019-11-10,1919,NOR,Lillestrom,Stabaek,1,3
+2019-11-10,1919,NOR,Mjondalen,Ranheim,3,1
+2019-11-10,1919,NOR,Molde,Stromsgodset,4,0
+2019-11-10,1919,NOR,Rosenborg,Bodo/Glimt,3,2
+2019-11-10,1919,NOR,Tromso,Valerenga,0,0
+2019-11-24,1919,NOR,Bodo/Glimt,Kristiansund,3,0
+2019-11-24,1919,NOR,Odd,Tromso,2,1
+2019-11-24,1919,NOR,Ranheim,Lillestrom,2,1
+2019-11-24,1919,NOR,Sarpsborg 08,Haugesund,1,1
+2019-11-24,1919,NOR,Stabaek,Mjondalen,4,2
+2019-11-24,1919,NOR,Stromsgodset,Brann,6,0
+2019-11-24,1919,NOR,Valerenga,Molde,2,4
+2019-11-24,1919,NOR,Viking,Rosenborg,2,2
+2019-12-01,1919,NOR,Brann,Viking,1,5
+2019-12-01,1919,NOR,Haugesund,Odd,4,1
+2019-12-01,1919,NOR,Kristiansund,Stromsgodset,1,2
+2019-12-01,1919,NOR,Lillestrom,Sarpsborg 08,0,0
+2019-12-01,1919,NOR,Mjondalen,Valerenga,1,0
+2019-12-01,1919,NOR,Molde,Bodo/Glimt,4,2
+2019-12-01,1919,NOR,Rosenborg,Ranheim,3,2
+2019-12-01,1919,NOR,Tromso,Stabaek,1,1
+2019-12-07,1919,NOR,Start,Lillestrom,2,1
+2019-12-11,1919,NOR,Lillestrom,Start,4,3
+2020-06-16,2020,NOR,Aalesund,Molde,1,4
+2020-06-16,2020,NOR,Odd,Sandefjord,1,2
+2020-06-16,2020,NOR,Rosenborg,Kristiansund,0,0
+2020-06-16,2020,NOR,Sarpsborg 08,Valerenga,0,1
+2020-06-16,2020,NOR,Stabaek,Mjondalen,0,0
+2020-06-16,2020,NOR,Viking,Bodo/Glimt,2,4
+2020-06-17,2020,NOR,Haugesund,Brann,1,2
+2020-06-17,2020,NOR,Start,Stromsgodset,2,2
+2020-06-20,2020,NOR,Mjondalen,Sarpsborg 08,1,0
+2020-06-20,2020,NOR,Molde,Rosenborg,1,0
+2020-06-21,2020,NOR,Bodo/Glimt,Haugesund,6,1
+2020-06-21,2020,NOR,Brann,Viking,3,0
+2020-06-21,2020,NOR,Kristiansund,Aalesund,7,2
+2020-06-21,2020,NOR,Sandefjord,Start,2,2
+2020-06-21,2020,NOR,Stromsgodset,Odd,1,0
+2020-06-21,2020,NOR,Valerenga,Stabaek,2,2
+2020-06-24,2020,NOR,Aalesund,Brann,2,2
+2020-06-24,2020,NOR,Haugesund,Kristiansund,2,2
+2020-06-24,2020,NOR,Odd,Valerenga,4,1
+2020-06-24,2020,NOR,Stabaek,Sandefjord,2,0
+2020-06-24,2020,NOR,Start,Molde,2,3
+2020-06-24,2020,NOR,Viking,Mjondalen,1,1
+2020-06-25,2020,NOR,Rosenborg,Bodo/Glimt,2,3
+2020-06-25,2020,NOR,Sarpsborg 08,Stromsgodset,2,3
+2020-06-27,2020,NOR,Start,Odd,0,5
+2020-06-27,2020,NOR,Valerenga,Viking,2,1
+2020-06-28,2020,NOR,Bodo/Glimt,Sarpsborg 08,2,1
+2020-06-28,2020,NOR,Brann,Rosenborg,1,2
+2020-06-28,2020,NOR,Mjondalen,Kristiansund,1,2
+2020-06-28,2020,NOR,Molde,Stabaek,4,1
+2020-06-28,2020,NOR,Sandefjord,Haugesund,0,1
+2020-06-28,2020,NOR,Stromsgodset,Aalesund,1,1
+2020-07-01,2020,NOR,Aalesund,Mjondalen,1,3
+2020-07-01,2020,NOR,Haugesund,Start,1,0
+2020-07-01,2020,NOR,Odd,Bodo/Glimt,0,4
+2020-07-01,2020,NOR,Rosenborg,Valerenga,1,1
+2020-07-01,2020,NOR,Stabaek,Stromsgodset,2,0
+2020-07-01,2020,NOR,Viking,Sandefjord,2,0
+2020-07-02,2020,NOR,Kristiansund,Molde,2,2
+2020-07-02,2020,NOR,Sarpsborg 08,Brann,0,1
+2020-07-04,2020,NOR,Start,Viking,1,1
+2020-07-04,2020,NOR,Valerenga,Aalesund,2,2
+2020-07-05,2020,NOR,Bodo/Glimt,Brann,5,0
+2020-07-05,2020,NOR,Molde,Mjondalen,2,1
+2020-07-05,2020,NOR,Odd,Haugesund,0,0
+2020-07-05,2020,NOR,Sandefjord,Sarpsborg 08,0,3
+2020-07-05,2020,NOR,Stabaek,Rosenborg,0,3
+2020-07-05,2020,NOR,Stromsgodset,Kristiansund,2,2
+2020-07-11,2020,NOR,Haugesund,Molde,0,3
+2020-07-11,2020,NOR,Rosenborg,Stromsgodset,3,0
+2020-07-12,2020,NOR,Aalesund,Bodo/Glimt,1,6
+2020-07-12,2020,NOR,Brann,Sandefjord,3,1
+2020-07-12,2020,NOR,Kristiansund,Stabaek,1,2
+2020-07-12,2020,NOR,Mjondalen,Valerenga,0,1
+2020-07-12,2020,NOR,Sarpsborg 08,Start,1,0
+2020-07-12,2020,NOR,Viking,Odd,1,2
+2020-07-15,2020,NOR,Bodo/Glimt,Kristiansund,2,1
+2020-07-15,2020,NOR,Molde,Viking,5,0
+2020-07-15,2020,NOR,Odd,Brann,1,0
+2020-07-15,2020,NOR,Sandefjord,Aalesund,1,0
+2020-07-15,2020,NOR,Stromsgodset,Mjondalen,2,1
+2020-07-15,2020,NOR,Valerenga,Haugesund,1,0
+2020-07-16,2020,NOR,Stabaek,Sarpsborg 08,1,1
+2020-07-16,2020,NOR,Start,Rosenborg,0,0
+2020-07-18,2020,NOR,Haugesund,Viking,0,2
+2020-07-18,2020,NOR,Mjondalen,Bodo/Glimt,2,3
+2020-07-19,2020,NOR,Aalesund,Stabaek,1,3
+2020-07-19,2020,NOR,Brann,Start,1,1
+2020-07-19,2020,NOR,Kristiansund,Valerenga,0,0
+2020-07-19,2020,NOR,Rosenborg,Sandefjord,2,1
+2020-07-19,2020,NOR,Sarpsborg 08,Odd,2,0
+2020-07-19,2020,NOR,Stromsgodset,Molde,0,4
+2020-07-25,2020,NOR,Brann,Kristiansund,1,1
+2020-07-25,2020,NOR,Odd,Aalesund,3,2
+2020-07-26,2020,NOR,Bodo/Glimt,Molde,3,1
+2020-07-26,2020,NOR,Haugesund,Rosenborg,1,0
+2020-07-26,2020,NOR,Sandefjord,Mjondalen,1,0
+2020-07-26,2020,NOR,Start,Stabaek,0,0
+2020-07-26,2020,NOR,Valerenga,Stromsgodset,2,0
+2020-07-26,2020,NOR,Viking,Sarpsborg 08,3,0
+2020-07-29,2020,NOR,Aalesund,Start,3,2
+2020-07-29,2020,NOR,Kristiansund,Sandefjord,3,1
+2020-07-29,2020,NOR,Mjondalen,Odd,0,2
+2020-07-29,2020,NOR,Molde,Valerenga,4,1
+2020-07-29,2020,NOR,Sarpsborg 08,Haugesund,0,0
+2020-07-29,2020,NOR,Stromsgodset,Brann,3,1
+2020-07-30,2020,NOR,Rosenborg,Viking,3,0
+2020-07-30,2020,NOR,Stabaek,Bodo/Glimt,2,2
+2020-08-01,2020,NOR,Brann,Valerenga,1,2
+2020-08-01,2020,NOR,Sandefjord,Molde,2,1
+2020-08-02,2020,NOR,Bodo/Glimt,Stromsgodset,3,2
+2020-08-02,2020,NOR,Haugesund,Stabaek,3,1
+2020-08-02,2020,NOR,Odd,Rosenborg,2,1
+2020-08-02,2020,NOR,Sarpsborg 08,Aalesund,4,0
+2020-08-02,2020,NOR,Start,Mjondalen,3,0
+2020-08-02,2020,NOR,Viking,Kristiansund,1,2
+2020-08-05,2020,NOR,Molde,Start,5,0
+2020-08-08,2020,NOR,Valerenga,Bodo/Glimt,2,2
+2020-08-09,2020,NOR,Aalesund,Viking,2,2
+2020-08-09,2020,NOR,Kristiansund,Start,3,2
+2020-08-09,2020,NOR,Mjondalen,Haugesund,1,0
+2020-08-09,2020,NOR,Rosenborg,Sarpsborg 08,5,1
+2020-08-09,2020,NOR,Stabaek,Odd,0,1
+2020-08-09,2020,NOR,Stromsgodset,Sandefjord,3,4
+2020-08-10,2020,NOR,Molde,Brann,1,2
+2020-08-15,2020,NOR,Sarpsborg 08,Molde,2,1
+2020-08-16,2020,NOR,Brann,Mjondalen,0,1
+2020-08-16,2020,NOR,Haugesund,Stromsgodset,2,3
+2020-08-16,2020,NOR,Odd,Kristiansund,2,1
+2020-08-16,2020,NOR,Rosenborg,Aalesund,3,2
+2020-08-16,2020,NOR,Sandefjord,Bodo/Glimt,1,2
+2020-08-16,2020,NOR,Viking,Stabaek,3,3
+2020-08-17,2020,NOR,Start,Valerenga,2,1
+2020-08-22,2020,NOR,Aalesund,Haugesund,1,3
+2020-08-22,2020,NOR,Bodo/Glimt,Start,6,0
+2020-08-22,2020,NOR,Kristiansund,Sarpsborg 08,4,1
+2020-08-22,2020,NOR,Mjondalen,Rosenborg,0,2
+2020-08-22,2020,NOR,Molde,Odd,2,0
+2020-08-22,2020,NOR,Stromsgodset,Viking,0,2
+2020-08-22,2020,NOR,Valerenga,Sandefjord,2,1
+2020-08-24,2020,NOR,Stabaek,Brann,0,2
+2020-08-29,2020,NOR,Brann,Stromsgodset,1,1
+2020-08-29,2020,NOR,Haugesund,Valerenga,2,1
+2020-08-30,2020,NOR,Odd,Mjondalen,6,1
+2020-08-30,2020,NOR,Rosenborg,Stabaek,2,2
+2020-08-30,2020,NOR,Sandefjord,Kristiansund,0,2
+2020-08-30,2020,NOR,Sarpsborg 08,Bodo/Glimt,0,3
+2020-08-30,2020,NOR,Start,Aalesund,1,0
+2020-08-30,2020,NOR,Viking,Molde,3,2
+2020-09-12,2020,NOR,Kristiansund,Viking,3,5
+2020-09-12,2020,NOR,Stabaek,Haugesund,2,1
+2020-09-13,2020,NOR,Aalesund,Sarpsborg 08,0,1
+2020-09-13,2020,NOR,Bodo/Glimt,Odd,6,1
+2020-09-13,2020,NOR,Mjondalen,Sandefjord,0,2
+2020-09-13,2020,NOR,Stromsgodset,Rosenborg,3,3
+2020-09-13,2020,NOR,Valerenga,Brann,5,1
+2020-09-19,2020,NOR,Sarpsborg 08,Mjondalen,2,0
+2020-09-19,2020,NOR,Valerenga,Molde,2,1
+2020-09-20,2020,NOR,Brann,Bodo/Glimt,1,3
+2020-09-20,2020,NOR,Odd,Stabaek,2,0
+2020-09-20,2020,NOR,Rosenborg,Haugesund,2,1
+2020-09-20,2020,NOR,Sandefjord,Stromsgodset,0,0
+2020-09-20,2020,NOR,Start,Kristiansund,1,2
+2020-09-20,2020,NOR,Viking,Aalesund,5,2
+2020-09-26,2020,NOR,Molde,Sandefjord,0,1
+2020-09-26,2020,NOR,Stromsgodset,Sarpsborg 08,0,0
+2020-09-27,2020,NOR,Aalesund,Rosenborg,1,2
+2020-09-27,2020,NOR,Bodo/Glimt,Valerenga,2,0
+2020-09-27,2020,NOR,Haugesund,Odd,4,4
+2020-09-27,2020,NOR,Kristiansund,Brann,1,1
+2020-09-27,2020,NOR,Mjondalen,Viking,1,2
+2020-09-27,2020,NOR,Stabaek,Start,2,0
+2020-10-03,2020,NOR,Sarpsborg 08,Stabaek,4,0
+2020-10-03,2020,NOR,Valerenga,Mjondalen,4,1
+2020-10-04,2020,NOR,Aalesund,Kristiansund,1,2
+2020-10-04,2020,NOR,Bodo/Glimt,Sandefjord,2,1
+2020-10-04,2020,NOR,Brann,Molde,1,2
+2020-10-04,2020,NOR,Rosenborg,Odd,4,1
+2020-10-04,2020,NOR,Start,Haugesund,5,1
+2020-10-04,2020,NOR,Viking,Stromsgodset,2,2
+2020-10-17,2020,NOR,Mjondalen,Brann,2,0
+2020-10-17,2020,NOR,Molde,Bodo/Glimt,4,2
+2020-10-18,2020,NOR,Haugesund,Sarpsborg 08,2,0
+2020-10-18,2020,NOR,Kristiansund,Rosenborg,0,0
+2020-10-18,2020,NOR,Sandefjord,Valerenga,0,3
+2020-10-18,2020,NOR,Stabaek,Aalesund,4,0
+2020-10-18,2020,NOR,Stromsgodset,Start,1,1
+2020-10-24,2020,NOR,Brann,Stabaek,1,1
+2020-10-24,2020,NOR,Start,Sandefjord,0,1
+2020-10-25,2020,NOR,Aalesund,Odd,0,3
+2020-10-25,2020,NOR,Bodo/Glimt,Mjondalen,2,0
+2020-10-25,2020,NOR,Molde,Stromsgodset,2,1
+2020-10-25,2020,NOR,Sarpsborg 08,Rosenborg,1,2
+2020-10-25,2020,NOR,Valerenga,Kristiansund,1,1
+2020-10-27,2020,NOR,Viking,Haugesund,0,1
+2020-10-31,2020,NOR,Haugesund,Aalesund,0,1
+2020-10-31,2020,NOR,Odd,Sarpsborg 08,1,1
+2020-11-01,2020,NOR,Kristiansund,Bodo/Glimt,2,3
+2020-11-01,2020,NOR,Mjondalen,Molde,1,3
+2020-11-01,2020,NOR,Rosenborg,Start,1,0
+2020-11-01,2020,NOR,Sandefjord,Brann,3,3
+2020-11-01,2020,NOR,Stabaek,Viking,1,1
+2020-11-01,2020,NOR,Stromsgodset,Valerenga,0,2
+2020-11-04,2020,NOR,Odd,Viking,3,0
+2020-11-07,2020,NOR,Brann,Haugesund,1,2
+2020-11-07,2020,NOR,Mjondalen,Stromsgodset,3,0
+2020-11-08,2020,NOR,Bodo/Glimt,Aalesund,7,0
+2020-11-08,2020,NOR,Molde,Kristiansund,2,2
+2020-11-08,2020,NOR,Sandefjord,Stabaek,0,0
+2020-11-08,2020,NOR,Start,Sarpsborg 08,3,2
+2020-11-08,2020,NOR,Valerenga,Odd,2,0
+2020-11-08,2020,NOR,Viking,Rosenborg,3,0
+2020-11-21,2020,NOR,Aalesund,Valerenga,1,1
+2020-11-21,2020,NOR,Stabaek,Molde,0,3
+2020-11-22,2020,NOR,Haugesund,Sandefjord,3,2
+2020-11-22,2020,NOR,Kristiansund,Mjondalen,1,0
+2020-11-22,2020,NOR,Odd,Start,1,2
+2020-11-22,2020,NOR,Sarpsborg 08,Viking,1,2
+2020-11-22,2020,NOR,Stromsgodset,Bodo/Glimt,1,2
+2020-11-24,2020,NOR,Rosenborg,Brann,2,3
+2020-11-28,2020,NOR,Brann,Aalesund,3,1
+2020-11-28,2020,NOR,Viking,Start,4,1
+2020-11-29,2020,NOR,Bodo/Glimt,Rosenborg,5,1
+2020-11-29,2020,NOR,Kristiansund,Stromsgodset,2,1
+2020-11-29,2020,NOR,Mjondalen,Stabaek,0,1
+2020-11-29,2020,NOR,Molde,Haugesund,3,1
+2020-11-29,2020,NOR,Valerenga,Sarpsborg 08,1,1
+2020-12-02,2020,NOR,Aalesund,Sandefjord,0,1
+2020-12-02,2020,NOR,Haugesund,Mjondalen,1,1
+2020-12-02,2020,NOR,Sarpsborg 08,Kristiansund,1,1
+2020-12-02,2020,NOR,Stabaek,Valerenga,1,1
+2020-12-02,2020,NOR,Start,Bodo/Glimt,1,1
+2020-12-02,2020,NOR,Viking,Brann,2,0
+2020-12-06,2020,NOR,Bodo/Glimt,Stabaek,5,2
+2020-12-06,2020,NOR,Brann,Sarpsborg 08,1,1
+2020-12-06,2020,NOR,Mjondalen,Start,1,0
+2020-12-06,2020,NOR,Molde,Aalesund,2,1
+2020-12-06,2020,NOR,Sandefjord,Viking,2,2
+2020-12-06,2020,NOR,Stromsgodset,Haugesund,2,2
+2020-12-07,2020,NOR,Valerenga,Rosenborg,1,0
+2020-12-09,2020,NOR,Aalesund,Stromsgodset,1,4
+2020-12-09,2020,NOR,Haugesund,Bodo/Glimt,0,4
+2020-12-09,2020,NOR,Kristiansund,Odd,4,3
+2020-12-09,2020,NOR,Sarpsborg 08,Sandefjord,0,0
+2020-12-09,2020,NOR,Start,Brann,1,1
+2020-12-10,2020,NOR,Rosenborg,Mjondalen,1,0
+2020-12-10,2020,NOR,Viking,Valerenga,2,2
+2020-12-13,2020,NOR,Rosenborg,Molde,3,1
+2020-12-13,2020,NOR,Sandefjord,Odd,1,1
+2020-12-13,2020,NOR,Stabaek,Kristiansund,2,2
+2020-12-16,2020,NOR,Odd,Molde,1,4
+2020-12-19,2020,NOR,Bodo/Glimt,Viking,3,0
+2020-12-19,2020,NOR,Molde,Sarpsborg 08,5,0
+2020-12-19,2020,NOR,Odd,Stromsgodset,1,3
+2020-12-22,2020,NOR,Brann,Odd,2,1
+2020-12-22,2020,NOR,Kristiansund,Haugesund,1,3
+2020-12-22,2020,NOR,Mjondalen,Aalesund,3,0
+2020-12-22,2020,NOR,Sandefjord,Rosenborg,0,0
+2020-12-22,2020,NOR,Stromsgodset,Stabaek,0,4
+2020-12-22,2020,NOR,Valerenga,Start,4,0
+2021-05-09,2121,NOR,Bodo/Glimt,Tromso,3,0
+2021-05-09,2121,NOR,Molde,Kristiansund,2,0
+2021-05-09,2121,NOR,Valerenga,Rosenborg,1,1
+2021-05-09,2121,NOR,Viking,Brann,3,1
+2021-05-12,2121,NOR,Brann,Valerenga,0,3
+2021-05-12,2121,NOR,Kristiansund,Bodo/Glimt,0,2
+2021-05-13,2121,NOR,Rosenborg,Viking,5,0
+2021-05-13,2121,NOR,Tromso,Molde,3,3
+2021-05-16,2121,NOR,Bodo/Glimt,Rosenborg,2,2
+2021-05-16,2121,NOR,Molde,Brann,4,0
+2021-05-16,2121,NOR,Sandefjord,Mjondalen,0,3
+2021-05-16,2121,NOR,Sarpsborg 08,Haugesund,0,0
+2021-05-16,2121,NOR,Stromsgodset,Lillestrom,3,1
+2021-05-16,2121,NOR,Valerenga,Kristiansund,1,2
+2021-05-16,2121,NOR,Viking,Tromso,0,1
+2021-05-19,2121,NOR,Stabaek,Odd,2,2
+2021-05-20,2121,NOR,Rosenborg,Brann,3,2
+2021-05-24,2121,NOR,Brann,Bodo/Glimt,1,2
+2021-05-24,2121,NOR,Haugesund,Stabaek,0,0
+2021-05-24,2121,NOR,Kristiansund,Stromsgodset,1,0
+2021-05-24,2121,NOR,Lillestrom,Viking,1,3
+2021-05-24,2121,NOR,Mjondalen,Valerenga,1,1
+2021-05-24,2121,NOR,Odd,Sarpsborg 08,1,1
+2021-05-24,2121,NOR,Rosenborg,Molde,2,3
+2021-05-24,2121,NOR,Tromso,Sandefjord,1,3
+2021-05-27,2121,NOR,Bodo/Glimt,Haugesund,2,0
+2021-05-27,2121,NOR,Lillestrom,Odd,1,0
+2021-05-27,2121,NOR,Molde,Valerenga,2,3
+2021-05-27,2121,NOR,Sandefjord,Rosenborg,1,2
+2021-05-27,2121,NOR,Sarpsborg 08,Kristiansund,0,1
+2021-05-27,2121,NOR,Stabaek,Brann,2,0
+2021-05-27,2121,NOR,Stromsgodset,Tromso,1,1
+2021-05-27,2121,NOR,Viking,Mjondalen,2,1
+2021-05-30,2121,NOR,Brann,Stromsgodset,3,0
+2021-05-30,2121,NOR,Haugesund,Viking,4,2
+2021-05-30,2121,NOR,Kristiansund,Lillestrom,1,0
+2021-05-30,2121,NOR,Mjondalen,Molde,0,0
+2021-05-30,2121,NOR,Odd,Bodo/Glimt,1,0
+2021-05-30,2121,NOR,Rosenborg,Stabaek,4,2
+2021-05-30,2121,NOR,Tromso,Sarpsborg 08,0,2
+2021-05-30,2121,NOR,Valerenga,Sandefjord,3,1
+2021-06-12,2121,NOR,Kristiansund,Odd,2,0
+2021-06-12,2121,NOR,Sandefjord,Molde,1,3
+2021-06-13,2121,NOR,Bodo/Glimt,Mjondalen,2,0
+2021-06-13,2121,NOR,Lillestrom,Haugesund,2,1
+2021-06-13,2121,NOR,Sarpsborg 08,Brann,0,0
+2021-06-13,2121,NOR,Stromsgodset,Rosenborg,2,1
+2021-06-13,2121,NOR,Viking,Valerenga,4,1
+2021-06-14,2121,NOR,Stabaek,Tromso,0,3
+2021-06-16,2121,NOR,Bodo/Glimt,Stromsgodset,7,2
+2021-06-16,2121,NOR,Molde,Sarpsborg 08,4,1
+2021-06-16,2121,NOR,Valerenga,Odd,1,1
+2021-06-19,2121,NOR,Sandefjord,Viking,3,0
+2021-06-20,2121,NOR,Brann,Odd,1,3
+2021-06-20,2121,NOR,Haugesund,Kristiansund,3,0
+2021-06-20,2121,NOR,Mjondalen,Stromsgodset,1,1
+2021-06-20,2121,NOR,Molde,Stabaek,2,1
+2021-06-20,2121,NOR,Rosenborg,Sarpsborg 08,0,1
+2021-06-20,2121,NOR,Tromso,Lillestrom,1,2
+2021-06-20,2121,NOR,Valerenga,Bodo/Glimt,1,1
+2021-06-24,2121,NOR,Bodo/Glimt,Molde,0,2
+2021-06-24,2121,NOR,Haugesund,Brann,1,0
+2021-06-24,2121,NOR,Kristiansund,Mjondalen,1,1
+2021-06-24,2121,NOR,Odd,Tromso,3,0
+2021-06-24,2121,NOR,Stabaek,Valerenga,0,2
+2021-06-24,2121,NOR,Stromsgodset,Sandefjord,4,0
+2021-06-25,2121,NOR,Lillestrom,Rosenborg,2,0
+2021-06-25,2121,NOR,Sarpsborg 08,Viking,1,2
+2021-06-27,2121,NOR,Bodo/Glimt,Stabaek,4,1
+2021-06-30,2121,NOR,Brann,Lillestrom,1,1
+2021-06-30,2121,NOR,Molde,Stromsgodset,3,0
+2021-06-30,2121,NOR,Rosenborg,Haugesund,0,0
+2021-06-30,2121,NOR,Sandefjord,Bodo/Glimt,1,0
+2021-06-30,2121,NOR,Tromso,Kristiansund,0,0
+2021-06-30,2121,NOR,Viking,Stabaek,3,3
+2021-07-01,2121,NOR,Mjondalen,Odd,1,2
+2021-07-01,2121,NOR,Valerenga,Sarpsborg 08,4,1
+2021-07-03,2121,NOR,Bodo/Glimt,Viking,2,2
+2021-07-04,2121,NOR,Haugesund,Tromso,3,0
+2021-07-04,2121,NOR,Lillestrom,Mjondalen,2,1
+2021-07-04,2121,NOR,Odd,Rosenborg,2,2
+2021-07-04,2121,NOR,Sarpsborg 08,Molde,1,0
+2021-07-04,2121,NOR,Stabaek,Sandefjord,0,2
+2021-07-04,2121,NOR,Stromsgodset,Valerenga,1,1
+2021-07-05,2121,NOR,Kristiansund,Brann,3,2
+2021-07-10,2121,NOR,Brann,Tromso,1,1
+2021-07-10,2121,NOR,Mjondalen,Haugesund,3,0
+2021-07-10,2121,NOR,Rosenborg,Kristiansund,1,0
+2021-07-10,2121,NOR,Sandefjord,Sarpsborg 08,2,0
+2021-07-10,2121,NOR,Viking,Stromsgodset,1,1
+2021-07-11,2121,NOR,Molde,Odd,5,0
+2021-07-11,2121,NOR,Valerenga,Lillestrom,2,2
+2021-07-17,2121,NOR,Odd,Viking,3,2
+2021-07-17,2121,NOR,Sarpsborg 08,Bodo/Glimt,2,2
+2021-07-18,2121,NOR,Brann,Mjondalen,1,1
+2021-07-18,2121,NOR,Haugesund,Valerenga,3,1
+2021-07-18,2121,NOR,Kristiansund,Sandefjord,2,0
+2021-07-18,2121,NOR,Lillestrom,Molde,1,1
+2021-07-18,2121,NOR,Stromsgodset,Stabaek,2,1
+2021-07-18,2121,NOR,Tromso,Rosenborg,1,3
+2021-07-21,2121,NOR,Sandefjord,Haugesund,1,1
+2021-07-21,2121,NOR,Sarpsborg 08,Mjondalen,1,1
+2021-07-21,2121,NOR,Stabaek,Lillestrom,2,3
+2021-07-21,2121,NOR,Stromsgodset,Odd,3,0
+2021-07-28,2121,NOR,Haugesund,Stromsgodset,2,1
+2021-07-28,2121,NOR,Lillestrom,Sarpsborg 08,2,0
+2021-07-28,2121,NOR,Mjondalen,Stabaek,1,2
+2021-07-28,2121,NOR,Odd,Sandefjord,2,3
+2021-08-08,2121,NOR,Mjondalen,Tromso,2,3
+2021-08-08,2121,NOR,Molde,Haugesund,5,4
+2021-08-08,2121,NOR,Sandefjord,Lillestrom,1,1
+2021-08-08,2121,NOR,Stabaek,Sarpsborg 08,3,1
+2021-08-08,2121,NOR,Viking,Kristiansund,3,2
+2021-08-14,2121,NOR,Kristiansund,Stabaek,5,1
+2021-08-14,2121,NOR,Sarpsborg 08,Stromsgodset,1,0
+2021-08-15,2121,NOR,Brann,Sandefjord,3,2
+2021-08-15,2121,NOR,Lillestrom,Bodo/Glimt,0,1
+2021-08-15,2121,NOR,Mjondalen,Rosenborg,1,2
+2021-08-15,2121,NOR,Odd,Haugesund,4,2
+2021-08-15,2121,NOR,Tromso,Valerenga,1,1
+2021-08-15,2121,NOR,Viking,Molde,3,2
+2021-08-21,2121,NOR,Stabaek,Mjondalen,1,1
+2021-08-21,2121,NOR,Stromsgodset,Brann,3,1
+2021-08-22,2121,NOR,Bodo/Glimt,Kristiansund,3,0
+2021-08-22,2121,NOR,Haugesund,Lillestrom,0,3
+2021-08-22,2121,NOR,Rosenborg,Odd,5,0
+2021-08-22,2121,NOR,Sandefjord,Tromso,1,1
+2021-08-22,2121,NOR,Valerenga,Viking,1,1
+2021-08-28,2121,NOR,Brann,Haugesund,1,3
+2021-08-28,2121,NOR,Mjondalen,Lillestrom,1,2
+2021-08-29,2121,NOR,Kristiansund,Molde,2,0
+2021-08-29,2121,NOR,Odd,Stromsgodset,0,1
+2021-08-29,2121,NOR,Sarpsborg 08,Sandefjord,5,0
+2021-08-29,2121,NOR,Tromso,Bodo/Glimt,2,3
+2021-08-29,2121,NOR,Valerenga,Stabaek,3,1
+2021-08-29,2121,NOR,Viking,Rosenborg,2,1
+2021-09-11,2121,NOR,Lillestrom,Brann,2,3
+2021-09-11,2121,NOR,Stabaek,Viking,1,3
+2021-09-12,2121,NOR,Bodo/Glimt,Odd,1,1
+2021-09-12,2121,NOR,Haugesund,Sarpsborg 08,2,1
+2021-09-12,2121,NOR,Molde,Mjondalen,4,0
+2021-09-12,2121,NOR,Rosenborg,Tromso,3,2
+2021-09-12,2121,NOR,Sandefjord,Valerenga,3,0
+2021-09-12,2121,NOR,Stromsgodset,Kristiansund,1,2
+2021-09-18,2121,NOR,Kristiansund,Haugesund,3,2
+2021-09-18,2121,NOR,Odd,Lillestrom,2,3
+2021-09-19,2121,NOR,Mjondalen,Sandefjord,1,1
+2021-09-19,2121,NOR,Sarpsborg 08,Rosenborg,1,3
+2021-09-19,2121,NOR,Tromso,Brann,1,1
+2021-09-19,2121,NOR,Valerenga,Molde,1,1
+2021-09-19,2121,NOR,Viking,Bodo/Glimt,1,3
+2021-09-25,2121,NOR,Lillestrom,Tromso,1,2
+2021-09-25,2121,NOR,Stromsgodset,Sarpsborg 08,5,0
+2021-09-26,2121,NOR,Bodo/Glimt,Valerenga,1,0
+2021-09-26,2121,NOR,Brann,Kristiansund,3,1
+2021-09-26,2121,NOR,Haugesund,Odd,1,3
+2021-09-26,2121,NOR,Molde,Viking,2,2
+2021-09-26,2121,NOR,Rosenborg,Mjondalen,3,1
+2021-09-26,2121,NOR,Sandefjord,Stabaek,0,3
+2021-09-29,2121,NOR,Stabaek,Stromsgodset,0,0
+2021-10-02,2121,NOR,Sarpsborg 08,Lillestrom,2,1
+2021-10-02,2121,NOR,Viking,Sandefjord,2,1
+2021-10-03,2121,NOR,Kristiansund,Rosenborg,1,0
+2021-10-03,2121,NOR,Mjondalen,Brann,1,1
+2021-10-03,2121,NOR,Odd,Molde,1,3
+2021-10-03,2121,NOR,Stabaek,Bodo/Glimt,0,3
+2021-10-03,2121,NOR,Tromso,Haugesund,2,0
+2021-10-03,2121,NOR,Valerenga,Stromsgodset,3,0
+2021-10-16,2121,NOR,Lillestrom,Kristiansund,0,0
+2021-10-16,2121,NOR,Molde,Tromso,3,0
+2021-10-17,2121,NOR,Bodo/Glimt,Sarpsborg 08,2,1
+2021-10-17,2121,NOR,Brann,Stabaek,1,1
+2021-10-17,2121,NOR,Haugesund,Mjondalen,7,0
+2021-10-17,2121,NOR,Rosenborg,Valerenga,2,2
+2021-10-17,2121,NOR,Sandefjord,Odd,0,0
+2021-10-17,2121,NOR,Stromsgodset,Viking,0,1
+2021-10-23,2121,NOR,Stabaek,Molde,0,3
+2021-10-23,2121,NOR,Viking,Lillestrom,5,1
+2021-10-24,2121,NOR,Kristiansund,Sarpsborg 08,1,3
+2021-10-24,2121,NOR,Odd,Brann,3,3
+2021-10-24,2121,NOR,Rosenborg,Sandefjord,4,1
+2021-10-24,2121,NOR,Stromsgodset,Bodo/Glimt,1,1
+2021-10-24,2121,NOR,Tromso,Mjondalen,1,0
+2021-10-24,2121,NOR,Valerenga,Haugesund,2,1
+2021-10-27,2121,NOR,Haugesund,Rosenborg,0,0
+2021-10-27,2121,NOR,Lillestrom,Stabaek,3,0
+2021-10-27,2121,NOR,Mjondalen,Kristiansund,5,0
+2021-10-27,2121,NOR,Molde,Bodo/Glimt,0,2
+2021-10-27,2121,NOR,Sandefjord,Stromsgodset,2,0
+2021-10-27,2121,NOR,Tromso,Odd,2,0
+2021-10-28,2121,NOR,Brann,Viking,0,2
+2021-10-28,2121,NOR,Sarpsborg 08,Valerenga,2,1
+2021-10-30,2121,NOR,Kristiansund,Tromso,1,1
+2021-10-30,2121,NOR,Rosenborg,Lillestrom,1,3
+2021-10-31,2121,NOR,Bodo/Glimt,Sandefjord,1,0
+2021-10-31,2121,NOR,Odd,Mjondalen,2,2
+2021-10-31,2121,NOR,Stabaek,Haugesund,2,1
+2021-10-31,2121,NOR,Stromsgodset,Molde,6,0
+2021-10-31,2121,NOR,Valerenga,Brann,1,0
+2021-10-31,2121,NOR,Viking,Sarpsborg 08,1,2
+2021-11-06,2121,NOR,Brann,Rosenborg,2,2
+2021-11-06,2121,NOR,Sarpsborg 08,Stabaek,4,1
+2021-11-07,2121,NOR,Haugesund,Bodo/Glimt,2,2
+2021-11-07,2121,NOR,Lillestrom,Valerenga,0,0
+2021-11-07,2121,NOR,Mjondalen,Viking,0,1
+2021-11-07,2121,NOR,Molde,Sandefjord,3,1
+2021-11-07,2121,NOR,Odd,Kristiansund,2,4
+2021-11-07,2121,NOR,Tromso,Stromsgodset,1,1
+2021-11-20,2121,NOR,Stromsgodset,Mjondalen,1,2
+2021-11-20,2121,NOR,Viking,Haugesund,1,1
+2021-11-21,2121,NOR,Bodo/Glimt,Lillestrom,2,0
+2021-11-21,2121,NOR,Molde,Rosenborg,4,1
+2021-11-21,2121,NOR,Sandefjord,Brann,2,2
+2021-11-21,2121,NOR,Sarpsborg 08,Odd,1,1
+2021-11-21,2121,NOR,Stabaek,Kristiansund,3,0
+2021-11-21,2121,NOR,Valerenga,Tromso,1,1
+2021-11-27,2121,NOR,Lillestrom,Stromsgodset,4,1
+2021-11-27,2121,NOR,Odd,Valerenga,1,2
+2021-11-28,2121,NOR,Brann,Molde,0,1
+2021-11-28,2121,NOR,Haugesund,Sandefjord,1,2
+2021-11-28,2121,NOR,Kristiansund,Viking,2,3
+2021-11-28,2121,NOR,Mjondalen,Sarpsborg 08,1,3
+2021-11-28,2121,NOR,Rosenborg,Bodo/Glimt,0,0
+2021-11-28,2121,NOR,Tromso,Stabaek,0,0
+2021-12-05,2121,NOR,Bodo/Glimt,Brann,2,2
+2021-12-05,2121,NOR,Molde,Lillestrom,3,3
+2021-12-05,2121,NOR,Sandefjord,Kristiansund,3,2
+2021-12-05,2121,NOR,Sarpsborg 08,Tromso,0,1
+2021-12-05,2121,NOR,Stabaek,Rosenborg,1,3
+2021-12-05,2121,NOR,Stromsgodset,Haugesund,0,0
+2021-12-05,2121,NOR,Valerenga,Mjondalen,2,0
+2021-12-05,2121,NOR,Viking,Odd,3,1
+2021-12-12,2121,NOR,Brann,Sarpsborg 08,2,1
+2021-12-12,2121,NOR,Haugesund,Molde,1,2
+2021-12-12,2121,NOR,Kristiansund,Valerenga,2,1
+2021-12-12,2121,NOR,Lillestrom,Sandefjord,2,0
+2021-12-12,2121,NOR,Mjondalen,Bodo/Glimt,0,3
+2021-12-12,2121,NOR,Odd,Stabaek,3,1
+2021-12-12,2121,NOR,Rosenborg,Stromsgodset,2,2
+2021-12-12,2121,NOR,Tromso,Viking,0,2
+2021-12-15,2121,NOR,Brann,Jerv,1,1
+2022-04-02,2222,NOR,HamKam,Lillestrom,2,2
+2022-04-02,2222,NOR,Molde,Valerenga,1,0
+2022-04-03,2222,NOR,Aalesund,Kristiansund,1,0
+2022-04-03,2222,NOR,Bodo/Glimt,Rosenborg,2,2
+2022-04-03,2222,NOR,Haugesund,Sandefjord,1,3
+2022-04-03,2222,NOR,Jerv,Stromsgodset,1,0
+2022-04-03,2222,NOR,Odd,Tromso,2,0
+2022-04-03,2222,NOR,Sarpsborg 08,Viking,0,1
+2022-04-09,2222,NOR,Lillestrom,Jerv,4,0
+2022-04-10,2222,NOR,Kristiansund,Sarpsborg 08,2,3
+2022-04-10,2222,NOR,Rosenborg,Odd,1,0
+2022-04-10,2222,NOR,Sandefjord,Bodo/Glimt,1,2
+2022-04-10,2222,NOR,Stromsgodset,Molde,1,3
+2022-04-10,2222,NOR,Tromso,HamKam,2,1
+2022-04-10,2222,NOR,Valerenga,Haugesund,2,1
+2022-04-10,2222,NOR,Viking,Aalesund,1,0
+2022-04-18,2222,NOR,Aalesund,Tromso,2,2
+2022-04-18,2222,NOR,Bodo/Glimt,Valerenga,5,1
+2022-04-18,2222,NOR,HamKam,Sandefjord,3,0
+2022-04-18,2222,NOR,Haugesund,Stromsgodset,0,1
+2022-04-18,2222,NOR,Jerv,Kristiansund,1,0
+2022-04-18,2222,NOR,Molde,Lillestrom,1,2
+2022-04-18,2222,NOR,Odd,Viking,2,1
+2022-04-18,2222,NOR,Sarpsborg 08,Rosenborg,1,1
+2022-04-23,2222,NOR,Odd,Aalesund,2,3
+2022-04-23,2222,NOR,Stromsgodset,Sandefjord,0,5
+2022-04-24,2222,NOR,Kristiansund,HamKam,2,2
+2022-04-24,2222,NOR,Lillestrom,Haugesund,1,0
+2022-04-24,2222,NOR,Rosenborg,Molde,0,0
+2022-04-24,2222,NOR,Tromso,Sarpsborg 08,2,5
+2022-04-24,2222,NOR,Valerenga,Jerv,1,0
+2022-04-24,2222,NOR,Viking,Bodo/Glimt,2,0
+2022-04-28,2222,NOR,Lillestrom,Aalesund,2,0
+2022-04-30,2222,NOR,Viking,Haugesund,5,1
+2022-05-07,2222,NOR,Molde,Viking,3,4
+2022-05-07,2222,NOR,Sarpsborg 08,Odd,1,0
+2022-05-08,2222,NOR,Bodo/Glimt,Lillestrom,1,1
+2022-05-08,2222,NOR,HamKam,Aalesund,0,0
+2022-05-08,2222,NOR,Haugesund,Kristiansund,2,0
+2022-05-08,2222,NOR,Jerv,Tromso,1,1
+2022-05-08,2222,NOR,Sandefjord,Valerenga,1,3
+2022-05-08,2222,NOR,Stromsgodset,Rosenborg,3,0
+2022-05-11,2222,NOR,Molde,Odd,3,0
+2022-05-12,2222,NOR,Tromso,Valerenga,1,0
+2022-05-12,2222,NOR,Viking,Stromsgodset,0,0
+2022-05-16,2222,NOR,Aalesund,Molde,0,2
+2022-05-16,2222,NOR,Bodo/Glimt,Tromso,1,1
+2022-05-16,2222,NOR,Kristiansund,Stromsgodset,0,3
+2022-05-16,2222,NOR,Lillestrom,Sarpsborg 08,1,0
+2022-05-16,2222,NOR,Odd,Haugesund,0,4
+2022-05-16,2222,NOR,Rosenborg,Sandefjord,3,0
+2022-05-16,2222,NOR,Valerenga,HamKam,1,1
+2022-05-16,2222,NOR,Viking,Jerv,3,0
+2022-05-21,2222,NOR,Molde,Kristiansund,2,1
+2022-05-21,2222,NOR,Sandefjord,Lillestrom,1,4
+2022-05-22,2222,NOR,HamKam,Rosenborg,1,1
+2022-05-22,2222,NOR,Haugesund,Bodo/Glimt,1,4
+2022-05-22,2222,NOR,Jerv,Odd,0,1
+2022-05-22,2222,NOR,Sarpsborg 08,Aalesund,1,2
+2022-05-22,2222,NOR,Stromsgodset,Valerenga,3,2
+2022-05-22,2222,NOR,Tromso,Viking,1,1
+2022-05-25,2222,NOR,Aalesund,Jerv,2,1
+2022-05-25,2222,NOR,Bodo/Glimt,Stromsgodset,2,2
+2022-05-25,2222,NOR,Lillestrom,Valerenga,2,0
+2022-05-25,2222,NOR,Odd,Sandefjord,0,1
+2022-05-25,2222,NOR,Viking,HamKam,1,1
+2022-05-26,2222,NOR,Rosenborg,Haugesund,3,3
+2022-05-26,2222,NOR,Sarpsborg 08,Molde,1,2
+2022-05-28,2222,NOR,HamKam,Odd,1,2
+2022-05-28,2222,NOR,Stromsgodset,Viking,3,2
+2022-05-29,2222,NOR,Haugesund,Aalesund,2,2
+2022-05-29,2222,NOR,Jerv,Sarpsborg 08,0,5
+2022-05-29,2222,NOR,Molde,Bodo/Glimt,3,1
+2022-05-29,2222,NOR,Tromso,Lillestrom,2,2
+2022-05-29,2222,NOR,Valerenga,Rosenborg,0,4
+2022-06-18,2222,NOR,Kristiansund,Bodo/Glimt,0,2
+2022-06-18,2222,NOR,Sarpsborg 08,Stromsgodset,5,1
+2022-06-19,2222,NOR,Aalesund,Valerenga,2,2
+2022-06-19,2222,NOR,Jerv,HamKam,1,2
+2022-06-19,2222,NOR,Lillestrom,Rosenborg,3,1
+2022-06-19,2222,NOR,Odd,Molde,1,2
+2022-06-19,2222,NOR,Tromso,Haugesund,1,1
+2022-06-19,2222,NOR,Viking,Sandefjord,1,2
+2022-06-25,2222,NOR,Haugesund,Viking,4,2
+2022-06-25,2222,NOR,Rosenborg,Kristiansund,3,1
+2022-06-26,2222,NOR,Bodo/Glimt,Aalesund,2,0
+2022-06-26,2222,NOR,HamKam,Sarpsborg 08,3,2
+2022-06-26,2222,NOR,Sandefjord,Tromso,2,2
+2022-06-26,2222,NOR,Stromsgodset,Lillestrom,3,0
+2022-06-26,2222,NOR,Valerenga,Odd,0,1
+2022-07-02,2222,NOR,Jerv,Haugesund,1,0
+2022-07-02,2222,NOR,Odd,Bodo/Glimt,3,2
+2022-07-03,2222,NOR,Aalesund,Stromsgodset,1,0
+2022-07-03,2222,NOR,HamKam,Molde,0,0
+2022-07-03,2222,NOR,Kristiansund,Lillestrom,1,3
+2022-07-03,2222,NOR,Sarpsborg 08,Sandefjord,4,3
+2022-07-03,2222,NOR,Viking,Rosenborg,1,1
+2022-07-06,2222,NOR,Molde,Jerv,1,1
+2022-07-09,2222,NOR,Bodo/Glimt,Sarpsborg 08,4,1
+2022-07-09,2222,NOR,Stromsgodset,Odd,0,0
+2022-07-10,2222,NOR,Haugesund,HamKam,1,1
+2022-07-10,2222,NOR,Lillestrom,Viking,0,1
+2022-07-10,2222,NOR,Molde,Tromso,5,1
+2022-07-10,2222,NOR,Rosenborg,Jerv,3,2
+2022-07-10,2222,NOR,Valerenga,Kristiansund,3,0
+2022-07-12,2222,NOR,Sandefjord,Aalesund,2,2
+2022-07-16,2222,NOR,HamKam,Bodo/Glimt,0,2
+2022-07-16,2222,NOR,Jerv,Sandefjord,1,2
+2022-07-17,2222,NOR,Aalesund,Rosenborg,0,0
+2022-07-17,2222,NOR,Molde,Haugesund,1,0
+2022-07-17,2222,NOR,Odd,Lillestrom,1,2
+2022-07-17,2222,NOR,Sarpsborg 08,Valerenga,0,1
+2022-07-17,2222,NOR,Viking,Kristiansund,2,1
+2022-07-23,2222,NOR,Bodo/Glimt,Jerv,5,0
+2022-07-23,2222,NOR,Rosenborg,Tromso,3,0
+2022-07-24,2222,NOR,Haugesund,Sarpsborg 08,3,1
+2022-07-24,2222,NOR,Kristiansund,Odd,2,2
+2022-07-24,2222,NOR,Sandefjord,Molde,2,3
+2022-07-24,2222,NOR,Stromsgodset,HamKam,1,1
+2022-07-24,2222,NOR,Valerenga,Viking,4,2
+2022-07-27,2222,NOR,Sandefjord,Kristiansund,2,0
+2022-07-30,2222,NOR,Aalesund,Bodo/Glimt,1,2
+2022-07-30,2222,NOR,HamKam,Kristiansund,0,1
+2022-07-30,2222,NOR,Jerv,Valerenga,2,5
+2022-07-30,2222,NOR,Odd,Rosenborg,2,3
+2022-07-30,2222,NOR,Tromso,Sandefjord,3,0
+2022-07-31,2222,NOR,Molde,Stromsgodset,3,0
+2022-07-31,2222,NOR,Sarpsborg 08,Lillestrom,0,2
+2022-08-03,2222,NOR,Kristiansund,Tromso,1,1
+2022-08-06,2222,NOR,Bodo/Glimt,Odd,7,0
+2022-08-06,2222,NOR,Rosenborg,HamKam,2,1
+2022-08-07,2222,NOR,Haugesund,Jerv,3,1
+2022-08-07,2222,NOR,Kristiansund,Molde,2,3
+2022-08-07,2222,NOR,Lillestrom,Tromso,1,1
+2022-08-07,2222,NOR,Sandefjord,Viking,2,2
+2022-08-07,2222,NOR,Stromsgodset,Sarpsborg 08,3,1
+2022-08-07,2222,NOR,Valerenga,Aalesund,4,0
+2022-08-12,2222,NOR,Sandefjord,Rosenborg,2,5
+2022-08-12,2222,NOR,Sarpsborg 08,Bodo/Glimt,1,4
+2022-08-13,2222,NOR,Aalesund,Haugesund,1,2
+2022-08-14,2222,NOR,HamKam,Valerenga,1,1
+2022-08-14,2222,NOR,Jerv,Lillestrom,1,0
+2022-08-14,2222,NOR,Tromso,Kristiansund,2,1
+2022-08-20,2222,NOR,Bodo/Glimt,HamKam,2,2
+2022-08-20,2222,NOR,Odd,Sarpsborg 08,1,0
+2022-08-21,2222,NOR,Haugesund,Molde,0,1
+2022-08-21,2222,NOR,Lillestrom,Sandefjord,3,0
+2022-08-21,2222,NOR,Rosenborg,Aalesund,2,1
+2022-08-21,2222,NOR,Stromsgodset,Jerv,6,0
+2022-08-21,2222,NOR,Valerenga,Tromso,1,0
+2022-08-27,2222,NOR,Jerv,Bodo/Glimt,0,2
+2022-08-27,2222,NOR,Sandefjord,Stromsgodset,2,2
+2022-08-28,2222,NOR,Aalesund,Odd,1,1
+2022-08-28,2222,NOR,HamKam,Haugesund,1,0
+2022-08-28,2222,NOR,Lillestrom,Kristiansund,1,1
+2022-08-28,2222,NOR,Molde,Sarpsborg 08,4,1
+2022-08-28,2222,NOR,Tromso,Rosenborg,4,3
+2022-08-28,2222,NOR,Viking,Valerenga,1,2
+2022-08-31,2222,NOR,Kristiansund,Viking,2,1
+2022-08-31,2222,NOR,Tromso,Stromsgodset,1,0
+2022-09-03,2222,NOR,Bodo/Glimt,Molde,1,4
+2022-09-04,2222,NOR,Haugesund,Tromso,2,1
+2022-09-04,2222,NOR,Kristiansund,Sandefjord,3,1
+2022-09-04,2222,NOR,Odd,Jerv,2,1
+2022-09-04,2222,NOR,Rosenborg,Viking,4,1
+2022-09-04,2222,NOR,Sarpsborg 08,HamKam,2,1
+2022-09-04,2222,NOR,Stromsgodset,Aalesund,1,2
+2022-09-04,2222,NOR,Valerenga,Lillestrom,3,1
+2022-09-10,2222,NOR,Lillestrom,Stromsgodset,2,1
+2022-09-10,2222,NOR,Sandefjord,Odd,1,3
+2022-09-11,2222,NOR,Aalesund,Sarpsborg 08,1,3
+2022-09-11,2222,NOR,HamKam,Viking,1,2
+2022-09-11,2222,NOR,Haugesund,Rosenborg,2,1
+2022-09-11,2222,NOR,Jerv,Molde,2,4
+2022-09-11,2222,NOR,Kristiansund,Valerenga,3,2
+2022-09-11,2222,NOR,Tromso,Bodo/Glimt,3,2
+2022-09-17,2222,NOR,Odd,HamKam,2,0
+2022-09-18,2222,NOR,Bodo/Glimt,Haugesund,1,1
+2022-09-18,2222,NOR,Molde,Aalesund,3,0
+2022-09-18,2222,NOR,Rosenborg,Lillestrom,3,1
+2022-09-18,2222,NOR,Sarpsborg 08,Jerv,4,3
+2022-09-18,2222,NOR,Stromsgodset,Kristiansund,4,1
+2022-09-18,2222,NOR,Valerenga,Sandefjord,4,0
+2022-09-18,2222,NOR,Viking,Tromso,2,2
+2022-10-01,2222,NOR,Lillestrom,Bodo/Glimt,1,4
+2022-10-01,2222,NOR,Tromso,Molde,0,1
+2022-10-01,2222,NOR,Valerenga,Stromsgodset,4,0
+2022-10-02,2222,NOR,Aalesund,Viking,2,1
+2022-10-02,2222,NOR,HamKam,Jerv,2,1
+2022-10-02,2222,NOR,Haugesund,Odd,2,2
+2022-10-02,2222,NOR,Kristiansund,Rosenborg,4,4
+2022-10-02,2222,NOR,Sandefjord,Sarpsborg 08,1,1
+2022-10-08,2222,NOR,Sarpsborg 08,Haugesund,4,0
+2022-10-09,2222,NOR,Bodo/Glimt,Sandefjord,4,1
+2022-10-09,2222,NOR,Molde,HamKam,5,0
+2022-10-09,2222,NOR,Odd,Kristiansund,1,1
+2022-10-09,2222,NOR,Rosenborg,Valerenga,3,0
+2022-10-09,2222,NOR,Stromsgodset,Tromso,1,2
+2022-10-09,2222,NOR,Viking,Lillestrom,0,3
+2022-10-15,2222,NOR,Rosenborg,Stromsgodset,3,0
+2022-10-15,2222,NOR,Tromso,Odd,3,2
+2022-10-16,2222,NOR,Aalesund,HamKam,0,0
+2022-10-16,2222,NOR,Kristiansund,Haugesund,0,1
+2022-10-16,2222,NOR,Lillestrom,Molde,0,1
+2022-10-16,2222,NOR,Sandefjord,Jerv,1,2
+2022-10-16,2222,NOR,Valerenga,Bodo/Glimt,0,6
+2022-10-16,2222,NOR,Viking,Sarpsborg 08,0,1
+2022-10-19,2222,NOR,Jerv,Aalesund,0,1
+2022-10-22,2222,NOR,HamKam,Stromsgodset,1,1
+2022-10-22,2222,NOR,Odd,Valerenga,2,1
+2022-10-23,2222,NOR,Aalesund,Sandefjord,1,0
+2022-10-23,2222,NOR,Bodo/Glimt,Kristiansund,5,0
+2022-10-23,2222,NOR,Haugesund,Lillestrom,0,1
+2022-10-23,2222,NOR,Jerv,Viking,2,2
+2022-10-23,2222,NOR,Molde,Rosenborg,2,1
+2022-10-23,2222,NOR,Sarpsborg 08,Tromso,1,1
+2022-10-29,2222,NOR,Stromsgodset,Haugesund,1,2
+2022-10-29,2222,NOR,Valerenga,Sarpsborg 08,3,3
+2022-10-30,2222,NOR,Kristiansund,Aalesund,4,0
+2022-10-30,2222,NOR,Lillestrom,Odd,0,2
+2022-10-30,2222,NOR,Rosenborg,Bodo/Glimt,3,2
+2022-10-30,2222,NOR,Sandefjord,HamKam,1,2
+2022-10-30,2222,NOR,Tromso,Jerv,2,2
+2022-10-30,2222,NOR,Viking,Molde,1,4
+2022-11-06,2222,NOR,Aalesund,Lillestrom,2,1
+2022-11-06,2222,NOR,Bodo/Glimt,Viking,5,4
+2022-11-06,2222,NOR,HamKam,Tromso,1,2
+2022-11-06,2222,NOR,Haugesund,Valerenga,1,1
+2022-11-06,2222,NOR,Jerv,Rosenborg,2,4
+2022-11-06,2222,NOR,Molde,Sandefjord,2,1
+2022-11-06,2222,NOR,Odd,Stromsgodset,5,1
+2022-11-06,2222,NOR,Sarpsborg 08,Kristiansund,2,2
+2022-11-13,2222,NOR,Kristiansund,Jerv,1,1
+2022-11-13,2222,NOR,Lillestrom,HamKam,3,1
+2022-11-13,2222,NOR,Rosenborg,Sarpsborg 08,2,3
+2022-11-13,2222,NOR,Sandefjord,Haugesund,2,2
+2022-11-13,2222,NOR,Stromsgodset,Bodo/Glimt,2,4
+2022-11-13,2222,NOR,Tromso,Aalesund,2,2
+2022-11-13,2222,NOR,Valerenga,Molde,1,2
+2022-11-13,2222,NOR,Viking,Odd,1,1
+2022-11-16,2222,NOR,Sandefjord,Kongsvinger,4,0
+2022-11-19,2222,NOR,Kongsvinger,Sandefjord,2,1
+2023-04-10,2323,NOR,Aalesund,Valerenga,0,1
+2023-04-10,2323,NOR,Brann,Haugesund,3,0
+2023-04-10,2323,NOR,HamKam,Sandefjord,2,0
+2023-04-10,2323,NOR,Rosenborg,Viking,1,0
+2023-04-10,2323,NOR,Sarpsborg 08,Bodo/Glimt,0,2
+2023-04-10,2323,NOR,Stabaek,Odd,0,0
+2023-04-10,2323,NOR,Tromso,Molde,1,0
+2023-04-15,2323,NOR,Viking,Lillestrom,2,0
+2023-04-16,2323,NOR,Bodo/Glimt,Stabaek,4,0
+2023-04-16,2323,NOR,Haugesund,HamKam,3,2
+2023-04-16,2323,NOR,Molde,Rosenborg,1,1
+2023-04-16,2323,NOR,Odd,Brann,2,0
+2023-04-16,2323,NOR,Sandefjord,Tromso,0,0
+2023-04-16,2323,NOR,Stromsgodset,Aalesund,1,0
+2023-04-16,2323,NOR,Valerenga,Sarpsborg 08,0,2
+2023-04-19,2323,NOR,Lillestrom,Stromsgodset,4,3
+2023-04-22,2323,NOR,Brann,Valerenga,3,1
+2023-04-23,2323,NOR,Aalesund,Bodo/Glimt,0,3
+2023-04-23,2323,NOR,HamKam,Stromsgodset,2,0
+2023-04-23,2323,NOR,Lillestrom,Molde,2,1
+2023-04-23,2323,NOR,Rosenborg,Sandefjord,1,1
+2023-04-23,2323,NOR,Sarpsborg 08,Odd,0,0
+2023-04-23,2323,NOR,Stabaek,Haugesund,3,0
+2023-04-23,2323,NOR,Tromso,Viking,1,1
+2023-04-29,2323,NOR,Bodo/Glimt,Brann,2,2
+2023-04-30,2323,NOR,Haugesund,Sarpsborg 08,0,0
+2023-04-30,2323,NOR,Molde,Stabaek,2,3
+2023-04-30,2323,NOR,Odd,Rosenborg,0,0
+2023-04-30,2323,NOR,Sandefjord,Aalesund,4,0
+2023-04-30,2323,NOR,Stromsgodset,Tromso,0,1
+2023-04-30,2323,NOR,Viking,HamKam,7,3
+2023-05-01,2323,NOR,Valerenga,Lillestrom,3,4
+2023-05-03,2323,NOR,Bodo/Glimt,Odd,2,0
+2023-05-03,2323,NOR,Molde,Aalesund,3,0
+2023-05-03,2323,NOR,Rosenborg,Brann,0,2
+2023-05-06,2323,NOR,Rosenborg,Valerenga,1,3
+2023-05-07,2323,NOR,Aalesund,Haugesund,0,0
+2023-05-07,2323,NOR,HamKam,Molde,0,4
+2023-05-07,2323,NOR,Lillestrom,Bodo/Glimt,1,2
+2023-05-07,2323,NOR,Stabaek,Sarpsborg 08,1,1
+2023-05-07,2323,NOR,Tromso,Odd,0,1
+2023-05-07,2323,NOR,Viking,Stromsgodset,1,1
+2023-05-08,2323,NOR,Brann,Sandefjord,0,0
+2023-05-12,2323,NOR,Odd,Lillestrom,0,1
+2023-05-13,2323,NOR,Bodo/Glimt,Rosenborg,3,2
+2023-05-13,2323,NOR,HamKam,Tromso,1,2
+2023-05-13,2323,NOR,Haugesund,Valerenga,1,1
+2023-05-13,2323,NOR,Molde,Stromsgodset,3,2
+2023-05-13,2323,NOR,Sandefjord,Viking,1,2
+2023-05-13,2323,NOR,Sarpsborg 08,Brann,2,1
+2023-05-13,2323,NOR,Stabaek,Aalesund,1,0
+2023-05-16,2323,NOR,Aalesund,Molde,3,1
+2023-05-16,2323,NOR,Brann,Stabaek,4,1
+2023-05-16,2323,NOR,Lillestrom,Sarpsborg 08,1,2
+2023-05-16,2323,NOR,Rosenborg,Haugesund,1,0
+2023-05-16,2323,NOR,Stromsgodset,Sandefjord,1,0
+2023-05-16,2323,NOR,Tromso,Bodo/Glimt,2,3
+2023-05-16,2323,NOR,Valerenga,HamKam,3,0
+2023-05-16,2323,NOR,Viking,Odd,3,2
+2023-05-29,2323,NOR,Bodo/Glimt,Viking,5,1
+2023-05-29,2323,NOR,Brann,Rosenborg,3,1
+2023-05-29,2323,NOR,HamKam,Lillestrom,0,0
+2023-05-29,2323,NOR,Haugesund,Tromso,1,2
+2023-05-29,2323,NOR,Molde,Sandefjord,5,0
+2023-05-29,2323,NOR,Odd,Stromsgodset,1,1
+2023-05-29,2323,NOR,Sarpsborg 08,Aalesund,3,1
+2023-05-29,2323,NOR,Stabaek,Valerenga,2,1
+2023-06-04,2323,NOR,Aalesund,Brann,1,3
+2023-06-04,2323,NOR,Lillestrom,Stabaek,3,1
+2023-06-04,2323,NOR,Rosenborg,HamKam,4,0
+2023-06-04,2323,NOR,Sandefjord,Odd,4,1
+2023-06-04,2323,NOR,Stromsgodset,Haugesund,1,2
+2023-06-04,2323,NOR,Tromso,Sarpsborg 08,2,1
+2023-06-04,2323,NOR,Valerenga,Bodo/Glimt,1,3
+2023-06-04,2323,NOR,Viking,Molde,3,4
+2023-06-11,2323,NOR,Aalesund,Tromso,2,3
+2023-06-11,2323,NOR,Bodo/Glimt,HamKam,3,0
+2023-06-11,2323,NOR,Brann,Lillestrom,2,2
+2023-06-11,2323,NOR,Haugesund,Sandefjord,3,2
+2023-06-11,2323,NOR,Odd,Molde,1,0
+2023-06-11,2323,NOR,Sarpsborg 08,Viking,1,3
+2023-06-11,2323,NOR,Stabaek,Rosenborg,2,2
+2023-06-11,2323,NOR,Valerenga,Stromsgodset,0,1
+2023-06-24,2323,NOR,Viking,Brann,3,1
+2023-06-25,2323,NOR,HamKam,Odd,0,1
+2023-06-25,2323,NOR,Molde,Haugesund,1,0
+2023-06-25,2323,NOR,Rosenborg,Sarpsborg 08,0,3
+2023-06-25,2323,NOR,Stromsgodset,Bodo/Glimt,2,0
+2023-06-25,2323,NOR,Tromso,Stabaek,2,1
+2023-07-01,2323,NOR,Valerenga,Viking,1,2
+2023-07-02,2323,NOR,Aalesund,Rosenborg,1,0
+2023-07-02,2323,NOR,Bodo/Glimt,Molde,2,2
+2023-07-02,2323,NOR,Brann,HamKam,2,1
+2023-07-02,2323,NOR,Haugesund,Odd,2,1
+2023-07-02,2323,NOR,Lillestrom,Tromso,0,1
+2023-07-02,2323,NOR,Sarpsborg 08,Sandefjord,6,1
+2023-07-03,2323,NOR,Stabaek,Stromsgodset,0,1
+2023-07-07,2323,NOR,HamKam,Aalesund,2,1
+2023-07-08,2323,NOR,Viking,Haugesund,2,0
+2023-07-09,2323,NOR,Molde,Brann,2,0
+2023-07-09,2323,NOR,Odd,Bodo/Glimt,0,2
+2023-07-09,2323,NOR,Rosenborg,Lillestrom,1,2
+2023-07-09,2323,NOR,Sandefjord,Stabaek,0,0
+2023-07-09,2323,NOR,Stromsgodset,Sarpsborg 08,5,2
+2023-07-09,2323,NOR,Tromso,Valerenga,0,0
+2023-07-15,2323,NOR,Valerenga,Molde,0,4
+2023-07-16,2323,NOR,Aalesund,Odd,0,3
+2023-07-16,2323,NOR,Bodo/Glimt,Haugesund,2,1
+2023-07-16,2323,NOR,Brann,Stromsgodset,1,0
+2023-07-16,2323,NOR,Lillestrom,Sandefjord,4,2
+2023-07-16,2323,NOR,Rosenborg,Tromso,2,1
+2023-07-16,2323,NOR,Sarpsborg 08,HamKam,2,3
+2023-07-16,2323,NOR,Stabaek,Viking,0,1
+2023-07-19,2323,NOR,Lillestrom,Aalesund,5,1
+2023-07-22,2323,NOR,Molde,Sarpsborg 08,5,1
+2023-07-23,2323,NOR,HamKam,Stabaek,3,2
+2023-07-23,2323,NOR,Haugesund,Lillestrom,1,0
+2023-07-23,2323,NOR,Odd,Valerenga,2,1
+2023-07-23,2323,NOR,Sandefjord,Bodo/Glimt,2,5
+2023-07-23,2323,NOR,Stromsgodset,Rosenborg,0,1
+2023-07-23,2323,NOR,Tromso,Brann,3,1
+2023-07-24,2323,NOR,Viking,Aalesund,3,1
+2023-07-29,2323,NOR,Stabaek,Molde,0,1
+2023-07-29,2323,NOR,Valerenga,Sandefjord,2,3
+2023-07-30,2323,NOR,Aalesund,Stromsgodset,1,0
+2023-07-30,2323,NOR,Bodo/Glimt,Tromso,0,2
+2023-07-30,2323,NOR,Brann,Viking,0,2
+2023-07-30,2323,NOR,Lillestrom,HamKam,3,1
+2023-07-30,2323,NOR,Rosenborg,Odd,3,2
+2023-07-30,2323,NOR,Sarpsborg 08,Haugesund,2,1
+2023-08-05,2323,NOR,Stromsgodset,Valerenga,1,3
+2023-08-06,2323,NOR,HamKam,Brann,0,2
+2023-08-06,2323,NOR,Haugesund,Rosenborg,1,2
+2023-08-06,2323,NOR,Odd,Stabaek,4,0
+2023-08-06,2323,NOR,Sandefjord,Sarpsborg 08,5,1
+2023-08-06,2323,NOR,Tromso,Lillestrom,3,1
+2023-08-06,2323,NOR,Viking,Bodo/Glimt,3,2
+2023-08-12,2323,NOR,Sandefjord,Molde,2,2
+2023-08-12,2323,NOR,Sarpsborg 08,Stromsgodset,1,2
+2023-08-13,2323,NOR,Aalesund,HamKam,0,2
+2023-08-13,2323,NOR,Lillestrom,Viking,1,3
+2023-08-13,2323,NOR,Valerenga,Haugesund,1,1
+2023-08-19,2323,NOR,Molde,Valerenga,0,0
+2023-08-19,2323,NOR,Odd,Sarpsborg 08,0,3
+2023-08-20,2323,NOR,Brann,Aalesund,5,1
+2023-08-20,2323,NOR,HamKam,Rosenborg,3,0
+2023-08-20,2323,NOR,Haugesund,Bodo/Glimt,1,3
+2023-08-20,2323,NOR,Stromsgodset,Lillestrom,1,2
+2023-08-20,2323,NOR,Tromso,Sandefjord,1,0
+2023-08-20,2323,NOR,Viking,Stabaek,1,0
+2023-08-26,2323,NOR,Sarpsborg 08,Tromso,4,0
+2023-08-27,2323,NOR,Rosenborg,Aalesund,4,0
+2023-08-27,2323,NOR,Sandefjord,Haugesund,0,0
+2023-08-27,2323,NOR,Valerenga,Odd,2,2
+2023-09-02,2323,NOR,Viking,Valerenga,1,1
+2023-09-03,2323,NOR,Aalesund,Lillestrom,1,1
+2023-09-03,2323,NOR,Brann,Sarpsborg 08,1,0
+2023-09-03,2323,NOR,HamKam,Bodo/Glimt,4,4
+2023-09-03,2323,NOR,Haugesund,Molde,1,2
+2023-09-03,2323,NOR,Odd,Sandefjord,3,2
+2023-09-03,2323,NOR,Stromsgodset,Stabaek,2,1
+2023-09-03,2323,NOR,Tromso,Rosenborg,3,1
+2023-09-16,2323,NOR,Haugesund,Viking,0,2
+2023-09-16,2323,NOR,Molde,Odd,4,1
+2023-09-16,2323,NOR,Sandefjord,Stromsgodset,2,0
+2023-09-17,2323,NOR,Rosenborg,Bodo/Glimt,1,1
+2023-09-17,2323,NOR,Sarpsborg 08,Lillestrom,3,1
+2023-09-17,2323,NOR,Stabaek,Brann,0,1
+2023-09-17,2323,NOR,Tromso,HamKam,2,1
+2023-09-17,2323,NOR,Valerenga,Aalesund,3,1
+2023-09-23,2323,NOR,Aalesund,Stabaek,1,1
+2023-09-24,2323,NOR,Bodo/Glimt,Valerenga,4,2
+2023-09-24,2323,NOR,Brann,Tromso,2,1
+2023-09-24,2323,NOR,HamKam,Sarpsborg 08,1,1
+2023-09-24,2323,NOR,Lillestrom,Rosenborg,3,0
+2023-09-24,2323,NOR,Odd,Haugesund,1,1
+2023-09-24,2323,NOR,Stromsgodset,Molde,1,1
+2023-09-24,2323,NOR,Viking,Sandefjord,4,3
+2023-09-30,2323,NOR,Stabaek,Tromso,0,1
+2023-10-01,2323,NOR,Bodo/Glimt,Stromsgodset,2,0
+2023-10-01,2323,NOR,Lillestrom,Brann,0,2
+2023-10-01,2323,NOR,Molde,Viking,4,0
+2023-10-01,2323,NOR,Sandefjord,Valerenga,1,2
+2023-10-04,2323,NOR,Stabaek,HamKam,5,2
+2023-10-07,2323,NOR,Odd,Viking,1,1
+2023-10-08,2323,NOR,Haugesund,Stromsgodset,1,0
+2023-10-08,2323,NOR,Molde,Bodo/Glimt,1,3
+2023-10-08,2323,NOR,Sandefjord,HamKam,0,1
+2023-10-08,2323,NOR,Sarpsborg 08,Rosenborg,5,2
+2023-10-08,2323,NOR,Stabaek,Lillestrom,1,0
+2023-10-08,2323,NOR,Tromso,Aalesund,1,2
+2023-10-08,2323,NOR,Valerenga,Brann,1,2
+2023-10-21,2323,NOR,Bodo/Glimt,Sandefjord,4,3
+2023-10-21,2323,NOR,Brann,Molde,3,2
+2023-10-22,2323,NOR,Aalesund,Sarpsborg 08,3,2
+2023-10-22,2323,NOR,HamKam,Haugesund,0,3
+2023-10-22,2323,NOR,Lillestrom,Valerenga,2,0
+2023-10-22,2323,NOR,Rosenborg,Stabaek,1,1
+2023-10-22,2323,NOR,Stromsgodset,Odd,3,1
+2023-10-22,2323,NOR,Viking,Tromso,3,4
+2023-10-28,2323,NOR,Haugesund,Aalesund,6,1
+2023-10-29,2323,NOR,Odd,HamKam,2,0
+2023-10-29,2323,NOR,Sandefjord,Brann,1,1
+2023-10-29,2323,NOR,Sarpsborg 08,Stabaek,2,2
+2023-10-29,2323,NOR,Stromsgodset,Viking,1,0
+2023-10-29,2323,NOR,Valerenga,Rosenborg,1,3
+2023-10-30,2323,NOR,Bodo/Glimt,Lillestrom,3,1
+2023-10-30,2323,NOR,Molde,Tromso,1,4
+2023-11-04,2323,NOR,HamKam,Viking,3,0
+2023-11-05,2323,NOR,Brann,Odd,2,1
+2023-11-05,2323,NOR,Lillestrom,Haugesund,1,0
+2023-11-05,2323,NOR,Rosenborg,Molde,3,1
+2023-11-05,2323,NOR,Sarpsborg 08,Valerenga,3,2
+2023-11-05,2323,NOR,Stabaek,Bodo/Glimt,0,4
+2023-11-05,2323,NOR,Tromso,Stromsgodset,0,1
+2023-11-06,2323,NOR,Aalesund,Sandefjord,0,3
+2023-11-11,2323,NOR,Haugesund,Brann,0,2
+2023-11-12,2323,NOR,Bodo/Glimt,Aalesund,1,0
+2023-11-12,2323,NOR,Molde,Lillestrom,4,0
+2023-11-12,2323,NOR,Odd,Tromso,1,2
+2023-11-12,2323,NOR,Sandefjord,Rosenborg,3,2
+2023-11-12,2323,NOR,Stromsgodset,HamKam,0,1
+2023-11-12,2323,NOR,Valerenga,Stabaek,0,0
+2023-11-12,2323,NOR,Viking,Sarpsborg 08,2,1
+2023-11-26,2323,NOR,Aalesund,Viking,0,4
+2023-11-26,2323,NOR,Brann,Bodo/Glimt,4,2
+2023-11-26,2323,NOR,HamKam,Valerenga,0,2
+2023-11-26,2323,NOR,Lillestrom,Odd,4,4
+2023-11-26,2323,NOR,Rosenborg,Stromsgodset,1,3
+2023-11-26,2323,NOR,Sarpsborg 08,Molde,1,3
+2023-11-26,2323,NOR,Stabaek,Sandefjord,2,1
+2023-11-26,2323,NOR,Tromso,Haugesund,2,1
+2023-12-03,2323,NOR,Bodo/Glimt,Sarpsborg 08,2,0
+2023-12-03,2323,NOR,Haugesund,Stabaek,3,0
+2023-12-03,2323,NOR,Molde,HamKam,1,1
+2023-12-03,2323,NOR,Odd,Aalesund,4,1
+2023-12-03,2323,NOR,Sandefjord,Lillestrom,1,0
+2023-12-03,2323,NOR,Stromsgodset,Brann,3,0
+2023-12-03,2323,NOR,Valerenga,Tromso,1,1
+2023-12-03,2323,NOR,Viking,Rosenborg,1,5
+2023-12-06,2323,NOR,Kristiansund,Valerenga,0,2
+2023-12-10,2323,NOR,Valerenga,Kristiansund,0,2
+2024-03-31,2424,NOR,Odd,Haugesund,1,2
+2024-04-01,2424,NOR,Fredrikstad,Bodo/Glimt,0,2
+2024-04-01,2424,NOR,Lillestrom,Kristiansund,2,3
+2024-04-01,2424,NOR,Molde,Stromsgodset,4,0
+2024-04-01,2424,NOR,Rosenborg,Sandefjord,2,0
+2024-04-01,2424,NOR,Tromso,Brann,2,4
+2024-04-01,2424,NOR,Viking,Sarpsborg 08,1,0
+2024-04-02,2424,NOR,KFUM Oslo,HamKam,1,1
+2024-04-06,2424,NOR,Bodo/Glimt,Viking,1,0
+2024-04-07,2424,NOR,Brann,Fredrikstad,0,2
+2024-04-07,2424,NOR,HamKam,Molde,0,1
+2024-04-07,2424,NOR,Haugesund,Lillestrom,0,2
+2024-04-07,2424,NOR,Kristiansund,KFUM Oslo,1,1
+2024-04-07,2424,NOR,Sarpsborg 08,Odd,0,1
+2024-04-07,2424,NOR,Stromsgodset,Rosenborg,1,0
+2024-04-13,2424,NOR,Fredrikstad,Sarpsborg 08,2,2
+2024-04-14,2424,NOR,Lillestrom,Bodo/Glimt,0,5
+2024-04-14,2424,NOR,Molde,Kristiansund,2,0
+2024-04-14,2424,NOR,Odd,Sandefjord,2,2
+2024-04-14,2424,NOR,Rosenborg,HamKam,1,0
+2024-04-14,2424,NOR,Tromso,Haugesund,0,1
+2024-04-14,2424,NOR,Viking,Brann,1,1
+2024-04-16,2424,NOR,KFUM Oslo,Stromsgodset,1,3
+2024-04-17,2424,NOR,Brann,HamKam,1,0
+2024-04-17,2424,NOR,Molde,Odd,1,2
+2024-04-21,2424,NOR,Bodo/Glimt,Molde,1,1
+2024-04-21,2424,NOR,Brann,Odd,2,0
+2024-04-21,2424,NOR,HamKam,Stromsgodset,0,1
+2024-04-21,2424,NOR,Haugesund,Rosenborg,1,3
+2024-04-21,2424,NOR,Kristiansund,Tromso,1,0
+2024-04-21,2424,NOR,Sandefjord,Lillestrom,0,1
+2024-04-21,2424,NOR,Sarpsborg 08,KFUM Oslo,0,2
+2024-04-21,2424,NOR,Viking,Fredrikstad,1,1
+2024-04-27,2424,NOR,Rosenborg,Bodo/Glimt,1,3
+2024-04-28,2424,NOR,Fredrikstad,Sandefjord,1,0
+2024-04-28,2424,NOR,KFUM Oslo,Brann,0,0
+2024-04-28,2424,NOR,Lillestrom,HamKam,1,1
+2024-04-28,2424,NOR,Molde,Haugesund,2,1
+2024-04-28,2424,NOR,Odd,Viking,3,3
+2024-04-28,2424,NOR,Stromsgodset,Kristiansund,2,2
+2024-04-28,2424,NOR,Tromso,Sarpsborg 08,0,3
+2024-05-04,2424,NOR,Brann,Rosenborg,3,0
+2024-05-05,2424,NOR,Bodo/Glimt,Stromsgodset,1,0
+2024-05-05,2424,NOR,Haugesund,KFUM Oslo,0,1
+2024-05-05,2424,NOR,Kristiansund,HamKam,1,1
+2024-05-05,2424,NOR,Odd,Fredrikstad,0,2
+2024-05-05,2424,NOR,Sandefjord,Molde,3,1
+2024-05-05,2424,NOR,Sarpsborg 08,Lillestrom,1,0
+2024-05-05,2424,NOR,Viking,Tromso,2,1
+2024-05-11,2424,NOR,Molde,Rosenborg,2,2
+2024-05-12,2424,NOR,HamKam,Haugesund,2,2
+2024-05-12,2424,NOR,KFUM Oslo,Fredrikstad,1,4
+2024-05-12,2424,NOR,Kristiansund,Bodo/Glimt,2,4
+2024-05-12,2424,NOR,Lillestrom,Brann,0,2
+2024-05-12,2424,NOR,Sandefjord,Sarpsborg 08,4,1
+2024-05-12,2424,NOR,Stromsgodset,Viking,0,1
+2024-05-12,2424,NOR,Tromso,Odd,4,0
+2024-05-16,2424,NOR,Bodo/Glimt,Tromso,4,0
+2024-05-16,2424,NOR,Brann,Sandefjord,2,1
+2024-05-16,2424,NOR,Fredrikstad,Stromsgodset,4,1
+2024-05-16,2424,NOR,Haugesund,Kristiansund,1,0
+2024-05-16,2424,NOR,Odd,Molde,0,4
+2024-05-16,2424,NOR,Rosenborg,KFUM Oslo,1,3
+2024-05-16,2424,NOR,Sarpsborg 08,HamKam,1,7
+2024-05-16,2424,NOR,Viking,Lillestrom,1,4
+2024-05-20,2424,NOR,HamKam,Bodo/Glimt,1,0
+2024-05-20,2424,NOR,KFUM Oslo,Odd,0,0
+2024-05-20,2424,NOR,Kristiansund,Brann,2,2
+2024-05-20,2424,NOR,Lillestrom,Fredrikstad,0,3
+2024-05-20,2424,NOR,Molde,Sarpsborg 08,2,4
+2024-05-20,2424,NOR,Sandefjord,Viking,0,3
+2024-05-20,2424,NOR,Stromsgodset,Haugesund,2,0
+2024-05-20,2424,NOR,Tromso,Rosenborg,3,2
+2024-05-24,2424,NOR,Bodo/Glimt,KFUM Oslo,2,2
+2024-05-25,2424,NOR,Fredrikstad,Tromso,0,0
+2024-05-26,2424,NOR,Brann,Molde,1,3
+2024-05-26,2424,NOR,Haugesund,Sandefjord,2,1
+2024-05-26,2424,NOR,Odd,Lillestrom,2,1
+2024-05-26,2424,NOR,Rosenborg,Kristiansund,2,1
+2024-05-26,2424,NOR,Sarpsborg 08,Stromsgodset,1,3
+2024-05-26,2424,NOR,Viking,HamKam,3,0
+2024-05-29,2424,NOR,Bodo/Glimt,Sandefjord,1,1
+2024-05-29,2424,NOR,Brann,Kristiansund,2,1
+2024-05-29,2424,NOR,Tromso,Fredrikstad,3,0
+2024-06-01,2424,NOR,HamKam,Brann,1,2
+2024-06-02,2424,NOR,Haugesund,Bodo/Glimt,0,1
+2024-06-02,2424,NOR,KFUM Oslo,Sandefjord,3,3
+2024-06-02,2424,NOR,Kristiansund,Sarpsborg 08,3,1
+2024-06-02,2424,NOR,Molde,Viking,2,2
+2024-06-02,2424,NOR,Rosenborg,Fredrikstad,1,1
+2024-06-02,2424,NOR,Stromsgodset,Odd,1,1
+2024-06-02,2424,NOR,Tromso,Lillestrom,1,2
+2024-06-27,2424,NOR,Lillestrom,KFUM Oslo,2,1
+2024-06-27,2424,NOR,Sandefjord,HamKam,1,2
+2024-06-28,2424,NOR,Brann,Stromsgodset,0,0
+2024-06-28,2424,NOR,Odd,Kristiansund,1,1
+2024-06-28,2424,NOR,Sarpsborg 08,Bodo/Glimt,1,2
+2024-06-28,2424,NOR,Tromso,Molde,0,2
+2024-06-30,2424,NOR,Viking,Rosenborg,4,2
+2024-07-03,2424,NOR,Sandefjord,Tromso,1,2
+2024-07-07,2424,NOR,Bodo/Glimt,Brann,5,1
+2024-07-07,2424,NOR,HamKam,Tromso,0,0
+2024-07-07,2424,NOR,Haugesund,Sarpsborg 08,1,2
+2024-07-07,2424,NOR,KFUM Oslo,Viking,1,2
+2024-07-07,2424,NOR,Molde,Lillestrom,3,0
+2024-07-07,2424,NOR,Rosenborg,Odd,2,1
+2024-07-08,2424,NOR,Kristiansund,Fredrikstad,3,1
+2024-07-08,2424,NOR,Stromsgodset,Sandefjord,1,1
+2024-07-12,2424,NOR,Sarpsborg 08,Rosenborg,4,1
+2024-07-13,2424,NOR,Brann,Haugesund,1,1
+2024-07-13,2424,NOR,Fredrikstad,Molde,0,0
+2024-07-13,2424,NOR,Lillestrom,Stromsgodset,3,1
+2024-07-13,2424,NOR,Odd,HamKam,1,2
+2024-07-13,2424,NOR,Sandefjord,Bodo/Glimt,2,1
+2024-07-13,2424,NOR,Tromso,KFUM Oslo,1,2
+2024-07-13,2424,NOR,Viking,Kristiansund,2,0
+2024-07-19,2424,NOR,Bodo/Glimt,Odd,3,1
+2024-07-20,2424,NOR,Molde,KFUM Oslo,2,3
+2024-07-20,2424,NOR,Sarpsborg 08,Brann,1,1
+2024-07-21,2424,NOR,HamKam,Fredrikstad,0,1
+2024-07-21,2424,NOR,Haugesund,Viking,1,0
+2024-07-21,2424,NOR,Stromsgodset,Tromso,0,1
+2024-07-27,2424,NOR,Fredrikstad,Rosenborg,2,2
+2024-07-27,2424,NOR,KFUM Oslo,Bodo/Glimt,1,1
+2024-07-28,2424,NOR,Lillestrom,Sarpsborg 08,2,2
+2024-07-28,2424,NOR,Odd,Stromsgodset,2,0
+2024-07-28,2424,NOR,Sandefjord,Haugesund,4,3
+2024-07-28,2424,NOR,Tromso,Kristiansund,0,0
+2024-07-28,2424,NOR,Viking,Molde,1,0
+2024-08-03,2424,NOR,Bodo/Glimt,Haugesund,4,2
+2024-08-04,2424,NOR,Fredrikstad,KFUM Oslo,0,0
+2024-08-04,2424,NOR,HamKam,Viking,3,3
+2024-08-04,2424,NOR,Kristiansund,Lillestrom,2,1
+2024-08-04,2424,NOR,Rosenborg,Tromso,1,0
+2024-08-04,2424,NOR,Sarpsborg 08,Sandefjord,2,1
+2024-08-04,2424,NOR,Stromsgodset,Brann,2,3
+2024-08-09,2424,NOR,Sandefjord,Stromsgodset,2,2
+2024-08-10,2424,NOR,Haugesund,HamKam,0,1
+2024-08-10,2424,NOR,Viking,Bodo/Glimt,1,1
+2024-08-11,2424,NOR,KFUM Oslo,Rosenborg,1,0
+2024-08-11,2424,NOR,Lillestrom,Molde,1,2
+2024-08-11,2424,NOR,Odd,Sarpsborg 08,1,1
+2024-08-14,2424,NOR,Fredrikstad,Haugesund,1,0
+2024-08-17,2424,NOR,Stromsgodset,Lillestrom,3,2
+2024-08-18,2424,NOR,Fredrikstad,Brann,0,4
+2024-08-18,2424,NOR,HamKam,Odd,1,0
+2024-08-18,2424,NOR,KFUM Oslo,Tromso,0,1
+2024-08-18,2424,NOR,Rosenborg,Viking,2,1
+2024-08-18,2424,NOR,Sarpsborg 08,Haugesund,2,2
+2024-08-21,2424,NOR,Rosenborg,Lillestrom,4,0
+2024-08-24,2424,NOR,Bodo/Glimt,Sarpsborg 08,6,0
+2024-08-25,2424,NOR,Haugesund,Fredrikstad,1,0
+2024-08-25,2424,NOR,Lillestrom,Tromso,0,1
+2024-08-25,2424,NOR,Molde,HamKam,3,0
+2024-08-25,2424,NOR,Odd,Rosenborg,1,3
+2024-08-25,2424,NOR,Sandefjord,Kristiansund,1,0
+2024-08-25,2424,NOR,Viking,Stromsgodset,5,2
+2024-08-30,2424,NOR,KFUM Oslo,Lillestrom,2,0
+2024-08-31,2424,NOR,Fredrikstad,Odd,2,0
+2024-09-01,2424,NOR,Brann,Sarpsborg 08,1,3
+2024-09-01,2424,NOR,HamKam,Sandefjord,1,1
+2024-09-01,2424,NOR,Kristiansund,Haugesund,2,2
+2024-09-01,2424,NOR,Rosenborg,Molde,2,1
+2024-09-01,2424,NOR,Stromsgodset,Bodo/Glimt,0,1
+2024-09-01,2424,NOR,Tromso,Viking,2,2
+2024-09-13,2424,NOR,Bodo/Glimt,HamKam,3,0
+2024-09-14,2424,NOR,Molde,Fredrikstad,6,1
+2024-09-14,2424,NOR,Viking,KFUM Oslo,1,0
+2024-09-15,2424,NOR,Haugesund,Stromsgodset,0,0
+2024-09-15,2424,NOR,Lillestrom,Rosenborg,1,1
+2024-09-15,2424,NOR,Odd,Tromso,1,0
+2024-09-15,2424,NOR,Sandefjord,Brann,2,2
+2024-09-15,2424,NOR,Sarpsborg 08,Kristiansund,0,2
+2024-09-18,2424,NOR,Brann,KFUM Oslo,2,0
+2024-09-18,2424,NOR,Kristiansund,Molde,0,4
+2024-09-21,2424,NOR,HamKam,Lillestrom,5,0
+2024-09-21,2424,NOR,Stromsgodset,Sarpsborg 08,2,1
+2024-09-22,2424,NOR,Brann,Bodo/Glimt,4,1
+2024-09-22,2424,NOR,Fredrikstad,Viking,3,2
+2024-09-22,2424,NOR,Kristiansund,Odd,0,0
+2024-09-22,2424,NOR,Rosenborg,Haugesund,4,0
+2024-09-22,2424,NOR,Tromso,Sandefjord,3,0
+2024-09-23,2424,NOR,KFUM Oslo,Molde,1,1
+2024-09-28,2424,NOR,Haugesund,Brann,0,1
+2024-09-28,2424,NOR,Molde,Tromso,5,3
+2024-09-28,2424,NOR,Sarpsborg 08,Fredrikstad,0,1
+2024-09-29,2424,NOR,Bodo/Glimt,Kristiansund,4,0
+2024-09-29,2424,NOR,Lillestrom,Viking,1,4
+2024-09-29,2424,NOR,Odd,KFUM Oslo,1,3
+2024-09-29,2424,NOR,Sandefjord,Rosenborg,0,1
+2024-09-29,2424,NOR,Stromsgodset,HamKam,1,1
+2024-10-05,2424,NOR,Kristiansund,Sandefjord,2,1
+2024-10-19,2424,NOR,Molde,Sandefjord,0,1
+2024-10-19,2424,NOR,Tromso,Bodo/Glimt,0,0
+2024-10-20,2424,NOR,Fredrikstad,Lillestrom,2,1
+2024-10-20,2424,NOR,HamKam,Sarpsborg 08,0,2
+2024-10-20,2424,NOR,KFUM Oslo,Haugesund,0,0
+2024-10-20,2424,NOR,Kristiansund,Stromsgodset,0,0
+2024-10-20,2424,NOR,Rosenborg,Brann,1,2
+2024-10-20,2424,NOR,Viking,Odd,3,3
+2024-10-26,2424,NOR,Stromsgodset,Fredrikstad,2,0
+2024-10-27,2424,NOR,Brann,Tromso,4,0
+2024-10-27,2424,NOR,HamKam,Kristiansund,1,0
+2024-10-27,2424,NOR,Haugesund,Molde,0,3
+2024-10-27,2424,NOR,Lillestrom,Odd,3,0
+2024-10-27,2424,NOR,Sandefjord,KFUM Oslo,2,1
+2024-10-27,2424,NOR,Sarpsborg 08,Viking,1,2
+2024-10-28,2424,NOR,Bodo/Glimt,Rosenborg,2,3
+2024-11-02,2424,NOR,Viking,Sandefjord,3,2
+2024-11-03,2424,NOR,Fredrikstad,Kristiansund,1,1
+2024-11-03,2424,NOR,KFUM Oslo,Sarpsborg 08,1,2
+2024-11-03,2424,NOR,Lillestrom,Haugesund,0,1
+2024-11-03,2424,NOR,Molde,Bodo/Glimt,3,3
+2024-11-03,2424,NOR,Odd,Brann,0,3
+2024-11-03,2424,NOR,Rosenborg,Stromsgodset,1,0
+2024-11-03,2424,NOR,Tromso,HamKam,3,3
+2024-11-09,2424,NOR,Brann,Lillestrom,2,1
+2024-11-10,2424,NOR,Bodo/Glimt,Fredrikstad,2,2
+2024-11-10,2424,NOR,HamKam,Rosenborg,0,2
+2024-11-10,2424,NOR,Haugesund,Tromso,2,0
+2024-11-10,2424,NOR,Kristiansund,Viking,0,1
+2024-11-10,2424,NOR,Sandefjord,Odd,1,0
+2024-11-10,2424,NOR,Sarpsborg 08,Molde,2,2
+2024-11-10,2424,NOR,Stromsgodset,KFUM Oslo,1,0
+2024-11-23,2424,NOR,Fredrikstad,HamKam,1,0
+2024-11-23,2424,NOR,KFUM Oslo,Kristiansund,1,2
+2024-11-23,2424,NOR,Lillestrom,Sandefjord,0,3
+2024-11-23,2424,NOR,Molde,Brann,2,1
+2024-11-23,2424,NOR,Odd,Bodo/Glimt,0,2
+2024-11-23,2424,NOR,Rosenborg,Sarpsborg 08,1,1
+2024-11-23,2424,NOR,Tromso,Stromsgodset,2,0
+2024-11-23,2424,NOR,Viking,Haugesund,5,1
+2024-12-01,2424,NOR,Bodo/Glimt,Lillestrom,5,2
+2024-12-01,2424,NOR,Brann,Viking,1,1
+2024-12-01,2424,NOR,HamKam,KFUM Oslo,0,2
+2024-12-01,2424,NOR,Haugesund,Odd,2,1
+2024-12-01,2424,NOR,Kristiansund,Rosenborg,0,4
+2024-12-01,2424,NOR,Sandefjord,Fredrikstad,0,1
+2024-12-01,2424,NOR,Sarpsborg 08,Tromso,2,1
+2024-12-01,2424,NOR,Stromsgodset,Molde,1,0
+2024-12-05,2424,NOR,Moss,Haugesund,0,0
+2024-12-08,2424,NOR,Haugesund,Moss,2,0
+2025-03-29,2525,NOR,Fredrikstad,Brann,3,0
+2025-03-29,2525,NOR,Stromsgodset,Rosenborg,1,2
+2025-03-30,2525,NOR,Bryne,Bodo/Glimt,0,1
+2025-03-30,2525,NOR,HamKam,Kristiansund,2,1
+2025-03-30,2525,NOR,KFUM Oslo,Sandefjord,3,1
+2025-03-30,2525,NOR,Molde,Sarpsborg 08,0,2
+2025-03-30,2525,NOR,Tromso,Haugesund,1,0
+2025-03-30,2525,NOR,Valerenga,Viking,3,1
+2025-04-05,2525,NOR,Bodo/Glimt,HamKam,3,0
+2025-04-05,2525,NOR,Rosenborg,Fredrikstad,1,0
+2025-04-06,2525,NOR,Brann,Tromso,3,1
+2025-04-06,2525,NOR,Haugesund,Stromsgodset,0,5
+2025-04-06,2525,NOR,Kristiansund,Bryne,2,1
+2025-04-06,2525,NOR,Sandefjord,Molde,3,0
+2025-04-06,2525,NOR,Sarpsborg 08,Valerenga,1,1
+2025-04-06,2525,NOR,Viking,KFUM Oslo,3,1
+2025-04-09,2525,NOR,Fredrikstad,Valerenga,2,0
+2025-04-10,2525,NOR,Brann,Stromsgodset,2,1
+2025-04-10,2525,NOR,Viking,Kristiansund,3,1
+2025-04-20,2525,NOR,Tromso,Kristiansund,2,3
+2025-04-21,2525,NOR,Bryne,Haugesund,3,1
+2025-04-21,2525,NOR,Fredrikstad,Sandefjord,3,1
+2025-04-21,2525,NOR,HamKam,Viking,2,5
+2025-04-21,2525,NOR,KFUM Oslo,Sarpsborg 08,1,3
+2025-04-21,2525,NOR,Molde,Bodo/Glimt,2,2
+2025-04-21,2525,NOR,Stromsgodset,Brann,1,2
+2025-04-21,2525,NOR,Valerenga,Rosenborg,0,2
+2025-04-27,2525,NOR,Bodo/Glimt,KFUM Oslo,3,0
+2025-04-27,2525,NOR,Brann,Bryne,3,2
+2025-04-27,2525,NOR,Haugesund,Fredrikstad,0,0
+2025-04-27,2525,NOR,Kristiansund,Valerenga,0,2
+2025-04-27,2525,NOR,Rosenborg,Molde,0,0
+2025-04-27,2525,NOR,Sandefjord,HamKam,2,0
+2025-04-27,2525,NOR,Sarpsborg 08,Stromsgodset,2,3
+2025-04-27,2525,NOR,Viking,Tromso,4,4
+2025-04-30,2525,NOR,Viking,Haugesund,5,1
+2025-05-01,2525,NOR,Rosenborg,Kristiansund,1,1
+2025-05-02,2525,NOR,HamKam,KFUM Oslo,0,0
+2025-05-03,2525,NOR,Valerenga,Brann,2,4
+2025-05-04,2525,NOR,Molde,Haugesund,2,1
+2025-05-04,2525,NOR,Rosenborg,Bryne,3,0
+2025-05-04,2525,NOR,Stromsgodset,Kristiansund,1,2
+2025-05-04,2525,NOR,Tromso,Sandefjord,0,1
+2025-05-04,2525,NOR,Viking,Sarpsborg 08,0,0
+2025-05-11,2525,NOR,Brann,Rosenborg,0,0
+2025-05-11,2525,NOR,Bryne,Molde,0,3
+2025-05-11,2525,NOR,Haugesund,Viking,1,4
+2025-05-11,2525,NOR,KFUM Oslo,Tromso,1,3
+2025-05-11,2525,NOR,Kristiansund,Fredrikstad,0,1
+2025-05-11,2525,NOR,Sandefjord,Valerenga,2,1
+2025-05-11,2525,NOR,Sarpsborg 08,HamKam,4,0
+2025-05-16,2525,NOR,Brann,Sarpsborg 08,2,2
+2025-05-16,2525,NOR,Fredrikstad,KFUM Oslo,1,0
+2025-05-16,2525,NOR,Molde,Kristiansund,0,1
+2025-05-16,2525,NOR,Rosenborg,Haugesund,1,0
+2025-05-16,2525,NOR,Stromsgodset,Bryne,0,2
+2025-05-16,2525,NOR,Tromso,Bodo/Glimt,2,1
+2025-05-16,2525,NOR,Valerenga,HamKam,1,1
+2025-05-16,2525,NOR,Viking,Sandefjord,3,1
+2025-05-24,2525,NOR,Bodo/Glimt,Rosenborg,4,0
+2025-05-24,2525,NOR,Bryne,Fredrikstad,4,3
+2025-05-25,2525,NOR,HamKam,Molde,2,1
+2025-05-25,2525,NOR,Haugesund,Brann,0,2
+2025-05-25,2525,NOR,Kristiansund,Viking,0,1
+2025-05-25,2525,NOR,Sandefjord,Stromsgodset,3,2
+2025-05-25,2525,NOR,Sarpsborg 08,Tromso,0,1
+2025-05-26,2525,NOR,KFUM Oslo,Valerenga,0,1
+2025-05-28,2525,NOR,Bodo/Glimt,Viking,2,4
+2025-05-28,2525,NOR,Fredrikstad,Rosenborg,0,2
+2025-05-29,2525,NOR,Brann,Molde,0,3
+2025-05-31,2525,NOR,Stromsgodset,HamKam,0,3
+2025-05-31,2525,NOR,Tromso,Valerenga,2,1
+2025-06-01,2525,NOR,Brann,Kristiansund,4,2
+2025-06-01,2525,NOR,Bryne,Sandefjord,3,2
+2025-06-01,2525,NOR,Fredrikstad,Sarpsborg 08,1,1
+2025-06-01,2525,NOR,Haugesund,Bodo/Glimt,0,4
+2025-06-01,2525,NOR,Molde,Viking,0,1
+2025-06-01,2525,NOR,Rosenborg,KFUM Oslo,1,1
+2025-06-21,2525,NOR,Bodo/Glimt,Brann,3,0
+2025-06-22,2525,NOR,HamKam,Tromso,1,3
+2025-06-22,2525,NOR,KFUM Oslo,Stromsgodset,5,0
+2025-06-22,2525,NOR,Kristiansund,Rosenborg,4,1
+2025-06-22,2525,NOR,Sandefjord,Haugesund,4,0
+2025-06-22,2525,NOR,Sarpsborg 08,Bryne,1,1
+2025-06-22,2525,NOR,Valerenga,Molde,2,3
+2025-06-22,2525,NOR,Viking,Fredrikstad,3,0
+2025-06-28,2525,NOR,Rosenborg,Viking,1,1
+2025-06-29,2525,NOR,Bodo/Glimt,Sarpsborg 08,1,2
+2025-06-29,2525,NOR,Bryne,HamKam,1,1
+2025-06-29,2525,NOR,Fredrikstad,Tromso,0,1
+2025-06-29,2525,NOR,Haugesund,Kristiansund,0,0
+2025-06-29,2525,NOR,Molde,KFUM Oslo,2,3
+2025-06-29,2525,NOR,Stromsgodset,Valerenga,0,2
+2025-06-30,2525,NOR,Brann,Sandefjord,1,0
+2025-07-05,2525,NOR,HamKam,Brann,1,1
+2025-07-05,2525,NOR,Kristiansund,Bodo/Glimt,1,1
+2025-07-05,2525,NOR,Tromso,Molde,1,0
+2025-07-05,2525,NOR,Valerenga,Fredrikstad,1,1
+2025-07-05,2525,NOR,Viking,Stromsgodset,1,0
+2025-07-06,2525,NOR,KFUM Oslo,Bryne,1,1
+2025-07-06,2525,NOR,Sandefjord,Rosenborg,2,0
+2025-07-06,2525,NOR,Sarpsborg 08,Haugesund,3,1
+2025-07-12,2525,NOR,Bodo/Glimt,Sandefjord,2,0
+2025-07-12,2525,NOR,Fredrikstad,Molde,4,2
+2025-07-13,2525,NOR,Brann,Viking,3,1
+2025-07-13,2525,NOR,Bryne,Valerenga,1,0
+2025-07-13,2525,NOR,Haugesund,KFUM Oslo,0,2
+2025-07-13,2525,NOR,Kristiansund,Sarpsborg 08,0,0
+2025-07-13,2525,NOR,Rosenborg,HamKam,2,0
+2025-07-13,2525,NOR,Stromsgodset,Tromso,2,3
+2025-07-16,2525,NOR,Fredrikstad,Bodo/Glimt,0,1
+2025-07-18,2525,NOR,Sarpsborg 08,Rosenborg,2,2
+2025-07-19,2525,NOR,KFUM Oslo,Brann,2,0
+2025-07-19,2525,NOR,Molde,Stromsgodset,4,1
+2025-07-19,2525,NOR,Viking,Bodo/Glimt,2,4
+2025-07-20,2525,NOR,HamKam,Fredrikstad,1,1
+2025-07-20,2525,NOR,Sandefjord,Kristiansund,6,0
+2025-07-20,2525,NOR,Tromso,Bryne,3,1
+2025-07-20,2525,NOR,Valerenga,Haugesund,3,0
+2025-07-25,2525,NOR,Fredrikstad,Stromsgodset,3,2
+2025-07-26,2525,NOR,Bodo/Glimt,Valerenga,7,2
+2025-07-26,2525,NOR,Haugesund,HamKam,0,3
+2025-07-26,2525,NOR,Kristiansund,KFUM Oslo,0,5
+2025-07-26,2525,NOR,Sandefjord,Sarpsborg 08,3,2
+2025-07-27,2525,NOR,Bryne,Viking,1,3
+2025-07-27,2525,NOR,Rosenborg,Tromso,4,1
+2025-07-30,2525,NOR,Bodo/Glimt,Stromsgodset,1,0
+2025-08-02,2525,NOR,Sarpsborg 08,Brann,1,4
+2025-08-02,2525,NOR,Tromso,Fredrikstad,0,0
+2025-08-03,2525,NOR,HamKam,Bodo/Glimt,1,3
+2025-08-03,2525,NOR,KFUM Oslo,Rosenborg,4,1
+2025-08-03,2525,NOR,Molde,Bryne,2,0
+2025-08-03,2525,NOR,Stromsgodset,Haugesund,2,0
+2025-08-03,2525,NOR,Valerenga,Sandefjord,2,1
+2025-08-09,2525,NOR,Bodo/Glimt,Tromso,1,1
+2025-08-09,2525,NOR,Molde,HamKam,1,0
+2025-08-10,2525,NOR,Bryne,KFUM Oslo,0,0
+2025-08-10,2525,NOR,Haugesund,Sarpsborg 08,3,2
+2025-08-10,2525,NOR,Sandefjord,Viking,1,2
+2025-08-15,2525,NOR,Stromsgodset,Bodo/Glimt,0,5
+2025-08-17,2525,NOR,HamKam,Bryne,1,0
+2025-08-17,2525,NOR,KFUM Oslo,Molde,0,0
+2025-08-17,2525,NOR,Kristiansund,Sandefjord,2,2
+2025-08-17,2525,NOR,Tromso,Brann,1,2
+2025-08-17,2525,NOR,Valerenga,Sarpsborg 08,4,0
+2025-08-22,2525,NOR,KFUM Oslo,HamKam,2,2
+2025-08-24,2525,NOR,Bryne,Stromsgodset,2,2
+2025-08-24,2525,NOR,Haugesund,Valerenga,2,3
+2025-08-24,2525,NOR,Molde,Tromso,2,0
+2025-08-25,2525,NOR,Sarpsborg 08,Kristiansund,0,1
+2025-08-30,2525,NOR,Valerenga,Bryne,3,2
+2025-08-31,2525,NOR,Fredrikstad,Haugesund,2,2
+2025-08-31,2525,NOR,HamKam,Sarpsborg 08,1,3
+2025-08-31,2525,NOR,Kristiansund,Brann,2,2
+2025-08-31,2525,NOR,Sandefjord,Bodo/Glimt,1,2
+2025-08-31,2525,NOR,Stromsgodset,Molde,3,1
+2025-08-31,2525,NOR,Tromso,KFUM Oslo,2,0
+2025-08-31,2525,NOR,Viking,Rosenborg,2,1
+2025-09-12,2525,NOR,Bodo/Glimt,Kristiansund,7,1
+2025-09-13,2525,NOR,Brann,Valerenga,3,2
+2025-09-13,2525,NOR,Molde,Fredrikstad,1,2
+2025-09-14,2525,NOR,Bryne,Tromso,0,2
+2025-09-14,2525,NOR,HamKam,Stromsgodset,1,2
+2025-09-14,2525,NOR,Haugesund,Rosenborg,0,3
+2025-09-14,2525,NOR,KFUM Oslo,Viking,2,2
+2025-09-14,2525,NOR,Sarpsborg 08,Sandefjord,2,1
+2025-09-20,2525,NOR,Fredrikstad,Bryne,1,1
+2025-09-20,2525,NOR,Sandefjord,Brann,0,3
+2025-09-20,2525,NOR,Valerenga,KFUM Oslo,1,1
+2025-09-21,2525,NOR,Kristiansund,Haugesund,2,0
+2025-09-21,2525,NOR,Rosenborg,Bodo/Glimt,1,1
+2025-09-21,2525,NOR,Stromsgodset,Sarpsborg 08,2,1
+2025-09-21,2525,NOR,Tromso,HamKam,1,0
+2025-09-21,2525,NOR,Viking,Molde,1,0
+2025-09-27,2525,NOR,Sarpsborg 08,Viking,3,3
+2025-09-28,2525,NOR,Brann,Fredrikstad,1,0
+2025-09-28,2525,NOR,Bryne,Kristiansund,2,0
+2025-09-28,2525,NOR,HamKam,Rosenborg,4,0
+2025-09-28,2525,NOR,Molde,Valerenga,4,1
+2025-09-28,2525,NOR,Tromso,Stromsgodset,3,1
+2025-09-29,2525,NOR,Haugesund,Sandefjord,2,3
+2025-10-01,2525,NOR,KFUM Oslo,Fredrikstad,2,1
+2025-10-04,2525,NOR,Kristiansund,Molde,2,1
+2025-10-04,2525,NOR,Sandefjord,Bryne,1,0
+2025-10-04,2525,NOR,Valerenga,Tromso,1,0
+2025-10-05,2525,NOR,Bodo/Glimt,Haugesund,2,0
+2025-10-05,2525,NOR,Fredrikstad,HamKam,1,1
+2025-10-05,2525,NOR,Rosenborg,Sarpsborg 08,2,3
+2025-10-05,2525,NOR,Stromsgodset,KFUM Oslo,1,1
+2025-10-05,2525,NOR,Viking,Brann,3,0
+2025-10-18,2525,NOR,Brann,Haugesund,4,1
+2025-10-18,2525,NOR,Bryne,Rosenborg,2,2
+2025-10-18,2525,NOR,Sarpsborg 08,Bodo/Glimt,2,5
+2025-10-19,2525,NOR,HamKam,Valerenga,2,1
+2025-10-19,2525,NOR,KFUM Oslo,Kristiansund,1,1
+2025-10-19,2525,NOR,Molde,Sandefjord,1,3
+2025-10-19,2525,NOR,Stromsgodset,Fredrikstad,0,3
+2025-10-19,2525,NOR,Tromso,Viking,1,3
+2025-10-25,2525,NOR,Sarpsborg 08,KFUM Oslo,2,1
+2025-10-25,2525,NOR,Viking,Bryne,5,1
+2025-10-26,2525,NOR,Bodo/Glimt,Molde,4,1
+2025-10-26,2525,NOR,Haugesund,Tromso,2,3
+2025-10-26,2525,NOR,Kristiansund,HamKam,1,3
+2025-10-26,2525,NOR,Rosenborg,Brann,2,3
+2025-10-26,2525,NOR,Sandefjord,Fredrikstad,0,0
+2025-10-26,2525,NOR,Valerenga,Stromsgodset,2,1
+2025-10-29,2525,NOR,Brann,Bodo/Glimt,1,2
+2025-10-29,2525,NOR,Rosenborg,Sandefjord,1,1
+2025-11-01,2525,NOR,Molde,Rosenborg,4,2
+2025-11-01,2525,NOR,Valerenga,Bodo/Glimt,3,1
+2025-11-02,2525,NOR,Bryne,Brann,2,1
+2025-11-02,2525,NOR,Fredrikstad,Kristiansund,3,1
+2025-11-02,2525,NOR,HamKam,Sandefjord,3,1
+2025-11-02,2525,NOR,KFUM Oslo,Haugesund,1,4
+2025-11-02,2525,NOR,Stromsgodset,Viking,1,2
+2025-11-02,2525,NOR,Tromso,Sarpsborg 08,4,0
+2025-11-08,2525,NOR,Sarpsborg 08,Fredrikstad,0,2
+2025-11-08,2525,NOR,Viking,HamKam,3,0
+2025-11-09,2525,NOR,Bodo/Glimt,Bryne,5,0
+2025-11-09,2525,NOR,Brann,KFUM Oslo,1,1
+2025-11-09,2525,NOR,Haugesund,Molde,0,2
+2025-11-09,2525,NOR,Kristiansund,Stromsgodset,2,1
+2025-11-09,2525,NOR,Rosenborg,Valerenga,1,0
+2025-11-09,2525,NOR,Sandefjord,Tromso,1,0
+2025-11-21,2525,NOR,KFUM Oslo,Bodo/Glimt,1,2
+2025-11-22,2525,NOR,Molde,Brann,4,0
+2025-11-22,2525,NOR,Stromsgodset,Sandefjord,2,6
+2025-11-22,2525,NOR,Tromso,Rosenborg,1,0
+2025-11-22,2525,NOR,Valerenga,Kristiansund,3,3
+2025-11-23,2525,NOR,Bryne,Sarpsborg 08,0,3
+2025-11-23,2525,NOR,Fredrikstad,Viking,0,1
+2025-11-23,2525,NOR,HamKam,Haugesund,5,0
+2025-11-30,2525,NOR,Bodo/Glimt,Fredrikstad,5,0
+2025-11-30,2525,NOR,Brann,HamKam,3,1
+2025-11-30,2525,NOR,Haugesund,Bryne,1,4
+2025-11-30,2525,NOR,Kristiansund,Tromso,1,3
+2025-11-30,2525,NOR,Rosenborg,Stromsgodset,6,0
+2025-11-30,2525,NOR,Sandefjord,KFUM Oslo,2,0
+2025-11-30,2525,NOR,Sarpsborg 08,Molde,1,0
+2025-11-30,2525,NOR,Viking,Valerenga,5,1
+2026-03-14,2626,NOR,HamKam,Viking,2,1
+2026-03-14,2626,NOR,Molde,Rosenborg,2,0
+2026-03-15,2626,NOR,Aalesund,Lillestrom,1,3
+2026-03-15,2626,NOR,KFUM Oslo,Start,2,0
+2026-03-15,2626,NOR,Kristiansund,Brann,3,2
+2026-03-15,2626,NOR,Tromso,Fredrikstad,4,0
+2026-03-15,2626,NOR,Valerenga,Sandefjord,1,0
+2026-03-21,2626,NOR,Start,Aalesund,1,1
+2026-03-21,2626,NOR,Viking,Molde,4,1
+2026-03-22,2626,NOR,Brann,Tromso,1,2
+2026-03-22,2626,NOR,Fredrikstad,KFUM Oslo,3,1
+2026-03-22,2626,NOR,Rosenborg,Valerenga,0,2
+2026-03-22,2626,NOR,Sandefjord,Sarpsborg 08,0,2
+2026-04-06,2626,NOR,HamKam,Brann,1,5
+2026-04-06,2626,NOR,Kristiansund,Bodo/Glimt,0,3
+2026-04-06,2626,NOR,Molde,Lillestrom,0,1
+2026-04-06,2626,NOR,Sarpsborg 08,Start,1,1
+2026-04-06,2626,NOR,Tromso,Rosenborg,2,0
+2026-04-06,2626,NOR,Valerenga,Viking,0,1
+2026-04-07,2626,NOR,Aalesund,Fredrikstad,2,3
+2026-04-07,2626,NOR,KFUM Oslo,Sandefjord,1,2
+2026-04-11,2626,NOR,Lillestrom,Start,3,1
+2026-04-11,2626,NOR,Tromso,Kristiansund,2,0
+2026-04-11,2626,NOR,Viking,Bodo/Glimt,5,0
+2026-04-12,2626,NOR,Aalesund,KFUM Oslo,2,2
+2026-04-12,2626,NOR,Brann,Sandefjord,0,1
+2026-04-12,2626,NOR,Fredrikstad,Valerenga,1,1
+2026-04-12,2626,NOR,Molde,HamKam,4,1
+2026-04-12,2626,NOR,Rosenborg,Sarpsborg 08,2,1
+2026-04-15,2626,NOR,Sarpsborg 08,Bodo/Glimt,1,1
+2026-04-15,2626,NOR,Tromso,Lillestrom,0,0
+2026-04-18,2626,NOR,Bodo/Glimt,Aalesund,3,0
+2026-04-18,2626,NOR,Sandefjord,Rosenborg,0,0
+2026-04-18,2626,NOR,Viking,Brann,3,2
+2026-04-19,2626,NOR,HamKam,KFUM Oslo,4,0
+2026-04-19,2626,NOR,Kristiansund,Fredrikstad,2,0
+2026-04-19,2626,NOR,Sarpsborg 08,Tromso,0,1
+2026-04-19,2626,NOR,Start,Molde,1,1
+2026-04-19,2626,NOR,Valerenga,Lillestrom,0,2
+2026-04-25,2626,NOR,Fredrikstad,Viking,1,2
+2026-04-25,2626,NOR,Rosenborg,Brann,1,1
+2026-04-26,2626,NOR,Aalesund,Kristiansund,1,1
+2026-04-26,2626,NOR,HamKam,Start,2,1
+2026-04-26,2626,NOR,KFUM Oslo,Sarpsborg 08,1,0
+2026-04-26,2626,NOR,Lillestrom,Bodo/Glimt,0,2
+2026-04-26,2626,NOR,Molde,Valerenga,5,1
+2026-04-26,2626,NOR,Tromso,Sandefjord,3,1
+2026-04-29,2626,NOR,Tromso,Brann,0,5
+2026-04-30,2626,NOR,Bodo/Glimt,Start,5,0
+2026-05-01,2626,NOR,Viking,Rosenborg,3,0
+2026-05-02,2626,NOR,Brann,Fredrikstad,3,1
+2026-05-03,2626,NOR,Kristiansund,HamKam,1,1
+2026-05-03,2626,NOR,Lillestrom,Sarpsborg 08,4,0
+2026-05-03,2626,NOR,Sandefjord,Aalesund,1,0
+2026-05-03,2626,NOR,Start,Tromso,1,1
+2026-05-03,2626,NOR,Valerenga,KFUM Oslo,2,2
+2026-05-04,2626,NOR,Bodo/Glimt,Molde,0,1
+2026-05-08,2626,NOR,HamKam,Valerenga,1,0
+2026-05-09,2626,NOR,Sarpsborg 08,Fredrikstad,2,1
+2026-05-10,2626,NOR,KFUM Oslo,Viking,0,2
+2026-05-10,2626,NOR,Rosenborg,Lillestrom,2,0
+2026-05-10,2626,NOR,Sandefjord,Kristiansund,2,0
+2026-05-10,2626,NOR,Tromso,Molde,2,0
+2026-05-16,2626,NOR,Bodo/Glimt,Tromso,5,0
+2026-05-16,2626,NOR,Brann,KFUM Oslo,2,1
+2026-05-16,2626,NOR,Fredrikstad,HamKam,2,1
+2026-05-16,2626,NOR,Lillestrom,Sandefjord,3,1
+2026-05-16,2626,NOR,Molde,Kristiansund,1,0
+2026-05-16,2626,NOR,Rosenborg,Aalesund,2,3
+2026-05-16,2626,NOR,Valerenga,Sarpsborg 08,3,2
+2026-05-16,2626,NOR,Viking,Start,6,3
+2026-05-20,2626,NOR,Aalesund,Brann,2,1
+2026-05-20,2626,NOR,Lillestrom,Kristiansund,1,2
+2026-05-20,2626,NOR,Start,Bodo/Glimt,1,4
+2026-05-24,2626,NOR,Bodo/Glimt,Brann,3,1
+2026-05-24,2626,NOR,Kristiansund,Viking,1,2
+2026-05-25,2626,NOR,HamKam,Lillestrom,2,0
+2026-05-25,2626,NOR,KFUM Oslo,Rosenborg,2,0
+2026-05-25,2626,NOR,Sandefjord,Fredrikstad,1,1
+2026-05-25,2626,NOR,Sarpsborg 08,Molde,2,1
+2026-05-25,2626,NOR,Start,Valerenga,2,0
+2026-05-25,2626,NOR,Tromso,Aalesund,1,1
+2026-05-29,2626,NOR,Aalesund,HamKam,2,2
+2026-05-29,2626,NOR,Brann,Sarpsborg 08,1,2
+2026-05-29,2626,NOR,Fredrikstad,Start,2,1
+2026-05-29,2626,NOR,KFUM Oslo,Tromso,0,0
+2026-05-29,2626,NOR,Rosenborg,Bodo/Glimt,2,2
+2026-05-29,2626,NOR,Valerenga,Kristiansund,3,1
+2026-05-30,2626,NOR,Molde,Sandefjord,2,1
+2026-07-11,2626,NOR,Aalesund,Molde,2,2
+2026-07-11,2626,NOR,Fredrikstad,Lillestrom,0,2
+2026-07-11,2626,NOR,Tromso,Valerenga,4,0
+2026-07-12,2626,NOR,Brann,Start,2,1
+2026-07-12,2626,NOR,KFUM Oslo,Bodo/Glimt,0,2
+2026-07-12,2626,NOR,Rosenborg,Kristiansund,3,0
+2026-07-12,2626,NOR,Sandefjord,HamKam,2,2
+2026-07-12,2626,NOR,Sarpsborg 08,Viking,1,0
+2026-07-16,2626,NOR,Valerenga,Aalesund,6,1
+2026-07-17,2626,NOR,Bodo/Glimt,Fredrikstad,1,0
+2026-07-18,2626,NOR,HamKam,Tromso,1,4
+2026-07-18,2626,NOR,Kristiansund,Sarpsborg 08,0,0
+2026-07-18,2626,NOR,Lillestrom,KFUM Oslo,2,1
+2026-07-18,2626,NOR,Molde,Brann,1,2
+2026-07-18,2626,NOR,Start,Rosenborg,0,3
+2026-07-18,2626,NOR,Viking,Sandefjord,2,1
+2026-07-22,2626,NOR,Bodo/Glimt,HamKam,3,0
+2026-07-22,2626,NOR,Lillestrom,Viking,1,2
+2026-07-25,2626,NOR,Kristiansund,Start,1,2
+2026-07-26,2626,NOR,Aalesund,Viking,1,1
+2026-07-26,2626,NOR,Brann,Valerenga,2,3
+2026-07-26,2626,NOR,KFUM Oslo,Molde,2,4
+2026-07-26,2626,NOR,Sandefjord,Bodo/Glimt,0,3
+2026-07-26,2626,NOR,Sarpsborg 08,HamKam,1,0
+2026-07-27,2626,NOR,Rosenborg,Fredrikstad,4,0
+2026-07-31,2626,NOR,Bodo/Glimt,Lillestrom,4,0
+2026-07-31,2626,NOR,Valerenga,HamKam,0,3
+2026-08-01,2626,NOR,Fredrikstad,Sandefjord,1,0
+2026-08-01,2626,NOR,Start,Viking,0,3
+2026-08-02,2626,NOR,Aalesund,Tromso,2,6
+2026-08-02,2626,NOR,Brann,Rosenborg,3,2
+2026-08-02,2626,NOR,KFUM Oslo,Kristiansund,2,1
+2026-08-02,2626,NOR,Molde,Sarpsborg 08,3,3
+2026-08-07,2626,NOR,Sandefjord,KFUM Oslo,0,1
+2026-08-08,2626,NOR,Start,Fredrikstad,0,1
+2026-08-08,2626,NOR,Valerenga,Bodo/Glimt,1,2
+2026-08-08,2626,NOR,Viking,Sarpsborg 08,2,1
+2026-08-09,2626,NOR,HamKam,Aalesund,1,1
+2026-08-09,2626,NOR,Kristiansund,Molde,2,1
+2026-08-09,2626,NOR,Lillestrom,Rosenborg,0,2
+2026-08-14,2626,NOR,Rosenborg,Viking,2,1
+2026-08-15,2626,NOR,KFUM Oslo,Lillestrom,1,1
+2026-08-16,2626,NOR,Aalesund,Valerenga,5,5
+2026-08-16,2626,NOR,Brann,HamKam,3,0
+2026-08-16,2626,NOR,Fredrikstad,Kristiansund,1,0
+2026-08-16,2626,NOR,Molde,Tromso,3,2
+2026-08-16,2626,NOR,Sarpsborg 08,Sandefjord,1,2
+2026-08-30,2626,NOR,Bodo/Glimt,Rosenborg,4,2
+2026-08-30,2626,NOR,HamKam,Kristiansund,2,2
+2026-08-30,2626,NOR,Lillestrom,Fredrikstad,1,4
+2026-08-30,2626,NOR,Sandefjord,Brann,0,0
+2026-08-30,2626,NOR,Start,KFUM Oslo,4,1
+2026-08-30,2626,NOR,Tromso,Sarpsborg 08,0,0
+2026-08-30,2626,NOR,Valerenga,Molde,3,4
+2026-08-30,2626,NOR,Viking,Aalesund,2,1
+2026-09-04,2626,NOR,Aalesund,Start,2,0
+2026-09-04,2626,NOR,Fredrikstad,Bodo/Glimt,1,2
+2026-09-04,2626,NOR,Sandefjord,Viking,1,1
+2026-09-05,2626,NOR,Brann,Lillestrom,1,2
+2026-09-05,2626,NOR,Rosenborg,HamKam,4,0
+2026-09-06,2626,NOR,Kristiansund,Tromso,2,0
+2026-09-06,2626,NOR,Molde,KFUM Oslo,2,0
+2026-09-06,2626,NOR,Sarpsborg 08,Valerenga,2,2
+2026-09-12,2626,NOR,Lillestrom,Valerenga,2,0
+2026-09-12,2626,NOR,Rosenborg,Tromso,5,3
+2026-09-13,2626,NOR,Fredrikstad,Sarpsborg 08,1,1
+2026-09-13,2626,NOR,HamKam,Molde,1,5
+2026-09-13,2626,NOR,KFUM Oslo,Aalesund,2,1
+2026-09-13,2626,NOR,Start,Brann,2,0
+2026-09-13,2626,NOR,Viking,Kristiansund,8,1
+2026-09-14,2626,NOR,Bodo/Glimt,Sandefjord,3,2
+2026-09-18,2626,NOR,Sarpsborg 08,KFUM Oslo,1,3
+2026-09-19,2626,NOR,Kristiansund,Rosenborg,1,3
+2026-09-19,2626,NOR,Molde,Aalesund,1,2
+2026-09-20,2626,NOR,Brann,Bodo/Glimt,2,1
+2026-09-20,2626,NOR,Sandefjord,Start,3,0
+2026-09-20,2626,NOR,Tromso,HamKam,3,2
+2026-09-20,2626,NOR,Valerenga,Fredrikstad,1,1
+2026-09-20,2626,NOR,Viking,Lillestrom,3,0
+2026-10-09,2626,NOR,Brann,Viking,0,2
+2026-10-10,2626,NOR,Bodo/Glimt,Kristiansund,3,1
+2026-10-10,2626,NOR,Rosenborg,Sandefjord,1,1
+2026-10-11,2626,NOR,Aalesund,Sarpsborg 08,2,4
+2026-10-11,2626,NOR,Fredrikstad,Tromso,1,1
+2026-10-11,2626,NOR,Lillestrom,Molde,2,2
+2026-10-11,2626,NOR,Start,HamKam,2,4
+2026-10-12,2626,NOR,KFUM Oslo,Valerenga,2,1
+2026-10-17,2626,NOR,HamKam,Bodo/Glimt,0,2
+2026-10-17,2626,NOR,Kristiansund,Aalesund,1,4
+2026-10-17,2626,NOR,Viking,Fredrikstad,3,2
+2026-10-18,2626,NOR,Molde,Start,6,1
+2026-10-18,2626,NOR,Sandefjord,Lillestrom,0,2
+2026-10-18,2626,NOR,Sarpsborg 08,Rosenborg,0,3
+2026-10-18,2626,NOR,Tromso,KFUM Oslo,1,1
+2026-10-18,2626,NOR,Valerenga,Brann,3,1

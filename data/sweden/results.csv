@@ -1,0 +1,3577 @@
+date,season,div,home,away,hg,ag
+2012-03-31,1212,SWE,Elfsborg,Djurgarden,2,1
+2012-03-31,1212,SWE,GAIS,Hacken,0,0
+2012-03-31,1212,SWE,Sundsvall,Kalmar,0,1
+2012-04-01,1212,SWE,AIK,Mjallby,0,0
+2012-04-01,1212,SWE,Syrianska,Goteborg,2,1
+2012-04-02,1212,SWE,Malmo FF,Gefle,0,0
+2012-04-02,1212,SWE,Norrkoping,Helsingborg,1,0
+2012-04-02,1212,SWE,Orebro,Atvidabergs,3,4
+2012-04-06,1212,SWE,Atvidabergs,GAIS,2,1
+2012-04-06,1212,SWE,Gefle,Syrianska,1,1
+2012-04-07,1212,SWE,Hacken,Malmo FF,5,0
+2012-04-07,1212,SWE,Mjallby,Orebro,0,0
+2012-04-08,1212,SWE,Djurgarden,Sundsvall,1,0
+2012-04-08,1212,SWE,Helsingborg,Elfsborg,2,1
+2012-04-09,1212,SWE,Goteborg,Norrkoping,1,2
+2012-04-09,1212,SWE,Kalmar,AIK,1,2
+2012-04-10,1212,SWE,Atvidabergs,Gefle,6,1
+2012-04-11,1212,SWE,GAIS,Djurgarden,0,0
+2012-04-11,1212,SWE,Orebro,Helsingborg,0,0
+2012-04-12,1212,SWE,AIK,Goteborg,1,1
+2012-04-12,1212,SWE,Elfsborg,Norrkoping,2,0
+2012-04-12,1212,SWE,Hacken,Mjallby,4,2
+2012-04-12,1212,SWE,Sundsvall,Syrianska,4,0
+2012-04-13,1212,SWE,Malmo FF,Kalmar,2,0
+2012-04-15,1212,SWE,Goteborg,Orebro,2,2
+2012-04-15,1212,SWE,Mjallby,Atvidabergs,2,0
+2012-04-15,1212,SWE,Syrianska,AIK,0,1
+2012-04-16,1212,SWE,Djurgarden,Malmo FF,2,3
+2012-04-16,1212,SWE,Gefle,Elfsborg,1,2
+2012-04-16,1212,SWE,Helsingborg,GAIS,1,1
+2012-04-16,1212,SWE,Kalmar,Hacken,3,1
+2012-04-16,1212,SWE,Norrkoping,Sundsvall,2,2
+2012-04-20,1212,SWE,Mjallby,Djurgarden,4,3
+2012-04-21,1212,SWE,Atvidabergs,Helsingborg,1,2
+2012-04-21,1212,SWE,Kalmar,Gefle,0,1
+2012-04-22,1212,SWE,AIK,Sundsvall,1,1
+2012-04-22,1212,SWE,GAIS,Norrkoping,2,0
+2012-04-23,1212,SWE,Hacken,Goteborg,1,2
+2012-04-23,1212,SWE,Malmo FF,Syrianska,2,0
+2012-04-23,1212,SWE,Orebro,Elfsborg,0,2
+2012-04-26,1212,SWE,Elfsborg,GAIS,2,1
+2012-04-26,1212,SWE,Gefle,AIK,0,1
+2012-04-27,1212,SWE,Helsingborg,Mjallby,1,1
+2012-04-28,1212,SWE,Goteborg,Atvidabergs,2,1
+2012-04-28,1212,SWE,Syrianska,Hacken,1,2
+2012-04-29,1212,SWE,Djurgarden,Kalmar,1,1
+2012-04-29,1212,SWE,Norrkoping,Malmo FF,3,2
+2012-04-29,1212,SWE,Sundsvall,Orebro,3,1
+2012-05-02,1212,SWE,Atvidabergs,Hacken,0,3
+2012-05-02,1212,SWE,Goteborg,Sundsvall,2,0
+2012-05-02,1212,SWE,Helsingborg,AIK,0,0
+2012-05-02,1212,SWE,Syrianska,Elfsborg,1,4
+2012-05-03,1212,SWE,Djurgarden,Orebro,2,1
+2012-05-03,1212,SWE,Gefle,Norrkoping,0,2
+2012-05-03,1212,SWE,Mjallby,Malmo FF,2,2
+2012-05-04,1212,SWE,Kalmar,GAIS,2,2
+2012-05-05,1212,SWE,Sundsvall,Helsingborg,0,1
+2012-05-06,1212,SWE,Malmo FF,Atvidabergs,2,1
+2012-05-06,1212,SWE,Norrkoping,Syrianska,1,4
+2012-05-07,1212,SWE,Elfsborg,Goteborg,1,0
+2012-05-07,1212,SWE,GAIS,Mjallby,2,2
+2012-05-07,1212,SWE,Orebro,Kalmar,0,1
+2012-05-08,1212,SWE,AIK,Djurgarden,1,1
+2012-05-10,1212,SWE,Hacken,Gefle,3,0
+2012-05-10,1212,SWE,Malmo FF,Helsingborg,3,0
+2012-05-11,1212,SWE,Syrianska,GAIS,2,0
+2012-05-12,1212,SWE,Djurgarden,Atvidabergs,1,1
+2012-05-12,1212,SWE,Kalmar,Mjallby,1,2
+2012-05-13,1212,SWE,Elfsborg,AIK,1,0
+2012-05-13,1212,SWE,Helsingborg,Hacken,3,2
+2012-05-13,1212,SWE,Norrkoping,Orebro,3,0
+2012-05-14,1212,SWE,Gefle,Sundsvall,0,0
+2012-05-14,1212,SWE,Goteborg,Malmo FF,2,2
+2012-05-16,1212,SWE,Atvidabergs,Syrianska,1,0
+2012-05-16,1212,SWE,Hacken,Norrkoping,6,0
+2012-05-16,1212,SWE,Kalmar,Helsingborg,1,1
+2012-05-16,1212,SWE,Orebro,AIK,2,2
+2012-05-17,1212,SWE,Djurgarden,Gefle,1,1
+2012-05-17,1212,SWE,GAIS,Sundsvall,1,2
+2012-05-17,1212,SWE,Malmo FF,Elfsborg,1,0
+2012-05-17,1212,SWE,Mjallby,Goteborg,1,1
+2012-05-20,1212,SWE,AIK,Norrkoping,5,2
+2012-05-20,1212,SWE,Atvidabergs,Kalmar,3,0
+2012-05-20,1212,SWE,Hacken,Djurgarden,1,1
+2012-05-20,1212,SWE,Mjallby,Gefle,0,0
+2012-05-20,1212,SWE,Orebro,Syrianska,0,1
+2012-05-21,1212,SWE,GAIS,Goteborg,1,1
+2012-05-21,1212,SWE,Sundsvall,Elfsborg,0,3
+2012-05-23,1212,SWE,Gefle,Orebro,2,1
+2012-05-23,1212,SWE,Helsingborg,Djurgarden,1,1
+2012-05-23,1212,SWE,Norrkoping,Atvidabergs,2,2
+2012-05-23,1212,SWE,Syrianska,Mjallby,2,1
+2012-05-24,1212,SWE,AIK,GAIS,1,0
+2012-05-24,1212,SWE,Elfsborg,Hacken,2,0
+2012-05-24,1212,SWE,Goteborg,Kalmar,1,1
+2012-05-24,1212,SWE,Sundsvall,Malmo FF,1,1
+2012-06-30,1212,SWE,Atvidabergs,Elfsborg,5,1
+2012-06-30,1212,SWE,Hacken,Sundsvall,1,2
+2012-06-30,1212,SWE,Kalmar,Syrianska,3,0
+2012-06-30,1212,SWE,Mjallby,Norrkoping,0,2
+2012-07-02,1212,SWE,Helsingborg,Gefle,4,1
+2012-07-02,1212,SWE,Malmo FF,AIK,4,0
+2012-07-03,1212,SWE,Djurgarden,Goteborg,3,2
+2012-07-05,1212,SWE,GAIS,Orebro,0,1
+2012-07-07,1212,SWE,Sundsvall,Atvidabergs,3,3
+2012-07-07,1212,SWE,Syrianska,Djurgarden,1,1
+2012-07-08,1212,SWE,AIK,Hacken,3,1
+2012-07-08,1212,SWE,Elfsborg,Mjallby,0,0
+2012-07-08,1212,SWE,Gefle,GAIS,0,0
+2012-07-08,1212,SWE,Norrkoping,Kalmar,2,1
+2012-07-09,1212,SWE,Goteborg,Helsingborg,1,1
+2012-07-09,1212,SWE,Orebro,Malmo FF,2,1
+2012-07-14,1212,SWE,Atvidabergs,AIK,2,0
+2012-07-14,1212,SWE,Goteborg,Gefle,1,1
+2012-07-14,1212,SWE,Helsingborg,Syrianska,1,0
+2012-07-14,1212,SWE,Mjallby,Sundsvall,1,0
+2012-07-15,1212,SWE,Kalmar,Elfsborg,2,1
+2012-07-15,1212,SWE,Orebro,Hacken,1,2
+2012-07-16,1212,SWE,Djurgarden,Norrkoping,1,1
+2012-07-16,1212,SWE,Malmo FF,GAIS,2,0
+2012-07-19,1212,SWE,Hacken,Orebro,2,1
+2012-07-21,1212,SWE,Gefle,Goteborg,5,0
+2012-07-21,1212,SWE,Sundsvall,Mjallby,3,1
+2012-07-21,1212,SWE,Syrianska,Helsingborg,1,3
+2012-07-22,1212,SWE,AIK,Atvidabergs,1,0
+2012-07-22,1212,SWE,Elfsborg,Kalmar,3,0
+2012-07-23,1212,SWE,GAIS,Malmo FF,2,3
+2012-07-23,1212,SWE,Norrkoping,Djurgarden,1,1
+2012-07-27,1212,SWE,Atvidabergs,Orebro,1,1
+2012-07-28,1212,SWE,Gefle,Malmo FF,0,2
+2012-07-28,1212,SWE,Helsingborg,Norrkoping,1,2
+2012-07-29,1212,SWE,Djurgarden,Elfsborg,0,0
+2012-07-29,1212,SWE,Kalmar,Sundsvall,1,1
+2012-07-29,1212,SWE,Mjallby,AIK,0,1
+2012-07-30,1212,SWE,Hacken,GAIS,3,1
+2012-07-31,1212,SWE,Goteborg,Syrianska,1,0
+2012-08-04,1212,SWE,GAIS,Atvidabergs,2,2
+2012-08-04,1212,SWE,Syrianska,Gefle,1,0
+2012-08-05,1212,SWE,AIK,Kalmar,1,2
+2012-08-05,1212,SWE,Malmo FF,Hacken,0,0
+2012-08-06,1212,SWE,Norrkoping,Goteborg,0,0
+2012-08-06,1212,SWE,Orebro,Mjallby,0,1
+2012-08-06,1212,SWE,Sundsvall,Djurgarden,0,1
+2012-08-10,1212,SWE,Gefle,Djurgarden,0,1
+2012-08-11,1212,SWE,Sundsvall,GAIS,2,0
+2012-08-11,1212,SWE,Syrianska,Atvidabergs,2,2
+2012-08-12,1212,SWE,AIK,Orebro,3,0
+2012-08-12,1212,SWE,Elfsborg,Malmo FF,4,1
+2012-08-12,1212,SWE,Goteborg,Mjallby,4,2
+2012-08-12,1212,SWE,Helsingborg,Kalmar,7,2
+2012-08-12,1212,SWE,Norrkoping,Hacken,1,2
+2012-08-18,1212,SWE,Elfsborg,Helsingborg,2,1
+2012-08-24,1212,SWE,Orebro,Gefle,1,2
+2012-08-25,1212,SWE,Djurgarden,Helsingborg,3,1
+2012-08-26,1212,SWE,GAIS,AIK,0,1
+2012-08-26,1212,SWE,Hacken,Elfsborg,4,2
+2012-08-26,1212,SWE,Kalmar,Goteborg,3,0
+2012-08-27,1212,SWE,Atvidabergs,Norrkoping,1,1
+2012-08-27,1212,SWE,Malmo FF,Sundsvall,2,0
+2012-08-27,1212,SWE,Mjallby,Syrianska,0,2
+2012-08-31,1212,SWE,Hacken,Atvidabergs,5,2
+2012-08-31,1212,SWE,Orebro,Djurgarden,2,3
+2012-09-01,1212,SWE,Malmo FF,Mjallby,1,1
+2012-09-02,1212,SWE,AIK,Helsingborg,2,1
+2012-09-02,1212,SWE,Elfsborg,Syrianska,1,0
+2012-09-02,1212,SWE,GAIS,Kalmar,1,2
+2012-09-02,1212,SWE,Norrkoping,Gefle,0,1
+2012-09-02,1212,SWE,Sundsvall,Goteborg,3,3
+2012-09-14,1212,SWE,Syrianska,Norrkoping,1,2
+2012-09-15,1212,SWE,Helsingborg,Sundsvall,4,0
+2012-09-15,1212,SWE,Mjallby,GAIS,4,0
+2012-09-16,1212,SWE,Djurgarden,AIK,0,3
+2012-09-16,1212,SWE,Goteborg,Elfsborg,2,1
+2012-09-17,1212,SWE,Atvidabergs,Malmo FF,0,1
+2012-09-17,1212,SWE,Gefle,Hacken,0,2
+2012-09-17,1212,SWE,Kalmar,Orebro,1,2
+2012-09-21,1212,SWE,Djurgarden,Hacken,0,3
+2012-09-22,1212,SWE,Syrianska,Orebro,2,2
+2012-09-23,1212,SWE,Elfsborg,Sundsvall,0,0
+2012-09-23,1212,SWE,Gefle,Mjallby,1,0
+2012-09-23,1212,SWE,Kalmar,Atvidabergs,2,0
+2012-09-23,1212,SWE,Norrkoping,AIK,2,2
+2012-09-24,1212,SWE,Goteborg,GAIS,0,0
+2012-09-24,1212,SWE,Helsingborg,Malmo FF,1,1
+2012-09-26,1212,SWE,AIK,Elfsborg,1,1
+2012-09-26,1212,SWE,Atvidabergs,Djurgarden,2,1
+2012-09-26,1212,SWE,Mjallby,Kalmar,1,0
+2012-09-26,1212,SWE,Orebro,Norrkoping,0,1
+2012-09-26,1212,SWE,Sundsvall,Gefle,0,1
+2012-09-27,1212,SWE,Hacken,Helsingborg,2,2
+2012-09-27,1212,SWE,Malmo FF,Goteborg,1,2
+2012-09-28,1212,SWE,GAIS,Syrianska,1,4
+2012-09-30,1212,SWE,Elfsborg,Orebro,1,0
+2012-09-30,1212,SWE,Gefle,Kalmar,0,0
+2012-09-30,1212,SWE,Helsingborg,Atvidabergs,3,0
+2012-09-30,1212,SWE,Sundsvall,AIK,2,3
+2012-10-01,1212,SWE,Djurgarden,Mjallby,0,1
+2012-10-01,1212,SWE,Goteborg,Hacken,1,1
+2012-10-01,1212,SWE,Norrkoping,GAIS,7,2
+2012-10-01,1212,SWE,Syrianska,Malmo FF,0,2
+2012-10-05,1212,SWE,Malmo FF,Norrkoping,2,0
+2012-10-06,1212,SWE,Atvidabergs,Goteborg,1,2
+2012-10-06,1212,SWE,Hacken,Syrianska,5,1
+2012-10-07,1212,SWE,AIK,Gefle,0,1
+2012-10-07,1212,SWE,GAIS,Elfsborg,1,2
+2012-10-07,1212,SWE,Kalmar,Djurgarden,2,2
+2012-10-07,1212,SWE,Mjallby,Helsingborg,0,2
+2012-10-07,1212,SWE,Orebro,Sundsvall,2,2
+2012-10-20,1212,SWE,Gefle,Atvidabergs,1,2
+2012-10-20,1212,SWE,Mjallby,Hacken,1,2
+2012-10-21,1212,SWE,Goteborg,AIK,0,1
+2012-10-21,1212,SWE,Helsingborg,Orebro,1,1
+2012-10-21,1212,SWE,Kalmar,Malmo FF,1,2
+2012-10-21,1212,SWE,Norrkoping,Elfsborg,2,1
+2012-10-22,1212,SWE,Djurgarden,GAIS,3,0
+2012-10-22,1212,SWE,Syrianska,Sundsvall,1,1
+2012-10-26,1212,SWE,Malmo FF,Djurgarden,3,1
+2012-10-27,1212,SWE,Hacken,Kalmar,1,2
+2012-10-28,1212,SWE,AIK,Syrianska,1,1
+2012-10-28,1212,SWE,Atvidabergs,Mjallby,0,0
+2012-10-28,1212,SWE,GAIS,Helsingborg,1,3
+2012-10-28,1212,SWE,Orebro,Goteborg,1,0
+2012-10-28,1212,SWE,Sundsvall,Norrkoping,0,4
+2012-10-29,1212,SWE,Elfsborg,Gefle,2,0
+2012-10-31,1212,SWE,Djurgarden,Syrianska,1,1
+2012-10-31,1212,SWE,Helsingborg,Goteborg,2,0
+2012-10-31,1212,SWE,Kalmar,Norrkoping,0,2
+2012-11-01,1212,SWE,Atvidabergs,Sundsvall,2,2
+2012-11-01,1212,SWE,GAIS,Gefle,2,3
+2012-11-01,1212,SWE,Hacken,AIK,1,1
+2012-11-01,1212,SWE,Malmo FF,Orebro,1,1
+2012-11-01,1212,SWE,Mjallby,Elfsborg,2,3
+2012-11-04,1212,SWE,AIK,Malmo FF,2,0
+2012-11-04,1212,SWE,Elfsborg,Atvidabergs,1,1
+2012-11-04,1212,SWE,Gefle,Helsingborg,2,2
+2012-11-04,1212,SWE,Goteborg,Djurgarden,1,0
+2012-11-04,1212,SWE,Norrkoping,Mjallby,2,1
+2012-11-04,1212,SWE,Orebro,GAIS,4,0
+2012-11-04,1212,SWE,Sundsvall,Hacken,1,2
+2012-11-04,1212,SWE,Syrianska,Kalmar,3,0
+2012-11-10,1212,SWE,Halmstad,Sundsvall,3,0
+2012-11-17,1212,SWE,Sundsvall,Halmstad,4,3
+2013-03-31,1313,SWE,Hacken,Goteborg,0,3
+2013-03-31,1313,SWE,Helsingborg,Djurgarden,3,0
+2013-03-31,1313,SWE,Syrianska,Kalmar,0,3
+2013-04-01,1313,SWE,Brommapojkarna,Osters,2,2
+2013-04-01,1313,SWE,Elfsborg,AIK,2,2
+2013-04-01,1313,SWE,Gefle,Atvidabergs,1,0
+2013-04-01,1313,SWE,Malmo FF,Halmstad,1,1
+2013-04-01,1313,SWE,Mjallby,Norrkoping,1,2
+2013-04-05,1313,SWE,Atvidabergs,Malmo FF,1,3
+2013-04-07,1313,SWE,AIK,Syrianska,0,0
+2013-04-07,1313,SWE,Goteborg,Brommapojkarna,2,0
+2013-04-07,1313,SWE,Halmstad,Elfsborg,1,1
+2013-04-07,1313,SWE,Kalmar,Hacken,0,0
+2013-04-08,1313,SWE,Djurgarden,Mjallby,0,3
+2013-04-08,1313,SWE,Norrkoping,Gefle,2,1
+2013-04-08,1313,SWE,Osters,Helsingborg,1,1
+2013-04-12,1313,SWE,Brommapojkarna,Norrkoping,1,0
+2013-04-13,1313,SWE,Syrianska,Osters,0,1
+2013-04-14,1313,SWE,Atvidabergs,AIK,1,0
+2013-04-14,1313,SWE,Gefle,Halmstad,2,0
+2013-04-14,1313,SWE,Hacken,Djurgarden,4,0
+2013-04-14,1313,SWE,Malmo FF,Kalmar,1,0
+2013-04-15,1313,SWE,Elfsborg,Goteborg,0,0
+2013-04-15,1313,SWE,Helsingborg,Mjallby,1,2
+2013-04-17,1313,SWE,AIK,Malmo FF,0,1
+2013-04-17,1313,SWE,Halmstad,Atvidabergs,0,0
+2013-04-17,1313,SWE,Osters,Hacken,2,0
+2013-04-18,1313,SWE,Djurgarden,Brommapojkarna,1,1
+2013-04-18,1313,SWE,Goteborg,Syrianska,2,0
+2013-04-18,1313,SWE,Kalmar,Elfsborg,1,1
+2013-04-18,1313,SWE,Mjallby,Gefle,1,0
+2013-04-18,1313,SWE,Norrkoping,Helsingborg,1,4
+2013-04-21,1313,SWE,Atvidabergs,Goteborg,1,2
+2013-04-21,1313,SWE,Brommapojkarna,Helsingborg,0,2
+2013-04-21,1313,SWE,Hacken,Mjallby,2,0
+2013-04-21,1313,SWE,Halmstad,Kalmar,1,2
+2013-04-22,1313,SWE,Elfsborg,Djurgarden,2,0
+2013-04-22,1313,SWE,Gefle,AIK,1,2
+2013-04-22,1313,SWE,Malmo FF,Osters,2,0
+2013-04-22,1313,SWE,Syrianska,Norrkoping,3,1
+2013-04-25,1313,SWE,Goteborg,Malmo FF,1,1
+2013-04-26,1313,SWE,Norrkoping,Hacken,4,2
+2013-04-27,1313,SWE,Djurgarden,Syrianska,0,1
+2013-04-27,1313,SWE,Helsingborg,Gefle,5,1
+2013-04-27,1313,SWE,Kalmar,Atvidabergs,0,0
+2013-04-28,1313,SWE,AIK,Halmstad,3,3
+2013-04-28,1313,SWE,Mjallby,Brommapojkarna,4,2
+2013-04-28,1313,SWE,Osters,Elfsborg,1,3
+2013-05-03,1313,SWE,Malmo FF,Norrkoping,1,1
+2013-05-04,1313,SWE,Atvidabergs,Djurgarden,5,1
+2013-05-05,1313,SWE,Elfsborg,Mjallby,2,1
+2013-05-05,1313,SWE,Halmstad,Osters,1,0
+2013-05-05,1313,SWE,Syrianska,Helsingborg,0,1
+2013-05-06,1313,SWE,AIK,Goteborg,3,1
+2013-05-06,1313,SWE,Gefle,Kalmar,1,1
+2013-05-06,1313,SWE,Hacken,Brommapojkarna,1,0
+2013-05-10,1313,SWE,Norrkoping,Elfsborg,1,2
+2013-05-11,1313,SWE,Goteborg,Halmstad,1,0
+2013-05-12,1313,SWE,Djurgarden,Malmo FF,3,2
+2013-05-12,1313,SWE,Kalmar,AIK,2,1
+2013-05-12,1313,SWE,Mjallby,Syrianska,4,1
+2013-05-13,1313,SWE,Brommapojkarna,Gefle,4,1
+2013-05-13,1313,SWE,Helsingborg,Hacken,5,0
+2013-05-13,1313,SWE,Osters,Atvidabergs,0,1
+2013-05-17,1313,SWE,Mjallby,Malmo FF,2,2
+2013-05-18,1313,SWE,Brommapojkarna,Syrianska,1,1
+2013-05-19,1313,SWE,Djurgarden,Halmstad,1,0
+2013-05-19,1313,SWE,Goteborg,Kalmar,2,0
+2013-05-19,1313,SWE,Hacken,Gefle,2,2
+2013-05-19,1313,SWE,Norrkoping,Atvidabergs,2,1
+2013-05-19,1313,SWE,Osters,AIK,2,3
+2013-05-20,1313,SWE,Helsingborg,Elfsborg,2,1
+2013-05-22,1313,SWE,AIK,Djurgarden,1,1
+2013-05-22,1313,SWE,Gefle,Goteborg,1,1
+2013-05-23,1313,SWE,Atvidabergs,Mjallby,3,0
+2013-05-23,1313,SWE,Elfsborg,Brommapojkarna,6,0
+2013-05-23,1313,SWE,Halmstad,Norrkoping,1,1
+2013-05-23,1313,SWE,Kalmar,Osters,3,1
+2013-05-23,1313,SWE,Syrianska,Hacken,0,3
+2013-05-28,1313,SWE,Syrianska,Gefle,2,2
+2013-05-29,1313,SWE,Malmo FF,Helsingborg,1,1
+2013-05-30,1313,SWE,Djurgarden,Kalmar,1,0
+2013-05-30,1313,SWE,Norrkoping,AIK,0,1
+2013-05-31,1313,SWE,Osters,Goteborg,2,0
+2013-06-01,1313,SWE,Brommapojkarna,Malmo FF,1,3
+2013-06-01,1313,SWE,Hacken,Elfsborg,0,1
+2013-06-01,1313,SWE,Helsingborg,Atvidabergs,3,0
+2013-06-01,1313,SWE,Mjallby,Halmstad,5,1
+2013-06-15,1313,SWE,Gefle,Osters,0,0
+2013-06-17,1313,SWE,Goteborg,Djurgarden,0,0
+2013-06-17,1313,SWE,Kalmar,Norrkoping,2,2
+2013-06-19,1313,SWE,Brommapojkarna,Halmstad,1,1
+2013-06-19,1313,SWE,Elfsborg,Gefle,0,0
+2013-06-19,1313,SWE,Hacken,Atvidabergs,0,2
+2013-06-20,1313,SWE,Mjallby,Kalmar,0,2
+2013-06-20,1313,SWE,Norrkoping,Goteborg,1,2
+2013-06-20,1313,SWE,Syrianska,Malmo FF,2,3
+2013-06-23,1313,SWE,Atvidabergs,Syrianska,1,0
+2013-06-23,1313,SWE,Halmstad,Hacken,0,2
+2013-06-23,1313,SWE,Kalmar,Helsingborg,1,1
+2013-06-24,1313,SWE,AIK,Brommapojkarna,4,0
+2013-06-24,1313,SWE,Gefle,Djurgarden,1,1
+2013-06-24,1313,SWE,Goteborg,Mjallby,4,2
+2013-06-24,1313,SWE,Malmo FF,Elfsborg,2,1
+2013-06-24,1313,SWE,Osters,Norrkoping,0,2
+2013-06-27,1313,SWE,Helsingborg,AIK,1,2
+2013-06-27,1313,SWE,Malmo FF,Hacken,1,3
+2013-06-30,1313,SWE,Djurgarden,Osters,2,0
+2013-06-30,1313,SWE,Elfsborg,Syrianska,5,1
+2013-07-01,1313,SWE,AIK,Mjallby,0,0
+2013-07-01,1313,SWE,Atvidabergs,Brommapojkarna,4,1
+2013-07-06,1313,SWE,Brommapojkarna,Kalmar,0,1
+2013-07-06,1313,SWE,Elfsborg,Atvidabergs,0,1
+2013-07-06,1313,SWE,Mjallby,Osters,1,1
+2013-07-07,1313,SWE,AIK,Hacken,2,0
+2013-07-07,1313,SWE,Malmo FF,Gefle,3,1
+2013-07-07,1313,SWE,Syrianska,Halmstad,1,2
+2013-07-08,1313,SWE,Helsingborg,Goteborg,1,1
+2013-07-13,1313,SWE,Brommapojkarna,Goteborg,2,1
+2013-07-13,1313,SWE,Elfsborg,Halmstad,2,2
+2013-07-13,1313,SWE,Hacken,Kalmar,0,1
+2013-07-14,1313,SWE,Gefle,Norrkoping,2,2
+2013-07-14,1313,SWE,Malmo FF,Atvidabergs,4,0
+2013-07-14,1313,SWE,Mjallby,Djurgarden,2,0
+2013-07-14,1313,SWE,Syrianska,AIK,1,2
+2013-07-15,1313,SWE,Helsingborg,Osters,3,0
+2013-07-21,1313,SWE,Djurgarden,Norrkoping,1,2
+2013-07-22,1313,SWE,Hacken,AIK,2,3
+2013-07-24,1313,SWE,Halmstad,Helsingborg,0,1
+2013-07-27,1313,SWE,Atvidabergs,Elfsborg,1,1
+2013-07-27,1313,SWE,Kalmar,Brommapojkarna,2,2
+2013-07-27,1313,SWE,Osters,Mjallby,1,1
+2013-07-28,1313,SWE,Gefle,Malmo FF,2,0
+2013-07-28,1313,SWE,Goteborg,Helsingborg,2,4
+2013-07-29,1313,SWE,Halmstad,Syrianska,1,1
+2013-08-03,1313,SWE,AIK,Elfsborg,2,1
+2013-08-03,1313,SWE,Kalmar,Syrianska,1,0
+2013-08-03,1313,SWE,Osters,Brommapojkarna,0,0
+2013-08-04,1313,SWE,Atvidabergs,Gefle,1,1
+2013-08-04,1313,SWE,Goteborg,Hacken,3,1
+2013-08-04,1313,SWE,Halmstad,Malmo FF,1,3
+2013-08-05,1313,SWE,Djurgarden,Helsingborg,2,1
+2013-08-05,1313,SWE,Norrkoping,Mjallby,3,2
+2013-08-10,1313,SWE,Atvidabergs,Halmstad,0,1
+2013-08-10,1313,SWE,Brommapojkarna,Djurgarden,3,0
+2013-08-10,1313,SWE,Elfsborg,Kalmar,1,0
+2013-08-11,1313,SWE,Gefle,Mjallby,2,1
+2013-08-11,1313,SWE,Hacken,Osters,0,2
+2013-08-11,1313,SWE,Helsingborg,Norrkoping,0,0
+2013-08-11,1313,SWE,Malmo FF,AIK,1,0
+2013-08-11,1313,SWE,Syrianska,Goteborg,0,2
+2013-08-16,1313,SWE,Osters,Syrianska,1,0
+2013-08-17,1313,SWE,Goteborg,Elfsborg,3,1
+2013-08-17,1313,SWE,Norrkoping,Brommapojkarna,2,1
+2013-08-18,1313,SWE,Djurgarden,Hacken,1,1
+2013-08-18,1313,SWE,Halmstad,Gefle,2,2
+2013-08-18,1313,SWE,Kalmar,Malmo FF,1,4
+2013-08-19,1313,SWE,AIK,Atvidabergs,3,2
+2013-08-19,1313,SWE,Mjallby,Helsingborg,4,3
+2013-08-22,1313,SWE,Norrkoping,Djurgarden,2,3
+2013-08-25,1313,SWE,Elfsborg,Osters,2,4
+2013-08-25,1313,SWE,Gefle,Helsingborg,1,2
+2013-08-25,1313,SWE,Halmstad,AIK,1,0
+2013-08-25,1313,SWE,Malmo FF,Goteborg,3,1
+2013-08-26,1313,SWE,Atvidabergs,Kalmar,0,0
+2013-08-26,1313,SWE,Brommapojkarna,Mjallby,2,0
+2013-08-26,1313,SWE,Hacken,Norrkoping,1,0
+2013-08-26,1313,SWE,Syrianska,Djurgarden,1,3
+2013-08-30,1313,SWE,Helsingborg,Brommapojkarna,4,2
+2013-08-31,1313,SWE,AIK,Gefle,3,0
+2013-09-01,1313,SWE,Djurgarden,Elfsborg,1,2
+2013-09-01,1313,SWE,Goteborg,Atvidabergs,3,0
+2013-09-01,1313,SWE,Kalmar,Halmstad,1,0
+2013-09-01,1313,SWE,Mjallby,Hacken,1,1
+2013-09-01,1313,SWE,Norrkoping,Syrianska,6,1
+2013-09-01,1313,SWE,Osters,Malmo FF,1,1
+2013-09-14,1313,SWE,Atvidabergs,Osters,4,0
+2013-09-14,1313,SWE,Gefle,Brommapojkarna,1,0
+2013-09-15,1313,SWE,AIK,Kalmar,0,0
+2013-09-15,1313,SWE,Elfsborg,Norrkoping,4,1
+2013-09-15,1313,SWE,Hacken,Helsingborg,3,2
+2013-09-15,1313,SWE,Halmstad,Goteborg,0,1
+2013-09-15,1313,SWE,Syrianska,Mjallby,1,2
+2013-09-16,1313,SWE,Malmo FF,Djurgarden,0,2
+2013-09-20,1313,SWE,Osters,Halmstad,0,1
+2013-09-21,1313,SWE,Kalmar,Gefle,0,0
+2013-09-22,1313,SWE,Brommapojkarna,Hacken,1,0
+2013-09-22,1313,SWE,Djurgarden,Atvidabergs,2,0
+2013-09-22,1313,SWE,Helsingborg,Syrianska,2,2
+2013-09-22,1313,SWE,Mjallby,Elfsborg,2,2
+2013-09-22,1313,SWE,Norrkoping,Malmo FF,0,2
+2013-09-23,1313,SWE,Goteborg,AIK,3,1
+2013-09-24,1313,SWE,Osters,Kalmar,1,2
+2013-09-25,1313,SWE,Brommapojkarna,Elfsborg,1,0
+2013-09-25,1313,SWE,Hacken,Syrianska,4,0
+2013-09-25,1313,SWE,Helsingborg,Malmo FF,0,3
+2013-09-26,1313,SWE,Djurgarden,AIK,2,2
+2013-09-26,1313,SWE,Goteborg,Gefle,3,1
+2013-09-26,1313,SWE,Mjallby,Atvidabergs,0,1
+2013-09-26,1313,SWE,Norrkoping,Halmstad,3,2
+2013-09-28,1313,SWE,Syrianska,Brommapojkarna,1,2
+2013-09-29,1313,SWE,Elfsborg,Helsingborg,1,1
+2013-09-29,1313,SWE,Halmstad,Djurgarden,1,4
+2013-09-29,1313,SWE,Kalmar,Goteborg,2,1
+2013-09-30,1313,SWE,AIK,Osters,2,1
+2013-09-30,1313,SWE,Atvidabergs,Norrkoping,1,3
+2013-09-30,1313,SWE,Gefle,Hacken,0,0
+2013-09-30,1313,SWE,Malmo FF,Mjallby,1,0
+2013-10-04,1313,SWE,Mjallby,AIK,2,3
+2013-10-05,1313,SWE,Brommapojkarna,Atvidabergs,0,0
+2013-10-05,1313,SWE,Norrkoping,Kalmar,0,1
+2013-10-06,1313,SWE,Djurgarden,Goteborg,2,1
+2013-10-06,1313,SWE,Hacken,Malmo FF,2,0
+2013-10-06,1313,SWE,Helsingborg,Halmstad,4,2
+2013-10-06,1313,SWE,Osters,Gefle,1,4
+2013-10-06,1313,SWE,Syrianska,Elfsborg,1,3
+2013-10-19,1313,SWE,Gefle,Syrianska,2,0
+2013-10-20,1313,SWE,Atvidabergs,Helsingborg,3,0
+2013-10-20,1313,SWE,Elfsborg,Hacken,0,0
+2013-10-20,1313,SWE,Goteborg,Osters,0,0
+2013-10-20,1313,SWE,Malmo FF,Brommapojkarna,2,1
+2013-10-21,1313,SWE,AIK,Norrkoping,1,0
+2013-10-21,1313,SWE,Halmstad,Mjallby,1,0
+2013-10-21,1313,SWE,Kalmar,Djurgarden,1,2
+2013-10-25,1313,SWE,Hacken,Halmstad,1,3
+2013-10-26,1313,SWE,Brommapojkarna,AIK,0,6
+2013-10-27,1313,SWE,Djurgarden,Gefle,1,1
+2013-10-27,1313,SWE,Helsingborg,Kalmar,2,3
+2013-10-27,1313,SWE,Mjallby,Goteborg,2,1
+2013-10-27,1313,SWE,Syrianska,Atvidabergs,4,1
+2013-10-28,1313,SWE,Elfsborg,Malmo FF,0,2
+2013-10-28,1313,SWE,Norrkoping,Osters,1,1
+2013-11-03,1313,SWE,AIK,Helsingborg,2,1
+2013-11-03,1313,SWE,Atvidabergs,Hacken,2,2
+2013-11-03,1313,SWE,Gefle,Elfsborg,0,2
+2013-11-03,1313,SWE,Goteborg,Norrkoping,2,0
+2013-11-03,1313,SWE,Halmstad,Brommapojkarna,2,2
+2013-11-03,1313,SWE,Kalmar,Mjallby,2,1
+2013-11-03,1313,SWE,Malmo FF,Syrianska,3,1
+2013-11-03,1313,SWE,Osters,Djurgarden,1,1
+2013-11-06,1313,SWE,Sundsvall,Halmstad,1,1
+2013-11-10,1313,SWE,Halmstad,Sundsvall,2,1
+2014-03-30,1414,SWE,Brommapojkarna,Kalmar,1,2
+2014-03-30,1414,SWE,Halmstad,Orebro,1,2
+2014-03-30,1414,SWE,Helsingborg,Djurgarden,1,1
+2014-03-30,1414,SWE,Malmo FF,Falkenbergs,3,0
+2014-03-30,1414,SWE,Mjallby,Gefle,2,2
+2014-03-31,1414,SWE,AIK,Goteborg,0,2
+2014-03-31,1414,SWE,Atvidabergs,Elfsborg,2,1
+2014-03-31,1414,SWE,Hacken,Norrkoping,2,0
+2014-04-04,1414,SWE,Elfsborg,Hacken,3,1
+2014-04-05,1414,SWE,Falkenbergs,Brommapojkarna,1,0
+2014-04-06,1414,SWE,Djurgarden,Halmstad,3,0
+2014-04-06,1414,SWE,Gefle,AIK,1,2
+2014-04-06,1414,SWE,Norrkoping,Helsingborg,2,0
+2014-04-07,1414,SWE,Goteborg,Malmo FF,0,3
+2014-04-07,1414,SWE,Kalmar,Atvidabergs,2,2
+2014-04-08,1414,SWE,Orebro,Mjallby,1,0
+2014-04-11,1414,SWE,Mjallby,Djurgarden,0,2
+2014-04-12,1414,SWE,Atvidabergs,Falkenbergs,2,0
+2014-04-12,1414,SWE,Malmo FF,Gefle,1,0
+2014-04-13,1414,SWE,AIK,Orebro,1,1
+2014-04-13,1414,SWE,Halmstad,Norrkoping,0,0
+2014-04-13,1414,SWE,Helsingborg,Hacken,4,2
+2014-04-14,1414,SWE,Brommapojkarna,Goteborg,1,1
+2014-04-14,1414,SWE,Kalmar,Elfsborg,0,0
+2014-04-16,1414,SWE,Djurgarden,AIK,2,3
+2014-04-16,1414,SWE,Hacken,Halmstad,3,0
+2014-04-16,1414,SWE,Norrkoping,Mjallby,1,1
+2014-04-16,1414,SWE,Orebro,Malmo FF,1,2
+2014-04-17,1414,SWE,Elfsborg,Helsingborg,1,0
+2014-04-17,1414,SWE,Falkenbergs,Kalmar,1,3
+2014-04-17,1414,SWE,Gefle,Brommapojkarna,3,0
+2014-04-17,1414,SWE,Goteborg,Atvidabergs,5,0
+2014-04-20,1414,SWE,AIK,Norrkoping,1,2
+2014-04-20,1414,SWE,Halmstad,Helsingborg,2,1
+2014-04-20,1414,SWE,Kalmar,Goteborg,1,1
+2014-04-20,1414,SWE,Mjallby,Hacken,1,4
+2014-04-21,1414,SWE,Atvidabergs,Gefle,2,2
+2014-04-21,1414,SWE,Brommapojkarna,Orebro,2,2
+2014-04-21,1414,SWE,Falkenbergs,Elfsborg,2,3
+2014-04-21,1414,SWE,Malmo FF,Djurgarden,2,2
+2014-04-25,1414,SWE,Goteborg,Falkenbergs,1,0
+2014-04-25,1414,SWE,Orebro,Atvidabergs,3,2
+2014-04-27,1414,SWE,Djurgarden,Brommapojkarna,3,2
+2014-04-27,1414,SWE,Hacken,AIK,2,2
+2014-04-27,1414,SWE,Helsingborg,Mjallby,3,1
+2014-04-28,1414,SWE,Elfsborg,Halmstad,4,1
+2014-04-28,1414,SWE,Gefle,Kalmar,0,2
+2014-04-28,1414,SWE,Norrkoping,Malmo FF,1,2
+2014-05-03,1414,SWE,Brommapojkarna,Norrkoping,3,0
+2014-05-03,1414,SWE,Mjallby,Halmstad,2,1
+2014-05-04,1414,SWE,Atvidabergs,Djurgarden,1,1
+2014-05-04,1414,SWE,Goteborg,Elfsborg,0,0
+2014-05-04,1414,SWE,Kalmar,Orebro,2,0
+2014-05-04,1414,SWE,Malmo FF,Hacken,1,2
+2014-05-05,1414,SWE,AIK,Helsingborg,2,1
+2014-05-05,1414,SWE,Falkenbergs,Gefle,1,1
+2014-05-07,1414,SWE,Djurgarden,Kalmar,0,0
+2014-05-07,1414,SWE,Elfsborg,Mjallby,3,1
+2014-05-07,1414,SWE,Hacken,Brommapojkarna,3,1
+2014-05-07,1414,SWE,Norrkoping,Atvidabergs,2,1
+2014-05-08,1414,SWE,Gefle,Goteborg,1,1
+2014-05-08,1414,SWE,Halmstad,AIK,2,2
+2014-05-08,1414,SWE,Helsingborg,Malmo FF,0,1
+2014-05-08,1414,SWE,Orebro,Falkenbergs,0,0
+2014-05-10,1414,SWE,Kalmar,Norrkoping,2,0
+2014-05-11,1414,SWE,AIK,Mjallby,2,1
+2014-05-11,1414,SWE,Gefle,Elfsborg,0,1
+2014-05-11,1414,SWE,Goteborg,Orebro,2,1
+2014-05-12,1414,SWE,Atvidabergs,Hacken,1,0
+2014-05-12,1414,SWE,Brommapojkarna,Helsingborg,0,1
+2014-05-12,1414,SWE,Falkenbergs,Djurgarden,1,0
+2014-05-12,1414,SWE,Malmo FF,Halmstad,3,1
+2014-05-15,1414,SWE,AIK,Elfsborg,2,1
+2014-05-15,1414,SWE,Brommapojkarna,Mjallby,0,1
+2014-05-15,1414,SWE,Norrkoping,Falkenbergs,0,3
+2014-05-19,1414,SWE,Halmstad,Brommapojkarna,3,0
+2014-05-19,1414,SWE,Orebro,Gefle,2,2
+2014-05-20,1414,SWE,Hacken,Kalmar,4,1
+2014-05-21,1414,SWE,Djurgarden,Goteborg,0,0
+2014-05-21,1414,SWE,Helsingborg,Atvidabergs,0,0
+2014-05-22,1414,SWE,Mjallby,Malmo FF,0,1
+2014-05-24,1414,SWE,Atvidabergs,Halmstad,1,0
+2014-05-24,1414,SWE,Elfsborg,Orebro,1,0
+2014-05-24,1414,SWE,Falkenbergs,Hacken,1,1
+2014-05-25,1414,SWE,Goteborg,Norrkoping,2,2
+2014-05-25,1414,SWE,Kalmar,Helsingborg,2,0
+2014-05-26,1414,SWE,Gefle,Djurgarden,1,1
+2014-05-26,1414,SWE,Malmo FF,AIK,2,2
+2014-05-30,1414,SWE,Orebro,Djurgarden,0,1
+2014-05-31,1414,SWE,Halmstad,Kalmar,1,1
+2014-05-31,1414,SWE,Mjallby,Atvidabergs,1,0
+2014-06-01,1414,SWE,Elfsborg,Malmo FF,0,1
+2014-06-01,1414,SWE,Helsingborg,Falkenbergs,1,0
+2014-06-02,1414,SWE,AIK,Brommapojkarna,4,2
+2014-06-02,1414,SWE,Hacken,Goteborg,1,1
+2014-06-02,1414,SWE,Norrkoping,Gefle,1,0
+2014-07-05,1414,SWE,Falkenbergs,Halmstad,1,1
+2014-07-05,1414,SWE,Gefle,Hacken,1,0
+2014-07-05,1414,SWE,Kalmar,Mjallby,2,1
+2014-07-06,1414,SWE,Brommapojkarna,Malmo FF,1,1
+2014-07-06,1414,SWE,Goteborg,Helsingborg,6,2
+2014-07-06,1414,SWE,Orebro,Norrkoping,2,2
+2014-07-07,1414,SWE,Atvidabergs,AIK,0,3
+2014-07-07,1414,SWE,Djurgarden,Elfsborg,1,1
+2014-07-12,1414,SWE,AIK,Kalmar,3,0
+2014-07-12,1414,SWE,Malmo FF,Atvidabergs,3,0
+2014-07-12,1414,SWE,Mjallby,Falkenbergs,1,1
+2014-07-13,1414,SWE,Elfsborg,Brommapojkarna,2,2
+2014-07-13,1414,SWE,Hacken,Orebro,4,1
+2014-07-13,1414,SWE,Halmstad,Goteborg,2,2
+2014-07-13,1414,SWE,Helsingborg,Gefle,1,1
+2014-07-14,1414,SWE,Norrkoping,Djurgarden,3,5
+2014-07-19,1414,SWE,Gefle,Halmstad,2,0
+2014-07-19,1414,SWE,Kalmar,Malmo FF,1,1
+2014-07-20,1414,SWE,Atvidabergs,Brommapojkarna,3,2
+2014-07-20,1414,SWE,Falkenbergs,AIK,4,1
+2014-07-20,1414,SWE,Goteborg,Mjallby,3,1
+2014-07-20,1414,SWE,Norrkoping,Elfsborg,4,2
+2014-07-20,1414,SWE,Orebro,Helsingborg,1,1
+2014-07-21,1414,SWE,Djurgarden,Hacken,1,2
+2014-07-26,1414,SWE,Halmstad,Gefle,3,2
+2014-07-26,1414,SWE,Malmo FF,Kalmar,3,1
+2014-07-27,1414,SWE,Brommapojkarna,Atvidabergs,2,2
+2014-07-27,1414,SWE,Elfsborg,Norrkoping,3,0
+2014-07-27,1414,SWE,Helsingborg,Orebro,1,1
+2014-07-27,1414,SWE,Mjallby,Goteborg,3,0
+2014-07-28,1414,SWE,AIK,Falkenbergs,3,0
+2014-07-28,1414,SWE,Hacken,Djurgarden,2,1
+2014-08-02,1414,SWE,Falkenbergs,Malmo FF,2,5
+2014-08-02,1414,SWE,Norrkoping,Hacken,0,0
+2014-08-02,1414,SWE,Orebro,Halmstad,1,2
+2014-08-03,1414,SWE,Elfsborg,Atvidabergs,1,0
+2014-08-03,1414,SWE,Kalmar,Brommapojkarna,1,1
+2014-08-04,1414,SWE,Djurgarden,Helsingborg,2,2
+2014-08-04,1414,SWE,Gefle,Mjallby,1,0
+2014-08-04,1414,SWE,Goteborg,AIK,0,2
+2014-08-09,1414,SWE,Atvidabergs,Kalmar,3,1
+2014-08-09,1414,SWE,Mjallby,Orebro,0,1
+2014-08-10,1414,SWE,AIK,Gefle,3,1
+2014-08-10,1414,SWE,Brommapojkarna,Falkenbergs,2,3
+2014-08-10,1414,SWE,Halmstad,Djurgarden,2,1
+2014-08-10,1414,SWE,Helsingborg,Norrkoping,0,0
+2014-08-10,1414,SWE,Malmo FF,Goteborg,2,2
+2014-08-11,1414,SWE,Hacken,Elfsborg,0,2
+2014-08-13,1414,SWE,AIK,Djurgarden,1,1
+2014-08-13,1414,SWE,Atvidabergs,Goteborg,1,1
+2014-08-13,1414,SWE,Brommapojkarna,Gefle,1,2
+2014-08-13,1414,SWE,Malmo FF,Orebro,3,2
+2014-08-14,1414,SWE,Halmstad,Hacken,1,4
+2014-08-14,1414,SWE,Helsingborg,Elfsborg,4,1
+2014-08-14,1414,SWE,Kalmar,Falkenbergs,3,1
+2014-08-14,1414,SWE,Mjallby,Norrkoping,3,1
+2014-08-16,1414,SWE,Gefle,Malmo FF,0,0
+2014-08-17,1414,SWE,Elfsborg,Kalmar,2,0
+2014-08-17,1414,SWE,Falkenbergs,Atvidabergs,3,0
+2014-08-17,1414,SWE,Goteborg,Brommapojkarna,3,0
+2014-08-17,1414,SWE,Orebro,AIK,4,2
+2014-08-18,1414,SWE,Djurgarden,Mjallby,4,0
+2014-08-18,1414,SWE,Hacken,Helsingborg,1,1
+2014-08-18,1414,SWE,Norrkoping,Halmstad,1,2
+2014-08-22,1414,SWE,Mjallby,Helsingborg,1,2
+2014-08-23,1414,SWE,Malmo FF,Norrkoping,3,0
+2014-08-24,1414,SWE,AIK,Hacken,1,0
+2014-08-24,1414,SWE,Falkenbergs,Goteborg,1,2
+2014-08-24,1414,SWE,Halmstad,Elfsborg,1,1
+2014-08-25,1414,SWE,Atvidabergs,Orebro,1,2
+2014-08-25,1414,SWE,Brommapojkarna,Djurgarden,0,4
+2014-08-25,1414,SWE,Kalmar,Gefle,2,1
+2014-08-29,1414,SWE,Helsingborg,Halmstad,1,4
+2014-08-29,1414,SWE,Orebro,Brommapojkarna,3,1
+2014-08-30,1414,SWE,Gefle,Atvidabergs,0,1
+2014-08-30,1414,SWE,Hacken,Mjallby,1,1
+2014-08-31,1414,SWE,Djurgarden,Malmo FF,2,0
+2014-08-31,1414,SWE,Elfsborg,Falkenbergs,1,0
+2014-08-31,1414,SWE,Goteborg,Kalmar,2,0
+2014-08-31,1414,SWE,Norrkoping,AIK,2,4
+2014-09-13,1414,SWE,Hacken,Malmo FF,3,3
+2014-09-14,1414,SWE,Djurgarden,Atvidabergs,0,1
+2014-09-14,1414,SWE,Elfsborg,Goteborg,0,0
+2014-09-14,1414,SWE,Gefle,Falkenbergs,3,1
+2014-09-14,1414,SWE,Halmstad,Mjallby,1,2
+2014-09-15,1414,SWE,Helsingborg,AIK,3,1
+2014-09-15,1414,SWE,Norrkoping,Brommapojkarna,3,1
+2014-09-15,1414,SWE,Orebro,Kalmar,2,0
+2014-09-19,1414,SWE,Goteborg,Gefle,4,0
+2014-09-20,1414,SWE,Brommapojkarna,Hacken,1,5
+2014-09-20,1414,SWE,Falkenbergs,Orebro,1,3
+2014-09-21,1414,SWE,AIK,Halmstad,0,1
+2014-09-21,1414,SWE,Kalmar,Djurgarden,0,4
+2014-09-21,1414,SWE,Malmo FF,Helsingborg,1,1
+2014-09-21,1414,SWE,Mjallby,Elfsborg,1,0
+2014-09-22,1414,SWE,Atvidabergs,Norrkoping,2,2
+2014-09-24,1414,SWE,Djurgarden,Falkenbergs,1,0
+2014-09-24,1414,SWE,Elfsborg,Gefle,1,0
+2014-09-24,1414,SWE,Halmstad,Malmo FF,0,1
+2014-09-24,1414,SWE,Helsingborg,Brommapojkarna,3,1
+2014-09-24,1414,SWE,Mjallby,AIK,1,0
+2014-09-24,1414,SWE,Orebro,Goteborg,3,4
+2014-09-25,1414,SWE,Hacken,Atvidabergs,0,2
+2014-09-25,1414,SWE,Norrkoping,Kalmar,0,0
+2014-09-27,1414,SWE,Malmo FF,Mjallby,4,1
+2014-09-28,1414,SWE,Elfsborg,AIK,1,1
+2014-09-28,1414,SWE,Falkenbergs,Norrkoping,4,2
+2014-09-28,1414,SWE,Kalmar,Hacken,2,3
+2014-09-29,1414,SWE,Atvidabergs,Helsingborg,1,2
+2014-09-29,1414,SWE,Brommapojkarna,Halmstad,0,3
+2014-09-29,1414,SWE,Gefle,Orebro,1,2
+2014-09-29,1414,SWE,Goteborg,Djurgarden,2,1
+2014-10-03,1414,SWE,Helsingborg,Kalmar,4,1
+2014-10-04,1414,SWE,Djurgarden,Gefle,1,2
+2014-10-04,1414,SWE,Mjallby,Brommapojkarna,0,1
+2014-10-05,1414,SWE,AIK,Malmo FF,2,3
+2014-10-05,1414,SWE,Hacken,Falkenbergs,1,2
+2014-10-05,1414,SWE,Halmstad,Atvidabergs,1,3
+2014-10-05,1414,SWE,Norrkoping,Goteborg,3,0
+2014-10-05,1414,SWE,Orebro,Elfsborg,5,1
+2014-10-18,1414,SWE,Atvidabergs,Mjallby,2,1
+2014-10-18,1414,SWE,Kalmar,Halmstad,1,3
+2014-10-18,1414,SWE,Malmo FF,Elfsborg,1,2
+2014-10-19,1414,SWE,Brommapojkarna,AIK,0,4
+2014-10-19,1414,SWE,Gefle,Norrkoping,1,2
+2014-10-19,1414,SWE,Goteborg,Hacken,3,2
+2014-10-20,1414,SWE,Djurgarden,Orebro,0,3
+2014-10-20,1414,SWE,Falkenbergs,Helsingborg,2,0
+2014-10-25,1414,SWE,Hacken,Gefle,3,1
+2014-10-26,1414,SWE,AIK,Atvidabergs,4,1
+2014-10-26,1414,SWE,Elfsborg,Djurgarden,0,1
+2014-10-26,1414,SWE,Halmstad,Falkenbergs,4,0
+2014-10-26,1414,SWE,Norrkoping,Orebro,2,0
+2014-10-27,1414,SWE,Helsingborg,Goteborg,0,3
+2014-10-27,1414,SWE,Malmo FF,Brommapojkarna,2,0
+2014-10-27,1414,SWE,Mjallby,Kalmar,0,2
+2014-11-01,1414,SWE,Atvidabergs,Malmo FF,2,1
+2014-11-01,1414,SWE,Brommapojkarna,Elfsborg,0,1
+2014-11-01,1414,SWE,Djurgarden,Norrkoping,1,1
+2014-11-01,1414,SWE,Falkenbergs,Mjallby,1,1
+2014-11-01,1414,SWE,Gefle,Helsingborg,2,1
+2014-11-01,1414,SWE,Goteborg,Halmstad,5,1
+2014-11-01,1414,SWE,Kalmar,AIK,1,1
+2014-11-01,1414,SWE,Orebro,Hacken,5,2
+2014-11-06,1414,SWE,Ljungskile,Gefle,1,3
+2014-11-09,1414,SWE,Gefle,Ljungskile,1,0
+2015-04-04,1515,SWE,Hammarby,Hacken,2,0
+2015-04-04,1515,SWE,Kalmar,Helsingborg,0,0
+2015-04-05,1515,SWE,Djurgarden,Elfsborg,1,2
+2015-04-05,1515,SWE,Falkenbergs,Gefle,0,2
+2015-04-05,1515,SWE,Goteborg,Atvidabergs,1,0
+2015-04-05,1515,SWE,Norrkoping,Orebro,1,1
+2015-04-06,1515,SWE,AIK,Halmstad,2,1
+2015-04-06,1515,SWE,Sundsvall,Malmo FF,1,4
+2015-04-08,1515,SWE,Elfsborg,Hammarby,1,1
+2015-04-08,1515,SWE,Gefle,Kalmar,2,0
+2015-04-08,1515,SWE,Helsingborg,Falkenbergs,0,0
+2015-04-08,1515,SWE,Orebro,Goteborg,0,2
+2015-04-09,1515,SWE,Atvidabergs,Sundsvall,2,3
+2015-04-09,1515,SWE,Hacken,Djurgarden,1,1
+2015-04-09,1515,SWE,Halmstad,Norrkoping,0,3
+2015-04-09,1515,SWE,Malmo FF,AIK,0,0
+2015-04-12,1515,SWE,AIK,Gefle,3,1
+2015-04-12,1515,SWE,Falkenbergs,Orebro,2,0
+2015-04-12,1515,SWE,Goteborg,Malmo FF,0,1
+2015-04-12,1515,SWE,Halmstad,Helsingborg,1,2
+2015-04-13,1515,SWE,Hammarby,Djurgarden,2,1
+2015-04-13,1515,SWE,Kalmar,Atvidabergs,2,1
+2015-04-13,1515,SWE,Norrkoping,Elfsborg,0,4
+2015-04-13,1515,SWE,Sundsvall,Hacken,1,1
+2015-04-17,1515,SWE,Djurgarden,Kalmar,1,0
+2015-04-18,1515,SWE,Gefle,Halmstad,0,0
+2015-04-19,1515,SWE,Atvidabergs,Falkenbergs,3,1
+2015-04-19,1515,SWE,Hacken,Goteborg,1,2
+2015-04-20,1515,SWE,Helsingborg,Norrkoping,3,1
+2015-04-20,1515,SWE,Malmo FF,Hammarby,3,1
+2015-04-20,1515,SWE,Orebro,Sundsvall,1,3
+2015-04-21,1515,SWE,Elfsborg,AIK,3,2
+2015-04-24,1515,SWE,Falkenbergs,Malmo FF,3,3
+2015-04-25,1515,SWE,Hammarby,Atvidabergs,2,1
+2015-04-26,1515,SWE,AIK,Orebro,3,0
+2015-04-26,1515,SWE,Halmstad,Elfsborg,1,0
+2015-04-26,1515,SWE,Kalmar,Hacken,0,1
+2015-04-26,1515,SWE,Sundsvall,Djurgarden,0,2
+2015-04-27,1515,SWE,Goteborg,Helsingborg,3,1
+2015-04-27,1515,SWE,Norrkoping,Gefle,4,1
+2015-04-29,1515,SWE,Atvidabergs,AIK,1,1
+2015-04-29,1515,SWE,Djurgarden,Falkenbergs,3,1
+2015-04-29,1515,SWE,Elfsborg,Kalmar,2,1
+2015-04-29,1515,SWE,Malmo FF,Halmstad,3,1
+2015-04-30,1515,SWE,Gefle,Goteborg,0,0
+2015-04-30,1515,SWE,Hacken,Norrkoping,0,2
+2015-04-30,1515,SWE,Helsingborg,Sundsvall,2,0
+2015-04-30,1515,SWE,Orebro,Hammarby,2,2
+2015-05-03,1515,SWE,Djurgarden,Gefle,5,1
+2015-05-03,1515,SWE,Malmo FF,Helsingborg,3,1
+2015-05-03,1515,SWE,Norrkoping,Atvidabergs,2,1
+2015-05-03,1515,SWE,Sundsvall,Elfsborg,0,1
+2015-05-04,1515,SWE,AIK,Hammarby,2,0
+2015-05-04,1515,SWE,Goteborg,Falkenbergs,2,1
+2015-05-04,1515,SWE,Halmstad,Hacken,0,2
+2015-05-04,1515,SWE,Kalmar,Orebro,3,0
+2015-05-08,1515,SWE,Kalmar,Goteborg,0,2
+2015-05-09,1515,SWE,Helsingborg,Gefle,1,2
+2015-05-10,1515,SWE,AIK,Norrkoping,2,2
+2015-05-10,1515,SWE,Falkenbergs,Halmstad,1,0
+2015-05-10,1515,SWE,Hacken,Orebro,2,0
+2015-05-11,1515,SWE,Atvidabergs,Djurgarden,2,3
+2015-05-11,1515,SWE,Elfsborg,Malmo FF,2,2
+2015-05-11,1515,SWE,Hammarby,Sundsvall,1,2
+2015-05-18,1515,SWE,Halmstad,Djurgarden,2,3
+2015-05-19,1515,SWE,Falkenbergs,Kalmar,1,3
+2015-05-20,1515,SWE,Elfsborg,Helsingborg,2,1
+2015-05-20,1515,SWE,Gefle,Sundsvall,3,1
+2015-05-20,1515,SWE,Norrkoping,Hammarby,1,0
+2015-05-20,1515,SWE,Orebro,Atvidabergs,2,1
+2015-05-21,1515,SWE,Goteborg,AIK,3,0
+2015-05-21,1515,SWE,Malmo FF,Hacken,0,3
+2015-05-24,1515,SWE,Atvidabergs,Elfsborg,1,2
+2015-05-24,1515,SWE,Halmstad,Goteborg,1,2
+2015-05-24,1515,SWE,Kalmar,Malmo FF,2,1
+2015-05-24,1515,SWE,Orebro,Gefle,1,0
+2015-05-25,1515,SWE,Djurgarden,AIK,2,2
+2015-05-25,1515,SWE,Hacken,Falkenbergs,0,2
+2015-05-25,1515,SWE,Helsingborg,Hammarby,1,0
+2015-05-25,1515,SWE,Sundsvall,Norrkoping,0,1
+2015-05-29,1515,SWE,Gefle,Hacken,2,0
+2015-05-30,1515,SWE,Falkenbergs,Sundsvall,1,1
+2015-05-30,1515,SWE,Hammarby,Halmstad,2,2
+2015-05-30,1515,SWE,Norrkoping,Kalmar,2,1
+2015-05-31,1515,SWE,AIK,Helsingborg,3,1
+2015-05-31,1515,SWE,Elfsborg,Orebro,2,2
+2015-05-31,1515,SWE,Malmo FF,Atvidabergs,3,0
+2015-06-01,1515,SWE,Goteborg,Djurgarden,0,0
+2015-06-03,1515,SWE,AIK,Falkenbergs,4,3
+2015-06-03,1515,SWE,Atvidabergs,Hacken,1,1
+2015-06-03,1515,SWE,Gefle,Malmo FF,1,2
+2015-06-03,1515,SWE,Halmstad,Sundsvall,1,0
+2015-06-03,1515,SWE,Orebro,Helsingborg,0,0
+2015-06-04,1515,SWE,Djurgarden,Norrkoping,1,1
+2015-06-04,1515,SWE,Goteborg,Elfsborg,1,0
+2015-06-04,1515,SWE,Kalmar,Hammarby,2,2
+2015-06-06,1515,SWE,Hacken,AIK,0,0
+2015-06-06,1515,SWE,Helsingborg,Atvidabergs,3,0
+2015-06-06,1515,SWE,Orebro,Halmstad,1,1
+2015-06-07,1515,SWE,Elfsborg,Gefle,5,1
+2015-06-07,1515,SWE,Hammarby,Goteborg,0,1
+2015-06-07,1515,SWE,Malmo FF,Djurgarden,1,1
+2015-06-07,1515,SWE,Norrkoping,Falkenbergs,2,0
+2015-06-07,1515,SWE,Sundsvall,Kalmar,1,1
+2015-07-04,1515,SWE,Atvidabergs,Halmstad,0,0
+2015-07-04,1515,SWE,Djurgarden,Orebro,2,0
+2015-07-04,1515,SWE,Norrkoping,Malmo FF,3,1
+2015-07-05,1515,SWE,Falkenbergs,Elfsborg,2,2
+2015-07-05,1515,SWE,Hacken,Helsingborg,3,2
+2015-07-05,1515,SWE,Kalmar,AIK,0,0
+2015-07-05,1515,SWE,Sundsvall,Goteborg,2,2
+2015-07-06,1515,SWE,Gefle,Hammarby,1,1
+2015-07-11,1515,SWE,Atvidabergs,Gefle,1,1
+2015-07-11,1515,SWE,Halmstad,Kalmar,1,0
+2015-07-11,1515,SWE,Malmo FF,Orebro,2,2
+2015-07-12,1515,SWE,AIK,Sundsvall,4,1
+2015-07-12,1515,SWE,Elfsborg,Hacken,1,0
+2015-07-12,1515,SWE,Goteborg,Norrkoping,0,0
+2015-07-13,1515,SWE,Hammarby,Falkenbergs,3,0
+2015-07-13,1515,SWE,Helsingborg,Djurgarden,0,1
+2015-07-18,1515,SWE,Kalmar,Falkenbergs,4,0
+2015-07-18,1515,SWE,Orebro,Malmo FF,1,1
+2015-07-18,1515,SWE,Sundsvall,Halmstad,0,0
+2015-07-19,1515,SWE,Helsingborg,AIK,3,1
+2015-07-19,1515,SWE,Norrkoping,Goteborg,2,2
+2015-07-20,1515,SWE,Djurgarden,Atvidabergs,0,0
+2015-07-20,1515,SWE,Hacken,Hammarby,3,3
+2015-07-25,1515,SWE,Atvidabergs,Helsingborg,1,2
+2015-07-25,1515,SWE,Hacken,Kalmar,3,0
+2015-07-25,1515,SWE,Malmo FF,Sundsvall,3,0
+2015-07-26,1515,SWE,AIK,Elfsborg,4,2
+2015-07-26,1515,SWE,Falkenbergs,Goteborg,1,0
+2015-07-27,1515,SWE,Halmstad,Gefle,0,1
+2015-07-27,1515,SWE,Hammarby,Norrkoping,0,1
+2015-07-27,1515,SWE,Orebro,Djurgarden,0,1
+2015-07-31,1515,SWE,Helsingborg,Kalmar,1,2
+2015-08-01,1515,SWE,Atvidabergs,Malmo FF,2,2
+2015-08-01,1515,SWE,Djurgarden,Hacken,2,1
+2015-08-01,1515,SWE,Gefle,Falkenbergs,1,0
+2015-08-02,1515,SWE,Elfsborg,Halmstad,2,0
+2015-08-02,1515,SWE,Goteborg,Orebro,6,0
+2015-08-02,1515,SWE,Norrkoping,AIK,1,2
+2015-08-03,1515,SWE,Sundsvall,Hammarby,3,0
+2015-08-08,1515,SWE,Falkenbergs,Helsingborg,2,3
+2015-08-08,1515,SWE,Hacken,Gefle,1,1
+2015-08-09,1515,SWE,Halmstad,Atvidabergs,0,0
+2015-08-09,1515,SWE,Hammarby,Elfsborg,0,0
+2015-08-09,1515,SWE,Malmo FF,Goteborg,2,1
+2015-08-09,1515,SWE,Orebro,Norrkoping,1,3
+2015-08-10,1515,SWE,AIK,Djurgarden,1,0
+2015-08-10,1515,SWE,Kalmar,Sundsvall,0,2
+2015-08-12,1515,SWE,Gefle,Elfsborg,2,3
+2015-08-15,1515,SWE,Malmo FF,Gefle,2,0
+2015-08-15,1515,SWE,Sundsvall,Orebro,1,0
+2015-08-16,1515,SWE,AIK,Kalmar,2,1
+2015-08-16,1515,SWE,Elfsborg,Djurgarden,2,0
+2015-08-16,1515,SWE,Goteborg,Hacken,4,0
+2015-08-17,1515,SWE,Atvidabergs,Norrkoping,1,1
+2015-08-17,1515,SWE,Falkenbergs,Hammarby,0,1
+2015-08-17,1515,SWE,Helsingborg,Halmstad,2,0
+2015-08-22,1515,SWE,Hacken,Malmo FF,1,0
+2015-08-23,1515,SWE,Atvidabergs,Goteborg,0,1
+2015-08-23,1515,SWE,Gefle,AIK,1,2
+2015-08-23,1515,SWE,Halmstad,Orebro,2,2
+2015-08-23,1515,SWE,Kalmar,Elfsborg,0,3
+2015-08-24,1515,SWE,Djurgarden,Hammarby,2,2
+2015-08-24,1515,SWE,Norrkoping,Helsingborg,3,2
+2015-08-24,1515,SWE,Sundsvall,Falkenbergs,0,1
+2015-08-28,1515,SWE,Hammarby,Kalmar,0,0
+2015-08-29,1515,SWE,Djurgarden,Halmstad,4,2
+2015-08-29,1515,SWE,Falkenbergs,Norrkoping,0,1
+2015-08-29,1515,SWE,Orebro,Hacken,2,0
+2015-08-30,1515,SWE,AIK,Atvidabergs,1,0
+2015-08-30,1515,SWE,Elfsborg,Sundsvall,1,2
+2015-08-30,1515,SWE,Goteborg,Gefle,3,0
+2015-08-30,1515,SWE,Helsingborg,Malmo FF,0,3
+2015-09-11,1515,SWE,Kalmar,Norrkoping,1,2
+2015-09-12,1515,SWE,Falkenbergs,AIK,2,4
+2015-09-12,1515,SWE,Malmo FF,Elfsborg,1,1
+2015-09-13,1515,SWE,Hammarby,Orebro,1,2
+2015-09-13,1515,SWE,Helsingborg,Goteborg,1,2
+2015-09-14,1515,SWE,Gefle,Djurgarden,2,1
+2015-09-14,1515,SWE,Hacken,Halmstad,4,1
+2015-09-14,1515,SWE,Sundsvall,Atvidabergs,0,1
+2015-09-18,1515,SWE,Halmstad,Falkenbergs,0,1
+2015-09-19,1515,SWE,AIK,Hacken,2,1
+2015-09-20,1515,SWE,Atvidabergs,Kalmar,1,1
+2015-09-20,1515,SWE,Djurgarden,Malmo FF,0,2
+2015-09-20,1515,SWE,Gefle,Helsingborg,2,1
+2015-09-20,1515,SWE,Goteborg,Hammarby,1,0
+2015-09-20,1515,SWE,Norrkoping,Sundsvall,5,1
+2015-09-21,1515,SWE,Orebro,Elfsborg,4,2
+2015-09-23,1515,SWE,Hammarby,Gefle,3,0
+2015-09-23,1515,SWE,Kalmar,Halmstad,1,0
+2015-09-23,1515,SWE,Malmo FF,Falkenbergs,4,3
+2015-09-23,1515,SWE,Norrkoping,Djurgarden,4,2
+2015-09-23,1515,SWE,Sundsvall,AIK,0,2
+2015-09-24,1515,SWE,Elfsborg,Goteborg,1,1
+2015-09-24,1515,SWE,Hacken,Atvidabergs,3,0
+2015-09-24,1515,SWE,Helsingborg,Orebro,0,2
+2015-09-26,1515,SWE,Halmstad,Malmo FF,0,0
+2015-09-27,1515,SWE,Falkenbergs,Hacken,1,2
+2015-09-27,1515,SWE,Gefle,Norrkoping,1,2
+2015-09-27,1515,SWE,Hammarby,AIK,1,0
+2015-09-28,1515,SWE,Djurgarden,Helsingborg,2,2
+2015-09-28,1515,SWE,Elfsborg,Atvidabergs,3,1
+2015-09-28,1515,SWE,Goteborg,Sundsvall,3,2
+2015-09-28,1515,SWE,Orebro,Kalmar,2,1
+2015-10-02,1515,SWE,Atvidabergs,Hammarby,0,3
+2015-10-03,1515,SWE,Orebro,Falkenbergs,2,1
+2015-10-03,1515,SWE,Sundsvall,Gefle,2,1
+2015-10-04,1515,SWE,AIK,Malmo FF,2,1
+2015-10-04,1515,SWE,Goteborg,Halmstad,1,1
+2015-10-04,1515,SWE,Helsingborg,Elfsborg,2,1
+2015-10-04,1515,SWE,Kalmar,Djurgarden,0,3
+2015-10-04,1515,SWE,Norrkoping,Hacken,3,1
+2015-10-17,1515,SWE,Malmo FF,Kalmar,3,0
+2015-10-18,1515,SWE,Falkenbergs,Atvidabergs,6,0
+2015-10-18,1515,SWE,Halmstad,AIK,0,1
+2015-10-18,1515,SWE,Hammarby,Helsingborg,1,4
+2015-10-19,1515,SWE,Djurgarden,Goteborg,2,2
+2015-10-19,1515,SWE,Elfsborg,Norrkoping,3,2
+2015-10-19,1515,SWE,Gefle,Orebro,2,2
+2015-10-19,1515,SWE,Hacken,Sundsvall,3,1
+2015-10-24,1515,SWE,Falkenbergs,Djurgarden,0,2
+2015-10-25,1515,SWE,Hacken,Elfsborg,5,2
+2015-10-25,1515,SWE,Hammarby,Malmo FF,0,1
+2015-10-25,1515,SWE,Norrkoping,Halmstad,3,1
+2015-10-25,1515,SWE,Sundsvall,Helsingborg,2,1
+2015-10-26,1515,SWE,AIK,Goteborg,1,2
+2015-10-26,1515,SWE,Atvidabergs,Orebro,2,3
+2015-10-26,1515,SWE,Kalmar,Gefle,3,1
+2015-10-31,1515,SWE,Djurgarden,Sundsvall,4,2
+2015-10-31,1515,SWE,Elfsborg,Falkenbergs,4,2
+2015-10-31,1515,SWE,Gefle,Atvidabergs,2,1
+2015-10-31,1515,SWE,Goteborg,Kalmar,2,2
+2015-10-31,1515,SWE,Halmstad,Hammarby,2,1
+2015-10-31,1515,SWE,Helsingborg,Hacken,1,2
+2015-10-31,1515,SWE,Malmo FF,Norrkoping,0,2
+2015-10-31,1515,SWE,Orebro,AIK,1,1
+2015-11-05,1515,SWE,Sirius,Falkenbergs,2,2
+2015-11-08,1515,SWE,Falkenbergs,Sirius,1,1
+2016-04-02,1616,SWE,Kalmar,Jonkopings,0,1
+2016-04-02,1616,SWE,Malmo FF,Norrkoping,3,1
+2016-04-03,1616,SWE,AIK,Sundsvall,1,1
+2016-04-03,1616,SWE,Falkenbergs,Goteborg,0,2
+2016-04-03,1616,SWE,Gefle,Helsingborg,1,1
+2016-04-03,1616,SWE,Hacken,Elfsborg,2,1
+2016-04-03,1616,SWE,Orebro,Djurgarden,0,2
+2016-04-04,1616,SWE,Hammarby,Ostersunds,1,1
+2016-04-06,1616,SWE,Goteborg,Hacken,1,0
+2016-04-06,1616,SWE,Jonkopings,Malmo FF,3,2
+2016-04-06,1616,SWE,Norrkoping,Kalmar,4,1
+2016-04-07,1616,SWE,Djurgarden,Falkenbergs,5,0
+2016-04-07,1616,SWE,Elfsborg,Hammarby,4,1
+2016-04-07,1616,SWE,Helsingborg,Orebro,1,3
+2016-04-07,1616,SWE,Ostersunds,AIK,0,2
+2016-04-07,1616,SWE,Sundsvall,Gefle,1,2
+2016-04-09,1616,SWE,Hacken,Norrkoping,1,2
+2016-04-10,1616,SWE,Falkenbergs,Ostersunds,1,2
+2016-04-10,1616,SWE,Gefle,Djurgarden,1,2
+2016-04-10,1616,SWE,Hammarby,Helsingborg,5,1
+2016-04-10,1616,SWE,Kalmar,Elfsborg,3,2
+2016-04-11,1616,SWE,AIK,Goteborg,3,3
+2016-04-11,1616,SWE,Malmo FF,Sundsvall,1,2
+2016-04-11,1616,SWE,Orebro,Jonkopings,2,1
+2016-04-15,1616,SWE,Ostersunds,Hacken,2,1
+2016-04-16,1616,SWE,Helsingborg,Falkenbergs,3,1
+2016-04-17,1616,SWE,Goteborg,Kalmar,1,1
+2016-04-17,1616,SWE,Jonkopings,Gefle,1,0
+2016-04-17,1616,SWE,Norrkoping,AIK,4,1
+2016-04-18,1616,SWE,Elfsborg,Malmo FF,0,1
+2016-04-18,1616,SWE,Sundsvall,Orebro,3,1
+2016-04-19,1616,SWE,Djurgarden,Hammarby,1,3
+2016-04-22,1616,SWE,Falkenbergs,Norrkoping,2,1
+2016-04-23,1616,SWE,Gefle,Ostersunds,0,0
+2016-04-23,1616,SWE,Hammarby,Jonkopings,1,1
+2016-04-24,1616,SWE,Hacken,Sundsvall,0,1
+2016-04-24,1616,SWE,Malmo FF,Djurgarden,1,0
+2016-04-24,1616,SWE,Orebro,Goteborg,3,2
+2016-04-25,1616,SWE,AIK,Elfsborg,2,1
+2016-04-25,1616,SWE,Kalmar,Helsingborg,2,3
+2016-04-26,1616,SWE,Norrkoping,Hammarby,3,1
+2016-04-27,1616,SWE,Goteborg,Malmo FF,0,3
+2016-04-27,1616,SWE,Jonkopings,Falkenbergs,1,1
+2016-04-27,1616,SWE,Ostersunds,Orebro,2,4
+2016-04-28,1616,SWE,Elfsborg,Djurgarden,3,0
+2016-04-28,1616,SWE,Hacken,Gefle,6,1
+2016-04-28,1616,SWE,Helsingborg,AIK,2,1
+2016-04-28,1616,SWE,Sundsvall,Kalmar,1,1
+2016-05-01,1616,SWE,Falkenbergs,Elfsborg,1,2
+2016-05-01,1616,SWE,Hammarby,Sundsvall,1,1
+2016-05-01,1616,SWE,Malmo FF,Hacken,3,0
+2016-05-02,1616,SWE,AIK,Jonkopings,0,0
+2016-05-02,1616,SWE,Djurgarden,Ostersunds,3,0
+2016-05-02,1616,SWE,Gefle,Goteborg,2,6
+2016-05-02,1616,SWE,Kalmar,Orebro,3,2
+2016-05-02,1616,SWE,Norrkoping,Helsingborg,3,0
+2016-05-07,1616,SWE,Elfsborg,Gefle,2,0
+2016-05-07,1616,SWE,Ostersunds,Kalmar,1,0
+2016-05-08,1616,SWE,Hacken,AIK,2,3
+2016-05-08,1616,SWE,Helsingborg,Malmo FF,2,1
+2016-05-08,1616,SWE,Jonkopings,Norrkoping,0,2
+2016-05-09,1616,SWE,Goteborg,Djurgarden,2,1
+2016-05-09,1616,SWE,Orebro,Hammarby,3,2
+2016-05-09,1616,SWE,Sundsvall,Falkenbergs,2,1
+2016-05-13,1616,SWE,Jonkopings,Helsingborg,1,1
+2016-05-14,1616,SWE,Kalmar,Hammarby,1,1
+2016-05-14,1616,SWE,Malmo FF,Gefle,3,0
+2016-05-15,1616,SWE,Falkenbergs,Hacken,1,4
+2016-05-15,1616,SWE,Norrkoping,Sundsvall,3,1
+2016-05-15,1616,SWE,Orebro,Elfsborg,1,0
+2016-05-15,1616,SWE,Ostersunds,Goteborg,2,0
+2016-05-16,1616,SWE,AIK,Djurgarden,2,0
+2016-05-18,1616,SWE,Hacken,Jonkopings,3,1
+2016-05-18,1616,SWE,Hammarby,Malmo FF,2,3
+2016-05-18,1616,SWE,Helsingborg,Ostersunds,1,1
+2016-05-18,1616,SWE,Sundsvall,Elfsborg,1,3
+2016-05-19,1616,SWE,Djurgarden,Kalmar,0,3
+2016-05-19,1616,SWE,Gefle,Orebro,0,4
+2016-05-19,1616,SWE,Goteborg,Norrkoping,1,1
+2016-05-20,1616,SWE,Falkenbergs,AIK,2,3
+2016-05-21,1616,SWE,Sundsvall,Ostersunds,5,0
+2016-05-22,1616,SWE,Djurgarden,Helsingborg,3,0
+2016-05-22,1616,SWE,Elfsborg,Jonkopings,3,3
+2016-05-22,1616,SWE,Kalmar,Hacken,1,1
+2016-05-22,1616,SWE,Orebro,Norrkoping,2,2
+2016-05-23,1616,SWE,Gefle,AIK,0,1
+2016-05-23,1616,SWE,Goteborg,Hammarby,2,1
+2016-05-23,1616,SWE,Malmo FF,Falkenbergs,2,0
+2016-05-28,1616,SWE,AIK,Orebro,0,0
+2016-05-28,1616,SWE,Jonkopings,Sundsvall,1,1
+2016-05-28,1616,SWE,Ostersunds,Malmo FF,1,4
+2016-05-29,1616,SWE,Falkenbergs,Kalmar,1,2
+2016-05-29,1616,SWE,Hacken,Djurgarden,3,1
+2016-05-29,1616,SWE,Hammarby,Gefle,2,1
+2016-05-29,1616,SWE,Helsingborg,Goteborg,1,3
+2016-05-29,1616,SWE,Norrkoping,Elfsborg,0,0
+2016-07-09,1616,SWE,Djurgarden,Norrkoping,0,1
+2016-07-09,1616,SWE,Gefle,Falkenbergs,1,2
+2016-07-09,1616,SWE,Hacken,Hammarby,4,2
+2016-07-10,1616,SWE,Goteborg,Sundsvall,4,1
+2016-07-10,1616,SWE,Helsingborg,Elfsborg,2,4
+2016-07-10,1616,SWE,Kalmar,AIK,1,1
+2016-07-10,1616,SWE,Ostersunds,Jonkopings,1,0
+2016-07-11,1616,SWE,Malmo FF,Orebro,1,0
+2016-07-16,1616,SWE,Norrkoping,Ostersunds,3,3
+2016-07-16,1616,SWE,Sundsvall,Helsingborg,0,2
+2016-07-17,1616,SWE,AIK,Malmo FF,1,1
+2016-07-17,1616,SWE,Elfsborg,Goteborg,1,1
+2016-07-17,1616,SWE,Hammarby,Falkenbergs,3,3
+2016-07-17,1616,SWE,Orebro,Hacken,0,0
+2016-07-18,1616,SWE,Gefle,Kalmar,4,2
+2016-07-18,1616,SWE,Jonkopings,Djurgarden,1,0
+2016-07-23,1616,SWE,Falkenbergs,Orebro,1,3
+2016-07-23,1616,SWE,Malmo FF,Kalmar,1,1
+2016-07-23,1616,SWE,Norrkoping,Gefle,2,0
+2016-07-24,1616,SWE,Goteborg,Jonkopings,2,1
+2016-07-24,1616,SWE,Hammarby,AIK,0,3
+2016-07-24,1616,SWE,Helsingborg,Hacken,0,2
+2016-07-25,1616,SWE,Djurgarden,Sundsvall,1,3
+2016-07-25,1616,SWE,Elfsborg,Ostersunds,3,1
+2016-07-30,1616,SWE,Gefle,Hammarby,0,2
+2016-07-30,1616,SWE,Ostersunds,Elfsborg,0,0
+2016-07-30,1616,SWE,Sundsvall,Norrkoping,1,2
+2016-07-31,1616,SWE,AIK,Falkenbergs,2,0
+2016-07-31,1616,SWE,Hacken,Helsingborg,1,1
+2016-07-31,1616,SWE,Jonkopings,Goteborg,1,1
+2016-08-01,1616,SWE,Kalmar,Djurgarden,2,1
+2016-08-01,1616,SWE,Orebro,Malmo FF,0,3
+2016-08-05,1616,SWE,Helsingborg,Gefle,2,3
+2016-08-06,1616,SWE,Falkenbergs,Jonkopings,0,5
+2016-08-06,1616,SWE,Ostersunds,Sundsvall,4,0
+2016-08-07,1616,SWE,Elfsborg,Hacken,2,4
+2016-08-07,1616,SWE,Hammarby,Kalmar,2,1
+2016-08-07,1616,SWE,Malmo FF,AIK,2,0
+2016-08-07,1616,SWE,Norrkoping,Orebro,3,1
+2016-08-08,1616,SWE,Djurgarden,Goteborg,3,1
+2016-08-10,1616,SWE,Norrkoping,Hacken,3,1
+2016-08-12,1616,SWE,Goteborg,Falkenbergs,2,0
+2016-08-13,1616,SWE,AIK,Helsingborg,2,1
+2016-08-13,1616,SWE,Gefle,Norrkoping,0,0
+2016-08-14,1616,SWE,Djurgarden,Elfsborg,2,2
+2016-08-14,1616,SWE,Hacken,Orebro,0,1
+2016-08-14,1616,SWE,Kalmar,Malmo FF,1,1
+2016-08-15,1616,SWE,Jonkopings,Ostersunds,1,1
+2016-08-15,1616,SWE,Sundsvall,Hammarby,0,0
+2016-08-20,1616,SWE,Helsingborg,Kalmar,0,1
+2016-08-20,1616,SWE,Ostersunds,Djurgarden,1,0
+2016-08-21,1616,SWE,Falkenbergs,Gefle,1,1
+2016-08-21,1616,SWE,Hammarby,Goteborg,2,0
+2016-08-21,1616,SWE,Orebro,AIK,0,2
+2016-08-22,1616,SWE,Elfsborg,Sundsvall,4,0
+2016-08-22,1616,SWE,Malmo FF,Jonkopings,4,1
+2016-08-27,1616,SWE,Djurgarden,Gefle,2,1
+2016-08-27,1616,SWE,Kalmar,Norrkoping,0,1
+2016-08-28,1616,SWE,AIK,Hammarby,0,0
+2016-08-28,1616,SWE,Goteborg,Helsingborg,2,0
+2016-08-28,1616,SWE,Hacken,Ostersunds,3,1
+2016-08-28,1616,SWE,Jonkopings,Elfsborg,1,0
+2016-08-28,1616,SWE,Orebro,Falkenbergs,3,2
+2016-08-28,1616,SWE,Sundsvall,Malmo FF,0,1
+2016-09-10,1616,SWE,Elfsborg,Kalmar,1,1
+2016-09-11,1616,SWE,Falkenbergs,Djurgarden,1,2
+2016-09-11,1616,SWE,Norrkoping,Jonkopings,5,1
+2016-09-11,1616,SWE,Ostersunds,Helsingborg,2,0
+2016-09-11,1616,SWE,Sundsvall,AIK,1,3
+2016-09-12,1616,SWE,Gefle,Hacken,2,2
+2016-09-12,1616,SWE,Hammarby,Orebro,1,1
+2016-09-12,1616,SWE,Malmo FF,Goteborg,3,1
+2016-09-16,1616,SWE,Jonkopings,Hammarby,0,1
+2016-09-16,1616,SWE,Orebro,Sundsvall,3,3
+2016-09-17,1616,SWE,Kalmar,Ostersunds,2,0
+2016-09-18,1616,SWE,AIK,Gefle,1,0
+2016-09-18,1616,SWE,Djurgarden,Malmo FF,3,1
+2016-09-18,1616,SWE,Elfsborg,Falkenbergs,5,0
+2016-09-18,1616,SWE,Helsingborg,Norrkoping,1,2
+2016-09-19,1616,SWE,Hacken,Goteborg,2,2
+2016-09-21,1616,SWE,Djurgarden,AIK,0,3
+2016-09-21,1616,SWE,Gefle,Jonkopings,0,1
+2016-09-21,1616,SWE,Helsingborg,Sundsvall,2,1
+2016-09-21,1616,SWE,Kalmar,Falkenbergs,3,0
+2016-09-21,1616,SWE,Ostersunds,Norrkoping,0,2
+2016-09-22,1616,SWE,Goteborg,Orebro,3,2
+2016-09-22,1616,SWE,Hammarby,Hacken,2,3
+2016-09-22,1616,SWE,Malmo FF,Elfsborg,1,0
+2016-09-24,1616,SWE,Jonkopings,Kalmar,0,1
+2016-09-25,1616,SWE,Elfsborg,AIK,2,2
+2016-09-25,1616,SWE,Malmo FF,Helsingborg,2,0
+2016-09-26,1616,SWE,Falkenbergs,Hammarby,0,2
+2016-09-26,1616,SWE,Goteborg,Ostersunds,2,0
+2016-09-26,1616,SWE,Norrkoping,Djurgarden,1,3
+2016-09-26,1616,SWE,Orebro,Gefle,2,2
+2016-09-26,1616,SWE,Sundsvall,Hacken,0,0
+2016-09-30,1616,SWE,Helsingborg,Hammarby,0,1
+2016-10-01,1616,SWE,Hacken,Malmo FF,2,4
+2016-10-01,1616,SWE,Ostersunds,Falkenbergs,6,1
+2016-10-01,1616,SWE,Sundsvall,Jonkopings,3,1
+2016-10-02,1616,SWE,AIK,Norrkoping,6,0
+2016-10-02,1616,SWE,Djurgarden,Orebro,3,2
+2016-10-02,1616,SWE,Gefle,Elfsborg,2,2
+2016-10-02,1616,SWE,Kalmar,Goteborg,4,2
+2016-10-15,1616,SWE,Falkenbergs,Sundsvall,1,1
+2016-10-16,1616,SWE,AIK,Ostersunds,2,0
+2016-10-16,1616,SWE,Elfsborg,Helsingborg,1,0
+2016-10-16,1616,SWE,Jonkopings,Hacken,1,1
+2016-10-16,1616,SWE,Norrkoping,Malmo FF,1,2
+2016-10-16,1616,SWE,Orebro,Kalmar,2,1
+2016-10-17,1616,SWE,Goteborg,Gefle,3,3
+2016-10-17,1616,SWE,Hammarby,Djurgarden,4,2
+2016-10-21,1616,SWE,Gefle,Sundsvall,1,1
+2016-10-22,1616,SWE,Malmo FF,Ostersunds,0,3
+2016-10-23,1616,SWE,Hacken,Kalmar,2,3
+2016-10-23,1616,SWE,Hammarby,Elfsborg,2,4
+2016-10-23,1616,SWE,Norrkoping,Falkenbergs,2,1
+2016-10-23,1616,SWE,Orebro,Helsingborg,0,0
+2016-10-24,1616,SWE,Djurgarden,Jonkopings,0,2
+2016-10-24,1616,SWE,Goteborg,AIK,1,0
+2016-10-26,1616,SWE,Elfsborg,Norrkoping,2,1
+2016-10-26,1616,SWE,Falkenbergs,Malmo FF,0,3
+2016-10-26,1616,SWE,Kalmar,Gefle,0,1
+2016-10-26,1616,SWE,Ostersunds,Hammarby,2,0
+2016-10-27,1616,SWE,AIK,Hacken,2,1
+2016-10-27,1616,SWE,Helsingborg,Djurgarden,1,2
+2016-10-27,1616,SWE,Jonkopings,Orebro,1,1
+2016-10-27,1616,SWE,Sundsvall,Goteborg,1,3
+2016-10-30,1616,SWE,Falkenbergs,Helsingborg,1,4
+2016-10-30,1616,SWE,Gefle,Malmo FF,1,0
+2016-10-30,1616,SWE,Hammarby,Norrkoping,1,1
+2016-10-30,1616,SWE,Kalmar,Sundsvall,2,0
+2016-10-31,1616,SWE,Djurgarden,Hacken,1,0
+2016-10-31,1616,SWE,Goteborg,Elfsborg,2,2
+2016-10-31,1616,SWE,Jonkopings,AIK,0,0
+2016-10-31,1616,SWE,Orebro,Ostersunds,1,5
+2016-11-06,1616,SWE,AIK,Kalmar,3,1
+2016-11-06,1616,SWE,Elfsborg,Orebro,2,1
+2016-11-06,1616,SWE,Hacken,Falkenbergs,7,0
+2016-11-06,1616,SWE,Helsingborg,Jonkopings,2,0
+2016-11-06,1616,SWE,Malmo FF,Hammarby,3,0
+2016-11-06,1616,SWE,Norrkoping,Goteborg,3,1
+2016-11-06,1616,SWE,Ostersunds,Gefle,2,4
+2016-11-06,1616,SWE,Sundsvall,Djurgarden,2,5
+2016-11-17,1616,SWE,Halmstad,Helsingborg,1,1
+2016-11-20,1616,SWE,Helsingborg,Halmstad,1,2
+2017-04-01,1717,SWE,Goteborg,Malmo FF,1,1
+2017-04-01,1717,SWE,Halmstad,Ostersunds,1,0
+2017-04-02,1717,SWE,AIK,Hacken,0,0
+2017-04-02,1717,SWE,Norrkoping,Hammarby,2,1
+2017-04-02,1717,SWE,Sundsvall,AFC Eskilstuna,3,1
+2017-04-03,1717,SWE,Djurgarden,Sirius,0,2
+2017-04-03,1717,SWE,Kalmar,Elfsborg,1,5
+2017-04-03,1717,SWE,Orebro,Jonkopings,2,1
+2017-04-08,1717,SWE,AFC Eskilstuna,Orebro,2,2
+2017-04-09,1717,SWE,Hacken,Djurgarden,0,0
+2017-04-09,1717,SWE,Hammarby,Kalmar,1,1
+2017-04-09,1717,SWE,Jonkopings,Halmstad,2,2
+2017-04-09,1717,SWE,Ostersunds,Norrkoping,1,0
+2017-04-09,1717,SWE,Sirius,Goteborg,0,2
+2017-04-10,1717,SWE,Elfsborg,AIK,1,2
+2017-04-11,1717,SWE,Malmo FF,Sundsvall,2,0
+2017-04-16,1717,SWE,Djurgarden,Elfsborg,3,0
+2017-04-16,1717,SWE,Halmstad,Malmo FF,0,3
+2017-04-16,1717,SWE,Orebro,Ostersunds,2,1
+2017-04-16,1717,SWE,Sundsvall,Hacken,1,2
+2017-04-17,1717,SWE,AIK,Hammarby,1,2
+2017-04-17,1717,SWE,Goteborg,AFC Eskilstuna,1,1
+2017-04-17,1717,SWE,Kalmar,Jonkopings,1,3
+2017-04-17,1717,SWE,Norrkoping,Sirius,0,2
+2017-04-20,1717,SWE,Elfsborg,Orebro,3,0
+2017-04-22,1717,SWE,Jonkopings,AIK,2,1
+2017-04-23,1717,SWE,AFC Eskilstuna,Halmstad,0,0
+2017-04-23,1717,SWE,Hacken,Norrkoping,1,2
+2017-04-23,1717,SWE,Hammarby,Sundsvall,0,0
+2017-04-23,1717,SWE,Ostersunds,Goteborg,1,1
+2017-04-24,1717,SWE,Malmo FF,Djurgarden,3,2
+2017-04-24,1717,SWE,Sirius,Kalmar,3,0
+2017-04-26,1717,SWE,AFC Eskilstuna,Ostersunds,1,3
+2017-04-26,1717,SWE,Goteborg,Hammarby,1,1
+2017-04-26,1717,SWE,Orebro,Hacken,0,0
+2017-04-26,1717,SWE,Sundsvall,Elfsborg,1,1
+2017-04-27,1717,SWE,AIK,Sirius,1,0
+2017-04-27,1717,SWE,Halmstad,Djurgarden,0,1
+2017-04-27,1717,SWE,Kalmar,Malmo FF,0,0
+2017-04-27,1717,SWE,Norrkoping,Jonkopings,3,0
+2017-04-29,1717,SWE,Hammarby,AFC Eskilstuna,4,0
+2017-04-30,1717,SWE,AIK,Sundsvall,0,0
+2017-05-01,1717,SWE,Djurgarden,Norrkoping,3,3
+2017-05-01,1717,SWE,Kalmar,Halmstad,2,0
+2017-05-01,1717,SWE,Malmo FF,Orebro,2,1
+2017-05-01,1717,SWE,Sirius,Jonkopings,1,1
+2017-05-02,1717,SWE,Elfsborg,Ostersunds,4,4
+2017-05-02,1717,SWE,Hacken,Goteborg,4,0
+2017-05-05,1717,SWE,Hacken,Sirius,2,2
+2017-05-06,1717,SWE,Halmstad,AIK,0,1
+2017-05-07,1717,SWE,Goteborg,Kalmar,3,0
+2017-05-07,1717,SWE,Jonkopings,AFC Eskilstuna,1,0
+2017-05-07,1717,SWE,Orebro,Djurgarden,0,4
+2017-05-07,1717,SWE,Ostersunds,Hammarby,2,1
+2017-05-08,1717,SWE,Elfsborg,Malmo FF,1,2
+2017-05-08,1717,SWE,Norrkoping,Sundsvall,0,0
+2017-05-12,1717,SWE,AFC Eskilstuna,Norrkoping,1,2
+2017-05-13,1717,SWE,AIK,Orebro,1,0
+2017-05-13,1717,SWE,Kalmar,Hacken,0,1
+2017-05-14,1717,SWE,Halmstad,Hammarby,1,2
+2017-05-14,1717,SWE,Malmo FF,Ostersunds,2,1
+2017-05-14,1717,SWE,Sirius,Elfsborg,4,1
+2017-05-14,1717,SWE,Sundsvall,Jonkopings,0,0
+2017-05-15,1717,SWE,Djurgarden,Goteborg,1,0
+2017-05-16,1717,SWE,Norrkoping,Kalmar,2,0
+2017-05-17,1717,SWE,Hacken,Halmstad,2,1
+2017-05-17,1717,SWE,Hammarby,Malmo FF,1,1
+2017-05-17,1717,SWE,Orebro,Sundsvall,0,2
+2017-05-17,1717,SWE,Ostersunds,Sirius,0,0
+2017-05-18,1717,SWE,Elfsborg,AFC Eskilstuna,2,1
+2017-05-18,1717,SWE,Jonkopings,Djurgarden,1,1
+2017-05-20,1717,SWE,Halmstad,Orebro,0,0
+2017-05-20,1717,SWE,Ostersunds,Kalmar,2,1
+2017-05-21,1717,SWE,AFC Eskilstuna,Hacken,0,0
+2017-05-21,1717,SWE,Malmo FF,Norrkoping,1,2
+2017-05-21,1717,SWE,Sirius,Hammarby,1,1
+2017-05-22,1717,SWE,Djurgarden,AIK,0,1
+2017-05-22,1717,SWE,Elfsborg,Jonkopings,3,0
+2017-05-22,1717,SWE,Sundsvall,Goteborg,0,4
+2017-05-27,1717,SWE,Djurgarden,AFC Eskilstuna,4,1
+2017-05-27,1717,SWE,Kalmar,Sundsvall,3,0
+2017-05-27,1717,SWE,Norrkoping,Halmstad,3,2
+2017-05-28,1717,SWE,Goteborg,Elfsborg,1,1
+2017-05-28,1717,SWE,Hammarby,Jonkopings,2,2
+2017-05-29,1717,SWE,AIK,Malmo FF,0,1
+2017-05-29,1717,SWE,Hacken,Ostersunds,0,1
+2017-05-29,1717,SWE,Orebro,Sirius,2,1
+2017-06-01,1717,SWE,Norrkoping,AIK,0,0
+2017-06-02,1717,SWE,Elfsborg,Hacken,2,0
+2017-06-03,1717,SWE,Jonkopings,Malmo FF,1,2
+2017-06-03,1717,SWE,Kalmar,Orebro,0,1
+2017-06-03,1717,SWE,Ostersunds,Sundsvall,3,1
+2017-06-04,1717,SWE,AFC Eskilstuna,AIK,1,3
+2017-06-04,1717,SWE,Hammarby,Djurgarden,3,1
+2017-06-04,1717,SWE,Norrkoping,Goteborg,2,0
+2017-06-04,1717,SWE,Sirius,Halmstad,2,1
+2017-07-01,1717,SWE,Halmstad,Elfsborg,1,1
+2017-07-01,1717,SWE,Malmo FF,AFC Eskilstuna,3,2
+2017-07-01,1717,SWE,Sundsvall,Sirius,1,2
+2017-07-02,1717,SWE,AIK,Ostersunds,2,2
+2017-07-02,1717,SWE,Jonkopings,Goteborg,0,2
+2017-07-02,1717,SWE,Orebro,Norrkoping,4,2
+2017-07-03,1717,SWE,Djurgarden,Kalmar,4,1
+2017-07-03,1717,SWE,Hacken,Hammarby,2,0
+2017-07-08,1717,SWE,Hacken,Malmo FF,0,1
+2017-07-08,1717,SWE,Hammarby,Orebro,3,1
+2017-07-08,1717,SWE,Sirius,AFC Eskilstuna,1,0
+2017-07-09,1717,SWE,Kalmar,AIK,0,1
+2017-07-09,1717,SWE,Norrkoping,Elfsborg,1,3
+2017-07-09,1717,SWE,Ostersunds,Jonkopings,1,1
+2017-07-10,1717,SWE,Djurgarden,Sundsvall,2,1
+2017-07-10,1717,SWE,Goteborg,Halmstad,1,1
+2017-07-15,1717,SWE,AFC Eskilstuna,Kalmar,2,1
+2017-07-15,1717,SWE,Malmo FF,Sirius,3,3
+2017-07-15,1717,SWE,Sundsvall,Halmstad,1,0
+2017-07-16,1717,SWE,AIK,Norrkoping,1,0
+2017-07-16,1717,SWE,Orebro,Goteborg,4,2
+2017-07-16,1717,SWE,Ostersunds,Djurgarden,2,1
+2017-07-17,1717,SWE,Elfsborg,Hammarby,3,0
+2017-07-17,1717,SWE,Jonkopings,Hacken,0,1
+2017-07-22,1717,SWE,Halmstad,Sundsvall,2,2
+2017-07-22,1717,SWE,Malmo FF,Jonkopings,2,0
+2017-07-22,1717,SWE,Sirius,Hacken,2,2
+2017-07-23,1717,SWE,Djurgarden,Ostersunds,3,0
+2017-07-23,1717,SWE,Goteborg,Orebro,2,2
+2017-07-23,1717,SWE,Kalmar,AFC Eskilstuna,2,0
+2017-07-24,1717,SWE,Hammarby,Elfsborg,2,1
+2017-07-29,1717,SWE,Elfsborg,Sirius,0,2
+2017-07-29,1717,SWE,Jonkopings,Hammarby,1,0
+2017-07-29,1717,SWE,Sundsvall,Malmo FF,0,1
+2017-07-30,1717,SWE,AIK,Kalmar,0,1
+2017-07-30,1717,SWE,Goteborg,Norrkoping,4,1
+2017-07-30,1717,SWE,Ostersunds,Halmstad,0,0
+2017-07-31,1717,SWE,AFC Eskilstuna,Djurgarden,1,2
+2017-07-31,1717,SWE,Hacken,Orebro,1,1
+2017-08-05,1717,SWE,Halmstad,Jonkopings,6,1
+2017-08-05,1717,SWE,Orebro,Elfsborg,2,2
+2017-08-06,1717,SWE,Hammarby,Hacken,1,2
+2017-08-06,1717,SWE,Kalmar,Goteborg,1,0
+2017-08-06,1717,SWE,Sirius,AIK,1,4
+2017-08-06,1717,SWE,Sundsvall,Ostersunds,1,1
+2017-08-07,1717,SWE,Djurgarden,Malmo FF,0,1
+2017-08-07,1717,SWE,Norrkoping,AFC Eskilstuna,1,0
+2017-08-10,1717,SWE,Goteborg,AIK,2,1
+2017-08-11,1717,SWE,Malmo FF,Kalmar,6,0
+2017-08-12,1717,SWE,Halmstad,Sirius,0,3
+2017-08-13,1717,SWE,AIK,AFC Eskilstuna,1,1
+2017-08-13,1717,SWE,Hammarby,Ostersunds,2,2
+2017-08-13,1717,SWE,Jonkopings,Orebro,1,2
+2017-08-13,1717,SWE,Norrkoping,Djurgarden,0,1
+2017-08-14,1717,SWE,Elfsborg,Goteborg,1,2
+2017-08-14,1717,SWE,Hacken,Sundsvall,2,0
+2017-08-18,1717,SWE,Jonkopings,Elfsborg,2,2
+2017-08-19,1717,SWE,AFC Eskilstuna,Malmo FF,3,1
+2017-08-20,1717,SWE,Djurgarden,Halmstad,2,1
+2017-08-20,1717,SWE,Goteborg,Hacken,1,1
+2017-08-20,1717,SWE,Ostersunds,AIK,0,3
+2017-08-20,1717,SWE,Sirius,Norrkoping,0,1
+2017-08-21,1717,SWE,Orebro,Hammarby,0,3
+2017-08-21,1717,SWE,Sundsvall,Kalmar,1,3
+2017-08-26,1717,SWE,AFC Eskilstuna,Hammarby,0,0
+2017-08-27,1717,SWE,AIK,Djurgarden,1,1
+2017-08-27,1717,SWE,Elfsborg,Halmstad,1,0
+2017-08-27,1717,SWE,Hacken,Jonkopings,3,1
+2017-08-27,1717,SWE,Kalmar,Sirius,4,2
+2017-08-27,1717,SWE,Malmo FF,Goteborg,2,2
+2017-08-27,1717,SWE,Norrkoping,Ostersunds,0,2
+2017-08-27,1717,SWE,Sundsvall,Orebro,2,1
+2017-09-09,1717,SWE,Ostersunds,AFC Eskilstuna,3,0
+2017-09-10,1717,SWE,Elfsborg,Kalmar,2,2
+2017-09-10,1717,SWE,Halmstad,Hacken,0,3
+2017-09-10,1717,SWE,Hammarby,AIK,1,1
+2017-09-10,1717,SWE,Jonkopings,Norrkoping,1,2
+2017-09-10,1717,SWE,Orebro,Malmo FF,2,1
+2017-09-10,1717,SWE,Sirius,Sundsvall,0,1
+2017-09-11,1717,SWE,Goteborg,Djurgarden,1,3
+2017-09-15,1717,SWE,Kalmar,Norrkoping,1,1
+2017-09-16,1717,SWE,Djurgarden,Orebro,4,1
+2017-09-16,1717,SWE,Goteborg,Jonkopings,1,1
+2017-09-16,1717,SWE,Hacken,Elfsborg,3,0
+2017-09-17,1717,SWE,AIK,Halmstad,4,1
+2017-09-17,1717,SWE,Malmo FF,Hammarby,4,0
+2017-09-17,1717,SWE,Sirius,Ostersunds,0,5
+2017-09-18,1717,SWE,AFC Eskilstuna,Sundsvall,1,2
+2017-09-19,1717,SWE,Elfsborg,Djurgarden,2,2
+2017-09-19,1717,SWE,Norrkoping,Hacken,4,1
+2017-09-20,1717,SWE,Halmstad,Kalmar,1,1
+2017-09-20,1717,SWE,Hammarby,Goteborg,2,1
+2017-09-20,1717,SWE,Jonkopings,Sirius,3,1
+2017-09-20,1717,SWE,Ostersunds,Malmo FF,2,2
+2017-09-21,1717,SWE,Orebro,AFC Eskilstuna,2,3
+2017-09-21,1717,SWE,Sundsvall,AIK,0,0
+2017-09-23,1717,SWE,Halmstad,Norrkoping,2,1
+2017-09-24,1717,SWE,Djurgarden,Hammarby,1,1
+2017-09-24,1717,SWE,Hacken,AIK,1,6
+2017-09-24,1717,SWE,Jonkopings,Sundsvall,2,2
+2017-09-24,1717,SWE,Kalmar,Ostersunds,2,1
+2017-09-25,1717,SWE,AFC Eskilstuna,Goteborg,1,0
+2017-09-25,1717,SWE,Malmo FF,Elfsborg,6,0
+2017-09-25,1717,SWE,Sirius,Orebro,3,4
+2017-09-29,1717,SWE,Goteborg,Sirius,4,0
+2017-09-30,1717,SWE,AFC Eskilstuna,Jonkopings,1,1
+2017-10-01,1717,SWE,AIK,Elfsborg,5,2
+2017-10-01,1717,SWE,Hammarby,Norrkoping,0,2
+2017-10-01,1717,SWE,Malmo FF,Halmstad,2,0
+2017-10-01,1717,SWE,Orebro,Kalmar,1,0
+2017-10-01,1717,SWE,Ostersunds,Hacken,0,0
+2017-10-01,1717,SWE,Sundsvall,Djurgarden,0,5
+2017-10-14,1717,SWE,Hacken,AFC Eskilstuna,3,0
+2017-10-14,1717,SWE,Halmstad,Goteborg,1,2
+2017-10-14,1717,SWE,Ostersunds,Orebro,3,0
+2017-10-15,1717,SWE,AIK,Jonkopings,2,0
+2017-10-15,1717,SWE,Elfsborg,Sundsvall,2,1
+2017-10-15,1717,SWE,Sirius,Djurgarden,2,0
+2017-10-16,1717,SWE,Kalmar,Hammarby,2,0
+2017-10-16,1717,SWE,Norrkoping,Malmo FF,1,3
+2017-10-20,1717,SWE,Orebro,Halmstad,0,1
+2017-10-21,1717,SWE,AFC Eskilstuna,Elfsborg,2,3
+2017-10-22,1717,SWE,Djurgarden,Hacken,1,1
+2017-10-22,1717,SWE,Goteborg,Ostersunds,0,1
+2017-10-22,1717,SWE,Sundsvall,Norrkoping,2,2
+2017-10-23,1717,SWE,Hammarby,Sirius,3,3
+2017-10-23,1717,SWE,Jonkopings,Kalmar,2,0
+2017-10-23,1717,SWE,Malmo FF,AIK,0,0
+2017-10-28,1717,SWE,Halmstad,AFC Eskilstuna,1,1
+2017-10-28,1717,SWE,Ostersunds,Elfsborg,4,1
+2017-10-29,1717,SWE,Djurgarden,Jonkopings,0,0
+2017-10-29,1717,SWE,Hacken,Kalmar,2,0
+2017-10-29,1717,SWE,Sirius,Malmo FF,0,4
+2017-10-29,1717,SWE,Sundsvall,Hammarby,1,4
+2017-10-30,1717,SWE,AIK,Goteborg,2,1
+2017-10-30,1717,SWE,Norrkoping,Orebro,2,0
+2017-11-05,1717,SWE,AFC Eskilstuna,Sirius,1,3
+2017-11-05,1717,SWE,Elfsborg,Norrkoping,3,3
+2017-11-05,1717,SWE,Goteborg,Sundsvall,0,3
+2017-11-05,1717,SWE,Hammarby,Halmstad,1,3
+2017-11-05,1717,SWE,Jonkopings,Ostersunds,0,0
+2017-11-05,1717,SWE,Kalmar,Djurgarden,0,2
+2017-11-05,1717,SWE,Malmo FF,Hacken,1,2
+2017-11-05,1717,SWE,Orebro,AIK,1,2
+2017-11-15,1717,SWE,Trelleborgs,Jonkopings,2,0
+2017-11-19,1717,SWE,Jonkopings,Trelleborgs,1,1
+2018-04-01,1818,SWE,Hacken,Kalmar,1,0
+2018-04-01,1818,SWE,Hammarby,Sirius,3,1
+2018-04-01,1818,SWE,Ostersunds,Djurgarden,0,1
+2018-04-01,1818,SWE,Trelleborgs,Goteborg,1,3
+2018-04-02,1818,SWE,AIK,Dalkurd,2,0
+2018-04-02,1818,SWE,Elfsborg,Malmo FF,1,2
+2018-04-02,1818,SWE,Norrkoping,Brommapojkarna,2,1
+2018-04-02,1818,SWE,Sundsvall,Orebro,0,0
+2018-04-07,1818,SWE,Orebro,Norrkoping,1,1
+2018-04-08,1818,SWE,Dalkurd,Ostersunds,3,0
+2018-04-08,1818,SWE,Djurgarden,Trelleborgs,1,1
+2018-04-08,1818,SWE,Kalmar,Elfsborg,1,0
+2018-04-09,1818,SWE,Brommapojkarna,Hacken,2,0
+2018-04-09,1818,SWE,Malmo FF,AIK,1,1
+2018-04-10,1818,SWE,Goteborg,Hammarby,1,2
+2018-04-13,1818,SWE,Sundsvall,Malmo FF,2,2
+2018-04-13,1818,SWE,Trelleborgs,Orebro,1,2
+2018-04-14,1818,SWE,Elfsborg,Sirius,0,1
+2018-04-14,1818,SWE,Hacken,Dalkurd,3,0
+2018-04-15,1818,SWE,AIK,Djurgarden,2,0
+2018-04-15,1818,SWE,Norrkoping,Kalmar,3,1
+2018-04-15,1818,SWE,Ostersunds,Goteborg,2,1
+2018-04-16,1818,SWE,Hammarby,Brommapojkarna,4,0
+2018-04-17,1818,SWE,Sundsvall,Trelleborgs,1,0
+2018-04-18,1818,SWE,Djurgarden,Malmo FF,3,0
+2018-04-18,1818,SWE,Kalmar,Ostersunds,1,1
+2018-04-18,1818,SWE,Orebro,AIK,1,1
+2018-04-18,1818,SWE,Sirius,Hacken,0,0
+2018-04-19,1818,SWE,Brommapojkarna,Elfsborg,0,2
+2018-04-19,1818,SWE,Goteborg,Dalkurd,1,0
+2018-04-19,1818,SWE,Hammarby,Norrkoping,2,1
+2018-04-21,1818,SWE,Ostersunds,Orebro,0,2
+2018-04-22,1818,SWE,AIK,Goteborg,2,0
+2018-04-22,1818,SWE,Dalkurd,Sundsvall,2,2
+2018-04-22,1818,SWE,Hacken,Hammarby,2,2
+2018-04-22,1818,SWE,Trelleborgs,Kalmar,0,1
+2018-04-23,1818,SWE,Elfsborg,Djurgarden,2,2
+2018-04-23,1818,SWE,Malmo FF,Brommapojkarna,3,1
+2018-04-23,1818,SWE,Norrkoping,Sirius,1,0
+2018-04-27,1818,SWE,AIK,Sirius,2,0
+2018-04-28,1818,SWE,Goteborg,Hacken,2,1
+2018-04-29,1818,SWE,Djurgarden,Hammarby,1,2
+2018-04-29,1818,SWE,Kalmar,Malmo FF,3,0
+2018-04-29,1818,SWE,Norrkoping,Trelleborgs,1,2
+2018-04-29,1818,SWE,Sundsvall,Elfsborg,2,1
+2018-04-30,1818,SWE,Brommapojkarna,Ostersunds,0,4
+2018-04-30,1818,SWE,Orebro,Dalkurd,3,2
+2018-05-02,1818,SWE,Sirius,AIK,2,3
+2018-05-03,1818,SWE,Malmo FF,Djurgarden,1,0
+2018-05-05,1818,SWE,Hammarby,Sundsvall,4,3
+2018-05-05,1818,SWE,Ostersunds,Norrkoping,0,2
+2018-05-06,1818,SWE,Brommapojkarna,Djurgarden,1,0
+2018-05-06,1818,SWE,Dalkurd,Kalmar,1,2
+2018-05-06,1818,SWE,Elfsborg,AIK,0,0
+2018-05-06,1818,SWE,Trelleborgs,Hacken,0,3
+2018-05-07,1818,SWE,Malmo FF,Goteborg,1,2
+2018-05-07,1818,SWE,Sirius,Orebro,2,4
+2018-05-12,1818,SWE,Sundsvall,Brommapojkarna,3,0
+2018-05-13,1818,SWE,Djurgarden,Dalkurd,1,0
+2018-05-13,1818,SWE,Goteborg,Norrkoping,0,2
+2018-05-13,1818,SWE,Orebro,Hammarby,1,2
+2018-05-13,1818,SWE,Trelleborgs,Malmo FF,1,0
+2018-05-14,1818,SWE,AIK,Ostersunds,1,1
+2018-05-14,1818,SWE,Hacken,Elfsborg,5,0
+2018-05-14,1818,SWE,Kalmar,Sirius,1,0
+2018-05-16,1818,SWE,Hammarby,Malmo FF,3,2
+2018-05-17,1818,SWE,Djurgarden,Orebro,2,0
+2018-05-18,1818,SWE,Brommapojkarna,Kalmar,2,1
+2018-05-19,1818,SWE,Norrkoping,Dalkurd,4,2
+2018-05-19,1818,SWE,Sirius,Trelleborgs,1,1
+2018-05-19,1818,SWE,Sundsvall,Ostersunds,2,3
+2018-05-20,1818,SWE,Hammarby,AIK,0,1
+2018-05-20,1818,SWE,Malmo FF,Hacken,2,0
+2018-05-21,1818,SWE,Elfsborg,Goteborg,1,1
+2018-05-22,1818,SWE,Orebro,Kalmar,2,1
+2018-05-23,1818,SWE,Hacken,AIK,1,1
+2018-05-23,1818,SWE,Norrkoping,Sundsvall,1,0
+2018-05-23,1818,SWE,Ostersunds,Sirius,5,2
+2018-05-24,1818,SWE,Dalkurd,Elfsborg,1,4
+2018-05-24,1818,SWE,Goteborg,Djurgarden,1,3
+2018-05-24,1818,SWE,Trelleborgs,Brommapojkarna,2,1
+2018-05-26,1818,SWE,AIK,Norrkoping,3,3
+2018-05-26,1818,SWE,Ostersunds,Hacken,2,0
+2018-05-27,1818,SWE,Brommapojkarna,Orebro,0,0
+2018-05-27,1818,SWE,Elfsborg,Trelleborgs,2,1
+2018-05-27,1818,SWE,Kalmar,Hammarby,1,1
+2018-05-27,1818,SWE,Malmo FF,Dalkurd,1,1
+2018-05-27,1818,SWE,Sirius,Djurgarden,1,5
+2018-05-27,1818,SWE,Sundsvall,Goteborg,2,0
+2018-07-03,1818,SWE,Sirius,Sundsvall,1,3
+2018-07-07,1818,SWE,Dalkurd,Brommapojkarna,3,0
+2018-07-07,1818,SWE,Hacken,Sundsvall,3,0
+2018-07-07,1818,SWE,Sirius,Malmo FF,0,4
+2018-07-07,1818,SWE,Trelleborgs,AIK,1,4
+2018-07-08,1818,SWE,Djurgarden,Norrkoping,1,1
+2018-07-08,1818,SWE,Goteborg,Kalmar,1,3
+2018-07-08,1818,SWE,Orebro,Elfsborg,1,2
+2018-07-09,1818,SWE,Hammarby,Ostersunds,1,2
+2018-07-14,1818,SWE,Brommapojkarna,Sirius,0,1
+2018-07-14,1818,SWE,Dalkurd,Trelleborgs,2,2
+2018-07-14,1818,SWE,Goteborg,Orebro,2,0
+2018-07-14,1818,SWE,Malmo FF,Ostersunds,1,1
+2018-07-15,1818,SWE,Kalmar,Djurgarden,0,1
+2018-07-15,1818,SWE,Norrkoping,Hacken,2,1
+2018-07-15,1818,SWE,Sundsvall,AIK,0,1
+2018-07-16,1818,SWE,Elfsborg,Hammarby,0,0
+2018-07-21,1818,SWE,Kalmar,Sundsvall,0,2
+2018-07-21,1818,SWE,Orebro,Malmo FF,1,2
+2018-07-21,1818,SWE,Ostersunds,Trelleborgs,4,1
+2018-07-22,1818,SWE,AIK,Brommapojkarna,5,1
+2018-07-22,1818,SWE,Djurgarden,Hacken,2,1
+2018-07-22,1818,SWE,Sirius,Goteborg,3,2
+2018-07-23,1818,SWE,Hammarby,Dalkurd,4,1
+2018-07-23,1818,SWE,Norrkoping,Elfsborg,1,0
+2018-07-28,1818,SWE,Dalkurd,Sirius,1,3
+2018-07-28,1818,SWE,Goteborg,Brommapojkarna,3,0
+2018-07-28,1818,SWE,Malmo FF,Norrkoping,2,1
+2018-07-28,1818,SWE,Ostersunds,Elfsborg,1,0
+2018-07-29,1818,SWE,AIK,Kalmar,1,0
+2018-07-29,1818,SWE,Djurgarden,Sundsvall,1,1
+2018-07-29,1818,SWE,Hacken,Orebro,1,1
+2018-07-30,1818,SWE,Trelleborgs,Hammarby,1,3
+2018-08-04,1818,SWE,Brommapojkarna,Dalkurd,2,1
+2018-08-04,1818,SWE,Kalmar,Goteborg,2,1
+2018-08-05,1818,SWE,Hammarby,Trelleborgs,1,0
+2018-08-05,1818,SWE,Orebro,Hacken,1,2
+2018-08-06,1818,SWE,Elfsborg,Ostersunds,0,2
+2018-08-06,1818,SWE,Sundsvall,Norrkoping,1,1
+2018-08-10,1818,SWE,Dalkurd,Malmo FF,0,1
+2018-08-10,1818,SWE,Goteborg,Sirius,2,3
+2018-08-11,1818,SWE,Orebro,Brommapojkarna,0,1
+2018-08-12,1818,SWE,AIK,Elfsborg,1,0
+2018-08-12,1818,SWE,Hacken,Djurgarden,5,0
+2018-08-12,1818,SWE,Ostersunds,Kalmar,2,0
+2018-08-13,1818,SWE,Norrkoping,Hammarby,0,0
+2018-08-13,1818,SWE,Trelleborgs,Sundsvall,1,6
+2018-08-17,1818,SWE,Sirius,Dalkurd,2,3
+2018-08-18,1818,SWE,Malmo FF,Trelleborgs,3,0
+2018-08-19,1818,SWE,Brommapojkarna,AIK,0,2
+2018-08-19,1818,SWE,Djurgarden,Kalmar,0,2
+2018-08-19,1818,SWE,Elfsborg,Norrkoping,0,1
+2018-08-19,1818,SWE,Sundsvall,Hacken,0,2
+2018-08-20,1818,SWE,Goteborg,Ostersunds,2,1
+2018-08-20,1818,SWE,Hammarby,Orebro,2,0
+2018-08-26,1818,SWE,AIK,Trelleborgs,2,0
+2018-08-26,1818,SWE,Djurgarden,Elfsborg,2,2
+2018-08-26,1818,SWE,Hacken,Brommapojkarna,6,0
+2018-08-26,1818,SWE,Malmo FF,Sirius,5,0
+2018-08-26,1818,SWE,Ostersunds,Sundsvall,1,2
+2018-08-27,1818,SWE,Dalkurd,Hammarby,2,3
+2018-08-27,1818,SWE,Kalmar,Orebro,0,1
+2018-08-27,1818,SWE,Norrkoping,Goteborg,2,1
+2018-08-31,1818,SWE,Trelleborgs,Norrkoping,1,1
+2018-09-01,1818,SWE,AIK,Hacken,3,0
+2018-09-01,1818,SWE,Orebro,Ostersunds,2,1
+2018-09-02,1818,SWE,Brommapojkarna,Malmo FF,0,3
+2018-09-02,1818,SWE,Dalkurd,Goteborg,1,1
+2018-09-02,1818,SWE,Elfsborg,Kalmar,1,1
+2018-09-02,1818,SWE,Hammarby,Djurgarden,1,3
+2018-09-02,1818,SWE,Sundsvall,Sirius,4,0
+2018-09-15,1818,SWE,Orebro,Sundsvall,2,1
+2018-09-15,1818,SWE,Ostersunds,Malmo FF,2,3
+2018-09-16,1818,SWE,Djurgarden,Brommapojkarna,0,1
+2018-09-16,1818,SWE,Goteborg,Elfsborg,2,2
+2018-09-16,1818,SWE,Norrkoping,AIK,2,0
+2018-09-17,1818,SWE,Hacken,Trelleborgs,2,1
+2018-09-17,1818,SWE,Kalmar,Dalkurd,0,0
+2018-09-17,1818,SWE,Sirius,Hammarby,1,1
+2018-09-21,1818,SWE,Brommapojkarna,Sundsvall,1,3
+2018-09-22,1818,SWE,Dalkurd,Norrkoping,0,2
+2018-09-22,1818,SWE,Elfsborg,Orebro,1,0
+2018-09-22,1818,SWE,Sirius,Ostersunds,0,1
+2018-09-22,1818,SWE,Trelleborgs,Djurgarden,0,3
+2018-09-23,1818,SWE,AIK,Hammarby,1,0
+2018-09-23,1818,SWE,Malmo FF,Kalmar,4,0
+2018-09-24,1818,SWE,Hacken,Goteborg,4,1
+2018-09-25,1818,SWE,Orebro,Sirius,0,0
+2018-09-26,1818,SWE,Hammarby,Elfsborg,0,1
+2018-09-26,1818,SWE,Norrkoping,Malmo FF,3,1
+2018-09-26,1818,SWE,Ostersunds,Brommapojkarna,3,1
+2018-09-26,1818,SWE,Sundsvall,Djurgarden,1,1
+2018-09-26,1818,SWE,Trelleborgs,Dalkurd,0,1
+2018-09-27,1818,SWE,Goteborg,AIK,0,2
+2018-09-27,1818,SWE,Kalmar,Hacken,1,2
+2018-09-29,1818,SWE,Sirius,Norrkoping,1,1
+2018-09-30,1818,SWE,Dalkurd,AIK,0,4
+2018-09-30,1818,SWE,Djurgarden,Ostersunds,0,2
+2018-09-30,1818,SWE,Kalmar,Brommapojkarna,1,1
+2018-09-30,1818,SWE,Malmo FF,Sundsvall,0,0
+2018-10-01,1818,SWE,Elfsborg,Hacken,0,3
+2018-10-01,1818,SWE,Hammarby,Goteborg,3,0
+2018-10-01,1818,SWE,Orebro,Trelleborgs,4,0
+2018-10-05,1818,SWE,Ostersunds,Dalkurd,3,0
+2018-10-06,1818,SWE,Goteborg,Trelleborgs,2,2
+2018-10-06,1818,SWE,Sirius,Elfsborg,4,2
+2018-10-07,1818,SWE,AIK,Orebro,1,1
+2018-10-07,1818,SWE,Brommapojkarna,Hammarby,2,4
+2018-10-07,1818,SWE,Hacken,Malmo FF,1,1
+2018-10-07,1818,SWE,Norrkoping,Djurgarden,1,1
+2018-10-08,1818,SWE,Sundsvall,Kalmar,2,0
+2018-10-20,1818,SWE,Dalkurd,Orebro,1,0
+2018-10-20,1818,SWE,Malmo FF,Hammarby,2,1
+2018-10-21,1818,SWE,Djurgarden,AIK,0,0
+2018-10-21,1818,SWE,Elfsborg,Sundsvall,2,0
+2018-10-21,1818,SWE,Hacken,Ostersunds,2,0
+2018-10-21,1818,SWE,Kalmar,Norrkoping,1,2
+2018-10-21,1818,SWE,Trelleborgs,Sirius,1,2
+2018-10-22,1818,SWE,Brommapojkarna,Goteborg,0,2
+2018-10-26,1818,SWE,Goteborg,Sundsvall,1,2
+2018-10-26,1818,SWE,Trelleborgs,Elfsborg,2,2
+2018-10-27,1818,SWE,Dalkurd,Hacken,0,5
+2018-10-28,1818,SWE,Hammarby,Kalmar,0,0
+2018-10-28,1818,SWE,Norrkoping,Ostersunds,4,2
+2018-10-28,1818,SWE,Orebro,Djurgarden,1,1
+2018-10-28,1818,SWE,Sirius,Brommapojkarna,4,2
+2018-10-29,1818,SWE,AIK,Malmo FF,1,1
+2018-10-30,1818,SWE,Elfsborg,Dalkurd,0,0
+2018-10-31,1818,SWE,Brommapojkarna,Norrkoping,0,1
+2018-10-31,1818,SWE,Djurgarden,Goteborg,2,0
+2018-10-31,1818,SWE,Hacken,Sirius,2,1
+2018-10-31,1818,SWE,Kalmar,Trelleborgs,2,1
+2018-10-31,1818,SWE,Sundsvall,Hammarby,2,3
+2018-11-01,1818,SWE,Malmo FF,Orebro,4,0
+2018-11-01,1818,SWE,Ostersunds,AIK,1,2
+2018-11-04,1818,SWE,AIK,Sundsvall,0,0
+2018-11-04,1818,SWE,Goteborg,Malmo FF,0,3
+2018-11-04,1818,SWE,Hammarby,Hacken,1,0
+2018-11-04,1818,SWE,Norrkoping,Orebro,3,2
+2018-11-05,1818,SWE,Dalkurd,Djurgarden,1,2
+2018-11-05,1818,SWE,Elfsborg,Brommapojkarna,1,2
+2018-11-05,1818,SWE,Sirius,Kalmar,1,1
+2018-11-05,1818,SWE,Trelleborgs,Ostersunds,0,1
+2018-11-11,1818,SWE,Brommapojkarna,Trelleborgs,3,0
+2018-11-11,1818,SWE,Djurgarden,Sirius,1,0
+2018-11-11,1818,SWE,Hacken,Norrkoping,0,1
+2018-11-11,1818,SWE,Kalmar,AIK,0,1
+2018-11-11,1818,SWE,Malmo FF,Elfsborg,2,0
+2018-11-11,1818,SWE,Orebro,Goteborg,1,3
+2018-11-11,1818,SWE,Ostersunds,Hammarby,3,3
+2018-11-11,1818,SWE,Sundsvall,Dalkurd,0,1
+2018-11-22,1818,SWE,AFC Eskilstuna,Brommapojkarna,0,1
+2018-11-25,1818,SWE,Brommapojkarna,AFC Eskilstuna,1,2
+2019-03-31,1919,SWE,AFC Eskilstuna,Goteborg,3,1
+2019-03-31,1919,SWE,AIK,Ostersunds,0,0
+2019-03-31,1919,SWE,Falkenbergs,Orebro,1,0
+2019-03-31,1919,SWE,Helsingborg,Norrkoping,3,1
+2019-03-31,1919,SWE,Kalmar,Sirius,0,2
+2019-04-01,1919,SWE,Djurgarden,Sundsvall,2,2
+2019-04-01,1919,SWE,Elfsborg,Hammarby,1,1
+2019-04-01,1919,SWE,Malmo FF,Hacken,1,1
+2019-04-06,1919,SWE,Hacken,Helsingborg,2,1
+2019-04-06,1919,SWE,Sundsvall,Malmo FF,3,1
+2019-04-07,1919,SWE,Goteborg,Elfsborg,3,0
+2019-04-07,1919,SWE,Hammarby,Kalmar,1,1
+2019-04-07,1919,SWE,Ostersunds,Falkenbergs,3,2
+2019-04-08,1919,SWE,Norrkoping,AIK,0,0
+2019-04-08,1919,SWE,Orebro,Djurgarden,0,3
+2019-04-08,1919,SWE,Sirius,AFC Eskilstuna,3,2
+2019-04-12,1919,SWE,AFC Eskilstuna,Orebro,1,1
+2019-04-13,1919,SWE,Falkenbergs,Hacken,0,3
+2019-04-13,1919,SWE,Kalmar,Norrkoping,2,2
+2019-04-14,1919,SWE,AIK,Sirius,2,1
+2019-04-14,1919,SWE,Elfsborg,Sundsvall,3,1
+2019-04-14,1919,SWE,Malmo FF,Ostersunds,2,0
+2019-04-15,1919,SWE,Djurgarden,Goteborg,2,1
+2019-04-15,1919,SWE,Helsingborg,Hammarby,2,1
+2019-04-19,1919,SWE,Norrkoping,Falkenbergs,4,3
+2019-04-19,1919,SWE,Orebro,AIK,2,1
+2019-04-19,1919,SWE,Ostersunds,Elfsborg,1,1
+2019-04-20,1919,SWE,Sirius,Malmo FF,0,1
+2019-04-20,1919,SWE,Sundsvall,Kalmar,1,2
+2019-04-21,1919,SWE,Hacken,Djurgarden,0,1
+2019-04-21,1919,SWE,Hammarby,AFC Eskilstuna,3,1
+2019-04-22,1919,SWE,Goteborg,Helsingborg,3,1
+2019-04-24,1919,SWE,AFC Eskilstuna,Ostersunds,0,1
+2019-04-24,1919,SWE,AIK,Hacken,1,0
+2019-04-24,1919,SWE,Elfsborg,Orebro,4,2
+2019-04-24,1919,SWE,Falkenbergs,Sirius,0,0
+2019-04-24,1919,SWE,Malmo FF,Hammarby,4,1
+2019-04-25,1919,SWE,Djurgarden,Norrkoping,1,1
+2019-04-25,1919,SWE,Helsingborg,Sundsvall,1,1
+2019-04-25,1919,SWE,Kalmar,Goteborg,1,1
+2019-04-27,1919,SWE,Sirius,Elfsborg,2,4
+2019-04-28,1919,SWE,Hacken,AFC Eskilstuna,3,0
+2019-04-28,1919,SWE,Hammarby,Djurgarden,2,1
+2019-04-28,1919,SWE,Norrkoping,Malmo FF,1,1
+2019-04-29,1919,SWE,Goteborg,AIK,3,0
+2019-04-29,1919,SWE,Orebro,Kalmar,1,1
+2019-04-29,1919,SWE,Ostersunds,Helsingborg,3,0
+2019-04-29,1919,SWE,Sundsvall,Falkenbergs,3,1
+2019-05-04,1919,SWE,AIK,AFC Eskilstuna,2,1
+2019-05-04,1919,SWE,Sirius,Goteborg,2,4
+2019-05-05,1919,SWE,Falkenbergs,Malmo FF,1,2
+2019-05-05,1919,SWE,Hacken,Sundsvall,1,0
+2019-05-05,1919,SWE,Kalmar,Ostersunds,1,1
+2019-05-05,1919,SWE,Orebro,Hammarby,2,3
+2019-05-06,1919,SWE,Elfsborg,Norrkoping,0,0
+2019-05-06,1919,SWE,Helsingborg,Djurgarden,1,1
+2019-05-10,1919,SWE,Hammarby,Sirius,2,0
+2019-05-11,1919,SWE,AFC Eskilstuna,Falkenbergs,0,0
+2019-05-11,1919,SWE,Kalmar,Helsingborg,1,0
+2019-05-11,1919,SWE,Ostersunds,Hacken,1,1
+2019-05-11,1919,SWE,Sundsvall,Orebro,1,2
+2019-05-12,1919,SWE,Djurgarden,AIK,0,2
+2019-05-12,1919,SWE,Malmo FF,Elfsborg,4,1
+2019-05-13,1919,SWE,Norrkoping,Goteborg,1,2
+2019-05-14,1919,SWE,Hammarby,Ostersunds,4,0
+2019-05-15,1919,SWE,Elfsborg,AFC Eskilstuna,1,0
+2019-05-15,1919,SWE,Falkenbergs,Djurgarden,0,3
+2019-05-15,1919,SWE,Hacken,Kalmar,1,0
+2019-05-15,1919,SWE,Helsingborg,AIK,1,3
+2019-05-15,1919,SWE,Sirius,Sundsvall,1,0
+2019-05-16,1919,SWE,Goteborg,Malmo FF,0,0
+2019-05-16,1919,SWE,Orebro,Norrkoping,1,2
+2019-05-18,1919,SWE,AFC Eskilstuna,Helsingborg,1,1
+2019-05-19,1919,SWE,Djurgarden,Elfsborg,2,0
+2019-05-19,1919,SWE,Malmo FF,Kalmar,1,0
+2019-05-19,1919,SWE,Sirius,Hacken,3,4
+2019-05-20,1919,SWE,AIK,Falkenbergs,2,0
+2019-05-20,1919,SWE,Goteborg,Hammarby,0,0
+2019-05-20,1919,SWE,Norrkoping,Sundsvall,2,0
+2019-05-20,1919,SWE,Ostersunds,Orebro,1,3
+2019-05-24,1919,SWE,Sundsvall,AIK,1,1
+2019-05-25,1919,SWE,Hacken,Goteborg,1,2
+2019-05-25,1919,SWE,Helsingborg,Falkenbergs,1,1
+2019-05-25,1919,SWE,Malmo FF,AFC Eskilstuna,5,0
+2019-05-26,1919,SWE,Djurgarden,Ostersunds,3,1
+2019-05-26,1919,SWE,Kalmar,Elfsborg,1,1
+2019-05-27,1919,SWE,Hammarby,Norrkoping,2,2
+2019-05-27,1919,SWE,Orebro,Sirius,0,2
+2019-05-28,1919,SWE,Malmo FF,Sundsvall,2,1
+2019-06-01,1919,SWE,Falkenbergs,Kalmar,0,0
+2019-06-01,1919,SWE,Goteborg,Orebro,0,1
+2019-06-01,1919,SWE,Ostersunds,Sundsvall,1,1
+2019-06-01,1919,SWE,Sirius,Djurgarden,0,2
+2019-06-02,1919,SWE,AFC Eskilstuna,Norrkoping,0,2
+2019-06-02,1919,SWE,AIK,Hammarby,2,0
+2019-06-02,1919,SWE,Elfsborg,Hacken,0,0
+2019-06-02,1919,SWE,Helsingborg,Malmo FF,0,1
+2019-06-25,1919,SWE,AIK,Norrkoping,0,2
+2019-06-28,1919,SWE,Orebro,Helsingborg,0,1
+2019-06-29,1919,SWE,Falkenbergs,Elfsborg,2,1
+2019-06-29,1919,SWE,Ostersunds,Goteborg,0,0
+2019-06-29,1919,SWE,Sundsvall,AFC Eskilstuna,0,0
+2019-06-30,1919,SWE,AIK,Malmo FF,0,0
+2019-06-30,1919,SWE,Norrkoping,Sirius,0,1
+2019-07-01,1919,SWE,Djurgarden,Kalmar,2,0
+2019-07-01,1919,SWE,Hacken,Hammarby,2,0
+2019-07-06,1919,SWE,Goteborg,Sundsvall,2,1
+2019-07-06,1919,SWE,Kalmar,AIK,0,1
+2019-07-06,1919,SWE,Malmo FF,Orebro,2,1
+2019-07-06,1919,SWE,Sirius,Ostersunds,1,1
+2019-07-07,1919,SWE,Hammarby,Falkenbergs,6,2
+2019-07-07,1919,SWE,Norrkoping,Hacken,2,1
+2019-07-08,1919,SWE,AFC Eskilstuna,Djurgarden,1,1
+2019-07-08,1919,SWE,Elfsborg,Helsingborg,1,1
+2019-07-13,1919,SWE,AFC Eskilstuna,Kalmar,3,1
+2019-07-13,1919,SWE,AIK,Elfsborg,3,0
+2019-07-13,1919,SWE,Falkenbergs,Goteborg,1,1
+2019-07-14,1919,SWE,Djurgarden,Malmo FF,1,1
+2019-07-14,1919,SWE,Hacken,Orebro,3,0
+2019-07-14,1919,SWE,Ostersunds,Norrkoping,2,1
+2019-07-15,1919,SWE,Helsingborg,Sirius,1,0
+2019-07-15,1919,SWE,Sundsvall,Hammarby,2,3
+2019-07-20,1919,SWE,AIK,Helsingborg,2,0
+2019-07-20,1919,SWE,Orebro,Falkenbergs,4,0
+2019-07-20,1919,SWE,Sundsvall,Hacken,0,1
+2019-07-21,1919,SWE,Goteborg,AFC Eskilstuna,1,0
+2019-07-21,1919,SWE,Malmo FF,Sirius,1,1
+2019-07-21,1919,SWE,Norrkoping,Ostersunds,3,0
+2019-07-22,1919,SWE,Hammarby,Elfsborg,5,2
+2019-07-22,1919,SWE,Kalmar,Djurgarden,0,1
+2019-07-27,1919,SWE,AFC Eskilstuna,Hammarby,1,6
+2019-07-27,1919,SWE,Falkenbergs,Sundsvall,2,0
+2019-07-27,1919,SWE,Sirius,AIK,0,2
+2019-07-28,1919,SWE,Djurgarden,Hacken,2,0
+2019-07-28,1919,SWE,Goteborg,Norrkoping,0,0
+2019-07-28,1919,SWE,Ostersunds,Malmo FF,0,0
+2019-07-29,1919,SWE,Elfsborg,Kalmar,2,1
+2019-07-29,1919,SWE,Helsingborg,Orebro,1,4
+2019-08-03,1919,SWE,Falkenbergs,Helsingborg,1,1
+2019-08-03,1919,SWE,Ostersunds,AFC Eskilstuna,1,2
+2019-08-04,1919,SWE,Hacken,Sirius,4,1
+2019-08-04,1919,SWE,Kalmar,Hammarby,2,2
+2019-08-05,1919,SWE,Elfsborg,Djurgarden,0,1
+2019-08-05,1919,SWE,Orebro,Goteborg,2,2
+2019-08-10,1919,SWE,Djurgarden,Sirius,4,0
+2019-08-10,1919,SWE,Sundsvall,Ostersunds,1,1
+2019-08-11,1919,SWE,AFC Eskilstuna,AIK,2,4
+2019-08-11,1919,SWE,Hacken,Malmo FF,1,1
+2019-08-11,1919,SWE,Hammarby,Helsingborg,2,1
+2019-08-11,1919,SWE,Norrkoping,Elfsborg,2,0
+2019-08-12,1919,SWE,Goteborg,Falkenbergs,1,1
+2019-08-12,1919,SWE,Kalmar,Orebro,1,1
+2019-08-17,1919,SWE,Hammarby,Sundsvall,3,0
+2019-08-18,1919,SWE,AIK,Kalmar,1,2
+2019-08-18,1919,SWE,Malmo FF,Falkenbergs,5,0
+2019-08-18,1919,SWE,Orebro,Hacken,1,2
+2019-08-18,1919,SWE,Sirius,Norrkoping,0,2
+2019-08-19,1919,SWE,Djurgarden,AFC Eskilstuna,3,0
+2019-08-19,1919,SWE,Elfsborg,Ostersunds,4,1
+2019-08-19,1919,SWE,Helsingborg,Goteborg,1,2
+2019-08-24,1919,SWE,Sirius,Orebro,3,4
+2019-08-25,1919,SWE,AFC Eskilstuna,Hacken,0,2
+2019-08-25,1919,SWE,Malmo FF,Djurgarden,0,1
+2019-08-25,1919,SWE,Norrkoping,Helsingborg,5,0
+2019-08-25,1919,SWE,Ostersunds,AIK,1,3
+2019-08-26,1919,SWE,Falkenbergs,Hammarby,0,2
+2019-08-26,1919,SWE,Goteborg,Kalmar,4,0
+2019-08-26,1919,SWE,Sundsvall,Elfsborg,1,2
+2019-08-30,1919,SWE,Helsingborg,Ostersunds,2,0
+2019-08-31,1919,SWE,Elfsborg,Sirius,1,1
+2019-08-31,1919,SWE,Orebro,AFC Eskilstuna,3,1
+2019-09-01,1919,SWE,AIK,Djurgarden,1,0
+2019-09-01,1919,SWE,Hacken,Falkenbergs,4,1
+2019-09-01,1919,SWE,Kalmar,Malmo FF,0,5
+2019-09-01,1919,SWE,Norrkoping,Hammarby,2,0
+2019-09-01,1919,SWE,Sundsvall,Goteborg,0,2
+2019-09-13,1919,SWE,Sirius,Falkenbergs,2,0
+2019-09-14,1919,SWE,Orebro,Sundsvall,0,0
+2019-09-14,1919,SWE,Ostersunds,Kalmar,1,2
+2019-09-15,1919,SWE,Hacken,AIK,1,2
+2019-09-15,1919,SWE,Hammarby,Goteborg,6,2
+2019-09-15,1919,SWE,Malmo FF,Norrkoping,1,0
+2019-09-16,1919,SWE,AFC Eskilstuna,Elfsborg,2,2
+2019-09-16,1919,SWE,Djurgarden,Helsingborg,2,0
+2019-09-20,1919,SWE,Sundsvall,Djurgarden,1,4
+2019-09-21,1919,SWE,Falkenbergs,Ostersunds,1,0
+2019-09-21,1919,SWE,Goteborg,Sirius,2,1
+2019-09-21,1919,SWE,Kalmar,Hacken,1,1
+2019-09-21,1919,SWE,Norrkoping,Orebro,3,0
+2019-09-22,1919,SWE,Elfsborg,Malmo FF,0,3
+2019-09-22,1919,SWE,Hammarby,AIK,2,1
+2019-09-22,1919,SWE,Helsingborg,AFC Eskilstuna,2,1
+2019-09-24,1919,SWE,Djurgarden,Falkenbergs,1,0
+2019-09-24,1919,SWE,Kalmar,Sundsvall,0,2
+2019-09-25,1919,SWE,AIK,Goteborg,1,0
+2019-09-25,1919,SWE,Hacken,Elfsborg,1,2
+2019-09-25,1919,SWE,Orebro,Ostersunds,2,0
+2019-09-25,1919,SWE,Sirius,Hammarby,1,3
+2019-09-26,1919,SWE,Malmo FF,Helsingborg,3,0
+2019-09-26,1919,SWE,Norrkoping,AFC Eskilstuna,4,0
+2019-09-29,1919,SWE,AFC Eskilstuna,Malmo FF,0,1
+2019-09-29,1919,SWE,Elfsborg,AIK,1,1
+2019-09-29,1919,SWE,Falkenbergs,Norrkoping,0,2
+2019-09-29,1919,SWE,Goteborg,Hacken,0,0
+2019-09-29,1919,SWE,Sundsvall,Sirius,2,1
+2019-09-30,1919,SWE,Hammarby,Orebro,5,1
+2019-09-30,1919,SWE,Helsingborg,Kalmar,2,0
+2019-09-30,1919,SWE,Ostersunds,Djurgarden,1,2
+2019-10-05,1919,SWE,AIK,Orebro,2,0
+2019-10-05,1919,SWE,Sirius,Helsingborg,2,1
+2019-10-05,1919,SWE,Sundsvall,Norrkoping,4,4
+2019-10-06,1919,SWE,Djurgarden,Hammarby,1,2
+2019-10-06,1919,SWE,Elfsborg,Falkenbergs,4,0
+2019-10-06,1919,SWE,Hacken,Ostersunds,1,1
+2019-10-06,1919,SWE,Kalmar,AFC Eskilstuna,0,0
+2019-10-06,1919,SWE,Malmo FF,Goteborg,1,0
+2019-10-18,1919,SWE,AFC Eskilstuna,Sundsvall,1,0
+2019-10-19,1919,SWE,Helsingborg,Hacken,0,2
+2019-10-19,1919,SWE,Ostersunds,Sirius,2,0
+2019-10-20,1919,SWE,Falkenbergs,AIK,1,5
+2019-10-20,1919,SWE,Hammarby,Malmo FF,2,0
+2019-10-20,1919,SWE,Norrkoping,Kalmar,1,0
+2019-10-21,1919,SWE,Goteborg,Djurgarden,0,1
+2019-10-21,1919,SWE,Orebro,Elfsborg,2,2
+2019-10-26,1919,SWE,Kalmar,Falkenbergs,2,3
+2019-10-26,1919,SWE,Sundsvall,Helsingborg,1,2
+2019-10-27,1919,SWE,AFC Eskilstuna,Sirius,0,0
+2019-10-27,1919,SWE,Hacken,Norrkoping,0,1
+2019-10-27,1919,SWE,Ostersunds,Hammarby,1,2
+2019-10-28,1919,SWE,Djurgarden,Orebro,3,0
+2019-10-28,1919,SWE,Elfsborg,Goteborg,2,0
+2019-10-28,1919,SWE,Malmo FF,AIK,2,0
+2019-11-02,1919,SWE,AIK,Sundsvall,2,1
+2019-11-02,1919,SWE,Falkenbergs,AFC Eskilstuna,1,0
+2019-11-02,1919,SWE,Goteborg,Ostersunds,7,1
+2019-11-02,1919,SWE,Hammarby,Hacken,4,1
+2019-11-02,1919,SWE,Helsingborg,Elfsborg,1,2
+2019-11-02,1919,SWE,Norrkoping,Djurgarden,2,2
+2019-11-02,1919,SWE,Orebro,Malmo FF,0,5
+2019-11-02,1919,SWE,Sirius,Kalmar,3,0
+2019-11-06,1919,SWE,Brage,Kalmar,0,2
+2019-11-10,1919,SWE,Kalmar,Brage,2,2
+2020-06-14,2020,SWE,Goteborg,Elfsborg,0,1
+2020-06-14,2020,SWE,Hammarby,Ostersunds,2,0
+2020-06-14,2020,SWE,Norrkoping,Kalmar,2,1
+2020-06-14,2020,SWE,Orebro,AIK,0,2
+2020-06-14,2020,SWE,Sirius,Djurgarden,0,2
+2020-06-15,2020,SWE,Falkenbergs,Hacken,1,1
+2020-06-15,2020,SWE,Helsingborg,Varberg,0,3
+2020-06-15,2020,SWE,Malmo FF,Mjallby,2,0
+2020-06-17,2020,SWE,AIK,Norrkoping,1,4
+2020-06-17,2020,SWE,Djurgarden,Orebro,1,2
+2020-06-17,2020,SWE,Elfsborg,Hammarby,2,2
+2020-06-18,2020,SWE,Hacken,Malmo FF,1,1
+2020-06-18,2020,SWE,Kalmar,Helsingborg,4,0
+2020-06-18,2020,SWE,Mjallby,Falkenbergs,0,1
+2020-06-18,2020,SWE,Ostersunds,Sirius,0,2
+2020-06-18,2020,SWE,Varberg,Goteborg,1,2
+2020-06-21,2020,SWE,Falkenbergs,Kalmar,0,2
+2020-06-21,2020,SWE,Hammarby,AIK,0,2
+2020-06-21,2020,SWE,Malmo FF,Varberg,2,2
+2020-06-21,2020,SWE,Norrkoping,Djurgarden,3,0
+2020-06-21,2020,SWE,Orebro,Ostersunds,0,0
+2020-06-22,2020,SWE,Goteborg,Mjallby,2,2
+2020-06-22,2020,SWE,Helsingborg,Elfsborg,0,0
+2020-06-22,2020,SWE,Sirius,Hacken,2,2
+2020-06-27,2020,SWE,Ostersunds,Norrkoping,2,4
+2020-06-28,2020,SWE,AIK,Malmo FF,2,2
+2020-06-28,2020,SWE,Djurgarden,Kalmar,5,0
+2020-06-28,2020,SWE,Elfsborg,Orebro,1,1
+2020-06-28,2020,SWE,Mjallby,Hammarby,2,1
+2020-06-28,2020,SWE,Sirius,Goteborg,2,2
+2020-06-29,2020,SWE,Hacken,Helsingborg,1,0
+2020-06-29,2020,SWE,Varberg,Falkenbergs,3,1
+2020-07-01,2020,SWE,Kalmar,Ostersunds,1,2
+2020-07-01,2020,SWE,Malmo FF,Djurgarden,1,0
+2020-07-01,2020,SWE,Norrkoping,Elfsborg,1,1
+2020-07-02,2020,SWE,Falkenbergs,Sirius,1,2
+2020-07-02,2020,SWE,Goteborg,AIK,1,0
+2020-07-02,2020,SWE,Hammarby,Varberg,1,0
+2020-07-02,2020,SWE,Helsingborg,Mjallby,0,1
+2020-07-02,2020,SWE,Orebro,Hacken,0,0
+2020-07-05,2020,SWE,AIK,Falkenbergs,1,1
+2020-07-05,2020,SWE,Elfsborg,Malmo FF,1,0
+2020-07-05,2020,SWE,Hacken,Hammarby,3,0
+2020-07-05,2020,SWE,Sirius,Orebro,2,1
+2020-07-06,2020,SWE,Djurgarden,Helsingborg,2,2
+2020-07-06,2020,SWE,Norrkoping,Goteborg,3,1
+2020-07-06,2020,SWE,Ostersunds,Mjallby,0,1
+2020-07-06,2020,SWE,Varberg,Kalmar,1,0
+2020-07-11,2020,SWE,Falkenbergs,Ostersunds,0,1
+2020-07-11,2020,SWE,Hammarby,Sirius,0,0
+2020-07-12,2020,SWE,Goteborg,Djurgarden,1,2
+2020-07-12,2020,SWE,Helsingborg,AIK,2,0
+2020-07-12,2020,SWE,Mjallby,Hacken,3,1
+2020-07-12,2020,SWE,Orebro,Varberg,1,0
+2020-07-13,2020,SWE,Kalmar,Elfsborg,1,2
+2020-07-13,2020,SWE,Malmo FF,Norrkoping,1,1
+2020-07-15,2020,SWE,AIK,Sirius,1,0
+2020-07-15,2020,SWE,Djurgarden,Falkenbergs,1,0
+2020-07-15,2020,SWE,Goteborg,Helsingborg,1,1
+2020-07-16,2020,SWE,Hacken,Elfsborg,6,0
+2020-07-16,2020,SWE,Kalmar,Hammarby,1,2
+2020-07-16,2020,SWE,Norrkoping,Orebro,2,0
+2020-07-16,2020,SWE,Ostersunds,Malmo FF,1,2
+2020-07-16,2020,SWE,Varberg,Mjallby,1,0
+2020-07-19,2020,SWE,Elfsborg,Djurgarden,1,0
+2020-07-19,2020,SWE,Falkenbergs,Helsingborg,2,2
+2020-07-19,2020,SWE,Malmo FF,Kalmar,2,1
+2020-07-19,2020,SWE,Ostersunds,Hacken,2,2
+2020-07-19,2020,SWE,Sirius,Norrkoping,4,2
+2020-07-19,2020,SWE,Varberg,AIK,2,2
+2020-07-20,2020,SWE,Hammarby,Goteborg,1,1
+2020-07-20,2020,SWE,Orebro,Mjallby,3,1
+2020-07-22,2020,SWE,Djurgarden,Ostersunds,0,0
+2020-07-22,2020,SWE,Hacken,AIK,4,0
+2020-07-22,2020,SWE,Norrkoping,Varberg,2,0
+2020-07-23,2020,SWE,Goteborg,Falkenbergs,2,2
+2020-07-23,2020,SWE,Helsingborg,Orebro,1,1
+2020-07-23,2020,SWE,Kalmar,Sirius,1,1
+2020-07-23,2020,SWE,Malmo FF,Hammarby,3,0
+2020-07-23,2020,SWE,Mjallby,Elfsborg,0,5
+2020-07-26,2020,SWE,AIK,Djurgarden,0,1
+2020-07-26,2020,SWE,Elfsborg,Varberg,3,3
+2020-07-26,2020,SWE,Falkenbergs,Norrkoping,3,3
+2020-07-26,2020,SWE,Hacken,Goteborg,0,0
+2020-07-26,2020,SWE,Sirius,Malmo FF,2,5
+2020-07-27,2020,SWE,Hammarby,Orebro,3,0
+2020-07-27,2020,SWE,Mjallby,Kalmar,2,2
+2020-07-27,2020,SWE,Ostersunds,Helsingborg,0,0
+2020-08-01,2020,SWE,Djurgarden,Hacken,3,1
+2020-08-01,2020,SWE,Orebro,Falkenbergs,1,2
+2020-08-02,2020,SWE,Goteborg,Malmo FF,0,3
+2020-08-02,2020,SWE,Helsingborg,Hammarby,1,1
+2020-08-02,2020,SWE,Kalmar,AIK,0,0
+2020-08-02,2020,SWE,Varberg,Ostersunds,1,1
+2020-08-03,2020,SWE,Elfsborg,Sirius,3,3
+2020-08-03,2020,SWE,Norrkoping,Mjallby,1,1
+2020-08-05,2020,SWE,Hammarby,Falkenbergs,1,1
+2020-08-05,2020,SWE,Malmo FF,Helsingborg,4,1
+2020-08-05,2020,SWE,Varberg,Djurgarden,1,2
+2020-08-06,2020,SWE,AIK,Elfsborg,1,2
+2020-08-06,2020,SWE,Goteborg,Ostersunds,2,2
+2020-08-06,2020,SWE,Hacken,Norrkoping,2,1
+2020-08-06,2020,SWE,Kalmar,Orebro,0,3
+2020-08-06,2020,SWE,Mjallby,Sirius,1,1
+2020-08-09,2020,SWE,Djurgarden,Hammarby,1,2
+2020-08-09,2020,SWE,Falkenbergs,Malmo FF,0,1
+2020-08-09,2020,SWE,Hacken,Kalmar,0,2
+2020-08-09,2020,SWE,Mjallby,AIK,3,1
+2020-08-09,2020,SWE,Orebro,Goteborg,1,1
+2020-08-09,2020,SWE,Ostersunds,Elfsborg,0,1
+2020-08-10,2020,SWE,Helsingborg,Norrkoping,3,2
+2020-08-10,2020,SWE,Sirius,Varberg,3,3
+2020-08-12,2020,SWE,Djurgarden,Mjallby,2,1
+2020-08-12,2020,SWE,Malmo FF,Orebro,2,1
+2020-08-13,2020,SWE,AIK,Ostersunds,0,1
+2020-08-13,2020,SWE,Elfsborg,Falkenbergs,4,2
+2020-08-13,2020,SWE,Kalmar,Goteborg,1,1
+2020-08-13,2020,SWE,Norrkoping,Hammarby,1,2
+2020-08-13,2020,SWE,Sirius,Helsingborg,3,1
+2020-08-13,2020,SWE,Varberg,Hacken,1,3
+2020-08-15,2020,SWE,Orebro,Djurgarden,0,3
+2020-08-16,2020,SWE,Falkenbergs,AIK,1,1
+2020-08-16,2020,SWE,Hammarby,Elfsborg,2,2
+2020-08-16,2020,SWE,Mjallby,Malmo FF,2,2
+2020-08-17,2020,SWE,Goteborg,Norrkoping,1,3
+2020-08-17,2020,SWE,Hacken,Varberg,2,1
+2020-08-17,2020,SWE,Helsingborg,Sirius,1,2
+2020-08-17,2020,SWE,Ostersunds,Kalmar,2,0
+2020-08-22,2020,SWE,Djurgarden,Goteborg,2,2
+2020-08-22,2020,SWE,Sirius,Hammarby,3,1
+2020-08-23,2020,SWE,AIK,Helsingborg,2,0
+2020-08-23,2020,SWE,Elfsborg,Ostersunds,0,1
+2020-08-23,2020,SWE,Malmo FF,Falkenbergs,2,1
+2020-08-23,2020,SWE,Varberg,Orebro,2,1
+2020-08-24,2020,SWE,Kalmar,Mjallby,1,4
+2020-08-24,2020,SWE,Norrkoping,Hacken,0,1
+2020-08-29,2020,SWE,Ostersunds,Falkenbergs,2,1
+2020-08-29,2020,SWE,Varberg,Sirius,2,0
+2020-08-30,2020,SWE,AIK,Hacken,0,1
+2020-08-30,2020,SWE,Hammarby,Kalmar,3,3
+2020-08-30,2020,SWE,Helsingborg,Djurgarden,3,1
+2020-08-30,2020,SWE,Malmo FF,Elfsborg,1,1
+2020-08-30,2020,SWE,Mjallby,Goteborg,1,1
+2020-08-30,2020,SWE,Orebro,Norrkoping,4,3
+2020-09-09,2020,SWE,Helsingborg,Kalmar,1,1
+2020-09-10,2020,SWE,Goteborg,Hammarby,0,4
+2020-09-10,2020,SWE,Norrkoping,Ostersunds,2,2
+2020-09-10,2020,SWE,Orebro,Malmo FF,3,2
+2020-09-12,2020,SWE,Djurgarden,Elfsborg,1,1
+2020-09-13,2020,SWE,Falkenbergs,Goteborg,0,3
+2020-09-13,2020,SWE,Hammarby,Helsingborg,2,2
+2020-09-13,2020,SWE,Malmo FF,AIK,0,0
+2020-09-13,2020,SWE,Mjallby,Varberg,2,3
+2020-09-14,2020,SWE,Hacken,Sirius,1,1
+2020-09-14,2020,SWE,Kalmar,Norrkoping,0,2
+2020-09-14,2020,SWE,Ostersunds,Orebro,0,0
+2020-09-17,2020,SWE,Elfsborg,Mjallby,2,2
+2020-09-17,2020,SWE,Falkenbergs,Varberg,2,0
+2020-09-20,2020,SWE,AIK,Hammarby,3,0
+2020-09-20,2020,SWE,Goteborg,Kalmar,1,2
+2020-09-20,2020,SWE,Norrkoping,Malmo FF,1,1
+2020-09-20,2020,SWE,Ostersunds,Djurgarden,1,1
+2020-09-21,2020,SWE,Elfsborg,Hacken,1,1
+2020-09-21,2020,SWE,Mjallby,Orebro,1,0
+2020-09-21,2020,SWE,Sirius,Falkenbergs,2,1
+2020-09-21,2020,SWE,Varberg,Helsingborg,1,3
+2020-09-26,2020,SWE,Orebro,Sirius,2,1
+2020-09-27,2020,SWE,Djurgarden,Norrkoping,1,2
+2020-09-27,2020,SWE,Elfsborg,Goteborg,0,0
+2020-09-27,2020,SWE,Falkenbergs,Hammarby,1,3
+2020-09-27,2020,SWE,Helsingborg,Ostersunds,0,1
+2020-09-27,2020,SWE,Malmo FF,Hacken,3,0
+2020-09-28,2020,SWE,AIK,Mjallby,1,0
+2020-09-28,2020,SWE,Kalmar,Varberg,1,1
+2020-10-03,2020,SWE,Hacken,Falkenbergs,3,0
+2020-10-03,2020,SWE,Orebro,Elfsborg,3,2
+2020-10-04,2020,SWE,Goteborg,Varberg,1,0
+2020-10-04,2020,SWE,Hammarby,Djurgarden,1,1
+2020-10-04,2020,SWE,Kalmar,Malmo FF,0,4
+2020-10-04,2020,SWE,Mjallby,Helsingborg,3,2
+2020-10-04,2020,SWE,Norrkoping,Sirius,1,2
+2020-10-04,2020,SWE,Ostersunds,AIK,1,2
+2020-10-17,2020,SWE,Falkenbergs,Orebro,2,1
+2020-10-18,2020,SWE,AIK,Goteborg,2,0
+2020-10-18,2020,SWE,Elfsborg,Kalmar,3,1
+2020-10-18,2020,SWE,Hammarby,Mjallby,4,2
+2020-10-18,2020,SWE,Sirius,Ostersunds,2,3
+2020-10-18,2020,SWE,Varberg,Norrkoping,1,3
+2020-10-19,2020,SWE,Djurgarden,Malmo FF,3,2
+2020-10-19,2020,SWE,Helsingborg,Hacken,0,0
+2020-10-24,2020,SWE,Djurgarden,Sirius,4,0
+2020-10-24,2020,SWE,Hacken,Mjallby,2,2
+2020-10-25,2020,SWE,Kalmar,Falkenbergs,0,0
+2020-10-25,2020,SWE,Malmo FF,Goteborg,3,1
+2020-10-25,2020,SWE,Orebro,Helsingborg,3,2
+2020-10-25,2020,SWE,Ostersunds,Hammarby,1,3
+2020-10-26,2020,SWE,Norrkoping,AIK,2,2
+2020-10-26,2020,SWE,Varberg,Elfsborg,0,0
+2020-10-28,2020,SWE,Hacken,Djurgarden,0,2
+2020-10-29,2020,SWE,Sirius,AIK,0,0
+2020-11-01,2020,SWE,Elfsborg,Norrkoping,2,1
+2020-11-01,2020,SWE,Falkenbergs,Djurgarden,3,2
+2020-11-01,2020,SWE,Goteborg,Orebro,0,1
+2020-11-01,2020,SWE,Hammarby,Hacken,1,1
+2020-11-01,2020,SWE,Mjallby,Ostersunds,3,0
+2020-11-01,2020,SWE,Sirius,Kalmar,2,2
+2020-11-02,2020,SWE,AIK,Varberg,1,0
+2020-11-02,2020,SWE,Helsingborg,Malmo FF,0,1
+2020-11-07,2020,SWE,Falkenbergs,Elfsborg,1,3
+2020-11-07,2020,SWE,Hacken,Ostersunds,2,1
+2020-11-07,2020,SWE,Mjallby,Norrkoping,2,0
+2020-11-08,2020,SWE,Djurgarden,AIK,0,1
+2020-11-08,2020,SWE,Helsingborg,Goteborg,0,1
+2020-11-08,2020,SWE,Malmo FF,Sirius,4,0
+2020-11-08,2020,SWE,Orebro,Kalmar,0,1
+2020-11-08,2020,SWE,Varberg,Hammarby,5,2
+2020-11-22,2020,SWE,AIK,Orebro,0,2
+2020-11-22,2020,SWE,Elfsborg,Helsingborg,2,1
+2020-11-22,2020,SWE,Hammarby,Malmo FF,2,2
+2020-11-22,2020,SWE,Kalmar,Djurgarden,0,3
+2020-11-22,2020,SWE,Ostersunds,Varberg,0,4
+2020-11-23,2020,SWE,Goteborg,Hacken,1,1
+2020-11-23,2020,SWE,Norrkoping,Falkenbergs,4,1
+2020-11-23,2020,SWE,Sirius,Mjallby,0,1
+2020-11-29,2020,SWE,Hacken,Orebro,3,0
+2020-11-29,2020,SWE,Helsingborg,Falkenbergs,0,0
+2020-11-29,2020,SWE,Mjallby,Djurgarden,2,1
+2020-11-29,2020,SWE,Ostersunds,Goteborg,0,4
+2020-11-29,2020,SWE,Sirius,Elfsborg,1,1
+2020-11-29,2020,SWE,Varberg,Malmo FF,3,2
+2020-11-30,2020,SWE,AIK,Kalmar,0,1
+2020-11-30,2020,SWE,Hammarby,Norrkoping,0,1
+2020-12-06,2020,SWE,Djurgarden,Varberg,1,0
+2020-12-06,2020,SWE,Elfsborg,AIK,2,2
+2020-12-06,2020,SWE,Falkenbergs,Mjallby,2,3
+2020-12-06,2020,SWE,Goteborg,Sirius,2,0
+2020-12-06,2020,SWE,Kalmar,Hacken,0,0
+2020-12-06,2020,SWE,Malmo FF,Ostersunds,4,0
+2020-12-06,2020,SWE,Norrkoping,Helsingborg,3,4
+2020-12-06,2020,SWE,Orebro,Hammarby,2,1
+2020-12-09,2020,SWE,Jonkopings,Kalmar,1,3
+2020-12-13,2020,SWE,Kalmar,Jonkopings,1,0
+2021-04-10,2121,SWE,Malmo FF,Hammarby,3,2
+2021-04-10,2121,SWE,Orebro,Goteborg,0,0
+2021-04-11,2121,SWE,Elfsborg,Djurgarden,0,2
+2021-04-11,2121,SWE,Halmstad,Hacken,1,0
+2021-04-11,2121,SWE,Mjallby,Varberg,0,0
+2021-04-11,2121,SWE,Norrkoping,Sirius,1,1
+2021-04-12,2121,SWE,AIK,Degerfors,2,0
+2021-04-12,2121,SWE,Kalmar,Ostersunds,0,0
+2021-04-17,2121,SWE,Hammarby,Mjallby,2,0
+2021-04-18,2121,SWE,Degerfors,Kalmar,0,1
+2021-04-18,2121,SWE,Djurgarden,Norrkoping,1,0
+2021-04-18,2121,SWE,Hacken,Malmo FF,1,2
+2021-04-18,2121,SWE,Ostersunds,Orebro,5,0
+2021-04-18,2121,SWE,Sirius,Halmstad,1,0
+2021-04-19,2121,SWE,Goteborg,AIK,2,0
+2021-04-19,2121,SWE,Varberg,Elfsborg,1,3
+2021-04-24,2121,SWE,Hacken,Sirius,1,2
+2021-04-25,2121,SWE,AIK,Hammarby,2,0
+2021-04-25,2121,SWE,Kalmar,Orebro,1,0
+2021-04-25,2121,SWE,Malmo FF,Ostersunds,1,1
+2021-04-25,2121,SWE,Norrkoping,Halmstad,2,1
+2021-04-25,2121,SWE,Varberg,Djurgarden,1,3
+2021-04-26,2121,SWE,Elfsborg,Mjallby,1,0
+2021-04-26,2121,SWE,Goteborg,Degerfors,2,3
+2021-05-01,2121,SWE,Hammarby,Hacken,1,1
+2021-05-01,2121,SWE,Sirius,Kalmar,1,1
+2021-05-02,2121,SWE,AIK,Elfsborg,1,0
+2021-05-02,2121,SWE,Halmstad,Goteborg,1,1
+2021-05-02,2121,SWE,Orebro,Norrkoping,0,3
+2021-05-02,2121,SWE,Ostersunds,Varberg,1,2
+2021-05-03,2121,SWE,Djurgarden,Malmo FF,3,1
+2021-05-03,2121,SWE,Mjallby,Degerfors,1,0
+2021-05-08,2121,SWE,Elfsborg,Kalmar,2,2
+2021-05-08,2121,SWE,Goteborg,Hacken,1,1
+2021-05-08,2121,SWE,Hammarby,Sirius,3,2
+2021-05-08,2121,SWE,Orebro,Halmstad,1,0
+2021-05-09,2121,SWE,Degerfors,Djurgarden,2,0
+2021-05-09,2121,SWE,Malmo FF,Varberg,3,2
+2021-05-09,2121,SWE,Mjallby,Ostersunds,1,0
+2021-05-10,2121,SWE,Norrkoping,AIK,2,0
+2021-05-12,2121,SWE,Djurgarden,Ostersunds,2,0
+2021-05-12,2121,SWE,Hacken,Orebro,2,3
+2021-05-12,2121,SWE,Kalmar,Goteborg,0,0
+2021-05-12,2121,SWE,Sirius,Elfsborg,0,2
+2021-05-12,2121,SWE,Varberg,Hammarby,1,3
+2021-05-13,2121,SWE,AIK,Malmo FF,1,1
+2021-05-13,2121,SWE,Halmstad,Mjallby,1,1
+2021-05-13,2121,SWE,Norrkoping,Degerfors,1,1
+2021-05-16,2121,SWE,Hammarby,Djurgarden,2,2
+2021-05-17,2121,SWE,Elfsborg,Halmstad,2,3
+2021-05-17,2121,SWE,Goteborg,Sirius,2,2
+2021-05-17,2121,SWE,Malmo FF,Kalmar,3,1
+2021-05-17,2121,SWE,Mjallby,Hacken,1,1
+2021-05-17,2121,SWE,Ostersunds,AIK,1,2
+2021-05-17,2121,SWE,Varberg,Norrkoping,2,1
+2021-05-18,2121,SWE,Degerfors,Orebro,3,0
+2021-05-20,2121,SWE,Malmo FF,Elfsborg,2,1
+2021-05-22,2121,SWE,AIK,Mjallby,2,2
+2021-05-22,2121,SWE,Ostersunds,Sirius,3,0
+2021-05-23,2121,SWE,Djurgarden,Goteborg,0,0
+2021-05-23,2121,SWE,Hacken,Varberg,3,1
+2021-05-23,2121,SWE,Halmstad,Degerfors,0,0
+2021-05-23,2121,SWE,Kalmar,Hammarby,2,1
+2021-05-24,2121,SWE,Elfsborg,Norrkoping,1,0
+2021-05-24,2121,SWE,Orebro,Malmo FF,1,2
+2021-07-03,2121,SWE,Degerfors,Ostersunds,3,1
+2021-07-03,2121,SWE,Norrkoping,Malmo FF,3,2
+2021-07-04,2121,SWE,Hacken,AIK,2,1
+2021-07-04,2121,SWE,Hammarby,Halmstad,1,1
+2021-07-04,2121,SWE,Sirius,Mjallby,2,1
+2021-07-04,2121,SWE,Varberg,Kalmar,1,1
+2021-07-05,2121,SWE,Djurgarden,Orebro,3,0
+2021-07-05,2121,SWE,Goteborg,Elfsborg,0,1
+2021-07-10,2121,SWE,AIK,Varberg,2,1
+2021-07-10,2121,SWE,Malmo FF,Sirius,4,0
+2021-07-11,2121,SWE,Elfsborg,Orebro,2,1
+2021-07-11,2121,SWE,Hammarby,Degerfors,5,1
+2021-07-11,2121,SWE,Mjallby,Norrkoping,0,1
+2021-07-11,2121,SWE,Ostersunds,Goteborg,2,3
+2021-07-12,2121,SWE,Halmstad,Djurgarden,0,0
+2021-07-12,2121,SWE,Kalmar,Hacken,2,3
+2021-07-17,2121,SWE,Degerfors,Malmo FF,0,5
+2021-07-17,2121,SWE,Elfsborg,Ostersunds,3,0
+2021-07-18,2121,SWE,AIK,Kalmar,2,0
+2021-07-18,2121,SWE,Goteborg,Mjallby,3,2
+2021-07-18,2121,SWE,Norrkoping,Hacken,0,1
+2021-07-18,2121,SWE,Orebro,Hammarby,0,2
+2021-07-19,2121,SWE,Djurgarden,Sirius,5,1
+2021-07-19,2121,SWE,Halmstad,Varberg,1,1
+2021-07-24,2121,SWE,Mjallby,Malmo FF,0,2
+2021-07-24,2121,SWE,Sirius,Degerfors,2,0
+2021-07-25,2121,SWE,Hacken,Elfsborg,1,1
+2021-07-25,2121,SWE,Hammarby,Norrkoping,2,1
+2021-07-25,2121,SWE,Kalmar,Djurgarden,0,1
+2021-07-26,2121,SWE,Orebro,AIK,1,1
+2021-07-26,2121,SWE,Ostersunds,Halmstad,0,1
+2021-07-26,2121,SWE,Varberg,Goteborg,2,0
+2021-07-31,2121,SWE,Degerfors,Varberg,1,1
+2021-08-01,2121,SWE,Djurgarden,Hacken,2,1
+2021-08-01,2121,SWE,Kalmar,Mjallby,1,0
+2021-08-01,2121,SWE,Ostersunds,Hammarby,1,1
+2021-08-02,2121,SWE,AIK,Halmstad,1,0
+2021-08-02,2121,SWE,Goteborg,Norrkoping,1,2
+2021-08-02,2121,SWE,Sirius,Orebro,1,2
+2021-08-07,2121,SWE,Halmstad,Malmo FF,0,0
+2021-08-07,2121,SWE,Orebro,Mjallby,2,2
+2021-08-08,2121,SWE,Djurgarden,AIK,1,4
+2021-08-08,2121,SWE,Elfsborg,Degerfors,3,0
+2021-08-08,2121,SWE,Goteborg,Hammarby,0,0
+2021-08-08,2121,SWE,Hacken,Ostersunds,5,0
+2021-08-09,2121,SWE,Norrkoping,Kalmar,1,2
+2021-08-09,2121,SWE,Varberg,Sirius,0,0
+2021-08-14,2121,SWE,Kalmar,Halmstad,1,1
+2021-08-14,2121,SWE,Malmo FF,Goteborg,2,3
+2021-08-15,2121,SWE,Degerfors,Hacken,3,0
+2021-08-15,2121,SWE,Hammarby,Elfsborg,0,2
+2021-08-15,2121,SWE,Mjallby,Djurgarden,0,1
+2021-08-15,2121,SWE,Ostersunds,Norrkoping,1,2
+2021-08-16,2121,SWE,Sirius,AIK,0,1
+2021-08-16,2121,SWE,Varberg,Orebro,1,0
+2021-08-21,2121,SWE,Malmo FF,Degerfors,3,0
+2021-08-22,2121,SWE,AIK,Hacken,2,1
+2021-08-22,2121,SWE,Elfsborg,Hammarby,2,2
+2021-08-22,2121,SWE,Halmstad,Norrkoping,2,1
+2021-08-22,2121,SWE,Orebro,Sirius,1,1
+2021-08-23,2121,SWE,Djurgarden,Mjallby,0,0
+2021-08-23,2121,SWE,Goteborg,Varberg,1,2
+2021-08-23,2121,SWE,Ostersunds,Kalmar,0,1
+2021-08-28,2121,SWE,AIK,Orebro,2,0
+2021-08-28,2121,SWE,Degerfors,Mjallby,0,2
+2021-08-28,2121,SWE,Varberg,Halmstad,1,0
+2021-08-29,2121,SWE,Hacken,Goteborg,3,2
+2021-08-29,2121,SWE,Hammarby,Malmo FF,2,1
+2021-08-29,2121,SWE,Kalmar,Elfsborg,0,3
+2021-08-29,2121,SWE,Norrkoping,Ostersunds,3,0
+2021-08-29,2121,SWE,Sirius,Djurgarden,1,0
+2021-09-11,2121,SWE,Malmo FF,Norrkoping,1,1
+2021-09-11,2121,SWE,Sirius,Ostersunds,1,0
+2021-09-12,2121,SWE,Djurgarden,Hammarby,4,1
+2021-09-12,2121,SWE,Goteborg,Halmstad,2,0
+2021-09-12,2121,SWE,Kalmar,Degerfors,4,1
+2021-09-13,2121,SWE,Elfsborg,Hacken,4,2
+2021-09-13,2121,SWE,Mjallby,AIK,0,0
+2021-09-13,2121,SWE,Orebro,Varberg,0,3
+2021-09-18,2121,SWE,Degerfors,Sirius,1,2
+2021-09-18,2121,SWE,Hacken,Mjallby,0,0
+2021-09-18,2121,SWE,Malmo FF,Djurgarden,1,1
+2021-09-19,2121,SWE,Halmstad,Kalmar,0,1
+2021-09-19,2121,SWE,Norrkoping,Orebro,3,0
+2021-09-19,2121,SWE,Ostersunds,Elfsborg,3,1
+2021-09-20,2121,SWE,AIK,Goteborg,3,1
+2021-09-20,2121,SWE,Hammarby,Varberg,1,0
+2021-09-22,2121,SWE,Djurgarden,Degerfors,3,2
+2021-09-22,2121,SWE,Elfsborg,Malmo FF,0,1
+2021-09-22,2121,SWE,Orebro,Ostersunds,2,0
+2021-09-22,2121,SWE,Sirius,Norrkoping,2,4
+2021-09-23,2121,SWE,Hammarby,Goteborg,3,0
+2021-09-23,2121,SWE,Kalmar,AIK,1,1
+2021-09-23,2121,SWE,Mjallby,Halmstad,0,0
+2021-09-23,2121,SWE,Varberg,Hacken,1,1
+2021-09-25,2121,SWE,Malmo FF,Orebro,5,1
+2021-09-26,2121,SWE,Hacken,Hammarby,1,1
+2021-09-26,2121,SWE,Mjallby,Elfsborg,4,0
+2021-09-26,2121,SWE,Norrkoping,Varberg,2,1
+2021-09-26,2121,SWE,Ostersunds,Djurgarden,0,3
+2021-09-27,2121,SWE,Degerfors,AIK,2,1
+2021-09-27,2121,SWE,Goteborg,Kalmar,0,2
+2021-09-27,2121,SWE,Halmstad,Sirius,1,1
+2021-10-01,2121,SWE,Elfsborg,Goteborg,1,0
+2021-10-02,2121,SWE,Halmstad,Ostersunds,1,1
+2021-10-02,2121,SWE,Varberg,Degerfors,0,0
+2021-10-03,2121,SWE,AIK,Djurgarden,1,0
+2021-10-03,2121,SWE,Kalmar,Sirius,3,1
+2021-10-03,2121,SWE,Malmo FF,Mjallby,0,1
+2021-10-03,2121,SWE,Norrkoping,Hammarby,3,1
+2021-10-03,2121,SWE,Orebro,Hacken,1,2
+2021-10-16,2121,SWE,Degerfors,Halmstad,2,1
+2021-10-16,2121,SWE,Ostersunds,Malmo FF,0,3
+2021-10-16,2121,SWE,Sirius,Varberg,2,1
+2021-10-17,2121,SWE,Goteborg,Orebro,2,0
+2021-10-17,2121,SWE,Hammarby,AIK,1,0
+2021-10-17,2121,SWE,Mjallby,Kalmar,4,0
+2021-10-18,2121,SWE,Djurgarden,Elfsborg,0,3
+2021-10-18,2121,SWE,Hacken,Norrkoping,5,0
+2021-10-23,2121,SWE,Djurgarden,Kalmar,3,2
+2021-10-23,2121,SWE,Hacken,Halmstad,2,3
+2021-10-24,2121,SWE,AIK,Norrkoping,1,0
+2021-10-24,2121,SWE,Elfsborg,Sirius,3,0
+2021-10-24,2121,SWE,Hammarby,Ostersunds,4,3
+2021-10-24,2121,SWE,Mjallby,Goteborg,1,3
+2021-10-24,2121,SWE,Varberg,Malmo FF,1,1
+2021-10-25,2121,SWE,Orebro,Degerfors,1,2
+2021-10-27,2121,SWE,Kalmar,Varberg,2,2
+2021-10-27,2121,SWE,Malmo FF,AIK,1,0
+2021-10-27,2121,SWE,Ostersunds,Hacken,1,1
+2021-10-27,2121,SWE,Sirius,Hammarby,0,1
+2021-10-28,2121,SWE,Degerfors,Elfsborg,1,2
+2021-10-28,2121,SWE,Goteborg,Djurgarden,3,0
+2021-10-28,2121,SWE,Halmstad,Orebro,1,1
+2021-10-28,2121,SWE,Norrkoping,Mjallby,2,2
+2021-10-30,2121,SWE,Hacken,Kalmar,1,4
+2021-10-30,2121,SWE,Sirius,Malmo FF,2,3
+2021-10-30,2121,SWE,Varberg,Ostersunds,3,0
+2021-10-31,2121,SWE,Norrkoping,Elfsborg,3,2
+2021-10-31,2121,SWE,Orebro,Djurgarden,0,1
+2021-11-01,2121,SWE,Degerfors,Goteborg,0,1
+2021-11-01,2121,SWE,Halmstad,AIK,1,0
+2021-11-01,2121,SWE,Mjallby,Hammarby,2,0
+2021-11-06,2121,SWE,Djurgarden,Halmstad,1,0
+2021-11-06,2121,SWE,Elfsborg,Varberg,0,0
+2021-11-06,2121,SWE,Mjallby,Sirius,2,3
+2021-11-07,2121,SWE,AIK,Ostersunds,3,0
+2021-11-07,2121,SWE,Goteborg,Malmo FF,0,2
+2021-11-07,2121,SWE,Hacken,Degerfors,2,0
+2021-11-07,2121,SWE,Hammarby,Orebro,3,2
+2021-11-07,2121,SWE,Kalmar,Norrkoping,1,0
+2021-11-20,2121,SWE,Malmo FF,Hacken,2,2
+2021-11-21,2121,SWE,Degerfors,Hammarby,1,4
+2021-11-21,2121,SWE,Halmstad,Elfsborg,0,1
+2021-11-21,2121,SWE,Sirius,Goteborg,3,3
+2021-11-21,2121,SWE,Varberg,AIK,0,1
+2021-11-22,2121,SWE,Norrkoping,Djurgarden,1,1
+2021-11-22,2121,SWE,Orebro,Kalmar,1,2
+2021-11-22,2121,SWE,Ostersunds,Mjallby,0,2
+2021-11-28,2121,SWE,Degerfors,Norrkoping,4,1
+2021-11-28,2121,SWE,Djurgarden,Varberg,2,3
+2021-11-28,2121,SWE,Goteborg,Ostersunds,4,0
+2021-11-28,2121,SWE,Halmstad,Hammarby,0,0
+2021-11-28,2121,SWE,Kalmar,Malmo FF,0,1
+2021-11-29,2121,SWE,Elfsborg,AIK,2,4
+2021-11-29,2121,SWE,Mjallby,Orebro,0,0
+2021-11-29,2121,SWE,Sirius,Hacken,3,0
+2021-12-04,2121,SWE,AIK,Sirius,4,2
+2021-12-04,2121,SWE,Hacken,Djurgarden,0,1
+2021-12-04,2121,SWE,Hammarby,Kalmar,5,3
+2021-12-04,2121,SWE,Malmo FF,Halmstad,0,0
+2021-12-04,2121,SWE,Norrkoping,Goteborg,1,2
+2021-12-04,2121,SWE,Orebro,Elfsborg,2,3
+2021-12-04,2121,SWE,Ostersunds,Degerfors,0,1
+2021-12-04,2121,SWE,Varberg,Mjallby,0,3
+2021-12-11,2121,SWE,Helsingborg,Halmstad,0,1
+2021-12-14,2121,SWE,Halmstad,Helsingborg,1,3
+2022-04-02,2222,SWE,Hacken,AIK,4,2
+2022-04-02,2222,SWE,Hammarby,Helsingborg,2,1
+2022-04-03,2222,SWE,Goteborg,Varnamo,2,1
+2022-04-03,2222,SWE,Kalmar,Malmo FF,0,1
+2022-04-03,2222,SWE,Norrkoping,Varberg,0,1
+2022-04-03,2222,SWE,Sirius,Sundsvall,2,1
+2022-04-04,2222,SWE,Djurgarden,Degerfors,3,1
+2022-04-04,2222,SWE,Elfsborg,Mjallby,0,2
+2022-04-09,2222,SWE,Degerfors,Hacken,1,2
+2022-04-09,2222,SWE,Sundsvall,Hammarby,1,5
+2022-04-10,2222,SWE,AIK,Norrkoping,1,0
+2022-04-10,2222,SWE,Helsingborg,Goteborg,0,1
+2022-04-10,2222,SWE,Mjallby,Djurgarden,1,0
+2022-04-10,2222,SWE,Varberg,Kalmar,0,3
+2022-04-11,2222,SWE,Malmo FF,Elfsborg,1,1
+2022-04-11,2222,SWE,Varnamo,Sirius,0,0
+2022-04-15,2222,SWE,Hammarby,Mjallby,2,0
+2022-04-16,2222,SWE,Djurgarden,Norrkoping,2,1
+2022-04-16,2222,SWE,Varberg,Sundsvall,2,0
+2022-04-17,2222,SWE,Elfsborg,Varnamo,4,1
+2022-04-17,2222,SWE,Hacken,Goteborg,0,2
+2022-04-17,2222,SWE,Kalmar,Degerfors,2,0
+2022-04-17,2222,SWE,Malmo FF,AIK,3,0
+2022-04-17,2222,SWE,Sirius,Helsingborg,1,0
+2022-04-20,2222,SWE,AIK,Varberg,1,0
+2022-04-20,2222,SWE,Goteborg,Djurgarden,1,1
+2022-04-20,2222,SWE,Mjallby,Sirius,3,0
+2022-04-20,2222,SWE,Norrkoping,Hacken,1,1
+2022-04-20,2222,SWE,Sundsvall,Kalmar,1,0
+2022-04-21,2222,SWE,Degerfors,Hammarby,0,1
+2022-04-21,2222,SWE,Helsingborg,Elfsborg,1,0
+2022-04-21,2222,SWE,Varnamo,Malmo FF,0,0
+2022-04-24,2222,SWE,AIK,Djurgarden,1,0
+2022-04-24,2222,SWE,Helsingborg,Hacken,1,1
+2022-04-24,2222,SWE,Varberg,Mjallby,0,0
+2022-04-25,2222,SWE,Elfsborg,Sundsvall,3,1
+2022-04-25,2222,SWE,Malmo FF,Goteborg,1,0
+2022-04-25,2222,SWE,Sirius,Hammarby,0,3
+2022-04-25,2222,SWE,Varnamo,Degerfors,2,0
+2022-04-26,2222,SWE,Kalmar,Norrkoping,1,2
+2022-04-30,2222,SWE,Djurgarden,Sirius,4,0
+2022-05-01,2222,SWE,Degerfors,Elfsborg,0,6
+2022-05-01,2222,SWE,Hacken,Varberg,3,1
+2022-05-01,2222,SWE,Mjallby,Helsingborg,2,1
+2022-05-01,2222,SWE,Sundsvall,AIK,0,2
+2022-05-02,2222,SWE,Goteborg,Kalmar,1,2
+2022-05-02,2222,SWE,Hammarby,Malmo FF,0,0
+2022-05-02,2222,SWE,Norrkoping,Varnamo,2,0
+2022-05-05,2222,SWE,Djurgarden,Helsingborg,2,2
+2022-05-07,2222,SWE,AIK,Goteborg,1,0
+2022-05-07,2222,SWE,Malmo FF,Mjallby,2,0
+2022-05-08,2222,SWE,Kalmar,Hammarby,2,0
+2022-05-08,2222,SWE,Varberg,Sirius,0,2
+2022-05-09,2222,SWE,Elfsborg,Djurgarden,0,0
+2022-05-09,2222,SWE,Helsingborg,Norrkoping,0,1
+2022-05-09,2222,SWE,Sundsvall,Degerfors,2,3
+2022-05-09,2222,SWE,Varnamo,Hacken,1,2
+2022-05-11,2222,SWE,AIK,Malmo FF,2,0
+2022-05-14,2222,SWE,Mjallby,Varnamo,1,1
+2022-05-14,2222,SWE,Sirius,Elfsborg,2,0
+2022-05-15,2222,SWE,Degerfors,Helsingborg,2,1
+2022-05-15,2222,SWE,Goteborg,Varberg,1,1
+2022-05-15,2222,SWE,Hacken,Kalmar,3,1
+2022-05-15,2222,SWE,Hammarby,AIK,3,3
+2022-05-15,2222,SWE,Norrkoping,Sundsvall,5,1
+2022-05-16,2222,SWE,Djurgarden,Malmo FF,4,0
+2022-05-21,2222,SWE,AIK,Sirius,2,2
+2022-05-21,2222,SWE,Helsingborg,Varnamo,1,4
+2022-05-22,2222,SWE,Elfsborg,Goteborg,3,1
+2022-05-22,2222,SWE,Hammarby,Norrkoping,3,0
+2022-05-22,2222,SWE,Kalmar,Djurgarden,1,0
+2022-05-22,2222,SWE,Malmo FF,Hacken,1,2
+2022-05-22,2222,SWE,Varberg,Degerfors,2,1
+2022-05-23,2222,SWE,Sundsvall,Mjallby,2,0
+2022-05-28,2222,SWE,Goteborg,Sundsvall,2,0
+2022-05-28,2222,SWE,Hacken,Sirius,4,3
+2022-05-28,2222,SWE,Mjallby,Kalmar,1,1
+2022-05-29,2222,SWE,Degerfors,Malmo FF,0,2
+2022-05-29,2222,SWE,Djurgarden,Varberg,4,0
+2022-05-29,2222,SWE,Helsingborg,AIK,1,2
+2022-05-29,2222,SWE,Norrkoping,Elfsborg,2,2
+2022-05-29,2222,SWE,Varnamo,Hammarby,1,0
+2022-06-26,2222,SWE,Degerfors,AIK,1,1
+2022-06-26,2222,SWE,Hammarby,Hacken,2,2
+2022-06-26,2222,SWE,Mjallby,Norrkoping,1,1
+2022-06-26,2222,SWE,Sundsvall,Djurgarden,2,5
+2022-06-27,2222,SWE,Elfsborg,Varberg,4,1
+2022-06-27,2222,SWE,Kalmar,Varnamo,1,0
+2022-06-27,2222,SWE,Malmo FF,Helsingborg,2,1
+2022-06-27,2222,SWE,Sirius,Goteborg,1,2
+2022-07-01,2222,SWE,Sundsvall,Malmo FF,2,1
+2022-07-02,2222,SWE,AIK,Mjallby,0,1
+2022-07-02,2222,SWE,Helsingborg,Kalmar,1,1
+2022-07-03,2222,SWE,Djurgarden,Hammarby,1,0
+2022-07-03,2222,SWE,Hacken,Elfsborg,1,1
+2022-07-03,2222,SWE,Norrkoping,Sirius,0,1
+2022-07-03,2222,SWE,Varberg,Varnamo,3,0
+2022-07-04,2222,SWE,Goteborg,Degerfors,2,0
+2022-07-09,2222,SWE,Degerfors,Norrkoping,1,1
+2022-07-09,2222,SWE,Malmo FF,Varberg,3,0
+2022-07-10,2222,SWE,Elfsborg,AIK,2,2
+2022-07-10,2222,SWE,Kalmar,Sirius,1,1
+2022-07-10,2222,SWE,Mjallby,Hacken,1,2
+2022-07-11,2222,SWE,Hammarby,Goteborg,3,0
+2022-07-11,2222,SWE,Helsingborg,Djurgarden,0,2
+2022-07-11,2222,SWE,Varnamo,Sundsvall,1,1
+2022-07-16,2222,SWE,Djurgarden,Varnamo,5,0
+2022-07-16,2222,SWE,Norrkoping,Malmo FF,0,2
+2022-07-17,2222,SWE,AIK,Kalmar,1,0
+2022-07-17,2222,SWE,Goteborg,Mjallby,1,1
+2022-07-17,2222,SWE,Hammarby,Elfsborg,3,0
+2022-07-17,2222,SWE,Sirius,Degerfors,2,0
+2022-07-18,2222,SWE,Sundsvall,Hacken,1,5
+2022-07-18,2222,SWE,Varberg,Helsingborg,0,0
+2022-07-23,2222,SWE,Malmo FF,Sirius,3,1
+2022-07-23,2222,SWE,Mjallby,Degerfors,2,1
+2022-07-24,2222,SWE,Hacken,Djurgarden,1,2
+2022-07-24,2222,SWE,Helsingborg,Sundsvall,1,0
+2022-07-24,2222,SWE,Kalmar,Elfsborg,1,0
+2022-07-24,2222,SWE,Varnamo,AIK,2,3
+2022-07-25,2222,SWE,Norrkoping,Goteborg,0,2
+2022-07-25,2222,SWE,Varberg,Hammarby,0,3
+2022-07-30,2222,SWE,Degerfors,Kalmar,2,1
+2022-07-30,2222,SWE,Sundsvall,Varberg,1,3
+2022-07-31,2222,SWE,Elfsborg,Hacken,4,4
+2022-07-31,2222,SWE,Hammarby,Varnamo,1,2
+2022-07-31,2222,SWE,Sirius,Mjallby,0,1
+2022-08-01,2222,SWE,Goteborg,Norrkoping,2,0
+2022-08-06,2222,SWE,Norrkoping,Degerfors,2,0
+2022-08-07,2222,SWE,Hammarby,Sundsvall,3,0
+2022-08-07,2222,SWE,Kalmar,AIK,1,0
+2022-08-07,2222,SWE,Mjallby,Elfsborg,1,1
+2022-08-07,2222,SWE,Sirius,Malmo FF,2,1
+2022-08-07,2222,SWE,Varnamo,Djurgarden,0,0
+2022-08-08,2222,SWE,Hacken,Helsingborg,5,0
+2022-08-08,2222,SWE,Varberg,Goteborg,0,4
+2022-08-13,2222,SWE,Helsingborg,Sirius,0,0
+2022-08-14,2222,SWE,AIK,Varnamo,2,2
+2022-08-14,2222,SWE,Degerfors,Varberg,1,1
+2022-08-14,2222,SWE,Djurgarden,Kalmar,3,2
+2022-08-14,2222,SWE,Elfsborg,Norrkoping,1,1
+2022-08-14,2222,SWE,Malmo FF,Sundsvall,3,1
+2022-08-15,2222,SWE,Goteborg,Hammarby,0,1
+2022-08-15,2222,SWE,Hacken,Mjallby,1,0
+2022-08-20,2222,SWE,Varberg,Djurgarden,2,2
+2022-08-21,2222,SWE,Mjallby,Malmo FF,1,1
+2022-08-21,2222,SWE,Norrkoping,AIK,2,4
+2022-08-21,2222,SWE,Sundsvall,Helsingborg,1,2
+2022-08-21,2222,SWE,Varnamo,Elfsborg,1,1
+2022-08-22,2222,SWE,Hammarby,Degerfors,5,1
+2022-08-22,2222,SWE,Kalmar,Goteborg,1,0
+2022-08-22,2222,SWE,Sirius,Hacken,0,1
+2022-08-27,2222,SWE,Degerfors,Sundsvall,3,1
+2022-08-27,2222,SWE,Hacken,Varnamo,4,1
+2022-08-28,2222,SWE,AIK,Hammarby,2,2
+2022-08-28,2222,SWE,Goteborg,Sirius,2,0
+2022-08-28,2222,SWE,Helsingborg,Mjallby,0,1
+2022-08-28,2222,SWE,Malmo FF,Kalmar,0,1
+2022-08-28,2222,SWE,Varberg,Norrkoping,1,1
+2022-08-29,2222,SWE,Djurgarden,Elfsborg,2,1
+2022-09-04,2222,SWE,AIK,Sundsvall,4,0
+2022-09-04,2222,SWE,Elfsborg,Malmo FF,3,2
+2022-09-04,2222,SWE,Hacken,Degerfors,2,2
+2022-09-04,2222,SWE,Sirius,Djurgarden,0,1
+2022-09-05,2222,SWE,Kalmar,Varberg,1,0
+2022-09-05,2222,SWE,Mjallby,Goteborg,1,4
+2022-09-05,2222,SWE,Norrkoping,Hammarby,4,1
+2022-09-05,2222,SWE,Varnamo,Helsingborg,3,2
+2022-09-10,2222,SWE,Degerfors,Mjallby,0,0
+2022-09-10,2222,SWE,Sirius,Varnamo,2,3
+2022-09-11,2222,SWE,Hammarby,Djurgarden,0,0
+2022-09-11,2222,SWE,Malmo FF,Norrkoping,2,1
+2022-09-11,2222,SWE,Sundsvall,Elfsborg,0,2
+2022-09-11,2222,SWE,Varberg,AIK,2,0
+2022-09-12,2222,SWE,Goteborg,Helsingborg,1,3
+2022-09-12,2222,SWE,Kalmar,Hacken,1,1
+2022-09-17,2222,SWE,Hacken,Hammarby,1,1
+2022-09-17,2222,SWE,Norrkoping,Kalmar,2,2
+2022-09-17,2222,SWE,Varnamo,Varberg,1,0
+2022-09-18,2222,SWE,AIK,Degerfors,1,1
+2022-09-18,2222,SWE,Djurgarden,Goteborg,3,0
+2022-09-18,2222,SWE,Elfsborg,Sirius,3,0
+2022-09-18,2222,SWE,Helsingborg,Malmo FF,1,2
+2022-09-18,2222,SWE,Mjallby,Sundsvall,1,1
+2022-10-01,2222,SWE,Degerfors,Djurgarden,3,0
+2022-10-01,2222,SWE,Malmo FF,Hammarby,0,0
+2022-10-02,2222,SWE,Kalmar,Helsingborg,2,0
+2022-10-02,2222,SWE,Sirius,AIK,1,1
+2022-10-02,2222,SWE,Sundsvall,Norrkoping,1,3
+2022-10-02,2222,SWE,Varberg,Hacken,1,1
+2022-10-03,2222,SWE,Goteborg,Elfsborg,1,3
+2022-10-03,2222,SWE,Varnamo,Mjallby,2,1
+2022-10-08,2222,SWE,Degerfors,Sirius,0,0
+2022-10-09,2222,SWE,AIK,Helsingborg,2,0
+2022-10-09,2222,SWE,Djurgarden,Hacken,0,1
+2022-10-09,2222,SWE,Elfsborg,Kalmar,0,2
+2022-10-09,2222,SWE,Malmo FF,Varnamo,0,0
+2022-10-09,2222,SWE,Sundsvall,Goteborg,3,2
+2022-10-10,2222,SWE,Hammarby,Varberg,5,1
+2022-10-10,2222,SWE,Norrkoping,Mjallby,2,2
+2022-10-14,2222,SWE,Elfsborg,Degerfors,1,1
+2022-10-15,2222,SWE,Hacken,Sundsvall,4,1
+2022-10-15,2222,SWE,Helsingborg,Varberg,1,3
+2022-10-15,2222,SWE,Sirius,Norrkoping,2,0
+2022-10-15,2222,SWE,Varnamo,Kalmar,1,3
+2022-10-16,2222,SWE,Djurgarden,AIK,1,2
+2022-10-16,2222,SWE,Mjallby,Hammarby,0,3
+2022-10-17,2222,SWE,Goteborg,Malmo FF,2,1
+2022-10-19,2222,SWE,AIK,Hacken,1,2
+2022-10-19,2222,SWE,Norrkoping,Helsingborg,2,0
+2022-10-19,2222,SWE,Sundsvall,Varnamo,1,2
+2022-10-19,2222,SWE,Varberg,Elfsborg,0,3
+2022-10-20,2222,SWE,Degerfors,Goteborg,3,1
+2022-10-20,2222,SWE,Hammarby,Sirius,1,1
+2022-10-20,2222,SWE,Kalmar,Mjallby,1,2
+2022-10-20,2222,SWE,Malmo FF,Djurgarden,2,3
+2022-10-23,2222,SWE,Elfsborg,Hammarby,2,1
+2022-10-23,2222,SWE,Hacken,Malmo FF,2,1
+2022-10-23,2222,SWE,Helsingborg,Degerfors,1,2
+2022-10-24,2222,SWE,Djurgarden,Sundsvall,4,0
+2022-10-24,2222,SWE,Goteborg,AIK,1,0
+2022-10-24,2222,SWE,Mjallby,Varberg,4,1
+2022-10-24,2222,SWE,Sirius,Kalmar,0,0
+2022-10-24,2222,SWE,Varnamo,Norrkoping,1,1
+2022-10-29,2222,SWE,Degerfors,Varnamo,0,0
+2022-10-30,2222,SWE,Goteborg,Hacken,0,4
+2022-10-30,2222,SWE,Hammarby,Kalmar,4,2
+2022-10-30,2222,SWE,Mjallby,AIK,1,2
+2022-10-30,2222,SWE,Sundsvall,Sirius,2,3
+2022-10-30,2222,SWE,Varberg,Malmo FF,2,5
+2022-10-31,2222,SWE,Elfsborg,Helsingborg,3,0
+2022-10-31,2222,SWE,Norrkoping,Djurgarden,0,1
+2022-11-06,2222,SWE,AIK,Elfsborg,0,1
+2022-11-06,2222,SWE,Djurgarden,Mjallby,0,1
+2022-11-06,2222,SWE,Hacken,Norrkoping,3,3
+2022-11-06,2222,SWE,Helsingborg,Hammarby,0,2
+2022-11-06,2222,SWE,Kalmar,Sundsvall,4,0
+2022-11-06,2222,SWE,Malmo FF,Degerfors,2,2
+2022-11-06,2222,SWE,Sirius,Varberg,2,3
+2022-11-06,2222,SWE,Varnamo,Goteborg,1,4
+2022-11-10,2222,SWE,Osters,Varberg,1,2
+2022-11-13,2222,SWE,Varberg,Osters,2,1
+2023-04-01,2323,SWE,Djurgarden,Brommapojkarna,3,1
+2023-04-01,2323,SWE,Malmo FF,Kalmar,1,0
+2023-04-02,2323,SWE,Goteborg,Varnamo,0,1
+2023-04-02,2323,SWE,Halmstad,AIK,2,1
+2023-04-02,2323,SWE,Hammarby,Degerfors,3,1
+2023-04-02,2323,SWE,Norrkoping,Sirius,1,1
+2023-04-03,2323,SWE,Elfsborg,Hacken,0,2
+2023-04-03,2323,SWE,Mjallby,Varberg,2,2
+2023-04-08,2323,SWE,Brommapojkarna,Malmo FF,1,2
+2023-04-08,2323,SWE,Degerfors,Halmstad,3,1
+2023-04-09,2323,SWE,Hacken,Hammarby,3,1
+2023-04-09,2323,SWE,Kalmar,Goteborg,2,0
+2023-04-09,2323,SWE,Sirius,Djurgarden,0,0
+2023-04-10,2323,SWE,AIK,Norrkoping,0,3
+2023-04-10,2323,SWE,Varberg,Elfsborg,0,0
+2023-04-10,2323,SWE,Varnamo,Mjallby,0,1
+2023-04-15,2323,SWE,Elfsborg,Brommapojkarna,5,0
+2023-04-15,2323,SWE,Hacken,Kalmar,1,3
+2023-04-16,2323,SWE,AIK,Hammarby,2,0
+2023-04-16,2323,SWE,Halmstad,Djurgarden,2,0
+2023-04-16,2323,SWE,Mjallby,Degerfors,2,0
+2023-04-16,2323,SWE,Norrkoping,Varnamo,2,1
+2023-04-17,2323,SWE,Goteborg,Malmo FF,0,1
+2023-04-17,2323,SWE,Varberg,Sirius,1,1
+2023-04-22,2323,SWE,Degerfors,Elfsborg,1,2
+2023-04-22,2323,SWE,Hammarby,Varberg,2,0
+2023-04-23,2323,SWE,Djurgarden,Goteborg,1,0
+2023-04-23,2323,SWE,Kalmar,Halmstad,2,0
+2023-04-23,2323,SWE,Sirius,Hacken,1,4
+2023-04-24,2323,SWE,Brommapojkarna,Mjallby,2,0
+2023-04-24,2323,SWE,Malmo FF,Norrkoping,3,0
+2023-04-24,2323,SWE,Varnamo,AIK,1,0
+2023-04-29,2323,SWE,AIK,Sirius,0,0
+2023-04-29,2323,SWE,Hacken,Varnamo,3,1
+2023-04-29,2323,SWE,Halmstad,Brommapojkarna,0,2
+2023-04-29,2323,SWE,Mjallby,Elfsborg,0,1
+2023-04-30,2323,SWE,Degerfors,Djurgarden,2,1
+2023-04-30,2323,SWE,Malmo FF,Hammarby,4,2
+2023-04-30,2323,SWE,Varberg,Kalmar,0,0
+2023-05-01,2323,SWE,Goteborg,Norrkoping,1,1
+2023-05-03,2323,SWE,Elfsborg,Halmstad,6,1
+2023-05-03,2323,SWE,Hacken,Djurgarden,4,1
+2023-05-03,2323,SWE,Kalmar,Sirius,2,2
+2023-05-03,2323,SWE,Mjallby,AIK,0,0
+2023-05-04,2323,SWE,Goteborg,Degerfors,6,0
+2023-05-04,2323,SWE,Norrkoping,Hammarby,2,0
+2023-05-04,2323,SWE,Varberg,Malmo FF,0,6
+2023-05-04,2323,SWE,Varnamo,Brommapojkarna,0,1
+2023-05-07,2323,SWE,Halmstad,Hacken,1,0
+2023-05-07,2323,SWE,Malmo FF,AIK,3,1
+2023-05-08,2323,SWE,Brommapojkarna,Goteborg,0,0
+2023-05-08,2323,SWE,Degerfors,Norrkoping,0,2
+2023-05-08,2323,SWE,Djurgarden,Kalmar,3,1
+2023-05-08,2323,SWE,Sirius,Elfsborg,3,4
+2023-05-09,2323,SWE,Hammarby,Mjallby,0,0
+2023-05-09,2323,SWE,Varnamo,Varberg,3,1
+2023-05-13,2323,SWE,Hacken,Degerfors,6,1
+2023-05-13,2323,SWE,Varberg,Norrkoping,1,3
+2023-05-14,2323,SWE,Elfsborg,Varnamo,2,0
+2023-05-14,2323,SWE,Halmstad,Malmo FF,0,1
+2023-05-14,2323,SWE,Hammarby,Djurgarden,4,3
+2023-05-14,2323,SWE,Kalmar,Brommapojkarna,1,3
+2023-05-14,2323,SWE,Mjallby,Sirius,3,0
+2023-05-15,2323,SWE,AIK,Goteborg,2,2
+2023-05-20,2323,SWE,Degerfors,AIK,2,1
+2023-05-21,2323,SWE,Brommapojkarna,Varberg,2,1
+2023-05-21,2323,SWE,Djurgarden,Mjallby,2,0
+2023-05-21,2323,SWE,Goteborg,Hammarby,1,1
+2023-05-21,2323,SWE,Malmo FF,Hacken,2,2
+2023-05-21,2323,SWE,Sirius,Halmstad,1,2
+2023-05-22,2323,SWE,Norrkoping,Elfsborg,1,2
+2023-05-22,2323,SWE,Varnamo,Kalmar,0,1
+2023-05-24,2323,SWE,Djurgarden,Hacken,1,0
+2023-05-25,2323,SWE,Degerfors,Hammarby,2,2
+2023-05-27,2323,SWE,Brommapojkarna,Sirius,1,2
+2023-05-27,2323,SWE,Mjallby,Halmstad,0,2
+2023-05-28,2323,SWE,Djurgarden,AIK,1,0
+2023-05-28,2323,SWE,Elfsborg,Malmo FF,3,0
+2023-05-28,2323,SWE,Kalmar,Norrkoping,2,1
+2023-05-29,2323,SWE,Degerfors,Varberg,1,1
+2023-05-29,2323,SWE,Hacken,Goteborg,4,1
+2023-05-29,2323,SWE,Hammarby,Varnamo,0,2
+2023-06-03,2323,SWE,Goteborg,Mjallby,0,1
+2023-06-03,2323,SWE,Norrkoping,Brommapojkarna,0,2
+2023-06-04,2323,SWE,AIK,Kalmar,1,1
+2023-06-04,2323,SWE,Elfsborg,Djurgarden,1,1
+2023-06-04,2323,SWE,Halmstad,Hammarby,0,0
+2023-06-04,2323,SWE,Sirius,Varnamo,2,0
+2023-06-05,2323,SWE,Malmo FF,Degerfors,5,0
+2023-06-05,2323,SWE,Varberg,Hacken,0,2
+2023-06-09,2323,SWE,Hammarby,Brommapojkarna,2,1
+2023-06-10,2323,SWE,Kalmar,Degerfors,2,1
+2023-06-10,2323,SWE,Varberg,Halmstad,1,2
+2023-06-10,2323,SWE,Varnamo,Malmo FF,1,3
+2023-06-11,2323,SWE,AIK,Elfsborg,1,2
+2023-06-11,2323,SWE,Djurgarden,Norrkoping,2,2
+2023-06-11,2323,SWE,Hacken,Mjallby,3,0
+2023-06-11,2323,SWE,Sirius,Goteborg,2,0
+2023-07-01,2323,SWE,Brommapojkarna,AIK,0,2
+2023-07-01,2323,SWE,Degerfors,Varnamo,0,2
+2023-07-01,2323,SWE,Malmo FF,Sirius,3,0
+2023-07-02,2323,SWE,Djurgarden,Varberg,2,0
+2023-07-02,2323,SWE,Halmstad,Goteborg,0,0
+2023-07-02,2323,SWE,Norrkoping,Hacken,2,2
+2023-07-03,2323,SWE,Elfsborg,Hammarby,2,0
+2023-07-03,2323,SWE,Mjallby,Kalmar,1,1
+2023-07-08,2323,SWE,AIK,Hacken,1,2
+2023-07-08,2323,SWE,Brommapojkarna,Degerfors,1,2
+2023-07-08,2323,SWE,Varnamo,Djurgarden,1,2
+2023-07-09,2323,SWE,Kalmar,Elfsborg,0,4
+2023-07-09,2323,SWE,Malmo FF,Mjallby,1,2
+2023-07-09,2323,SWE,Sirius,Hammarby,1,2
+2023-07-10,2323,SWE,Goteborg,Varberg,1,2
+2023-07-10,2323,SWE,Norrkoping,Halmstad,1,2
+2023-07-15,2323,SWE,Degerfors,Sirius,0,3
+2023-07-15,2323,SWE,Hacken,Brommapojkarna,4,2
+2023-07-15,2323,SWE,Halmstad,Varnamo,2,2
+2023-07-16,2323,SWE,Elfsborg,Goteborg,1,1
+2023-07-16,2323,SWE,Hammarby,Kalmar,3,1
+2023-07-16,2323,SWE,Mjallby,Norrkoping,1,2
+2023-07-17,2323,SWE,Djurgarden,Malmo FF,2,0
+2023-07-17,2323,SWE,Varberg,AIK,1,2
+2023-07-21,2323,SWE,Brommapojkarna,Hammarby,1,0
+2023-07-22,2323,SWE,Djurgarden,Elfsborg,0,4
+2023-07-22,2323,SWE,Varnamo,Hacken,1,0
+2023-07-23,2323,SWE,AIK,Malmo FF,0,0
+2023-07-23,2323,SWE,Goteborg,Halmstad,0,0
+2023-07-23,2323,SWE,Kalmar,Varberg,1,0
+2023-07-23,2323,SWE,Norrkoping,Degerfors,1,0
+2023-07-24,2323,SWE,Sirius,Mjallby,2,3
+2023-07-29,2323,SWE,Degerfors,Brommapojkarna,2,0
+2023-07-29,2323,SWE,Hacken,Elfsborg,3,1
+2023-07-29,2323,SWE,Halmstad,Varberg,0,5
+2023-07-30,2323,SWE,Goteborg,Kalmar,2,0
+2023-07-30,2323,SWE,Hammarby,Norrkoping,2,1
+2023-07-30,2323,SWE,Mjallby,Djurgarden,0,1
+2023-07-31,2323,SWE,Malmo FF,Varnamo,3,1
+2023-07-31,2323,SWE,Sirius,AIK,0,1
+2023-08-05,2323,SWE,Brommapojkarna,Varnamo,0,2
+2023-08-06,2323,SWE,Elfsborg,Sirius,1,0
+2023-08-06,2323,SWE,Kalmar,AIK,1,1
+2023-08-07,2323,SWE,Malmo FF,Halmstad,3,0
+2023-08-07,2323,SWE,Norrkoping,Goteborg,3,0
+2023-08-07,2323,SWE,Varberg,Mjallby,0,3
+2023-08-12,2323,SWE,AIK,Brommapojkarna,2,2
+2023-08-13,2323,SWE,Goteborg,Djurgarden,2,1
+2023-08-13,2323,SWE,Hacken,Varberg,2,0
+2023-08-13,2323,SWE,Halmstad,Norrkoping,1,3
+2023-08-13,2323,SWE,Hammarby,Elfsborg,1,0
+2023-08-13,2323,SWE,Sirius,Kalmar,3,0
+2023-08-14,2323,SWE,Mjallby,Malmo FF,1,0
+2023-08-14,2323,SWE,Varnamo,Degerfors,0,1
+2023-08-19,2323,SWE,Brommapojkarna,Halmstad,3,1
+2023-08-19,2323,SWE,Degerfors,Goteborg,1,2
+2023-08-19,2323,SWE,Varberg,Varnamo,0,3
+2023-08-20,2323,SWE,Elfsborg,Mjallby,2,0
+2023-08-20,2323,SWE,Hacken,Sirius,3,2
+2023-08-20,2323,SWE,Kalmar,Hammarby,0,0
+2023-08-20,2323,SWE,Malmo FF,Djurgarden,0,0
+2023-08-21,2323,SWE,Norrkoping,AIK,3,1
+2023-08-27,2323,SWE,Brommapojkarna,Kalmar,2,3
+2023-08-27,2323,SWE,Djurgarden,Degerfors,4,1
+2023-08-27,2323,SWE,Goteborg,Hacken,4,2
+2023-08-27,2323,SWE,Mjallby,Hammarby,0,3
+2023-08-27,2323,SWE,Varnamo,Halmstad,0,0
+2023-08-28,2323,SWE,AIK,Varberg,3,0
+2023-08-28,2323,SWE,Elfsborg,Norrkoping,3,2
+2023-08-28,2323,SWE,Sirius,Malmo FF,1,3
+2023-09-02,2323,SWE,Halmstad,Sirius,2,1
+2023-09-02,2323,SWE,Varnamo,Elfsborg,1,0
+2023-09-03,2323,SWE,Degerfors,Hacken,1,0
+2023-09-03,2323,SWE,Hammarby,AIK,4,2
+2023-09-03,2323,SWE,Kalmar,Mjallby,0,2
+2023-09-03,2323,SWE,Malmo FF,Goteborg,2,2
+2023-09-03,2323,SWE,Norrkoping,Djurgarden,0,2
+2023-09-03,2323,SWE,Varberg,Brommapojkarna,4,3
+2023-09-16,2323,SWE,Djurgarden,Varnamo,1,2
+2023-09-16,2323,SWE,Goteborg,Brommapojkarna,1,0
+2023-09-16,2323,SWE,Sirius,Varberg,7,0
+2023-09-17,2323,SWE,Elfsborg,Kalmar,0,3
+2023-09-17,2323,SWE,Hacken,Halmstad,3,2
+2023-09-17,2323,SWE,Hammarby,Malmo FF,1,3
+2023-09-18,2323,SWE,AIK,Degerfors,2,0
+2023-09-18,2323,SWE,Norrkoping,Mjallby,0,2
+2023-09-23,2323,SWE,Brommapojkarna,Norrkoping,2,2
+2023-09-23,2323,SWE,Degerfors,Malmo FF,1,2
+2023-09-24,2323,SWE,AIK,Djurgarden,2,0
+2023-09-24,2323,SWE,Kalmar,Hacken,1,0
+2023-09-24,2323,SWE,Mjallby,Goteborg,0,1
+2023-09-24,2323,SWE,Varberg,Hammarby,0,1
+2023-09-25,2323,SWE,Halmstad,Elfsborg,0,1
+2023-09-25,2323,SWE,Varnamo,Sirius,0,1
+2023-09-30,2323,SWE,Djurgarden,Halmstad,1,0
+2023-09-30,2323,SWE,Norrkoping,Kalmar,1,0
+2023-10-01,2323,SWE,Hacken,AIK,2,0
+2023-10-01,2323,SWE,Hammarby,Goteborg,1,1
+2023-10-01,2323,SWE,Mjallby,Varnamo,2,3
+2023-10-01,2323,SWE,Sirius,Degerfors,3,2
+2023-10-02,2323,SWE,Elfsborg,Varberg,2,1
+2023-10-02,2323,SWE,Malmo FF,Brommapojkarna,2,1
+2023-10-07,2323,SWE,AIK,Mjallby,1,0
+2023-10-07,2323,SWE,Goteborg,Sirius,0,1
+2023-10-07,2323,SWE,Halmstad,Degerfors,0,0
+2023-10-08,2323,SWE,Brommapojkarna,Elfsborg,0,3
+2023-10-08,2323,SWE,Hammarby,Hacken,2,2
+2023-10-08,2323,SWE,Kalmar,Malmo FF,1,0
+2023-10-08,2323,SWE,Varberg,Djurgarden,0,1
+2023-10-08,2323,SWE,Varnamo,Norrkoping,2,1
+2023-10-21,2323,SWE,Degerfors,Kalmar,1,3
+2023-10-21,2323,SWE,Sirius,Brommapojkarna,3,2
+2023-10-22,2323,SWE,Djurgarden,Hammarby,0,0
+2023-10-22,2323,SWE,Hacken,Norrkoping,4,1
+2023-10-22,2323,SWE,Halmstad,Mjallby,1,1
+2023-10-22,2323,SWE,Malmo FF,Varberg,5,0
+2023-10-23,2323,SWE,Elfsborg,AIK,3,0
+2023-10-23,2323,SWE,Varnamo,Goteborg,3,1
+2023-10-28,2323,SWE,Brommapojkarna,Djurgarden,1,2
+2023-10-28,2323,SWE,Varberg,Degerfors,1,1
+2023-10-29,2323,SWE,AIK,Halmstad,1,1
+2023-10-29,2323,SWE,Kalmar,Varnamo,1,3
+2023-10-29,2323,SWE,Mjallby,Hacken,2,1
+2023-10-29,2323,SWE,Norrkoping,Malmo FF,0,1
+2023-10-30,2323,SWE,Goteborg,Elfsborg,1,2
+2023-10-30,2323,SWE,Hammarby,Sirius,2,2
+2023-11-04,2323,SWE,Djurgarden,Sirius,2,4
+2023-11-04,2323,SWE,Varnamo,Hammarby,0,0
+2023-11-05,2323,SWE,Elfsborg,Degerfors,2,2
+2023-11-05,2323,SWE,Hacken,Malmo FF,4,2
+2023-11-05,2323,SWE,Halmstad,Kalmar,3,0
+2023-11-05,2323,SWE,Mjallby,Brommapojkarna,1,2
+2023-11-06,2323,SWE,Goteborg,AIK,1,1
+2023-11-06,2323,SWE,Norrkoping,Varberg,4,3
+2023-11-12,2323,SWE,AIK,Varnamo,3,1
+2023-11-12,2323,SWE,Brommapojkarna,Hacken,2,1
+2023-11-12,2323,SWE,Degerfors,Mjallby,1,2
+2023-11-12,2323,SWE,Hammarby,Halmstad,2,2
+2023-11-12,2323,SWE,Kalmar,Djurgarden,2,1
+2023-11-12,2323,SWE,Malmo FF,Elfsborg,1,0
+2023-11-12,2323,SWE,Sirius,Norrkoping,2,0
+2023-11-12,2323,SWE,Varberg,Goteborg,1,2
+2024-03-30,2424,SWE,Norrkoping,Malmo FF,1,5
+2024-03-31,2424,SWE,GAIS,Brommapojkarna,0,4
+2024-03-31,2424,SWE,Hacken,Mjallby,0,1
+2024-03-31,2424,SWE,Hammarby,Kalmar,3,1
+2024-04-01,2424,SWE,AIK,Vasteras SK,1,0
+2024-04-01,2424,SWE,Elfsborg,Varnamo,2,2
+2024-04-01,2424,SWE,Goteborg,Djurgarden,1,4
+2024-04-01,2424,SWE,Sirius,Halmstad,3,0
+2024-04-06,2424,SWE,Brommapojkarna,AIK,2,2
+2024-04-06,2424,SWE,Mjallby,Norrkoping,3,0
+2024-04-07,2424,SWE,Halmstad,Goteborg,1,0
+2024-04-07,2424,SWE,Malmo FF,Hammarby,2,0
+2024-04-07,2424,SWE,Vasteras SK,Elfsborg,0,1
+2024-04-08,2424,SWE,Djurgarden,Hacken,3,3
+2024-04-08,2424,SWE,Kalmar,Sirius,1,2
+2024-04-08,2424,SWE,Varnamo,GAIS,1,2
+2024-04-13,2424,SWE,Mjallby,AIK,1,1
+2024-04-13,2424,SWE,Vasteras SK,Halmstad,0,1
+2024-04-14,2424,SWE,Djurgarden,Sirius,2,0
+2024-04-14,2424,SWE,Kalmar,Goteborg,0,1
+2024-04-14,2424,SWE,Norrkoping,GAIS,1,0
+2024-04-15,2424,SWE,Hacken,Brommapojkarna,4,3
+2024-04-15,2424,SWE,Hammarby,Elfsborg,3,0
+2024-04-15,2424,SWE,Varnamo,Malmo FF,0,4
+2024-04-20,2424,SWE,Goteborg,Norrkoping,1,1
+2024-04-20,2424,SWE,Malmo FF,Vasteras SK,1,0
+2024-04-20,2424,SWE,Sirius,Varnamo,0,1
+2024-04-21,2424,SWE,AIK,Djurgarden,2,0
+2024-04-21,2424,SWE,GAIS,Mjallby,2,1
+2024-04-21,2424,SWE,Hacken,Hammarby,2,1
+2024-04-21,2424,SWE,Halmstad,Brommapojkarna,0,2
+2024-04-22,2424,SWE,Elfsborg,Kalmar,1,2
+2024-04-24,2424,SWE,AIK,Varnamo,2,0
+2024-04-24,2424,SWE,Brommapojkarna,Sirius,1,1
+2024-04-24,2424,SWE,Goteborg,Hacken,0,1
+2024-04-25,2424,SWE,Djurgarden,Malmo FF,0,1
+2024-04-25,2424,SWE,Halmstad,Hammarby,2,1
+2024-04-25,2424,SWE,Kalmar,GAIS,2,3
+2024-04-25,2424,SWE,Norrkoping,Elfsborg,4,2
+2024-04-25,2424,SWE,Vasteras SK,Mjallby,2,1
+2024-04-28,2424,SWE,Djurgarden,GAIS,1,0
+2024-04-28,2424,SWE,Hacken,Norrkoping,1,2
+2024-04-28,2424,SWE,Malmo FF,AIK,5,0
+2024-04-28,2424,SWE,Varnamo,Halmstad,1,3
+2024-04-29,2424,SWE,Brommapojkarna,Goteborg,0,3
+2024-04-29,2424,SWE,Elfsborg,Sirius,2,0
+2024-04-29,2424,SWE,Hammarby,Vasteras SK,2,1
+2024-04-29,2424,SWE,Mjallby,Kalmar,3,2
+2024-05-04,2424,SWE,Kalmar,Halmstad,5,2
+2024-05-04,2424,SWE,Mjallby,Brommapojkarna,1,1
+2024-05-04,2424,SWE,Sirius,Hacken,0,3
+2024-05-05,2424,SWE,AIK,Norrkoping,6,2
+2024-05-05,2424,SWE,Elfsborg,Malmo FF,3,1
+2024-05-05,2424,SWE,Hammarby,Varnamo,1,2
+2024-05-05,2424,SWE,Vasteras SK,Djurgarden,0,2
+2024-05-06,2424,SWE,GAIS,Goteborg,2,1
+2024-05-11,2424,SWE,AIK,Sirius,1,3
+2024-05-11,2424,SWE,GAIS,Vasteras SK,2,0
+2024-05-11,2424,SWE,Halmstad,Mjallby,1,3
+2024-05-12,2424,SWE,Djurgarden,Elfsborg,2,0
+2024-05-12,2424,SWE,Hacken,Kalmar,3,1
+2024-05-12,2424,SWE,Norrkoping,Hammarby,1,2
+2024-05-12,2424,SWE,Varnamo,Brommapojkarna,1,1
+2024-05-13,2424,SWE,Goteborg,Malmo FF,0,3
+2024-05-15,2424,SWE,Elfsborg,AIK,6,1
+2024-05-15,2424,SWE,Halmstad,Hacken,3,0
+2024-05-15,2424,SWE,Mjallby,Hammarby,3,0
+2024-05-15,2424,SWE,Vasteras SK,Varnamo,0,2
+2024-05-16,2424,SWE,Brommapojkarna,Djurgarden,0,5
+2024-05-16,2424,SWE,Kalmar,Norrkoping,1,1
+2024-05-16,2424,SWE,Malmo FF,GAIS,1,0
+2024-05-16,2424,SWE,Sirius,Goteborg,2,2
+2024-05-19,2424,SWE,Brommapojkarna,Norrkoping,2,1
+2024-05-19,2424,SWE,GAIS,Elfsborg,2,1
+2024-05-19,2424,SWE,Hammarby,AIK,2,1
+2024-05-19,2424,SWE,Varnamo,Kalmar,0,2
+2024-05-20,2424,SWE,Djurgarden,Halmstad,2,0
+2024-05-20,2424,SWE,Hacken,Malmo FF,2,2
+2024-05-20,2424,SWE,Sirius,Vasteras SK,0,0
+2024-05-21,2424,SWE,Goteborg,Mjallby,1,0
+2024-05-24,2424,SWE,Elfsborg,Halmstad,2,0
+2024-05-24,2424,SWE,Malmo FF,Kalmar,5,0
+2024-05-25,2424,SWE,GAIS,Hacken,3,0
+2024-05-25,2424,SWE,Mjallby,Djurgarden,1,3
+2024-05-26,2424,SWE,Hammarby,Sirius,3,0
+2024-05-26,2424,SWE,Vasteras SK,Brommapojkarna,1,1
+2024-05-27,2424,SWE,AIK,Goteborg,5,2
+2024-05-27,2424,SWE,Norrkoping,Varnamo,0,4
+2024-05-28,2424,SWE,Malmo FF,Elfsborg,2,1
+2024-05-29,2424,SWE,Mjallby,Hacken,2,1
+2024-06-01,2424,SWE,Brommapojkarna,Malmo FF,2,2
+2024-06-01,2424,SWE,Goteborg,Elfsborg,1,0
+2024-06-01,2424,SWE,Halmstad,GAIS,4,0
+2024-06-01,2424,SWE,Sirius,Norrkoping,5,1
+2024-06-02,2424,SWE,Djurgarden,Hammarby,0,3
+2024-06-02,2424,SWE,Hacken,AIK,4,1
+2024-06-02,2424,SWE,Kalmar,Vasteras SK,0,4
+2024-06-02,2424,SWE,Varnamo,Mjallby,1,2
+2024-07-06,2424,SWE,Elfsborg,Brommapojkarna,3,0
+2024-07-06,2424,SWE,Mjallby,Sirius,3,2
+2024-07-07,2424,SWE,AIK,Kalmar,1,2
+2024-07-07,2424,SWE,GAIS,Hammarby,0,0
+2024-07-07,2424,SWE,Malmo FF,Halmstad,5,1
+2024-07-07,2424,SWE,Varnamo,Goteborg,2,0
+2024-07-08,2424,SWE,Norrkoping,Djurgarden,1,3
+2024-07-08,2424,SWE,Vasteras SK,Hacken,1,2
+2024-07-13,2424,SWE,Mjallby,Malmo FF,2,1
+2024-07-13,2424,SWE,Sirius,GAIS,3,1
+2024-07-14,2424,SWE,Djurgarden,Varnamo,1,0
+2024-07-14,2424,SWE,Hacken,Elfsborg,3,5
+2024-07-14,2424,SWE,Kalmar,Brommapojkarna,0,1
+2024-07-14,2424,SWE,Vasteras SK,Norrkoping,2,1
+2024-07-15,2424,SWE,Halmstad,AIK,1,2
+2024-07-15,2424,SWE,Hammarby,Goteborg,0,1
+2024-07-19,2424,SWE,Sirius,Malmo FF,3,4
+2024-07-20,2424,SWE,Brommapojkarna,Hammarby,0,2
+2024-07-20,2424,SWE,Kalmar,Djurgarden,2,1
+2024-07-20,2424,SWE,Varnamo,Hacken,2,2
+2024-07-21,2424,SWE,Elfsborg,Mjallby,3,1
+2024-07-21,2424,SWE,Goteborg,Vasteras SK,1,1
+2024-07-21,2424,SWE,Norrkoping,Halmstad,1,0
+2024-07-22,2424,SWE,GAIS,AIK,2,0
+2024-07-27,2424,SWE,Goteborg,Brommapojkarna,3,4
+2024-07-27,2424,SWE,Halmstad,Varnamo,1,0
+2024-07-27,2424,SWE,Malmo FF,Sirius,0,1
+2024-07-27,2424,SWE,Norrkoping,Kalmar,2,0
+2024-07-28,2424,SWE,Elfsborg,Djurgarden,1,2
+2024-07-28,2424,SWE,Hacken,Vasteras SK,4,0
+2024-07-28,2424,SWE,Hammarby,Mjallby,3,0
+2024-07-29,2424,SWE,AIK,GAIS,0,1
+2024-08-03,2424,SWE,Brommapojkarna,Halmstad,4,1
+2024-08-03,2424,SWE,GAIS,Norrkoping,0,1
+2024-08-03,2424,SWE,Vasteras SK,AIK,1,2
+2024-08-04,2424,SWE,Djurgarden,Goteborg,1,1
+2024-08-04,2424,SWE,Kalmar,Hammarby,1,4
+2024-08-04,2424,SWE,Varnamo,Sirius,2,4
+2024-08-10,2424,SWE,Goteborg,Varnamo,0,0
+2024-08-10,2424,SWE,Halmstad,Malmo FF,0,1
+2024-08-10,2424,SWE,Norrkoping,Vasteras SK,2,1
+2024-08-11,2424,SWE,AIK,Mjallby,1,0
+2024-08-11,2424,SWE,Elfsborg,GAIS,2,1
+2024-08-11,2424,SWE,Sirius,Kalmar,3,1
+2024-08-12,2424,SWE,Hammarby,Brommapojkarna,3,3
+2024-08-17,2424,SWE,Goteborg,Sirius,1,1
+2024-08-17,2424,SWE,Malmo FF,Norrkoping,2,1
+2024-08-17,2424,SWE,Varnamo,Hammarby,0,3
+2024-08-17,2424,SWE,Vasteras SK,Kalmar,2,1
+2024-08-18,2424,SWE,Brommapojkarna,Hacken,1,3
+2024-08-18,2424,SWE,Djurgarden,AIK,0,2
+2024-08-18,2424,SWE,GAIS,Halmstad,3,1
+2024-08-18,2424,SWE,Mjallby,Elfsborg,1,1
+2024-08-24,2424,SWE,Kalmar,Malmo FF,2,2
+2024-08-25,2424,SWE,AIK,Brommapojkarna,2,1
+2024-08-25,2424,SWE,Elfsborg,Goteborg,3,1
+2024-08-25,2424,SWE,Hacken,Varnamo,1,1
+2024-08-25,2424,SWE,Sirius,Djurgarden,0,1
+2024-08-26,2424,SWE,Halmstad,Vasteras SK,0,1
+2024-08-26,2424,SWE,Hammarby,GAIS,0,0
+2024-08-26,2424,SWE,Norrkoping,Mjallby,1,2
+2024-08-31,2424,SWE,GAIS,Kalmar,1,1
+2024-08-31,2424,SWE,Mjallby,Halmstad,3,1
+2024-08-31,2424,SWE,Varnamo,AIK,0,1
+2024-08-31,2424,SWE,Vasteras SK,Sirius,1,2
+2024-09-01,2424,SWE,Brommapojkarna,Elfsborg,3,3
+2024-09-01,2424,SWE,Goteborg,Hammarby,0,1
+2024-09-01,2424,SWE,Malmo FF,Djurgarden,4,0
+2024-09-01,2424,SWE,Norrkoping,Hacken,3,3
+2024-09-14,2424,SWE,Vasteras SK,GAIS,2,3
+2024-09-15,2424,SWE,AIK,Malmo FF,0,0
+2024-09-15,2424,SWE,Djurgarden,Mjallby,1,1
+2024-09-15,2424,SWE,Hacken,Goteborg,3,3
+2024-09-15,2424,SWE,Halmstad,Elfsborg,0,1
+2024-09-15,2424,SWE,Kalmar,Varnamo,3,1
+2024-09-15,2424,SWE,Sirius,Brommapojkarna,3,2
+2024-09-16,2424,SWE,Hammarby,Norrkoping,1,1
+2024-09-18,2424,SWE,GAIS,Malmo FF,0,0
+2024-09-19,2424,SWE,Elfsborg,Norrkoping,2,2
+2024-09-19,2424,SWE,Hacken,Djurgarden,1,2
+2024-09-21,2424,SWE,Brommapojkarna,Mjallby,0,0
+2024-09-21,2424,SWE,Kalmar,AIK,0,1
+2024-09-22,2424,SWE,Elfsborg,Hammarby,0,0
+2024-09-22,2424,SWE,GAIS,Djurgarden,3,0
+2024-09-22,2424,SWE,Malmo FF,Hacken,4,0
+2024-09-22,2424,SWE,Varnamo,Vasteras SK,2,0
+2024-09-23,2424,SWE,Goteborg,Halmstad,1,1
+2024-09-25,2424,SWE,Djurgarden,Brommapojkarna,2,1
+2024-09-25,2424,SWE,Mjallby,Varnamo,1,1
+2024-09-25,2424,SWE,Sirius,AIK,0,1
+2024-09-26,2424,SWE,Halmstad,Kalmar,2,2
+2024-09-26,2424,SWE,Hammarby,Hacken,2,0
+2024-09-26,2424,SWE,Vasteras SK,Goteborg,1,1
+2024-09-29,2424,SWE,AIK,Hammarby,1,0
+2024-09-29,2424,SWE,Hacken,Sirius,2,0
+2024-09-29,2424,SWE,Halmstad,Norrkoping,0,0
+2024-09-29,2424,SWE,Kalmar,Elfsborg,1,3
+2024-09-29,2424,SWE,Malmo FF,Mjallby,2,0
+2024-09-29,2424,SWE,Varnamo,Djurgarden,1,1
+2024-09-30,2424,SWE,Brommapojkarna,Vasteras SK,2,1
+2024-09-30,2424,SWE,Goteborg,GAIS,2,0
+2024-10-03,2424,SWE,Norrkoping,Sirius,0,2
+2024-10-05,2424,SWE,Brommapojkarna,GAIS,2,0
+2024-10-05,2424,SWE,Hammarby,Halmstad,1,0
+2024-10-05,2424,SWE,Mjallby,Vasteras SK,2,1
+2024-10-06,2424,SWE,AIK,Hacken,0,2
+2024-10-06,2424,SWE,Djurgarden,Kalmar,1,1
+2024-10-06,2424,SWE,Malmo FF,Varnamo,1,1
+2024-10-06,2424,SWE,Norrkoping,Goteborg,0,2
+2024-10-06,2424,SWE,Sirius,Elfsborg,4,1
+2024-10-19,2424,SWE,Elfsborg,Hacken,1,3
+2024-10-19,2424,SWE,Halmstad,Sirius,3,1
+2024-10-19,2424,SWE,Vasteras SK,Malmo FF,1,1
+2024-10-20,2424,SWE,GAIS,Varnamo,0,0
+2024-10-20,2424,SWE,Kalmar,Mjallby,0,3
+2024-10-21,2424,SWE,Goteborg,AIK,1,2
+2024-10-21,2424,SWE,Hammarby,Djurgarden,2,0
+2024-10-21,2424,SWE,Norrkoping,Brommapojkarna,1,1
+2024-10-26,2424,SWE,Brommapojkarna,Kalmar,1,2
+2024-10-26,2424,SWE,Mjallby,GAIS,1,1
+2024-10-26,2424,SWE,Sirius,Hammarby,0,3
+2024-10-27,2424,SWE,AIK,Elfsborg,2,1
+2024-10-27,2424,SWE,Hacken,Halmstad,0,1
+2024-10-27,2424,SWE,Varnamo,Norrkoping,1,2
+2024-10-28,2424,SWE,Djurgarden,Vasteras SK,2,1
+2024-10-28,2424,SWE,Malmo FF,Goteborg,2,1
+2024-11-02,2424,SWE,Elfsborg,Vasteras SK,1,0
+2024-11-02,2424,SWE,Goteborg,Kalmar,1,1
+2024-11-02,2424,SWE,Hammarby,Malmo FF,2,2
+2024-11-03,2424,SWE,Brommapojkarna,Varnamo,0,1
+2024-11-03,2424,SWE,Hacken,GAIS,1,2
+2024-11-03,2424,SWE,Halmstad,Djurgarden,1,0
+2024-11-03,2424,SWE,Sirius,Mjallby,1,1
+2024-11-04,2424,SWE,Norrkoping,AIK,1,0
+2024-11-10,2424,SWE,AIK,Halmstad,5,1
+2024-11-10,2424,SWE,Djurgarden,Norrkoping,3,1
+2024-11-10,2424,SWE,GAIS,Sirius,2,1
+2024-11-10,2424,SWE,Kalmar,Hacken,1,0
+2024-11-10,2424,SWE,Malmo FF,Brommapojkarna,2,1
+2024-11-10,2424,SWE,Mjallby,Goteborg,1,0
+2024-11-10,2424,SWE,Varnamo,Elfsborg,0,0
+2024-11-10,2424,SWE,Vasteras SK,Hammarby,1,0
+2024-11-21,2424,SWE,Landskrona,Varnamo,2,2
+2024-11-24,2424,SWE,Varnamo,Landskrona,1,0
+2025-03-29,2525,SWE,Djurgarden,Malmo FF,0,1
+2025-03-29,2525,SWE,Hacken,Brommapojkarna,2,0
+2025-03-30,2525,SWE,Elfsborg,Mjallby,2,2
+2025-03-30,2525,SWE,Halmstad,Degerfors,0,5
+2025-03-30,2525,SWE,Hammarby,Goteborg,4,0
+2025-03-30,2525,SWE,Norrkoping,Osters,4,3
+2025-03-31,2525,SWE,GAIS,AIK,0,1
+2025-03-31,2525,SWE,Varnamo,Sirius,1,2
+2025-04-05,2525,SWE,Goteborg,Halmstad,1,0
+2025-04-05,2525,SWE,Osters,Hacken,2,0
+2025-04-05,2525,SWE,Sirius,Djurgarden,0,1
+2025-04-06,2525,SWE,AIK,Norrkoping,4,3
+2025-04-06,2525,SWE,Brommapojkarna,Hammarby,0,2
+2025-04-06,2525,SWE,Degerfors,Varnamo,1,0
+2025-04-06,2525,SWE,Mjallby,GAIS,1,1
+2025-04-07,2525,SWE,Malmo FF,Elfsborg,2,1
+2025-04-12,2525,SWE,Elfsborg,Norrkoping,2,0
+2025-04-12,2525,SWE,Hacken,Mjallby,0,3
+2025-04-13,2525,SWE,GAIS,Degerfors,2,0
+2025-04-13,2525,SWE,Hammarby,Djurgarden,2,0
+2025-04-13,2525,SWE,Sirius,Brommapojkarna,0,3
+2025-04-13,2525,SWE,Varnamo,Goteborg,0,1
+2025-04-14,2525,SWE,AIK,Malmo FF,0,0
+2025-04-14,2525,SWE,Halmstad,Osters,1,0
+2025-04-18,2525,SWE,Malmo FF,Sirius,1,1
+2025-04-18,2525,SWE,Mjallby,Hammarby,3,1
+2025-04-19,2525,SWE,Degerfors,Elfsborg,0,1
+2025-04-19,2525,SWE,Norrkoping,Halmstad,3,0
+2025-04-20,2525,SWE,Brommapojkarna,Varnamo,3,2
+2025-04-20,2525,SWE,Goteborg,Hacken,2,3
+2025-04-20,2525,SWE,Osters,AIK,0,1
+2025-04-21,2525,SWE,Djurgarden,GAIS,0,0
+2025-04-23,2525,SWE,Elfsborg,Sirius,4,3
+2025-04-23,2525,SWE,Hacken,Degerfors,3,4
+2025-04-23,2525,SWE,Halmstad,Mjallby,1,3
+2025-04-23,2525,SWE,Hammarby,Malmo FF,2,0
+2025-04-24,2525,SWE,Djurgarden,Osters,1,0
+2025-04-24,2525,SWE,GAIS,Brommapojkarna,1,1
+2025-04-24,2525,SWE,Norrkoping,Goteborg,2,3
+2025-04-24,2525,SWE,Varnamo,AIK,1,2
+2025-04-27,2525,SWE,AIK,Elfsborg,2,0
+2025-04-27,2525,SWE,Hacken,Hammarby,1,1
+2025-04-27,2525,SWE,Mjallby,Degerfors,4,1
+2025-04-27,2525,SWE,Sirius,Halmstad,1,1
+2025-04-27,2525,SWE,Varnamo,Norrkoping,1,3
+2025-04-28,2525,SWE,Goteborg,GAIS,1,1
+2025-04-29,2525,SWE,Malmo FF,Osters,2,0
+2025-05-03,2525,SWE,Degerfors,Sirius,1,1
+2025-05-03,2525,SWE,Halmstad,Varnamo,4,2
+2025-05-04,2525,SWE,Djurgarden,AIK,1,1
+2025-05-04,2525,SWE,Mjallby,Goteborg,1,0
+2025-05-04,2525,SWE,Norrkoping,Hacken,0,2
+2025-05-04,2525,SWE,Osters,Hammarby,0,3
+2025-05-05,2525,SWE,Elfsborg,GAIS,2,0
+2025-05-05,2525,SWE,Malmo FF,Brommapojkarna,1,2
+2025-05-10,2525,SWE,Brommapojkarna,Halmstad,0,1
+2025-05-10,2525,SWE,GAIS,Varnamo,1,1
+2025-05-10,2525,SWE,Sirius,Hacken,2,0
+2025-05-11,2525,SWE,AIK,Mjallby,2,1
+2025-05-11,2525,SWE,Degerfors,Malmo FF,1,4
+2025-05-11,2525,SWE,Hammarby,Norrkoping,1,1
+2025-05-11,2525,SWE,Osters,Elfsborg,0,1
+2025-05-12,2525,SWE,Goteborg,Djurgarden,1,2
+2025-05-14,2525,SWE,Hacken,AIK,3,3
+2025-05-14,2525,SWE,Halmstad,GAIS,1,3
+2025-05-14,2525,SWE,Hammarby,Sirius,3,2
+2025-05-15,2525,SWE,Djurgarden,Mjallby,1,3
+2025-05-15,2525,SWE,Elfsborg,Brommapojkarna,4,3
+2025-05-15,2525,SWE,Goteborg,Osters,0,1
+2025-05-15,2525,SWE,Norrkoping,Degerfors,1,2
+2025-05-15,2525,SWE,Varnamo,Malmo FF,2,2
+2025-05-18,2525,SWE,AIK,Hammarby,0,0
+2025-05-18,2525,SWE,Hacken,Varnamo,2,0
+2025-05-18,2525,SWE,Malmo FF,Halmstad,3,0
+2025-05-18,2525,SWE,Osters,GAIS,1,1
+2025-05-19,2525,SWE,Degerfors,Goteborg,1,3
+2025-05-19,2525,SWE,Elfsborg,Djurgarden,4,0
+2025-05-19,2525,SWE,Mjallby,Brommapojkarna,1,0
+2025-05-19,2525,SWE,Sirius,Norrkoping,1,2
+2025-05-22,2525,SWE,Hammarby,Mjallby,1,2
+2025-05-22,2525,SWE,Malmo FF,AIK,0,0
+2025-05-24,2525,SWE,GAIS,Sirius,2,1
+2025-05-24,2525,SWE,Varnamo,Osters,1,1
+2025-05-25,2525,SWE,Brommapojkarna,AIK,0,1
+2025-05-25,2525,SWE,Djurgarden,Hacken,1,1
+2025-05-25,2525,SWE,Goteborg,Malmo FF,1,0
+2025-05-25,2525,SWE,Halmstad,Elfsborg,1,4
+2025-05-26,2525,SWE,Hammarby,Degerfors,1,0
+2025-05-26,2525,SWE,Norrkoping,Mjallby,1,1
+2025-05-29,2525,SWE,Brommapojkarna,Djurgarden,0,1
+2025-05-31,2525,SWE,Degerfors,Osters,1,2
+2025-05-31,2525,SWE,Elfsborg,Hammarby,0,2
+2025-05-31,2525,SWE,Norrkoping,GAIS,0,3
+2025-06-01,2525,SWE,Brommapojkarna,Goteborg,1,3
+2025-06-01,2525,SWE,Halmstad,Djurgarden,1,0
+2025-06-01,2525,SWE,Malmo FF,Hacken,3,0
+2025-06-01,2525,SWE,Mjallby,Varnamo,2,0
+2025-06-01,2525,SWE,Sirius,AIK,3,1
+2025-06-28,2525,SWE,Hammarby,Halmstad,2,0
+2025-06-28,2525,SWE,Osters,Sirius,2,2
+2025-06-29,2525,SWE,AIK,Goteborg,3,0
+2025-06-29,2525,SWE,Degerfors,Brommapojkarna,0,3
+2025-06-29,2525,SWE,Hacken,GAIS,1,3
+2025-06-29,2525,SWE,Varnamo,Elfsborg,0,0
+2025-06-30,2525,SWE,Djurgarden,Norrkoping,1,1
+2025-06-30,2525,SWE,Mjallby,Malmo FF,1,1
+2025-07-05,2525,SWE,GAIS,Malmo FF,0,0
+2025-07-05,2525,SWE,Hammarby,Varnamo,1,0
+2025-07-05,2525,SWE,Osters,Mjallby,0,1
+2025-07-06,2525,SWE,Djurgarden,Degerfors,5,1
+2025-07-06,2525,SWE,Elfsborg,Hacken,0,2
+2025-07-06,2525,SWE,Goteborg,Sirius,3,1
+2025-07-06,2525,SWE,Halmstad,AIK,2,0
+2025-07-07,2525,SWE,Norrkoping,Brommapojkarna,0,1
+2025-07-12,2525,SWE,Goteborg,Elfsborg,1,2
+2025-07-12,2525,SWE,Malmo FF,Norrkoping,3,1
+2025-07-13,2525,SWE,AIK,Degerfors,3,0
+2025-07-13,2525,SWE,Brommapojkarna,Osters,2,0
+2025-07-13,2525,SWE,GAIS,Hammarby,3,2
+2025-07-13,2525,SWE,Hacken,Halmstad,4,1
+2025-07-13,2525,SWE,Varnamo,Djurgarden,1,0
+2025-07-14,2525,SWE,Sirius,Mjallby,1,2
+2025-07-19,2525,SWE,Degerfors,GAIS,0,3
+2025-07-19,2525,SWE,Djurgarden,Elfsborg,1,0
+2025-07-19,2525,SWE,Osters,Malmo FF,0,2
+2025-07-20,2525,SWE,Halmstad,Hacken,0,0
+2025-07-20,2525,SWE,Hammarby,Brommapojkarna,3,2
+2025-07-20,2525,SWE,Mjallby,AIK,2,0
+2025-07-20,2525,SWE,Sirius,Goteborg,0,1
+2025-07-21,2525,SWE,Norrkoping,Varnamo,3,1
+2025-07-26,2525,SWE,Brommapojkarna,Malmo FF,2,3
+2025-07-26,2525,SWE,Degerfors,Norrkoping,0,0
+2025-07-26,2525,SWE,GAIS,Halmstad,3,0
+2025-07-27,2525,SWE,AIK,Osters,0,0
+2025-07-27,2525,SWE,Hacken,Djurgarden,1,6
+2025-07-27,2525,SWE,Mjallby,Sirius,2,1
+2025-07-27,2525,SWE,Varnamo,Hammarby,2,3
+2025-07-28,2525,SWE,Elfsborg,Goteborg,4,3
+2025-08-02,2525,SWE,Brommapojkarna,Norrkoping,6,4
+2025-08-02,2525,SWE,Varnamo,GAIS,2,2
+2025-08-03,2525,SWE,Djurgarden,Halmstad,1,1
+2025-08-03,2525,SWE,Hacken,Elfsborg,1,2
+2025-08-03,2525,SWE,Sirius,Osters,1,1
+2025-08-04,2525,SWE,Goteborg,Degerfors,3,0
+2025-08-09,2525,SWE,Halmstad,Sirius,0,1
+2025-08-09,2525,SWE,Malmo FF,Mjallby,1,3
+2025-08-10,2525,SWE,AIK,Djurgarden,0,0
+2025-08-10,2525,SWE,Degerfors,Hacken,0,0
+2025-08-10,2525,SWE,Norrkoping,Hammarby,0,2
+2025-08-10,2525,SWE,Osters,Brommapojkarna,1,1
+2025-08-11,2525,SWE,Elfsborg,Varnamo,2,2
+2025-08-11,2525,SWE,GAIS,Goteborg,0,1
+2025-08-16,2525,SWE,Halmstad,Malmo FF,0,4
+2025-08-16,2525,SWE,Norrkoping,Elfsborg,2,1
+2025-08-17,2525,SWE,Brommapojkarna,Sirius,2,4
+2025-08-17,2525,SWE,Goteborg,AIK,2,1
+2025-08-17,2525,SWE,Hacken,Osters,0,2
+2025-08-17,2525,SWE,Hammarby,GAIS,1,2
+2025-08-17,2525,SWE,Mjallby,Djurgarden,1,1
+2025-08-18,2525,SWE,Varnamo,Degerfors,3,2
+2025-08-24,2525,SWE,Degerfors,AIK,0,1
+2025-08-24,2525,SWE,Djurgarden,Brommapojkarna,1,0
+2025-08-24,2525,SWE,Elfsborg,Halmstad,1,2
+2025-08-24,2525,SWE,Malmo FF,Goteborg,0,0
+2025-08-24,2525,SWE,Sirius,Hammarby,3,1
+2025-08-24,2525,SWE,Varnamo,Hacken,1,5
+2025-08-25,2525,SWE,GAIS,Mjallby,0,2
+2025-08-25,2525,SWE,Osters,Norrkoping,1,2
+2025-08-30,2525,SWE,Brommapojkarna,Elfsborg,3,0
+2025-08-30,2525,SWE,Goteborg,Varnamo,1,0
+2025-08-30,2525,SWE,Mjallby,Halmstad,1,0
+2025-08-31,2525,SWE,AIK,Sirius,2,1
+2025-08-31,2525,SWE,GAIS,Hacken,2,1
+2025-08-31,2525,SWE,Hammarby,Osters,4,0
+2025-08-31,2525,SWE,Malmo FF,Degerfors,1,1
+2025-08-31,2525,SWE,Norrkoping,Djurgarden,0,4
+2025-09-13,2525,SWE,Degerfors,Mjallby,0,1
+2025-09-13,2525,SWE,Halmstad,Norrkoping,1,1
+2025-09-14,2525,SWE,Djurgarden,Hammarby,3,3
+2025-09-14,2525,SWE,Elfsborg,Malmo FF,2,2
+2025-09-14,2525,SWE,Osters,Varnamo,4,3
+2025-09-14,2525,SWE,Sirius,GAIS,3,0
+2025-09-15,2525,SWE,AIK,Brommapojkarna,2,1
+2025-09-15,2525,SWE,Hacken,Goteborg,1,2
+2025-09-20,2525,SWE,GAIS,Elfsborg,2,0
+2025-09-20,2525,SWE,Malmo FF,Djurgarden,0,1
+2025-09-20,2525,SWE,Mjallby,Osters,1,1
+2025-09-21,2525,SWE,Goteborg,Brommapojkarna,0,1
+2025-09-21,2525,SWE,Hammarby,Hacken,4,0
+2025-09-21,2525,SWE,Sirius,Degerfors,1,3
+2025-09-22,2525,SWE,Norrkoping,AIK,3,1
+2025-09-22,2525,SWE,Varnamo,Halmstad,1,2
+2025-09-27,2525,SWE,Elfsborg,Degerfors,1,2
+2025-09-27,2525,SWE,Hacken,Norrkoping,2,0
+2025-09-28,2525,SWE,AIK,GAIS,1,1
+2025-09-28,2525,SWE,Brommapojkarna,Mjallby,0,1
+2025-09-28,2525,SWE,Halmstad,Hammarby,1,0
+2025-09-28,2525,SWE,Malmo FF,Varnamo,3,2
+2025-09-29,2525,SWE,Djurgarden,Sirius,8,2
+2025-09-29,2525,SWE,Osters,Goteborg,0,2
+2025-10-04,2525,SWE,Degerfors,Djurgarden,1,1
+2025-10-04,2525,SWE,GAIS,Norrkoping,2,1
+2025-10-04,2525,SWE,Mjallby,Elfsborg,2,0
+2025-10-04,2525,SWE,Osters,Halmstad,3,0
+2025-10-05,2525,SWE,AIK,Varnamo,2,3
+2025-10-05,2525,SWE,Brommapojkarna,Hacken,1,3
+2025-10-05,2525,SWE,Goteborg,Hammarby,1,2
+2025-10-05,2525,SWE,Sirius,Malmo FF,5,1
+2025-10-18,2525,SWE,Hacken,Sirius,1,1
+2025-10-18,2525,SWE,Norrkoping,Malmo FF,0,2
+2025-10-19,2525,SWE,Elfsborg,Osters,5,1
+2025-10-19,2525,SWE,GAIS,Djurgarden,3,2
+2025-10-19,2525,SWE,Hammarby,AIK,2,1
+2025-10-19,2525,SWE,Varnamo,Brommapojkarna,1,1
+2025-10-20,2525,SWE,Degerfors,Halmstad,0,1
+2025-10-20,2525,SWE,Goteborg,Mjallby,0,2
+2025-10-25,2525,SWE,Djurgarden,Varnamo,6,2
+2025-10-25,2525,SWE,Osters,Degerfors,1,2
+2025-10-26,2525,SWE,AIK,Hacken,2,2
+2025-10-26,2525,SWE,Halmstad,Goteborg,0,3
+2025-10-26,2525,SWE,Mjallby,Norrkoping,2,1
+2025-10-26,2525,SWE,Sirius,Elfsborg,4,0
+2025-10-27,2525,SWE,Brommapojkarna,GAIS,0,2
+2025-10-27,2525,SWE,Malmo FF,Hammarby,1,3
+2025-11-01,2525,SWE,Hacken,Malmo FF,1,1
+2025-11-01,2525,SWE,Norrkoping,Sirius,1,2
+2025-11-02,2525,SWE,Djurgarden,Goteborg,0,0
+2025-11-02,2525,SWE,Elfsborg,AIK,0,3
+2025-11-02,2525,SWE,GAIS,Osters,1,1
+2025-11-02,2525,SWE,Halmstad,Brommapojkarna,0,0
+2025-11-03,2525,SWE,Degerfors,Hammarby,1,1
+2025-11-03,2525,SWE,Varnamo,Mjallby,0,5
+2025-11-09,2525,SWE,AIK,Halmstad,0,2
+2025-11-09,2525,SWE,Brommapojkarna,Degerfors,1,3
+2025-11-09,2525,SWE,Goteborg,Norrkoping,2,0
+2025-11-09,2525,SWE,Hammarby,Elfsborg,3,0
+2025-11-09,2525,SWE,Malmo FF,GAIS,2,1
+2025-11-09,2525,SWE,Mjallby,Hacken,1,0
+2025-11-09,2525,SWE,Osters,Djurgarden,1,3
+2025-11-09,2525,SWE,Sirius,Varnamo,3,1
+2026-04-04,2626,SWE,Degerfors,Sirius,0,3
+2026-04-04,2626,SWE,Hammarby,Mjallby,3,0
+2026-04-05,2626,SWE,AIK,Halmstad,2,1
+2026-04-05,2626,SWE,Kalmar,Vasteras SK,0,1
+2026-04-05,2626,SWE,Orgryte,Malmo FF,1,1
+2026-04-06,2626,SWE,Elfsborg,Goteborg,2,0
+2026-04-06,2626,SWE,GAIS,Djurgarden,0,1
+2026-04-06,2626,SWE,Hacken,Brommapojkarna,2,2
+2026-04-11,2626,SWE,Goteborg,Hacken,0,2
+2026-04-11,2626,SWE,Mjallby,Orgryte,0,2
+2026-04-11,2626,SWE,Vasteras SK,Elfsborg,2,2
+2026-04-12,2626,SWE,Djurgarden,Kalmar,3,2
+2026-04-12,2626,SWE,Halmstad,Degerfors,0,3
+2026-04-12,2626,SWE,Malmo FF,GAIS,3,1
+2026-04-13,2626,SWE,Brommapojkarna,AIK,2,2
+2026-04-13,2626,SWE,Sirius,Hammarby,2,0
+2026-04-17,2626,SWE,Degerfors,Elfsborg,0,1
+2026-04-17,2626,SWE,Djurgarden,Malmo FF,0,1
+2026-04-18,2626,SWE,Halmstad,Goteborg,1,1
+2026-04-18,2626,SWE,Hammarby,Orgryte,8,1
+2026-04-18,2626,SWE,Mjallby,Brommapojkarna,3,0
+2026-04-18,2626,SWE,Sirius,Vasteras SK,4,1
+2026-04-19,2626,SWE,AIK,Kalmar,1,0
+2026-04-19,2626,SWE,Hacken,GAIS,2,1
+2026-04-22,2626,SWE,Elfsborg,Djurgarden,2,1
+2026-04-22,2626,SWE,Hammarby,Halmstad,1,1
+2026-04-22,2626,SWE,Orgryte,Brommapojkarna,1,2
+2026-04-22,2626,SWE,Vasteras SK,Hacken,3,3
+2026-04-23,2626,SWE,Degerfors,AIK,2,1
+2026-04-23,2626,SWE,GAIS,Mjallby,0,0
+2026-04-23,2626,SWE,Kalmar,Goteborg,1,1
+2026-04-23,2626,SWE,Malmo FF,Sirius,2,3
+2026-04-26,2626,SWE,Brommapojkarna,Vasteras SK,1,2
+2026-04-26,2626,SWE,Djurgarden,Hammarby,1,1
+2026-04-26,2626,SWE,Goteborg,GAIS,2,2
+2026-04-27,2626,SWE,AIK,Malmo FF,0,1
+2026-04-27,2626,SWE,Hacken,Sirius,2,2
+2026-04-27,2626,SWE,Kalmar,Elfsborg,2,1
+2026-04-27,2626,SWE,Mjallby,Halmstad,2,0
+2026-04-27,2626,SWE,Orgryte,Degerfors,1,1
+2026-05-02,2626,SWE,Degerfors,Hacken,1,1
+2026-05-02,2626,SWE,Sirius,Kalmar,3,2
+2026-05-03,2626,SWE,Elfsborg,AIK,1,1
+2026-05-03,2626,SWE,GAIS,Orgryte,4,0
+2026-05-03,2626,SWE,Hammarby,Vasteras SK,3,0
+2026-05-03,2626,SWE,Malmo FF,Mjallby,2,3
+2026-05-04,2626,SWE,Djurgarden,Goteborg,6,0
+2026-05-04,2626,SWE,Halmstad,Brommapojkarna,1,3
+2026-05-08,2626,SWE,Elfsborg,Brommapojkarna,2,0
+2026-05-09,2626,SWE,Degerfors,Mjallby,1,4
+2026-05-09,2626,SWE,Goteborg,Hammarby,0,1
+2026-05-09,2626,SWE,Vasteras SK,GAIS,0,1
+2026-05-10,2626,SWE,AIK,Djurgarden,2,4
+2026-05-10,2626,SWE,Hacken,Malmo FF,3,2
+2026-05-10,2626,SWE,Kalmar,Halmstad,2,0
+2026-05-11,2626,SWE,Sirius,Orgryte,2,0
+2026-05-16,2626,SWE,GAIS,Degerfors,1,1
+2026-05-16,2626,SWE,Halmstad,Elfsborg,1,1
+2026-05-17,2626,SWE,Brommapojkarna,Kalmar,1,0
+2026-05-17,2626,SWE,Hammarby,Malmo FF,4,1
+2026-05-17,2626,SWE,Mjallby,Hacken,0,1
+2026-05-17,2626,SWE,Vasteras SK,AIK,1,1
+2026-05-18,2626,SWE,Djurgarden,Sirius,2,3
+2026-05-19,2626,SWE,Orgryte,Goteborg,2,3
+2026-05-20,2626,SWE,GAIS,Hammarby,2,0
+2026-05-21,2626,SWE,Elfsborg,Mjallby,1,1
+2026-05-22,2626,SWE,Djurgarden,Brommapojkarna,1,2
+2026-05-23,2626,SWE,Halmstad,Orgryte,2,0
+2026-05-23,2626,SWE,Kalmar,Degerfors,2,1
+2026-05-24,2626,SWE,Hammarby,AIK,1,2
+2026-05-24,2626,SWE,Malmo FF,Vasteras SK,2,3
+2026-05-24,2626,SWE,Sirius,GAIS,2,1
+2026-05-25,2626,SWE,Elfsborg,Hacken,1,1
+2026-05-25,2626,SWE,Goteborg,Mjallby,1,1
+2026-05-29,2626,SWE,Orgryte,Elfsborg,2,2
+2026-05-30,2626,SWE,AIK,Sirius,0,3
+2026-05-30,2626,SWE,GAIS,Kalmar,3,0
+2026-05-30,2626,SWE,Malmo FF,Halmstad,5,2
+2026-05-31,2626,SWE,Degerfors,Brommapojkarna,2,2
+2026-05-31,2626,SWE,Hacken,Hammarby,3,2
+2026-05-31,2626,SWE,Vasteras SK,Goteborg,4,5
+2026-07-03,2626,SWE,Sirius,Mjallby,4,4
+2026-07-04,2626,SWE,Degerfors,Malmo FF,0,1
+2026-07-04,2626,SWE,Halmstad,Vasteras SK,1,3
+2026-07-05,2626,SWE,Elfsborg,Hammarby,1,2
+2026-07-05,2626,SWE,Goteborg,AIK,1,2
+2026-07-05,2626,SWE,Kalmar,Orgryte,3,0
+2026-07-06,2626,SWE,Brommapojkarna,GAIS,1,1
+2026-07-06,2626,SWE,Hacken,Djurgarden,2,4
+2026-07-11,2626,SWE,Mjallby,AIK,1,2
+2026-07-11,2626,SWE,Orgryte,Hacken,4,3
+2026-07-12,2626,SWE,Brommapojkarna,Sirius,1,2
+2026-07-12,2626,SWE,GAIS,Elfsborg,1,0
+2026-07-12,2626,SWE,Hammarby,Kalmar,2,0
+2026-07-12,2626,SWE,Malmo FF,Goteborg,4,0
+2026-07-12,2626,SWE,Vasteras SK,Degerfors,2,0
+2026-07-13,2626,SWE,Djurgarden,Halmstad,3,0
+2026-07-17,2626,SWE,Goteborg,Brommapojkarna,2,1
+2026-07-17,2626,SWE,Mjallby,Vasteras SK,0,0
+2026-07-18,2626,SWE,AIK,GAIS,2,0
+2026-07-19,2626,SWE,Elfsborg,Sirius,1,3
+2026-07-19,2626,SWE,Halmstad,Hacken,0,2
+2026-07-19,2626,SWE,Hammarby,Degerfors,4,0
+2026-07-20,2626,SWE,Kalmar,Malmo FF,2,2
+2026-07-20,2626,SWE,Orgryte,Djurgarden,0,0
+2026-07-24,2626,SWE,Vasteras SK,Orgryte,2,0
+2026-07-25,2626,SWE,Degerfors,Djurgarden,0,1
+2026-07-25,2626,SWE,Kalmar,Mjallby,2,1
+2026-07-26,2626,SWE,Brommapojkarna,Hammarby,1,1
+2026-07-26,2626,SWE,GAIS,Halmstad,1,1
+2026-07-26,2626,SWE,Malmo FF,Elfsborg,1,2
+2026-07-26,2626,SWE,Sirius,Goteborg,4,1
+2026-07-27,2626,SWE,Hacken,AIK,0,0
+2026-08-01,2626,SWE,Hacken,Kalmar,1,1
+2026-08-02,2626,SWE,AIK,Orgryte,0,3
+2026-08-02,2626,SWE,Brommapojkarna,Malmo FF,1,2
+2026-08-02,2626,SWE,Goteborg,Degerfors,2,0
+2026-08-03,2626,SWE,Djurgarden,Vasteras SK,6,0
+2026-08-03,2626,SWE,Halmstad,Sirius,0,2
+2026-08-08,2626,SWE,Mjallby,Elfsborg,0,1
+2026-08-08,2626,SWE,Orgryte,AIK,3,4
+2026-08-09,2626,SWE,Goteborg,Kalmar,3,2
+2026-08-09,2626,SWE,Halmstad,GAIS,0,2
+2026-08-09,2626,SWE,Hammarby,Hacken,3,0
+2026-08-09,2626,SWE,Malmo FF,Degerfors,1,2
+2026-08-10,2626,SWE,Sirius,Brommapojkarna,2,2
+2026-08-10,2626,SWE,Vasteras SK,Djurgarden,1,0
+2026-08-14,2626,SWE,Elfsborg,Vasteras SK,3,0
+2026-08-15,2626,SWE,Mjallby,Sirius,4,3
+2026-08-16,2626,SWE,Brommapojkarna,Orgryte,3,1
+2026-08-16,2626,SWE,Degerfors,Goteborg,3,0
+2026-08-16,2626,SWE,Djurgarden,AIK,1,3
+2026-08-16,2626,SWE,GAIS,Malmo FF,0,1
+2026-08-16,2626,SWE,Kalmar,Hammarby,0,4
+2026-08-17,2626,SWE,Hacken,Halmstad,1,0
+2026-08-21,2626,SWE,Sirius,Hacken,0,3
+2026-08-22,2626,SWE,Orgryte,Halmstad,1,1
+2026-08-23,2626,SWE,Brommapojkarna,Degerfors,2,0
+2026-08-23,2626,SWE,Goteborg,Elfsborg,1,1
+2026-08-23,2626,SWE,Hammarby,GAIS,2,0
+2026-08-23,2626,SWE,Vasteras SK,Kalmar,0,0
+2026-08-24,2626,SWE,Malmo FF,Djurgarden,0,3
+2026-08-29,2626,SWE,Elfsborg,Degerfors,2,0
+2026-08-29,2626,SWE,Hacken,Vasteras SK,1,3
+2026-08-29,2626,SWE,Halmstad,Kalmar,1,0
+2026-08-30,2626,SWE,AIK,Hammarby,3,2
+2026-08-30,2626,SWE,Goteborg,Orgryte,1,0
+2026-08-31,2626,SWE,Djurgarden,Mjallby,4,0
+2026-08-31,2626,SWE,GAIS,Brommapojkarna,4,0
+2026-08-31,2626,SWE,Sirius,Malmo FF,0,1
+2026-09-03,2626,SWE,Mjallby,Djurgarden,0,2
+2026-09-05,2626,SWE,Degerfors,Halmstad,2,0
+2026-09-05,2626,SWE,GAIS,Hacken,0,0
+2026-09-05,2626,SWE,Vasteras SK,Sirius,0,1
+2026-09-06,2626,SWE,Brommapojkarna,Elfsborg,2,1
+2026-09-06,2626,SWE,Orgryte,Hammarby,1,1
+2026-09-07,2626,SWE,Kalmar,Djurgarden,0,1
+2026-09-07,2626,SWE,Malmo FF,AIK,0,0
+2026-09-07,2626,SWE,Mjallby,Goteborg,1,4
+2026-09-11,2626,SWE,Hacken,Mjallby,1,1
+2026-09-12,2626,SWE,AIK,Vasteras SK,1,4
+2026-09-12,2626,SWE,Goteborg,Halmstad,2,1
+2026-09-13,2626,SWE,Elfsborg,Kalmar,1,0
+2026-09-13,2626,SWE,Hammarby,Brommapojkarna,3,1
+2026-09-13,2626,SWE,Malmo FF,Orgryte,4,1
+2026-09-14,2626,SWE,Djurgarden,GAIS,2,0
+2026-09-14,2626,SWE,Sirius,Degerfors,2,0
+2026-09-16,2626,SWE,AIK,Mjallby,1,1
+2026-09-19,2626,SWE,Brommapojkarna,Goteborg,0,1
+2026-09-19,2626,SWE,Orgryte,Sirius,1,2
+2026-09-19,2626,SWE,Vasteras SK,Malmo FF,2,0
+2026-09-20,2626,SWE,Degerfors,Hammarby,0,1
+2026-09-20,2626,SWE,Djurgarden,Elfsborg,1,2
+2026-09-20,2626,SWE,Halmstad,AIK,2,1
+2026-09-20,2626,SWE,Kalmar,Hacken,0,5
+2026-09-20,2626,SWE,Mjallby,GAIS,0,3
+2026-10-09,2626,SWE,Goteborg,Vasteras SK,1,0
+2026-10-10,2626,SWE,AIK,Brommapojkarna,5,6
+2026-10-10,2626,SWE,GAIS,Sirius,0,1
+2026-10-10,2626,SWE,Mjallby,Degerfors,1,1
+2026-10-11,2626,SWE,Hacken,Orgryte,3,0
+2026-10-11,2626,SWE,Hammarby,Djurgarden,0,1
+2026-10-12,2626,SWE,Elfsborg,Halmstad,4,0
+2026-10-12,2626,SWE,Malmo FF,Kalmar,1,0
+2026-10-16,2626,SWE,Brommapojkarna,Djurgarden,0,2
+2026-10-17,2626,SWE,AIK,Goteborg,2,2
+2026-10-18,2626,SWE,Halmstad,Hammarby,0,1
+2026-10-18,2626,SWE,Malmo FF,Hacken,0,1
+2026-10-18,2626,SWE,Orgryte,GAIS,4,2
+2026-10-18,2626,SWE,Sirius,Elfsborg,2,2
+2026-10-18,2626,SWE,Vasteras SK,Mjallby,1,0
+2026-10-19,2626,SWE,Degerfors,Kalmar,1,2

@@ -1,0 +1,2693 @@
+date,season,div,home,away,hg,ag
+2012-07-21,1213,AUT,Mattersburg,Neustadt,2,0
+2012-07-21,1213,AUT,SK Rapid,Wacker Innsbruck,4,0
+2012-07-21,1213,AUT,Sturm Graz,Salzburg,0,2
+2012-07-22,1213,AUT,Admira,Ried,0,2
+2012-07-25,1213,AUT,Wolfsberger AC,Austria Vienna,0,1
+2012-07-28,1213,AUT,Austria Vienna,Sturm Graz,0,1
+2012-07-28,1213,AUT,Neustadt,SK Rapid,0,1
+2012-07-28,1213,AUT,Salzburg,Mattersburg,3,2
+2012-07-29,1213,AUT,Ried,Wolfsberger AC,0,2
+2012-07-29,1213,AUT,Wacker Innsbruck,Admira,1,2
+2012-08-04,1213,AUT,Mattersburg,Sturm Graz,3,1
+2012-08-04,1213,AUT,Wolfsberger AC,Salzburg,0,2
+2012-08-05,1213,AUT,Admira,Neustadt,4,0
+2012-08-05,1213,AUT,Ried,Wacker Innsbruck,2,0
+2012-08-05,1213,AUT,SK Rapid,Austria Vienna,0,3
+2012-08-11,1213,AUT,Sturm Graz,Wolfsberger AC,4,1
+2012-08-11,1213,AUT,Wacker Innsbruck,Mattersburg,2,1
+2012-08-12,1213,AUT,Austria Vienna,Admira,1,0
+2012-08-12,1213,AUT,Neustadt,Ried,2,3
+2012-08-12,1213,AUT,Salzburg,SK Rapid,0,2
+2012-08-18,1213,AUT,Admira,Salzburg,4,4
+2012-08-18,1213,AUT,SK Rapid,Sturm Graz,3,0
+2012-08-18,1213,AUT,Wacker Innsbruck,Neustadt,2,3
+2012-08-18,1213,AUT,Wolfsberger AC,Mattersburg,0,1
+2012-08-19,1213,AUT,Ried,Austria Vienna,0,1
+2012-08-25,1213,AUT,Austria Vienna,Wacker Innsbruck,2,0
+2012-08-25,1213,AUT,Mattersburg,Ried,2,1
+2012-08-25,1213,AUT,Salzburg,Neustadt,1,1
+2012-08-25,1213,AUT,Sturm Graz,Admira,3,2
+2012-08-26,1213,AUT,Wolfsberger AC,SK Rapid,1,0
+2012-09-01,1213,AUT,Admira,Wolfsberger AC,1,1
+2012-09-01,1213,AUT,Neustadt,Austria Vienna,0,2
+2012-09-01,1213,AUT,Ried,Sturm Graz,0,1
+2012-09-01,1213,AUT,Wacker Innsbruck,Salzburg,0,4
+2012-09-02,1213,AUT,SK Rapid,Mattersburg,3,0
+2012-09-15,1213,AUT,Salzburg,Ried,1,1
+2012-09-15,1213,AUT,SK Rapid,Admira,0,0
+2012-09-15,1213,AUT,Sturm Graz,Wacker Innsbruck,3,0
+2012-09-15,1213,AUT,Wolfsberger AC,Neustadt,6,0
+2012-09-16,1213,AUT,Mattersburg,Austria Vienna,2,4
+2012-09-22,1213,AUT,Admira,Mattersburg,5,1
+2012-09-22,1213,AUT,Austria Vienna,Salzburg,0,1
+2012-09-22,1213,AUT,Neustadt,Sturm Graz,1,1
+2012-09-22,1213,AUT,Wacker Innsbruck,Wolfsberger AC,0,1
+2012-09-23,1213,AUT,Ried,SK Rapid,0,2
+2012-09-29,1213,AUT,Austria Vienna,Wolfsberger AC,1,1
+2012-09-29,1213,AUT,Neustadt,Mattersburg,0,0
+2012-09-29,1213,AUT,Ried,Admira,1,1
+2012-09-29,1213,AUT,Wacker Innsbruck,SK Rapid,0,2
+2012-09-30,1213,AUT,Salzburg,Sturm Graz,3,2
+2012-10-06,1213,AUT,Admira,Wacker Innsbruck,4,1
+2012-10-06,1213,AUT,Mattersburg,Salzburg,1,3
+2012-10-06,1213,AUT,Wolfsberger AC,Ried,2,5
+2012-10-07,1213,AUT,SK Rapid,Neustadt,1,1
+2012-10-07,1213,AUT,Sturm Graz,Austria Vienna,1,1
+2012-10-20,1213,AUT,Neustadt,Admira,2,1
+2012-10-20,1213,AUT,Salzburg,Wolfsberger AC,4,1
+2012-10-20,1213,AUT,Sturm Graz,Mattersburg,0,0
+2012-10-20,1213,AUT,Wacker Innsbruck,Ried,1,0
+2012-10-21,1213,AUT,Austria Vienna,SK Rapid,2,0
+2012-10-27,1213,AUT,Admira,Austria Vienna,4,6
+2012-10-27,1213,AUT,Mattersburg,Wacker Innsbruck,1,2
+2012-10-27,1213,AUT,Ried,Neustadt,3,1
+2012-10-28,1213,AUT,SK Rapid,Salzburg,2,0
+2012-11-03,1213,AUT,Mattersburg,Wolfsberger AC,1,1
+2012-11-03,1213,AUT,Neustadt,Wacker Innsbruck,0,1
+2012-11-03,1213,AUT,Salzburg,Admira,5,0
+2012-11-03,1213,AUT,Sturm Graz,SK Rapid,2,1
+2012-11-04,1213,AUT,Austria Vienna,Ried,6,1
+2012-11-10,1213,AUT,Admira,Sturm Graz,1,2
+2012-11-10,1213,AUT,Ried,Mattersburg,6,1
+2012-11-10,1213,AUT,Wacker Innsbruck,Austria Vienna,0,3
+2012-11-11,1213,AUT,Neustadt,Salzburg,0,3
+2012-11-11,1213,AUT,SK Rapid,Wolfsberger AC,0,2
+2012-11-17,1213,AUT,Austria Vienna,Neustadt,3,0
+2012-11-17,1213,AUT,Mattersburg,SK Rapid,0,3
+2012-11-17,1213,AUT,Sturm Graz,Ried,3,1
+2012-11-17,1213,AUT,Wolfsberger AC,Admira,1,1
+2012-11-18,1213,AUT,Salzburg,Wacker Innsbruck,2,0
+2012-11-24,1213,AUT,Austria Vienna,Mattersburg,3,1
+2012-11-24,1213,AUT,Neustadt,Wolfsberger AC,2,1
+2012-11-24,1213,AUT,Ried,Salzburg,3,1
+2012-11-24,1213,AUT,Wacker Innsbruck,Sturm Graz,0,3
+2012-11-25,1213,AUT,Admira,SK Rapid,0,2
+2012-11-27,1213,AUT,Wolfsberger AC,Sturm Graz,1,1
+2012-12-01,1213,AUT,Mattersburg,Admira,3,0
+2012-12-01,1213,AUT,SK Rapid,Ried,4,3
+2012-12-01,1213,AUT,Sturm Graz,Neustadt,3,1
+2012-12-01,1213,AUT,Wolfsberger AC,Wacker Innsbruck,2,2
+2012-12-02,1213,AUT,Salzburg,Austria Vienna,0,0
+2012-12-08,1213,AUT,Admira,Ried,0,3
+2012-12-08,1213,AUT,Mattersburg,Neustadt,1,0
+2012-12-08,1213,AUT,Sturm Graz,Salzburg,1,1
+2012-12-08,1213,AUT,Wolfsberger AC,Austria Vienna,3,6
+2012-12-09,1213,AUT,SK Rapid,Wacker Innsbruck,2,1
+2012-12-15,1213,AUT,Neustadt,SK Rapid,1,0
+2012-12-15,1213,AUT,Salzburg,Mattersburg,7,0
+2012-12-15,1213,AUT,Wacker Innsbruck,Admira,3,1
+2012-12-16,1213,AUT,Austria Vienna,Sturm Graz,3,1
+2013-02-16,1213,AUT,Admira,Neustadt,1,2
+2013-02-16,1213,AUT,Mattersburg,Sturm Graz,0,0
+2013-02-16,1213,AUT,Ried,Wacker Innsbruck,3,0
+2013-02-17,1213,AUT,SK Rapid,Austria Vienna,1,2
+2013-02-20,1213,AUT,Ried,Wolfsberger AC,1,1
+2013-02-23,1213,AUT,Austria Vienna,Admira,4,0
+2013-02-23,1213,AUT,Neustadt,Ried,0,0
+2013-02-23,1213,AUT,Wacker Innsbruck,Mattersburg,2,0
+2013-02-24,1213,AUT,Salzburg,SK Rapid,3,3
+2013-02-24,1213,AUT,Sturm Graz,Wolfsberger AC,1,3
+2013-02-27,1213,AUT,Ried,Austria Vienna,1,3
+2013-02-27,1213,AUT,SK Rapid,Sturm Graz,1,1
+2013-02-27,1213,AUT,Wacker Innsbruck,Neustadt,1,0
+2013-03-02,1213,AUT,Austria Vienna,Wacker Innsbruck,4,0
+2013-03-02,1213,AUT,Mattersburg,Ried,1,0
+2013-03-02,1213,AUT,Salzburg,Neustadt,3,1
+2013-03-02,1213,AUT,Sturm Graz,Admira,1,2
+2013-03-03,1213,AUT,Wolfsberger AC,SK Rapid,2,1
+2013-03-06,1213,AUT,Wolfsberger AC,Salzburg,1,1
+2013-03-09,1213,AUT,Admira,Wolfsberger AC,0,1
+2013-03-09,1213,AUT,Neustadt,Austria Vienna,0,0
+2013-03-09,1213,AUT,Ried,Sturm Graz,1,2
+2013-03-09,1213,AUT,SK Rapid,Mattersburg,2,2
+2013-03-10,1213,AUT,Wacker Innsbruck,Salzburg,2,3
+2013-03-13,1213,AUT,Admira,Salzburg,1,1
+2013-03-13,1213,AUT,Wolfsberger AC,Mattersburg,1,0
+2013-03-16,1213,AUT,Salzburg,Ried,2,2
+2013-03-16,1213,AUT,SK Rapid,Admira,1,1
+2013-03-16,1213,AUT,Sturm Graz,Wacker Innsbruck,3,2
+2013-03-16,1213,AUT,Wolfsberger AC,Neustadt,1,1
+2013-03-17,1213,AUT,Mattersburg,Austria Vienna,0,4
+2013-03-30,1213,AUT,Admira,Mattersburg,1,0
+2013-03-30,1213,AUT,Neustadt,Sturm Graz,1,0
+2013-03-30,1213,AUT,Ried,SK Rapid,3,2
+2013-03-30,1213,AUT,Wacker Innsbruck,Wolfsberger AC,2,3
+2013-03-31,1213,AUT,Austria Vienna,Salzburg,1,1
+2013-04-06,1213,AUT,Austria Vienna,Wolfsberger AC,0,4
+2013-04-06,1213,AUT,Neustadt,Mattersburg,0,0
+2013-04-06,1213,AUT,Ried,Admira,4,1
+2013-04-06,1213,AUT,Wacker Innsbruck,SK Rapid,1,1
+2013-04-07,1213,AUT,Salzburg,Sturm Graz,3,0
+2013-04-13,1213,AUT,Admira,Wacker Innsbruck,4,3
+2013-04-13,1213,AUT,Mattersburg,Salzburg,1,2
+2013-04-13,1213,AUT,SK Rapid,Neustadt,2,0
+2013-04-13,1213,AUT,Wolfsberger AC,Ried,1,3
+2013-04-14,1213,AUT,Sturm Graz,Austria Vienna,1,1
+2013-04-20,1213,AUT,Neustadt,Admira,3,0
+2013-04-20,1213,AUT,Salzburg,Wolfsberger AC,6,2
+2013-04-20,1213,AUT,Sturm Graz,Mattersburg,2,2
+2013-04-20,1213,AUT,Wacker Innsbruck,Ried,2,0
+2013-04-21,1213,AUT,Austria Vienna,SK Rapid,2,2
+2013-04-27,1213,AUT,Mattersburg,Wacker Innsbruck,1,2
+2013-04-27,1213,AUT,Ried,Neustadt,2,1
+2013-04-27,1213,AUT,SK Rapid,Salzburg,1,3
+2013-04-27,1213,AUT,Wolfsberger AC,Sturm Graz,3,0
+2013-04-28,1213,AUT,Admira,Austria Vienna,0,2
+2013-05-04,1213,AUT,Austria Vienna,Ried,3,1
+2013-05-04,1213,AUT,Mattersburg,Wolfsberger AC,3,1
+2013-05-04,1213,AUT,Neustadt,Wacker Innsbruck,2,2
+2013-05-04,1213,AUT,Salzburg,Admira,2,1
+2013-05-05,1213,AUT,Sturm Graz,SK Rapid,1,3
+2013-05-11,1213,AUT,Admira,Sturm Graz,3,0
+2013-05-11,1213,AUT,Ried,Mattersburg,1,1
+2013-05-11,1213,AUT,SK Rapid,Wolfsberger AC,0,0
+2013-05-11,1213,AUT,Wacker Innsbruck,Austria Vienna,0,3
+2013-05-12,1213,AUT,Neustadt,Salzburg,0,6
+2013-05-18,1213,AUT,Austria Vienna,Neustadt,3,1
+2013-05-18,1213,AUT,Mattersburg,SK Rapid,2,0
+2013-05-18,1213,AUT,Salzburg,Wacker Innsbruck,3,1
+2013-05-18,1213,AUT,Wolfsberger AC,Admira,0,0
+2013-05-19,1213,AUT,Sturm Graz,Ried,3,1
+2013-05-22,1213,AUT,Admira,SK Rapid,0,2
+2013-05-22,1213,AUT,Austria Vienna,Mattersburg,4,0
+2013-05-22,1213,AUT,Neustadt,Wolfsberger AC,2,0
+2013-05-22,1213,AUT,Ried,Salzburg,2,2
+2013-05-22,1213,AUT,Wacker Innsbruck,Sturm Graz,2,1
+2013-05-26,1213,AUT,Mattersburg,Admira,0,1
+2013-05-26,1213,AUT,Salzburg,Austria Vienna,3,0
+2013-05-26,1213,AUT,SK Rapid,Ried,3,0
+2013-05-26,1213,AUT,Sturm Graz,Neustadt,0,3
+2013-05-26,1213,AUT,Wolfsberger AC,Wacker Innsbruck,2,3
+2013-07-20,1314,AUT,Austria Vienna,Admira,2,0
+2013-07-20,1314,AUT,Grodig,Ried,0,0
+2013-07-20,1314,AUT,Neustadt,Salzburg,1,5
+2013-07-20,1314,AUT,Wolfsberger AC,SK Rapid,2,2
+2013-07-21,1314,AUT,Wacker Innsbruck,Sturm Graz,2,2
+2013-07-27,1314,AUT,Admira,Wacker Innsbruck,1,2
+2013-07-27,1314,AUT,Ried,Wolfsberger AC,1,0
+2013-07-27,1314,AUT,Salzburg,Austria Vienna,5,1
+2013-07-27,1314,AUT,SK Rapid,Neustadt,4,0
+2013-07-28,1314,AUT,Sturm Graz,Grodig,0,2
+2013-08-03,1314,AUT,Austria Vienna,Ried,3,3
+2013-08-03,1314,AUT,Grodig,Admira,7,1
+2013-08-03,1314,AUT,Neustadt,Wolfsberger AC,2,1
+2013-08-03,1314,AUT,Wacker Innsbruck,Salzburg,1,1
+2013-08-04,1314,AUT,Sturm Graz,SK Rapid,2,4
+2013-08-10,1314,AUT,Admira,Sturm Graz,1,1
+2013-08-10,1314,AUT,Ried,Neustadt,1,1
+2013-08-10,1314,AUT,Salzburg,Grodig,4,1
+2013-08-10,1314,AUT,Wolfsberger AC,Wacker Innsbruck,1,1
+2013-08-11,1314,AUT,SK Rapid,Austria Vienna,0,0
+2013-08-17,1314,AUT,Austria Vienna,Neustadt,5,0
+2013-08-17,1314,AUT,Grodig,Wolfsberger AC,4,3
+2013-08-17,1314,AUT,Sturm Graz,Salzburg,1,1
+2013-08-17,1314,AUT,Wacker Innsbruck,Ried,2,3
+2013-08-18,1314,AUT,Admira,SK Rapid,2,0
+2013-08-24,1314,AUT,Neustadt,Wacker Innsbruck,1,1
+2013-08-24,1314,AUT,Ried,Sturm Graz,3,0
+2013-08-24,1314,AUT,Wolfsberger AC,Austria Vienna,1,4
+2013-08-25,1314,AUT,Salzburg,Admira,1,0
+2013-08-25,1314,AUT,SK Rapid,Grodig,0,1
+2013-08-31,1314,AUT,Admira,Ried,1,4
+2013-08-31,1314,AUT,Austria Vienna,Wacker Innsbruck,1,1
+2013-08-31,1314,AUT,Grodig,Neustadt,3,6
+2013-08-31,1314,AUT,Sturm Graz,Wolfsberger AC,4,1
+2013-09-01,1314,AUT,Salzburg,SK Rapid,1,1
+2013-09-14,1314,AUT,Austria Vienna,Grodig,2,3
+2013-09-14,1314,AUT,Neustadt,Sturm Graz,1,3
+2013-09-14,1314,AUT,Wacker Innsbruck,SK Rapid,0,4
+2013-09-14,1314,AUT,Wolfsberger AC,Admira,3,1
+2013-09-15,1314,AUT,Ried,Salzburg,0,5
+2013-09-21,1314,AUT,Admira,Neustadt,0,3
+2013-09-21,1314,AUT,Grodig,Wacker Innsbruck,3,3
+2013-09-21,1314,AUT,Sturm Graz,Austria Vienna,1,2
+2013-09-22,1314,AUT,Salzburg,Wolfsberger AC,2,2
+2013-09-22,1314,AUT,SK Rapid,Ried,2,0
+2013-09-28,1314,AUT,Admira,Austria Vienna,1,0
+2013-09-28,1314,AUT,Ried,Grodig,4,2
+2013-09-28,1314,AUT,SK Rapid,Wolfsberger AC,2,4
+2013-09-28,1314,AUT,Sturm Graz,Wacker Innsbruck,1,0
+2013-09-29,1314,AUT,Salzburg,Neustadt,8,1
+2013-10-05,1314,AUT,Grodig,Sturm Graz,0,1
+2013-10-05,1314,AUT,Wacker Innsbruck,Admira,3,3
+2013-10-05,1314,AUT,Wolfsberger AC,Ried,1,1
+2013-10-06,1314,AUT,Austria Vienna,Salzburg,1,2
+2013-10-06,1314,AUT,Neustadt,SK Rapid,0,0
+2013-10-19,1314,AUT,Admira,Grodig,0,4
+2013-10-19,1314,AUT,Ried,Austria Vienna,1,1
+2013-10-19,1314,AUT,Salzburg,Wacker Innsbruck,6,0
+2013-10-19,1314,AUT,Wolfsberger AC,Neustadt,1,1
+2013-10-20,1314,AUT,SK Rapid,Sturm Graz,2,2
+2013-10-26,1314,AUT,Neustadt,Ried,3,3
+2013-10-26,1314,AUT,Sturm Graz,Admira,0,2
+2013-10-26,1314,AUT,Wacker Innsbruck,Wolfsberger AC,1,2
+2013-10-27,1314,AUT,Austria Vienna,SK Rapid,0,1
+2013-10-27,1314,AUT,Grodig,Salzburg,0,3
+2013-11-02,1314,AUT,Ried,Wacker Innsbruck,4,0
+2013-11-02,1314,AUT,Salzburg,Sturm Graz,1,0
+2013-11-02,1314,AUT,SK Rapid,Admira,4,2
+2013-11-02,1314,AUT,Wolfsberger AC,Grodig,1,1
+2013-11-03,1314,AUT,Neustadt,Austria Vienna,0,3
+2013-11-09,1314,AUT,Austria Vienna,Wolfsberger AC,1,0
+2013-11-09,1314,AUT,Wacker Innsbruck,Neustadt,4,0
+2013-11-10,1314,AUT,Admira,Salzburg,3,1
+2013-11-10,1314,AUT,Grodig,SK Rapid,2,2
+2013-11-23,1314,AUT,Neustadt,Grodig,0,2
+2013-11-23,1314,AUT,Ried,Admira,2,2
+2013-11-23,1314,AUT,Wacker Innsbruck,Austria Vienna,0,5
+2013-11-24,1314,AUT,SK Rapid,Salzburg,2,1
+2013-11-27,1314,AUT,Sturm Graz,Ried,2,0
+2013-11-30,1314,AUT,Admira,Wolfsberger AC,3,0
+2013-11-30,1314,AUT,Grodig,Austria Vienna,1,0
+2013-11-30,1314,AUT,Sturm Graz,Neustadt,2,3
+2013-12-01,1314,AUT,Salzburg,Ried,4,0
+2013-12-01,1314,AUT,SK Rapid,Wacker Innsbruck,3,0
+2013-12-03,1314,AUT,Austria Vienna,Sturm Graz,3,2
+2013-12-04,1314,AUT,Neustadt,Admira,1,0
+2013-12-04,1314,AUT,Ried,SK Rapid,2,0
+2013-12-04,1314,AUT,Wacker Innsbruck,Grodig,5,3
+2013-12-04,1314,AUT,Wolfsberger AC,Salzburg,1,2
+2013-12-07,1314,AUT,Austria Vienna,Admira,2,2
+2013-12-07,1314,AUT,Grodig,Ried,3,0
+2013-12-07,1314,AUT,Wacker Innsbruck,Sturm Graz,0,1
+2013-12-08,1314,AUT,Wolfsberger AC,SK Rapid,2,1
+2013-12-11,1314,AUT,Wolfsberger AC,Sturm Graz,2,1
+2013-12-14,1314,AUT,Admira,Wacker Innsbruck,3,0
+2013-12-14,1314,AUT,Ried,Wolfsberger AC,1,3
+2013-12-14,1314,AUT,Sturm Graz,Grodig,2,2
+2013-12-15,1314,AUT,Salzburg,Austria Vienna,4,0
+2013-12-15,1314,AUT,SK Rapid,Neustadt,0,0
+2013-12-17,1314,AUT,Grodig,Admira,2,1
+2013-12-18,1314,AUT,Austria Vienna,Ried,1,1
+2013-12-18,1314,AUT,Neustadt,Wolfsberger AC,1,1
+2013-12-18,1314,AUT,Sturm Graz,SK Rapid,2,0
+2013-12-18,1314,AUT,Wacker Innsbruck,Salzburg,0,1
+2014-02-02,1314,AUT,Neustadt,Salzburg,1,5
+2014-02-08,1314,AUT,Admira,Sturm Graz,1,1
+2014-02-08,1314,AUT,Ried,Neustadt,2,1
+2014-02-08,1314,AUT,Salzburg,Grodig,6,0
+2014-02-08,1314,AUT,Wolfsberger AC,Wacker Innsbruck,3,2
+2014-02-09,1314,AUT,SK Rapid,Austria Vienna,3,1
+2014-02-15,1314,AUT,Austria Vienna,Neustadt,1,1
+2014-02-15,1314,AUT,Grodig,Wolfsberger AC,3,0
+2014-02-15,1314,AUT,Sturm Graz,Salzburg,1,4
+2014-02-15,1314,AUT,Wacker Innsbruck,Ried,1,1
+2014-02-16,1314,AUT,Admira,SK Rapid,2,1
+2014-02-22,1314,AUT,Neustadt,Wacker Innsbruck,1,0
+2014-02-22,1314,AUT,Ried,Sturm Graz,2,2
+2014-02-22,1314,AUT,SK Rapid,Grodig,0,0
+2014-02-22,1314,AUT,Wolfsberger AC,Austria Vienna,0,0
+2014-02-23,1314,AUT,Salzburg,Admira,6,1
+2014-03-01,1314,AUT,Admira,Ried,2,2
+2014-03-01,1314,AUT,Austria Vienna,Wacker Innsbruck,2,1
+2014-03-01,1314,AUT,Grodig,Neustadt,1,2
+2014-03-01,1314,AUT,Sturm Graz,Wolfsberger AC,1,4
+2014-03-02,1314,AUT,Salzburg,SK Rapid,6,3
+2014-03-08,1314,AUT,Austria Vienna,Grodig,2,0
+2014-03-08,1314,AUT,Neustadt,Sturm Graz,2,1
+2014-03-08,1314,AUT,Ried,Salzburg,1,3
+2014-03-08,1314,AUT,Wolfsberger AC,Admira,2,3
+2014-03-09,1314,AUT,Wacker Innsbruck,SK Rapid,1,1
+2014-03-15,1314,AUT,Admira,Neustadt,3,0
+2014-03-15,1314,AUT,Grodig,Wacker Innsbruck,1,1
+2014-03-15,1314,AUT,SK Rapid,Ried,1,0
+2014-03-15,1314,AUT,Sturm Graz,Austria Vienna,1,1
+2014-03-16,1314,AUT,Salzburg,Wolfsberger AC,5,0
+2014-03-22,1314,AUT,Admira,Austria Vienna,0,1
+2014-03-22,1314,AUT,Ried,Grodig,1,4
+2014-03-22,1314,AUT,SK Rapid,Wolfsberger AC,3,0
+2014-03-22,1314,AUT,Sturm Graz,Wacker Innsbruck,3,1
+2014-03-23,1314,AUT,Salzburg,Neustadt,5,0
+2014-03-25,1314,AUT,Wacker Innsbruck,Admira,0,0
+2014-03-26,1314,AUT,Austria Vienna,Salzburg,3,0
+2014-03-26,1314,AUT,Grodig,Sturm Graz,0,6
+2014-03-26,1314,AUT,Neustadt,SK Rapid,0,3
+2014-03-26,1314,AUT,Wolfsberger AC,Ried,0,2
+2014-03-29,1314,AUT,Admira,Grodig,4,0
+2014-03-29,1314,AUT,Salzburg,Wacker Innsbruck,0,0
+2014-03-29,1314,AUT,SK Rapid,Sturm Graz,2,0
+2014-03-29,1314,AUT,Wolfsberger AC,Neustadt,4,0
+2014-03-30,1314,AUT,Ried,Austria Vienna,2,2
+2014-04-05,1314,AUT,Grodig,Salzburg,1,3
+2014-04-05,1314,AUT,Neustadt,Ried,1,1
+2014-04-05,1314,AUT,Sturm Graz,Admira,1,1
+2014-04-05,1314,AUT,Wacker Innsbruck,Wolfsberger AC,0,1
+2014-04-06,1314,AUT,Austria Vienna,SK Rapid,0,1
+2014-04-12,1314,AUT,Ried,Wacker Innsbruck,1,2
+2014-04-12,1314,AUT,Salzburg,Sturm Graz,1,2
+2014-04-12,1314,AUT,SK Rapid,Admira,0,0
+2014-04-12,1314,AUT,Wolfsberger AC,Grodig,1,2
+2014-04-13,1314,AUT,Neustadt,Austria Vienna,0,2
+2014-04-19,1314,AUT,Admira,Salzburg,2,3
+2014-04-19,1314,AUT,Austria Vienna,Wolfsberger AC,3,1
+2014-04-19,1314,AUT,Sturm Graz,Ried,2,1
+2014-04-19,1314,AUT,Wacker Innsbruck,Neustadt,3,1
+2014-04-20,1314,AUT,Grodig,SK Rapid,2,2
+2014-04-26,1314,AUT,Neustadt,Grodig,1,3
+2014-04-26,1314,AUT,Ried,Admira,3,0
+2014-04-26,1314,AUT,SK Rapid,Salzburg,2,1
+2014-04-26,1314,AUT,Wacker Innsbruck,Austria Vienna,1,1
+2014-04-27,1314,AUT,Wolfsberger AC,Sturm Graz,0,1
+2014-05-04,1314,AUT,Admira,Wolfsberger AC,1,0
+2014-05-04,1314,AUT,Grodig,Austria Vienna,2,1
+2014-05-04,1314,AUT,Salzburg,Ried,4,0
+2014-05-04,1314,AUT,SK Rapid,Wacker Innsbruck,2,0
+2014-05-04,1314,AUT,Sturm Graz,Neustadt,1,2
+2014-05-11,1314,AUT,Austria Vienna,Sturm Graz,1,2
+2014-05-11,1314,AUT,Ried,SK Rapid,2,5
+2014-05-11,1314,AUT,Wacker Innsbruck,Grodig,3,3
+2014-05-11,1314,AUT,Wolfsberger AC,Salzburg,2,0
+2014-05-12,1314,AUT,Neustadt,Admira,5,2
+2014-07-19,1415,AUT,Admira,Wolfsberger AC,1,4
+2014-07-19,1415,AUT,Altach,Sturm Graz,1,0
+2014-07-19,1415,AUT,Ried,Neustadt,3,1
+2014-07-19,1415,AUT,Salzburg,SK Rapid,6,1
+2014-07-20,1415,AUT,Austria Vienna,Grodig,1,1
+2014-07-26,1415,AUT,Neustadt,Salzburg,0,5
+2014-07-26,1415,AUT,SK Rapid,Ried,1,0
+2014-07-26,1415,AUT,Wolfsberger AC,Austria Vienna,4,0
+2014-07-27,1415,AUT,Grodig,Sturm Graz,2,1
+2014-08-02,1415,AUT,Admira,SK Rapid,1,1
+2014-08-02,1415,AUT,Austria Vienna,Altach,0,0
+2014-08-02,1415,AUT,Ried,Salzburg,0,2
+2014-08-02,1415,AUT,Sturm Graz,Neustadt,4,2
+2014-08-03,1415,AUT,Grodig,Wolfsberger AC,0,2
+2014-08-09,1415,AUT,Altach,Wolfsberger AC,1,2
+2014-08-09,1415,AUT,Neustadt,Austria Vienna,2,2
+2014-08-09,1415,AUT,Ried,Admira,1,1
+2014-08-09,1415,AUT,SK Rapid,Sturm Graz,1,1
+2014-08-10,1415,AUT,Salzburg,Grodig,8,0
+2014-08-13,1415,AUT,Altach,Admira,0,2
+2014-08-16,1415,AUT,Admira,Salzburg,0,3
+2014-08-16,1415,AUT,Grodig,Neustadt,3,0
+2014-08-16,1415,AUT,SK Rapid,Altach,0,1
+2014-08-16,1415,AUT,Wolfsberger AC,Ried,4,1
+2014-08-17,1415,AUT,Sturm Graz,Austria Vienna,1,1
+2014-08-23,1415,AUT,Neustadt,Admira,5,4
+2014-08-23,1415,AUT,Ried,Grodig,2,2
+2014-08-23,1415,AUT,Salzburg,Altach,5,0
+2014-08-23,1415,AUT,Sturm Graz,Wolfsberger AC,1,2
+2014-08-24,1415,AUT,Austria Vienna,SK Rapid,2,2
+2014-08-30,1415,AUT,Admira,Austria Vienna,2,1
+2014-08-30,1415,AUT,Altach,Ried,2,2
+2014-08-30,1415,AUT,Salzburg,Sturm Graz,2,3
+2014-08-30,1415,AUT,Wolfsberger AC,Neustadt,0,1
+2014-08-31,1415,AUT,SK Rapid,Grodig,2,0
+2014-09-13,1415,AUT,Austria Vienna,Ried,3,1
+2014-09-13,1415,AUT,Sturm Graz,Admira,0,2
+2014-09-14,1415,AUT,Wolfsberger AC,Salzburg,1,0
+2014-09-17,1415,AUT,Grodig,Altach,3,3
+2014-09-17,1415,AUT,Neustadt,SK Rapid,1,5
+2014-09-20,1415,AUT,Admira,Grodig,0,0
+2014-09-20,1415,AUT,Altach,Neustadt,2,0
+2014-09-20,1415,AUT,Ried,Sturm Graz,0,1
+2014-09-20,1415,AUT,SK Rapid,Wolfsberger AC,3,0
+2014-09-21,1415,AUT,Salzburg,Austria Vienna,2,3
+2014-09-27,1415,AUT,Grodig,Austria Vienna,0,0
+2014-09-27,1415,AUT,Neustadt,Ried,0,1
+2014-09-27,1415,AUT,Sturm Graz,Altach,2,2
+2014-09-27,1415,AUT,Wolfsberger AC,Admira,2,1
+2014-09-28,1415,AUT,SK Rapid,Salzburg,1,2
+2014-10-04,1415,AUT,Admira,Altach,0,2
+2014-10-04,1415,AUT,Austria Vienna,Wolfsberger AC,0,2
+2014-10-04,1415,AUT,Sturm Graz,Grodig,1,0
+2014-10-05,1415,AUT,Ried,SK Rapid,1,2
+2014-10-05,1415,AUT,Salzburg,Neustadt,4,1
+2014-10-18,1415,AUT,Altach,Austria Vienna,1,1
+2014-10-18,1415,AUT,Salzburg,Ried,4,2
+2014-10-18,1415,AUT,SK Rapid,Admira,0,0
+2014-10-18,1415,AUT,Wolfsberger AC,Grodig,1,2
+2014-10-19,1415,AUT,Neustadt,Sturm Graz,0,0
+2014-10-25,1415,AUT,Admira,Ried,0,0
+2014-10-25,1415,AUT,Austria Vienna,Neustadt,2,0
+2014-10-25,1415,AUT,Sturm Graz,SK Rapid,1,3
+2014-10-25,1415,AUT,Wolfsberger AC,Altach,0,0
+2014-10-26,1415,AUT,Grodig,Salzburg,2,2
+2014-11-01,1415,AUT,Austria Vienna,Sturm Graz,0,3
+2014-11-01,1415,AUT,Ried,Wolfsberger AC,1,0
+2014-11-01,1415,AUT,Salzburg,Admira,2,0
+2014-11-02,1415,AUT,Altach,SK Rapid,2,0
+2014-11-05,1415,AUT,Neustadt,Grodig,2,4
+2014-11-08,1415,AUT,Admira,Neustadt,1,1
+2014-11-08,1415,AUT,Grodig,Ried,0,1
+2014-11-08,1415,AUT,Wolfsberger AC,Sturm Graz,0,2
+2014-11-09,1415,AUT,Altach,Salzburg,4,1
+2014-11-09,1415,AUT,SK Rapid,Austria Vienna,2,3
+2014-11-22,1415,AUT,Austria Vienna,Admira,4,0
+2014-11-22,1415,AUT,Grodig,SK Rapid,3,1
+2014-11-22,1415,AUT,Neustadt,Wolfsberger AC,2,0
+2014-11-22,1415,AUT,Ried,Altach,2,1
+2014-11-23,1415,AUT,Sturm Graz,Salzburg,1,2
+2014-11-29,1415,AUT,Admira,Sturm Graz,0,2
+2014-11-29,1415,AUT,Altach,Grodig,3,1
+2014-11-29,1415,AUT,Ried,Austria Vienna,1,1
+2014-11-29,1415,AUT,SK Rapid,Neustadt,3,0
+2014-11-30,1415,AUT,Salzburg,Wolfsberger AC,2,2
+2014-12-06,1415,AUT,Austria Vienna,Salzburg,2,4
+2014-12-06,1415,AUT,Grodig,Admira,5,0
+2014-12-06,1415,AUT,Neustadt,Altach,2,0
+2014-12-06,1415,AUT,Sturm Graz,Ried,3,1
+2014-12-07,1415,AUT,Wolfsberger AC,SK Rapid,1,1
+2014-12-13,1415,AUT,Admira,Wolfsberger AC,2,1
+2014-12-13,1415,AUT,Altach,Sturm Graz,2,0
+2014-12-13,1415,AUT,Austria Vienna,Grodig,1,0
+2014-12-13,1415,AUT,Ried,Neustadt,6,0
+2014-12-14,1415,AUT,Salzburg,SK Rapid,1,2
+2015-02-14,1415,AUT,Altach,Admira,2,0
+2015-02-14,1415,AUT,Neustadt,Salzburg,0,2
+2015-02-14,1415,AUT,SK Rapid,Ried,3,0
+2015-02-15,1415,AUT,Wolfsberger AC,Austria Vienna,1,0
+2015-02-21,1415,AUT,Austria Vienna,Altach,5,2
+2015-02-21,1415,AUT,Sturm Graz,Neustadt,3,3
+2015-02-22,1415,AUT,Admira,SK Rapid,1,1
+2015-02-22,1415,AUT,Ried,Salzburg,2,2
+2015-02-28,1415,AUT,Altach,Wolfsberger AC,1,0
+2015-02-28,1415,AUT,Neustadt,Austria Vienna,1,0
+2015-02-28,1415,AUT,Ried,Admira,2,2
+2015-02-28,1415,AUT,SK Rapid,Sturm Graz,1,0
+2015-03-01,1415,AUT,Salzburg,Grodig,3,1
+2015-03-03,1415,AUT,Sturm Graz,Austria Vienna,2,1
+2015-03-04,1415,AUT,Admira,Salzburg,1,4
+2015-03-04,1415,AUT,Grodig,Neustadt,1,3
+2015-03-04,1415,AUT,SK Rapid,Altach,1,0
+2015-03-04,1415,AUT,Wolfsberger AC,Ried,1,2
+2015-03-07,1415,AUT,Neustadt,Admira,0,0
+2015-03-07,1415,AUT,Ried,Grodig,2,1
+2015-03-07,1415,AUT,Salzburg,Altach,0,1
+2015-03-07,1415,AUT,Sturm Graz,Wolfsberger AC,2,0
+2015-03-08,1415,AUT,Austria Vienna,SK Rapid,2,1
+2015-03-11,1415,AUT,Grodig,Sturm Graz,0,2
+2015-03-14,1415,AUT,Admira,Austria Vienna,1,1
+2015-03-14,1415,AUT,Altach,Ried,2,1
+2015-03-14,1415,AUT,SK Rapid,Grodig,4,0
+2015-03-14,1415,AUT,Wolfsberger AC,Neustadt,2,0
+2015-03-15,1415,AUT,Salzburg,Sturm Graz,2,1
+2015-03-18,1415,AUT,Grodig,Wolfsberger AC,2,0
+2015-03-21,1415,AUT,Austria Vienna,Ried,0,1
+2015-03-21,1415,AUT,Grodig,Altach,0,1
+2015-03-21,1415,AUT,Sturm Graz,Admira,3,1
+2015-03-21,1415,AUT,Wolfsberger AC,Salzburg,3,2
+2015-03-22,1415,AUT,Neustadt,SK Rapid,0,1
+2015-04-04,1415,AUT,Admira,Grodig,2,3
+2015-04-04,1415,AUT,Salzburg,Austria Vienna,3,1
+2015-04-04,1415,AUT,SK Rapid,Wolfsberger AC,4,1
+2015-04-05,1415,AUT,Ried,Sturm Graz,1,2
+2015-04-11,1415,AUT,Grodig,Austria Vienna,1,1
+2015-04-11,1415,AUT,Neustadt,Ried,0,1
+2015-04-11,1415,AUT,Sturm Graz,Altach,5,0
+2015-04-11,1415,AUT,Wolfsberger AC,Admira,2,0
+2015-04-12,1415,AUT,SK Rapid,Salzburg,3,3
+2015-04-15,1415,AUT,Altach,Neustadt,3,1
+2015-04-18,1415,AUT,Admira,Altach,2,2
+2015-04-18,1415,AUT,Ried,SK Rapid,0,1
+2015-04-18,1415,AUT,Salzburg,Neustadt,6,0
+2015-04-18,1415,AUT,Sturm Graz,Grodig,2,1
+2015-04-19,1415,AUT,Austria Vienna,Wolfsberger AC,1,1
+2015-04-25,1415,AUT,Neustadt,Sturm Graz,4,4
+2015-04-25,1415,AUT,Salzburg,Ried,2,1
+2015-04-25,1415,AUT,SK Rapid,Admira,1,1
+2015-04-25,1415,AUT,Wolfsberger AC,Grodig,2,1
+2015-04-26,1415,AUT,Altach,Austria Vienna,2,0
+2015-05-02,1415,AUT,Admira,Ried,1,0
+2015-05-02,1415,AUT,Austria Vienna,Neustadt,2,1
+2015-05-02,1415,AUT,Grodig,Salzburg,0,3
+2015-05-02,1415,AUT,Wolfsberger AC,Altach,2,0
+2015-05-03,1415,AUT,Sturm Graz,SK Rapid,2,2
+2015-05-09,1415,AUT,Austria Vienna,Sturm Graz,0,0
+2015-05-09,1415,AUT,Neustadt,Grodig,2,4
+2015-05-09,1415,AUT,Ried,Wolfsberger AC,4,0
+2015-05-09,1415,AUT,Salzburg,Admira,4,0
+2015-05-10,1415,AUT,Altach,SK Rapid,1,3
+2015-05-16,1415,AUT,Admira,Neustadt,0,0
+2015-05-16,1415,AUT,Altach,Salzburg,2,2
+2015-05-16,1415,AUT,Grodig,Ried,3,2
+2015-05-16,1415,AUT,Wolfsberger AC,Sturm Graz,1,0
+2015-05-17,1415,AUT,SK Rapid,Austria Vienna,4,1
+2015-05-19,1415,AUT,Ried,Altach,4,1
+2015-05-20,1415,AUT,Austria Vienna,Admira,0,1
+2015-05-20,1415,AUT,Neustadt,Wolfsberger AC,2,0
+2015-05-20,1415,AUT,Sturm Graz,Salzburg,0,0
+2015-05-24,1415,AUT,Admira,Sturm Graz,1,2
+2015-05-24,1415,AUT,Altach,Grodig,2,0
+2015-05-24,1415,AUT,Ried,Austria Vienna,0,2
+2015-05-24,1415,AUT,Salzburg,Wolfsberger AC,3,0
+2015-05-24,1415,AUT,SK Rapid,Neustadt,0,0
+2015-05-27,1415,AUT,Grodig,SK Rapid,0,2
+2015-05-31,1415,AUT,Austria Vienna,Salzburg,1,1
+2015-05-31,1415,AUT,Grodig,Admira,0,1
+2015-05-31,1415,AUT,Neustadt,Altach,0,1
+2015-05-31,1415,AUT,Sturm Graz,Ried,0,0
+2015-05-31,1415,AUT,Wolfsberger AC,SK Rapid,0,5
+2015-07-25,1516,AUT,Grodig,Altach,2,1
+2015-07-25,1516,AUT,Mattersburg,Salzburg,2,1
+2015-07-25,1516,AUT,SK Rapid,Ried,3,0
+2015-07-25,1516,AUT,Sturm Graz,Admira,1,1
+2015-07-26,1516,AUT,Wolfsberger AC,Austria Vienna,0,2
+2015-08-01,1516,AUT,Admira,Mattersburg,2,1
+2015-08-01,1516,AUT,Salzburg,SK Rapid,1,2
+2015-08-02,1516,AUT,Austria Vienna,Altach,3,1
+2015-08-02,1516,AUT,Ried,Wolfsberger AC,0,0
+2015-08-02,1516,AUT,Sturm Graz,Grodig,1,1
+2015-08-08,1516,AUT,Admira,Salzburg,2,2
+2015-08-08,1516,AUT,Grodig,Austria Vienna,2,2
+2015-08-08,1516,AUT,Mattersburg,Ried,4,1
+2015-08-09,1516,AUT,Altach,Sturm Graz,0,1
+2015-08-09,1516,AUT,SK Rapid,Wolfsberger AC,2,1
+2015-08-11,1516,AUT,Ried,Salzburg,1,4
+2015-08-12,1516,AUT,Altach,Mattersburg,3,1
+2015-08-12,1516,AUT,Austria Vienna,SK Rapid,2,5
+2015-08-12,1516,AUT,Grodig,Admira,2,3
+2015-08-12,1516,AUT,Wolfsberger AC,Sturm Graz,0,2
+2015-08-15,1516,AUT,Admira,Ried,3,1
+2015-08-15,1516,AUT,Austria Vienna,Mattersburg,5,1
+2015-08-15,1516,AUT,Salzburg,Altach,2,0
+2015-08-15,1516,AUT,Wolfsberger AC,Grodig,3,2
+2015-08-16,1516,AUT,Sturm Graz,SK Rapid,2,2
+2015-08-22,1516,AUT,Mattersburg,Wolfsberger AC,1,0
+2015-08-22,1516,AUT,Ried,Sturm Graz,1,0
+2015-08-22,1516,AUT,SK Rapid,Grodig,3,0
+2015-08-23,1516,AUT,Altach,Admira,1,2
+2015-08-23,1516,AUT,Salzburg,Austria Vienna,2,2
+2015-08-29,1516,AUT,Admira,Austria Vienna,0,1
+2015-08-29,1516,AUT,Grodig,Ried,4,1
+2015-08-29,1516,AUT,SK Rapid,Mattersburg,2,4
+2015-08-30,1516,AUT,Sturm Graz,Salzburg,2,3
+2015-08-30,1516,AUT,Wolfsberger AC,Altach,0,2
+2015-09-12,1516,AUT,Admira,Wolfsberger AC,1,0
+2015-09-12,1516,AUT,Altach,SK Rapid,2,0
+2015-09-12,1516,AUT,Austria Vienna,Ried,1,1
+2015-09-12,1516,AUT,Salzburg,Grodig,4,2
+2015-09-13,1516,AUT,Mattersburg,Sturm Graz,2,0
+2015-09-19,1516,AUT,Grodig,Mattersburg,1,1
+2015-09-19,1516,AUT,Ried,Altach,2,0
+2015-09-19,1516,AUT,Sturm Graz,Austria Vienna,2,0
+2015-09-19,1516,AUT,Wolfsberger AC,Salzburg,1,1
+2015-09-20,1516,AUT,SK Rapid,Admira,2,0
+2015-09-26,1516,AUT,Altach,Grodig,1,0
+2015-09-26,1516,AUT,Austria Vienna,Wolfsberger AC,1,0
+2015-09-26,1516,AUT,Ried,SK Rapid,0,1
+2015-09-26,1516,AUT,Salzburg,Mattersburg,4,2
+2015-09-27,1516,AUT,Admira,Sturm Graz,0,1
+2015-10-03,1516,AUT,Altach,Austria Vienna,1,2
+2015-10-03,1516,AUT,Grodig,Sturm Graz,3,0
+2015-10-03,1516,AUT,Mattersburg,Admira,0,4
+2015-10-03,1516,AUT,Wolfsberger AC,Ried,1,1
+2015-10-04,1516,AUT,SK Rapid,Salzburg,1,2
+2015-10-17,1516,AUT,Austria Vienna,Grodig,2,1
+2015-10-17,1516,AUT,Ried,Mattersburg,0,1
+2015-10-17,1516,AUT,Salzburg,Admira,8,0
+2015-10-17,1516,AUT,Sturm Graz,Altach,3,1
+2015-10-18,1516,AUT,Wolfsberger AC,SK Rapid,2,1
+2015-10-24,1516,AUT,Admira,Grodig,0,0
+2015-10-24,1516,AUT,Mattersburg,Altach,2,1
+2015-10-24,1516,AUT,Salzburg,Ried,2,1
+2015-10-24,1516,AUT,Sturm Graz,Wolfsberger AC,2,0
+2015-10-25,1516,AUT,SK Rapid,Austria Vienna,1,2
+2015-10-31,1516,AUT,Altach,Salzburg,1,0
+2015-10-31,1516,AUT,Grodig,Wolfsberger AC,1,0
+2015-10-31,1516,AUT,Ried,Admira,1,1
+2015-10-31,1516,AUT,SK Rapid,Sturm Graz,2,1
+2015-11-01,1516,AUT,Mattersburg,Austria Vienna,1,2
+2015-11-07,1516,AUT,Admira,Altach,1,1
+2015-11-07,1516,AUT,Austria Vienna,Salzburg,1,1
+2015-11-07,1516,AUT,Sturm Graz,Ried,3,2
+2015-11-07,1516,AUT,Wolfsberger AC,Mattersburg,2,1
+2015-11-08,1516,AUT,Grodig,SK Rapid,2,1
+2015-11-21,1516,AUT,Altach,Wolfsberger AC,2,1
+2015-11-21,1516,AUT,Austria Vienna,Admira,1,1
+2015-11-21,1516,AUT,Mattersburg,SK Rapid,1,6
+2015-11-21,1516,AUT,Ried,Grodig,1,0
+2015-11-22,1516,AUT,Salzburg,Sturm Graz,3,1
+2015-11-28,1516,AUT,Grodig,Salzburg,1,1
+2015-11-28,1516,AUT,Sturm Graz,Mattersburg,0,0
+2015-11-28,1516,AUT,Wolfsberger AC,Admira,4,0
+2015-11-29,1516,AUT,Ried,Austria Vienna,4,2
+2015-11-29,1516,AUT,SK Rapid,Altach,3,1
+2015-12-01,1516,AUT,Salzburg,Wolfsberger AC,1,1
+2015-12-02,1516,AUT,Admira,SK Rapid,2,1
+2015-12-02,1516,AUT,Altach,Ried,1,3
+2015-12-02,1516,AUT,Austria Vienna,Sturm Graz,2,1
+2015-12-02,1516,AUT,Mattersburg,Grodig,0,2
+2015-12-05,1516,AUT,Grodig,Altach,0,3
+2015-12-05,1516,AUT,SK Rapid,Ried,2,1
+2015-12-05,1516,AUT,Sturm Graz,Admira,1,1
+2015-12-05,1516,AUT,Wolfsberger AC,Austria Vienna,2,0
+2015-12-06,1516,AUT,Mattersburg,Salzburg,0,0
+2015-12-12,1516,AUT,Admira,Mattersburg,1,1
+2015-12-12,1516,AUT,Austria Vienna,Altach,1,2
+2015-12-12,1516,AUT,Ried,Wolfsberger AC,1,0
+2015-12-12,1516,AUT,Sturm Graz,Grodig,2,0
+2015-12-13,1516,AUT,Salzburg,SK Rapid,2,0
+2016-02-06,1516,AUT,Altach,Sturm Graz,2,2
+2016-02-06,1516,AUT,Grodig,Austria Vienna,0,1
+2016-02-06,1516,AUT,Mattersburg,Ried,3,3
+2016-02-06,1516,AUT,SK Rapid,Wolfsberger AC,3,0
+2016-02-07,1516,AUT,Admira,Salzburg,1,2
+2016-02-13,1516,AUT,Altach,Mattersburg,1,2
+2016-02-13,1516,AUT,Grodig,Admira,2,2
+2016-02-13,1516,AUT,Ried,Salzburg,1,0
+2016-02-13,1516,AUT,Wolfsberger AC,Sturm Graz,0,0
+2016-02-14,1516,AUT,Austria Vienna,SK Rapid,0,3
+2016-02-20,1516,AUT,Admira,Ried,0,0
+2016-02-20,1516,AUT,Austria Vienna,Mattersburg,2,2
+2016-02-20,1516,AUT,Salzburg,Altach,2,0
+2016-02-20,1516,AUT,Wolfsberger AC,Grodig,2,0
+2016-02-21,1516,AUT,Sturm Graz,SK Rapid,0,2
+2016-02-27,1516,AUT,Altach,Admira,1,2
+2016-02-27,1516,AUT,Mattersburg,Wolfsberger AC,1,1
+2016-02-27,1516,AUT,Ried,Sturm Graz,0,1
+2016-02-28,1516,AUT,Salzburg,Austria Vienna,4,1
+2016-02-28,1516,AUT,SK Rapid,Grodig,3,2
+2016-03-01,1516,AUT,Wolfsberger AC,Altach,1,0
+2016-03-02,1516,AUT,Admira,Austria Vienna,0,3
+2016-03-02,1516,AUT,Grodig,Ried,2,2
+2016-03-02,1516,AUT,SK Rapid,Mattersburg,3,0
+2016-03-02,1516,AUT,Sturm Graz,Salzburg,0,0
+2016-03-05,1516,AUT,Admira,Wolfsberger AC,0,2
+2016-03-05,1516,AUT,Austria Vienna,Ried,3,1
+2016-03-05,1516,AUT,Mattersburg,Sturm Graz,1,0
+2016-03-05,1516,AUT,Salzburg,Grodig,3,0
+2016-03-06,1516,AUT,Altach,SK Rapid,0,0
+2016-03-12,1516,AUT,Grodig,Mattersburg,0,1
+2016-03-12,1516,AUT,Ried,Altach,0,2
+2016-03-12,1516,AUT,SK Rapid,Admira,0,4
+2016-03-12,1516,AUT,Wolfsberger AC,Salzburg,1,1
+2016-03-13,1516,AUT,Sturm Graz,Austria Vienna,1,1
+2016-03-19,1516,AUT,Admira,Sturm Graz,1,0
+2016-03-19,1516,AUT,Altach,Grodig,1,0
+2016-03-19,1516,AUT,Austria Vienna,Wolfsberger AC,0,0
+2016-03-19,1516,AUT,Salzburg,Mattersburg,2,1
+2016-03-20,1516,AUT,Ried,SK Rapid,1,0
+2016-04-02,1516,AUT,Altach,Austria Vienna,2,0
+2016-04-02,1516,AUT,Grodig,Sturm Graz,1,3
+2016-04-02,1516,AUT,Mattersburg,Admira,0,3
+2016-04-02,1516,AUT,Wolfsberger AC,Ried,1,0
+2016-04-03,1516,AUT,SK Rapid,Salzburg,1,1
+2016-04-09,1516,AUT,Austria Vienna,Grodig,0,2
+2016-04-09,1516,AUT,Ried,Mattersburg,1,0
+2016-04-09,1516,AUT,Sturm Graz,Altach,4,1
+2016-04-09,1516,AUT,Wolfsberger AC,SK Rapid,2,2
+2016-04-10,1516,AUT,Salzburg,Admira,1,0
+2016-04-16,1516,AUT,Admira,Grodig,1,1
+2016-04-16,1516,AUT,Mattersburg,Altach,0,0
+2016-04-16,1516,AUT,Salzburg,Ried,2,1
+2016-04-16,1516,AUT,Sturm Graz,Wolfsberger AC,1,0
+2016-04-17,1516,AUT,SK Rapid,Austria Vienna,1,0
+2016-04-23,1516,AUT,Altach,Salzburg,1,3
+2016-04-23,1516,AUT,Grodig,Wolfsberger AC,0,1
+2016-04-23,1516,AUT,Mattersburg,Austria Vienna,0,9
+2016-04-23,1516,AUT,Ried,Admira,1,0
+2016-04-24,1516,AUT,SK Rapid,Sturm Graz,2,0
+2016-04-30,1516,AUT,Admira,Altach,2,1
+2016-04-30,1516,AUT,Grodig,SK Rapid,2,0
+2016-04-30,1516,AUT,Sturm Graz,Ried,0,0
+2016-04-30,1516,AUT,Wolfsberger AC,Mattersburg,2,0
+2016-05-01,1516,AUT,Austria Vienna,Salzburg,0,2
+2016-05-07,1516,AUT,Altach,Wolfsberger AC,1,1
+2016-05-07,1516,AUT,Austria Vienna,Admira,3,1
+2016-05-07,1516,AUT,Ried,Grodig,2,0
+2016-05-07,1516,AUT,Salzburg,Sturm Graz,1,1
+2016-05-08,1516,AUT,Mattersburg,SK Rapid,0,2
+2016-05-11,1516,AUT,Grodig,Salzburg,1,2
+2016-05-11,1516,AUT,Ried,Austria Vienna,0,5
+2016-05-11,1516,AUT,SK Rapid,Altach,1,1
+2016-05-11,1516,AUT,Sturm Graz,Mattersburg,1,1
+2016-05-11,1516,AUT,Wolfsberger AC,Admira,1,2
+2016-05-15,1516,AUT,Admira,SK Rapid,1,3
+2016-05-15,1516,AUT,Altach,Ried,0,0
+2016-05-15,1516,AUT,Austria Vienna,Sturm Graz,3,0
+2016-05-15,1516,AUT,Mattersburg,Grodig,2,3
+2016-05-15,1516,AUT,Salzburg,Wolfsberger AC,1,0
+2016-07-23,1617,AUT,Altach,Wolfsberger AC,1,0
+2016-07-23,1617,AUT,SK Rapid,Ried,5,0
+2016-07-23,1617,AUT,Sturm Graz,Salzburg,3,1
+2016-07-24,1617,AUT,Mattersburg,Admira,0,1
+2016-07-24,1617,AUT,St. Polten,Austria Vienna,1,2
+2016-07-30,1617,AUT,Ried,Sturm Graz,1,0
+2016-07-30,1617,AUT,Salzburg,Wolfsberger AC,1,1
+2016-07-31,1617,AUT,Altach,SK Rapid,1,0
+2016-07-31,1617,AUT,Austria Vienna,Mattersburg,3,1
+2016-07-31,1617,AUT,St. Polten,Admira,2,1
+2016-08-06,1617,AUT,Admira,Altach,1,2
+2016-08-06,1617,AUT,Mattersburg,Sturm Graz,0,2
+2016-08-06,1617,AUT,Salzburg,St. Polten,2,0
+2016-08-06,1617,AUT,Wolfsberger AC,Ried,1,0
+2016-08-07,1617,AUT,Austria Vienna,SK Rapid,1,4
+2016-08-13,1617,AUT,Altach,St. Polten,3,1
+2016-08-13,1617,AUT,Mattersburg,Wolfsberger AC,3,1
+2016-08-13,1617,AUT,Ried,Salzburg,0,2
+2016-08-13,1617,AUT,SK Rapid,Admira,4,0
+2016-08-14,1617,AUT,Sturm Graz,Austria Vienna,3,1
+2016-08-20,1617,AUT,Admira,Ried,1,0
+2016-08-20,1617,AUT,Salzburg,Mattersburg,3,1
+2016-08-20,1617,AUT,St. Polten,Sturm Graz,1,3
+2016-08-21,1617,AUT,Austria Vienna,Altach,3,1
+2016-08-21,1617,AUT,Wolfsberger AC,SK Rapid,1,1
+2016-08-27,1617,AUT,Mattersburg,St. Polten,1,1
+2016-08-27,1617,AUT,Sturm Graz,Altach,3,1
+2016-08-27,1617,AUT,Wolfsberger AC,Admira,5,0
+2016-08-28,1617,AUT,Ried,Austria Vienna,1,1
+2016-08-28,1617,AUT,SK Rapid,Salzburg,0,0
+2016-09-10,1617,AUT,Altach,Mattersburg,2,1
+2016-09-10,1617,AUT,Austria Vienna,Wolfsberger AC,4,1
+2016-09-10,1617,AUT,St. Polten,Ried,2,3
+2016-09-10,1617,AUT,Sturm Graz,SK Rapid,1,1
+2016-09-11,1617,AUT,Admira,Salzburg,0,4
+2016-09-17,1617,AUT,Admira,Sturm Graz,0,3
+2016-09-17,1617,AUT,Ried,Altach,2,1
+2016-09-17,1617,AUT,Wolfsberger AC,St. Polten,1,1
+2016-09-18,1617,AUT,Salzburg,Austria Vienna,4,1
+2016-09-18,1617,AUT,SK Rapid,Mattersburg,3,0
+2016-09-24,1617,AUT,Austria Vienna,Admira,1,2
+2016-09-24,1617,AUT,Mattersburg,Ried,1,1
+2016-09-24,1617,AUT,St. Polten,SK Rapid,1,1
+2016-09-24,1617,AUT,Sturm Graz,Wolfsberger AC,3,0
+2016-09-25,1617,AUT,Altach,Salzburg,0,0
+2016-10-01,1617,AUT,Admira,Mattersburg,1,0
+2016-10-01,1617,AUT,Wolfsberger AC,Altach,1,2
+2016-10-02,1617,AUT,Austria Vienna,St. Polten,2,1
+2016-10-02,1617,AUT,Ried,SK Rapid,4,2
+2016-10-02,1617,AUT,Salzburg,Sturm Graz,0,1
+2016-10-15,1617,AUT,Admira,St. Polten,1,1
+2016-10-15,1617,AUT,SK Rapid,Altach,1,1
+2016-10-15,1617,AUT,Sturm Graz,Ried,1,0
+2016-10-15,1617,AUT,Wolfsberger AC,Salzburg,2,2
+2016-10-16,1617,AUT,Mattersburg,Austria Vienna,0,2
+2016-10-22,1617,AUT,Altach,Admira,2,0
+2016-10-22,1617,AUT,Ried,Wolfsberger AC,0,1
+2016-10-22,1617,AUT,Sturm Graz,Mattersburg,2,2
+2016-10-23,1617,AUT,SK Rapid,Austria Vienna,0,2
+2016-10-23,1617,AUT,St. Polten,Salzburg,1,5
+2016-10-29,1617,AUT,Admira,SK Rapid,1,2
+2016-10-29,1617,AUT,Salzburg,Ried,1,0
+2016-10-29,1617,AUT,St. Polten,Altach,0,1
+2016-10-29,1617,AUT,Wolfsberger AC,Mattersburg,3,0
+2016-10-30,1617,AUT,Austria Vienna,Sturm Graz,2,0
+2016-11-05,1617,AUT,Ried,Admira,2,1
+2016-11-05,1617,AUT,Sturm Graz,St. Polten,1,2
+2016-11-06,1617,AUT,Altach,Austria Vienna,5,1
+2016-11-06,1617,AUT,Mattersburg,Salzburg,2,1
+2016-11-06,1617,AUT,SK Rapid,Wolfsberger AC,0,1
+2016-11-19,1617,AUT,Admira,Wolfsberger AC,4,1
+2016-11-19,1617,AUT,Altach,Sturm Graz,1,1
+2016-11-19,1617,AUT,Austria Vienna,Ried,2,0
+2016-11-19,1617,AUT,St. Polten,Mattersburg,2,2
+2016-11-20,1617,AUT,Salzburg,SK Rapid,2,1
+2016-11-26,1617,AUT,Mattersburg,Altach,1,2
+2016-11-26,1617,AUT,Ried,St. Polten,1,2
+2016-11-27,1617,AUT,Salzburg,Admira,0,1
+2016-11-27,1617,AUT,SK Rapid,Sturm Graz,1,2
+2016-11-27,1617,AUT,Wolfsberger AC,Austria Vienna,0,3
+2016-11-29,1617,AUT,Altach,Ried,1,0
+2016-11-30,1617,AUT,Austria Vienna,Salzburg,1,3
+2016-11-30,1617,AUT,Mattersburg,SK Rapid,1,1
+2016-11-30,1617,AUT,St. Polten,Wolfsberger AC,0,4
+2016-11-30,1617,AUT,Sturm Graz,Admira,0,2
+2016-12-03,1617,AUT,Admira,Austria Vienna,0,2
+2016-12-03,1617,AUT,Ried,Mattersburg,2,1
+2016-12-03,1617,AUT,Salzburg,Altach,4,1
+2016-12-03,1617,AUT,SK Rapid,St. Polten,1,0
+2016-12-04,1617,AUT,Wolfsberger AC,Sturm Graz,0,4
+2016-12-10,1617,AUT,Altach,Wolfsberger AC,2,1
+2016-12-10,1617,AUT,Mattersburg,Admira,2,0
+2016-12-11,1617,AUT,SK Rapid,Ried,3,1
+2016-12-11,1617,AUT,Sturm Graz,Salzburg,0,1
+2016-12-12,1617,AUT,St. Polten,Austria Vienna,2,1
+2016-12-17,1617,AUT,Austria Vienna,Mattersburg,2,0
+2016-12-17,1617,AUT,Ried,Sturm Graz,0,3
+2016-12-17,1617,AUT,Salzburg,Wolfsberger AC,3,0
+2016-12-17,1617,AUT,St. Polten,Admira,2,2
+2016-12-18,1617,AUT,Altach,SK Rapid,3,1
+2017-02-11,1617,AUT,Admira,Altach,1,1
+2017-02-11,1617,AUT,Mattersburg,Sturm Graz,1,0
+2017-02-11,1617,AUT,Salzburg,St. Polten,2,0
+2017-02-11,1617,AUT,Wolfsberger AC,Ried,1,0
+2017-02-12,1617,AUT,Austria Vienna,SK Rapid,1,1
+2017-02-18,1617,AUT,Altach,St. Polten,1,2
+2017-02-18,1617,AUT,Mattersburg,Wolfsberger AC,2,1
+2017-02-18,1617,AUT,SK Rapid,Admira,0,0
+2017-02-18,1617,AUT,Sturm Graz,Austria Vienna,0,4
+2017-02-19,1617,AUT,Ried,Salzburg,1,6
+2017-02-25,1617,AUT,Admira,Ried,1,0
+2017-02-25,1617,AUT,Austria Vienna,Altach,1,3
+2017-02-25,1617,AUT,Salzburg,Mattersburg,1,0
+2017-02-25,1617,AUT,Wolfsberger AC,SK Rapid,2,1
+2017-02-26,1617,AUT,St. Polten,Sturm Graz,2,1
+2017-03-04,1617,AUT,Mattersburg,St. Polten,1,0
+2017-03-04,1617,AUT,Ried,Austria Vienna,0,3
+2017-03-04,1617,AUT,Sturm Graz,Altach,3,0
+2017-03-04,1617,AUT,Wolfsberger AC,Admira,1,1
+2017-03-05,1617,AUT,SK Rapid,Salzburg,0,1
+2017-03-11,1617,AUT,Admira,Salzburg,1,1
+2017-03-11,1617,AUT,Altach,Mattersburg,3,0
+2017-03-11,1617,AUT,Austria Vienna,Wolfsberger AC,3,0
+2017-03-11,1617,AUT,St. Polten,Ried,1,0
+2017-03-12,1617,AUT,Sturm Graz,SK Rapid,2,1
+2017-03-18,1617,AUT,Admira,Sturm Graz,1,0
+2017-03-18,1617,AUT,Ried,Altach,2,0
+2017-03-18,1617,AUT,SK Rapid,Mattersburg,1,1
+2017-03-18,1617,AUT,Wolfsberger AC,St. Polten,1,0
+2017-03-19,1617,AUT,Salzburg,Austria Vienna,5,0
+2017-04-01,1617,AUT,Austria Vienna,Admira,0,2
+2017-04-01,1617,AUT,Mattersburg,Ried,2,1
+2017-04-01,1617,AUT,St. Polten,SK Rapid,1,1
+2017-04-01,1617,AUT,Sturm Graz,Wolfsberger AC,4,0
+2017-04-02,1617,AUT,Altach,Salzburg,0,5
+2017-04-08,1617,AUT,Admira,Mattersburg,0,2
+2017-04-08,1617,AUT,Austria Vienna,St. Polten,1,2
+2017-04-08,1617,AUT,Ried,SK Rapid,3,0
+2017-04-08,1617,AUT,Wolfsberger AC,Altach,0,0
+2017-04-09,1617,AUT,Salzburg,Sturm Graz,1,0
+2017-04-15,1617,AUT,Admira,St. Polten,2,0
+2017-04-15,1617,AUT,SK Rapid,Altach,3,0
+2017-04-15,1617,AUT,Sturm Graz,Ried,1,0
+2017-04-15,1617,AUT,Wolfsberger AC,Salzburg,0,2
+2017-04-16,1617,AUT,Mattersburg,Austria Vienna,0,3
+2017-04-22,1617,AUT,Altach,Admira,0,0
+2017-04-22,1617,AUT,Ried,Wolfsberger AC,1,1
+2017-04-22,1617,AUT,St. Polten,Salzburg,1,2
+2017-04-22,1617,AUT,Sturm Graz,Mattersburg,0,2
+2017-04-23,1617,AUT,SK Rapid,Austria Vienna,0,2
+2017-04-29,1617,AUT,Austria Vienna,Sturm Graz,4,1
+2017-04-29,1617,AUT,Salzburg,Ried,1,1
+2017-04-29,1617,AUT,St. Polten,Altach,3,3
+2017-04-29,1617,AUT,Wolfsberger AC,Mattersburg,2,2
+2017-04-30,1617,AUT,Admira,SK Rapid,3,2
+2017-05-06,1617,AUT,Mattersburg,Salzburg,2,1
+2017-05-06,1617,AUT,Ried,Admira,1,0
+2017-05-06,1617,AUT,SK Rapid,Wolfsberger AC,4,0
+2017-05-06,1617,AUT,Sturm Graz,St. Polten,3,2
+2017-05-07,1617,AUT,Altach,Austria Vienna,1,1
+2017-05-13,1617,AUT,Admira,Wolfsberger AC,3,2
+2017-05-13,1617,AUT,Austria Vienna,Ried,3,0
+2017-05-13,1617,AUT,Salzburg,SK Rapid,1,0
+2017-05-13,1617,AUT,St. Polten,Mattersburg,1,0
+2017-05-14,1617,AUT,Altach,Sturm Graz,1,2
+2017-05-20,1617,AUT,Mattersburg,Altach,1,0
+2017-05-20,1617,AUT,Ried,St. Polten,1,1
+2017-05-20,1617,AUT,Salzburg,Admira,2,0
+2017-05-20,1617,AUT,Wolfsberger AC,Austria Vienna,2,1
+2017-05-21,1617,AUT,SK Rapid,Sturm Graz,1,0
+2017-05-25,1617,AUT,Altach,Ried,0,2
+2017-05-25,1617,AUT,Austria Vienna,Salzburg,2,3
+2017-05-25,1617,AUT,Mattersburg,SK Rapid,1,3
+2017-05-25,1617,AUT,St. Polten,Wolfsberger AC,1,1
+2017-05-25,1617,AUT,Sturm Graz,Admira,2,1
+2017-05-28,1617,AUT,Admira,Austria Vienna,1,6
+2017-05-28,1617,AUT,Ried,Mattersburg,2,3
+2017-05-28,1617,AUT,Salzburg,Altach,1,0
+2017-05-28,1617,AUT,SK Rapid,St. Polten,2,1
+2017-05-28,1617,AUT,Wolfsberger AC,Sturm Graz,1,0
+2017-07-22,1718,AUT,LASK,Admira,3,0
+2017-07-22,1718,AUT,SK Rapid,Mattersburg,2,2
+2017-07-22,1718,AUT,Wolfsberger AC,Salzburg,0,2
+2017-07-23,1718,AUT,Altach,Austria Vienna,3,0
+2017-07-23,1718,AUT,Sturm Graz,St. Polten,3,2
+2017-07-29,1718,AUT,Mattersburg,Wolfsberger AC,1,0
+2017-07-29,1718,AUT,Salzburg,LASK,1,1
+2017-07-29,1718,AUT,St. Polten,SK Rapid,1,4
+2017-07-30,1718,AUT,Admira,Altach,4,1
+2017-07-30,1718,AUT,Austria Vienna,Sturm Graz,2,3
+2017-08-05,1718,AUT,LASK,St. Polten,2,0
+2017-08-05,1718,AUT,Salzburg,Admira,5,1
+2017-08-06,1718,AUT,Mattersburg,Sturm Graz,2,3
+2017-08-06,1718,AUT,SK Rapid,Austria Vienna,2,2
+2017-08-06,1718,AUT,Wolfsberger AC,Altach,1,0
+2017-08-12,1718,AUT,Altach,Salzburg,0,1
+2017-08-12,1718,AUT,Austria Vienna,LASK,2,0
+2017-08-12,1718,AUT,St. Polten,Mattersburg,0,0
+2017-08-12,1718,AUT,Sturm Graz,Wolfsberger AC,2,1
+2017-08-13,1718,AUT,Admira,SK Rapid,3,1
+2017-08-19,1718,AUT,SK Rapid,Sturm Graz,1,2
+2017-08-19,1718,AUT,Wolfsberger AC,Admira,2,0
+2017-08-20,1718,AUT,LASK,Altach,0,0
+2017-08-20,1718,AUT,Mattersburg,Austria Vienna,1,3
+2017-08-20,1718,AUT,Salzburg,St. Polten,5,1
+2017-08-26,1718,AUT,SK Rapid,LASK,1,0
+2017-08-26,1718,AUT,Wolfsberger AC,St. Polten,2,1
+2017-08-27,1718,AUT,Admira,Austria Vienna,1,3
+2017-08-27,1718,AUT,Altach,Mattersburg,1,0
+2017-08-27,1718,AUT,Sturm Graz,Salzburg,1,0
+2017-09-09,1718,AUT,Austria Vienna,Wolfsberger AC,2,2
+2017-09-09,1718,AUT,LASK,Sturm Graz,2,1
+2017-09-09,1718,AUT,Mattersburg,Admira,0,5
+2017-09-09,1718,AUT,St. Polten,Altach,1,2
+2017-09-10,1718,AUT,Salzburg,SK Rapid,2,2
+2017-09-16,1718,AUT,Admira,Sturm Graz,2,1
+2017-09-16,1718,AUT,Altach,SK Rapid,2,2
+2017-09-16,1718,AUT,Wolfsberger AC,LASK,0,0
+2017-09-17,1718,AUT,Austria Vienna,St. Polten,5,1
+2017-09-17,1718,AUT,Mattersburg,Salzburg,1,2
+2017-09-23,1718,AUT,LASK,Mattersburg,2,2
+2017-09-23,1718,AUT,SK Rapid,Wolfsberger AC,4,2
+2017-09-23,1718,AUT,St. Polten,Admira,1,1
+2017-09-23,1718,AUT,Sturm Graz,Altach,0,0
+2017-09-24,1718,AUT,Salzburg,Austria Vienna,0,0
+2017-09-30,1718,AUT,Admira,LASK,4,2
+2017-09-30,1718,AUT,Mattersburg,SK Rapid,0,1
+2017-09-30,1718,AUT,St. Polten,Sturm Graz,0,3
+2017-10-01,1718,AUT,Austria Vienna,Altach,2,0
+2017-10-01,1718,AUT,Salzburg,Wolfsberger AC,2,1
+2017-10-14,1718,AUT,Altach,Admira,2,2
+2017-10-14,1718,AUT,LASK,Salzburg,1,3
+2017-10-14,1718,AUT,SK Rapid,St. Polten,1,0
+2017-10-14,1718,AUT,Wolfsberger AC,Mattersburg,2,2
+2017-10-15,1718,AUT,Sturm Graz,Austria Vienna,3,0
+2017-10-21,1718,AUT,Altach,Wolfsberger AC,3,2
+2017-10-21,1718,AUT,St. Polten,LASK,0,1
+2017-10-21,1718,AUT,Sturm Graz,Mattersburg,3,2
+2017-10-22,1718,AUT,Admira,Salzburg,1,1
+2017-10-22,1718,AUT,Austria Vienna,SK Rapid,0,1
+2017-10-28,1718,AUT,LASK,Austria Vienna,2,2
+2017-10-28,1718,AUT,Mattersburg,St. Polten,1,1
+2017-10-28,1718,AUT,Salzburg,Altach,2,0
+2017-10-28,1718,AUT,SK Rapid,Admira,1,0
+2017-10-29,1718,AUT,Wolfsberger AC,Sturm Graz,0,2
+2017-11-04,1718,AUT,Admira,Wolfsberger AC,0,0
+2017-11-04,1718,AUT,Altach,LASK,2,4
+2017-11-04,1718,AUT,Sturm Graz,SK Rapid,0,0
+2017-11-05,1718,AUT,Austria Vienna,Mattersburg,1,3
+2017-11-05,1718,AUT,St. Polten,Salzburg,1,3
+2017-11-18,1718,AUT,Austria Vienna,Admira,2,3
+2017-11-18,1718,AUT,LASK,SK Rapid,1,2
+2017-11-18,1718,AUT,Mattersburg,Altach,1,0
+2017-11-18,1718,AUT,St. Polten,Wolfsberger AC,0,0
+2017-11-19,1718,AUT,Salzburg,Sturm Graz,5,0
+2017-11-25,1718,AUT,Admira,Mattersburg,2,0
+2017-11-25,1718,AUT,Altach,St. Polten,3,0
+2017-11-25,1718,AUT,Sturm Graz,LASK,1,0
+2017-11-26,1718,AUT,SK Rapid,Salzburg,2,3
+2017-11-26,1718,AUT,Wolfsberger AC,Austria Vienna,1,2
+2017-11-28,1718,AUT,Sturm Graz,Admira,6,1
+2017-11-29,1718,AUT,LASK,Wolfsberger AC,2,0
+2017-11-29,1718,AUT,Salzburg,Mattersburg,2,0
+2017-11-29,1718,AUT,SK Rapid,Altach,1,2
+2017-11-29,1718,AUT,St. Polten,Austria Vienna,1,0
+2017-12-02,1718,AUT,Admira,St. Polten,1,0
+2017-12-02,1718,AUT,Altach,Sturm Graz,1,2
+2017-12-02,1718,AUT,Mattersburg,LASK,1,0
+2017-12-02,1718,AUT,Wolfsberger AC,SK Rapid,0,0
+2017-12-03,1718,AUT,Austria Vienna,Salzburg,1,1
+2017-12-09,1718,AUT,LASK,Admira,2,1
+2017-12-09,1718,AUT,SK Rapid,Mattersburg,2,2
+2017-12-09,1718,AUT,Sturm Graz,St. Polten,3,2
+2017-12-10,1718,AUT,Altach,Austria Vienna,1,0
+2017-12-10,1718,AUT,Wolfsberger AC,Salzburg,0,0
+2017-12-16,1718,AUT,Admira,Altach,3,1
+2017-12-16,1718,AUT,Mattersburg,Wolfsberger AC,5,1
+2017-12-16,1718,AUT,Salzburg,LASK,0,0
+2017-12-16,1718,AUT,St. Polten,SK Rapid,0,5
+2017-12-17,1718,AUT,Austria Vienna,Sturm Graz,1,0
+2018-02-03,1718,AUT,LASK,St. Polten,2,1
+2018-02-03,1718,AUT,Mattersburg,Sturm Graz,1,0
+2018-02-03,1718,AUT,Salzburg,Admira,2,1
+2018-02-03,1718,AUT,Wolfsberger AC,Altach,0,0
+2018-02-04,1718,AUT,SK Rapid,Austria Vienna,1,1
+2018-02-10,1718,AUT,Altach,Salzburg,0,1
+2018-02-10,1718,AUT,Austria Vienna,LASK,1,3
+2018-02-10,1718,AUT,St. Polten,Mattersburg,0,3
+2018-02-10,1718,AUT,Sturm Graz,Wolfsberger AC,0,1
+2018-02-11,1718,AUT,Admira,SK Rapid,2,1
+2018-02-17,1718,AUT,LASK,Altach,2,0
+2018-02-17,1718,AUT,Mattersburg,Austria Vienna,2,1
+2018-02-17,1718,AUT,SK Rapid,Sturm Graz,1,1
+2018-02-17,1718,AUT,Wolfsberger AC,Admira,1,3
+2018-02-18,1718,AUT,Salzburg,St. Polten,4,0
+2018-02-24,1718,AUT,Admira,Austria Vienna,2,1
+2018-02-24,1718,AUT,Altach,Mattersburg,1,1
+2018-02-24,1718,AUT,SK Rapid,LASK,2,0
+2018-02-24,1718,AUT,Wolfsberger AC,St. Polten,0,1
+2018-02-25,1718,AUT,Sturm Graz,Salzburg,2,4
+2018-03-03,1718,AUT,Austria Vienna,Wolfsberger AC,2,0
+2018-03-03,1718,AUT,LASK,Sturm Graz,0,2
+2018-03-03,1718,AUT,Mattersburg,Admira,3,2
+2018-03-03,1718,AUT,St. Polten,Altach,1,2
+2018-03-04,1718,AUT,Salzburg,SK Rapid,1,0
+2018-03-10,1718,AUT,Admira,Sturm Graz,2,4
+2018-03-10,1718,AUT,Altach,SK Rapid,0,0
+2018-03-10,1718,AUT,Austria Vienna,St. Polten,4,0
+2018-03-10,1718,AUT,Wolfsberger AC,LASK,0,3
+2018-03-11,1718,AUT,Mattersburg,Salzburg,2,2
+2018-03-17,1718,AUT,LASK,Mattersburg,3,1
+2018-03-17,1718,AUT,SK Rapid,Wolfsberger AC,5,1
+2018-03-17,1718,AUT,St. Polten,Admira,1,2
+2018-03-17,1718,AUT,Sturm Graz,Altach,1,0
+2018-03-18,1718,AUT,Salzburg,Austria Vienna,5,0
+2018-03-31,1718,AUT,Admira,LASK,0,1
+2018-03-31,1718,AUT,Austria Vienna,Altach,2,1
+2018-03-31,1718,AUT,Salzburg,Wolfsberger AC,2,0
+2018-03-31,1718,AUT,St. Polten,Sturm Graz,1,5
+2018-04-01,1718,AUT,Mattersburg,SK Rapid,2,4
+2018-04-07,1718,AUT,Altach,Admira,1,2
+2018-04-07,1718,AUT,SK Rapid,St. Polten,2,1
+2018-04-07,1718,AUT,Sturm Graz,Austria Vienna,0,2
+2018-04-07,1718,AUT,Wolfsberger AC,Mattersburg,0,2
+2018-04-08,1718,AUT,LASK,Salzburg,1,0
+2018-04-14,1718,AUT,Altach,Wolfsberger AC,2,1
+2018-04-14,1718,AUT,St. Polten,LASK,1,3
+2018-04-14,1718,AUT,Sturm Graz,Mattersburg,3,0
+2018-04-15,1718,AUT,Admira,Salzburg,2,6
+2018-04-15,1718,AUT,Austria Vienna,SK Rapid,0,4
+2018-04-21,1718,AUT,LASK,Austria Vienna,1,0
+2018-04-21,1718,AUT,Mattersburg,St. Polten,1,1
+2018-04-21,1718,AUT,Wolfsberger AC,Sturm Graz,2,1
+2018-04-22,1718,AUT,Salzburg,Altach,3,1
+2018-04-22,1718,AUT,SK Rapid,Admira,4,1
+2018-04-28,1718,AUT,Admira,Wolfsberger AC,4,2
+2018-04-28,1718,AUT,Altach,LASK,0,2
+2018-04-28,1718,AUT,Austria Vienna,Mattersburg,2,3
+2018-04-29,1718,AUT,St. Polten,Salzburg,0,2
+2018-04-29,1718,AUT,Sturm Graz,SK Rapid,4,2
+2018-05-05,1718,AUT,Austria Vienna,Admira,0,0
+2018-05-05,1718,AUT,LASK,SK Rapid,0,2
+2018-05-05,1718,AUT,Mattersburg,Altach,0,1
+2018-05-05,1718,AUT,St. Polten,Wolfsberger AC,0,1
+2018-05-06,1718,AUT,Salzburg,Sturm Graz,4,1
+2018-05-12,1718,AUT,Admira,Mattersburg,1,1
+2018-05-12,1718,AUT,Altach,St. Polten,1,3
+2018-05-12,1718,AUT,Sturm Graz,LASK,3,1
+2018-05-13,1718,AUT,SK Rapid,Salzburg,1,4
+2018-05-15,1718,AUT,Wolfsberger AC,Austria Vienna,2,1
+2018-05-20,1718,AUT,LASK,Wolfsberger AC,1,3
+2018-05-20,1718,AUT,Salzburg,Mattersburg,1,0
+2018-05-20,1718,AUT,SK Rapid,Altach,4,1
+2018-05-20,1718,AUT,St. Polten,Austria Vienna,2,0
+2018-05-20,1718,AUT,Sturm Graz,Admira,2,0
+2018-05-27,1718,AUT,Admira,St. Polten,0,2
+2018-05-27,1718,AUT,Altach,Sturm Graz,0,0
+2018-05-27,1718,AUT,Austria Vienna,Salzburg,4,0
+2018-05-27,1718,AUT,Mattersburg,LASK,2,1
+2018-05-27,1718,AUT,Wolfsberger AC,SK Rapid,0,0
+2018-05-31,1718,AUT,Neustadt,St. Polten,0,2
+2018-06-03,1718,AUT,St. Polten,Neustadt,1,1
+2018-07-27,1819,AUT,Austria Vienna,Wacker Innsbruck,2,1
+2018-07-28,1819,AUT,Altach,Mattersburg,2,3
+2018-07-28,1819,AUT,Sturm Graz,Hartberg,3,2
+2018-07-29,1819,AUT,Admira,SK Rapid,0,3
+2018-07-29,1819,AUT,Salzburg,LASK,3,1
+2018-07-29,1819,AUT,St. Polten,Wolfsberger AC,4,3
+2018-08-04,1819,AUT,Mattersburg,Salzburg,0,2
+2018-08-04,1819,AUT,SK Rapid,Altach,1,1
+2018-08-04,1819,AUT,Wacker Innsbruck,Sturm Graz,2,3
+2018-08-05,1819,AUT,Hartberg,Admira,0,1
+2018-08-05,1819,AUT,LASK,St. Polten,0,0
+2018-08-05,1819,AUT,Wolfsberger AC,Austria Vienna,1,0
+2018-08-11,1819,AUT,Altach,Wacker Innsbruck,1,2
+2018-08-11,1819,AUT,Hartberg,Mattersburg,4,2
+2018-08-11,1819,AUT,Salzburg,Austria Vienna,2,0
+2018-08-12,1819,AUT,Admira,LASK,0,1
+2018-08-12,1819,AUT,SK Rapid,Wolfsberger AC,0,0
+2018-08-12,1819,AUT,St. Polten,Sturm Graz,2,0
+2018-08-18,1819,AUT,Mattersburg,Wolfsberger AC,0,6
+2018-08-18,1819,AUT,Salzburg,Hartberg,2,0
+2018-08-18,1819,AUT,Wacker Innsbruck,St. Polten,0,2
+2018-08-19,1819,AUT,Austria Vienna,Admira,4,0
+2018-08-19,1819,AUT,LASK,SK Rapid,2,1
+2018-08-19,1819,AUT,Sturm Graz,Altach,1,1
+2018-08-25,1819,AUT,Altach,Salzburg,2,3
+2018-08-25,1819,AUT,St. Polten,Austria Vienna,0,0
+2018-08-25,1819,AUT,Wolfsberger AC,Sturm Graz,1,1
+2018-08-26,1819,AUT,Admira,Mattersburg,0,0
+2018-08-26,1819,AUT,Hartberg,LASK,0,1
+2018-08-26,1819,AUT,SK Rapid,Wacker Innsbruck,2,1
+2018-09-01,1819,AUT,Altach,St. Polten,1,2
+2018-09-01,1819,AUT,Austria Vienna,Mattersburg,2,1
+2018-09-01,1819,AUT,Wacker Innsbruck,Hartberg,2,1
+2018-09-02,1819,AUT,LASK,Wolfsberger AC,2,0
+2018-09-02,1819,AUT,Salzburg,Admira,3,1
+2018-09-02,1819,AUT,Sturm Graz,SK Rapid,1,1
+2018-09-15,1819,AUT,Admira,Sturm Graz,2,3
+2018-09-15,1819,AUT,Hartberg,Altach,2,1
+2018-09-15,1819,AUT,St. Polten,Salzburg,1,3
+2018-09-16,1819,AUT,Mattersburg,LASK,1,3
+2018-09-16,1819,AUT,SK Rapid,Austria Vienna,0,1
+2018-09-16,1819,AUT,Wolfsberger AC,Wacker Innsbruck,3,1
+2018-09-22,1819,AUT,Altach,Wolfsberger AC,0,1
+2018-09-22,1819,AUT,St. Polten,Hartberg,3,0
+2018-09-22,1819,AUT,Sturm Graz,Mattersburg,1,2
+2018-09-23,1819,AUT,Austria Vienna,LASK,0,3
+2018-09-23,1819,AUT,Salzburg,SK Rapid,2,1
+2018-09-23,1819,AUT,Wacker Innsbruck,Admira,1,3
+2018-09-29,1819,AUT,Admira,Altach,2,4
+2018-09-29,1819,AUT,SK Rapid,St. Polten,0,2
+2018-09-29,1819,AUT,Wolfsberger AC,Salzburg,1,4
+2018-09-30,1819,AUT,Hartberg,Austria Vienna,0,1
+2018-09-30,1819,AUT,LASK,Sturm Graz,0,0
+2018-09-30,1819,AUT,Mattersburg,Wacker Innsbruck,2,1
+2018-10-06,1819,AUT,Altach,Austria Vienna,2,0
+2018-10-06,1819,AUT,St. Polten,Admira,0,0
+2018-10-06,1819,AUT,Wolfsberger AC,Hartberg,3,4
+2018-10-07,1819,AUT,SK Rapid,Mattersburg,1,0
+2018-10-07,1819,AUT,Sturm Graz,Salzburg,1,2
+2018-10-07,1819,AUT,Wacker Innsbruck,LASK,1,0
+2018-10-20,1819,AUT,Hartberg,SK Rapid,3,0
+2018-10-20,1819,AUT,LASK,Altach,1,1
+2018-10-20,1819,AUT,Salzburg,Wacker Innsbruck,1,1
+2018-10-21,1819,AUT,Admira,Wolfsberger AC,0,0
+2018-10-21,1819,AUT,Austria Vienna,Sturm Graz,1,1
+2018-10-21,1819,AUT,Mattersburg,St. Polten,2,0
+2018-10-27,1819,AUT,Hartberg,Sturm Graz,2,0
+2018-10-27,1819,AUT,Mattersburg,Altach,1,1
+2018-10-27,1819,AUT,Wacker Innsbruck,Austria Vienna,0,0
+2018-10-28,1819,AUT,LASK,Salzburg,3,3
+2018-10-28,1819,AUT,SK Rapid,Admira,2,0
+2018-10-28,1819,AUT,Wolfsberger AC,St. Polten,1,0
+2018-11-03,1819,AUT,Admira,Hartberg,2,3
+2018-11-03,1819,AUT,St. Polten,LASK,2,2
+2018-11-03,1819,AUT,Sturm Graz,Wacker Innsbruck,1,1
+2018-11-04,1819,AUT,Altach,SK Rapid,2,2
+2018-11-04,1819,AUT,Austria Vienna,Wolfsberger AC,2,3
+2018-11-04,1819,AUT,Salzburg,Mattersburg,2,1
+2018-11-10,1819,AUT,LASK,Admira,5,1
+2018-11-10,1819,AUT,Sturm Graz,St. Polten,0,0
+2018-11-10,1819,AUT,Wacker Innsbruck,Altach,1,0
+2018-11-11,1819,AUT,Austria Vienna,Salzburg,0,2
+2018-11-11,1819,AUT,Mattersburg,Hartberg,1,2
+2018-11-11,1819,AUT,Wolfsberger AC,SK Rapid,3,1
+2018-11-24,1819,AUT,Admira,Austria Vienna,1,2
+2018-11-24,1819,AUT,Hartberg,Salzburg,0,4
+2018-11-24,1819,AUT,Wolfsberger AC,Mattersburg,2,2
+2018-11-25,1819,AUT,Altach,Sturm Graz,0,2
+2018-11-25,1819,AUT,SK Rapid,LASK,0,1
+2018-11-25,1819,AUT,St. Polten,Wacker Innsbruck,2,0
+2018-12-01,1819,AUT,Austria Vienna,St. Polten,2,0
+2018-12-01,1819,AUT,LASK,Hartberg,3,3
+2018-12-01,1819,AUT,Mattersburg,Admira,2,2
+2018-12-02,1819,AUT,Salzburg,Altach,1,0
+2018-12-02,1819,AUT,Sturm Graz,Wolfsberger AC,3,0
+2018-12-02,1819,AUT,Wacker Innsbruck,SK Rapid,0,1
+2018-12-08,1819,AUT,Admira,Salzburg,2,2
+2018-12-08,1819,AUT,St. Polten,Altach,2,1
+2018-12-08,1819,AUT,Wolfsberger AC,LASK,1,1
+2018-12-09,1819,AUT,Hartberg,Wacker Innsbruck,2,2
+2018-12-09,1819,AUT,Mattersburg,Austria Vienna,2,1
+2018-12-09,1819,AUT,SK Rapid,Sturm Graz,0,0
+2018-12-15,1819,AUT,LASK,Mattersburg,2,1
+2018-12-15,1819,AUT,Sturm Graz,Admira,3,0
+2018-12-15,1819,AUT,Wacker Innsbruck,Wolfsberger AC,0,0
+2018-12-16,1819,AUT,Altach,Hartberg,6,1
+2018-12-16,1819,AUT,Austria Vienna,SK Rapid,6,1
+2018-12-16,1819,AUT,Salzburg,St. Polten,5,1
+2019-02-22,1819,AUT,LASK,Austria Vienna,2,0
+2019-02-23,1819,AUT,Admira,Wacker Innsbruck,3,0
+2019-02-23,1819,AUT,Wolfsberger AC,Altach,0,0
+2019-02-24,1819,AUT,Hartberg,St. Polten,1,1
+2019-02-24,1819,AUT,Mattersburg,Sturm Graz,1,1
+2019-02-24,1819,AUT,SK Rapid,Salzburg,2,0
+2019-03-02,1819,AUT,Altach,Admira,0,1
+2019-03-02,1819,AUT,Salzburg,Wolfsberger AC,3,0
+2019-03-02,1819,AUT,St. Polten,SK Rapid,0,4
+2019-03-03,1819,AUT,Austria Vienna,Hartberg,4,2
+2019-03-03,1819,AUT,Sturm Graz,LASK,0,3
+2019-03-03,1819,AUT,Wacker Innsbruck,Mattersburg,0,1
+2019-03-10,1819,AUT,Admira,St. Polten,3,2
+2019-03-10,1819,AUT,Austria Vienna,Altach,1,3
+2019-03-10,1819,AUT,Hartberg,Wolfsberger AC,1,1
+2019-03-10,1819,AUT,LASK,Wacker Innsbruck,2,0
+2019-03-10,1819,AUT,Mattersburg,SK Rapid,2,1
+2019-03-10,1819,AUT,Salzburg,Sturm Graz,0,0
+2019-03-17,1819,AUT,Altach,LASK,1,2
+2019-03-17,1819,AUT,SK Rapid,Hartberg,2,2
+2019-03-17,1819,AUT,St. Polten,Mattersburg,0,1
+2019-03-17,1819,AUT,Sturm Graz,Austria Vienna,1,0
+2019-03-17,1819,AUT,Wacker Innsbruck,Salzburg,0,2
+2019-03-17,1819,AUT,Wolfsberger AC,Admira,2,2
+2019-03-30,1819,AUT,Altach,Mattersburg,2,1
+2019-03-30,1819,AUT,Hartberg,Wacker Innsbruck,0,2
+2019-03-30,1819,AUT,SK Rapid,Admira,3,0
+2019-03-31,1819,AUT,Salzburg,Austria Vienna,5,1
+2019-03-31,1819,AUT,Sturm Graz,St. Polten,0,1
+2019-03-31,1819,AUT,Wolfsberger AC,LASK,0,3
+2019-04-06,1819,AUT,Admira,Altach,1,1
+2019-04-06,1819,AUT,Mattersburg,Hartberg,3,0
+2019-04-06,1819,AUT,Wacker Innsbruck,SK Rapid,0,2
+2019-04-07,1819,AUT,Austria Vienna,Sturm Graz,0,1
+2019-04-07,1819,AUT,LASK,Salzburg,0,2
+2019-04-07,1819,AUT,St. Polten,Wolfsberger AC,1,3
+2019-04-13,1819,AUT,Hartberg,Altach,0,1
+2019-04-13,1819,AUT,SK Rapid,Mattersburg,2,1
+2019-04-13,1819,AUT,Wacker Innsbruck,Admira,1,3
+2019-04-14,1819,AUT,LASK,St. Polten,0,0
+2019-04-14,1819,AUT,Salzburg,Sturm Graz,3,1
+2019-04-14,1819,AUT,Wolfsberger AC,Austria Vienna,1,1
+2019-04-20,1819,AUT,Admira,Hartberg,2,1
+2019-04-20,1819,AUT,Altach,SK Rapid,2,2
+2019-04-20,1819,AUT,Mattersburg,Wacker Innsbruck,3,1
+2019-04-21,1819,AUT,Austria Vienna,LASK,2,2
+2019-04-21,1819,AUT,St. Polten,Salzburg,1,1
+2019-04-21,1819,AUT,Sturm Graz,Wolfsberger AC,1,2
+2019-04-23,1819,AUT,Admira,Mattersburg,0,2
+2019-04-23,1819,AUT,Hartberg,SK Rapid,2,4
+2019-04-23,1819,AUT,Wacker Innsbruck,Altach,0,4
+2019-04-24,1819,AUT,Austria Vienna,St. Polten,2,2
+2019-04-24,1819,AUT,LASK,Sturm Graz,1,2
+2019-04-24,1819,AUT,Salzburg,Wolfsberger AC,3,1
+2019-04-27,1819,AUT,Altach,Wacker Innsbruck,1,4
+2019-04-27,1819,AUT,Mattersburg,Admira,1,1
+2019-04-27,1819,AUT,SK Rapid,Hartberg,3,4
+2019-04-28,1819,AUT,St. Polten,Austria Vienna,1,2
+2019-04-28,1819,AUT,Sturm Graz,LASK,2,3
+2019-04-28,1819,AUT,Wolfsberger AC,Salzburg,2,1
+2019-05-04,1819,AUT,Admira,SK Rapid,3,4
+2019-05-04,1819,AUT,Mattersburg,Altach,0,0
+2019-05-04,1819,AUT,Wacker Innsbruck,Hartberg,1,0
+2019-05-05,1819,AUT,Austria Vienna,Salzburg,1,2
+2019-05-05,1819,AUT,LASK,Wolfsberger AC,3,0
+2019-05-05,1819,AUT,St. Polten,Sturm Graz,0,1
+2019-05-11,1819,AUT,Altach,Admira,2,2
+2019-05-11,1819,AUT,Hartberg,Mattersburg,2,1
+2019-05-11,1819,AUT,SK Rapid,Wacker Innsbruck,1,0
+2019-05-12,1819,AUT,Salzburg,LASK,2,1
+2019-05-12,1819,AUT,Sturm Graz,Austria Vienna,1,3
+2019-05-12,1819,AUT,Wolfsberger AC,St. Polten,4,0
+2019-05-18,1819,AUT,Admira,Wacker Innsbruck,3,2
+2019-05-18,1819,AUT,Altach,Hartberg,3,1
+2019-05-18,1819,AUT,Mattersburg,SK Rapid,1,0
+2019-05-19,1819,AUT,Austria Vienna,Wolfsberger AC,2,0
+2019-05-19,1819,AUT,St. Polten,LASK,0,1
+2019-05-19,1819,AUT,Sturm Graz,Salzburg,1,2
+2019-05-25,1819,AUT,Hartberg,Admira,3,1
+2019-05-25,1819,AUT,SK Rapid,Altach,1,2
+2019-05-25,1819,AUT,Wacker Innsbruck,Mattersburg,4,0
+2019-05-26,1819,AUT,LASK,Austria Vienna,5,2
+2019-05-26,1819,AUT,Salzburg,St. Polten,7,0
+2019-05-26,1819,AUT,Wolfsberger AC,Sturm Graz,2,1
+2019-05-28,1819,AUT,SK Rapid,Mattersburg,2,0
+2019-05-30,1819,AUT,SK Rapid,Sturm Graz,1,2
+2019-06-02,1819,AUT,Sturm Graz,SK Rapid,0,1
+2019-07-26,1920,AUT,SK Rapid,Salzburg,0,2
+2019-07-27,1920,AUT,Admira,Wolfsberger AC,0,3
+2019-07-27,1920,AUT,Tirol,Austria Vienna,3,1
+2019-07-28,1920,AUT,LASK,Altach,2,0
+2019-07-28,1920,AUT,Mattersburg,Hartberg,2,1
+2019-07-28,1920,AUT,Sturm Graz,St. Polten,3,0
+2019-08-03,1920,AUT,Altach,Tirol,3,2
+2019-08-03,1920,AUT,Austria Vienna,LASK,0,3
+2019-08-03,1920,AUT,Hartberg,Admira,4,1
+2019-08-04,1920,AUT,Salzburg,Mattersburg,4,1
+2019-08-04,1920,AUT,St. Polten,SK Rapid,2,2
+2019-08-04,1920,AUT,Wolfsberger AC,Sturm Graz,0,1
+2019-08-10,1920,AUT,Admira,LASK,0,1
+2019-08-10,1920,AUT,Salzburg,Wolfsberger AC,5,2
+2019-08-10,1920,AUT,SK Rapid,Altach,2,1
+2019-08-11,1920,AUT,Hartberg,Sturm Graz,1,0
+2019-08-11,1920,AUT,Mattersburg,Austria Vienna,1,5
+2019-08-11,1920,AUT,Tirol,St. Polten,1,1
+2019-08-17,1920,AUT,LASK,Tirol,1,1
+2019-08-17,1920,AUT,St. Polten,Salzburg,0,6
+2019-08-17,1920,AUT,Wolfsberger AC,Mattersburg,5,0
+2019-08-18,1920,AUT,Altach,Hartberg,3,3
+2019-08-18,1920,AUT,Austria Vienna,Admira,1,1
+2019-08-18,1920,AUT,Sturm Graz,SK Rapid,0,1
+2019-08-24,1920,AUT,Mattersburg,St. Polten,0,1
+2019-08-24,1920,AUT,SK Rapid,LASK,1,2
+2019-08-24,1920,AUT,Wolfsberger AC,Altach,5,2
+2019-08-25,1920,AUT,Hartberg,Austria Vienna,2,2
+2019-08-25,1920,AUT,Salzburg,Admira,5,0
+2019-08-25,1920,AUT,Sturm Graz,Tirol,2,0
+2019-08-31,1920,AUT,Admira,Mattersburg,1,3
+2019-08-31,1920,AUT,LASK,Wolfsberger AC,0,1
+2019-08-31,1920,AUT,Tirol,Salzburg,1,5
+2019-09-01,1920,AUT,Altach,Sturm Graz,1,2
+2019-09-01,1920,AUT,Austria Vienna,SK Rapid,1,3
+2019-09-01,1920,AUT,St. Polten,Hartberg,1,3
+2019-09-14,1920,AUT,Mattersburg,Tirol,0,2
+2019-09-14,1920,AUT,Salzburg,Hartberg,7,2
+2019-09-14,1920,AUT,Sturm Graz,LASK,0,2
+2019-09-15,1920,AUT,Altach,St. Polten,6,0
+2019-09-15,1920,AUT,SK Rapid,Admira,5,0
+2019-09-15,1920,AUT,Wolfsberger AC,Austria Vienna,3,0
+2019-09-21,1920,AUT,Admira,St. Polten,1,1
+2019-09-21,1920,AUT,Mattersburg,Sturm Graz,3,3
+2019-09-21,1920,AUT,Tirol,SK Rapid,0,2
+2019-09-22,1920,AUT,Austria Vienna,Altach,2,0
+2019-09-22,1920,AUT,Hartberg,Wolfsberger AC,0,2
+2019-09-22,1920,AUT,LASK,Salzburg,2,2
+2019-09-28,1920,AUT,Salzburg,Austria Vienna,4,1
+2019-09-28,1920,AUT,St. Polten,LASK,0,3
+2019-09-28,1920,AUT,Wolfsberger AC,Tirol,2,2
+2019-09-29,1920,AUT,Altach,Mattersburg,0,2
+2019-09-29,1920,AUT,SK Rapid,Hartberg,3,3
+2019-09-29,1920,AUT,Sturm Graz,Admira,4,1
+2019-10-05,1920,AUT,Admira,Tirol,3,1
+2019-10-05,1920,AUT,Mattersburg,SK Rapid,2,3
+2019-10-05,1920,AUT,Salzburg,Altach,6,0
+2019-10-06,1920,AUT,Austria Vienna,Sturm Graz,1,0
+2019-10-06,1920,AUT,Hartberg,LASK,1,2
+2019-10-06,1920,AUT,Wolfsberger AC,St. Polten,4,0
+2019-10-19,1920,AUT,Altach,Admira,1,4
+2019-10-19,1920,AUT,LASK,Mattersburg,7,2
+2019-10-19,1920,AUT,Sturm Graz,Salzburg,1,1
+2019-10-20,1920,AUT,SK Rapid,Wolfsberger AC,1,1
+2019-10-20,1920,AUT,St. Polten,Austria Vienna,2,2
+2019-10-20,1920,AUT,Tirol,Hartberg,0,1
+2019-10-26,1920,AUT,Austria Vienna,Tirol,2,3
+2019-10-26,1920,AUT,Hartberg,Mattersburg,3,1
+2019-10-26,1920,AUT,St. Polten,Sturm Graz,0,4
+2019-10-27,1920,AUT,Altach,LASK,0,1
+2019-10-27,1920,AUT,Salzburg,SK Rapid,3,2
+2019-10-27,1920,AUT,Wolfsberger AC,Admira,2,2
+2019-11-02,1920,AUT,Mattersburg,Salzburg,0,3
+2019-11-02,1920,AUT,SK Rapid,St. Polten,0,1
+2019-11-02,1920,AUT,Sturm Graz,Wolfsberger AC,0,4
+2019-11-03,1920,AUT,Admira,Hartberg,0,1
+2019-11-03,1920,AUT,LASK,Austria Vienna,2,0
+2019-11-03,1920,AUT,Tirol,Altach,0,4
+2019-11-09,1920,AUT,Altach,SK Rapid,0,3
+2019-11-09,1920,AUT,St. Polten,Tirol,5,1
+2019-11-09,1920,AUT,Sturm Graz,Hartberg,3,1
+2019-11-10,1920,AUT,Austria Vienna,Mattersburg,2,1
+2019-11-10,1920,AUT,LASK,Admira,1,0
+2019-11-10,1920,AUT,Wolfsberger AC,Salzburg,0,3
+2019-11-23,1920,AUT,Mattersburg,Wolfsberger AC,1,4
+2019-11-23,1920,AUT,Salzburg,St. Polten,2,2
+2019-11-23,1920,AUT,Tirol,LASK,0,2
+2019-11-24,1920,AUT,Admira,Austria Vienna,0,0
+2019-11-24,1920,AUT,Hartberg,Altach,2,1
+2019-11-24,1920,AUT,SK Rapid,Sturm Graz,1,1
+2019-11-30,1920,AUT,Austria Vienna,Hartberg,5,0
+2019-11-30,1920,AUT,St. Polten,Mattersburg,0,0
+2019-11-30,1920,AUT,Tirol,Sturm Graz,1,5
+2019-12-01,1920,AUT,Admira,Salzburg,1,1
+2019-12-01,1920,AUT,Altach,Wolfsberger AC,2,1
+2019-12-01,1920,AUT,LASK,SK Rapid,0,4
+2019-12-07,1920,AUT,Hartberg,St. Polten,3,2
+2019-12-07,1920,AUT,Salzburg,Tirol,5,1
+2019-12-07,1920,AUT,Wolfsberger AC,LASK,1,3
+2019-12-08,1920,AUT,Mattersburg,Admira,1,2
+2019-12-08,1920,AUT,SK Rapid,Austria Vienna,2,2
+2019-12-08,1920,AUT,Sturm Graz,Altach,1,2
+2019-12-14,1920,AUT,Admira,SK Rapid,0,3
+2019-12-14,1920,AUT,Hartberg,Salzburg,2,2
+2019-12-14,1920,AUT,St. Polten,Altach,0,3
+2019-12-15,1920,AUT,Austria Vienna,Wolfsberger AC,1,1
+2019-12-15,1920,AUT,LASK,Sturm Graz,3,3
+2019-12-15,1920,AUT,Tirol,Mattersburg,1,3
+2020-02-14,1920,AUT,Salzburg,LASK,2,3
+2020-02-15,1920,AUT,Altach,Austria Vienna,2,2
+2020-02-15,1920,AUT,Wolfsberger AC,Hartberg,3,0
+2020-02-16,1920,AUT,SK Rapid,Tirol,2,0
+2020-02-16,1920,AUT,St. Polten,Admira,2,2
+2020-02-16,1920,AUT,Sturm Graz,Mattersburg,1,2
+2020-02-22,1920,AUT,Admira,Sturm Graz,0,2
+2020-02-22,1920,AUT,Mattersburg,Altach,0,0
+2020-02-22,1920,AUT,Tirol,Wolfsberger AC,2,0
+2020-02-23,1920,AUT,Austria Vienna,Salzburg,2,2
+2020-02-23,1920,AUT,Hartberg,SK Rapid,2,2
+2020-02-23,1920,AUT,LASK,St. Polten,4,1
+2020-03-01,1920,AUT,LASK,Hartberg,5,1
+2020-03-01,1920,AUT,SK Rapid,Mattersburg,3,1
+2020-03-01,1920,AUT,St. Polten,Wolfsberger AC,0,4
+2020-03-01,1920,AUT,Sturm Graz,Austria Vienna,1,1
+2020-03-01,1920,AUT,Tirol,Admira,1,1
+2020-03-02,1920,AUT,Altach,Salzburg,3,2
+2020-03-07,1920,AUT,Admira,Altach,2,0
+2020-03-07,1920,AUT,Austria Vienna,St. Polten,0,0
+2020-03-07,1920,AUT,Hartberg,Tirol,0,3
+2020-03-07,1920,AUT,Wolfsberger AC,SK Rapid,2,2
+2020-03-08,1920,AUT,Mattersburg,LASK,0,1
+2020-03-08,1920,AUT,Salzburg,Sturm Graz,2,0
+2020-06-02,1920,AUT,Austria Vienna,Admira,1,0
+2020-06-02,1920,AUT,Mattersburg,Altach,1,1
+2020-06-02,1920,AUT,Tirol,St. Polten,0,5
+2020-06-03,1920,AUT,LASK,Hartberg,1,2
+2020-06-03,1920,AUT,Salzburg,SK Rapid,2,0
+2020-06-03,1920,AUT,Sturm Graz,Wolfsberger AC,1,2
+2020-06-06,1920,AUT,Admira,Mattersburg,0,2
+2020-06-06,1920,AUT,Altach,Tirol,1,1
+2020-06-06,1920,AUT,St. Polten,Austria Vienna,1,1
+2020-06-07,1920,AUT,Hartberg,Salzburg,0,6
+2020-06-07,1920,AUT,SK Rapid,Sturm Graz,4,0
+2020-06-07,1920,AUT,Wolfsberger AC,LASK,3,3
+2020-06-09,1920,AUT,Austria Vienna,Altach,0,2
+2020-06-09,1920,AUT,St. Polten,Admira,0,3
+2020-06-09,1920,AUT,Tirol,Mattersburg,1,1
+2020-06-10,1920,AUT,LASK,SK Rapid,0,1
+2020-06-10,1920,AUT,Sturm Graz,Salzburg,1,5
+2020-06-10,1920,AUT,Wolfsberger AC,Hartberg,2,4
+2020-06-13,1920,AUT,Admira,Tirol,0,3
+2020-06-13,1920,AUT,Altach,St. Polten,2,0
+2020-06-13,1920,AUT,Mattersburg,Austria Vienna,1,4
+2020-06-14,1920,AUT,Hartberg,Sturm Graz,1,2
+2020-06-14,1920,AUT,Salzburg,LASK,3,1
+2020-06-14,1920,AUT,SK Rapid,Wolfsberger AC,2,1
+2020-06-16,1920,AUT,Admira,Altach,1,1
+2020-06-16,1920,AUT,Austria Vienna,Tirol,1,0
+2020-06-16,1920,AUT,St. Polten,Mattersburg,1,0
+2020-06-17,1920,AUT,Hartberg,SK Rapid,0,1
+2020-06-17,1920,AUT,LASK,Sturm Graz,4,0
+2020-06-17,1920,AUT,Wolfsberger AC,Salzburg,0,0
+2020-06-20,1920,AUT,Altach,Admira,1,1
+2020-06-20,1920,AUT,Mattersburg,St. Polten,2,0
+2020-06-20,1920,AUT,Tirol,Austria Vienna,1,2
+2020-06-21,1920,AUT,Salzburg,Wolfsberger AC,2,2
+2020-06-21,1920,AUT,SK Rapid,Hartberg,0,1
+2020-06-21,1920,AUT,Sturm Graz,LASK,0,2
+2020-06-23,1920,AUT,Admira,Austria Vienna,0,2
+2020-06-23,1920,AUT,Altach,Mattersburg,1,1
+2020-06-23,1920,AUT,St. Polten,Tirol,1,1
+2020-06-24,1920,AUT,Hartberg,LASK,1,5
+2020-06-24,1920,AUT,SK Rapid,Salzburg,2,7
+2020-06-24,1920,AUT,Wolfsberger AC,Sturm Graz,2,0
+2020-06-27,1920,AUT,Austria Vienna,St. Polten,2,5
+2020-06-27,1920,AUT,Mattersburg,Admira,1,2
+2020-06-27,1920,AUT,Tirol,Altach,0,1
+2020-06-28,1920,AUT,LASK,Wolfsberger AC,0,1
+2020-06-28,1920,AUT,Salzburg,Hartberg,3,0
+2020-06-28,1920,AUT,Sturm Graz,SK Rapid,2,3
+2020-06-30,1920,AUT,Admira,St. Polten,0,3
+2020-06-30,1920,AUT,Altach,Austria Vienna,1,2
+2020-06-30,1920,AUT,Mattersburg,Tirol,4,1
+2020-07-01,1920,AUT,Salzburg,Sturm Graz,5,2
+2020-07-01,1920,AUT,SK Rapid,LASK,3,1
+2020-07-02,1920,AUT,Hartberg,Wolfsberger AC,3,3
+2020-07-04,1920,AUT,Austria Vienna,Mattersburg,1,0
+2020-07-04,1920,AUT,St. Polten,Altach,2,0
+2020-07-04,1920,AUT,Tirol,Admira,0,0
+2020-07-05,1920,AUT,LASK,Salzburg,0,3
+2020-07-05,1920,AUT,Sturm Graz,Hartberg,1,4
+2020-07-05,1920,AUT,Wolfsberger AC,SK Rapid,3,1
+2020-07-08,1920,AUT,Austria Vienna,Altach,1,0
+2020-07-11,1920,AUT,Austria Vienna,Hartberg,2,3
+2020-07-15,1920,AUT,Hartberg,Austria Vienna,0,0
+2020-09-11,2021,AUT,LASK,Austria Vienna,1,0
+2020-09-11,2021,AUT,SK Rapid,Admira,4,1
+2020-09-12,2021,AUT,Altach,Hartberg,1,1
+2020-09-13,2021,AUT,Ried,Tirol,3,2
+2020-09-13,2021,AUT,St. Polten,Sturm Graz,0,0
+2020-09-13,2021,AUT,Wolfsberger AC,Salzburg,1,3
+2020-09-19,2021,AUT,Salzburg,Altach,4,1
+2020-09-19,2021,AUT,Sturm Graz,SK Rapid,1,1
+2020-09-19,2021,AUT,Tirol,LASK,1,1
+2020-09-20,2021,AUT,Admira,St. Polten,0,5
+2020-09-20,2021,AUT,Austria Vienna,Ried,2,1
+2020-09-20,2021,AUT,Hartberg,Wolfsberger AC,0,2
+2020-09-26,2021,AUT,Altach,Tirol,0,2
+2020-09-26,2021,AUT,Ried,Salzburg,1,3
+2020-09-26,2021,AUT,St. Polten,SK Rapid,1,2
+2020-09-27,2021,AUT,Austria Vienna,Admira,2,2
+2020-09-27,2021,AUT,Hartberg,Sturm Graz,1,1
+2020-09-27,2021,AUT,LASK,Wolfsberger AC,3,1
+2020-10-03,2021,AUT,Admira,Ried,3,1
+2020-10-03,2021,AUT,Tirol,Austria Vienna,0,2
+2020-10-03,2021,AUT,Wolfsberger AC,St. Polten,2,4
+2020-10-04,2021,AUT,Salzburg,Hartberg,7,1
+2020-10-04,2021,AUT,SK Rapid,LASK,3,0
+2020-10-04,2021,AUT,Sturm Graz,Altach,4,0
+2020-10-24,2021,AUT,Altach,Admira,4,2
+2020-10-24,2021,AUT,Austria Vienna,Salzburg,0,2
+2020-10-24,2021,AUT,Ried,Sturm Graz,0,2
+2020-10-25,2021,AUT,LASK,St. Polten,4,0
+2020-10-25,2021,AUT,Tirol,Hartberg,1,1
+2020-10-25,2021,AUT,Wolfsberger AC,SK Rapid,3,4
+2020-10-31,2021,AUT,Hartberg,Austria Vienna,2,1
+2020-10-31,2021,AUT,Salzburg,Tirol,5,0
+2020-10-31,2021,AUT,St. Polten,Ried,4,0
+2020-11-01,2021,AUT,Admira,Wolfsberger AC,1,3
+2020-11-01,2021,AUT,SK Rapid,Altach,3,1
+2020-11-01,2021,AUT,Sturm Graz,LASK,0,2
+2020-11-07,2021,AUT,Altach,Austria Vienna,0,0
+2020-11-07,2021,AUT,Ried,Hartberg,2,0
+2020-11-07,2021,AUT,St. Polten,Tirol,0,1
+2020-11-08,2021,AUT,LASK,Admira,4,0
+2020-11-08,2021,AUT,SK Rapid,Salzburg,1,1
+2020-11-21,2021,AUT,Altach,Wolfsberger AC,0,2
+2020-11-21,2021,AUT,Hartberg,LASK,1,1
+2020-11-21,2021,AUT,Salzburg,Sturm Graz,1,3
+2020-11-22,2021,AUT,Austria Vienna,St. Polten,1,1
+2020-11-22,2021,AUT,Ried,SK Rapid,4,3
+2020-11-22,2021,AUT,Tirol,Admira,3,0
+2020-11-28,2021,AUT,Admira,Hartberg,2,3
+2020-11-28,2021,AUT,St. Polten,Salzburg,2,8
+2020-11-28,2021,AUT,Sturm Graz,Tirol,1,0
+2020-11-29,2021,AUT,LASK,Altach,3,0
+2020-11-29,2021,AUT,SK Rapid,Austria Vienna,1,1
+2020-11-29,2021,AUT,Wolfsberger AC,Ried,1,1
+2020-12-05,2021,AUT,Admira,Salzburg,1,0
+2020-12-05,2021,AUT,Altach,St. Polten,0,4
+2020-12-05,2021,AUT,Austria Vienna,Sturm Graz,0,4
+2020-12-06,2021,AUT,Hartberg,SK Rapid,1,3
+2020-12-06,2021,AUT,LASK,Ried,3,0
+2020-12-06,2021,AUT,Tirol,Wolfsberger AC,4,1
+2020-12-12,2021,AUT,Ried,Altach,1,4
+2020-12-12,2021,AUT,St. Polten,Hartberg,2,2
+2020-12-12,2021,AUT,Sturm Graz,Admira,3,0
+2020-12-13,2021,AUT,Salzburg,LASK,3,1
+2020-12-13,2021,AUT,SK Rapid,Tirol,0,3
+2020-12-13,2021,AUT,Wolfsberger AC,Austria Vienna,3,2
+2020-12-19,2021,AUT,Admira,SK Rapid,0,1
+2020-12-19,2021,AUT,Hartberg,Altach,1,0
+2020-12-19,2021,AUT,Sturm Graz,St. Polten,3,0
+2020-12-20,2021,AUT,Austria Vienna,LASK,1,1
+2020-12-20,2021,AUT,Salzburg,Wolfsberger AC,2,3
+2020-12-20,2021,AUT,Tirol,Ried,1,3
+2021-01-17,2021,AUT,Wolfsberger AC,Sturm Graz,0,0
+2021-01-22,2021,AUT,SK Rapid,Sturm Graz,4,1
+2021-01-23,2021,AUT,Ried,Austria Vienna,0,1
+2021-01-23,2021,AUT,St. Polten,Admira,2,2
+2021-01-23,2021,AUT,Wolfsberger AC,Hartberg,0,0
+2021-01-24,2021,AUT,Altach,Salzburg,0,2
+2021-01-24,2021,AUT,LASK,Tirol,2,4
+2021-01-26,2021,AUT,Admira,Austria Vienna,0,4
+2021-01-26,2021,AUT,Sturm Graz,Hartberg,2,1
+2021-01-27,2021,AUT,Salzburg,Ried,3,0
+2021-01-27,2021,AUT,SK Rapid,St. Polten,2,1
+2021-01-27,2021,AUT,Tirol,Altach,3,1
+2021-01-27,2021,AUT,Wolfsberger AC,LASK,0,3
+2021-01-30,2021,AUT,Altach,Sturm Graz,2,1
+2021-01-30,2021,AUT,Hartberg,Salzburg,0,3
+2021-01-30,2021,AUT,Ried,Admira,0,0
+2021-01-31,2021,AUT,Austria Vienna,Tirol,2,2
+2021-01-31,2021,AUT,LASK,SK Rapid,1,2
+2021-01-31,2021,AUT,St. Polten,Wolfsberger AC,0,2
+2021-02-09,2021,AUT,SK Rapid,Wolfsberger AC,1,0
+2021-02-09,2021,AUT,Sturm Graz,Ried,2,1
+2021-02-10,2021,AUT,Admira,Altach,3,1
+2021-02-10,2021,AUT,Salzburg,Austria Vienna,3,1
+2021-02-10,2021,AUT,St. Polten,LASK,1,3
+2021-02-13,2021,AUT,Altach,SK Rapid,0,0
+2021-02-13,2021,AUT,Tirol,Salzburg,2,4
+2021-02-13,2021,AUT,Wolfsberger AC,Admira,2,1
+2021-02-14,2021,AUT,Austria Vienna,Hartberg,0,1
+2021-02-14,2021,AUT,LASK,Sturm Graz,2,0
+2021-02-14,2021,AUT,Ried,St. Polten,1,1
+2021-02-20,2021,AUT,Austria Vienna,Altach,5,1
+2021-02-20,2021,AUT,Hartberg,Ried,1,1
+2021-02-20,2021,AUT,Tirol,St. Polten,0,1
+2021-02-21,2021,AUT,Admira,LASK,1,2
+2021-02-21,2021,AUT,Salzburg,SK Rapid,4,2
+2021-02-21,2021,AUT,Sturm Graz,Wolfsberger AC,1,2
+2021-02-23,2021,AUT,Hartberg,Tirol,1,0
+2021-02-27,2021,AUT,Admira,Tirol,1,1
+2021-02-27,2021,AUT,LASK,Hartberg,1,2
+2021-02-27,2021,AUT,SK Rapid,Ried,1,0
+2021-02-28,2021,AUT,St. Polten,Austria Vienna,0,2
+2021-02-28,2021,AUT,Sturm Graz,Salzburg,2,1
+2021-02-28,2021,AUT,Wolfsberger AC,Altach,0,1
+2021-03-06,2021,AUT,Altach,LASK,0,1
+2021-03-06,2021,AUT,Hartberg,Admira,2,1
+2021-03-06,2021,AUT,Tirol,Sturm Graz,1,1
+2021-03-07,2021,AUT,Austria Vienna,SK Rapid,0,0
+2021-03-07,2021,AUT,Ried,Wolfsberger AC,0,4
+2021-03-07,2021,AUT,Salzburg,St. Polten,4,1
+2021-03-13,2021,AUT,Salzburg,Admira,3,1
+2021-03-14,2021,AUT,Ried,LASK,0,3
+2021-03-14,2021,AUT,SK Rapid,Hartberg,4,0
+2021-03-14,2021,AUT,St. Polten,Altach,0,1
+2021-03-14,2021,AUT,Sturm Graz,Austria Vienna,2,1
+2021-03-14,2021,AUT,Wolfsberger AC,Tirol,3,5
+2021-03-20,2021,AUT,LASK,Salzburg,0,1
+2021-03-21,2021,AUT,Admira,Sturm Graz,0,0
+2021-03-21,2021,AUT,Altach,Ried,2,1
+2021-03-21,2021,AUT,Austria Vienna,Wolfsberger AC,3,5
+2021-03-21,2021,AUT,Hartberg,St. Polten,3,3
+2021-03-21,2021,AUT,Tirol,SK Rapid,1,1
+2021-04-03,2021,AUT,Austria Vienna,Altach,2,0
+2021-04-03,2021,AUT,Ried,Hartberg,3,2
+2021-04-03,2021,AUT,St. Polten,Admira,0,1
+2021-04-04,2021,AUT,Salzburg,Sturm Graz,3,1
+2021-04-04,2021,AUT,Tirol,LASK,2,0
+2021-04-04,2021,AUT,Wolfsberger AC,SK Rapid,1,8
+2021-04-10,2021,AUT,Admira,Ried,0,2
+2021-04-10,2021,AUT,Altach,St. Polten,1,0
+2021-04-10,2021,AUT,Hartberg,Austria Vienna,1,0
+2021-04-11,2021,AUT,LASK,Wolfsberger AC,2,1
+2021-04-11,2021,AUT,SK Rapid,Salzburg,0,3
+2021-04-11,2021,AUT,Sturm Graz,Tirol,3,2
+2021-04-17,2021,AUT,Admira,Hartberg,0,1
+2021-04-17,2021,AUT,Ried,Altach,0,0
+2021-04-17,2021,AUT,St. Polten,Austria Vienna,1,2
+2021-04-18,2021,AUT,Salzburg,LASK,2,0
+2021-04-18,2021,AUT,SK Rapid,Sturm Graz,0,0
+2021-04-18,2021,AUT,Wolfsberger AC,Tirol,2,0
+2021-04-20,2021,AUT,Altach,Admira,0,1
+2021-04-20,2021,AUT,Austria Vienna,Ried,2,2
+2021-04-20,2021,AUT,Hartberg,St. Polten,0,0
+2021-04-21,2021,AUT,LASK,SK Rapid,1,1
+2021-04-21,2021,AUT,Sturm Graz,Wolfsberger AC,0,1
+2021-04-21,2021,AUT,Tirol,Salzburg,3,2
+2021-04-24,2021,AUT,Admira,Austria Vienna,0,2
+2021-04-24,2021,AUT,Altach,Hartberg,2,2
+2021-04-24,2021,AUT,Ried,St. Polten,2,1
+2021-04-25,2021,AUT,SK Rapid,Tirol,4,0
+2021-04-25,2021,AUT,Sturm Graz,LASK,3,1
+2021-04-25,2021,AUT,Wolfsberger AC,Salzburg,1,2
+2021-04-27,2021,AUT,Austria Vienna,Admira,0,0
+2021-04-27,2021,AUT,Hartberg,Altach,2,1
+2021-04-27,2021,AUT,St. Polten,Ried,0,0
+2021-04-28,2021,AUT,LASK,Sturm Graz,0,0
+2021-04-28,2021,AUT,Salzburg,Wolfsberger AC,1,1
+2021-04-28,2021,AUT,Tirol,SK Rapid,2,3
+2021-05-08,2021,AUT,Admira,St. Polten,2,0
+2021-05-08,2021,AUT,Altach,Austria Vienna,2,1
+2021-05-08,2021,AUT,Hartberg,Ried,1,1
+2021-05-09,2021,AUT,LASK,Tirol,3,3
+2021-05-09,2021,AUT,SK Rapid,Wolfsberger AC,1,2
+2021-05-09,2021,AUT,Sturm Graz,Salzburg,1,3
+2021-05-11,2021,AUT,Austria Vienna,Hartberg,3,1
+2021-05-11,2021,AUT,Ried,Admira,0,0
+2021-05-11,2021,AUT,St. Polten,Altach,3,3
+2021-05-12,2021,AUT,Salzburg,SK Rapid,2,0
+2021-05-12,2021,AUT,Tirol,Sturm Graz,2,3
+2021-05-12,2021,AUT,Wolfsberger AC,LASK,0,4
+2021-05-15,2021,AUT,Altach,Ried,3,0
+2021-05-15,2021,AUT,Austria Vienna,St. Polten,2,1
+2021-05-15,2021,AUT,Hartberg,Admira,2,0
+2021-05-16,2021,AUT,LASK,Salzburg,2,5
+2021-05-16,2021,AUT,Sturm Graz,SK Rapid,4,1
+2021-05-16,2021,AUT,Tirol,Wolfsberger AC,2,2
+2021-05-21,2021,AUT,Admira,Altach,1,1
+2021-05-21,2021,AUT,Ried,Austria Vienna,3,2
+2021-05-21,2021,AUT,St. Polten,Hartberg,0,1
+2021-05-22,2021,AUT,Salzburg,Tirol,4,0
+2021-05-22,2021,AUT,SK Rapid,LASK,3,0
+2021-05-22,2021,AUT,Wolfsberger AC,Sturm Graz,1,3
+2021-05-24,2021,AUT,Hartberg,Austria Vienna,0,3
+2021-05-26,2021,AUT,A. Klagenfurt,St. Polten,4,0
+2021-05-27,2021,AUT,Austria Vienna,Wolfsberger AC,3,0
+2021-05-29,2021,AUT,St. Polten,A. Klagenfurt,0,1
+2021-05-30,2021,AUT,Wolfsberger AC,Austria Vienna,1,2
+2021-07-23,2122,AUT,Sturm Graz,Salzburg,1,3
+2021-07-24,2122,AUT,Altach,LASK,0,1
+2021-07-24,2122,AUT,SK Rapid,Hartberg,0,2
+2021-07-24,2122,AUT,Tirol,Admira,1,1
+2021-07-25,2122,AUT,A. Klagenfurt,Wolfsberger AC,1,1
+2021-07-25,2122,AUT,Ried,Austria Vienna,2,1
+2021-07-31,2122,AUT,Admira,A. Klagenfurt,4,0
+2021-07-31,2122,AUT,Hartberg,Altach,1,2
+2021-07-31,2122,AUT,LASK,SK Rapid,1,1
+2021-08-01,2122,AUT,Austria Vienna,Tirol,1,1
+2021-08-01,2122,AUT,Salzburg,Ried,7,1
+2021-08-01,2122,AUT,Wolfsberger AC,Sturm Graz,1,4
+2021-08-07,2122,AUT,A. Klagenfurt,Hartberg,4,3
+2021-08-07,2122,AUT,Ried,Admira,2,1
+2021-08-07,2122,AUT,Sturm Graz,Altach,3,1
+2021-08-08,2122,AUT,Salzburg,Austria Vienna,1,0
+2021-08-08,2122,AUT,SK Rapid,Wolfsberger AC,3,0
+2021-08-08,2122,AUT,Tirol,LASK,1,1
+2021-08-14,2122,AUT,Admira,Salzburg,0,1
+2021-08-14,2122,AUT,Hartberg,Ried,1,1
+2021-08-14,2122,AUT,Wolfsberger AC,Tirol,2,2
+2021-08-15,2122,AUT,Altach,SK Rapid,2,1
+2021-08-15,2122,AUT,Austria Vienna,A. Klagenfurt,1,1
+2021-08-15,2122,AUT,LASK,Sturm Graz,1,3
+2021-08-21,2122,AUT,Salzburg,A. Klagenfurt,3,1
+2021-08-21,2122,AUT,Tirol,Altach,0,0
+2021-08-21,2122,AUT,Wolfsberger AC,Admira,3,0
+2021-08-22,2122,AUT,LASK,Hartberg,1,1
+2021-08-22,2122,AUT,SK Rapid,Ried,3,0
+2021-08-22,2122,AUT,Sturm Graz,Austria Vienna,2,2
+2021-08-28,2122,AUT,A. Klagenfurt,Tirol,2,1
+2021-08-28,2122,AUT,Altach,Wolfsberger AC,1,2
+2021-08-28,2122,AUT,Hartberg,Salzburg,0,1
+2021-08-29,2122,AUT,Admira,Sturm Graz,1,1
+2021-08-29,2122,AUT,Austria Vienna,SK Rapid,1,1
+2021-08-29,2122,AUT,Ried,LASK,1,0
+2021-09-11,2122,AUT,SK Rapid,Admira,1,2
+2021-09-11,2122,AUT,Tirol,Salzburg,1,3
+2021-09-11,2122,AUT,Wolfsberger AC,Hartberg,1,3
+2021-09-12,2122,AUT,Altach,Ried,1,1
+2021-09-12,2122,AUT,LASK,Austria Vienna,0,2
+2021-09-12,2122,AUT,Sturm Graz,A. Klagenfurt,2,1
+2021-09-18,2122,AUT,Admira,Hartberg,1,1
+2021-09-18,2122,AUT,Austria Vienna,Altach,0,0
+2021-09-18,2122,AUT,Ried,Wolfsberger AC,3,3
+2021-09-19,2122,AUT,A. Klagenfurt,LASK,1,1
+2021-09-19,2122,AUT,Salzburg,SK Rapid,2,0
+2021-09-19,2122,AUT,Sturm Graz,Tirol,5,0
+2021-09-25,2122,AUT,Altach,A. Klagenfurt,0,4
+2021-09-25,2122,AUT,Tirol,Ried,4,2
+2021-09-25,2122,AUT,Wolfsberger AC,Salzburg,0,2
+2021-09-26,2122,AUT,Hartberg,Austria Vienna,3,4
+2021-09-26,2122,AUT,LASK,Admira,3,1
+2021-09-26,2122,AUT,SK Rapid,Sturm Graz,0,3
+2021-10-02,2122,AUT,Admira,Altach,2,0
+2021-10-02,2122,AUT,Ried,A. Klagenfurt,1,1
+2021-10-02,2122,AUT,Wolfsberger AC,Austria Vienna,1,0
+2021-10-03,2122,AUT,Hartberg,Sturm Graz,3,2
+2021-10-03,2122,AUT,Salzburg,LASK,3,1
+2021-10-03,2122,AUT,SK Rapid,Tirol,5,2
+2021-10-16,2122,AUT,A. Klagenfurt,SK Rapid,1,1
+2021-10-16,2122,AUT,Altach,Salzburg,1,1
+2021-10-16,2122,AUT,Austria Vienna,Admira,2,2
+2021-10-17,2122,AUT,LASK,Wolfsberger AC,0,1
+2021-10-17,2122,AUT,Sturm Graz,Ried,1,0
+2021-10-17,2122,AUT,Tirol,Hartberg,2,2
+2021-10-23,2122,AUT,Admira,Tirol,0,1
+2021-10-23,2122,AUT,Austria Vienna,Ried,4,1
+2021-10-23,2122,AUT,Wolfsberger AC,A. Klagenfurt,2,1
+2021-10-24,2122,AUT,Hartberg,SK Rapid,1,1
+2021-10-24,2122,AUT,LASK,Altach,0,1
+2021-10-24,2122,AUT,Salzburg,Sturm Graz,4,1
+2021-10-30,2122,AUT,A. Klagenfurt,Admira,3,3
+2021-10-30,2122,AUT,Altach,Hartberg,0,2
+2021-10-30,2122,AUT,Ried,Salzburg,2,2
+2021-10-31,2122,AUT,SK Rapid,LASK,3,2
+2021-10-31,2122,AUT,Sturm Graz,Wolfsberger AC,0,3
+2021-10-31,2122,AUT,Tirol,Austria Vienna,1,1
+2021-11-06,2122,AUT,Admira,Ried,1,2
+2021-11-06,2122,AUT,Austria Vienna,Salzburg,0,1
+2021-11-06,2122,AUT,Hartberg,A. Klagenfurt,0,2
+2021-11-07,2122,AUT,LASK,Tirol,3,0
+2021-11-07,2122,AUT,Wolfsberger AC,SK Rapid,4,1
+2021-11-20,2122,AUT,Ried,Hartberg,1,0
+2021-11-20,2122,AUT,Salzburg,Admira,0,0
+2021-11-20,2122,AUT,SK Rapid,Altach,1,0
+2021-11-21,2122,AUT,A. Klagenfurt,Austria Vienna,0,0
+2021-11-21,2122,AUT,Sturm Graz,LASK,3,3
+2021-11-21,2122,AUT,Tirol,Wolfsberger AC,5,1
+2021-11-27,2122,AUT,A. Klagenfurt,Salzburg,2,1
+2021-11-27,2122,AUT,Admira,Wolfsberger AC,0,1
+2021-11-27,2122,AUT,Altach,Tirol,0,3
+2021-11-28,2122,AUT,Austria Vienna,Sturm Graz,2,1
+2021-11-28,2122,AUT,Hartberg,LASK,2,1
+2021-11-28,2122,AUT,Ried,SK Rapid,2,2
+2021-12-01,2122,AUT,Altach,Sturm Graz,0,1
+2021-12-04,2122,AUT,Salzburg,Hartberg,2,1
+2021-12-04,2122,AUT,Sturm Graz,Admira,1,1
+2021-12-04,2122,AUT,Tirol,A. Klagenfurt,0,1
+2021-12-05,2122,AUT,LASK,Ried,1,0
+2021-12-05,2122,AUT,SK Rapid,Austria Vienna,1,1
+2021-12-05,2122,AUT,Wolfsberger AC,Altach,3,0
+2021-12-11,2122,AUT,Hartberg,Wolfsberger AC,2,2
+2021-12-11,2122,AUT,Ried,Altach,2,1
+2021-12-11,2122,AUT,Salzburg,Tirol,5,0
+2021-12-12,2122,AUT,A. Klagenfurt,Sturm Graz,0,3
+2021-12-12,2122,AUT,Admira,SK Rapid,1,2
+2021-12-12,2122,AUT,Austria Vienna,LASK,2,3
+2022-02-11,2122,AUT,SK Rapid,Salzburg,1,2
+2022-02-12,2122,AUT,Altach,Austria Vienna,0,2
+2022-02-12,2122,AUT,Tirol,Sturm Graz,2,2
+2022-02-12,2122,AUT,Wolfsberger AC,Ried,2,1
+2022-02-13,2122,AUT,Hartberg,Admira,1,1
+2022-02-13,2122,AUT,LASK,A. Klagenfurt,2,2
+2022-02-19,2122,AUT,Admira,LASK,0,3
+2022-02-19,2122,AUT,Austria Vienna,Hartberg,2,0
+2022-02-19,2122,AUT,Ried,Tirol,3,2
+2022-02-20,2122,AUT,A. Klagenfurt,Altach,2,0
+2022-02-20,2122,AUT,Salzburg,Wolfsberger AC,2,0
+2022-02-20,2122,AUT,Sturm Graz,SK Rapid,2,2
+2022-02-26,2122,AUT,Altach,Admira,0,2
+2022-02-27,2122,AUT,A. Klagenfurt,Ried,1,1
+2022-02-27,2122,AUT,Austria Vienna,Wolfsberger AC,1,0
+2022-02-27,2122,AUT,Sturm Graz,Hartberg,3,0
+2022-02-27,2122,AUT,Tirol,SK Rapid,0,2
+2022-03-02,2122,AUT,LASK,Salzburg,0,0
+2022-03-05,2122,AUT,Salzburg,Altach,4,0
+2022-03-06,2122,AUT,Admira,Austria Vienna,1,2
+2022-03-06,2122,AUT,Hartberg,Tirol,0,1
+2022-03-06,2122,AUT,Ried,Sturm Graz,2,2
+2022-03-06,2122,AUT,SK Rapid,A. Klagenfurt,3,0
+2022-03-06,2122,AUT,Wolfsberger AC,LASK,1,0
+2022-03-12,2122,AUT,Admira,Ried,2,0
+2022-03-12,2122,AUT,Altach,Hartberg,0,0
+2022-03-13,2122,AUT,A. Klagenfurt,SK Rapid,1,3
+2022-03-13,2122,AUT,Austria Vienna,Wolfsberger AC,2,1
+2022-03-13,2122,AUT,LASK,Tirol,6,0
+2022-03-13,2122,AUT,Salzburg,Sturm Graz,1,0
+2022-03-19,2122,AUT,Ried,Altach,1,2
+2022-03-19,2122,AUT,Tirol,Admira,0,0
+2022-03-20,2122,AUT,Hartberg,LASK,0,0
+2022-03-20,2122,AUT,SK Rapid,Austria Vienna,1,1
+2022-03-20,2122,AUT,Sturm Graz,A. Klagenfurt,3,1
+2022-03-20,2122,AUT,Wolfsberger AC,Salzburg,1,4
+2022-04-02,2122,AUT,Altach,Admira,2,2
+2022-04-02,2122,AUT,Hartberg,Tirol,0,1
+2022-04-02,2122,AUT,LASK,Ried,0,2
+2022-04-03,2122,AUT,Austria Vienna,A. Klagenfurt,1,1
+2022-04-03,2122,AUT,Salzburg,SK Rapid,2,1
+2022-04-03,2122,AUT,Wolfsberger AC,Sturm Graz,0,2
+2022-04-09,2122,AUT,Admira,LASK,1,1
+2022-04-09,2122,AUT,Ried,Hartberg,0,0
+2022-04-09,2122,AUT,Tirol,Altach,0,3
+2022-04-10,2122,AUT,A. Klagenfurt,Salzburg,0,6
+2022-04-10,2122,AUT,SK Rapid,Wolfsberger AC,2,1
+2022-04-10,2122,AUT,Sturm Graz,Austria Vienna,1,0
+2022-04-16,2122,AUT,Altach,LASK,0,0
+2022-04-16,2122,AUT,Hartberg,Admira,1,2
+2022-04-16,2122,AUT,Ried,Tirol,2,3
+2022-04-17,2122,AUT,Austria Vienna,Salzburg,1,2
+2022-04-17,2122,AUT,Sturm Graz,SK Rapid,2,1
+2022-04-17,2122,AUT,Wolfsberger AC,A. Klagenfurt,1,2
+2022-04-23,2122,AUT,Admira,Hartberg,1,3
+2022-04-23,2122,AUT,LASK,Altach,2,1
+2022-04-23,2122,AUT,Tirol,Ried,2,0
+2022-04-24,2122,AUT,A. Klagenfurt,Wolfsberger AC,2,3
+2022-04-24,2122,AUT,Salzburg,Austria Vienna,5,0
+2022-04-24,2122,AUT,SK Rapid,Sturm Graz,1,1
+2022-04-26,2122,AUT,Hartberg,Altach,4,0
+2022-04-26,2122,AUT,Ried,Admira,1,1
+2022-04-26,2122,AUT,Tirol,LASK,4,0
+2022-04-27,2122,AUT,SK Rapid,A. Klagenfurt,2,2
+2022-04-27,2122,AUT,Sturm Graz,Salzburg,2,1
+2022-04-27,2122,AUT,Wolfsberger AC,Austria Vienna,1,1
+2022-05-07,2122,AUT,Admira,Tirol,1,1
+2022-05-07,2122,AUT,Altach,Ried,1,1
+2022-05-07,2122,AUT,LASK,Hartberg,3,3
+2022-05-08,2122,AUT,A. Klagenfurt,Sturm Graz,1,2
+2022-05-08,2122,AUT,Austria Vienna,SK Rapid,1,1
+2022-05-08,2122,AUT,Salzburg,Wolfsberger AC,4,0
+2022-05-14,2122,AUT,Admira,Altach,0,3
+2022-05-14,2122,AUT,Ried,LASK,1,1
+2022-05-14,2122,AUT,Tirol,Hartberg,4,2
+2022-05-15,2122,AUT,A. Klagenfurt,Austria Vienna,1,2
+2022-05-15,2122,AUT,SK Rapid,Salzburg,0,1
+2022-05-15,2122,AUT,Sturm Graz,Wolfsberger AC,1,4
+2022-05-20,2122,AUT,Altach,Tirol,2,1
+2022-05-20,2122,AUT,Hartberg,Ried,1,1
+2022-05-20,2122,AUT,LASK,Admira,3,1
+2022-05-21,2122,AUT,Austria Vienna,Sturm Graz,4,2
+2022-05-21,2122,AUT,Salzburg,A. Klagenfurt,1,1
+2022-05-21,2122,AUT,Wolfsberger AC,SK Rapid,2,1
+2022-05-23,2122,AUT,Tirol,LASK,2,1
+2022-05-26,2122,AUT,Tirol,SK Rapid,1,2
+2022-05-29,2122,AUT,SK Rapid,Tirol,2,0
+2022-07-22,2223,AUT,Salzburg,Austria Vienna,3,0
+2022-07-23,2223,AUT,LASK,A. Klagenfurt,3,1
+2022-07-23,2223,AUT,Wolfsberger AC,Sturm Graz,1,1
+2022-07-24,2223,AUT,A. Lustenau,Tirol,2,1
+2022-07-24,2223,AUT,Hartberg,Altach,2,1
+2022-07-24,2223,AUT,SK Rapid,Ried,1,0
+2022-07-30,2223,AUT,Altach,Wolfsberger AC,2,2
+2022-07-30,2223,AUT,Ried,A. Lustenau,1,0
+2022-07-30,2223,AUT,Sturm Graz,Salzburg,2,1
+2022-07-31,2223,AUT,A. Klagenfurt,SK Rapid,0,1
+2022-07-31,2223,AUT,Austria Vienna,LASK,1,1
+2022-07-31,2223,AUT,Tirol,Hartberg,2,1
+2022-08-06,2223,AUT,Hartberg,Salzburg,0,2
+2022-08-06,2223,AUT,Ried,Sturm Graz,1,1
+2022-08-06,2223,AUT,Wolfsberger AC,LASK,1,5
+2022-08-07,2223,AUT,Altach,Austria Vienna,3,2
+2022-08-07,2223,AUT,SK Rapid,A. Lustenau,1,1
+2022-08-07,2223,AUT,Tirol,A. Klagenfurt,2,2
+2022-08-13,2223,AUT,A. Klagenfurt,Ried,1,0
+2022-08-13,2223,AUT,Austria Vienna,Tirol,2,1
+2022-08-13,2223,AUT,Sturm Graz,Altach,4,0
+2022-08-14,2223,AUT,A. Lustenau,Hartberg,4,1
+2022-08-14,2223,AUT,LASK,SK Rapid,2,1
+2022-08-14,2223,AUT,Salzburg,Wolfsberger AC,2,1
+2022-08-20,2223,AUT,Altach,A. Lustenau,1,2
+2022-08-20,2223,AUT,Salzburg,A. Klagenfurt,2,0
+2022-08-20,2223,AUT,Sturm Graz,LASK,0,1
+2022-08-21,2223,AUT,Ried,Tirol,1,2
+2022-08-21,2223,AUT,Wolfsberger AC,Austria Vienna,1,2
+2022-08-27,2223,AUT,A. Lustenau,Salzburg,0,6
+2022-08-27,2223,AUT,Hartberg,Ried,2,0
+2022-08-27,2223,AUT,LASK,Altach,4,1
+2022-08-28,2223,AUT,A. Klagenfurt,Austria Vienna,3,3
+2022-08-28,2223,AUT,SK Rapid,Sturm Graz,1,2
+2022-08-28,2223,AUT,Tirol,Wolfsberger AC,1,3
+2022-09-03,2223,AUT,Austria Vienna,A. Lustenau,2,2
+2022-09-03,2223,AUT,Salzburg,Tirol,2,0
+2022-09-03,2223,AUT,Sturm Graz,Hartberg,0,0
+2022-09-04,2223,AUT,Altach,SK Rapid,0,1
+2022-09-04,2223,AUT,LASK,Ried,1,1
+2022-09-04,2223,AUT,Wolfsberger AC,A. Klagenfurt,3,4
+2022-09-10,2223,AUT,Ried,Salzburg,0,3
+2022-09-10,2223,AUT,SK Rapid,Wolfsberger AC,1,3
+2022-09-10,2223,AUT,Tirol,Altach,0,0
+2022-09-11,2223,AUT,A. Klagenfurt,Sturm Graz,0,2
+2022-09-11,2223,AUT,A. Lustenau,LASK,1,1
+2022-09-11,2223,AUT,Hartberg,Austria Vienna,0,3
+2022-09-17,2223,AUT,Altach,A. Klagenfurt,1,4
+2022-09-17,2223,AUT,LASK,Tirol,1,4
+2022-09-17,2223,AUT,Wolfsberger AC,Hartberg,3,1
+2022-09-18,2223,AUT,Austria Vienna,Ried,3,0
+2022-09-18,2223,AUT,Salzburg,SK Rapid,1,1
+2022-09-18,2223,AUT,Sturm Graz,A. Lustenau,2,0
+2022-10-01,2223,AUT,A. Lustenau,Wolfsberger AC,1,3
+2022-10-01,2223,AUT,Salzburg,LASK,1,1
+2022-10-01,2223,AUT,Tirol,SK Rapid,0,5
+2022-10-02,2223,AUT,Austria Vienna,Sturm Graz,0,3
+2022-10-02,2223,AUT,Hartberg,A. Klagenfurt,2,3
+2022-10-02,2223,AUT,Ried,Altach,2,3
+2022-10-08,2223,AUT,A. Klagenfurt,A. Lustenau,2,1
+2022-10-08,2223,AUT,Altach,Salzburg,2,3
+2022-10-08,2223,AUT,LASK,Hartberg,0,3
+2022-10-09,2223,AUT,SK Rapid,Austria Vienna,1,2
+2022-10-09,2223,AUT,Sturm Graz,Tirol,2,1
+2022-10-09,2223,AUT,Wolfsberger AC,Ried,1,2
+2022-10-15,2223,AUT,A. Klagenfurt,LASK,1,3
+2022-10-15,2223,AUT,Ried,SK Rapid,1,0
+2022-10-15,2223,AUT,Tirol,A. Lustenau,3,2
+2022-10-16,2223,AUT,Altach,Hartberg,1,0
+2022-10-16,2223,AUT,Austria Vienna,Salzburg,1,3
+2022-10-16,2223,AUT,Sturm Graz,Wolfsberger AC,3,2
+2022-10-22,2223,AUT,Hartberg,Tirol,1,5
+2022-10-22,2223,AUT,Salzburg,Sturm Graz,0,0
+2022-10-22,2223,AUT,SK Rapid,A. Klagenfurt,0,1
+2022-10-23,2223,AUT,A. Lustenau,Ried,0,0
+2022-10-23,2223,AUT,LASK,Austria Vienna,2,2
+2022-10-23,2223,AUT,Wolfsberger AC,Altach,2,3
+2022-10-26,2223,AUT,SK Rapid,Hartberg,5,1
+2022-10-29,2223,AUT,A. Klagenfurt,Tirol,2,3
+2022-10-29,2223,AUT,A. Lustenau,SK Rapid,3,3
+2022-10-29,2223,AUT,Salzburg,Hartberg,1,0
+2022-10-30,2223,AUT,Austria Vienna,Altach,2,1
+2022-10-30,2223,AUT,LASK,Wolfsberger AC,4,1
+2022-10-30,2223,AUT,Sturm Graz,Ried,2,1
+2022-11-05,2223,AUT,Hartberg,A. Lustenau,1,1
+2022-11-05,2223,AUT,Ried,A. Klagenfurt,2,2
+2022-11-05,2223,AUT,Wolfsberger AC,Salzburg,1,2
+2022-11-06,2223,AUT,Altach,Sturm Graz,1,1
+2022-11-06,2223,AUT,SK Rapid,LASK,1,0
+2022-11-06,2223,AUT,Tirol,Austria Vienna,0,0
+2022-11-12,2223,AUT,A. Lustenau,Altach,3,0
+2022-11-12,2223,AUT,Hartberg,SK Rapid,1,2
+2022-11-12,2223,AUT,Tirol,Ried,2,0
+2022-11-13,2223,AUT,A. Klagenfurt,Salzburg,0,1
+2022-11-13,2223,AUT,Austria Vienna,Wolfsberger AC,0,1
+2022-11-13,2223,AUT,LASK,Sturm Graz,1,1
+2023-02-10,2223,AUT,Sturm Graz,SK Rapid,1,0
+2023-02-11,2223,AUT,Salzburg,A. Lustenau,4,0
+2023-02-11,2223,AUT,Wolfsberger AC,Tirol,1,2
+2023-02-12,2223,AUT,Altach,LASK,0,1
+2023-02-12,2223,AUT,Austria Vienna,A. Klagenfurt,3,1
+2023-02-12,2223,AUT,Ried,Hartberg,0,1
+2023-02-18,2223,AUT,A. Klagenfurt,Wolfsberger AC,0,3
+2023-02-18,2223,AUT,Hartberg,Sturm Graz,1,2
+2023-02-18,2223,AUT,Ried,LASK,1,1
+2023-02-19,2223,AUT,A. Lustenau,Austria Vienna,1,0
+2023-02-19,2223,AUT,SK Rapid,Altach,3,0
+2023-02-19,2223,AUT,Tirol,Salzburg,1,3
+2023-02-24,2223,AUT,LASK,A. Lustenau,1,0
+2023-02-25,2223,AUT,Austria Vienna,Hartberg,3,0
+2023-02-25,2223,AUT,Sturm Graz,A. Klagenfurt,1,2
+2023-02-26,2223,AUT,Altach,Tirol,0,0
+2023-02-26,2223,AUT,Salzburg,Ried,2,0
+2023-02-26,2223,AUT,Wolfsberger AC,SK Rapid,1,2
+2023-03-04,2223,AUT,A. Lustenau,Sturm Graz,0,2
+2023-03-04,2223,AUT,Hartberg,Wolfsberger AC,2,1
+2023-03-04,2223,AUT,Ried,Austria Vienna,1,3
+2023-03-05,2223,AUT,A. Klagenfurt,Altach,3,0
+2023-03-05,2223,AUT,SK Rapid,Salzburg,2,4
+2023-03-05,2223,AUT,Tirol,LASK,2,3
+2023-03-12,2223,AUT,A. Klagenfurt,Hartberg,1,0
+2023-03-12,2223,AUT,Altach,Ried,1,2
+2023-03-12,2223,AUT,LASK,Salzburg,0,2
+2023-03-12,2223,AUT,SK Rapid,Tirol,2,0
+2023-03-12,2223,AUT,Sturm Graz,Austria Vienna,3,1
+2023-03-12,2223,AUT,Wolfsberger AC,A. Lustenau,0,1
+2023-03-19,2223,AUT,A. Lustenau,A. Klagenfurt,4,2
+2023-03-19,2223,AUT,Austria Vienna,SK Rapid,2,0
+2023-03-19,2223,AUT,Hartberg,LASK,2,2
+2023-03-19,2223,AUT,Ried,Wolfsberger AC,0,0
+2023-03-19,2223,AUT,Salzburg,Altach,1,1
+2023-03-19,2223,AUT,Tirol,Sturm Graz,0,2
+2023-03-31,2223,AUT,Hartberg,A. Lustenau,0,1
+2023-04-01,2223,AUT,Altach,Tirol,1,0
+2023-04-01,2223,AUT,Wolfsberger AC,Ried,1,0
+2023-04-02,2223,AUT,A. Klagenfurt,Salzburg,0,3
+2023-04-02,2223,AUT,Austria Vienna,LASK,2,2
+2023-04-02,2223,AUT,Sturm Graz,SK Rapid,3,1
+2023-04-07,2223,AUT,Tirol,Wolfsberger AC,4,0
+2023-04-08,2223,AUT,A. Lustenau,Altach,1,0
+2023-04-08,2223,AUT,Ried,Hartberg,1,3
+2023-04-09,2223,AUT,LASK,Sturm Graz,2,1
+2023-04-09,2223,AUT,Salzburg,Austria Vienna,3,3
+2023-04-09,2223,AUT,SK Rapid,A. Klagenfurt,3,1
+2023-04-14,2223,AUT,Ried,Tirol,1,1
+2023-04-15,2223,AUT,A. Lustenau,Wolfsberger AC,1,3
+2023-04-15,2223,AUT,Hartberg,Altach,2,2
+2023-04-16,2223,AUT,A. Klagenfurt,Sturm Graz,0,2
+2023-04-16,2223,AUT,Salzburg,LASK,0,0
+2023-04-16,2223,AUT,SK Rapid,Austria Vienna,3,3
+2023-04-21,2223,AUT,Wolfsberger AC,Hartberg,2,2
+2023-04-22,2223,AUT,Altach,Ried,1,1
+2023-04-22,2223,AUT,Tirol,A. Lustenau,0,2
+2023-04-23,2223,AUT,Austria Vienna,A. Klagenfurt,1,2
+2023-04-23,2223,AUT,LASK,SK Rapid,3,1
+2023-04-23,2223,AUT,Sturm Graz,Salzburg,0,2
+2023-04-26,2223,AUT,SK Rapid,Salzburg,1,1
+2023-04-26,2223,AUT,Sturm Graz,Austria Vienna,3,2
+2023-04-28,2223,AUT,Altach,Wolfsberger AC,0,2
+2023-04-29,2223,AUT,Ried,A. Lustenau,4,4
+2023-04-29,2223,AUT,Tirol,Hartberg,1,1
+2023-04-30,2223,AUT,LASK,A. Klagenfurt,4,0
+2023-05-05,2223,AUT,Wolfsberger AC,Altach,0,0
+2023-05-06,2223,AUT,A. Lustenau,Ried,2,2
+2023-05-06,2223,AUT,Hartberg,Tirol,5,0
+2023-05-07,2223,AUT,A. Klagenfurt,LASK,1,1
+2023-05-07,2223,AUT,Austria Vienna,Sturm Graz,1,2
+2023-05-07,2223,AUT,Salzburg,SK Rapid,2,1
+2023-05-12,2223,AUT,Tirol,Ried,1,1
+2023-05-13,2223,AUT,Altach,Hartberg,0,1
+2023-05-13,2223,AUT,Wolfsberger AC,A. Lustenau,2,2
+2023-05-14,2223,AUT,Austria Vienna,SK Rapid,3,1
+2023-05-14,2223,AUT,LASK,Salzburg,0,1
+2023-05-14,2223,AUT,Sturm Graz,A. Klagenfurt,4,1
+2023-05-19,2223,AUT,Ried,Altach,0,1
+2023-05-20,2223,AUT,A. Lustenau,Tirol,2,4
+2023-05-20,2223,AUT,Hartberg,Wolfsberger AC,0,2
+2023-05-21,2223,AUT,A. Klagenfurt,Austria Vienna,1,1
+2023-05-21,2223,AUT,Salzburg,Sturm Graz,2,1
+2023-05-21,2223,AUT,SK Rapid,LASK,1,1
+2023-05-27,2223,AUT,Altach,A. Lustenau,1,1
+2023-05-27,2223,AUT,Hartberg,Ried,2,0
+2023-05-27,2223,AUT,Wolfsberger AC,Tirol,2,0
+2023-05-28,2223,AUT,LASK,Austria Vienna,3,1
+2023-05-28,2223,AUT,Salzburg,A. Klagenfurt,3,2
+2023-05-28,2223,AUT,SK Rapid,Sturm Graz,3,2
+2023-06-02,2223,AUT,A. Lustenau,Hartberg,5,1
+2023-06-02,2223,AUT,Ried,Wolfsberger AC,1,2
+2023-06-02,2223,AUT,Tirol,Altach,1,1
+2023-06-03,2223,AUT,A. Klagenfurt,SK Rapid,2,1
+2023-06-03,2223,AUT,Austria Vienna,Salzburg,1,1
+2023-06-03,2223,AUT,Sturm Graz,LASK,2,0
+2023-06-05,2223,AUT,Wolfsberger AC,A. Lustenau,1,2
+2023-06-08,2223,AUT,A. Lustenau,Austria Vienna,1,1
+2023-06-11,2223,AUT,Austria Vienna,A. Lustenau,5,0
+2023-07-28,2324,AUT,LASK,SK Rapid,1,1
+2023-07-29,2324,AUT,Altach,Salzburg,0,2
+2023-07-29,2324,AUT,Hartberg,A. Lustenau,2,2
+2023-07-29,2324,AUT,Tirol,A. Klagenfurt,1,3
+2023-07-29,2324,AUT,Wolfsberger AC,BW Linz,2,1
+2023-07-30,2324,AUT,Austria Vienna,Sturm Graz,0,3
+2023-08-05,2324,AUT,SK Rapid,Altach,4,0
+2023-08-05,2324,AUT,Sturm Graz,LASK,2,0
+2023-08-06,2324,AUT,A. Lustenau,Austria Vienna,0,2
+2023-08-06,2324,AUT,BW Linz,Hartberg,3,3
+2023-08-06,2324,AUT,Salzburg,Tirol,3,0
+2023-08-09,2324,AUT,A. Klagenfurt,Wolfsberger AC,2,2
+2023-08-12,2324,AUT,LASK,BW Linz,2,0
+2023-08-12,2324,AUT,Sturm Graz,A. Klagenfurt,0,0
+2023-08-12,2324,AUT,Wolfsberger AC,A. Lustenau,1,1
+2023-08-13,2324,AUT,Altach,Tirol,1,0
+2023-08-13,2324,AUT,Salzburg,Austria Vienna,2,0
+2023-08-13,2324,AUT,SK Rapid,Hartberg,0,1
+2023-08-19,2324,AUT,A. Klagenfurt,Altach,1,1
+2023-08-19,2324,AUT,A. Lustenau,Sturm Graz,0,1
+2023-08-19,2324,AUT,Tirol,LASK,1,1
+2023-08-20,2324,AUT,Austria Vienna,Wolfsberger AC,0,0
+2023-08-20,2324,AUT,BW Linz,SK Rapid,0,5
+2023-08-20,2324,AUT,Hartberg,Salzburg,1,5
+2023-08-26,2324,AUT,A. Lustenau,Altach,0,3
+2023-08-26,2324,AUT,Sturm Graz,BW Linz,4,1
+2023-08-26,2324,AUT,Wolfsberger AC,Salzburg,1,2
+2023-08-27,2324,AUT,Hartberg,A. Klagenfurt,0,3
+2023-08-27,2324,AUT,LASK,Austria Vienna,2,0
+2023-08-27,2324,AUT,SK Rapid,Tirol,1,1
+2023-09-02,2324,AUT,Altach,Sturm Graz,1,2
+2023-09-02,2324,AUT,Tirol,BW Linz,2,4
+2023-09-02,2324,AUT,Wolfsberger AC,Hartberg,0,3
+2023-09-03,2324,AUT,Austria Vienna,A. Klagenfurt,2,2
+2023-09-03,2324,AUT,LASK,A. Lustenau,2,0
+2023-09-03,2324,AUT,Salzburg,SK Rapid,2,0
+2023-09-16,2324,AUT,A. Klagenfurt,LASK,1,3
+2023-09-16,2324,AUT,BW Linz,Altach,1,1
+2023-09-16,2324,AUT,Sturm Graz,Salzburg,2,2
+2023-09-17,2324,AUT,A. Lustenau,Tirol,2,3
+2023-09-17,2324,AUT,Hartberg,Austria Vienna,2,1
+2023-09-17,2324,AUT,SK Rapid,Wolfsberger AC,3,3
+2023-09-23,2324,AUT,A. Klagenfurt,A. Lustenau,1,0
+2023-09-23,2324,AUT,Salzburg,BW Linz,0,1
+2023-09-23,2324,AUT,Tirol,Wolfsberger AC,2,3
+2023-09-24,2324,AUT,Altach,Austria Vienna,2,1
+2023-09-24,2324,AUT,LASK,Hartberg,0,0
+2023-09-24,2324,AUT,SK Rapid,Sturm Graz,1,1
+2023-09-30,2324,AUT,A. Lustenau,Salzburg,0,4
+2023-09-30,2324,AUT,BW Linz,A. Klagenfurt,0,0
+2023-09-30,2324,AUT,Wolfsberger AC,LASK,2,1
+2023-10-01,2324,AUT,Austria Vienna,SK Rapid,0,0
+2023-10-01,2324,AUT,Hartberg,Altach,0,0
+2023-10-01,2324,AUT,Sturm Graz,Tirol,1,0
+2023-10-07,2324,AUT,A. Lustenau,SK Rapid,0,5
+2023-10-07,2324,AUT,Austria Vienna,BW Linz,4,0
+2023-10-07,2324,AUT,Hartberg,Tirol,3,0
+2023-10-08,2324,AUT,A. Klagenfurt,Salzburg,2,2
+2023-10-08,2324,AUT,LASK,Altach,1,0
+2023-10-08,2324,AUT,Wolfsberger AC,Sturm Graz,1,2
+2023-10-21,2324,AUT,BW Linz,A. Lustenau,0,0
+2023-10-21,2324,AUT,Salzburg,LASK,0,1
+2023-10-21,2324,AUT,Sturm Graz,Hartberg,2,1
+2023-10-22,2324,AUT,Altach,Wolfsberger AC,0,0
+2023-10-22,2324,AUT,SK Rapid,A. Klagenfurt,2,3
+2023-10-22,2324,AUT,Tirol,Austria Vienna,0,2
+2023-10-28,2324,AUT,A. Klagenfurt,Tirol,1,0
+2023-10-28,2324,AUT,BW Linz,Wolfsberger AC,2,0
+2023-10-28,2324,AUT,Salzburg,Altach,3,0
+2023-10-29,2324,AUT,A. Lustenau,Hartberg,0,4
+2023-10-29,2324,AUT,SK Rapid,LASK,3,3
+2023-10-29,2324,AUT,Sturm Graz,Austria Vienna,0,1
+2023-11-04,2324,AUT,Austria Vienna,A. Lustenau,1,0
+2023-11-04,2324,AUT,Tirol,Salzburg,0,2
+2023-11-04,2324,AUT,Wolfsberger AC,A. Klagenfurt,4,0
+2023-11-05,2324,AUT,Altach,SK Rapid,0,2
+2023-11-05,2324,AUT,Hartberg,BW Linz,3,2
+2023-11-05,2324,AUT,LASK,Sturm Graz,3,1
+2023-11-11,2324,AUT,A. Lustenau,Wolfsberger AC,2,3
+2023-11-11,2324,AUT,Hartberg,SK Rapid,1,0
+2023-11-11,2324,AUT,Tirol,Altach,5,1
+2023-11-12,2324,AUT,A. Klagenfurt,Sturm Graz,0,3
+2023-11-12,2324,AUT,Austria Vienna,Salzburg,0,0
+2023-11-12,2324,AUT,BW Linz,LASK,2,0
+2023-11-25,2324,AUT,LASK,Tirol,1,0
+2023-11-25,2324,AUT,Salzburg,Hartberg,3,2
+2023-11-25,2324,AUT,Sturm Graz,A. Lustenau,2,0
+2023-11-26,2324,AUT,Altach,A. Klagenfurt,0,1
+2023-11-26,2324,AUT,SK Rapid,BW Linz,1,0
+2023-11-26,2324,AUT,Wolfsberger AC,Austria Vienna,1,0
+2023-12-03,2324,AUT,Austria Vienna,LASK,0,0
+2023-12-03,2324,AUT,BW Linz,Sturm Graz,1,1
+2023-12-03,2324,AUT,Salzburg,Wolfsberger AC,1,0
+2023-12-04,2324,AUT,A. Klagenfurt,Hartberg,1,1
+2023-12-05,2324,AUT,Altach,A. Lustenau,3,0
+2023-12-05,2324,AUT,Tirol,SK Rapid,1,2
+2023-12-09,2324,AUT,A. Klagenfurt,Austria Vienna,2,2
+2023-12-09,2324,AUT,A. Lustenau,LASK,1,3
+2023-12-09,2324,AUT,SK Rapid,Salzburg,0,1
+2023-12-10,2324,AUT,BW Linz,Tirol,1,2
+2023-12-10,2324,AUT,Hartberg,Wolfsberger AC,2,0
+2023-12-10,2324,AUT,Sturm Graz,Altach,1,0
+2024-02-09,2324,AUT,Salzburg,Sturm Graz,1,1
+2024-02-10,2324,AUT,Altach,BW Linz,1,1
+2024-02-10,2324,AUT,Austria Vienna,Hartberg,3,1
+2024-02-11,2324,AUT,LASK,A. Klagenfurt,2,2
+2024-02-11,2324,AUT,Tirol,A. Lustenau,0,2
+2024-02-11,2324,AUT,Wolfsberger AC,SK Rapid,0,2
+2024-02-17,2324,AUT,Austria Vienna,Altach,2,1
+2024-02-17,2324,AUT,BW Linz,Salzburg,1,1
+2024-02-17,2324,AUT,Wolfsberger AC,Tirol,4,1
+2024-02-18,2324,AUT,A. Lustenau,A. Klagenfurt,0,1
+2024-02-18,2324,AUT,Hartberg,LASK,0,0
+2024-02-18,2324,AUT,Sturm Graz,SK Rapid,1,1
+2024-02-24,2324,AUT,Altach,Hartberg,1,2
+2024-02-24,2324,AUT,LASK,Wolfsberger AC,0,1
+2024-02-24,2324,AUT,Salzburg,A. Lustenau,7,0
+2024-02-25,2324,AUT,A. Klagenfurt,BW Linz,2,0
+2024-02-25,2324,AUT,SK Rapid,Austria Vienna,3,0
+2024-02-25,2324,AUT,Tirol,Sturm Graz,0,2
+2024-03-03,2324,AUT,Altach,LASK,0,0
+2024-03-03,2324,AUT,BW Linz,Austria Vienna,1,2
+2024-03-03,2324,AUT,Salzburg,A. Klagenfurt,1,0
+2024-03-03,2324,AUT,SK Rapid,A. Lustenau,1,1
+2024-03-03,2324,AUT,Sturm Graz,Wolfsberger AC,4,0
+2024-03-03,2324,AUT,Tirol,Hartberg,1,0
+2024-03-09,2324,AUT,LASK,Salzburg,0,1
+2024-03-10,2324,AUT,A. Klagenfurt,SK Rapid,1,1
+2024-03-10,2324,AUT,A. Lustenau,BW Linz,2,0
+2024-03-10,2324,AUT,Austria Vienna,Tirol,2,0
+2024-03-10,2324,AUT,Hartberg,Sturm Graz,1,1
+2024-03-10,2324,AUT,Wolfsberger AC,Altach,1,1
+2024-03-15,2324,AUT,SK Rapid,LASK,0,0
+2024-03-16,2324,AUT,Altach,Austria Vienna,1,1
+2024-03-16,2324,AUT,BW Linz,A. Lustenau,0,0
+2024-03-16,2324,AUT,Tirol,Wolfsberger AC,1,1
+2024-03-17,2324,AUT,A. Klagenfurt,Sturm Graz,0,4
+2024-03-17,2324,AUT,Salzburg,Hartberg,5,1
+2024-03-29,2324,AUT,Austria Vienna,BW Linz,0,0
+2024-03-30,2324,AUT,A. Lustenau,Tirol,1,2
+2024-03-30,2324,AUT,Wolfsberger AC,Altach,0,0
+2024-03-31,2324,AUT,Hartberg,SK Rapid,0,3
+2024-03-31,2324,AUT,LASK,A. Klagenfurt,1,0
+2024-03-31,2324,AUT,Sturm Graz,Salzburg,0,1
+2024-04-05,2324,AUT,Altach,Tirol,0,0
+2024-04-06,2324,AUT,Austria Vienna,A. Lustenau,1,1
+2024-04-06,2324,AUT,BW Linz,Wolfsberger AC,0,0
+2024-04-07,2324,AUT,A. Klagenfurt,Hartberg,2,2
+2024-04-07,2324,AUT,Salzburg,SK Rapid,1,1
+2024-04-07,2324,AUT,Sturm Graz,LASK,1,0
+2024-04-12,2324,AUT,LASK,Salzburg,3,1
+2024-04-13,2324,AUT,A. Lustenau,Altach,0,1
+2024-04-13,2324,AUT,Tirol,BW Linz,2,1
+2024-04-13,2324,AUT,Wolfsberger AC,Austria Vienna,0,1
+2024-04-14,2324,AUT,Hartberg,Sturm Graz,1,3
+2024-04-14,2324,AUT,SK Rapid,A. Klagenfurt,1,1
+2024-04-19,2324,AUT,Sturm Graz,SK Rapid,1,0
+2024-04-20,2324,AUT,Altach,BW Linz,2,2
+2024-04-20,2324,AUT,Austria Vienna,Tirol,3,0
+2024-04-20,2324,AUT,Wolfsberger AC,A. Lustenau,1,1
+2024-04-21,2324,AUT,LASK,Hartberg,1,3
+2024-04-21,2324,AUT,Salzburg,A. Klagenfurt,4,2
+2024-04-23,2324,AUT,A. Lustenau,Wolfsberger AC,1,2
+2024-04-23,2324,AUT,BW Linz,Altach,2,1
+2024-04-23,2324,AUT,Tirol,Austria Vienna,1,0
+2024-04-24,2324,AUT,A. Klagenfurt,Salzburg,4,3
+2024-04-24,2324,AUT,Hartberg,LASK,1,2
+2024-04-24,2324,AUT,SK Rapid,Sturm Graz,1,3
+2024-04-26,2324,AUT,Austria Vienna,Altach,2,2
+2024-04-27,2324,AUT,Tirol,A. Lustenau,0,0
+2024-04-27,2324,AUT,Wolfsberger AC,BW Linz,0,2
+2024-04-28,2324,AUT,Hartberg,A. Klagenfurt,3,2
+2024-04-28,2324,AUT,LASK,SK Rapid,5,0
+2024-04-28,2324,AUT,Salzburg,Sturm Graz,2,2
+2024-05-03,2324,AUT,A. Lustenau,Austria Vienna,2,0
+2024-05-04,2324,AUT,Altach,Wolfsberger AC,0,1
+2024-05-04,2324,AUT,BW Linz,Tirol,3,2
+2024-05-05,2324,AUT,A. Klagenfurt,LASK,0,2
+2024-05-05,2324,AUT,SK Rapid,Salzburg,2,0
+2024-05-05,2324,AUT,Sturm Graz,Hartberg,1,1
+2024-05-11,2324,AUT,A. Lustenau,BW Linz,1,0
+2024-05-11,2324,AUT,Austria Vienna,Wolfsberger AC,0,4
+2024-05-11,2324,AUT,Tirol,Altach,0,1
+2024-05-12,2324,AUT,A. Klagenfurt,SK Rapid,0,1
+2024-05-12,2324,AUT,Hartberg,Salzburg,1,5
+2024-05-12,2324,AUT,LASK,Sturm Graz,2,2
+2024-05-18,2324,AUT,Altach,A. Lustenau,2,2
+2024-05-18,2324,AUT,BW Linz,Austria Vienna,1,2
+2024-05-18,2324,AUT,Wolfsberger AC,Tirol,3,1
+2024-05-19,2324,AUT,Salzburg,LASK,7,1
+2024-05-19,2324,AUT,SK Rapid,Hartberg,0,3
+2024-05-19,2324,AUT,Sturm Graz,A. Klagenfurt,2,0
+2024-05-21,2324,AUT,Wolfsberger AC,Austria Vienna,1,2
+2024-05-24,2324,AUT,Austria Vienna,Hartberg,2,1
+2024-05-28,2324,AUT,Hartberg,Austria Vienna,0,1
+2024-08-02,2425,AUT,Grazer AK,Salzburg,2,3
+2024-08-03,2425,AUT,Altach,Tirol,1,2
+2024-08-03,2425,AUT,Hartberg,LASK,1,2
+2024-08-03,2425,AUT,Wolfsberger AC,A. Klagenfurt,4,1
+2024-08-04,2425,AUT,BW Linz,Austria Vienna,1,0
+2024-08-04,2425,AUT,SK Rapid,Sturm Graz,1,0
+2024-08-10,2425,AUT,LASK,Altach,1,2
+2024-08-10,2425,AUT,Salzburg,BW Linz,5,1
+2024-08-10,2425,AUT,Tirol,Grazer AK,0,0
+2024-08-11,2425,AUT,A. Klagenfurt,SK Rapid,1,1
+2024-08-11,2425,AUT,Austria Vienna,Wolfsberger AC,3,1
+2024-08-11,2425,AUT,Sturm Graz,Hartberg,2,0
+2024-08-17,2425,AUT,A. Klagenfurt,Sturm Graz,0,2
+2024-08-17,2425,AUT,Grazer AK,BW Linz,2,2
+2024-08-17,2425,AUT,LASK,Salzburg,0,1
+2024-08-18,2425,AUT,Altach,Wolfsberger AC,2,0
+2024-08-18,2425,AUT,Hartberg,Austria Vienna,1,1
+2024-08-18,2425,AUT,SK Rapid,Tirol,2,0
+2024-08-24,2425,AUT,Sturm Graz,Altach,2,1
+2024-08-24,2425,AUT,Tirol,A. Klagenfurt,0,1
+2024-08-25,2425,AUT,Austria Vienna,LASK,2,1
+2024-08-25,2425,AUT,BW Linz,SK Rapid,3,0
+2024-08-25,2425,AUT,Wolfsberger AC,Grazer AK,4,2
+2024-08-31,2425,AUT,A. Klagenfurt,BW Linz,3,1
+2024-08-31,2425,AUT,Hartberg,Grazer AK,1,1
+2024-08-31,2425,AUT,Sturm Graz,Tirol,4,2
+2024-09-01,2425,AUT,Altach,Austria Vienna,1,1
+2024-09-01,2425,AUT,LASK,Wolfsberger AC,1,5
+2024-09-01,2425,AUT,SK Rapid,Salzburg,3,2
+2024-09-14,2425,AUT,BW Linz,LASK,1,0
+2024-09-14,2425,AUT,Wolfsberger AC,SK Rapid,1,1
+2024-09-15,2425,AUT,Grazer AK,Altach,1,1
+2024-09-21,2425,AUT,A. Klagenfurt,Hartberg,2,2
+2024-09-21,2425,AUT,Altach,BW Linz,0,1
+2024-09-21,2425,AUT,LASK,Grazer AK,4,2
+2024-09-22,2425,AUT,SK Rapid,Austria Vienna,2,1
+2024-09-22,2425,AUT,Sturm Graz,Wolfsberger AC,0,3
+2024-09-22,2425,AUT,Tirol,Salzburg,0,0
+2024-09-25,2425,AUT,Austria Vienna,Sturm Graz,2,2
+2024-09-26,2425,AUT,Hartberg,Tirol,1,0
+2024-09-28,2425,AUT,BW Linz,Sturm Graz,1,2
+2024-09-28,2425,AUT,Salzburg,Austria Vienna,2,0
+2024-09-28,2425,AUT,SK Rapid,LASK,1,1
+2024-09-29,2425,AUT,Grazer AK,A. Klagenfurt,0,1
+2024-09-29,2425,AUT,Hartberg,Altach,2,0
+2024-09-29,2425,AUT,Wolfsberger AC,Tirol,1,3
+2024-10-05,2425,AUT,Austria Vienna,Grazer AK,2,1
+2024-10-05,2425,AUT,Tirol,BW Linz,1,1
+2024-10-05,2425,AUT,Wolfsberger AC,Hartberg,2,3
+2024-10-06,2425,AUT,Altach,SK Rapid,0,1
+2024-10-06,2425,AUT,LASK,A. Klagenfurt,4,0
+2024-10-06,2425,AUT,Sturm Graz,Salzburg,5,0
+2024-10-19,2425,AUT,BW Linz,Wolfsberger AC,0,1
+2024-10-19,2425,AUT,Salzburg,Altach,2,1
+2024-10-19,2425,AUT,Sturm Graz,Grazer AK,5,2
+2024-10-20,2425,AUT,A. Klagenfurt,Austria Vienna,0,1
+2024-10-20,2425,AUT,SK Rapid,Hartberg,2,1
+2024-10-20,2425,AUT,Tirol,LASK,1,2
+2024-10-26,2425,AUT,Altach,A. Klagenfurt,2,2
+2024-10-26,2425,AUT,Austria Vienna,Tirol,3,0
+2024-10-26,2425,AUT,Hartberg,BW Linz,2,1
+2024-10-27,2425,AUT,Grazer AK,SK Rapid,1,1
+2024-10-27,2425,AUT,LASK,Sturm Graz,1,2
+2024-10-27,2425,AUT,Wolfsberger AC,Salzburg,0,0
+2024-11-02,2425,AUT,LASK,Hartberg,1,1
+2024-11-02,2425,AUT,Salzburg,Grazer AK,0,0
+2024-11-02,2425,AUT,Sturm Graz,SK Rapid,1,1
+2024-11-03,2425,AUT,A. Klagenfurt,Wolfsberger AC,2,1
+2024-11-03,2425,AUT,Austria Vienna,BW Linz,2,1
+2024-11-03,2425,AUT,Tirol,Altach,1,0
+2024-11-09,2425,AUT,Grazer AK,Tirol,2,1
+2024-11-09,2425,AUT,Hartberg,Sturm Graz,1,2
+2024-11-09,2425,AUT,Wolfsberger AC,Austria Vienna,0,1
+2024-11-10,2425,AUT,Altach,LASK,1,2
+2024-11-10,2425,AUT,BW Linz,Salzburg,2,0
+2024-11-10,2425,AUT,SK Rapid,A. Klagenfurt,2,0
+2024-11-23,2425,AUT,Salzburg,LASK,1,2
+2024-11-23,2425,AUT,Sturm Graz,A. Klagenfurt,7,0
+2024-11-23,2425,AUT,Tirol,SK Rapid,0,0
+2024-11-24,2425,AUT,Austria Vienna,Hartberg,1,0
+2024-11-24,2425,AUT,BW Linz,Grazer AK,1,2
+2024-11-24,2425,AUT,Wolfsberger AC,Altach,2,0
+2024-11-30,2425,AUT,Altach,Sturm Graz,1,1
+2024-11-30,2425,AUT,Grazer AK,Wolfsberger AC,3,4
+2024-11-30,2425,AUT,Hartberg,Salzburg,1,1
+2024-12-01,2425,AUT,A. Klagenfurt,Tirol,0,3
+2024-12-01,2425,AUT,LASK,Austria Vienna,1,3
+2024-12-01,2425,AUT,SK Rapid,BW Linz,0,1
+2024-12-04,2425,AUT,Salzburg,Hartberg,4,0
+2024-12-07,2425,AUT,Salzburg,SK Rapid,2,2
+2024-12-07,2425,AUT,Tirol,Sturm Graz,0,3
+2024-12-07,2425,AUT,Wolfsberger AC,LASK,2,1
+2024-12-08,2425,AUT,Austria Vienna,Altach,3,0
+2024-12-08,2425,AUT,BW Linz,A. Klagenfurt,2,1
+2024-12-08,2425,AUT,Grazer AK,Hartberg,0,3
+2024-12-14,2425,AUT,Salzburg,A. Klagenfurt,3,0
+2025-02-07,2425,AUT,Sturm Graz,Austria Vienna,2,2
+2025-02-08,2425,AUT,Altach,Grazer AK,1,2
+2025-02-08,2425,AUT,SK Rapid,Wolfsberger AC,1,3
+2025-02-09,2425,AUT,A. Klagenfurt,Salzburg,0,0
+2025-02-09,2425,AUT,LASK,BW Linz,0,0
+2025-02-09,2425,AUT,Tirol,Hartberg,0,0
+2025-02-15,2425,AUT,BW Linz,Altach,1,3
+2025-02-15,2425,AUT,Salzburg,Tirol,1,1
+2025-02-15,2425,AUT,Wolfsberger AC,Sturm Graz,3,0
+2025-02-16,2425,AUT,Austria Vienna,SK Rapid,2,1
+2025-02-16,2425,AUT,Grazer AK,LASK,0,0
+2025-02-16,2425,AUT,Hartberg,A. Klagenfurt,1,1
+2025-02-22,2425,AUT,A. Klagenfurt,Grazer AK,4,2
+2025-02-22,2425,AUT,Austria Vienna,Salzburg,0,1
+2025-02-22,2425,AUT,Tirol,Wolfsberger AC,3,3
+2025-02-23,2425,AUT,Altach,Hartberg,0,0
+2025-02-23,2425,AUT,LASK,SK Rapid,2,1
+2025-02-23,2425,AUT,Sturm Graz,BW Linz,2,1
+2025-03-01,2425,AUT,Grazer AK,Austria Vienna,1,2
+2025-03-01,2425,AUT,Hartberg,Wolfsberger AC,0,3
+2025-03-01,2425,AUT,SK Rapid,Altach,5,0
+2025-03-02,2425,AUT,A. Klagenfurt,LASK,1,2
+2025-03-02,2425,AUT,BW Linz,Tirol,2,1
+2025-03-02,2425,AUT,Salzburg,Sturm Graz,3,1
+2025-03-09,2425,AUT,Altach,Salzburg,1,1
+2025-03-09,2425,AUT,Austria Vienna,A. Klagenfurt,2,0
+2025-03-09,2425,AUT,Grazer AK,Sturm Graz,1,2
+2025-03-09,2425,AUT,Hartberg,SK Rapid,2,1
+2025-03-09,2425,AUT,LASK,Tirol,2,1
+2025-03-09,2425,AUT,Wolfsberger AC,BW Linz,1,2
+2025-03-16,2425,AUT,A. Klagenfurt,Altach,2,2
+2025-03-16,2425,AUT,BW Linz,Hartberg,4,1
+2025-03-16,2425,AUT,Salzburg,Wolfsberger AC,1,0
+2025-03-16,2425,AUT,SK Rapid,Grazer AK,3,0
+2025-03-16,2425,AUT,Sturm Graz,LASK,4,2
+2025-03-16,2425,AUT,Tirol,Austria Vienna,0,2
+2025-03-28,2425,AUT,Altach,LASK,0,2
+2025-03-29,2425,AUT,Grazer AK,Tirol,0,0
+2025-03-29,2425,AUT,Hartberg,A. Klagenfurt,2,3
+2025-03-30,2425,AUT,BW Linz,Austria Vienna,0,2
+2025-03-30,2425,AUT,SK Rapid,Salzburg,0,2
+2025-03-30,2425,AUT,Wolfsberger AC,Sturm Graz,1,1
+2025-04-04,2425,AUT,Sturm Graz,SK Rapid,2,0
+2025-04-05,2425,AUT,A. Klagenfurt,Altach,2,3
+2025-04-05,2425,AUT,LASK,Grazer AK,1,0
+2025-04-05,2425,AUT,Tirol,Hartberg,1,3
+2025-04-06,2425,AUT,Austria Vienna,Wolfsberger AC,0,0
+2025-04-06,2425,AUT,Salzburg,BW Linz,2,1
+2025-04-11,2425,AUT,BW Linz,Wolfsberger AC,1,2
+2025-04-12,2425,AUT,Grazer AK,Altach,1,0
+2025-04-12,2425,AUT,Hartberg,LASK,0,1
+2025-04-12,2425,AUT,Tirol,A. Klagenfurt,5,3
+2025-04-13,2425,AUT,Salzburg,Sturm Graz,1,2
+2025-04-13,2425,AUT,SK Rapid,Austria Vienna,2,0
+2025-04-18,2425,AUT,LASK,Tirol,2,0
+2025-04-19,2425,AUT,A. Klagenfurt,Grazer AK,0,0
+2025-04-19,2425,AUT,Altach,Hartberg,1,1
+2025-04-20,2425,AUT,Austria Vienna,Salzburg,1,3
+2025-04-20,2425,AUT,Sturm Graz,BW Linz,2,0
+2025-04-20,2425,AUT,Wolfsberger AC,SK Rapid,5,1
+2025-04-22,2425,AUT,A. Klagenfurt,LASK,1,4
+2025-04-22,2425,AUT,Grazer AK,Hartberg,0,3
+2025-04-22,2425,AUT,Tirol,Altach,1,0
+2025-04-23,2425,AUT,Austria Vienna,Sturm Graz,2,1
+2025-04-23,2425,AUT,BW Linz,SK Rapid,2,1
+2025-04-23,2425,AUT,Salzburg,Wolfsberger AC,1,1
+2025-04-25,2425,AUT,Hartberg,Grazer AK,1,1
+2025-04-26,2425,AUT,Altach,Tirol,3,0
+2025-04-26,2425,AUT,LASK,A. Klagenfurt,6,0
+2025-04-27,2425,AUT,SK Rapid,BW Linz,0,0
+2025-04-27,2425,AUT,Sturm Graz,Austria Vienna,0,1
+2025-04-27,2425,AUT,Wolfsberger AC,Salzburg,2,1
+2025-05-02,2425,AUT,Grazer AK,A. Klagenfurt,1,1
+2025-05-03,2425,AUT,Tirol,LASK,1,3
+2025-05-04,2425,AUT,BW Linz,Sturm Graz,0,1
+2025-05-04,2425,AUT,Hartberg,Altach,2,0
+2025-05-04,2425,AUT,Salzburg,Austria Vienna,2,0
+2025-05-04,2425,AUT,SK Rapid,Wolfsberger AC,0,1
+2025-05-09,2425,AUT,Sturm Graz,Salzburg,4,2
+2025-05-10,2425,AUT,A. Klagenfurt,Tirol,1,4
+2025-05-10,2425,AUT,Altach,Grazer AK,2,2
+2025-05-10,2425,AUT,LASK,Hartberg,0,0
+2025-05-11,2425,AUT,Austria Vienna,SK Rapid,1,2
+2025-05-11,2425,AUT,Wolfsberger AC,BW Linz,2,0
+2025-05-17,2425,AUT,Altach,A. Klagenfurt,0,0
+2025-05-17,2425,AUT,Grazer AK,LASK,1,0
+2025-05-17,2425,AUT,Hartberg,Tirol,3,2
+2025-05-18,2425,AUT,BW Linz,Salzburg,1,2
+2025-05-18,2425,AUT,SK Rapid,Sturm Graz,3,1
+2025-05-18,2425,AUT,Wolfsberger AC,Austria Vienna,1,2
+2025-05-23,2425,AUT,A. Klagenfurt,Hartberg,0,1
+2025-05-23,2425,AUT,LASK,Altach,0,0
+2025-05-23,2425,AUT,Tirol,Grazer AK,1,1
+2025-05-24,2425,AUT,Austria Vienna,BW Linz,2,2
+2025-05-24,2425,AUT,Salzburg,SK Rapid,4,2
+2025-05-24,2425,AUT,Sturm Graz,Wolfsberger AC,1,1
+2025-08-01,2526,AUT,LASK,Sturm Graz,0,2
+2025-08-02,2526,AUT,Ried,Salzburg,2,2
+2025-08-02,2526,AUT,Tirol,Hartberg,4,2
+2025-08-02,2526,AUT,Wolfsberger AC,Altach,0,2
+2025-08-03,2526,AUT,Grazer AK,Austria Vienna,2,2
+2025-08-03,2526,AUT,SK Rapid,BW Linz,1,0
+2025-08-09,2526,AUT,Altach,Ried,1,0
+2025-08-09,2526,AUT,BW Linz,Hartberg,0,1
+2025-08-09,2526,AUT,Salzburg,Grazer AK,5,0
+2025-08-10,2526,AUT,Austria Vienna,Wolfsberger AC,0,2
+2025-08-10,2526,AUT,Sturm Graz,SK Rapid,1,2
+2025-08-10,2526,AUT,Tirol,LASK,3,1
+2025-08-16,2526,AUT,Grazer AK,Tirol,1,1
+2025-08-16,2526,AUT,Hartberg,Salzburg,1,2
+2025-08-16,2526,AUT,Ried,Sturm Graz,1,3
+2025-08-17,2526,AUT,LASK,Austria Vienna,2,1
+2025-08-17,2526,AUT,SK Rapid,Altach,0,0
+2025-08-17,2526,AUT,Wolfsberger AC,BW Linz,3,0
+2025-08-23,2526,AUT,BW Linz,Ried,0,2
+2025-08-23,2526,AUT,Salzburg,LASK,3,0
+2025-08-24,2526,AUT,Altach,Grazer AK,1,1
+2025-08-24,2526,AUT,Austria Vienna,Hartberg,1,3
+2025-08-24,2526,AUT,Wolfsberger AC,SK Rapid,1,2
+2025-08-30,2526,AUT,Grazer AK,Sturm Graz,0,3
+2025-08-30,2526,AUT,LASK,Ried,1,3
+2025-08-30,2526,AUT,Salzburg,BW Linz,2,2
+2025-08-31,2526,AUT,Austria Vienna,Altach,1,0
+2025-08-31,2526,AUT,Hartberg,SK Rapid,0,1
+2025-08-31,2526,AUT,Tirol,Wolfsberger AC,1,1
+2025-09-13,2526,AUT,Altach,LASK,1,0
+2025-09-13,2526,AUT,BW Linz,Grazer AK,3,0
+2025-09-13,2526,AUT,Wolfsberger AC,Salzburg,3,1
+2025-09-14,2526,AUT,Ried,Hartberg,0,2
+2025-09-14,2526,AUT,SK Rapid,Tirol,4,1
+2025-09-14,2526,AUT,Sturm Graz,Austria Vienna,0,1
+2025-09-20,2526,AUT,Austria Vienna,Ried,3,2
+2025-09-20,2526,AUT,Hartberg,Wolfsberger AC,2,2
+2025-09-20,2526,AUT,Salzburg,Sturm Graz,0,2
+2025-09-21,2526,AUT,Altach,Tirol,1,1
+2025-09-21,2526,AUT,Grazer AK,SK Rapid,1,1
+2025-09-21,2526,AUT,LASK,BW Linz,2,0
+2025-09-27,2526,AUT,BW Linz,Altach,1,0
+2025-09-27,2526,AUT,Ried,Grazer AK,0,0
+2025-09-27,2526,AUT,Wolfsberger AC,LASK,1,0
+2025-09-28,2526,AUT,SK Rapid,Austria Vienna,1,3
+2025-09-28,2526,AUT,Sturm Graz,Hartberg,1,0
+2025-09-28,2526,AUT,Tirol,Salzburg,1,2
+2025-10-04,2526,AUT,Austria Vienna,BW Linz,0,1
+2025-10-04,2526,AUT,Grazer AK,Wolfsberger AC,1,3
+2025-10-04,2526,AUT,Ried,Tirol,2,0
+2025-10-05,2526,AUT,Altach,Sturm Graz,0,2
+2025-10-05,2526,AUT,LASK,Hartberg,3,3
+2025-10-05,2526,AUT,Salzburg,SK Rapid,2,1
+2025-10-18,2526,AUT,Grazer AK,Hartberg,0,0
+2025-10-18,2526,AUT,Tirol,Austria Vienna,2,3
+2025-10-18,2526,AUT,Wolfsberger AC,Ried,1,2
+2025-10-19,2526,AUT,BW Linz,Sturm Graz,3,4
+2025-10-19,2526,AUT,Salzburg,Altach,2,2
+2025-10-19,2526,AUT,SK Rapid,LASK,0,2
+2025-10-25,2526,AUT,Altach,Hartberg,2,2
+2025-10-25,2526,AUT,LASK,Grazer AK,1,0
+2025-10-25,2526,AUT,Tirol,BW Linz,2,0
+2025-10-26,2526,AUT,Austria Vienna,Salzburg,0,3
+2025-10-26,2526,AUT,Ried,SK Rapid,0,2
+2025-10-26,2526,AUT,Sturm Graz,Wolfsberger AC,1,3
+2025-11-01,2526,AUT,BW Linz,LASK,0,1
+2025-11-01,2526,AUT,Grazer AK,Altach,3,1
+2025-11-01,2526,AUT,Hartberg,Austria Vienna,2,1
+2025-11-02,2526,AUT,Salzburg,Ried,4,1
+2025-11-02,2526,AUT,SK Rapid,Sturm Graz,2,1
+2025-11-02,2526,AUT,Wolfsberger AC,Tirol,0,0
+2025-11-08,2526,AUT,Austria Vienna,Grazer AK,2,1
+2025-11-08,2526,AUT,Ried,BW Linz,2,1
+2025-11-08,2526,AUT,Wolfsberger AC,Hartberg,1,2
+2025-11-09,2526,AUT,LASK,Altach,1,0
+2025-11-09,2526,AUT,Sturm Graz,Salzburg,1,1
+2025-11-09,2526,AUT,Tirol,SK Rapid,1,1
+2025-11-22,2526,AUT,Altach,Wolfsberger AC,3,1
+2025-11-22,2526,AUT,BW Linz,Austria Vienna,2,3
+2025-11-22,2526,AUT,Hartberg,Ried,2,0
+2025-11-23,2526,AUT,Salzburg,Tirol,2,3
+2025-11-23,2526,AUT,SK Rapid,Grazer AK,1,2
+2025-11-23,2526,AUT,Sturm Graz,LASK,1,3
+2025-11-29,2526,AUT,Austria Vienna,Tirol,0,0
+2025-11-29,2526,AUT,Grazer AK,BW Linz,3,1
+2025-11-29,2526,AUT,Ried,Wolfsberger AC,1,0
+2025-11-30,2526,AUT,Altach,Salzburg,1,1
+2025-11-30,2526,AUT,Hartberg,Sturm Graz,0,1
+2025-11-30,2526,AUT,LASK,SK Rapid,3,0
+2025-12-03,2526,AUT,Sturm Graz,Tirol,1,3
+2025-12-06,2526,AUT,BW Linz,Salzburg,0,2
+2025-12-06,2526,AUT,Hartberg,LASK,2,2
+2025-12-06,2526,AUT,SK Rapid,Ried,1,2
+2025-12-07,2526,AUT,Sturm Graz,Grazer AK,2,1
+2025-12-07,2526,AUT,Tirol,Altach,0,3
+2025-12-07,2526,AUT,Wolfsberger AC,Austria Vienna,2,1
+2025-12-13,2526,AUT,Grazer AK,LASK,1,2
+2025-12-13,2526,AUT,Hartberg,Tirol,2,1
+2025-12-13,2526,AUT,Ried,Altach,3,0
+2025-12-14,2526,AUT,Austria Vienna,Sturm Graz,3,1
+2025-12-14,2526,AUT,BW Linz,SK Rapid,1,1
+2025-12-14,2526,AUT,Salzburg,Wolfsberger AC,2,1
+2026-02-06,2526,AUT,Salzburg,Austria Vienna,0,2
+2026-02-07,2526,AUT,LASK,Tirol,1,0
+2026-02-07,2526,AUT,SK Rapid,Hartberg,1,1
+2026-02-08,2526,AUT,Altach,BW Linz,1,0
+2026-02-08,2526,AUT,Sturm Graz,Ried,1,0
+2026-02-08,2526,AUT,Wolfsberger AC,Grazer AK,2,2
+2026-02-14,2526,AUT,Hartberg,Altach,0,0
+2026-02-14,2526,AUT,Ried,LASK,1,1
+2026-02-14,2526,AUT,Tirol,Sturm Graz,1,0
+2026-02-15,2526,AUT,Austria Vienna,SK Rapid,2,0
+2026-02-15,2526,AUT,BW Linz,Wolfsberger AC,2,1
+2026-02-15,2526,AUT,Grazer AK,Salzburg,1,1
+2026-02-21,2526,AUT,Altach,Austria Vienna,2,1
+2026-02-21,2526,AUT,Hartberg,Grazer AK,1,0
+2026-02-21,2526,AUT,SK Rapid,Wolfsberger AC,2,0
+2026-02-22,2526,AUT,LASK,Salzburg,1,5
+2026-02-22,2526,AUT,Sturm Graz,BW Linz,1,0
+2026-02-22,2526,AUT,Tirol,Ried,1,1
+2026-03-01,2526,AUT,Altach,SK Rapid,1,1
+2026-03-01,2526,AUT,Austria Vienna,LASK,2,2
+2026-03-01,2526,AUT,BW Linz,Tirol,2,3
+2026-03-01,2526,AUT,Grazer AK,Ried,2,1
+2026-03-01,2526,AUT,Salzburg,Hartberg,0,0
+2026-03-01,2526,AUT,Wolfsberger AC,Sturm Graz,2,2
+2026-03-08,2526,AUT,Hartberg,BW Linz,1,1
+2026-03-08,2526,AUT,LASK,Wolfsberger AC,3,1
+2026-03-08,2526,AUT,Ried,Austria Vienna,0,2
+2026-03-08,2526,AUT,SK Rapid,Salzburg,1,0
+2026-03-08,2526,AUT,Sturm Graz,Altach,2,0
+2026-03-08,2526,AUT,Tirol,Grazer AK,2,0
+2026-03-13,2526,AUT,LASK,Hartberg,0,0
+2026-03-14,2526,AUT,Altach,BW Linz,3,1
+2026-03-14,2526,AUT,Grazer AK,Wolfsberger AC,2,0
+2026-03-14,2526,AUT,Ried,Tirol,2,1
+2026-03-15,2526,AUT,Austria Vienna,Sturm Graz,2,5
+2026-03-15,2526,AUT,Salzburg,SK Rapid,0,1
+2026-03-20,2526,AUT,Sturm Graz,Salzburg,1,1
+2026-03-21,2526,AUT,BW Linz,Ried,3,2
+2026-03-21,2526,AUT,Tirol,Grazer AK,1,5
+2026-03-21,2526,AUT,Wolfsberger AC,Altach,1,1
+2026-03-22,2526,AUT,Hartberg,Austria Vienna,0,1
+2026-03-22,2526,AUT,SK Rapid,LASK,4,2
+2026-04-03,2526,AUT,Ried,Altach,3,2
+2026-04-04,2526,AUT,Grazer AK,BW Linz,2,1
+2026-04-04,2526,AUT,Tirol,Wolfsberger AC,3,1
+2026-04-05,2526,AUT,Hartberg,Salzburg,1,2
+2026-04-05,2526,AUT,LASK,Austria Vienna,4,1
+2026-04-05,2526,AUT,SK Rapid,Sturm Graz,0,2
+2026-04-10,2526,AUT,Salzburg,LASK,2,3
+2026-04-11,2526,AUT,Altach,Grazer AK,1,0
+2026-04-11,2526,AUT,BW Linz,Tirol,5,0
+2026-04-11,2526,AUT,Wolfsberger AC,Ried,0,0
+2026-04-12,2526,AUT,Austria Vienna,SK Rapid,1,1
+2026-04-12,2526,AUT,Sturm Graz,Hartberg,0,0
+2026-04-17,2526,AUT,Grazer AK,Ried,1,1
+2026-04-18,2526,AUT,Tirol,Altach,2,2
+2026-04-18,2526,AUT,Wolfsberger AC,BW Linz,0,0
+2026-04-19,2526,AUT,Austria Vienna,Salzburg,1,3
+2026-04-19,2526,AUT,Hartberg,SK Rapid,2,2
+2026-04-19,2526,AUT,LASK,Sturm Graz,1,1
+2026-04-21,2526,AUT,Altach,Tirol,0,0
+2026-04-21,2526,AUT,BW Linz,Wolfsberger AC,3,0
+2026-04-21,2526,AUT,Ried,Grazer AK,2,1
+2026-04-22,2526,AUT,Salzburg,Austria Vienna,3,1
+2026-04-22,2526,AUT,SK Rapid,Hartberg,0,2
+2026-04-22,2526,AUT,Sturm Graz,LASK,1,1
+2026-04-24,2526,AUT,BW Linz,Altach,3,0
+2026-04-25,2526,AUT,Tirol,Ried,1,0
+2026-04-25,2526,AUT,Wolfsberger AC,Grazer AK,1,0
+2026-04-26,2526,AUT,Hartberg,LASK,1,5
+2026-04-26,2526,AUT,SK Rapid,Salzburg,1,0
+2026-04-26,2526,AUT,Sturm Graz,Austria Vienna,1,1
+2026-05-02,2526,AUT,Grazer AK,Tirol,4,0
+2026-05-02,2526,AUT,Ried,BW Linz,2,0
+2026-05-03,2526,AUT,Austria Vienna,Hartberg,1,0
+2026-05-03,2526,AUT,Salzburg,Sturm Graz,1,1
+2026-05-04,2526,AUT,Altach,Wolfsberger AC,1,4
+2026-05-04,2526,AUT,LASK,SK Rapid,3,1
+2026-05-09,2526,AUT,Grazer AK,Altach,2,2
+2026-05-09,2526,AUT,Ried,Wolfsberger AC,0,1
+2026-05-09,2526,AUT,Tirol,BW Linz,1,1
+2026-05-10,2526,AUT,Hartberg,Sturm Graz,2,4
+2026-05-10,2526,AUT,LASK,Salzburg,2,1
+2026-05-10,2526,AUT,SK Rapid,Austria Vienna,0,2
+2026-05-16,2526,AUT,Altach,Ried,2,0
+2026-05-16,2526,AUT,BW Linz,Grazer AK,0,3
+2026-05-16,2526,AUT,Wolfsberger AC,Tirol,2,0
+2026-05-17,2526,AUT,Austria Vienna,LASK,0,3
+2026-05-17,2526,AUT,Salzburg,Hartberg,1,3
+2026-05-17,2526,AUT,Sturm Graz,SK Rapid,2,0
+2026-07-31,2627,AUT,LASK,Grazer AK,3,0
+2026-08-01,2627,AUT,Salzburg,Hartberg,1,0
+2026-08-01,2627,AUT,Tirol,Sturm Graz,1,1
+2026-08-02,2627,AUT,A. Lustenau,Ried,1,1
+2026-08-02,2627,AUT,SK Rapid,Altach,1,0
+2026-08-02,2627,AUT,Wolfsberger AC,Austria Vienna,3,0
+2026-08-07,2627,AUT,Altach,Tirol,3,1
+2026-08-08,2627,AUT,Grazer AK,A. Lustenau,2,1
+2026-08-08,2627,AUT,Hartberg,Sturm Graz,0,2
+2026-08-09,2627,AUT,Austria Vienna,LASK,0,2
+2026-08-09,2627,AUT,Ried,SK Rapid,1,2
+2026-08-09,2627,AUT,Wolfsberger AC,Salzburg,1,1
+2026-08-14,2627,AUT,LASK,Ried,4,1
+2026-08-15,2627,AUT,A. Lustenau,Wolfsberger AC,2,1
+2026-08-15,2627,AUT,Sturm Graz,Altach,1,0
+2026-08-16,2627,AUT,Hartberg,Austria Vienna,0,2
+2026-08-16,2627,AUT,SK Rapid,Grazer AK,8,0
+2026-08-16,2627,AUT,Tirol,Salzburg,0,3
+2026-08-21,2627,AUT,Ried,Grazer AK,1,0
+2026-08-22,2627,AUT,Altach,Hartberg,1,2
+2026-08-22,2627,AUT,Sturm Graz,A. Lustenau,1,1
+2026-08-28,2627,AUT,A. Lustenau,Tirol,0,4
+2026-08-29,2627,AUT,Grazer AK,Wolfsberger AC,0,0
+2026-08-29,2627,AUT,LASK,Altach,3,0
+2026-08-30,2627,AUT,Hartberg,Ried,3,2
+2026-08-30,2627,AUT,Salzburg,Austria Vienna,4,1
+2026-08-30,2627,AUT,SK Rapid,Sturm Graz,3,1
+2026-09-01,2627,AUT,Wolfsberger AC,LASK,1,3
+2026-09-02,2627,AUT,Austria Vienna,Tirol,0,1
+2026-09-02,2627,AUT,Salzburg,SK Rapid,5,1
+2026-09-11,2627,AUT,Ried,Salzburg,1,1
+2026-09-12,2627,AUT,Altach,Grazer AK,1,2
+2026-09-12,2627,AUT,Wolfsberger AC,SK Rapid,0,3
+2026-09-13,2627,AUT,Austria Vienna,A. Lustenau,2,1
+2026-09-13,2627,AUT,Sturm Graz,LASK,2,1
+2026-09-13,2627,AUT,Tirol,Hartberg,2,2
+2026-09-18,2627,AUT,SK Rapid,Tirol,3,0
+2026-09-19,2627,AUT,A. Lustenau,Altach,2,0
+2026-09-19,2627,AUT,Grazer AK,Austria Vienna,2,2
+2026-09-20,2627,AUT,Hartberg,LASK,3,3
+2026-09-20,2627,AUT,Ried,Wolfsberger AC,4,1
+2026-09-20,2627,AUT,Salzburg,Sturm Graz,3,0
+2026-10-10,2627,AUT,Austria Vienna,Sturm Graz,0,2
+2026-10-10,2627,AUT,Grazer AK,Salzburg,0,0
+2026-10-10,2627,AUT,Tirol,Ried,1,2
+2026-10-11,2627,AUT,Altach,Wolfsberger AC,3,0
+2026-10-11,2627,AUT,Hartberg,A. Lustenau,4,3
+2026-10-11,2627,AUT,LASK,SK Rapid,0,2
+2026-10-16,2627,AUT,SK Rapid,Hartberg,3,1
+2026-10-17,2627,AUT,A. Lustenau,LASK,0,4
+2026-10-17,2627,AUT,Ried,Austria Vienna,3,2
+2026-10-18,2627,AUT,Salzburg,Altach,3,0
+2026-10-18,2627,AUT,Sturm Graz,Grazer AK,6,1
+2026-10-18,2627,AUT,Wolfsberger AC,Tirol,0,2

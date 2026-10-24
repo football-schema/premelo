@@ -50,7 +50,7 @@ async function viewTable() {
   const l = L(), rows = r.clubs.filter((c) => c.div === division);
   const next = fx.fixtures[0]?.gw ? fx.fixtures.filter((f) => f.gw === fx.fixtures[0].gw) : fx.fixtures.filter((f) => Date.parse(f.kickoff) < Date.parse(fx.fixtures[0].kickoff) + 5 * 86400_000);
   $('main').innerHTML = `<h1>${esc(l.name)} Elo</h1>
-    <p class="sub">Ratings after every result since 1993, through ${fullDate(r.through)}, on one scale for all ${LEAGUES.length} leagues, which <a href="#/europe">the European cups</a> tie together. A 100-point gap makes the stronger side about a 64% favourite on neutral ground.</p>
+    <p class="sub">Ratings after every result since ${l.extra ? 2012 : 1993}, through ${fullDate(r.through)}, on one scale for all ${LEAGUES.length} leagues, which <a href="#/europe">the European cups</a> tie together. A 100-point gap makes the stronger side about a 64% favourite on neutral ground.</p>
     <div class="card">${l.second ? `<div class="tabs"><button data-d="top" class="${division === 'top' ? 'on' : ''}">${esc(l.name)}</button><button data-d="second" class="${division === 'second' ? 'on' : ''}">${esc(l.second)}</button></div>` : ''}
     <table><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n">30 days</th><th class="hide-s">Last 20</th><th class="hide-s">Form</th></tr>
     ${rows.map((c) => `<tr><td class="n muted">${c.rank}</td><td>${clubLink(c.slug, c.name)}</td><td class="n"><b>${c.elo}</b></td>
@@ -125,7 +125,8 @@ async function viewClub(slug) {
   ratingChart(h, $('chart'));
 }
 
-// the five leagues' top divisions together: one scale, so one table
+// every league's top division together: one scale, so one table (the top 50 until asked for the rest)
+let showAll = false;
 async function viewEurope() {
   const all = await Promise.all(LEAGUES.map((l) => get(`data/${l.id}/ratings.json`).then((r) => r.clubs.filter((c) => c.div === 'top').map((c) => ({ ...c, league: l.id, leagueName: l.name })))));
   const clubs = all.flat().sort((a, b) => b.elo - a.elo), eu = await get('data/europe.json');
@@ -133,9 +134,11 @@ async function viewEurope() {
   $('main').innerHTML = `<h1>Europe</h1>
     <p class="sub">Every top-division club of the ${LEAGUES.length} leagues on one scale. What sets one country against another is the ${eu.matches.toLocaleString()} European cup matches since ${eu.from.slice(0, 4)} (Champions League, UEFA Cup / Europa League and Conference League, qualifiers included): each result moves the clubs that played and, a little, their whole league.</p>
     <div class="card"><table><tr><th class="n">#</th><th>Club</th><th class="hide-s">League</th><th class="n">Elo</th><th class="n">30 days</th><th class="hide-s">Last 20</th></tr>
-    ${clubs.map((c, i) => `<tr><td class="n muted">${i + 1}</td><td><a href="#/${c.league}/club/${c.slug}">${esc(c.name)}</a></td><td class="hide-s muted">${esc(c.leagueName)}</td><td class="n"><b>${c.elo}</b></td>
-      <td class="n ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-s">${spark(c.spark)}</td></tr>`).join('')}</table></div>
+    ${clubs.slice(0, showAll ? clubs.length : 50).map((c, i) => `<tr><td class="n muted">${i + 1}</td><td><a href="#/${c.league}/club/${c.slug}">${esc(c.name)}</a></td><td class="hide-s muted">${esc(c.leagueName)}</td><td class="n"><b>${c.elo}</b></td>
+      <td class="n ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-s">${spark(c.spark)}</td></tr>`).join('')}</table>
+    ${showAll ? '' : `<p style="margin:10px 0 0;text-align:center"><button class="more" id="showAll">Show all ${clubs.length} clubs</button></p>`}</div>
     <div class="card"><h2>League strength</h2><table><tr><th>League</th><th class="n">Average top-division Elo</th></tr>${avg.map(([l, a]) => `<tr><td><a href="${home(l.id)}">${esc(l.name)}</a></td><td class="n"><b>${a}</b></td></tr>`).join('')}</table></div>`;
+  $('showAll')?.addEventListener('click', () => { showAll = true; viewEurope(); });
 }
 
 async function viewMethod() {
@@ -154,6 +157,8 @@ async function viewMethod() {
     <p class="small muted" style="margin:0 0 10px">Lower is better. A baseline that knows only how often home sides win scores about 1.07. Nothing published reliably beats closing odds; results-only models land about 0.01 to 0.03 behind.</p>
     <table><tr><th>League</th><th class="n">Matches</th><th class="n">premelo</th><th class="n hide-s">Elo alone</th><th class="n">Closing odds</th><th class="n hide-s">RPS</th><th class="n hide-s">RPS odds</th></tr>
     ${tested.map((x) => `<tr><td><a href="#/method/${x.id}">${esc(x.league)}</a></td><td class="n">${x.test.matches.toLocaleString()}</td><td class="n">${x.test.model.logloss.toFixed(3)}</td><td class="n hide-s">${x.test.elo.logloss.toFixed(3)}</td><td class="n">${x.test.market.logloss.toFixed(3)}</td><td class="n hide-s">${x.test.model.rps.toFixed(4)}</td><td class="n hide-s">${x.test.market.rps.toFixed(4)}</td></tr>`).join('')}</table></div>
+    ${all.some((x) => !x.test) ? `<div class="card"><h2>Leagues from 2012: in sample only</h2><p class="small muted" style="margin:0 0 10px">football-data's files for these start in 2012, so there is nothing before the holdout to tune them on, and their scores below are in sample (flattering).</p>
+    <table><tr><th>League</th><th class="n">Matches</th><th class="n">premelo</th><th class="n">Closing odds</th></tr>${all.filter((x) => !x.test).map((x) => `<tr><td><a href="#/method/${x.id}">${esc(x.league)}</a></td><td class="n">${x.all.matches.toLocaleString()}</td><td class="n">${x.all.model.logloss.toFixed(3)}</td><td class="n">${x.all.market.logloss.toFixed(3)}</td></tr>`).join('')}</table></div>` : ''}
     <div class="card"><h2>${esc(b.league)}: the published model, season by season (in sample)</h2>
     <div class="tabs" style="flex-wrap:wrap">${all.map((x) => `<button data-l="${x.id}" class="${x.id === b.id ? 'on' : ''}">${esc(x.league)}</button>`).join('')}</div>
     <p class="small muted" style="margin:0 0 10px">Elo: K ${p.elo.k}, home advantage ${p.elo.hfa} to start${p.elo.kH ? `, learnt at ${p.elo.kH}` : ''} (${p.elo.hfaEmpty} without crowds), margin ${p.elo.margin === 'log' ? '1 + ln n' : 'World Football Elo'}, ${pct(p.elo.regress)}% back to the mean between seasons. ${p.attack ? `Attack/defence: k ${p.attack.k}. Blend: ${pct(p.blend)}% Elo.` : ''} Before 2012-13 the bookmakers' prices are the median opening ones, a weaker benchmark than closing prices. Baseline: only how often home sides, draws and away sides won in earlier seasons.</p>
@@ -164,7 +169,7 @@ async function viewMethod() {
 }
 
 function nav(page) {
-  $('leagues').innerHTML = `<a href="#/europe" class="${page === 'europe' ? 'on' : ''}">Europe</a>` + LEAGUES.map((l) => `<a href="${page === 'method' ? `#/method/${l.id}` : page === 'fixtures' ? `#/${l.id}/fixtures` : home(l.id)}" class="${l.id === league && page !== 'europe' ? 'on' : ''}">${esc(l.name)}</a>`).join('');
+  $('leagues').innerHTML = `<a href="#/europe" class="${page === 'europe' ? 'on' : ''}">Europe</a>` + LEAGUES.map((l) => `<a href="${page === 'method' ? `#/method/${l.id}` : page === 'fixtures' ? `#/${l.id}/fixtures` : home(l.id)}" class="${l.id === league && page !== 'europe' ? 'on' : ''}${l.extra ? ' minor' : ''}" title="${esc(l.name)}">${esc(l.short ?? l.name)}</a>`).join('');
   $('nav').innerHTML = `<a href="${home()}" class="${page === 'table' || page === 'club' ? 'on' : ''}">Table</a><a href="#/${league}/fixtures" class="${page === 'fixtures' ? 'on' : ''}">Fixtures</a><a href="#/method/${league}" class="${page === 'method' ? 'on' : ''}">Method</a>`;
 }
 

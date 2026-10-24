@@ -8,7 +8,7 @@ import { existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { seasons, currentSeason } from '../lib/seasons.mjs';
 import { LEAGUES } from '../lib/leagues.mjs';
 
-const DIVS = Object.values(LEAGUES).flatMap((l) => l.divs);
+const DIVS = Object.values(LEAGUES).filter((l) => !l.extra).flatMap((l) => l.divs);
 const sleep = (ms) => new Promise((ok) => setTimeout(ok, ms));
 mkdirSync('cache', { recursive: true });
 
@@ -30,3 +30,10 @@ for (const season of list) {
   }
 }
 
+// the extra leagues: one file each, every season since 2012, fetched again each time (they're small)
+mkdirSync('cache/new', { recursive: true });
+for (const l of Object.values(LEAGUES).filter((l) => l.extra)) {
+  const code = l.divs[0], r = await fetch(`https://football-data.co.uk/new/${code}.csv`, { headers: { 'user-agent': 'premelo (github.com/football-schema/premelo)' } });
+  if (r.ok) { writeFileSync(`cache/new/${code}.csv`, Buffer.from(await r.arrayBuffer())); console.log(`${code}: fetched`); }
+  await sleep(1000);
+}

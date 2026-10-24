@@ -30,6 +30,10 @@ nav a.on { color: var(--text); border-bottom: 2px solid var(--accent); }
 @media (max-width: 700px) { .leagues { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; mask-image: linear-gradient(to right, #000 85%, transparent); -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); } }
 .leagues a { flex: none; text-decoration: none; color: var(--text2); border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 4px 12px; font-size: 13px; }
 .leagues a.on { background: var(--text); color: var(--card); border-color: var(--text); }
+.leagues a.minor { font-size: 12px; padding: 3px 10px; color: var(--muted); }
+.leagues a.minor.on { color: var(--card); }
+.more { border: 1px solid var(--line); background: var(--card); color: var(--text2); border-radius: 999px; padding: 6px 16px; font: inherit; font-size: 13px; cursor: pointer; }
+.more:hover { background: var(--hover); }
 main { max-width: 1000px; margin: 0 auto; padding: 8px 16px 24px; }
 .foot { max-width: 1000px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-bottom: 16px; overflow: hidden; }

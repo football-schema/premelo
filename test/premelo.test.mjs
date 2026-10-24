@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseCsv, isoDate, matches, oddsOf, toCsv, fromCsv } from '../lib/results.mjs';
+import { parseCsv, isoDate, matches, matchesExtra, oddsOf, toCsv, fromCsv } from '../lib/results.mjs';
 import { run, runAll, marginFactor, expectedScore } from '../lib/elo.mjs';
 import { parse as parseUefa } from '../lib/uefa.mjs';
 import { markets, table, gridOf, blended } from '../lib/goals.mjs';
@@ -85,7 +85,7 @@ test('UK kick-off times become UTC on either side of the clocks changing', () =>
 test('club pages have plain addresses, and one club under two names is one club', () => {
   assert.equal(slug('Preußen Münster'), 'preussen-munster'); assert.equal(slug("Nott'm Forest"), 'nott-m-forest'); assert.equal(slug('Ath Madrid'), 'ath-madrid');
   assert.equal(canonical('Leonesa'), 'Cultural Leonesa'); assert.equal(canonical('Arsenal'), 'Arsenal');
-  assert.equal(leagueOf('SP2'), 'laliga'); assert.equal(Object.keys(LEAGUES).length, 11);
+  assert.equal(leagueOf('SP2'), 'laliga'); assert.equal(Object.keys(LEAGUES).length, 20);
 });
 
 test('a country whose second division starts later still rates the clubs coming up', () => {
@@ -148,4 +148,20 @@ test("two models' score grids blend into one consistent set of markets", () => {
   assert.ok(Math.abs(m.H + m.D + m.A - 1) < 1e-9);
   assert.ok(Math.abs(m.H - (ma.H + mb.H) / 2) < 1e-9);
   assert.deepEqual(m.xg, [1.5, 1.1]);
+});
+
+test('extra-league files: "2012/2013" and calendar-year "2013" seasons, and clubs with European ratings keep them when their league starts', () => {
+  const csv = '﻿Country,League,Season,Date,Time,Home,Away,HG,AG,Res,PSCH,PSCD,PSCA\r\n'
+    + 'Austria,Bundesliga,2012/2013,21/07/2012,15:00,Sturm Graz,Salzburg,0,2,A,3.26,3.34,2.4\r\n'
+    + 'Norway,Eliteserien,2013,16/03/2013,18:00,Molde,Ham-Kam,3,1,H,1.5,4,6\r\n';
+  const [a, b] = matchesExtra(csv, 'X', { odds: true });
+  assert.deepEqual([a.season, a.date, a.away, a.odds], ['1213', '2012-07-21', 'Salzburg', [3.26, 3.34, 2.4]]);
+  assert.deepEqual([b.season, b.away], ['1313', 'HamKam']);
+  assert.equal(label('1313'), '2013'); assert.equal(label('1213'), '2012-13');
+  // Salzburg met in Europe before 2012 keeps its rating; Sturm Graz starts below it
+  const eu = { list: [{ date: '2011-09-15', season: '1112', div: 'EU', home: 'Salzburg', away: 'Celtic (SCO)', hg: 1, ag: 0 }, { date: '2011-09-29', season: '1112', div: 'EU', home: 'Paris SG', away: 'Salzburg', hg: 1, ag: 1 }], params: { other: 0 } };
+  const seen = {};
+  runAll({ aut: { list: [a], params: { start: { below: 100 } }, divs: ['X'] }, fra: { list: [{ date: '2011-08-06', season: '1112', div: 'F1', home: 'Paris SG', away: 'Lyon', hg: 1, ag: 0 }], params: {}, divs: ['F1', 'F2'] } }, eu,
+    { each: (m, x) => { if (m.div === 'X') Object.assign(seen, x); } });
+  assert.ok(seen.away - seen.home > 50, `Salzburg ${seen.away} v Sturm ${seen.home}`);
 });

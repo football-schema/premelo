@@ -6,14 +6,14 @@
   "from": "2012-13",
   "matches": 5409,
   "model": {
-   "logloss": 0.9682,
+   "logloss": 0.9681,
    "rps": 0.1951,
    "brier": 0.5755
   },
   "elo": {
    "logloss": 0.9715,
    "rps": 0.196,
-   "brier": 0.5778
+   "brier": 0.5777
   },
   "market": {
    "logloss": 0.953,
@@ -24,14 +24,14 @@
  "all": {
   "matches": 9967,
   "model": {
-   "logloss": 0.9809,
-   "rps": 0.1994,
-   "brier": 0.5842
+   "logloss": 0.9805,
+   "rps": 0.1993,
+   "brier": 0.584
   },
   "elo": {
-   "logloss": 0.9825,
-   "rps": 0.1999,
-   "brier": 0.5853
+   "logloss": 0.9824,
+   "rps": 0.1998,
+   "brier": 0.5852
   },
   "market": {
    "logloss": 0.9702,
@@ -50,7 +50,8 @@
     "second": 1395
    },
    "hfaEmpty": 30,
-   "kH": 0
+   "kH": 0,
+   "q": 0
   },
   "goals": {
    "mu": 2.668,
@@ -58,12 +59,14 @@
    "draw": 0.2
   },
   "attack": {
-   "k": 0.01,
+   "k": 0.015,
    "r": 0,
    "kb": 0.002,
+   "shots": 0.3,
+   "conv": 0.32,
    "draw": 0.05
   },
-  "blend": 0.4
+  "blend": 0.5
  },
  "common": {
   "c": 525
@@ -81,9 +84,9 @@
    "matches": 380,
    "withOdds": 379,
    "model": {
-    "logloss": 0.9936,
+    "logloss": 0.9933,
     "rps": 0.2012,
-    "brier": 0.5913
+    "brier": 0.5912
    },
    "market": {
     "logloss": 0.9856,
@@ -102,8 +105,8 @@
    "withOdds": 380,
    "model": {
     "logloss": 1.0252,
-    "rps": 0.2102,
-    "brier": 0.6156
+    "rps": 0.2104,
+    "brier": 0.6155
    },
    "market": {
     "logloss": 1.0286,
@@ -121,9 +124,9 @@
    "matches": 380,
    "withOdds": 379,
    "model": {
-    "logloss": 1.0331,
-    "rps": 0.2113,
-    "brier": 0.6222
+    "logloss": 1.0338,
+    "rps": 0.2116,
+    "brier": 0.6227
    },
    "market": {
     "logloss": 1.03,
@@ -141,9 +144,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 1.0329,
-    "rps": 0.2171,
-    "brier": 0.6202
+    "logloss": 1.0337,
+    "rps": 0.2174,
+    "brier": 0.6206
    },
    "market": {
     "logloss": 1.0335,
@@ -161,9 +164,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9871,
-    "rps": 0.1983,
-    "brier": 0.5879
+    "logloss": 0.9854,
+    "rps": 0.1978,
+    "brier": 0.5867
    },
    "market": {
     "logloss": 0.9804,
@@ -181,9 +184,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 1.0425,
-    "rps": 0.214,
-    "brier": 0.6273
+    "logloss": 1.0418,
+    "rps": 0.2139,
+    "brier": 0.627
    },
    "market": {
     "logloss": 1.0294,
@@ -201,9 +204,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 1.0245,
-    "rps": 0.212,
-    "brier": 0.6154
+    "logloss": 1.0226,
+    "rps": 0.2115,
+    "brier": 0.6144
    },
    "market": {
     "logloss": 1.0191,
@@ -221,9 +224,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 1.0122,
-    "rps": 0.2148,
-    "brier": 0.6051
+    "logloss": 1.0102,
+    "rps": 0.2143,
+    "brier": 0.6038
    },
    "market": {
     "logloss": 1.0109,
@@ -241,9 +244,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9853,
-    "rps": 0.2079,
-    "brier": 0.5842
+    "logloss": 0.9885,
+    "rps": 0.2089,
+    "brier": 0.5864
    },
    "market": {
     "logloss": 0.9725,
@@ -261,9 +264,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9366,
-    "rps": 0.1852,
-    "brier": 0.555
+    "logloss": 0.9371,
+    "rps": 0.1853,
+    "brier": 0.5552
    },
    "market": {
     "logloss": 0.9227,
@@ -281,9 +284,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9387,
-    "rps": 0.1942,
-    "brier": 0.5526
+    "logloss": 0.9372,
+    "rps": 0.1939,
+    "brier": 0.5517
    },
    "market": {
     "logloss": 0.928,
@@ -301,9 +304,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9483,
-    "rps": 0.1911,
-    "brier": 0.5638
+    "logloss": 0.9493,
+    "rps": 0.1912,
+    "brier": 0.5642
    },
    "market": {
     "logloss": 0.9465,
@@ -321,9 +324,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9442,
-    "rps": 0.196,
-    "brier": 0.5595
+    "logloss": 0.9446,
+    "rps": 0.1959,
+    "brier": 0.5596
    },
    "market": {
     "logloss": 0.94,
@@ -341,9 +344,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9613,
-    "rps": 0.2,
-    "brier": 0.5709
+    "logloss": 0.9602,
+    "rps": 0.1996,
+    "brier": 0.5698
    },
    "market": {
     "logloss": 0.946,
@@ -361,9 +364,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.914,
-    "rps": 0.1821,
-    "brier": 0.5382
+    "logloss": 0.9144,
+    "rps": 0.182,
+    "brier": 0.5383
    },
    "market": {
     "logloss": 0.8982,
@@ -381,9 +384,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9461,
-    "rps": 0.1923,
-    "brier": 0.563
+    "logloss": 0.9447,
+    "rps": 0.1916,
+    "brier": 0.5617
    },
    "market": {
     "logloss": 0.9266,
@@ -401,9 +404,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.919,
-    "rps": 0.1828,
-    "brier": 0.5415
+    "logloss": 0.9185,
+    "rps": 0.1827,
+    "brier": 0.5413
    },
    "market": {
     "logloss": 0.8997,
@@ -421,9 +424,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9694,
-    "rps": 0.2001,
-    "brier": 0.5772
+    "logloss": 0.9691,
+    "rps": 0.2003,
+    "brier": 0.5774
    },
    "market": {
     "logloss": 0.9551,
@@ -441,9 +444,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 1.0164,
-    "rps": 0.203,
-    "brier": 0.6079
+    "logloss": 1.0145,
+    "rps": 0.2024,
+    "brier": 0.6067
    },
    "market": {
     "logloss": 1.0017,
@@ -461,9 +464,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9891,
-    "rps": 0.1976,
-    "brier": 0.5924
+    "logloss": 0.9888,
+    "rps": 0.1974,
+    "brier": 0.5919
    },
    "market": {
     "logloss": 0.9765,
@@ -481,9 +484,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9972,
-    "rps": 0.1962,
-    "brier": 0.5945
+    "logloss": 0.998,
+    "rps": 0.1964,
+    "brier": 0.5948
    },
    "market": {
     "logloss": 0.9795,
@@ -501,9 +504,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 1.0047,
-    "rps": 0.1969,
-    "brier": 0.5997
+    "logloss": 1.0032,
+    "rps": 0.1966,
+    "brier": 0.599
    },
    "market": {
     "logloss": 0.9887,
@@ -521,9 +524,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9891,
-    "rps": 0.2052,
-    "brier": 0.5887
+    "logloss": 0.988,
+    "rps": 0.2048,
+    "brier": 0.5883
    },
    "market": {
     "logloss": 0.9759,
@@ -541,9 +544,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9674,
-    "rps": 0.1886,
-    "brier": 0.5761
+    "logloss": 0.9661,
+    "rps": 0.1881,
+    "brier": 0.5753
    },
    "market": {
     "logloss": 0.9509,
@@ -561,7 +564,7 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9715,
+    "logloss": 0.9714,
     "rps": 0.1953,
     "brier": 0.5765
    },
@@ -581,9 +584,9 @@
    "matches": 380,
    "withOdds": 380,
    "model": {
-    "logloss": 0.9682,
-    "rps": 0.1973,
-    "brier": 0.5732
+    "logloss": 0.9672,
+    "rps": 0.1969,
+    "brier": 0.5725
    },
    "market": {
     "logloss": 0.965,
@@ -601,9 +604,9 @@
    "matches": 89,
    "withOdds": 89,
    "model": {
-    "logloss": 0.9256,
-    "rps": 0.1758,
-    "brier": 0.5457
+    "logloss": 0.927,
+    "rps": 0.1762,
+    "brier": 0.5464
    },
    "market": {
     "logloss": 0.9164,
@@ -620,63 +623,63 @@
  "calibration": [
   {
    "bucket": "0-10%",
-   "matches": 85,
+   "matches": 61,
    "predicted": 0.083,
-   "actual": 0.094
+   "actual": 0.082
   },
   {
    "bucket": "10-20%",
-   "matches": 526,
-   "predicted": 0.153,
-   "actual": 0.156
+   "matches": 521,
+   "predicted": 0.152,
+   "actual": 0.157
   },
   {
    "bucket": "20-30%",
-   "matches": 843,
-   "predicted": 0.258,
-   "actual": 0.261
+   "matches": 851,
+   "predicted": 0.257,
+   "actual": 0.249
   },
   {
    "bucket": "30-40%",
-   "matches": 1839,
+   "matches": 1823,
    "predicted": 0.355,
-   "actual": 0.342
+   "actual": 0.347
   },
   {
    "bucket": "40-50%",
-   "matches": 2767,
+   "matches": 2775,
    "predicted": 0.45,
-   "actual": 0.464
+   "actual": 0.453
   },
   {
    "bucket": "50-60%",
-   "matches": 1998,
-   "predicted": 0.544,
-   "actual": 0.535
+   "matches": 2048,
+   "predicted": 0.545,
+   "actual": 0.542
   },
   {
    "bucket": "60-70%",
-   "matches": 1022,
+   "matches": 1023,
    "predicted": 0.644,
-   "actual": 0.646
+   "actual": 0.659
   },
   {
    "bucket": "70-80%",
-   "matches": 491,
+   "matches": 498,
    "predicted": 0.745,
-   "actual": 0.8
+   "actual": 0.795
   },
   {
    "bucket": "80-90%",
    "matches": 320,
    "predicted": 0.848,
-   "actual": 0.863
+   "actual": 0.875
   },
   {
    "bucket": "90-100%",
-   "matches": 76,
-   "predicted": 0.918,
-   "actual": 0.947
+   "matches": 47,
+   "predicted": 0.915,
+   "actual": 0.957
   }
  ]
 }

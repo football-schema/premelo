@@ -1,32 +1,36 @@
 {
- "updated": "2026-10-24T09:03:30.774Z",
+ "updated": "2026-10-24T09:43:32.389Z",
  "leagues": [
   {
    "id": "pl",
    "name": "Premier League",
+   "short": "Premier League",
    "country": "England",
    "second": "Championship",
+   "extra": false,
    "through": "2026-10-23",
    "top": [
     [
      "Arsenal",
-     2100
+     2101
     ],
     [
      "Manchester City",
-     2040
+     2042
     ],
     [
      "Liverpool",
-     1960
+     1961
     ]
    ]
   },
   {
    "id": "laliga",
    "name": "La Liga",
+   "short": "La Liga",
    "country": "Spain",
    "second": "Segunda División",
+   "extra": false,
    "through": "2026-10-21",
    "top": [
     [
@@ -35,28 +39,30 @@
     ],
     [
      "Real Madrid",
-     2014
+     2015
     ],
     [
      "Atlético Madrid",
-     1915
+     1916
     ]
    ]
   },
   {
    "id": "bundesliga",
    "name": "Bundesliga",
+   "short": "Bundesliga",
    "country": "Germany",
    "second": "2. Bundesliga",
+   "extra": false,
    "through": "2026-10-18",
    "top": [
     [
      "Bayern Munich",
-     2035
+     2036
     ],
     [
      "Borussia Dortmund",
-     1878
+     1877
     ],
     [
      "Bayer Leverkusen",
@@ -67,8 +73,10 @@
   {
    "id": "seriea",
    "name": "Serie A",
+   "short": "Serie A",
    "country": "Italy",
    "second": "Serie B",
+   "extra": false,
    "through": "2026-10-19",
    "top": [
     [
@@ -77,7 +85,7 @@
     ],
     [
      "AS Roma",
-     1858
+     1859
     ],
     [
      "Como",
@@ -88,8 +96,10 @@
   {
    "id": "ligue1",
    "name": "Ligue 1",
+   "short": "Ligue 1",
    "country": "France",
    "second": "Ligue 2",
+   "extra": false,
    "through": "2026-10-19",
    "top": [
     [
@@ -98,7 +108,7 @@
     ],
     [
      "Monaco",
-     1782
+     1783
     ],
     [
      "Olympique Lyonnais",
@@ -109,88 +119,98 @@
   {
    "id": "primeira",
    "name": "Primeira Liga",
+   "short": "Primeira Liga",
    "country": "Portugal",
+   "extra": false,
    "through": "2026-10-19",
    "top": [
     [
-     "Benfica",
-     1876
+     "Sporting CP",
+     1872
     ],
     [
-     "Sporting CP",
-     1868
+     "Benfica",
+     1871
     ],
     [
      "Porto",
-     1818
+     1827
     ]
    ]
   },
   {
    "id": "eredivisie",
    "name": "Eredivisie",
+   "short": "Eredivisie",
    "country": "Netherlands",
+   "extra": false,
    "through": "2026-10-18",
    "top": [
     [
      "PSV",
-     1793
+     1794
     ],
     [
      "Feyenoord",
-     1688
+     1689
     ],
     [
      "Ajax",
-     1681
+     1682
     ]
    ]
   },
   {
    "id": "proleague",
    "name": "Pro League",
+   "short": "Pro League",
    "country": "Belgium",
+   "extra": false,
    "through": "2026-10-11",
    "top": [
     [
      "Club Brugge",
-     1837
+     1836
     ],
     [
      "Union Saint-Gilloise",
-     1804
+     1803
     ],
     [
      "Anderlecht",
-     1636
+     1635
     ]
    ]
   },
   {
    "id": "superlig",
    "name": "Süper Lig",
+   "short": "Süper Lig",
    "country": "Turkey",
+   "extra": false,
    "through": "2026-10-19",
    "top": [
     [
      "Galatasaray",
-     1724
+     1726
     ],
     [
      "Fenerbahçe",
-     1720
+     1723
     ],
     [
      "Beşiktaş",
-     1627
+     1628
     ]
    ]
   },
   {
    "id": "scotland",
    "name": "Scottish Premiership",
+   "short": "Scottish Premiership",
    "country": "Scotland",
    "second": "Championship",
+   "extra": false,
    "through": "2026-10-20",
    "top": [
     [
@@ -199,31 +219,231 @@
     ],
     [
      "Rangers",
-     1533
+     1534
     ],
     [
      "Hearts",
-     1457
+     1458
     ]
    ]
   },
   {
    "id": "superleague",
    "name": "Super League",
+   "short": "Super League",
    "country": "Greece",
+   "extra": false,
    "through": "2026-10-18",
    "top": [
     [
      "Olympiacos",
-     1721
+     1718
     ],
     [
      "AEK Athens",
-     1676
+     1672
     ],
     [
      "Panathinaikos",
-     1628
+     1620
+    ]
+   ]
+  },
+  {
+   "id": "austria",
+   "name": "Austrian Bundesliga",
+   "short": "Austria",
+   "country": "Austria",
+   "extra": true,
+   "through": "2026-10-18",
+   "top": [
+    [
+     "Salzburg",
+     1594
+    ],
+    [
+     "Sturm Graz",
+     1582
+    ],
+    [
+     "LASK",
+     1569
+    ]
+   ]
+  },
+  {
+   "id": "switzerland",
+   "name": "Swiss Super League",
+   "short": "Switzerland",
+   "country": "Switzerland",
+   "extra": true,
+   "through": "2026-10-11",
+   "top": [
+    [
+     "Lugano",
+     1625
+    ],
+    [
+     "Young Boys",
+     1552
+    ],
+    [
+     "Sion",
+     1515
+    ]
+   ]
+  },
+  {
+   "id": "denmark",
+   "name": "Danish Superliga",
+   "short": "Denmark",
+   "country": "Denmark",
+   "extra": true,
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Midtjylland",
+     1683
+    ],
+    [
+     "FC Copenhagen",
+     1655
+    ],
+    [
+     "Nordsjaelland",
+     1577
+    ]
+   ]
+  },
+  {
+   "id": "norway",
+   "name": "Eliteserien",
+   "short": "Norway",
+   "country": "Norway",
+   "extra": true,
+   "through": "2026-10-18",
+   "top": [
+    [
+     "Bodo/Glimt",
+     1752
+    ],
+    [
+     "Viking",
+     1684
+    ],
+    [
+     "Rosenborg",
+     1538
+    ]
+   ]
+  },
+  {
+   "id": "sweden",
+   "name": "Allsvenskan",
+   "short": "Sweden",
+   "country": "Sweden",
+   "extra": true,
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Djurgarden",
+     1545
+    ],
+    [
+     "Hammarby",
+     1521
+    ],
+    [
+     "Sirius",
+     1510
+    ]
+   ]
+  },
+  {
+   "id": "poland",
+   "name": "Ekstraklasa",
+   "short": "Poland",
+   "country": "Poland",
+   "extra": true,
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Lech Poznan",
+     1608
+    ],
+    [
+     "Legia",
+     1547
+    ],
+    [
+     "Rakow",
+     1536
+    ]
+   ]
+  },
+  {
+   "id": "romania",
+   "name": "Liga I",
+   "short": "Romania",
+   "country": "Romania",
+   "extra": true,
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Univ. Craiova",
+     1537
+    ],
+    [
+     "Dinamo Bucuresti",
+     1504
+    ],
+    [
+     "FC Rapid Bucuresti",
+     1491
+    ]
+   ]
+  },
+  {
+   "id": "ireland",
+   "name": "League of Ireland",
+   "short": "Ireland",
+   "country": "Ireland",
+   "extra": true,
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Bohemians",
+     1338
+    ],
+    [
+     "Shamrock Rovers",
+     1320
+    ],
+    [
+     "St. Patricks",
+     1316
+    ]
+   ]
+  },
+  {
+   "id": "finland",
+   "name": "Veikkausliiga",
+   "short": "Finland",
+   "country": "Finland",
+   "extra": true,
+   "through": "2026-10-21",
+   "top": [
+    [
+     "Inter Turku",
+     1367
+    ],
+    [
+     "HJK",
+     1337
+    ],
+    [
+     "KuPS",
+     1326
     ]
    ]
   }
