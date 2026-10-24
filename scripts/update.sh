@@ -1,8 +1,8 @@
 #!/bin/sh
 # premelo's daily update, run by cron on the maintainer's machine at 08:00: this season's results from
 # football-data (one request a second), UEFA's European cups and matchday's newest results, the ratings and predictions
-# rebuilt, and data/ committed and pushed if anything moved. The site is the gh-pages branch as it is: nothing runs on
-# GitHub's side.
+# rebuilt, copied to the melvin.me mirror (scripts/deploy.sh), and data/ committed and pushed if anything moved. The
+# site is the gh-pages branch as it is: nothing runs on GitHub's side.
 #   crontab: 0 8 * * * /home/melvin/remote/github.com/football-schema/premelo/scripts/update.sh >> .../logs/update.log 2>&1
 set -e
 cd "$(dirname "$0")/.."
@@ -15,6 +15,7 @@ node scripts/fetch-uefa.mjs --current
 node scripts/import.mjs
 node scripts/backtest.mjs | tail -3
 node scripts/build.mjs | tail -3
+./scripts/deploy.sh
 git add data card.svg card.png
 if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
 git commit -q -m "Ratings through $(date -u +%F)"

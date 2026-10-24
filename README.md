@@ -4,7 +4,7 @@ Elo ratings for the clubs of twenty European leagues on one scale, and the chanc
 from every result since 1993-94 and tested out of sample against the bookmakers' closing prices. A static site on
 GitHub Pages; everything it shows is plain JSON in `data/`.
 
-**Site:** https://football-schema.github.io/premelo/
+**Site:** https://football-schema.github.io/premelo/ (mirror: https://melvin.me/public/premelo/, copied by `scripts/deploy.sh`)
 
 Leagues: Premier League, La Liga, Bundesliga, Serie A and Ligue 1 (each with its second division), the Primeira
 Liga, Eredivisie, Pro League, Süper Lig, Scottish Premiership (with the Championship) and Greek Super League, all
