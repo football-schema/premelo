@@ -79,6 +79,15 @@ td a:hover { color: var(--accent); }
 .chart .e1 { fill: var(--e1); }
 .chart .area { fill: var(--accent); opacity: .07; }
 .chart .peak { fill: var(--card); stroke: var(--accent); stroke-width: 2; }
+.chart .line.lb { stroke: var(--away); }
+.chart .end { font-size: 12px; font-weight: 600; fill: var(--accent); }
+.chart .end.lb { fill: var(--away); }
+.legend { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--text2); margin: -4px 0 8px; }
+.legend span { display: inline-block; width: 14px; height: 3px; border-radius: 2px; margin-left: 10px; }
+.legend span:first-child { margin-left: 0; }
+.legend .ka { background: var(--accent); } .legend .kb { background: var(--away); }
+.pick { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.pick select { font: inherit; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--text); min-width: 0; max-width: 100%; }
 .chart .line { fill: none; stroke: var(--accent); stroke-width: 2; stroke-linejoin: round; }
 .chart .hair { stroke: var(--text2); stroke-width: 1; }
 .chart .dot { fill: var(--accent); stroke: var(--card); stroke-width: 2; }

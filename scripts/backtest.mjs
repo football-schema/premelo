@@ -104,7 +104,7 @@ if (argv.includes('--tune')) {
   process.exit(0);
 }
 
-const euGoals = { mu: 2.8, c: C, draw: 0.15 };
+const euGoals = params.europeGoals ?? { mu: 2.8, c: C, draw: 0.15 }; // the European matches' goal model: an average league's goals and draws
 // every match since 2000 that --tune may look at, each predicted by the Elo from the ratings before it: the European ones
 // with an average league's goals and draws, the domestic top-division ones with their league's. European results move
 // the ratings domestic matches are predicted from, so the European settings are judged on both.

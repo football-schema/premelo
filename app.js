@@ -1,5 +1,7 @@
 // premelo's page: everything comes from the JSON the build writes into data/.
-// Routes: #/<league> (the table), #/<league>/fixtures, #/<league>/club/<slug>, #/europe (the five together), #/method[/<league>].
+import { markets } from './lib/goals.mjs';
+// Routes: #/<league> (the table), #/<league>/fixtures, #/<league>/club/<slug>, #/europe[/fixtures], #/h2h/<league>:<slug>/<league>:<slug>,
+// #/method[/<league>].
 // The Premier League is the default, so #/, #/fixtures and #/club/<slug> are its pages.
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
@@ -28,17 +30,24 @@ function spark(values, w = 90, h = 22) {
 const form = (f) => `<span class="form">${[...f].map((r) => `<span class="${r}">${r}</span>`).join('')}</span>`;
 const bar = (f) => `<div class="bar" role="img" aria-label="${esc(f.homeName)} ${pct(f.H)}%, draw ${pct(f.D)}%, ${esc(f.awayName)} ${pct(f.A)}%">
   <span class="ph" style="flex:${f.H}">${pct(f.H)}</span><span class="pd" style="flex:${f.D}">${pct(f.D)}</span><span class="pa" style="flex:${f.A}">${pct(f.A)}</span></div>`;
-const clubLink = (slug, name) => `<a href="#/${league}/club/${slug}">${esc(name)}</a>`;
+const clubLink = (slug, name, id = league) => `<a href="#/${id}/club/${slug}">${esc(name)}</a>`;
+// one side of a fixture: a link to the club in its own league (a European fixture says which), or, for a club from an
+// unrated league, its name and country
+const side = (f, h) => {
+  const lg = h ? f.homeLeague : f.awayLeague, slug = h ? f.homeSlug : f.awaySlug, name = h ? f.homeName : f.awayName;
+  if (lg === undefined) return clubLink(slug, name);
+  return lg ? clubLink(slug, name, lg) : `${esc(name)} <span class="muted small">${esc(h ? f.homeCountry : f.awayCountry)}</span>`;
+};
 
 // grouped by matchweek where there is one (the Premier League's, from matchday), else by day
 function fixtureRows(list) {
   let group = null, out = '<div class="bar-key"><span></span><span></span><span></span><span><i>Home</i><i>Draw</i><i>Away</i></span></div>';
   for (const f of list) {
-    const g = f.gw ? `Matchweek ${f.gw}` : day(f.kickoff);
+    const g = f.gw ? `Matchweek ${f.gw}` : `${day(f.kickoff)}${f.compName ? ` · ${f.compName}` : ''}`;
     if (g !== group) { group = g; out += `<div class="gw">${esc(g)}</div>`; }
     out += `<div class="fx"><div class="when">${day(f.kickoff)}<br>${f.tbc ? 'TBC' : time(f.kickoff)}</div>
-      <div class="h"><div class="t">${clubLink(f.homeSlug, f.homeName)}</div><div class="xg">${f.elo[0]} · xG ${f.xg[0].toFixed(1)}</div></div>
-      <div><div class="t">${clubLink(f.awaySlug, f.awayName)}</div><div class="xg">${f.elo[1]} · xG ${f.xg[1].toFixed(1)}</div></div>
+      <div class="h"><div class="t">${side(f, true)}</div><div class="xg">${f.elo[0]} · xG ${f.xg[0].toFixed(1)}</div></div>
+      <div><div class="t">${side(f, false)}</div><div class="xg">${f.elo[1]} · xG ${f.xg[1].toFixed(1)}</div></div>
       ${bar(f)}</div>`;
   }
   return out;
@@ -113,16 +122,29 @@ async function viewClub(slug) {
   const c = await get(path(`clubs/${slug}.json`)), l = L();
   const now = r.clubs.find((x) => x.slug === slug), h = c.history;
   const best = h.reduce((a, x) => (x[1] > a[1] ? x : a)), worst = h.reduce((a, x) => (x[1] < a[1] ? x : a));
-  const mine = fx.fixtures.filter((f) => f.home === c.club || f.away === c.club).slice(0, 6);
+  const euFx = await get('data/europe-fixtures.json').catch(() => ({ fixtures: [] }));
+  const mine = [...fx.fixtures, ...euFx.fixtures.map((f) => ({ ...f, gw: null }))].filter((f) => f.home === c.club || f.away === c.club).sort((a, b) => a.kickoff.localeCompare(b.kickoff)).slice(0, 6);
   const recent = h.slice(-10).reverse();
   $('main').innerHTML = `<h1>${esc(c.name)}</h1>
     <p class="sub">${now ? `${now.div === 'top' ? esc(l.name) : esc(l.second)} · ${ordinal(now.rank)} of ${r.clubs.filter((x) => x.div === now.div).length}` : `Outside ${esc(l.country)}'s ${l.second ? 'top two divisions' : 'top division'} this season`} · ${h.filter((x) => x[6] !== 'europe').length} league matches since ${h[0][0].slice(0, 4)}${h.some((x) => x[6] === 'europe') ? ` and ${h.filter((x) => x[6] === 'europe').length} in Europe` : ''}</p>
+    <p style="margin:-6px 0 12px"><a href="#/h2h/${league}:${slug}/${league === 'pl' && slug === 'arsenal' ? 'laliga:barcelona' : 'pl:arsenal'}">Compare with another club →</a></p>
     <div class="stats"><div><b>${now?.elo ?? h.at(-1)[1]}</b>Elo now</div><div><b>${best[1]}</b>Highest · ${best[0].slice(0, 4)}</div><div><b>${worst[1]}</b>Lowest · ${worst[0].slice(0, 4)}</div>${now ? `<div><b class="${now.change30 > 0 ? 'up' : now.change30 < 0 ? 'down' : ''}">${signed(now.change30)}</b>Last 30 days</div>` : ''}</div>
     <div class="card"><h2>Rating since ${h[0][0].slice(0, 4)}</h2><div class="chart" id="chart"></div>${l.second && h.some((x) => x[6] === 'second') ? `<p class="small muted" style="margin:8px 0 0">Shaded: seasons in the ${esc(l.second)}.</p>` : ''}</div>
     ${mine.length ? `<div class="card"><h2>Coming up</h2>${fixtureRows(mine)}</div>` : ''}
     <div class="card"><h2>Last 10 matches</h2><table><tr><th>Date</th><th>Opponent</th><th class="n">Score</th><th class="n">Elo after</th><th class="n">Change</th></tr>
     ${recent.map((x, i) => { const prev = h[h.length - 2 - i]?.[1] ?? x[1], d = x[1] - prev; return `<tr><td class="muted">${fullDate(x[0])}${x[6] === 'europe' ? ' · Europe' : ''}</td><td>${x[5] === 'a' ? '@ ' : x[5] === 'n' ? 'v ' : ''}${opponent(x)}</td><td class="n">${x[3]}-${x[4]}</td><td class="n">${x[1]}</td><td class="n ${d > 0 ? 'up' : d < 0 ? 'down' : 'muted'}">${signed(d)}</td></tr>`; }).join('')}</table></div>`;
   ratingChart(h, $('chart'));
+}
+
+// the coming European matches: on one scale they can be priced like any other
+let comp = 'cl';
+async function viewEuropeFixtures() {
+  const fx = await get('data/europe-fixtures.json'), comps = [['cl', 'Champions League'], ['el', 'Europa League'], ['conf', 'Conference League']];
+  const list = fx.fixtures.filter((f) => f.comp === comp);
+  $('main').innerHTML = `<h1>European fixtures</h1><p class="sub">The coming Champions League, Europa League and Conference League matches, from today's ratings: every club on one scale, so a match between countries is priced like any other. Home win · draw · away win, in %.</p>
+    <div class="card"><div class="tabs">${comps.map(([id, n]) => `<button data-c="${id}" class="${id === comp ? 'on' : ''}">${n}</button>`).join('')}</div>
+    ${list.length ? fixtureRows(list) : '<p class="muted">No matches listed yet.</p>'}</div>`;
+  $('main').querySelectorAll('[data-c]').forEach((b) => (b.onclick = () => { comp = b.dataset.c; viewEuropeFixtures(); }));
 }
 
 // every league's top division together: one scale, so one table (the top 50 until asked for the rest)
@@ -139,6 +161,63 @@ async function viewEurope() {
     ${showAll ? '' : `<p style="margin:10px 0 0;text-align:center"><button class="more" id="showAll">Show all ${clubs.length} clubs</button></p>`}</div>
     <div class="card"><h2>League strength</h2><table><tr><th>League</th><th class="n">Average top-division Elo</th></tr>${avg.map(([l, a]) => `<tr><td><a href="${home(l.id)}">${esc(l.name)}</a></td><td class="n"><b>${a}</b></td></tr>`).join('')}</table></div>`;
   $('showAll')?.addEventListener('click', () => { showAll = true; viewEurope(); });
+}
+
+// any two clubs: their chances three ways (each at home, and at a neutral ground), their ratings over time, their meetings
+let EUROPE = null;
+async function viewH2H(a = 'pl:arsenal', b = 'laliga:barcelona') {
+  const all = await Promise.all(LEAGUES.map((l) => get(`data/${l.id}/ratings.json`).then((r) => r.clubs.map((c) => ({ ...c, league: l.id, leagueName: l.name })))));
+  const clubs = all.flat(), find = (k) => { const [lg, sl] = k.split(':'); return clubs.find((c) => c.league === lg && c.slug === sl); };
+  const A = find(a) ?? find('pl:arsenal'), B = find(b) ?? find('laliga:barcelona');
+  const [ha, hb] = await Promise.all([get(`data/${A.league}/clubs/${A.slug}.json`), get(`data/${B.league}/clubs/${B.slug}.json`)]);
+  const g = EUROPE.goals, mk = (dr) => markets(dr, g);
+  const ways = [[`${A.name} at home`, mk(A.elo + EUROPE.hfa - B.elo)], ['Neutral ground', mk(A.elo - B.elo)], [`${B.name} at home`, mk(A.elo - EUROPE.hfa - B.elo)]];
+  const options = (sel) => LEAGUES.map((l, i) => `<optgroup label="${esc(l.name)}">${all[i].filter((c) => c.div === 'top').map((c) => `<option value="${c.league}:${c.slug}" ${c === sel ? 'selected' : ''}>${esc(c.name)}</option>`).join('')}</optgroup>`).join('');
+  const met = ha.history.filter((x) => x[2] === hb.club).slice(-10).reverse();
+  $('main').innerHTML = `<h1>Head to head</h1><p class="sub">Any two clubs of the ${LEAGUES.length} leagues, on one scale. Chances from today's ratings, with a European cup match's home advantage.</p>
+    <div class="card"><div class="pick"><select id="pa">${options(A)}</select><span class="muted">v</span><select id="pb">${options(B)}</select></div>
+    <div class="stats" style="margin-top:14px"><div><b>${A.elo}</b>${esc(A.name)} · ${esc(A.leagueName)}</div><div><b>${B.elo}</b>${esc(B.name)} · ${esc(B.leagueName)}</div><div><b>${signed(A.elo - B.elo)}</b>Gap</div></div>
+    ${ways.map(([t, m]) => `<div class="gw">${esc(t)}</div><div class="fx" style="grid-template-columns:minmax(0,1fr) minmax(0,1fr) 210px"><div class="h"><div class="t">${esc(A.name)}</div><div class="xg">xG ${m.xg[0].toFixed(1)}</div></div><div><div class="t">${esc(B.name)}</div><div class="xg">xG ${m.xg[1].toFixed(1)}</div></div>${bar({ homeName: A.name, awayName: B.name, H: m.H, D: m.D, A: m.A })}</div>`).join('')}</div>
+    <div class="card"><h2>Ratings since 1993</h2><div class="legend"><span class="ka"></span>${esc(A.name)}<span class="kb"></span>${esc(B.name)}</div><div class="chart" id="chart"></div></div>
+    <div class="card"><h2>Their meetings</h2>${met.length ? `<table><tr><th>Date</th><th>Where</th><th class="n">Score</th></tr>${met.map((x) => `<tr><td class="muted">${fullDate(x[0])}${x[6] === 'europe' ? ' · Europe' : ''}</td><td>${x[5] === 'h' ? `at ${esc(A.name)}` : x[5] === 'a' ? `at ${esc(B.name)}` : 'neutral ground'}</td><td class="n">${esc(A.name)} ${x[3]}-${x[4]} ${esc(B.name)}</td></tr>`).join('')}</table>` : '<p class="muted">They haven\'t met in the league or the European cups since 1993.</p>'}</div>`;
+  pairChart(ha.history, hb.history, $('chart'), [A.name, B.name]);
+  const go = () => { location.hash = `#/h2h/${$('pa').value}/${$('pb').value}`; };
+  $('pa').onchange = go; $('pb').onchange = go;
+}
+
+// two clubs' ratings on one chart, a line each, labelled at the end; a crosshair reads both at a date
+function pairChart(h1, h2, el, names) {
+  const W = 940, H = 300, Lm = 44, R = 90, T = 10, B = 26;
+  const series = [h1, h2].map((h) => h.map((x) => [Date.parse(x[0]), x[1]]));
+  const ts = series.flat().map((p) => p[0]), vs = series.flat().map((p) => p[1]);
+  const t0 = Math.min(...ts), t1 = Math.max(...ts), lo = Math.floor((Math.min(...vs) - 20) / 100) * 100, hi = Math.ceil((Math.max(...vs) + 20) / 100) * 100;
+  const X = (x) => Lm + ((x - t0) / (t1 - t0 || 1)) * (W - Lm - R), Y = (y) => T + (1 - (y - lo) / (hi - lo)) * (H - T - B);
+  const grid = []; for (let y = lo; y <= hi; y += 100) grid.push(y);
+  const years = []; for (let y = new Date(t0).getUTCFullYear() + 1; y <= new Date(t1).getUTCFullYear(); y++) years.push(y);
+  const step = Math.ceil(years.length / 10), cls = ['la', 'lb'];
+  el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Both clubs' ratings over time">
+    <g class="grid">${grid.map((y) => `<line x1="${Lm}" x2="${W - R}" y1="${Y(y)}" y2="${Y(y)}"/>`).join('')}</g>
+    <g class="axis">${grid.map((y) => `<text x="${Lm - 6}" y="${Y(y) + 4}" text-anchor="end">${y}</text>`).join('')}
+    ${years.filter((_, i) => i % step === 0).map((y) => `<text x="${X(Date.UTC(y, 0, 1))}" y="${H - 6}" text-anchor="middle">${y}</text>`).join('')}</g>
+    ${series.map((s, i) => `<polyline class="line ${cls[i]}" points="${s.map(([t, v]) => `${X(t).toFixed(1)},${Y(v).toFixed(1)}`).join(' ')}"/>`).join('')}
+    ${series.map((s, i) => { const [t, v] = s.at(-1); return `<text x="${X(t) + 6}" y="${Y(v) + 4}" class="end ${cls[i]}">${esc(names[i])}</text>`; }).join('')}
+    <line class="hair" y1="${T}" y2="${H - B}" style="display:none"/>
+    <rect x="${Lm}" y="${T}" width="${W - Lm - R}" height="${H - T - B}" fill="transparent"/></svg><div class="tip"></div>`;
+  const svg = el.querySelector('svg'), hair = svg.querySelector('.hair'), tip = el.querySelector('.tip');
+  const at = (s, t) => { let r = null; for (const p of s) { if (p[0] > t) break; r = p[1]; } return r; };
+  svg.addEventListener('pointermove', (e) => {
+    const box = svg.getBoundingClientRect(), x = ((e.clientX - box.left) / box.width) * W, t = t0 + ((x - Lm) / (W - Lm - R)) * (t1 - t0);
+    if (x < Lm || x > W - R) return;
+    hair.setAttribute('x1', x); hair.setAttribute('x2', x); hair.style.display = '';
+    tip.textContent = '';
+    const head = document.createElement('b'); head.textContent = new Date(t).toLocaleDateString(undefined, { month: 'short', year: 'numeric' });
+    tip.append(head);
+    series.forEach((s, i) => { tip.append(document.createElement('br'), `${names[i]}: ${at(s, t) ?? '–'}`); });
+    tip.style.display = 'block';
+    const sx = (x / W) * box.width;
+    tip.style.left = `${Math.min(box.width - tip.offsetWidth, Math.max(0, sx - tip.offsetWidth / 2))}px`; tip.style.top = '0px';
+  });
+  svg.addEventListener('pointerleave', () => { hair.style.display = tip.style.display = 'none'; });
 }
 
 async function viewMethod() {
@@ -170,14 +249,16 @@ async function viewMethod() {
 
 function nav(page) {
   $('leagues').innerHTML = `<a href="#/europe" class="${page === 'europe' ? 'on' : ''}">Europe</a>` + LEAGUES.map((l) => `<a href="${page === 'method' ? `#/method/${l.id}` : page === 'fixtures' ? `#/${l.id}/fixtures` : home(l.id)}" class="${l.id === league && page !== 'europe' ? 'on' : ''}${l.extra ? ' minor' : ''}" title="${esc(l.name)}">${esc(l.short ?? l.name)}</a>`).join('');
-  $('nav').innerHTML = `<a href="${home()}" class="${page === 'table' || page === 'club' ? 'on' : ''}">Table</a><a href="#/${league}/fixtures" class="${page === 'fixtures' ? 'on' : ''}">Fixtures</a><a href="#/method/${league}" class="${page === 'method' ? 'on' : ''}">Method</a>`;
+  const eu = page === 'europe', euFx = eu && location.hash.endsWith('/fixtures');
+  $('nav').innerHTML = `<a href="${eu ? '#/europe' : home()}" class="${(page === 'table' || page === 'club' || (eu && !euFx)) ? 'on' : ''}">Table</a><a href="${eu ? '#/europe/fixtures' : `#/${league}/fixtures`}" class="${page === 'fixtures' || euFx ? 'on' : ''}">Fixtures</a><a href="#/h2h" class="${page === 'h2h' ? 'on' : ''}">Compare</a><a href="#/method/${league}" class="${page === 'method' ? 'on' : ''}">Method</a>`;
 }
 
 async function route() {
-  if (!LEAGUES.length) LEAGUES = (await get('data/leagues.json')).leagues;
+  if (!LEAGUES.length) { const d = await get('data/leagues.json'); LEAGUES = d.leagues; EUROPE = d.europe; }
   let parts = (location.hash || '#/').slice(2).split('/').filter(Boolean);
   if (parts[0] === 'method') { league = LEAGUES.some((l) => l.id === parts[1]) ? parts[1] : league; parts = ['method']; }
-  else if (parts[0] === 'europe') parts = ['europe'];
+  else if (parts[0] === 'europe') parts = ['europe', parts[1]];
+  else if (parts[0] === 'h2h') parts = ['h2h', parts[1], parts[2]];
   else if (LEAGUES.some((l) => l.id === parts[0])) league = parts.shift();
   else league = 'pl';
   const [page = 'table', arg] = parts;
@@ -186,7 +267,8 @@ async function route() {
   try {
     if (page === 'fixtures') await viewFixtures();
     else if (page === 'method') await viewMethod();
-    else if (page === 'europe') await viewEurope();
+    else if (page === 'europe') await (arg === 'fixtures' ? viewEuropeFixtures() : viewEurope());
+    else if (page === 'h2h') await viewH2H(parts[1], parts[2]);
     else if (page === 'club' && arg) await viewClub(arg);
     else await viewTable();
   } catch (e) { $('main').innerHTML = `<p class="pad muted">Couldn't load: ${esc(e.message)}</p>`; }

@@ -2,7 +2,7 @@
 // Conference League match since 1993-94, qualifiers included, into cache/uefa/<competition>-<season start>.json.
 // One request a second; finished seasons are kept, the current one is fetched again.
 //   node scripts/fetch-uefa.mjs [--current]
-// Only the results are used: dates, clubs, 90-minute scores, whether the match was a final.
+// Only the results and fixtures are used: dates and kick-offs, clubs, 90-minute scores, whether the match was a final.
 import { existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { startOf } from '../lib/seasons.mjs';
 
@@ -21,7 +21,7 @@ for (let y = first; y <= now; y++) for (const [name, id] of Object.entries(COMPS
     if (!r.ok) throw new Error(`${url}: HTTP ${r.status}`);
     const page = await r.json();
     // keep only what's used
-    for (const m of page) out.push({ id: m.id, date: m.kickOffTime?.date, status: m.status, round: m.round?.metaData?.name ?? null, type: m.type ?? null,
+    for (const m of page) out.push({ id: m.id, date: m.kickOffTime?.date, time: m.kickOffTime?.dateTime ?? null, status: m.status, round: m.round?.metaData?.name ?? null, type: m.type ?? null,
       home: { id: m.homeTeam?.id, name: m.homeTeam?.internationalName, country: m.homeTeam?.countryCode }, away: { id: m.awayTeam?.id, name: m.awayTeam?.internationalName, country: m.awayTeam?.countryCode },
       regular: m.score?.regular ?? null, total: m.score?.total ?? null });
     await sleep(1000);

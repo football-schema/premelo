@@ -13,7 +13,8 @@ import { runAll } from '../lib/elo.mjs';
 import { goals, grid, gridOf, blended } from '../lib/goals.mjs';
 import { run as runAttack } from '../lib/attack.mjs';
 import { display, slug, canonical } from '../lib/teams.mjs';
-import { currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
+import { currentSeason, label, ukToUtc, startOf } from '../lib/seasons.mjs';
+import { clubOf } from '../lib/uefa.mjs';
 import { fetchSeason } from '../lib/matchday.mjs';
 import { LEAGUES, load } from '../lib/leagues.mjs';
 import { writeCard } from './card.mjs';
@@ -97,7 +98,34 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   index.push({ id, name: league.name, short: league.extra ? league.short : league.name, country: league.country, second: league.second, extra: !!league.extra, through: today, top: clubs.filter((c) => c.div === 'top').slice(0, 3).map((c) => [c.name, c.elo]) });
   console.log(`${league.name}: ${clubs.length} clubs through ${today}; top ${clubs.slice(0, 3).map((c) => `${c.name} ${c.elo}`).join(', ')}; ${preds.length} fixtures`);
 }
+// the coming European matches (UEFA's data, cache/uefa/<comp>-<this season>.json), priced from the one scale: Europe's
+// home advantage (none at a neutral ground) and an average league's goals model. Clubs never rated are left out.
+const COMP = { cl: 'Champions League', el: 'Europa League', conf: 'Conference League' };
+const leagueOfClub2 = new Map(Object.entries(leagues).flatMap(([id, l]) => l.list.flatMap((m) => [[m.home, id], [m.away, id]])));
+const shown = (c) => (leagueOfClub2.has(c) ? display(c) : c.replace(/ \(\w+\)$/, ''));
+const europeFixtures = [];
+for (const comp of Object.keys(COMP)) {
+  const f = `cache/uefa/${comp}-${startOf()}.json`;
+  if (!existsSync(f)) continue;
+  for (const m of JSON.parse(readFileSync(f, 'utf8'))) {
+    if (m.status !== 'UPCOMING' || !m.home?.id || !m.away?.id) continue;
+    const home = clubOf(m.home), away = clubOf(m.away), eh = ratings.get(home), ea = ratings.get(away);
+    if (eh == null || ea == null) continue;
+    const neutral = m.type === 'SINGLE' && /final/i.test(m.round ?? ''), dr = eh + (neutral ? 0 : params.europe.hfa) - ea;
+    const g = blended({ grid: grid(dr, params.europeGoals), xg: goals(dr, params.europeGoals) }, { grid: grid(dr, params.europeGoals), xg: goals(dr, params.europeGoals) }, 1);
+    const lh = leagueOfClub2.get(home) ?? null, la = leagueOfClub2.get(away) ?? null;
+    europeFixtures.push({ kickoff: m.time ?? `${m.date}T19:00:00Z`, tbc: !m.time || undefined, comp, compName: COMP[comp], round: m.round, neutral: neutral || undefined,
+      home, away, homeName: shown(home), awayName: shown(away), homeLeague: lh, awayLeague: la, homeSlug: lh ? slug(home) : null, awaySlug: la ? slug(away) : null,
+      homeCountry: m.home.country, awayCountry: m.away.country, elo: [Math.round(eh), Math.round(ea)], dr: Math.round(dr),
+      H: r3(g.H), D: r3(g.D), A: r3(g.A), xg: g.xg.map(r1), O25: r3(g.O25), btts: r3(g.btts), scores: g.scores.map(([sc, q]) => [sc, r3(q)]) });
+  }
+}
+europeFixtures.sort((a, b) => a.kickoff.localeCompare(b.kickoff));
+writeFileSync('data/europe-fixtures.json', JSON.stringify({ updated: new Date().toISOString(), fixtures: europeFixtures }, null, 1) + '\n');
+console.log(`Europe: ${europeFixtures.length} coming matches priced`);
+
 const tops = [];
 for (const id of Object.keys(LEAGUES)) for (const c of JSON.parse(readFileSync(`data/${id}/ratings.json`, 'utf8')).clubs) if (c.div === 'top') tops.push({ ...c, leagueName: LEAGUES[id].name });
 writeCard({ through: index.map((l) => l.through).sort().at(-1), clubs: tops.sort((a, b) => b.elo - a.elo) });
-writeFileSync('data/leagues.json', JSON.stringify({ updated: new Date().toISOString(), leagues: index }, null, 1) + '\n');
+// what the page needs to price any two clubs against each other (the head-to-head page): Europe's home advantage and goals model
+writeFileSync('data/leagues.json', JSON.stringify({ updated: new Date().toISOString(), leagues: index, europe: { hfa: params.europe.hfa, goals: params.europeGoals } }, null, 1) + '\n');
