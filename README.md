@@ -3,7 +3,7 @@
 Elo ratings for every Premier League and Championship club, and the chances for each coming Premier League match,
 computed from results since August 1993. A static site on GitHub Pages; everything it shows is plain JSON in `data/`.
 
-**Site:** https://melvincarvalho.github.io/premelo/
+**Site:** https://football-schema.github.io/premelo/
 
 ## How it works
 

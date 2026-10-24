@@ -17,7 +17,7 @@ for (const season of list) {
     const file = `cache/${season}-${div}.csv`;
     if (existsSync(file) && season !== currentSeason()) continue;
     const url = `https://www.football-data.co.uk/mmz4281/${season}/${div}.csv`;
-    const r = await fetch(url, { headers: { 'user-agent': 'premelo (Premier League Elo; github.com/melvincarvalho/premelo)' } });
+    const r = await fetch(url, { headers: { 'user-agent': 'premelo (Premier League Elo; github.com/football-schema/premelo)' } });
     if (r.status === 404) { console.log(`${season} ${div}: not published yet`); continue; }
     if (!r.ok) throw new Error(`${url}: HTTP ${r.status}`);
     writeFileSync(file, Buffer.from(await r.arrayBuffer()));
