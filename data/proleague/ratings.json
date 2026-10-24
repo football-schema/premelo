@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:42.914Z",
+ "updated": "2026-10-24T14:54:04.725Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-10-11",
@@ -47,6 +47,7 @@
     {
      "r": "L",
      "opp": "Gent",
+     "oppSlug": "gent",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -55,6 +56,7 @@
     {
      "r": "W",
      "opp": "Lommel SK",
+     "oppSlug": "lommel-sk",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -63,6 +65,7 @@
     {
      "r": "W",
      "opp": "Antwerp",
+     "oppSlug": "antwerp",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -71,6 +74,7 @@
     {
      "r": "W",
      "opp": "Genk",
+     "oppSlug": "genk",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -79,6 +83,7 @@
     {
      "r": "W",
      "opp": "RAAL La Louviere",
+     "oppSlug": "raal-la-louviere",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -110,6 +115,7 @@
    "rank": 1,
    "next": {
     "opp": "Sint-Truiden",
+    "oppSlug": "st-truiden",
     "ha": "h",
     "kickoff": "2026-10-25T15:00:00.000Z",
     "win": 0.722,
@@ -138,6 +144,7 @@
     {
      "r": "W",
      "opp": "Sint-Truiden",
+     "oppSlug": "st-truiden",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -146,6 +153,7 @@
     {
      "r": "W",
      "opp": "Charleroi",
+     "oppSlug": "charleroi",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -154,6 +162,7 @@
     {
      "r": "W",
      "opp": "Lommel SK",
+     "oppSlug": "lommel-sk",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -162,6 +171,7 @@
     {
      "r": "W",
      "opp": "Antwerp",
+     "oppSlug": "antwerp",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -170,6 +180,7 @@
     {
      "r": "D",
      "opp": "OH Leuven",
+     "oppSlug": "oud-heverlee-leuven",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -201,6 +212,7 @@
    "rank": 2,
    "next": {
     "opp": "Cercle Brugge",
+    "oppSlug": "cercle-brugge",
     "ha": "h",
     "kickoff": "2026-10-25T18:15:00.000Z",
     "win": 0.779,
@@ -229,6 +241,7 @@
     {
      "r": "W",
      "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -237,6 +250,7 @@
     {
      "r": "D",
      "opp": "Genk",
+     "oppSlug": "genk",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -245,6 +259,7 @@
     {
      "r": "W",
      "opp": "Mechelen",
+     "oppSlug": "mechelen",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -253,6 +268,7 @@
     {
      "r": "W",
      "opp": "Waregem",
+     "oppSlug": "waregem",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -261,6 +277,7 @@
     {
      "r": "W",
      "opp": "Cercle Brugge",
+     "oppSlug": "cercle-brugge",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -292,6 +309,7 @@
    "rank": 3,
    "next": {
     "opp": "Gent",
+    "oppSlug": "gent",
     "ha": "a",
     "kickoff": "2026-10-25T17:30:00.000Z",
     "win": 0.331,
@@ -320,6 +338,7 @@
     {
      "r": "W",
      "opp": "Beveren",
+     "oppSlug": "beveren",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -328,6 +347,7 @@
     {
      "r": "D",
      "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -336,6 +356,7 @@
     {
      "r": "D",
      "opp": "Gent",
+     "oppSlug": "gent",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -344,6 +365,7 @@
     {
      "r": "L",
      "opp": "Club Brugge",
+     "oppSlug": "club-brugge",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -352,6 +374,7 @@
     {
      "r": "W",
      "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -383,6 +406,7 @@
    "rank": 4,
    "next": {
     "opp": "Standard Liège",
+    "oppSlug": "standard",
     "ha": "h",
     "kickoff": "2026-10-25T12:30:00.000Z",
     "win": 0.551,
@@ -411,6 +435,7 @@
     {
      "r": "W",
      "opp": "OH Leuven",
+     "oppSlug": "oud-heverlee-leuven",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -419,6 +444,7 @@
     {
      "r": "W",
      "opp": "Cercle Brugge",
+     "oppSlug": "cercle-brugge",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -427,6 +453,7 @@
     {
      "r": "D",
      "opp": "Genk",
+     "oppSlug": "genk",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -435,6 +462,7 @@
     {
      "r": "W",
      "opp": "Standard Liège",
+     "oppSlug": "standard",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -443,6 +471,7 @@
     {
      "r": "W",
      "opp": "Waregem",
+     "oppSlug": "waregem",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -474,6 +503,7 @@
    "rank": 5,
    "next": {
     "opp": "Anderlecht",
+    "oppSlug": "anderlecht",
     "ha": "h",
     "kickoff": "2026-10-25T17:30:00.000Z",
     "win": 0.397,
@@ -502,6 +532,7 @@
     {
      "r": "W",
      "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -510,6 +541,7 @@
     {
      "r": "L",
      "opp": "Union Saint-Gilloise",
+     "oppSlug": "st-gilloise",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -518,6 +550,7 @@
     {
      "r": "W",
      "opp": "Waregem",
+     "oppSlug": "waregem",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -526,6 +559,7 @@
     {
      "r": "W",
      "opp": "Cercle Brugge",
+     "oppSlug": "cercle-brugge",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -534,6 +568,7 @@
     {
      "r": "W",
      "opp": "Standard Liège",
+     "oppSlug": "standard",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -565,6 +600,7 @@
    "rank": 6,
    "next": {
     "opp": "Antwerp",
+    "oppSlug": "antwerp",
     "ha": "a",
     "kickoff": "2026-10-24T14:00:00.000Z",
     "win": 0.399,
@@ -593,6 +629,7 @@
     {
      "r": "L",
      "opp": "Union Saint-Gilloise",
+     "oppSlug": "st-gilloise",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -601,6 +638,7 @@
     {
      "r": "W",
      "opp": "RAAL La Louviere",
+     "oppSlug": "raal-la-louviere",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -609,6 +647,7 @@
     {
      "r": "L",
      "opp": "Beveren",
+     "oppSlug": "beveren",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -617,6 +656,7 @@
     {
      "r": "L",
      "opp": "Westerlo",
+     "oppSlug": "westerlo",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -625,6 +665,7 @@
     {
      "r": "L",
      "opp": "Mechelen",
+     "oppSlug": "mechelen",
      "gf": 3,
      "ga": 4,
      "ha": "a",
@@ -656,6 +697,7 @@
    "rank": 7,
    "next": {
     "opp": "Club Brugge",
+    "oppSlug": "club-brugge",
     "ha": "a",
     "kickoff": "2026-10-25T15:00:00.000Z",
     "win": 0.109,
@@ -684,6 +726,7 @@
     {
      "r": "D",
      "opp": "Waregem",
+     "oppSlug": "waregem",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -692,6 +735,7 @@
     {
      "r": "W",
      "opp": "Mechelen",
+     "oppSlug": "mechelen",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -700,6 +744,7 @@
     {
      "r": "W",
      "opp": "Standard Liège",
+     "oppSlug": "standard",
      "gf": 4,
      "ga": 2,
      "ha": "h",
@@ -708,6 +753,7 @@
     {
      "r": "W",
      "opp": "Sint-Truiden",
+     "oppSlug": "st-truiden",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -716,6 +762,7 @@
     {
      "r": "W",
      "opp": "Antwerp",
+     "oppSlug": "antwerp",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -747,6 +794,7 @@
    "rank": 8,
    "next": {
     "opp": "Beveren",
+    "oppSlug": "beveren",
     "ha": "h",
     "kickoff": "2026-10-24T18:45:00.000Z",
     "win": 0.628,
@@ -775,6 +823,7 @@
     {
      "r": "W",
      "opp": "OH Leuven",
+     "oppSlug": "oud-heverlee-leuven",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -783,6 +832,7 @@
     {
      "r": "W",
      "opp": "Antwerp",
+     "oppSlug": "antwerp",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -791,6 +841,7 @@
     {
      "r": "L",
      "opp": "Westerlo",
+     "oppSlug": "westerlo",
      "gf": 2,
      "ga": 4,
      "ha": "a",
@@ -799,6 +850,7 @@
     {
      "r": "L",
      "opp": "Gent",
+     "oppSlug": "gent",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -807,6 +859,7 @@
     {
      "r": "L",
      "opp": "Charleroi",
+     "oppSlug": "charleroi",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -838,6 +891,7 @@
    "rank": 9,
    "next": {
     "opp": "Genk",
+    "oppSlug": "genk",
     "ha": "a",
     "kickoff": "2026-10-25T12:30:00.000Z",
     "win": 0.202,
@@ -866,6 +920,7 @@
     {
      "r": "L",
      "opp": "Sint-Truiden",
+     "oppSlug": "st-truiden",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -874,6 +929,7 @@
     {
      "r": "L",
      "opp": "Standard Liège",
+     "oppSlug": "standard",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -882,6 +938,7 @@
     {
      "r": "L",
      "opp": "Club Brugge",
+     "oppSlug": "club-brugge",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -890,6 +947,7 @@
     {
      "r": "L",
      "opp": "Union Saint-Gilloise",
+     "oppSlug": "st-gilloise",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -898,6 +956,7 @@
     {
      "r": "L",
      "opp": "Westerlo",
+     "oppSlug": "westerlo",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -929,6 +988,7 @@
    "rank": 10,
    "next": {
     "opp": "Charleroi",
+    "oppSlug": "charleroi",
     "ha": "h",
     "kickoff": "2026-10-24T14:00:00.000Z",
     "win": 0.33,
@@ -957,6 +1017,7 @@
     {
      "r": "D",
      "opp": "Westerlo",
+     "oppSlug": "westerlo",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -965,6 +1026,7 @@
     {
      "r": "W",
      "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -973,6 +1035,7 @@
     {
      "r": "L",
      "opp": "Charleroi",
+     "oppSlug": "charleroi",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -981,6 +1044,7 @@
     {
      "r": "L",
      "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -989,6 +1053,7 @@
     {
      "r": "L",
      "opp": "Gent",
+     "oppSlug": "gent",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1020,6 +1085,7 @@
    "rank": 11,
    "next": {
     "opp": "RAAL La Louviere",
+    "oppSlug": "raal-la-louviere",
     "ha": "a",
     "kickoff": "2026-10-24T18:45:00.000Z",
     "win": 0.401,
@@ -1048,6 +1114,7 @@
     {
      "r": "D",
      "opp": "RAAL La Louviere",
+     "oppSlug": "raal-la-louviere",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1056,6 +1123,7 @@
     {
      "r": "L",
      "opp": "Westerlo",
+     "oppSlug": "westerlo",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1064,6 +1132,7 @@
     {
      "r": "L",
      "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1072,6 +1141,7 @@
     {
      "r": "D",
      "opp": "Lommel SK",
+     "oppSlug": "lommel-sk",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1080,6 +1150,7 @@
     {
      "r": "W",
      "opp": "Sint-Truiden",
+     "oppSlug": "st-truiden",
      "gf": 4,
      "ga": 3,
      "ha": "h",
@@ -1132,6 +1203,7 @@
     {
      "r": "L",
      "opp": "Lommel SK",
+     "oppSlug": "lommel-sk",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1140,6 +1212,7 @@
     {
      "r": "L",
      "opp": "Gent",
+     "oppSlug": "gent",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -1148,6 +1221,7 @@
     {
      "r": "D",
      "opp": "OH Leuven",
+     "oppSlug": "oud-heverlee-leuven",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1156,6 +1230,7 @@
     {
      "r": "L",
      "opp": "Charleroi",
+     "oppSlug": "charleroi",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1164,6 +1239,7 @@
     {
      "r": "L",
      "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1195,6 +1271,7 @@
    "rank": 13,
    "next": {
     "opp": "Union Saint-Gilloise",
+    "oppSlug": "st-gilloise",
     "ha": "a",
     "kickoff": "2026-10-25T18:15:00.000Z",
     "win": 0.074,
@@ -1223,6 +1300,7 @@
     {
      "r": "L",
      "opp": "Gent",
+     "oppSlug": "gent",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1231,6 +1309,7 @@
     {
      "r": "L",
      "opp": "Beveren",
+     "oppSlug": "beveren",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1239,6 +1318,7 @@
     {
      "r": "D",
      "opp": "Cercle Brugge",
+     "oppSlug": "cercle-brugge",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1247,6 +1327,7 @@
     {
      "r": "W",
      "opp": "RAAL La Louviere",
+     "oppSlug": "raal-la-louviere",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1255,6 +1336,7 @@
     {
      "r": "D",
      "opp": "Union Saint-Gilloise",
+     "oppSlug": "st-gilloise",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1286,6 +1368,7 @@
    "rank": 14,
    "next": {
     "opp": "Lommel SK",
+    "oppSlug": "lommel-sk",
     "ha": "h",
     "kickoff": "2026-10-24T16:15:00.000Z",
     "win": 0.445,
@@ -1314,6 +1397,7 @@
     {
      "r": "W",
      "opp": "Cercle Brugge",
+     "oppSlug": "cercle-brugge",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -1322,6 +1406,7 @@
     {
      "r": "L",
      "opp": "Club Brugge",
+     "oppSlug": "club-brugge",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1330,6 +1415,7 @@
     {
      "r": "L",
      "opp": "Union Saint-Gilloise",
+     "oppSlug": "st-gilloise",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -1338,6 +1424,7 @@
     {
      "r": "D",
      "opp": "Mechelen",
+     "oppSlug": "mechelen",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1346,6 +1433,7 @@
     {
      "r": "W",
      "opp": "Beveren",
+     "oppSlug": "beveren",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -1365,6 +1453,7 @@
    "rank": 15,
    "next": {
     "opp": "OH Leuven",
+    "oppSlug": "oud-heverlee-leuven",
     "ha": "a",
     "kickoff": "2026-10-24T16:15:00.000Z",
     "win": 0.28,
@@ -1393,6 +1482,7 @@
     {
      "r": "D",
      "opp": "Mechelen",
+     "oppSlug": "mechelen",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1401,6 +1491,7 @@
     {
      "r": "L",
      "opp": "Sint-Truiden",
+     "oppSlug": "st-truiden",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1409,6 +1500,7 @@
     {
      "r": "W",
      "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -1417,6 +1509,7 @@
     {
      "r": "L",
      "opp": "OH Leuven",
+     "oppSlug": "oud-heverlee-leuven",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1425,6 +1518,7 @@
     {
      "r": "L",
      "opp": "Club Brugge",
+     "oppSlug": "club-brugge",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -1456,6 +1550,7 @@
    "rank": 16,
    "next": {
     "opp": "Waregem",
+    "oppSlug": "waregem",
     "ha": "h",
     "kickoff": "2026-10-24T18:45:00.000Z",
     "win": 0.326,
@@ -1484,6 +1579,7 @@
     {
      "r": "L",
      "opp": "Genk",
+     "oppSlug": "genk",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1492,6 +1588,7 @@
     {
      "r": "W",
      "opp": "OH Leuven",
+     "oppSlug": "oud-heverlee-leuven",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -1500,6 +1597,7 @@
     {
      "r": "W",
      "opp": "Sint-Truiden",
+     "oppSlug": "st-truiden",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1508,6 +1606,7 @@
     {
      "r": "L",
      "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1516,6 +1615,7 @@
     {
      "r": "L",
      "opp": "Lommel SK",
+     "oppSlug": "lommel-sk",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -1547,6 +1647,7 @@
    "rank": 17,
    "next": {
     "opp": "Westerlo",
+    "oppSlug": "westerlo",
     "ha": "a",
     "kickoff": "2026-10-24T18:45:00.000Z",
     "win": 0.162,
@@ -1575,6 +1676,7 @@
     {
      "r": "L",
      "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1583,6 +1685,7 @@
     {
      "r": "L",
      "opp": "Waregem",
+     "oppSlug": "waregem",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1591,6 +1694,7 @@
     {
      "r": "L",
      "opp": "RAAL La Louviere",
+     "oppSlug": "raal-la-louviere",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1599,6 +1703,7 @@
     {
      "r": "W",
      "opp": "Beveren",
+     "oppSlug": "beveren",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1607,6 +1712,7 @@
     {
      "r": "L",
      "opp": "Genk",
+     "oppSlug": "genk",
      "gf": 0,
      "ga": 3,
      "ha": "a",

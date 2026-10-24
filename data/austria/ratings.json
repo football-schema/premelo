@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:43.568Z",
+ "updated": "2026-10-24T14:54:05.377Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-10-18",
@@ -47,6 +47,7 @@
     {
      "r": "W",
      "opp": "SK Rapid",
+     "oppSlug": "sk-rapid",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -55,6 +56,7 @@
     {
      "r": "D",
      "opp": "Ried",
+     "oppSlug": "ried",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -63,6 +65,7 @@
     {
      "r": "W",
      "opp": "Sturm Graz",
+     "oppSlug": "sturm-graz",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -71,6 +74,7 @@
     {
      "r": "D",
      "opp": "Grazer AK",
+     "oppSlug": "grazer-ak",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -79,6 +83,7 @@
     {
      "r": "W",
      "opp": "Altach",
+     "oppSlug": "altach",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -110,6 +115,7 @@
    "rank": 1,
    "next": {
     "opp": "LASK",
+    "oppSlug": "lask",
     "ha": "a",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.346,
@@ -138,6 +144,7 @@
     {
      "r": "L",
      "opp": "SK Rapid",
+     "oppSlug": "sk-rapid",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -146,6 +153,7 @@
     {
      "r": "W",
      "opp": "LASK",
+     "oppSlug": "lask",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -154,6 +162,7 @@
     {
      "r": "L",
      "opp": "Salzburg",
+     "oppSlug": "salzburg",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -162,6 +171,7 @@
     {
      "r": "W",
      "opp": "Austria Vienna",
+     "oppSlug": "austria-vienna",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -170,6 +180,7 @@
     {
      "r": "W",
      "opp": "Grazer AK",
+     "oppSlug": "grazer-ak",
      "gf": 6,
      "ga": 1,
      "ha": "h",
@@ -201,6 +212,7 @@
    "rank": 2,
    "next": {
     "opp": "Ried",
+    "oppSlug": "ried",
     "ha": "h",
     "kickoff": "2026-10-25T14:30:00.000Z",
     "win": 0.648,
@@ -229,6 +241,7 @@
     {
      "r": "W",
      "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -237,6 +250,7 @@
     {
      "r": "L",
      "opp": "Sturm Graz",
+     "oppSlug": "sturm-graz",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -245,6 +259,7 @@
     {
      "r": "D",
      "opp": "Hartberg",
+     "oppSlug": "hartberg",
      "gf": 3,
      "ga": 3,
      "ha": "a",
@@ -253,6 +268,7 @@
     {
      "r": "L",
      "opp": "SK Rapid",
+     "oppSlug": "sk-rapid",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -261,6 +277,7 @@
     {
      "r": "W",
      "opp": "A. Lustenau",
+     "oppSlug": "a-lustenau",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -292,6 +309,7 @@
    "rank": 3,
    "next": {
     "opp": "Salzburg",
+    "oppSlug": "salzburg",
     "ha": "h",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.383,
@@ -320,6 +338,7 @@
     {
      "r": "L",
      "opp": "Salzburg",
+     "oppSlug": "salzburg",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -328,6 +347,7 @@
     {
      "r": "W",
      "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -336,6 +356,7 @@
     {
      "r": "W",
      "opp": "Tirol",
+     "oppSlug": "tirol",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -344,6 +365,7 @@
     {
      "r": "W",
      "opp": "LASK",
+     "oppSlug": "lask",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -352,6 +374,7 @@
     {
      "r": "W",
      "opp": "Hartberg",
+     "oppSlug": "hartberg",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -383,6 +406,7 @@
    "rank": 4,
    "next": {
     "opp": "A. Lustenau",
+    "oppSlug": "a-lustenau",
     "ha": "h",
     "kickoff": "2026-10-24T17:30:00.000Z",
     "win": 0.629,
@@ -411,6 +435,7 @@
     {
      "r": "L",
      "opp": "Tirol",
+     "oppSlug": "tirol",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -419,6 +444,7 @@
     {
      "r": "W",
      "opp": "A. Lustenau",
+     "oppSlug": "a-lustenau",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -427,6 +453,7 @@
     {
      "r": "D",
      "opp": "Grazer AK",
+     "oppSlug": "grazer-ak",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -435,6 +462,7 @@
     {
      "r": "L",
      "opp": "Sturm Graz",
+     "oppSlug": "sturm-graz",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -443,6 +471,7 @@
     {
      "r": "L",
      "opp": "Ried",
+     "oppSlug": "ried",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -495,6 +524,7 @@
     {
      "r": "W",
      "opp": "Ried",
+     "oppSlug": "ried",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -503,6 +533,7 @@
     {
      "r": "D",
      "opp": "Tirol",
+     "oppSlug": "tirol",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -511,6 +542,7 @@
     {
      "r": "D",
      "opp": "LASK",
+     "oppSlug": "lask",
      "gf": 3,
      "ga": 3,
      "ha": "h",
@@ -519,6 +551,7 @@
     {
      "r": "W",
      "opp": "A. Lustenau",
+     "oppSlug": "a-lustenau",
      "gf": 4,
      "ga": 3,
      "ha": "h",
@@ -527,6 +560,7 @@
     {
      "r": "L",
      "opp": "SK Rapid",
+     "oppSlug": "sk-rapid",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -558,6 +592,7 @@
    "rank": 6,
    "next": {
     "opp": "Wolfsberger AC",
+    "oppSlug": "wolfsberger-ac",
     "ha": "h",
     "kickoff": "2026-10-24T15:00:00.000Z",
     "win": 0.446,
@@ -586,6 +621,7 @@
     {
      "r": "L",
      "opp": "LASK",
+     "oppSlug": "lask",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -594,6 +630,7 @@
     {
      "r": "L",
      "opp": "SK Rapid",
+     "oppSlug": "sk-rapid",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -602,6 +639,7 @@
     {
      "r": "L",
      "opp": "Ried",
+     "oppSlug": "ried",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -610,6 +648,7 @@
     {
      "r": "L",
      "opp": "Altach",
+     "oppSlug": "altach",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -618,6 +657,7 @@
     {
      "r": "L",
      "opp": "Tirol",
+     "oppSlug": "tirol",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -649,6 +689,7 @@
    "rank": 7,
    "next": {
     "opp": "Hartberg",
+    "oppSlug": "hartberg",
     "ha": "a",
     "kickoff": "2026-10-24T15:00:00.000Z",
     "win": 0.288,
@@ -677,6 +718,7 @@
     {
      "r": "L",
      "opp": "Hartberg",
+     "oppSlug": "hartberg",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -685,6 +727,7 @@
     {
      "r": "D",
      "opp": "Salzburg",
+     "oppSlug": "salzburg",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -693,6 +736,7 @@
     {
      "r": "W",
      "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -701,6 +745,7 @@
     {
      "r": "W",
      "opp": "Tirol",
+     "oppSlug": "tirol",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -709,6 +754,7 @@
     {
      "r": "W",
      "opp": "Austria Vienna",
+     "oppSlug": "austria-vienna",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -740,6 +786,7 @@
    "rank": 8,
    "next": {
     "opp": "Sturm Graz",
+    "oppSlug": "sturm-graz",
     "ha": "a",
     "kickoff": "2026-10-25T14:30:00.000Z",
     "win": 0.143,
@@ -768,6 +815,7 @@
     {
      "r": "W",
      "opp": "Austria Vienna",
+     "oppSlug": "austria-vienna",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -776,6 +824,7 @@
     {
      "r": "D",
      "opp": "Hartberg",
+     "oppSlug": "hartberg",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -784,6 +833,7 @@
     {
      "r": "L",
      "opp": "SK Rapid",
+     "oppSlug": "sk-rapid",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -792,6 +842,7 @@
     {
      "r": "L",
      "opp": "Ried",
+     "oppSlug": "ried",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -800,6 +851,7 @@
     {
      "r": "W",
      "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -831,6 +883,7 @@
    "rank": 9,
    "next": {
     "opp": "Grazer AK",
+    "oppSlug": "grazer-ak",
     "ha": "h",
     "kickoff": "2026-10-24T15:00:00.000Z",
     "win": 0.415,
@@ -859,6 +912,7 @@
     {
      "r": "D",
      "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -867,6 +921,7 @@
     {
      "r": "W",
      "opp": "Altach",
+     "oppSlug": "altach",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -875,6 +930,7 @@
     {
      "r": "D",
      "opp": "Austria Vienna",
+     "oppSlug": "austria-vienna",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -883,6 +939,7 @@
     {
      "r": "D",
      "opp": "Salzburg",
+     "oppSlug": "salzburg",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -891,6 +948,7 @@
     {
      "r": "L",
      "opp": "Sturm Graz",
+     "oppSlug": "sturm-graz",
      "gf": 1,
      "ga": 6,
      "ha": "a",
@@ -922,6 +980,7 @@
    "rank": 10,
    "next": {
     "opp": "Tirol",
+    "oppSlug": "tirol",
     "ha": "a",
     "kickoff": "2026-10-24T15:00:00.000Z",
     "win": 0.315,
@@ -950,6 +1009,7 @@
     {
      "r": "L",
      "opp": "LASK",
+     "oppSlug": "lask",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -958,6 +1018,7 @@
     {
      "r": "L",
      "opp": "Grazer AK",
+     "oppSlug": "grazer-ak",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -966,6 +1027,7 @@
     {
      "r": "L",
      "opp": "A. Lustenau",
+     "oppSlug": "a-lustenau",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -974,6 +1036,7 @@
     {
      "r": "W",
      "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -982,6 +1045,7 @@
     {
      "r": "L",
      "opp": "Salzburg",
+     "oppSlug": "salzburg",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1034,6 +1098,7 @@
     {
      "r": "L",
      "opp": "Tirol",
+     "oppSlug": "tirol",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1042,6 +1107,7 @@
     {
      "r": "L",
      "opp": "Austria Vienna",
+     "oppSlug": "austria-vienna",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1050,6 +1116,7 @@
     {
      "r": "W",
      "opp": "Altach",
+     "oppSlug": "altach",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1058,6 +1125,7 @@
     {
      "r": "L",
      "opp": "Hartberg",
+     "oppSlug": "hartberg",
      "gf": 3,
      "ga": 4,
      "ha": "a",
@@ -1066,6 +1134,7 @@
     {
      "r": "L",
      "opp": "LASK",
+     "oppSlug": "lask",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1097,6 +1166,7 @@
    "rank": 12,
    "next": {
     "opp": "SK Rapid",
+    "oppSlug": "sk-rapid",
     "ha": "a",
     "kickoff": "2026-10-24T17:30:00.000Z",
     "win": 0.154,

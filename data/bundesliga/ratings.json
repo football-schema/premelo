@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:38.598Z",
+ "updated": "2026-10-24T14:54:00.423Z",
  "league": "bundesliga",
  "name": "Bundesliga",
  "through": "2026-10-18",
@@ -60,6 +60,7 @@
     {
      "r": "D",
      "opp": "Schalke 04",
+     "oppSlug": "schalke-04",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -68,6 +69,7 @@
     {
      "r": "W",
      "opp": "Elversberg",
+     "oppSlug": "elversberg",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -76,6 +78,7 @@
     {
      "r": "W",
      "opp": "Union Berlin",
+     "oppSlug": "union-berlin",
      "gf": 7,
      "ga": 0,
      "ha": "h",
@@ -84,6 +87,7 @@
     {
      "r": "D",
      "opp": "FC Augsburg",
+     "oppSlug": "augsburg",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -92,6 +96,7 @@
     {
      "r": "W",
      "opp": "RB Leipzig",
+     "oppSlug": "rb-leipzig",
      "gf": 6,
      "ga": 1,
      "ha": "h",
@@ -123,6 +128,7 @@
    "rank": 1,
    "next": {
     "opp": "SC Freiburg",
+    "oppSlug": "freiburg",
     "ha": "a",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.656,
@@ -157,6 +163,7 @@
     {
      "r": "W",
      "opp": "Hoffenheim",
+     "oppSlug": "hoffenheim",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -165,6 +172,7 @@
     {
      "r": "W",
      "opp": "Paderborn",
+     "oppSlug": "paderborn",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -173,6 +181,7 @@
     {
      "r": "W",
      "opp": "VfB Stuttgart",
+     "oppSlug": "stuttgart",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -181,6 +190,7 @@
     {
      "r": "D",
      "opp": "Werder Bremen",
+     "oppSlug": "werder-bremen",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -189,6 +199,7 @@
     {
      "r": "D",
      "opp": "Union Berlin",
+     "oppSlug": "union-berlin",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -220,6 +231,7 @@
    "rank": 2,
    "next": {
     "opp": "Eintracht Frankfurt",
+    "oppSlug": "ein-frankfurt",
     "ha": "h",
     "kickoff": "2026-10-24T16:30:00.000Z",
     "win": 0.643,
@@ -254,6 +266,7 @@
     {
      "r": "W",
      "opp": "Union Berlin",
+     "oppSlug": "union-berlin",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -262,6 +275,7 @@
     {
      "r": "D",
      "opp": "FC Augsburg",
+     "oppSlug": "augsburg",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -270,6 +284,7 @@
     {
      "r": "W",
      "opp": "RB Leipzig",
+     "oppSlug": "rb-leipzig",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -278,6 +293,7 @@
     {
      "r": "W",
      "opp": "Mainz 05",
+     "oppSlug": "mainz",
      "gf": 4,
      "ga": 3,
      "ha": "a",
@@ -286,6 +302,7 @@
     {
      "r": "W",
      "opp": "SC Freiburg",
+     "oppSlug": "freiburg",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -317,6 +334,7 @@
    "rank": 3,
    "next": {
     "opp": "Hoffenheim",
+    "oppSlug": "hoffenheim",
     "ha": "a",
     "kickoff": "2026-10-25T14:30:00.000Z",
     "win": 0.439,
@@ -351,6 +369,7 @@
     {
      "r": "W",
      "opp": "1. FC Köln",
+     "oppSlug": "fc-koln",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -359,6 +378,7 @@
     {
      "r": "L",
      "opp": "Hoffenheim",
+     "oppSlug": "hoffenheim",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -367,6 +387,7 @@
     {
      "r": "L",
      "opp": "Borussia Dortmund",
+     "oppSlug": "dortmund",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -375,6 +396,7 @@
     {
      "r": "W",
      "opp": "Paderborn",
+     "oppSlug": "paderborn",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -383,6 +405,7 @@
     {
      "r": "L",
      "opp": "Hamburger SV",
+     "oppSlug": "hamburg",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -441,6 +464,7 @@
     {
      "r": "L",
      "opp": "Werder Bremen",
+     "oppSlug": "werder-bremen",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -449,6 +473,7 @@
     {
      "r": "W",
      "opp": "Hamburger SV",
+     "oppSlug": "hamburg",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -457,6 +482,7 @@
     {
      "r": "L",
      "opp": "Bayer Leverkusen",
+     "oppSlug": "leverkusen",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -465,6 +491,7 @@
     {
      "r": "W",
      "opp": "Eintracht Frankfurt",
+     "oppSlug": "ein-frankfurt",
      "gf": 6,
      "ga": 0,
      "ha": "h",
@@ -473,6 +500,7 @@
     {
      "r": "L",
      "opp": "Bayern Munich",
+     "oppSlug": "bayern-munich",
      "gf": 1,
      "ga": 6,
      "ha": "a",
@@ -504,6 +532,7 @@
    "rank": 5,
    "next": {
     "opp": "Elversberg",
+    "oppSlug": "elversberg",
     "ha": "h",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.702,
@@ -538,6 +567,7 @@
     {
      "r": "W",
      "opp": "Paderborn",
+     "oppSlug": "paderborn",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -546,6 +576,7 @@
     {
      "r": "W",
      "opp": "Borussia M'gladbach",
+     "oppSlug": "m-gladbach",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -554,6 +585,7 @@
     {
      "r": "D",
      "opp": "Eintracht Frankfurt",
+     "oppSlug": "ein-frankfurt",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -562,6 +594,7 @@
     {
      "r": "W",
      "opp": "Schalke 04",
+     "oppSlug": "schalke-04",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -570,6 +603,7 @@
     {
      "r": "L",
      "opp": "Bayer Leverkusen",
+     "oppSlug": "leverkusen",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -601,6 +635,7 @@
    "rank": 6,
    "next": {
     "opp": "Bayern Munich",
+    "oppSlug": "bayern-munich",
     "ha": "h",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.154,
@@ -635,6 +670,7 @@
     {
      "r": "W",
      "opp": "Hamburger SV",
+     "oppSlug": "hamburg",
      "gf": 5,
      "ga": 0,
      "ha": "a",
@@ -643,6 +679,7 @@
     {
      "r": "L",
      "opp": "Eintracht Frankfurt",
+     "oppSlug": "ein-frankfurt",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -651,6 +688,7 @@
     {
      "r": "W",
      "opp": "Borussia M'gladbach",
+     "oppSlug": "m-gladbach",
      "gf": 4,
      "ga": 3,
      "ha": "a",
@@ -659,6 +697,7 @@
     {
      "r": "L",
      "opp": "Bayer Leverkusen",
+     "oppSlug": "leverkusen",
      "gf": 3,
      "ga": 4,
      "ha": "h",
@@ -667,6 +706,7 @@
     {
      "r": "W",
      "opp": "Schalke 04",
+     "oppSlug": "schalke-04",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -698,6 +738,7 @@
    "rank": 7,
    "next": {
     "opp": "Werder Bremen",
+    "oppSlug": "werder-bremen",
     "ha": "h",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.508,
@@ -732,6 +773,7 @@
     {
      "r": "L",
      "opp": "FC Augsburg",
+     "oppSlug": "augsburg",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -740,6 +782,7 @@
     {
      "r": "W",
      "opp": "Mainz 05",
+     "oppSlug": "mainz",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -748,6 +791,7 @@
     {
      "r": "D",
      "opp": "SC Freiburg",
+     "oppSlug": "freiburg",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -756,6 +800,7 @@
     {
      "r": "L",
      "opp": "RB Leipzig",
+     "oppSlug": "rb-leipzig",
      "gf": 0,
      "ga": 6,
      "ha": "a",
@@ -764,6 +809,7 @@
     {
      "r": "W",
      "opp": "1. FC Köln",
+     "oppSlug": "fc-koln",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -795,6 +841,7 @@
    "rank": 8,
    "next": {
     "opp": "Borussia Dortmund",
+    "oppSlug": "dortmund",
     "ha": "a",
     "kickoff": "2026-10-24T16:30:00.000Z",
     "win": 0.155,
@@ -829,6 +876,7 @@
     {
      "r": "L",
      "opp": "Borussia Dortmund",
+     "oppSlug": "dortmund",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -837,6 +885,7 @@
     {
      "r": "W",
      "opp": "VfB Stuttgart",
+     "oppSlug": "stuttgart",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -845,6 +894,7 @@
     {
      "r": "L",
      "opp": "Paderborn",
+     "oppSlug": "paderborn",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -853,6 +903,7 @@
     {
      "r": "L",
      "opp": "Hamburger SV",
+     "oppSlug": "hamburg",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -861,6 +912,7 @@
     {
      "r": "W",
      "opp": "Borussia M'gladbach",
+     "oppSlug": "m-gladbach",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -892,6 +944,7 @@
    "rank": 9,
    "next": {
     "opp": "Bayer Leverkusen",
+    "oppSlug": "leverkusen",
     "ha": "h",
     "kickoff": "2026-10-25T14:30:00.000Z",
     "win": 0.323,
@@ -926,6 +979,7 @@
     {
      "r": "W",
      "opp": "Eintracht Frankfurt",
+     "oppSlug": "ein-frankfurt",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -934,6 +988,7 @@
     {
      "r": "D",
      "opp": "Bayer Leverkusen",
+     "oppSlug": "leverkusen",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -942,6 +997,7 @@
     {
      "r": "L",
      "opp": "Werder Bremen",
+     "oppSlug": "werder-bremen",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -950,6 +1006,7 @@
     {
      "r": "D",
      "opp": "Bayern Munich",
+     "oppSlug": "bayern-munich",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -958,6 +1015,7 @@
     {
      "r": "L",
      "opp": "Elversberg",
+     "oppSlug": "elversberg",
      "gf": 3,
      "ga": 4,
      "ha": "a",
@@ -989,6 +1047,7 @@
    "rank": 10,
    "next": {
     "opp": "Union Berlin",
+    "oppSlug": "union-berlin",
     "ha": "h",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.501,
@@ -1023,6 +1082,7 @@
     {
      "r": "W",
      "opp": "RB Leipzig",
+     "oppSlug": "rb-leipzig",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1031,6 +1091,7 @@
     {
      "r": "D",
      "opp": "1. FC Köln",
+     "oppSlug": "fc-koln",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1039,6 +1100,7 @@
     {
      "r": "W",
      "opp": "FC Augsburg",
+     "oppSlug": "augsburg",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1047,6 +1109,7 @@
     {
      "r": "D",
      "opp": "Borussia Dortmund",
+     "oppSlug": "dortmund",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1055,6 +1118,7 @@
     {
      "r": "D",
      "opp": "Paderborn",
+     "oppSlug": "paderborn",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1086,6 +1150,7 @@
    "rank": 11,
    "next": {
     "opp": "Mainz 05",
+    "oppSlug": "mainz",
     "ha": "a",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.243,
@@ -1120,6 +1185,7 @@
     {
      "r": "D",
      "opp": "Cottbus",
+     "oppSlug": "cottbus",
      "gf": 4,
      "ga": 4,
      "ha": "h",
@@ -1128,6 +1194,7 @@
     {
      "r": "L",
      "opp": "St Pauli",
+     "oppSlug": "st-pauli",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1136,6 +1203,7 @@
     {
      "r": "W",
      "opp": "Darmstadt 98",
+     "oppSlug": "darmstadt",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -1144,6 +1212,7 @@
     {
      "r": "D",
      "opp": "1. FC Nürnberg",
+     "oppSlug": "nurnberg",
      "gf": 4,
      "ga": 4,
      "ha": "a",
@@ -1152,6 +1221,7 @@
     {
      "r": "W",
      "opp": "Heidenheim",
+     "oppSlug": "heidenheim",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1210,6 +1280,7 @@
     {
      "r": "L",
      "opp": "Elversberg",
+     "oppSlug": "elversberg",
      "gf": 3,
      "ga": 4,
      "ha": "h",
@@ -1218,6 +1289,7 @@
     {
      "r": "L",
      "opp": "SC Freiburg",
+     "oppSlug": "freiburg",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -1226,6 +1298,7 @@
     {
      "r": "L",
      "opp": "Mainz 05",
+     "oppSlug": "mainz",
      "gf": 3,
      "ga": 4,
      "ha": "h",
@@ -1234,6 +1307,7 @@
     {
      "r": "L",
      "opp": "1. FC Köln",
+     "oppSlug": "fc-koln",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1242,6 +1316,7 @@
     {
      "r": "L",
      "opp": "Hoffenheim",
+     "oppSlug": "hoffenheim",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1300,6 +1375,7 @@
     {
      "r": "L",
      "opp": "Bayer Leverkusen",
+     "oppSlug": "leverkusen",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1308,6 +1384,7 @@
     {
      "r": "L",
      "opp": "Schalke 04",
+     "oppSlug": "schalke-04",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -1316,6 +1393,7 @@
     {
      "r": "L",
      "opp": "Bayern Munich",
+     "oppSlug": "bayern-munich",
      "gf": 0,
      "ga": 7,
      "ha": "a",
@@ -1324,6 +1402,7 @@
     {
      "r": "W",
      "opp": "Elversberg",
+     "oppSlug": "elversberg",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1332,6 +1411,7 @@
     {
      "r": "D",
      "opp": "Borussia Dortmund",
+     "oppSlug": "dortmund",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1363,6 +1443,7 @@
    "rank": 13,
    "next": {
     "opp": "FC Augsburg",
+    "oppSlug": "augsburg",
     "ha": "a",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.247,
@@ -1397,6 +1478,7 @@
     {
      "r": "L",
      "opp": "Mainz 05",
+     "oppSlug": "mainz",
      "gf": 0,
      "ga": 5,
      "ha": "h",
@@ -1405,6 +1487,7 @@
     {
      "r": "L",
      "opp": "RB Leipzig",
+     "oppSlug": "rb-leipzig",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -1413,6 +1496,7 @@
     {
      "r": "W",
      "opp": "1. FC Köln",
+     "oppSlug": "fc-koln",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1421,6 +1505,7 @@
     {
      "r": "W",
      "opp": "Hoffenheim",
+     "oppSlug": "hoffenheim",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -1429,6 +1514,7 @@
     {
      "r": "W",
      "opp": "VfB Stuttgart",
+     "oppSlug": "stuttgart",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1460,6 +1546,7 @@
    "rank": 14,
    "next": {
     "opp": "Paderborn",
+    "oppSlug": "paderborn",
     "ha": "a",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.385,
@@ -1494,6 +1581,7 @@
     {
      "r": "L",
      "opp": "VfB Stuttgart",
+     "oppSlug": "stuttgart",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -1502,6 +1590,7 @@
     {
      "r": "D",
      "opp": "Werder Bremen",
+     "oppSlug": "werder-bremen",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1510,6 +1599,7 @@
     {
      "r": "L",
      "opp": "Hamburger SV",
+     "oppSlug": "hamburg",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1518,6 +1608,7 @@
     {
      "r": "W",
      "opp": "Borussia M'gladbach",
+     "oppSlug": "m-gladbach",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1526,6 +1617,7 @@
     {
      "r": "L",
      "opp": "Eintracht Frankfurt",
+     "oppSlug": "ein-frankfurt",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1557,6 +1649,7 @@
    "rank": 15,
    "next": {
     "opp": "Schalke 04",
+    "oppSlug": "schalke-04",
     "ha": "h",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.528,
@@ -1591,6 +1684,7 @@
     {
      "r": "W",
      "opp": "Borussia M'gladbach",
+     "oppSlug": "m-gladbach",
      "gf": 4,
      "ga": 3,
      "ha": "a",
@@ -1599,6 +1693,7 @@
     {
      "r": "L",
      "opp": "Bayern Munich",
+     "oppSlug": "bayern-munich",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1607,6 +1702,7 @@
     {
      "r": "D",
      "opp": "Schalke 04",
+     "oppSlug": "schalke-04",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1615,6 +1711,7 @@
     {
      "r": "L",
      "opp": "Union Berlin",
+     "oppSlug": "union-berlin",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1623,6 +1720,7 @@
     {
      "r": "W",
      "opp": "FC Augsburg",
+     "oppSlug": "augsburg",
      "gf": 4,
      "ga": 3,
      "ha": "h",
@@ -1654,6 +1752,7 @@
    "rank": 16,
    "next": {
     "opp": "RB Leipzig",
+    "oppSlug": "rb-leipzig",
     "ha": "a",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.122,
@@ -1688,6 +1787,7 @@
     {
      "r": "L",
      "opp": "SC Freiburg",
+     "oppSlug": "freiburg",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1696,6 +1796,7 @@
     {
      "r": "L",
      "opp": "Borussia Dortmund",
+     "oppSlug": "dortmund",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1704,6 +1805,7 @@
     {
      "r": "W",
      "opp": "Hoffenheim",
+     "oppSlug": "hoffenheim",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1712,6 +1814,7 @@
     {
      "r": "L",
      "opp": "VfB Stuttgart",
+     "oppSlug": "stuttgart",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1720,6 +1823,7 @@
     {
      "r": "D",
      "opp": "Werder Bremen",
+     "oppSlug": "werder-bremen",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1751,6 +1855,7 @@
    "rank": 17,
    "next": {
     "opp": "Hamburger SV",
+    "oppSlug": "hamburg",
     "ha": "h",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.349,
@@ -1785,6 +1890,7 @@
     {
      "r": "W",
      "opp": "Greuther Fürth",
+     "oppSlug": "greuther-furth",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -1793,6 +1899,7 @@
     {
      "r": "W",
      "opp": "Holstein Kiel",
+     "oppSlug": "holstein-kiel",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1801,6 +1908,7 @@
     {
      "r": "D",
      "opp": "Arminia Bielefeld",
+     "oppSlug": "bielefeld",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1809,6 +1917,7 @@
     {
      "r": "D",
      "opp": "Kaiserslautern",
+     "oppSlug": "kaiserslautern",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1817,6 +1926,7 @@
     {
      "r": "L",
      "opp": "VfL Wolfsburg",
+     "oppSlug": "wolfsburg",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1875,6 +1985,7 @@
     {
      "r": "D",
      "opp": "Arminia Bielefeld",
+     "oppSlug": "bielefeld",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1883,6 +1994,7 @@
     {
      "r": "W",
      "opp": "VfL Wolfsburg",
+     "oppSlug": "wolfsburg",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1891,6 +2003,7 @@
     {
      "r": "D",
      "opp": "Cottbus",
+     "oppSlug": "cottbus",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1899,6 +2012,7 @@
     {
      "r": "W",
      "opp": "Karlsruhe",
+     "oppSlug": "karlsruhe",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1907,6 +2021,7 @@
     {
      "r": "D",
      "opp": "Hannover 96",
+     "oppSlug": "hannover",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1965,6 +2080,7 @@
     {
      "r": "D",
      "opp": "Bayern Munich",
+     "oppSlug": "bayern-munich",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1973,6 +2089,7 @@
     {
      "r": "W",
      "opp": "Union Berlin",
+     "oppSlug": "union-berlin",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -1981,6 +2098,7 @@
     {
      "r": "D",
      "opp": "Elversberg",
+     "oppSlug": "elversberg",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1989,6 +2107,7 @@
     {
      "r": "L",
      "opp": "SC Freiburg",
+     "oppSlug": "freiburg",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1997,6 +2116,7 @@
     {
      "r": "L",
      "opp": "Mainz 05",
+     "oppSlug": "mainz",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -2028,6 +2148,7 @@
    "rank": 18,
    "next": {
     "opp": "1. FC Köln",
+    "oppSlug": "fc-koln",
     "ha": "a",
     "kickoff": "2026-10-24T13:30:00.000Z",
     "win": 0.213,
@@ -2062,6 +2183,7 @@
     {
      "r": "W",
      "opp": "Magdeburg",
+     "oppSlug": "magdeburg",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2070,6 +2192,7 @@
     {
      "r": "W",
      "opp": "VfL Osnabrück",
+     "oppSlug": "osnabruck",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -2078,6 +2201,7 @@
     {
      "r": "W",
      "opp": "Dresden",
+     "oppSlug": "dresden",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -2086,6 +2210,7 @@
     {
      "r": "W",
      "opp": "Greuther Fürth",
+     "oppSlug": "greuther-furth",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2094,6 +2219,7 @@
     {
      "r": "D",
      "opp": "Holstein Kiel",
+     "oppSlug": "holstein-kiel",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -2152,6 +2278,7 @@
     {
      "r": "D",
      "opp": "Karlsruhe",
+     "oppSlug": "karlsruhe",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -2160,6 +2287,7 @@
     {
      "r": "L",
      "opp": "1. FC Nürnberg",
+     "oppSlug": "nurnberg",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -2168,6 +2296,7 @@
     {
      "r": "W",
      "opp": "VfL Bochum",
+     "oppSlug": "bochum",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2176,6 +2305,7 @@
     {
      "r": "L",
      "opp": "Magdeburg",
+     "oppSlug": "magdeburg",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -2184,6 +2314,7 @@
     {
      "r": "D",
      "opp": "St Pauli",
+     "oppSlug": "st-pauli",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2242,6 +2373,7 @@
     {
      "r": "D",
      "opp": "Holstein Kiel",
+     "oppSlug": "holstein-kiel",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -2250,6 +2382,7 @@
     {
      "r": "W",
      "opp": "Hannover 96",
+     "oppSlug": "hannover",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2258,6 +2391,7 @@
     {
      "r": "W",
      "opp": "Karlsruhe",
+     "oppSlug": "karlsruhe",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -2266,6 +2400,7 @@
     {
      "r": "D",
      "opp": "VfL Wolfsburg",
+     "oppSlug": "wolfsburg",
      "gf": 4,
      "ga": 4,
      "ha": "h",
@@ -2274,6 +2409,7 @@
     {
      "r": "D",
      "opp": "Cottbus",
+     "oppSlug": "cottbus",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2332,6 +2468,7 @@
     {
      "r": "W",
      "opp": "Darmstadt 98",
+     "oppSlug": "darmstadt",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -2340,6 +2477,7 @@
     {
      "r": "L",
      "opp": "Magdeburg",
+     "oppSlug": "magdeburg",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -2348,6 +2486,7 @@
     {
      "r": "W",
      "opp": "Braunschweig",
+     "oppSlug": "braunschweig",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -2356,6 +2495,7 @@
     {
      "r": "D",
      "opp": "Heidenheim",
+     "oppSlug": "heidenheim",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -2364,6 +2504,7 @@
     {
      "r": "W",
      "opp": "VfL Bochum",
+     "oppSlug": "bochum",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -2422,6 +2563,7 @@
     {
      "r": "W",
      "opp": "Dresden",
+     "oppSlug": "dresden",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -2430,6 +2572,7 @@
     {
      "r": "D",
      "opp": "Greuther Fürth",
+     "oppSlug": "greuther-furth",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2438,6 +2581,7 @@
     {
      "r": "L",
      "opp": "Hannover 96",
+     "oppSlug": "hannover",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -2446,6 +2590,7 @@
     {
      "r": "L",
      "opp": "Arminia Bielefeld",
+     "oppSlug": "bielefeld",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -2454,6 +2599,7 @@
     {
      "r": "L",
      "opp": "Kaiserslautern",
+     "oppSlug": "kaiserslautern",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -2512,6 +2658,7 @@
     {
      "r": "D",
      "opp": "1. FC Nürnberg",
+     "oppSlug": "nurnberg",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -2520,6 +2667,7 @@
     {
      "r": "L",
      "opp": "Heidenheim",
+     "oppSlug": "heidenheim",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -2528,6 +2676,7 @@
     {
      "r": "D",
      "opp": "VfL Osnabrück",
+     "oppSlug": "osnabruck",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2536,6 +2685,7 @@
     {
      "r": "L",
      "opp": "Braunschweig",
+     "oppSlug": "braunschweig",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -2544,6 +2694,7 @@
     {
      "r": "D",
      "opp": "Hertha BSC",
+     "oppSlug": "hertha",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -2602,6 +2753,7 @@
     {
      "r": "L",
      "opp": "Hertha BSC",
+     "oppSlug": "hertha",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -2610,6 +2762,7 @@
     {
      "r": "W",
      "opp": "Kaiserslautern",
+     "oppSlug": "kaiserslautern",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -2618,6 +2771,7 @@
     {
      "r": "D",
      "opp": "Greuther Fürth",
+     "oppSlug": "greuther-furth",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2626,6 +2780,7 @@
     {
      "r": "W",
      "opp": "Hannover 96",
+     "oppSlug": "hannover",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -2634,6 +2789,7 @@
     {
      "r": "L",
      "opp": "Dresden",
+     "oppSlug": "dresden",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -2692,6 +2848,7 @@
     {
      "r": "L",
      "opp": "Kaiserslautern",
+     "oppSlug": "kaiserslautern",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -2700,6 +2857,7 @@
     {
      "r": "W",
      "opp": "Arminia Bielefeld",
+     "oppSlug": "bielefeld",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2708,6 +2866,7 @@
     {
      "r": "L",
      "opp": "VfL Wolfsburg",
+     "oppSlug": "wolfsburg",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -2716,6 +2875,7 @@
     {
      "r": "W",
      "opp": "Cottbus",
+     "oppSlug": "cottbus",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -2724,6 +2884,7 @@
     {
      "r": "L",
      "opp": "Karlsruhe",
+     "oppSlug": "karlsruhe",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -2782,6 +2943,7 @@
     {
      "r": "D",
      "opp": "Hannover 96",
+     "oppSlug": "hannover",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -2790,6 +2952,7 @@
     {
      "r": "L",
      "opp": "Cottbus",
+     "oppSlug": "cottbus",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -2798,6 +2961,7 @@
     {
      "r": "L",
      "opp": "1. FC Nürnberg",
+     "oppSlug": "nurnberg",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -2806,6 +2970,7 @@
     {
      "r": "L",
      "opp": "St Pauli",
+     "oppSlug": "st-pauli",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -2814,6 +2979,7 @@
     {
      "r": "W",
      "opp": "Darmstadt 98",
+     "oppSlug": "darmstadt",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -2872,6 +3038,7 @@
     {
      "r": "D",
      "opp": "VfL Wolfsburg",
+     "oppSlug": "wolfsburg",
      "gf": 4,
      "ga": 4,
      "ha": "a",
@@ -2880,6 +3047,7 @@
     {
      "r": "W",
      "opp": "Karlsruhe",
+     "oppSlug": "karlsruhe",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -2888,6 +3056,7 @@
     {
      "r": "D",
      "opp": "St Pauli",
+     "oppSlug": "st-pauli",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2896,6 +3065,7 @@
     {
      "r": "L",
      "opp": "Darmstadt 98",
+     "oppSlug": "darmstadt",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -2904,6 +3074,7 @@
     {
      "r": "D",
      "opp": "1. FC Nürnberg",
+     "oppSlug": "nurnberg",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2962,6 +3133,7 @@
     {
      "r": "D",
      "opp": "St Pauli",
+     "oppSlug": "st-pauli",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -2970,6 +3142,7 @@
     {
      "r": "L",
      "opp": "Darmstadt 98",
+     "oppSlug": "darmstadt",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -2978,6 +3151,7 @@
     {
      "r": "D",
      "opp": "Heidenheim",
+     "oppSlug": "heidenheim",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -2986,6 +3160,7 @@
     {
      "r": "W",
      "opp": "VfL Bochum",
+     "oppSlug": "bochum",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -2994,6 +3169,7 @@
     {
      "r": "W",
      "opp": "VfL Osnabrück",
+     "oppSlug": "osnabruck",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -3052,6 +3228,7 @@
     {
      "r": "L",
      "opp": "Heidenheim",
+     "oppSlug": "heidenheim",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -3060,6 +3237,7 @@
     {
      "r": "D",
      "opp": "VfL Bochum",
+     "oppSlug": "bochum",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -3068,6 +3246,7 @@
     {
      "r": "D",
      "opp": "Magdeburg",
+     "oppSlug": "magdeburg",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -3076,6 +3255,7 @@
     {
      "r": "L",
      "opp": "Hertha BSC",
+     "oppSlug": "hertha",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -3084,6 +3264,7 @@
     {
      "r": "W",
      "opp": "Braunschweig",
+     "oppSlug": "braunschweig",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -3142,6 +3323,7 @@
     {
      "r": "L",
      "opp": "VfL Bochum",
+     "oppSlug": "bochum",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -3150,6 +3332,7 @@
     {
      "r": "D",
      "opp": "Braunschweig",
+     "oppSlug": "braunschweig",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -3158,6 +3341,7 @@
     {
      "r": "L",
      "opp": "Hertha BSC",
+     "oppSlug": "hertha",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -3166,6 +3350,7 @@
     {
      "r": "D",
      "opp": "VfL Osnabrück",
+     "oppSlug": "osnabruck",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -3174,6 +3359,7 @@
     {
      "r": "W",
      "opp": "Magdeburg",
+     "oppSlug": "magdeburg",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -3232,6 +3418,7 @@
     {
      "r": "W",
      "opp": "Braunschweig",
+     "oppSlug": "braunschweig",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -3240,6 +3427,7 @@
     {
      "r": "L",
      "opp": "Hertha BSC",
+     "oppSlug": "hertha",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -3248,6 +3436,7 @@
     {
      "r": "D",
      "opp": "Holstein Kiel",
+     "oppSlug": "holstein-kiel",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -3256,6 +3445,7 @@
     {
      "r": "D",
      "opp": "Dresden",
+     "oppSlug": "dresden",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -3264,6 +3454,7 @@
     {
      "r": "L",
      "opp": "Arminia Bielefeld",
+     "oppSlug": "bielefeld",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -3322,6 +3513,7 @@
     {
      "r": "L",
      "opp": "VfL Osnabrück",
+     "oppSlug": "osnabruck",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -3330,6 +3522,7 @@
     {
      "r": "D",
      "opp": "Dresden",
+     "oppSlug": "dresden",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -3338,6 +3531,7 @@
     {
      "r": "L",
      "opp": "Kaiserslautern",
+     "oppSlug": "kaiserslautern",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -3346,6 +3540,7 @@
     {
      "r": "W",
      "opp": "Holstein Kiel",
+     "oppSlug": "holstein-kiel",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -3354,6 +3549,7 @@
     {
      "r": "L",
      "opp": "Greuther Fürth",
+     "oppSlug": "greuther-furth",
      "gf": 0,
      "ga": 2,
      "ha": "a",

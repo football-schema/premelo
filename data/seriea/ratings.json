@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:40.403Z",
+ "updated": "2026-10-24T14:54:02.214Z",
  "league": "seriea",
  "name": "Serie A",
  "through": "2026-10-19",
@@ -60,6 +60,7 @@
     {
      "r": "W",
      "opp": "Napoli",
+     "oppSlug": "napoli",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -68,6 +69,7 @@
     {
      "r": "W",
      "opp": "Udinese",
+     "oppSlug": "udinese",
      "gf": 5,
      "ga": 3,
      "ha": "h",
@@ -76,6 +78,7 @@
     {
      "r": "D",
      "opp": "AS Roma",
+     "oppSlug": "roma",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -84,6 +87,7 @@
     {
      "r": "W",
      "opp": "Parma",
+     "oppSlug": "parma",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -92,6 +96,7 @@
     {
      "r": "W",
      "opp": "Bologna",
+     "oppSlug": "bologna",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -123,6 +128,7 @@
    "rank": 1,
    "next": {
     "opp": "Fiorentina",
+    "oppSlug": "fiorentina",
     "ha": "h",
     "kickoff": "2026-10-25T11:30:00.000Z",
     "win": 0.769,
@@ -157,6 +163,7 @@
     {
      "r": "W",
      "opp": "Atalanta",
+     "oppSlug": "atalanta",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -165,6 +172,7 @@
     {
      "r": "W",
      "opp": "Torino",
+     "oppSlug": "torino",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -173,6 +181,7 @@
     {
      "r": "D",
      "opp": "Inter",
+     "oppSlug": "inter",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -181,6 +190,7 @@
     {
      "r": "D",
      "opp": "Como",
+     "oppSlug": "como",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -189,6 +199,7 @@
     {
      "r": "W",
      "opp": "Genoa",
+     "oppSlug": "genoa",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -220,6 +231,7 @@
    "rank": 2,
    "next": {
     "opp": "Napoli",
+    "oppSlug": "napoli",
     "ha": "a",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.375,
@@ -254,6 +266,7 @@
     {
      "r": "W",
      "opp": "Genoa",
+     "oppSlug": "genoa",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -262,6 +275,7 @@
     {
      "r": "W",
      "opp": "Parma",
+     "oppSlug": "parma",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -270,6 +284,7 @@
     {
      "r": "L",
      "opp": "Frosinone",
+     "oppSlug": "frosinone",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -278,6 +293,7 @@
     {
      "r": "D",
      "opp": "AS Roma",
+     "oppSlug": "roma",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -286,6 +302,7 @@
     {
      "r": "W",
      "opp": "Fiorentina",
+     "oppSlug": "fiorentina",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -317,6 +334,7 @@
    "rank": 3,
    "next": {
     "opp": "Sassuolo",
+    "oppSlug": "sassuolo",
     "ha": "h",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.644,
@@ -351,6 +369,7 @@
     {
      "r": "D",
      "opp": "Juventus",
+     "oppSlug": "juventus",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -359,6 +378,7 @@
     {
      "r": "D",
      "opp": "Lazio",
+     "oppSlug": "lazio",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -367,6 +387,7 @@
     {
      "r": "W",
      "opp": "Lecce",
+     "oppSlug": "lecce",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -375,6 +396,7 @@
     {
      "r": "D",
      "opp": "Sassuolo",
+     "oppSlug": "sassuolo",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -383,6 +405,7 @@
     {
      "r": "W",
      "opp": "Atalanta",
+     "oppSlug": "atalanta",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -414,6 +437,7 @@
    "rank": 4,
    "next": {
     "opp": "Udinese",
+    "oppSlug": "udinese",
     "ha": "a",
     "kickoff": "2026-10-25T19:45:00.000Z",
     "win": 0.484,
@@ -448,6 +472,7 @@
     {
      "r": "D",
      "opp": "AC Milan",
+     "oppSlug": "milan",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -456,6 +481,7 @@
     {
      "r": "L",
      "opp": "Sassuolo",
+     "oppSlug": "sassuolo",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -464,6 +490,7 @@
     {
      "r": "W",
      "opp": "Atalanta",
+     "oppSlug": "atalanta",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -472,6 +499,7 @@
     {
      "r": "D",
      "opp": "Cagliari",
+     "oppSlug": "cagliari",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -480,6 +508,7 @@
     {
      "r": "L",
      "opp": "Lazio",
+     "oppSlug": "lazio",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -511,6 +540,7 @@
    "rank": 5,
    "next": {
     "opp": "Lecce",
+    "oppSlug": "lecce",
     "ha": "a",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.553,
@@ -545,6 +575,7 @@
     {
      "r": "L",
      "opp": "Inter",
+     "oppSlug": "inter",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -553,6 +584,7 @@
     {
      "r": "W",
      "opp": "Bologna",
+     "oppSlug": "bologna",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -561,6 +593,7 @@
     {
      "r": "D",
      "opp": "Fiorentina",
+     "oppSlug": "fiorentina",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -569,6 +602,7 @@
     {
      "r": "W",
      "opp": "Frosinone",
+     "oppSlug": "frosinone",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -577,6 +611,7 @@
     {
      "r": "L",
      "opp": "Venezia",
+     "oppSlug": "venezia",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -608,6 +643,7 @@
    "rank": 6,
    "next": {
     "opp": "AS Roma",
+    "oppSlug": "roma",
     "ha": "h",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.316,
@@ -642,6 +678,7 @@
     {
      "r": "W",
      "opp": "Udinese",
+     "oppSlug": "udinese",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -650,6 +687,7 @@
     {
      "r": "D",
      "opp": "AC Milan",
+     "oppSlug": "milan",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -658,6 +696,7 @@
     {
      "r": "W",
      "opp": "Venezia",
+     "oppSlug": "venezia",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -666,6 +705,7 @@
     {
      "r": "W",
      "opp": "Monza",
+     "oppSlug": "monza",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -674,6 +714,7 @@
     {
      "r": "W",
      "opp": "Juventus",
+     "oppSlug": "juventus",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -705,6 +746,7 @@
    "rank": 7,
    "next": {
     "opp": "Parma",
+    "oppSlug": "parma",
     "ha": "h",
     "kickoff": "2026-10-24T18:45:00.000Z",
     "win": 0.601,
@@ -739,6 +781,7 @@
     {
      "r": "L",
      "opp": "AS Roma",
+     "oppSlug": "roma",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -747,6 +790,7 @@
     {
      "r": "L",
      "opp": "Cagliari",
+     "oppSlug": "cagliari",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -755,6 +799,7 @@
     {
      "r": "L",
      "opp": "Juventus",
+     "oppSlug": "juventus",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -763,6 +808,7 @@
     {
      "r": "W",
      "opp": "Venezia",
+     "oppSlug": "venezia",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -771,6 +817,7 @@
     {
      "r": "L",
      "opp": "AC Milan",
+     "oppSlug": "milan",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -802,6 +849,7 @@
    "rank": 8,
    "next": {
     "opp": "Frosinone",
+    "oppSlug": "frosinone",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.563,
@@ -836,6 +884,7 @@
     {
      "r": "D",
      "opp": "Sassuolo",
+     "oppSlug": "sassuolo",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -844,6 +893,7 @@
     {
      "r": "L",
      "opp": "Napoli",
+     "oppSlug": "napoli",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -852,6 +902,7 @@
     {
      "r": "D",
      "opp": "Torino",
+     "oppSlug": "torino",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -860,6 +911,7 @@
     {
      "r": "W",
      "opp": "Lecce",
+     "oppSlug": "lecce",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -868,6 +920,7 @@
     {
      "r": "L",
      "opp": "Inter",
+     "oppSlug": "inter",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -899,6 +952,7 @@
    "rank": 9,
    "next": {
     "opp": "Cagliari",
+    "oppSlug": "cagliari",
     "ha": "a",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.372,
@@ -933,6 +987,7 @@
     {
      "r": "W",
      "opp": "Fiorentina",
+     "oppSlug": "fiorentina",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -941,6 +996,7 @@
     {
      "r": "L",
      "opp": "AS Roma",
+     "oppSlug": "roma",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -949,6 +1005,7 @@
     {
      "r": "D",
      "opp": "Bologna",
+     "oppSlug": "bologna",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -957,6 +1014,7 @@
     {
      "r": "W",
      "opp": "Udinese",
+     "oppSlug": "udinese",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -965,6 +1023,7 @@
     {
      "r": "W",
      "opp": "Parma",
+     "oppSlug": "parma",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -1023,6 +1082,7 @@
     {
      "r": "L",
      "opp": "Torino",
+     "oppSlug": "torino",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1031,6 +1091,7 @@
     {
      "r": "W",
      "opp": "Venezia",
+     "oppSlug": "venezia",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -1039,6 +1100,7 @@
     {
      "r": "D",
      "opp": "Napoli",
+     "oppSlug": "napoli",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1047,6 +1109,7 @@
     {
      "r": "L",
      "opp": "Genoa",
+     "oppSlug": "genoa",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1055,6 +1118,7 @@
     {
      "r": "L",
      "opp": "Como",
+     "oppSlug": "como",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -1086,6 +1150,7 @@
    "rank": 11,
    "next": {
     "opp": "Inter",
+    "oppSlug": "inter",
     "ha": "a",
     "kickoff": "2026-10-25T11:30:00.000Z",
     "win": 0.076,
@@ -1120,6 +1185,7 @@
     {
      "r": "D",
      "opp": "Bologna",
+     "oppSlug": "bologna",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1128,6 +1194,7 @@
     {
      "r": "W",
      "opp": "Juventus",
+     "oppSlug": "juventus",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1136,6 +1203,7 @@
     {
      "r": "L",
      "opp": "Monza",
+     "oppSlug": "monza",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1144,6 +1212,7 @@
     {
      "r": "D",
      "opp": "AC Milan",
+     "oppSlug": "milan",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1152,6 +1221,7 @@
     {
      "r": "L",
      "opp": "Frosinone",
+     "oppSlug": "frosinone",
      "gf": 2,
      "ga": 4,
      "ha": "a",
@@ -1183,6 +1253,7 @@
    "rank": 12,
    "next": {
     "opp": "Como",
+    "oppSlug": "como",
     "ha": "a",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.137,
@@ -1217,6 +1288,7 @@
     {
      "r": "L",
      "opp": "Lazio",
+     "oppSlug": "lazio",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1225,6 +1297,7 @@
     {
      "r": "L",
      "opp": "Inter",
+     "oppSlug": "inter",
      "gf": 3,
      "ga": 5,
      "ha": "a",
@@ -1233,6 +1306,7 @@
     {
      "r": "L",
      "opp": "Cagliari",
+     "oppSlug": "cagliari",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1241,6 +1315,7 @@
     {
      "r": "L",
      "opp": "Torino",
+     "oppSlug": "torino",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1249,6 +1324,7 @@
     {
      "r": "L",
      "opp": "Lecce",
+     "oppSlug": "lecce",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -1280,6 +1356,7 @@
    "rank": 13,
    "next": {
     "opp": "AC Milan",
+    "oppSlug": "milan",
     "ha": "h",
     "kickoff": "2026-10-25T19:45:00.000Z",
     "win": 0.235,
@@ -1314,6 +1391,7 @@
     {
      "r": "W",
      "opp": "Venezia",
+     "oppSlug": "venezia",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1322,6 +1400,7 @@
     {
      "r": "D",
      "opp": "Genoa",
+     "oppSlug": "genoa",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1330,6 +1409,7 @@
     {
      "r": "W",
      "opp": "Como",
+     "oppSlug": "como",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1338,6 +1418,7 @@
     {
      "r": "L",
      "opp": "Napoli",
+     "oppSlug": "napoli",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1346,6 +1427,7 @@
     {
      "r": "W",
      "opp": "Sassuolo",
+     "oppSlug": "sassuolo",
      "gf": 4,
      "ga": 2,
      "ha": "h",
@@ -1377,6 +1459,7 @@
    "rank": 14,
    "next": {
     "opp": "Atalanta",
+    "oppSlug": "atalanta",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.19,
@@ -1411,6 +1494,7 @@
     {
      "r": "W",
      "opp": "Lecce",
+     "oppSlug": "lecce",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1419,6 +1503,7 @@
     {
      "r": "W",
      "opp": "Atalanta",
+     "oppSlug": "atalanta",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -1427,6 +1512,7 @@
     {
      "r": "W",
      "opp": "Udinese",
+     "oppSlug": "udinese",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -1435,6 +1521,7 @@
     {
      "r": "D",
      "opp": "Juventus",
+     "oppSlug": "juventus",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1443,6 +1530,7 @@
     {
      "r": "L",
      "opp": "Monza",
+     "oppSlug": "monza",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1474,6 +1562,7 @@
    "rank": 15,
    "next": {
     "opp": "Bologna",
+    "oppSlug": "bologna",
     "ha": "h",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.315,
@@ -1508,6 +1597,7 @@
     {
      "r": "L",
      "opp": "Como",
+     "oppSlug": "como",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -1516,6 +1606,7 @@
     {
      "r": "D",
      "opp": "Frosinone",
+     "oppSlug": "frosinone",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1524,6 +1615,7 @@
     {
      "r": "L",
      "opp": "Parma",
+     "oppSlug": "parma",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1532,6 +1624,7 @@
     {
      "r": "W",
      "opp": "Fiorentina",
+     "oppSlug": "fiorentina",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1540,6 +1633,7 @@
     {
      "r": "L",
      "opp": "AS Roma",
+     "oppSlug": "roma",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1571,6 +1665,7 @@
    "rank": 16,
    "next": {
     "opp": "Venezia",
+    "oppSlug": "venezia",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.435,
@@ -1605,6 +1700,7 @@
     {
      "r": "L",
      "opp": "Cagliari",
+     "oppSlug": "cagliari",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1613,6 +1709,7 @@
     {
      "r": "W",
      "opp": "Monza",
+     "oppSlug": "monza",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1621,6 +1718,7 @@
     {
      "r": "L",
      "opp": "AC Milan",
+     "oppSlug": "milan",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1629,6 +1727,7 @@
     {
      "r": "L",
      "opp": "Bologna",
+     "oppSlug": "bologna",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1637,6 +1736,7 @@
     {
      "r": "W",
      "opp": "Udinese",
+     "oppSlug": "udinese",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -1668,6 +1768,7 @@
    "rank": 17,
    "next": {
     "opp": "Juventus",
+    "oppSlug": "juventus",
     "ha": "h",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.173,
@@ -1702,6 +1803,7 @@
     {
      "r": "D",
      "opp": "Monza",
+     "oppSlug": "monza",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1710,6 +1812,7 @@
     {
      "r": "L",
      "opp": "Como",
+     "oppSlug": "como",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1718,6 +1821,7 @@
     {
      "r": "W",
      "opp": "Genoa",
+     "oppSlug": "genoa",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1726,6 +1830,7 @@
     {
      "r": "L",
      "opp": "Inter",
+     "oppSlug": "inter",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1734,6 +1839,7 @@
     {
      "r": "L",
      "opp": "Torino",
+     "oppSlug": "torino",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -1765,6 +1871,7 @@
    "rank": 18,
    "next": {
     "opp": "Lazio",
+    "oppSlug": "lazio",
     "ha": "a",
     "kickoff": "2026-10-24T18:45:00.000Z",
     "win": 0.142,
@@ -1799,6 +1906,7 @@
     {
      "r": "L",
      "opp": "Frosinone",
+     "oppSlug": "frosinone",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1807,6 +1915,7 @@
     {
      "r": "L",
      "opp": "Fiorentina",
+     "oppSlug": "fiorentina",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -1815,6 +1924,7 @@
     {
      "r": "L",
      "opp": "Lazio",
+     "oppSlug": "lazio",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1823,6 +1933,7 @@
     {
      "r": "L",
      "opp": "Atalanta",
+     "oppSlug": "atalanta",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1831,6 +1942,7 @@
     {
      "r": "W",
      "opp": "Napoli",
+     "oppSlug": "napoli",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1862,6 +1974,7 @@
    "rank": 19,
    "next": {
     "opp": "Genoa",
+    "oppSlug": "genoa",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.273,
@@ -1896,6 +2009,7 @@
     {
      "r": "D",
      "opp": "Parma",
+     "oppSlug": "parma",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1904,6 +2018,7 @@
     {
      "r": "L",
      "opp": "Lecce",
+     "oppSlug": "lecce",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1912,6 +2027,7 @@
     {
      "r": "W",
      "opp": "Sassuolo",
+     "oppSlug": "sassuolo",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1920,6 +2036,7 @@
     {
      "r": "L",
      "opp": "Lazio",
+     "oppSlug": "lazio",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1928,6 +2045,7 @@
     {
      "r": "W",
      "opp": "Cagliari",
+     "oppSlug": "cagliari",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -1986,6 +2104,7 @@
     {
      "r": "W",
      "opp": "Sampdoria",
+     "oppSlug": "sampdoria",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1994,6 +2113,7 @@
     {
      "r": "D",
      "opp": "Avellino",
+     "oppSlug": "avellino",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2002,6 +2122,7 @@
     {
      "r": "W",
      "opp": "Padova",
+     "oppSlug": "padova",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2010,6 +2131,7 @@
     {
      "r": "W",
      "opp": "Empoli",
+     "oppSlug": "empoli",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -2018,6 +2140,7 @@
     {
      "r": "W",
      "opp": "Mantova",
+     "oppSlug": "mantova",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -2076,6 +2199,7 @@
     {
      "r": "W",
      "opp": "Padova",
+     "oppSlug": "padova",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -2084,6 +2208,7 @@
     {
      "r": "D",
      "opp": "Cesena",
+     "oppSlug": "cesena",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -2092,6 +2217,7 @@
     {
      "r": "D",
      "opp": "Virtus Entella",
+     "oppSlug": "virtus-entella",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -2100,6 +2226,7 @@
     {
      "r": "D",
      "opp": "Arezzo",
+     "oppSlug": "arezzo",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -2108,6 +2235,7 @@
     {
      "r": "L",
      "opp": "Pisa",
+     "oppSlug": "pisa",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -2166,6 +2294,7 @@
     {
      "r": "W",
      "opp": "Arezzo",
+     "oppSlug": "arezzo",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -2174,6 +2303,7 @@
     {
      "r": "L",
      "opp": "Benevento",
+     "oppSlug": "benevento",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -2182,6 +2312,7 @@
     {
      "r": "W",
      "opp": "Vicenza",
+     "oppSlug": "vicenza",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2190,6 +2321,7 @@
     {
      "r": "L",
      "opp": "Modena",
+     "oppSlug": "modena",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -2198,6 +2330,7 @@
     {
      "r": "D",
      "opp": "Catanzaro",
+     "oppSlug": "catanzaro",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -2256,6 +2389,7 @@
     {
      "r": "W",
      "opp": "Juve Stabia",
+     "oppSlug": "juve-stabia",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -2264,6 +2398,7 @@
     {
      "r": "L",
      "opp": "Virtus Entella",
+     "oppSlug": "virtus-entella",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -2272,6 +2407,7 @@
     {
      "r": "D",
      "opp": "Mantova",
+     "oppSlug": "mantova",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -2280,6 +2416,7 @@
     {
      "r": "W",
      "opp": "Vicenza",
+     "oppSlug": "vicenza",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -2288,6 +2425,7 @@
     {
      "r": "W",
      "opp": "Cremonese",
+     "oppSlug": "cremonese",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -2346,6 +2484,7 @@
     {
      "r": "L",
      "opp": "Avellino",
+     "oppSlug": "avellino",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -2354,6 +2493,7 @@
     {
      "r": "D",
      "opp": "Südtirol",
+     "oppSlug": "sudtirol",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2362,6 +2502,7 @@
     {
      "r": "W",
      "opp": "Empoli",
+     "oppSlug": "empoli",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -2370,6 +2511,7 @@
     {
      "r": "W",
      "opp": "Hellas Verona",
+     "oppSlug": "verona",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -2378,6 +2520,7 @@
     {
      "r": "L",
      "opp": "Carrarese",
+     "oppSlug": "carrarese",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -2436,6 +2579,7 @@
     {
      "r": "L",
      "opp": "Südtirol",
+     "oppSlug": "sudtirol",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -2444,6 +2588,7 @@
     {
      "r": "W",
      "opp": "Carrarese",
+     "oppSlug": "carrarese",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -2452,6 +2597,7 @@
     {
      "r": "L",
      "opp": "Sampdoria",
+     "oppSlug": "sampdoria",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -2460,6 +2606,7 @@
     {
      "r": "L",
      "opp": "Mantova",
+     "oppSlug": "mantova",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -2468,6 +2615,7 @@
     {
      "r": "D",
      "opp": "Hellas Verona",
+     "oppSlug": "verona",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -2526,6 +2674,7 @@
     {
      "r": "D",
      "opp": "Cesena",
+     "oppSlug": "cesena",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2534,6 +2683,7 @@
     {
      "r": "W",
      "opp": "Sampdoria",
+     "oppSlug": "sampdoria",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -2542,6 +2692,7 @@
     {
      "r": "D",
      "opp": "Pisa",
+     "oppSlug": "pisa",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -2550,6 +2701,7 @@
     {
      "r": "W",
      "opp": "Catanzaro",
+     "oppSlug": "catanzaro",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -2558,6 +2710,7 @@
     {
      "r": "L",
      "opp": "Palermo",
+     "oppSlug": "palermo",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -2616,6 +2769,7 @@
     {
      "r": "L",
      "opp": "Pisa",
+     "oppSlug": "pisa",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -2624,6 +2778,7 @@
     {
      "r": "D",
      "opp": "Vicenza",
+     "oppSlug": "vicenza",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2632,6 +2787,7 @@
     {
      "r": "D",
      "opp": "Cesena",
+     "oppSlug": "cesena",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2640,6 +2796,7 @@
     {
      "r": "D",
      "opp": "Virtus Entella",
+     "oppSlug": "virtus-entella",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2648,6 +2805,7 @@
     {
      "r": "W",
      "opp": "Südtirol",
+     "oppSlug": "sudtirol",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -2706,6 +2864,7 @@
     {
      "r": "W",
      "opp": "Carrarese",
+     "oppSlug": "carrarese",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -2714,6 +2873,7 @@
     {
      "r": "L",
      "opp": "Arezzo",
+     "oppSlug": "arezzo",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -2722,6 +2882,7 @@
     {
      "r": "L",
      "opp": "Modena",
+     "oppSlug": "modena",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -2730,6 +2891,7 @@
     {
      "r": "L",
      "opp": "Palermo",
+     "oppSlug": "palermo",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -2738,6 +2900,7 @@
     {
      "r": "D",
      "opp": "Ascoli",
+     "oppSlug": "ascoli",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2796,6 +2959,7 @@
     {
      "r": "W",
      "opp": "Modena",
+     "oppSlug": "modena",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -2804,6 +2968,7 @@
     {
      "r": "D",
      "opp": "Palermo",
+     "oppSlug": "palermo",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2812,6 +2977,7 @@
     {
      "r": "L",
      "opp": "Ascoli",
+     "oppSlug": "ascoli",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -2820,6 +2986,7 @@
     {
      "r": "W",
      "opp": "Sampdoria",
+     "oppSlug": "sampdoria",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -2828,6 +2995,7 @@
     {
      "r": "D",
      "opp": "Cesena",
+     "oppSlug": "cesena",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -2886,6 +3054,7 @@
     {
      "r": "W",
      "opp": "Catanzaro",
+     "oppSlug": "catanzaro",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -2894,6 +3063,7 @@
     {
      "r": "D",
      "opp": "Modena",
+     "oppSlug": "modena",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -2902,6 +3072,7 @@
     {
      "r": "W",
      "opp": "Arezzo",
+     "oppSlug": "arezzo",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -2910,6 +3081,7 @@
     {
      "r": "D",
      "opp": "Ascoli",
+     "oppSlug": "ascoli",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -2918,6 +3090,7 @@
     {
      "r": "L",
      "opp": "Juve Stabia",
+     "oppSlug": "juve-stabia",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -2976,6 +3149,7 @@
     {
      "r": "W",
      "opp": "Benevento",
+     "oppSlug": "benevento",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -2984,6 +3158,7 @@
     {
      "r": "L",
      "opp": "Padova",
+     "oppSlug": "padova",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -2992,6 +3167,7 @@
     {
      "r": "W",
      "opp": "Avellino",
+     "oppSlug": "avellino",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -3000,6 +3176,7 @@
     {
      "r": "D",
      "opp": "Südtirol",
+     "oppSlug": "sudtirol",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -3008,6 +3185,7 @@
     {
      "r": "D",
      "opp": "Empoli",
+     "oppSlug": "empoli",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -3066,6 +3244,7 @@
     {
      "r": "D",
      "opp": "Vicenza",
+     "oppSlug": "vicenza",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -3074,6 +3253,7 @@
     {
      "r": "W",
      "opp": "Pisa",
+     "oppSlug": "pisa",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -3082,6 +3262,7 @@
     {
      "r": "D",
      "opp": "Cremonese",
+     "oppSlug": "cremonese",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -3090,6 +3271,7 @@
     {
      "r": "D",
      "opp": "Juve Stabia",
+     "oppSlug": "juve-stabia",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -3098,6 +3280,7 @@
     {
      "r": "W",
      "opp": "Padova",
+     "oppSlug": "padova",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -3156,6 +3339,7 @@
     {
      "r": "L",
      "opp": "Ascoli",
+     "oppSlug": "ascoli",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -3164,6 +3348,7 @@
     {
      "r": "W",
      "opp": "Hellas Verona",
+     "oppSlug": "verona",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -3172,6 +3357,7 @@
     {
      "r": "W",
      "opp": "Carrarese",
+     "oppSlug": "carrarese",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -3180,6 +3366,7 @@
     {
      "r": "W",
      "opp": "Cesena",
+     "oppSlug": "cesena",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -3188,6 +3375,7 @@
     {
      "r": "D",
      "opp": "Vicenza",
+     "oppSlug": "vicenza",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -3246,6 +3434,7 @@
     {
      "r": "L",
      "opp": "Empoli",
+     "oppSlug": "empoli",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -3254,6 +3443,7 @@
     {
      "r": "L",
      "opp": "Catanzaro",
+     "oppSlug": "catanzaro",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -3262,6 +3452,7 @@
     {
      "r": "L",
      "opp": "Benevento",
+     "oppSlug": "benevento",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -3270,6 +3461,7 @@
     {
      "r": "W",
      "opp": "Padova",
+     "oppSlug": "padova",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -3278,6 +3470,7 @@
     {
      "r": "W",
      "opp": "Modena",
+     "oppSlug": "modena",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -3336,6 +3529,7 @@
     {
      "r": "D",
      "opp": "Mantova",
+     "oppSlug": "mantova",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -3344,6 +3538,7 @@
     {
      "r": "D",
      "opp": "Cremonese",
+     "oppSlug": "cremonese",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -3352,6 +3547,7 @@
     {
      "r": "D",
      "opp": "Juve Stabia",
+     "oppSlug": "juve-stabia",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -3360,6 +3556,7 @@
     {
      "r": "L",
      "opp": "Benevento",
+     "oppSlug": "benevento",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -3368,6 +3565,7 @@
     {
      "r": "D",
      "opp": "Avellino",
+     "oppSlug": "avellino",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -3426,6 +3624,7 @@
     {
      "r": "L",
      "opp": "Hellas Verona",
+     "oppSlug": "verona",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -3434,6 +3633,7 @@
     {
      "r": "W",
      "opp": "Empoli",
+     "oppSlug": "empoli",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -3442,6 +3642,7 @@
     {
      "r": "L",
      "opp": "Südtirol",
+     "oppSlug": "sudtirol",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -3450,6 +3651,7 @@
     {
      "r": "D",
      "opp": "Cremonese",
+     "oppSlug": "cremonese",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -3458,6 +3660,7 @@
     {
      "r": "W",
      "opp": "Sampdoria",
+     "oppSlug": "sampdoria",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -3516,6 +3719,7 @@
     {
      "r": "L",
      "opp": "Cremonese",
+     "oppSlug": "cremonese",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -3524,6 +3728,7 @@
     {
      "r": "W",
      "opp": "Ascoli",
+     "oppSlug": "ascoli",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -3532,6 +3737,7 @@
     {
      "r": "L",
      "opp": "Palermo",
+     "oppSlug": "palermo",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -3540,6 +3746,7 @@
     {
      "r": "L",
      "opp": "Carrarese",
+     "oppSlug": "carrarese",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -3548,6 +3755,7 @@
     {
      "r": "L",
      "opp": "Virtus Entella",
+     "oppSlug": "virtus-entella",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -3606,6 +3814,7 @@
     {
      "r": "L",
      "opp": "Palermo",
+     "oppSlug": "palermo",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -3614,6 +3823,7 @@
     {
      "r": "L",
      "opp": "Mantova",
+     "oppSlug": "mantova",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -3622,6 +3832,7 @@
     {
      "r": "W",
      "opp": "Catanzaro",
+     "oppSlug": "catanzaro",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -3630,6 +3841,7 @@
     {
      "r": "L",
      "opp": "Avellino",
+     "oppSlug": "avellino",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -3638,6 +3850,7 @@
     {
      "r": "L",
      "opp": "Arezzo",
+     "oppSlug": "arezzo",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -3696,6 +3909,7 @@
     {
      "r": "D",
      "opp": "Virtus Entella",
+     "oppSlug": "virtus-entella",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -3704,6 +3918,7 @@
     {
      "r": "D",
      "opp": "Juve Stabia",
+     "oppSlug": "juve-stabia",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -3712,6 +3927,7 @@
     {
      "r": "L",
      "opp": "Hellas Verona",
+     "oppSlug": "verona",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -3720,6 +3936,7 @@
     {
      "r": "L",
      "opp": "Pisa",
+     "oppSlug": "pisa",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -3728,6 +3945,7 @@
     {
      "r": "D",
      "opp": "Benevento",
+     "oppSlug": "benevento",
      "gf": 2,
      "ga": 2,
      "ha": "a",

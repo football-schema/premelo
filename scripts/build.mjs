@@ -72,7 +72,7 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   const clubs = [...divisions].map(([club, div]) => {
     const h = history.get(club), played = h.filter((x) => x[0] >= seasonStart).length;
     // form: the last five league matches only (a league table's readers take it as league form), oldest first
-    const form = h.filter((x) => league.divs.includes(x[6])).slice(-5).map((x) => ({ r: x[3] > x[4] ? 'W' : x[3] === x[4] ? 'D' : 'L', opp: display(x[2]), gf: x[3], ga: x[4], ha: x[5], date: x[0] }));
+    const form = h.filter((x) => league.divs.includes(x[6])).slice(-5).map((x) => ({ r: x[3] > x[4] ? 'W' : x[3] === x[4] ? 'D' : 'L', opp: display(x[2]), oppSlug: slug(x[2]), gf: x[3], ga: x[4], ha: x[5], date: x[0] }));
     const before = ratingOn(h, monthAgo) ?? h[0][1];
     return { club, name: display(club), slug: slug(club), div: div === top ? 'top' : 'second', elo: Math.round(ratings.get(club)), change30: Math.round(ratings.get(club) - before), played, form, spark: h.slice(-20).map((x) => x[1]) };
   }).sort((a, b) => b.elo - a.elo);
@@ -102,7 +102,7 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   // each top-division club's next match, for the grey chip ahead of its form
   for (const c of clubs) {
     const f = preds.find((x) => x.home === c.club || x.away === c.club);
-    if (f) c.next = { opp: f.home === c.club ? f.awayName : f.homeName, ha: f.home === c.club ? 'h' : 'a', kickoff: f.kickoff, win: f.home === c.club ? f.H : f.A, draw: f.D };
+    if (f) c.next = { opp: f.home === c.club ? f.awayName : f.homeName, oppSlug: f.home === c.club ? f.awaySlug : f.homeSlug, ha: f.home === c.club ? 'h' : 'a', kickoff: f.kickoff, win: f.home === c.club ? f.H : f.A, draw: f.D };
   }
   // each division's table this season and, where its remaining matches are known (PLACES), where its clubs will finish
   const projected = {};

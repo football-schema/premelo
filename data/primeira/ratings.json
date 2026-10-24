@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:42.283Z",
+ "updated": "2026-10-24T14:54:04.094Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-10-19",
@@ -55,6 +55,7 @@
     {
      "r": "W",
      "opp": "Rio Ave",
+     "oppSlug": "rio-ave",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -63,6 +64,7 @@
     {
      "r": "W",
      "opp": "Nacional",
+     "oppSlug": "nacional",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -71,6 +73,7 @@
     {
      "r": "D",
      "opp": "Famalicão",
+     "oppSlug": "famalicao",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -79,6 +82,7 @@
     {
      "r": "D",
      "opp": "Arouca",
+     "oppSlug": "arouca",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -87,6 +91,7 @@
     {
      "r": "W",
      "opp": "Braga",
+     "oppSlug": "sp-braga",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -118,6 +123,7 @@
    "rank": 1,
    "next": {
     "opp": "Academico Viseu",
+    "oppSlug": "academico-viseu",
     "ha": "h",
     "kickoff": "2026-10-25T20:30:00.000Z",
     "win": 0.894,
@@ -152,6 +158,7 @@
     {
      "r": "W",
      "opp": "Marítimo",
+     "oppSlug": "maritimo",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -160,6 +167,7 @@
     {
      "r": "W",
      "opp": "Moreirense",
+     "oppSlug": "moreirense",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -168,6 +176,7 @@
     {
      "r": "W",
      "opp": "Gil Vicente",
+     "oppSlug": "gil-vicente",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -176,6 +185,7 @@
     {
      "r": "L",
      "opp": "Porto",
+     "oppSlug": "porto",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -184,6 +194,7 @@
     {
      "r": "W",
      "opp": "Vitória SC",
+     "oppSlug": "guimaraes",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -215,6 +226,7 @@
    "rank": 2,
    "next": {
     "opp": "Santa Clara",
+    "oppSlug": "santa-clara",
     "ha": "a",
     "kickoff": "2026-10-26T18:45:00.000Z",
     "win": 0.702,
@@ -249,6 +261,7 @@
     {
      "r": "W",
      "opp": "Academico Viseu",
+     "oppSlug": "academico-viseu",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -257,6 +270,7 @@
     {
      "r": "W",
      "opp": "Moreirense",
+     "oppSlug": "moreirense",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -265,6 +279,7 @@
     {
      "r": "W",
      "opp": "Casa Pia",
+     "oppSlug": "casa-pia",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -273,6 +288,7 @@
     {
      "r": "W",
      "opp": "Benfica",
+     "oppSlug": "benfica",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -281,6 +297,7 @@
     {
      "r": "W",
      "opp": "Marítimo",
+     "oppSlug": "maritimo",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -312,6 +329,7 @@
    "rank": 3,
    "next": {
     "opp": "Gil Vicente",
+    "oppSlug": "gil-vicente",
     "ha": "a",
     "kickoff": "2026-10-24T19:30:00.000Z",
     "win": 0.619,
@@ -346,6 +364,7 @@
     {
      "r": "L",
      "opp": "Estrela da Amadora",
+     "oppSlug": "estrela",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -354,6 +373,7 @@
     {
      "r": "W",
      "opp": "Estoril",
+     "oppSlug": "estoril",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -362,6 +382,7 @@
     {
      "r": "D",
      "opp": "Santa Clara",
+     "oppSlug": "santa-clara",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -370,6 +391,7 @@
     {
      "r": "L",
      "opp": "Sporting CP",
+     "oppSlug": "sp-lisbon",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -378,6 +400,7 @@
     {
      "r": "L",
      "opp": "Gil Vicente",
+     "oppSlug": "gil-vicente",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -409,6 +432,7 @@
    "rank": 4,
    "next": {
     "opp": "Nacional",
+    "oppSlug": "nacional",
     "ha": "a",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.61,
@@ -443,6 +467,7 @@
     {
      "r": "D",
      "opp": "Gil Vicente",
+     "oppSlug": "gil-vicente",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -451,6 +476,7 @@
     {
      "r": "D",
      "opp": "Estrela da Amadora",
+     "oppSlug": "estrela",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -459,6 +485,7 @@
     {
      "r": "D",
      "opp": "Sporting CP",
+     "oppSlug": "sp-lisbon",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -467,6 +494,7 @@
     {
      "r": "W",
      "opp": "Nacional",
+     "oppSlug": "nacional",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -475,6 +503,7 @@
     {
      "r": "L",
      "opp": "Alverca",
+     "oppSlug": "alverca",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -506,6 +535,7 @@
    "rank": 5,
    "next": {
     "opp": "Rio Ave",
+    "oppSlug": "rio-ave",
     "ha": "a",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.436,
@@ -540,6 +570,7 @@
     {
      "r": "L",
      "opp": "Braga",
+     "oppSlug": "sp-braga",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -548,6 +579,7 @@
     {
      "r": "D",
      "opp": "Casa Pia",
+     "oppSlug": "casa-pia",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -556,6 +588,7 @@
     {
      "r": "L",
      "opp": "Academico Viseu",
+     "oppSlug": "academico-viseu",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -564,6 +597,7 @@
     {
      "r": "D",
      "opp": "Moreirense",
+     "oppSlug": "moreirense",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -572,6 +606,7 @@
     {
      "r": "L",
      "opp": "Benfica",
+     "oppSlug": "benfica",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -630,6 +665,7 @@
     {
      "r": "L",
      "opp": "Academico Viseu",
+     "oppSlug": "academico-viseu",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -638,6 +674,7 @@
     {
      "r": "L",
      "opp": "Benfica",
+     "oppSlug": "benfica",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -646,6 +683,7 @@
     {
      "r": "D",
      "opp": "Marítimo",
+     "oppSlug": "maritimo",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -654,6 +692,7 @@
     {
      "r": "W",
      "opp": "Moreirense",
+     "oppSlug": "moreirense",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -662,6 +701,7 @@
     {
      "r": "W",
      "opp": "Braga",
+     "oppSlug": "sp-braga",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -693,6 +733,7 @@
    "rank": 7,
    "next": {
     "opp": "Porto",
+    "oppSlug": "porto",
     "ha": "h",
     "kickoff": "2026-10-24T19:30:00.000Z",
     "win": 0.14,
@@ -727,6 +768,7 @@
     {
      "r": "W",
      "opp": "Marítimo",
+     "oppSlug": "maritimo",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -735,6 +777,7 @@
     {
      "r": "D",
      "opp": "Estoril",
+     "oppSlug": "estoril",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -743,6 +786,7 @@
     {
      "r": "L",
      "opp": "Santa Clara",
+     "oppSlug": "santa-clara",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -751,6 +795,7 @@
     {
      "r": "D",
      "opp": "Sporting CP",
+     "oppSlug": "sp-lisbon",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -759,6 +804,7 @@
     {
      "r": "W",
      "opp": "Estrela da Amadora",
+     "oppSlug": "estrela",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -790,6 +836,7 @@
    "rank": 8,
    "next": {
     "opp": "Alverca",
+    "oppSlug": "alverca",
     "ha": "a",
     "kickoff": "2026-10-24T17:00:00.000Z",
     "win": 0.367,
@@ -824,6 +871,7 @@
     {
      "r": "D",
      "opp": "Alverca",
+     "oppSlug": "alverca",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -832,6 +880,7 @@
     {
      "r": "W",
      "opp": "Rio Ave",
+     "oppSlug": "rio-ave",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -840,6 +889,7 @@
     {
      "r": "W",
      "opp": "Arouca",
+     "oppSlug": "arouca",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -848,6 +898,7 @@
     {
      "r": "D",
      "opp": "Braga",
+     "oppSlug": "sp-braga",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -856,6 +907,7 @@
     {
      "r": "W",
      "opp": "Casa Pia",
+     "oppSlug": "casa-pia",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -887,6 +939,7 @@
    "rank": 9,
    "next": {
     "opp": "Benfica",
+    "oppSlug": "benfica",
     "ha": "h",
     "kickoff": "2026-10-26T18:45:00.000Z",
     "win": 0.102,
@@ -921,6 +974,7 @@
     {
      "r": "L",
      "opp": "Porto",
+     "oppSlug": "porto",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -929,6 +983,7 @@
     {
      "r": "L",
      "opp": "Benfica",
+     "oppSlug": "benfica",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -937,6 +992,7 @@
     {
      "r": "W",
      "opp": "Marítimo",
+     "oppSlug": "maritimo",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -945,6 +1001,7 @@
     {
      "r": "D",
      "opp": "Vitória SC",
+     "oppSlug": "guimaraes",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -953,6 +1010,7 @@
     {
      "r": "L",
      "opp": "Gil Vicente",
+     "oppSlug": "gil-vicente",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -984,6 +1042,7 @@
    "rank": 10,
    "next": {
     "opp": "Estoril",
+    "oppSlug": "estoril",
     "ha": "a",
     "kickoff": "2026-10-25T15:30:00.000Z",
     "win": 0.315,
@@ -1018,6 +1077,7 @@
     {
      "r": "D",
      "opp": "Santa Clara",
+     "oppSlug": "santa-clara",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1026,6 +1086,7 @@
     {
      "r": "L",
      "opp": "Braga",
+     "oppSlug": "sp-braga",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1034,6 +1095,7 @@
     {
      "r": "W",
      "opp": "Nacional",
+     "oppSlug": "nacional",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -1042,6 +1104,7 @@
     {
      "r": "W",
      "opp": "Rio Ave",
+     "oppSlug": "rio-ave",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1050,6 +1113,7 @@
     {
      "r": "W",
      "opp": "Famalicão",
+     "oppSlug": "famalicao",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -1081,6 +1145,7 @@
    "rank": 11,
    "next": {
     "opp": "Arouca",
+    "oppSlug": "arouca",
     "ha": "h",
     "kickoff": "2026-10-24T17:00:00.000Z",
     "win": 0.343,
@@ -1115,6 +1180,7 @@
     {
      "r": "L",
      "opp": "Benfica",
+     "oppSlug": "benfica",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1123,6 +1189,7 @@
     {
      "r": "D",
      "opp": "Arouca",
+     "oppSlug": "arouca",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1131,6 +1198,7 @@
     {
      "r": "L",
      "opp": "Braga",
+     "oppSlug": "sp-braga",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1139,6 +1207,7 @@
     {
      "r": "L",
      "opp": "Casa Pia",
+     "oppSlug": "casa-pia",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1147,6 +1216,7 @@
     {
      "r": "L",
      "opp": "Academico Viseu",
+     "oppSlug": "academico-viseu",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1178,6 +1248,7 @@
    "rank": 12,
    "next": {
     "opp": "Moreirense",
+    "oppSlug": "moreirense",
     "ha": "h",
     "kickoff": "2026-10-25T15:30:00.000Z",
     "win": 0.399,
@@ -1212,6 +1283,7 @@
     {
      "r": "L",
      "opp": "Sporting CP",
+     "oppSlug": "sp-lisbon",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1220,6 +1292,7 @@
     {
      "r": "L",
      "opp": "Santa Clara",
+     "oppSlug": "santa-clara",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1228,6 +1301,7 @@
     {
      "r": "D",
      "opp": "Estrela da Amadora",
+     "oppSlug": "estrela",
      "gf": 3,
      "ga": 3,
      "ha": "h",
@@ -1236,6 +1310,7 @@
     {
      "r": "L",
      "opp": "Alverca",
+     "oppSlug": "alverca",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1244,6 +1319,7 @@
     {
      "r": "W",
      "opp": "Nacional",
+     "oppSlug": "nacional",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1275,6 +1351,7 @@
    "rank": 13,
    "next": {
     "opp": "Famalicão",
+    "oppSlug": "famalicao",
     "ha": "h",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.274,
@@ -1309,6 +1386,7 @@
     {
      "r": "D",
      "opp": "Famalicão",
+     "oppSlug": "famalicao",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1317,6 +1395,7 @@
     {
      "r": "W",
      "opp": "Braga",
+     "oppSlug": "sp-braga",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1325,6 +1404,7 @@
     {
      "r": "D",
      "opp": "Rio Ave",
+     "oppSlug": "rio-ave",
      "gf": 3,
      "ga": 3,
      "ha": "a",
@@ -1333,6 +1413,7 @@
     {
      "r": "L",
      "opp": "Academico Viseu",
+     "oppSlug": "academico-viseu",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1341,6 +1422,7 @@
     {
      "r": "L",
      "opp": "Arouca",
+     "oppSlug": "arouca",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1372,6 +1454,7 @@
    "rank": 14,
    "next": {
     "opp": "Casa Pia",
+    "oppSlug": "casa-pia",
     "ha": "h",
     "kickoff": "2026-10-24T14:30:00.000Z",
     "win": 0.425,
@@ -1406,6 +1489,7 @@
     {
      "r": "L",
      "opp": "Moreirense",
+     "oppSlug": "moreirense",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1414,6 +1498,7 @@
     {
      "r": "D",
      "opp": "Vitória SC",
+     "oppSlug": "guimaraes",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1422,6 +1507,7 @@
     {
      "r": "L",
      "opp": "Porto",
+     "oppSlug": "porto",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -1430,6 +1516,7 @@
     {
      "r": "W",
      "opp": "Estoril",
+     "oppSlug": "estoril",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -1438,6 +1525,7 @@
     {
      "r": "L",
      "opp": "Santa Clara",
+     "oppSlug": "santa-clara",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1469,6 +1557,7 @@
    "rank": 15,
    "next": {
     "opp": "Estrela da Amadora",
+    "oppSlug": "estrela",
     "ha": "a",
     "kickoff": "2026-10-24T14:30:00.000Z",
     "win": 0.285,
@@ -1503,6 +1592,7 @@
     {
      "r": "L",
      "opp": "Estrela da Amadora",
+     "oppSlug": "estrela",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -1511,6 +1601,7 @@
     {
      "r": "L",
      "opp": "Sporting CP",
+     "oppSlug": "sp-lisbon",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1519,6 +1610,7 @@
     {
      "r": "L",
      "opp": "Alverca",
+     "oppSlug": "alverca",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -1527,6 +1619,7 @@
     {
      "r": "L",
      "opp": "Famalicão",
+     "oppSlug": "famalicao",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1535,6 +1628,7 @@
     {
      "r": "L",
      "opp": "Rio Ave",
+     "oppSlug": "rio-ave",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1566,6 +1660,7 @@
    "rank": 16,
    "next": {
     "opp": "Braga",
+    "oppSlug": "sp-braga",
     "ha": "h",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.156,
@@ -1600,6 +1695,7 @@
     {
      "r": "L",
      "opp": "Porto",
+     "oppSlug": "porto",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -1608,6 +1704,7 @@
     {
      "r": "W",
      "opp": "Gil Vicente",
+     "oppSlug": "gil-vicente",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -1616,6 +1713,7 @@
     {
      "r": "W",
      "opp": "Vitória SC",
+     "oppSlug": "guimaraes",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1624,6 +1722,7 @@
     {
      "r": "W",
      "opp": "Estrela da Amadora",
+     "oppSlug": "estrela",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -1632,6 +1731,7 @@
     {
      "r": "W",
      "opp": "Estoril",
+     "oppSlug": "estoril",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1651,6 +1751,7 @@
    "rank": 17,
    "next": {
     "opp": "Sporting CP",
+    "oppSlug": "sp-lisbon",
     "ha": "a",
     "kickoff": "2026-10-25T20:30:00.000Z",
     "win": 0.027,
@@ -1685,6 +1786,7 @@
     {
      "r": "L",
      "opp": "Arouca",
+     "oppSlug": "arouca",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1693,6 +1795,7 @@
     {
      "r": "L",
      "opp": "Benfica",
+     "oppSlug": "benfica",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -1701,6 +1804,7 @@
     {
      "r": "L",
      "opp": "Moreirense",
+     "oppSlug": "moreirense",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1709,6 +1813,7 @@
     {
      "r": "D",
      "opp": "Gil Vicente",
+     "oppSlug": "gil-vicente",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1717,6 +1822,7 @@
     {
      "r": "L",
      "opp": "Porto",
+     "oppSlug": "porto",
      "gf": 1,
      "ga": 2,
      "ha": "h",

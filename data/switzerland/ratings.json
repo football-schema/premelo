@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:43.571Z",
+ "updated": "2026-10-24T14:54:05.379Z",
  "league": "switzerland",
  "name": "Swiss Super League",
  "through": "2026-10-11",
@@ -47,6 +47,7 @@
     {
      "r": "W",
      "opp": "Basel",
+     "oppSlug": "basel",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -55,6 +56,7 @@
     {
      "r": "D",
      "opp": "Young Boys",
+     "oppSlug": "young-boys",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -63,6 +65,7 @@
     {
      "r": "W",
      "opp": "St. Gallen",
+     "oppSlug": "st-gallen",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -71,6 +74,7 @@
     {
      "r": "W",
      "opp": "Lausanne",
+     "oppSlug": "lausanne",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -79,6 +83,7 @@
     {
      "r": "W",
      "opp": "Luzern",
+     "oppSlug": "luzern",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -110,6 +115,7 @@
    "rank": 1,
    "next": {
     "opp": "Thun",
+    "oppSlug": "thun",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.544,
@@ -138,6 +144,7 @@
     {
      "r": "W",
      "opp": "Zurich",
+     "oppSlug": "zurich",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -146,6 +153,7 @@
     {
      "r": "D",
      "opp": "Luzern",
+     "oppSlug": "luzern",
      "gf": 3,
      "ga": 3,
      "ha": "h",
@@ -154,6 +162,7 @@
     {
      "r": "D",
      "opp": "Lugano",
+     "oppSlug": "lugano",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -162,6 +171,7 @@
     {
      "r": "W",
      "opp": "Servette",
+     "oppSlug": "servette",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -170,6 +180,7 @@
     {
      "r": "W",
      "opp": "Grasshoppers",
+     "oppSlug": "grasshoppers",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -201,6 +212,7 @@
    "rank": 2,
    "next": {
     "opp": "St. Gallen",
+    "oppSlug": "st-gallen",
     "ha": "h",
     "kickoff": "2026-10-24T18:30:00.000Z",
     "win": 0.486,
@@ -229,6 +241,7 @@
     {
      "r": "W",
      "opp": "Thun",
+     "oppSlug": "thun",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -237,6 +250,7 @@
     {
      "r": "W",
      "opp": "St. Gallen",
+     "oppSlug": "st-gallen",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -245,6 +259,7 @@
     {
      "r": "W",
      "opp": "Grasshoppers",
+     "oppSlug": "grasshoppers",
      "gf": 5,
      "ga": 2,
      "ha": "a",
@@ -253,6 +268,7 @@
     {
      "r": "D",
      "opp": "Zurich",
+     "oppSlug": "zurich",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -261,6 +277,7 @@
     {
      "r": "L",
      "opp": "Servette",
+     "oppSlug": "servette",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -292,6 +309,7 @@
    "rank": 3,
    "next": {
     "opp": "Lausanne",
+    "oppSlug": "lausanne",
     "ha": "h",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.594,
@@ -320,6 +338,7 @@
     {
      "r": "W",
      "opp": "Servette",
+     "oppSlug": "servette",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -328,6 +347,7 @@
     {
      "r": "L",
      "opp": "Sion",
+     "oppSlug": "sion",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -336,6 +356,7 @@
     {
      "r": "L",
      "opp": "Lugano",
+     "oppSlug": "lugano",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -344,6 +365,7 @@
     {
      "r": "W",
      "opp": "Basel",
+     "oppSlug": "basel",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -352,6 +374,7 @@
     {
      "r": "W",
      "opp": "Lausanne",
+     "oppSlug": "lausanne",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -383,6 +406,7 @@
    "rank": 4,
    "next": {
     "opp": "Young Boys",
+    "oppSlug": "young-boys",
     "ha": "a",
     "kickoff": "2026-10-24T18:30:00.000Z",
     "win": 0.261,
@@ -411,6 +435,7 @@
     {
      "r": "L",
      "opp": "St. Gallen",
+     "oppSlug": "st-gallen",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -419,6 +444,7 @@
     {
      "r": "W",
      "opp": "Lausanne",
+     "oppSlug": "lausanne",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -427,6 +453,7 @@
     {
      "r": "W",
      "opp": "Thun",
+     "oppSlug": "thun",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -435,6 +462,7 @@
     {
      "r": "L",
      "opp": "Young Boys",
+     "oppSlug": "young-boys",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -443,6 +471,7 @@
     {
      "r": "W",
      "opp": "Sion",
+     "oppSlug": "sion",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -474,6 +503,7 @@
    "rank": 5,
    "next": {
     "opp": "Vaduz",
+    "oppSlug": "vaduz",
     "ha": "h",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.623,
@@ -502,6 +532,7 @@
     {
      "r": "W",
      "opp": "Vaduz",
+     "oppSlug": "vaduz",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -510,6 +541,7 @@
     {
      "r": "D",
      "opp": "Young Boys",
+     "oppSlug": "young-boys",
      "gf": 3,
      "ga": 3,
      "ha": "a",
@@ -518,6 +550,7 @@
     {
      "r": "L",
      "opp": "Basel",
+     "oppSlug": "basel",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -526,6 +559,7 @@
     {
      "r": "W",
      "opp": "Grasshoppers",
+     "oppSlug": "grasshoppers",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -534,6 +568,7 @@
     {
      "r": "L",
      "opp": "Lugano",
+     "oppSlug": "lugano",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -565,6 +600,7 @@
    "rank": 6,
    "next": {
     "opp": "Zurich",
+    "oppSlug": "zurich",
     "ha": "a",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.376,
@@ -593,6 +629,7 @@
     {
      "r": "L",
      "opp": "Sion",
+     "oppSlug": "sion",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -601,6 +638,7 @@
     {
      "r": "L",
      "opp": "Lugano",
+     "oppSlug": "lugano",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -609,6 +647,7 @@
     {
      "r": "W",
      "opp": "Luzern",
+     "oppSlug": "luzern",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -617,6 +656,7 @@
     {
      "r": "L",
      "opp": "St. Gallen",
+     "oppSlug": "st-gallen",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -625,6 +665,7 @@
     {
      "r": "L",
      "opp": "Vaduz",
+     "oppSlug": "vaduz",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -656,6 +697,7 @@
    "rank": 7,
    "next": {
     "opp": "Grasshoppers",
+    "oppSlug": "grasshoppers",
     "ha": "h",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.558,
@@ -684,6 +726,7 @@
     {
      "r": "L",
      "opp": "Sion",
+     "oppSlug": "sion",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -692,6 +735,7 @@
     {
      "r": "L",
      "opp": "Grasshoppers",
+     "oppSlug": "grasshoppers",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -700,6 +744,7 @@
     {
      "r": "L",
      "opp": "Servette",
+     "oppSlug": "servette",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -708,6 +753,7 @@
     {
      "r": "W",
      "opp": "Vaduz",
+     "oppSlug": "vaduz",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -716,6 +762,7 @@
     {
      "r": "L",
      "opp": "Zurich",
+     "oppSlug": "zurich",
      "gf": 2,
      "ga": 4,
      "ha": "a",
@@ -747,6 +794,7 @@
    "rank": 8,
    "next": {
     "opp": "Lugano",
+    "oppSlug": "lugano",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.214,
@@ -775,6 +823,7 @@
     {
      "r": "L",
      "opp": "Young Boys",
+     "oppSlug": "young-boys",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -783,6 +832,7 @@
     {
      "r": "D",
      "opp": "Grasshoppers",
+     "oppSlug": "grasshoppers",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -791,6 +841,7 @@
     {
      "r": "W",
      "opp": "Vaduz",
+     "oppSlug": "vaduz",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -799,6 +850,7 @@
     {
      "r": "D",
      "opp": "Sion",
+     "oppSlug": "sion",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -807,6 +859,7 @@
     {
      "r": "W",
      "opp": "Thun",
+     "oppSlug": "thun",
      "gf": 4,
      "ga": 2,
      "ha": "h",
@@ -838,6 +891,7 @@
    "rank": 9,
    "next": {
     "opp": "Luzern",
+    "oppSlug": "luzern",
     "ha": "h",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.357,
@@ -866,6 +920,7 @@
     {
      "r": "D",
      "opp": "Thun",
+     "oppSlug": "thun",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -874,6 +929,7 @@
     {
      "r": "L",
      "opp": "Vaduz",
+     "oppSlug": "vaduz",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -882,6 +938,7 @@
     {
      "r": "L",
      "opp": "Servette",
+     "oppSlug": "servette",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -890,6 +947,7 @@
     {
      "r": "L",
      "opp": "Lugano",
+     "oppSlug": "lugano",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -898,6 +956,7 @@
     {
      "r": "L",
      "opp": "St. Gallen",
+     "oppSlug": "st-gallen",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -929,6 +988,7 @@
    "rank": 10,
    "next": {
     "opp": "Sion",
+    "oppSlug": "sion",
     "ha": "a",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.177,
@@ -957,6 +1017,7 @@
     {
      "r": "D",
      "opp": "Zurich",
+     "oppSlug": "zurich",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -965,6 +1026,7 @@
     {
      "r": "W",
      "opp": "Thun",
+     "oppSlug": "thun",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -973,6 +1035,7 @@
     {
      "r": "L",
      "opp": "Sion",
+     "oppSlug": "sion",
      "gf": 2,
      "ga": 5,
      "ha": "h",
@@ -981,6 +1044,7 @@
     {
      "r": "L",
      "opp": "Luzern",
+     "oppSlug": "luzern",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -989,6 +1053,7 @@
     {
      "r": "L",
      "opp": "Young Boys",
+     "oppSlug": "young-boys",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1020,6 +1085,7 @@
    "rank": 11,
    "next": {
     "opp": "Basel",
+    "oppSlug": "basel",
     "ha": "a",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.204,
@@ -1048,6 +1114,7 @@
     {
      "r": "L",
      "opp": "Luzern",
+     "oppSlug": "luzern",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1056,6 +1123,7 @@
     {
      "r": "W",
      "opp": "Lausanne",
+     "oppSlug": "lausanne",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1064,6 +1132,7 @@
     {
      "r": "L",
      "opp": "Zurich",
+     "oppSlug": "zurich",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1072,6 +1141,7 @@
     {
      "r": "L",
      "opp": "Thun",
+     "oppSlug": "thun",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1080,6 +1150,7 @@
     {
      "r": "W",
      "opp": "Basel",
+     "oppSlug": "basel",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -1111,6 +1182,7 @@
    "rank": 12,
    "next": {
     "opp": "Servette",
+    "oppSlug": "servette",
     "ha": "a",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.161,

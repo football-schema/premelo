@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:43.733Z",
+ "updated": "2026-10-24T14:54:05.543Z",
  "league": "norway",
  "name": "Eliteserien",
  "through": "2026-10-18",
@@ -54,6 +54,7 @@
     {
      "r": "W",
      "opp": "Fredrikstad",
+     "oppSlug": "fredrikstad",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -62,6 +63,7 @@
     {
      "r": "W",
      "opp": "Sandefjord",
+     "oppSlug": "sandefjord",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -70,6 +72,7 @@
     {
      "r": "L",
      "opp": "Brann",
+     "oppSlug": "brann",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -78,6 +81,7 @@
     {
      "r": "W",
      "opp": "Kristiansund",
+     "oppSlug": "kristiansund",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -86,6 +90,7 @@
     {
      "r": "W",
      "opp": "HamKam",
+     "oppSlug": "hamkam",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -117,6 +122,7 @@
    "rank": 1,
    "next": {
     "opp": "Valerenga",
+    "oppSlug": "valerenga",
     "ha": "h",
     "kickoff": "2026-10-24T14:00:00.000Z",
     "win": 0.87,
@@ -151,6 +157,7 @@
     {
      "r": "D",
      "opp": "Sandefjord",
+     "oppSlug": "sandefjord",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -159,6 +166,7 @@
     {
      "r": "W",
      "opp": "Kristiansund",
+     "oppSlug": "kristiansund",
      "gf": 8,
      "ga": 1,
      "ha": "h",
@@ -167,6 +175,7 @@
     {
      "r": "W",
      "opp": "Lillestrom",
+     "oppSlug": "lillestrom",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -175,6 +184,7 @@
     {
      "r": "W",
      "opp": "Brann",
+     "oppSlug": "brann",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -183,6 +193,7 @@
     {
      "r": "W",
      "opp": "Fredrikstad",
+     "oppSlug": "fredrikstad",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -214,6 +225,7 @@
    "rank": 2,
    "next": {
     "opp": "Tromso",
+    "oppSlug": "tromso",
     "ha": "h",
     "kickoff": "2026-10-25T14:30:00.000Z",
     "win": 0.688,
@@ -248,6 +260,7 @@
     {
      "r": "W",
      "opp": "HamKam",
+     "oppSlug": "hamkam",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -256,6 +269,7 @@
     {
      "r": "W",
      "opp": "Tromso",
+     "oppSlug": "tromso",
      "gf": 5,
      "ga": 3,
      "ha": "h",
@@ -264,6 +278,7 @@
     {
      "r": "W",
      "opp": "Kristiansund",
+     "oppSlug": "kristiansund",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -272,6 +287,7 @@
     {
      "r": "D",
      "opp": "Sandefjord",
+     "oppSlug": "sandefjord",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -280,6 +296,7 @@
     {
      "r": "W",
      "opp": "Sarpsborg 08",
+     "oppSlug": "sarpsborg-08",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -311,6 +328,7 @@
    "rank": 3,
    "next": {
     "opp": "HamKam",
+    "oppSlug": "hamkam",
     "ha": "a",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.469,
@@ -345,6 +363,7 @@
     {
      "r": "W",
      "opp": "KFUM Oslo",
+     "oppSlug": "kfum-oslo",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -353,6 +372,7 @@
     {
      "r": "W",
      "opp": "HamKam",
+     "oppSlug": "hamkam",
      "gf": 5,
      "ga": 1,
      "ha": "a",
@@ -361,6 +381,7 @@
     {
      "r": "L",
      "opp": "Aalesund",
+     "oppSlug": "aalesund",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -369,6 +390,7 @@
     {
      "r": "D",
      "opp": "Lillestrom",
+     "oppSlug": "lillestrom",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -377,6 +399,7 @@
     {
      "r": "W",
      "opp": "Start",
+     "oppSlug": "start",
      "gf": 6,
      "ga": 1,
      "ha": "h",
@@ -408,6 +431,7 @@
    "rank": 4,
    "next": {
     "opp": "Fredrikstad",
+    "oppSlug": "fredrikstad",
     "ha": "h",
     "kickoff": "2026-10-25T19:15:00.000Z",
     "win": 0.578,
@@ -442,6 +466,7 @@
     {
      "r": "L",
      "opp": "Lillestrom",
+     "oppSlug": "lillestrom",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -450,6 +475,7 @@
     {
      "r": "L",
      "opp": "Start",
+     "oppSlug": "start",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -458,6 +484,7 @@
     {
      "r": "W",
      "opp": "Bodo/Glimt",
+     "oppSlug": "bodo-glimt",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -466,6 +493,7 @@
     {
      "r": "L",
      "opp": "Viking",
+     "oppSlug": "viking",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -474,6 +502,7 @@
     {
      "r": "L",
      "opp": "Valerenga",
+     "oppSlug": "valerenga",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -505,6 +534,7 @@
    "rank": 5,
    "next": {
     "opp": "Lillestrom",
+    "oppSlug": "lillestrom",
     "ha": "a",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.407,
@@ -539,6 +569,7 @@
     {
      "r": "L",
      "opp": "Kristiansund",
+     "oppSlug": "kristiansund",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -547,6 +578,7 @@
     {
      "r": "L",
      "opp": "Rosenborg",
+     "oppSlug": "rosenborg",
      "gf": 3,
      "ga": 5,
      "ha": "a",
@@ -555,6 +587,7 @@
     {
      "r": "W",
      "opp": "HamKam",
+     "oppSlug": "hamkam",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -563,6 +596,7 @@
     {
      "r": "D",
      "opp": "Fredrikstad",
+     "oppSlug": "fredrikstad",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -571,6 +605,7 @@
     {
      "r": "D",
      "opp": "KFUM Oslo",
+     "oppSlug": "kfum-oslo",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -602,6 +637,7 @@
    "rank": 6,
    "next": {
     "opp": "Viking",
+    "oppSlug": "viking",
     "ha": "a",
     "kickoff": "2026-10-25T14:30:00.000Z",
     "win": 0.126,
@@ -636,6 +672,7 @@
     {
      "r": "L",
      "opp": "Bodo/Glimt",
+     "oppSlug": "bodo-glimt",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -644,6 +681,7 @@
     {
      "r": "D",
      "opp": "Sarpsborg 08",
+     "oppSlug": "sarpsborg-08",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -652,6 +690,7 @@
     {
      "r": "D",
      "opp": "Valerenga",
+     "oppSlug": "valerenga",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -660,6 +699,7 @@
     {
      "r": "D",
      "opp": "Tromso",
+     "oppSlug": "tromso",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -668,6 +708,7 @@
     {
      "r": "L",
      "opp": "Viking",
+     "oppSlug": "viking",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -699,6 +740,7 @@
    "rank": 7,
    "next": {
     "opp": "Molde",
+    "oppSlug": "molde",
     "ha": "a",
     "kickoff": "2026-10-25T19:15:00.000Z",
     "win": 0.193,
@@ -733,6 +775,7 @@
     {
      "r": "D",
      "opp": "Valerenga",
+     "oppSlug": "valerenga",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -741,6 +784,7 @@
     {
      "r": "D",
      "opp": "Fredrikstad",
+     "oppSlug": "fredrikstad",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -749,6 +793,7 @@
     {
      "r": "L",
      "opp": "KFUM Oslo",
+     "oppSlug": "kfum-oslo",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -757,6 +802,7 @@
     {
      "r": "W",
      "opp": "Aalesund",
+     "oppSlug": "aalesund",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -765,6 +811,7 @@
     {
      "r": "L",
      "opp": "Rosenborg",
+     "oppSlug": "rosenborg",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -796,6 +843,7 @@
    "rank": 8,
    "next": {
     "opp": "Aalesund",
+    "oppSlug": "aalesund",
     "ha": "h",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.57,
@@ -830,6 +878,7 @@
     {
      "r": "D",
      "opp": "Viking",
+     "oppSlug": "viking",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -838,6 +887,7 @@
     {
      "r": "L",
      "opp": "Bodo/Glimt",
+     "oppSlug": "bodo-glimt",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -846,6 +896,7 @@
     {
      "r": "W",
      "opp": "Start",
+     "oppSlug": "start",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -854,6 +905,7 @@
     {
      "r": "D",
      "opp": "Rosenborg",
+     "oppSlug": "rosenborg",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -862,6 +914,7 @@
     {
      "r": "L",
      "opp": "Lillestrom",
+     "oppSlug": "lillestrom",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -893,6 +946,7 @@
    "rank": 9,
    "next": {
     "opp": "Start",
+    "oppSlug": "start",
     "ha": "a",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.443,
@@ -927,6 +981,7 @@
     {
      "r": "L",
      "opp": "Molde",
+     "oppSlug": "molde",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -935,6 +990,7 @@
     {
      "r": "W",
      "opp": "Aalesund",
+     "oppSlug": "aalesund",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -943,6 +999,7 @@
     {
      "r": "W",
      "opp": "Sarpsborg 08",
+     "oppSlug": "sarpsborg-08",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -951,6 +1008,7 @@
     {
      "r": "W",
      "opp": "Valerenga",
+     "oppSlug": "valerenga",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -959,6 +1017,7 @@
     {
      "r": "D",
      "opp": "Tromso",
+     "oppSlug": "tromso",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -990,6 +1049,7 @@
    "rank": 10,
    "next": {
     "opp": "Kristiansund",
+    "oppSlug": "kristiansund",
     "ha": "a",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.366,
@@ -1024,6 +1084,7 @@
     {
      "r": "W",
      "opp": "Brann",
+     "oppSlug": "brann",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -1032,6 +1093,7 @@
     {
      "r": "W",
      "opp": "Valerenga",
+     "oppSlug": "valerenga",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1040,6 +1102,7 @@
     {
      "r": "L",
      "opp": "Viking",
+     "oppSlug": "viking",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1048,6 +1111,7 @@
     {
      "r": "D",
      "opp": "Molde",
+     "oppSlug": "molde",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1056,6 +1120,7 @@
     {
      "r": "W",
      "opp": "Sandefjord",
+     "oppSlug": "sandefjord",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -1087,6 +1152,7 @@
    "rank": 11,
    "next": {
     "opp": "Brann",
+    "oppSlug": "brann",
     "ha": "h",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.33,
@@ -1121,6 +1187,7 @@
     {
      "r": "L",
      "opp": "Rosenborg",
+     "oppSlug": "rosenborg",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1129,6 +1196,7 @@
     {
      "r": "L",
      "opp": "Molde",
+     "oppSlug": "molde",
      "gf": 1,
      "ga": 5,
      "ha": "h",
@@ -1137,6 +1205,7 @@
     {
      "r": "L",
      "opp": "Tromso",
+     "oppSlug": "tromso",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1145,6 +1214,7 @@
     {
      "r": "W",
      "opp": "Start",
+     "oppSlug": "start",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -1153,6 +1223,7 @@
     {
      "r": "L",
      "opp": "Bodo/Glimt",
+     "oppSlug": "bodo-glimt",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1184,6 +1255,7 @@
    "rank": 12,
    "next": {
     "opp": "Rosenborg",
+    "oppSlug": "rosenborg",
     "ha": "h",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.28,
@@ -1218,6 +1290,7 @@
     {
      "r": "D",
      "opp": "Sarpsborg 08",
+     "oppSlug": "sarpsborg-08",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1226,6 +1299,7 @@
     {
      "r": "L",
      "opp": "Lillestrom",
+     "oppSlug": "lillestrom",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1234,6 +1308,7 @@
     {
      "r": "D",
      "opp": "Fredrikstad",
+     "oppSlug": "fredrikstad",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1242,6 +1317,7 @@
     {
      "r": "L",
      "opp": "KFUM Oslo",
+     "oppSlug": "kfum-oslo",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1250,6 +1326,7 @@
     {
      "r": "W",
      "opp": "Brann",
+     "oppSlug": "brann",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1281,6 +1358,7 @@
    "rank": 13,
    "next": {
     "opp": "Bodo/Glimt",
+    "oppSlug": "bodo-glimt",
     "ha": "a",
     "kickoff": "2026-10-24T14:00:00.000Z",
     "win": 0.04,
@@ -1315,6 +1393,7 @@
     {
      "r": "W",
      "opp": "Start",
+     "oppSlug": "start",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1323,6 +1402,7 @@
     {
      "r": "L",
      "opp": "KFUM Oslo",
+     "oppSlug": "kfum-oslo",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1331,6 +1411,7 @@
     {
      "r": "W",
      "opp": "Molde",
+     "oppSlug": "molde",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -1339,6 +1420,7 @@
     {
      "r": "L",
      "opp": "Sarpsborg 08",
+     "oppSlug": "sarpsborg-08",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -1347,6 +1429,7 @@
     {
      "r": "W",
      "opp": "Kristiansund",
+     "oppSlug": "kristiansund",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -1378,6 +1461,7 @@
    "rank": 14,
    "next": {
     "opp": "Sarpsborg 08",
+    "oppSlug": "sarpsborg-08",
     "ha": "a",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.203,
@@ -1412,6 +1496,7 @@
     {
      "r": "W",
      "opp": "Tromso",
+     "oppSlug": "tromso",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1420,6 +1505,7 @@
     {
      "r": "L",
      "opp": "Viking",
+     "oppSlug": "viking",
      "gf": 1,
      "ga": 8,
      "ha": "a",
@@ -1428,6 +1514,7 @@
     {
      "r": "L",
      "opp": "Rosenborg",
+     "oppSlug": "rosenborg",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -1436,6 +1523,7 @@
     {
      "r": "L",
      "opp": "Bodo/Glimt",
+     "oppSlug": "bodo-glimt",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1444,6 +1532,7 @@
     {
      "r": "L",
      "opp": "Aalesund",
+     "oppSlug": "aalesund",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -1475,6 +1564,7 @@
    "rank": 15,
    "next": {
     "opp": "KFUM Oslo",
+    "oppSlug": "kfum-oslo",
     "ha": "h",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.367,
@@ -1509,6 +1599,7 @@
     {
      "r": "L",
      "opp": "Aalesund",
+     "oppSlug": "aalesund",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1517,6 +1608,7 @@
     {
      "r": "W",
      "opp": "Brann",
+     "oppSlug": "brann",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1525,6 +1617,7 @@
     {
      "r": "L",
      "opp": "Sandefjord",
+     "oppSlug": "sandefjord",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1533,6 +1626,7 @@
     {
      "r": "L",
      "opp": "HamKam",
+     "oppSlug": "hamkam",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -1541,6 +1635,7 @@
     {
      "r": "L",
      "opp": "Molde",
+     "oppSlug": "molde",
      "gf": 1,
      "ga": 6,
      "ha": "a",
@@ -1572,6 +1667,7 @@
    "rank": 16,
    "next": {
     "opp": "Sandefjord",
+    "oppSlug": "sandefjord",
     "ha": "h",
     "kickoff": "2026-10-25T17:00:00.000Z",
     "win": 0.296,

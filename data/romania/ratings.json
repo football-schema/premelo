@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:44.418Z",
+ "updated": "2026-10-24T14:54:06.231Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-19",
@@ -48,6 +48,7 @@
     {
      "r": "W",
      "opp": "U. Cluj",
+     "oppSlug": "u-cluj",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -56,6 +57,7 @@
     {
      "r": "W",
      "opp": "Corvinul",
+     "oppSlug": "corvinul",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -64,6 +66,7 @@
     {
      "r": "W",
      "opp": "FCSB",
+     "oppSlug": "fcsb",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -72,6 +75,7 @@
     {
      "r": "W",
      "opp": "Csikszereda M. Ciuc",
+     "oppSlug": "csikszereda-m-ciuc",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -80,6 +84,7 @@
     {
      "r": "W",
      "opp": "Farul Constanta",
+     "oppSlug": "farul-constanta",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -111,6 +116,7 @@
    "rank": 1,
    "next": {
     "opp": "Sepsi Sf. Gheorghe",
+    "oppSlug": "sepsi-sf-gheorghe",
     "ha": "a",
     "kickoff": "2026-10-26T19:00:00.000Z",
     "win": 0.56,
@@ -139,6 +145,7 @@
     {
      "r": "W",
      "opp": "FCSB",
+     "oppSlug": "fcsb",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -147,6 +154,7 @@
     {
      "r": "W",
      "opp": "Csikszereda M. Ciuc",
+     "oppSlug": "csikszereda-m-ciuc",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -155,6 +163,7 @@
     {
      "r": "W",
      "opp": "Farul Constanta",
+     "oppSlug": "farul-constanta",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -163,6 +172,7 @@
     {
      "r": "W",
      "opp": "Sepsi Sf. Gheorghe",
+     "oppSlug": "sepsi-sf-gheorghe",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -171,6 +181,7 @@
     {
      "r": "W",
      "opp": "FC Botosani",
+     "oppSlug": "fc-botosani",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -202,6 +213,7 @@
    "rank": 2,
    "next": {
     "opp": "CFR Cluj",
+    "oppSlug": "cfr-cluj",
     "ha": "a",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.395,
@@ -230,6 +242,7 @@
     {
      "r": "W",
      "opp": "Otelul",
+     "oppSlug": "otelul",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -238,6 +251,7 @@
     {
      "r": "W",
      "opp": "FC Voluntari",
+     "oppSlug": "fc-voluntari",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -246,6 +260,7 @@
     {
      "r": "W",
      "opp": "FC Arges",
+     "oppSlug": "fc-arges",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -254,6 +269,7 @@
     {
      "r": "W",
      "opp": "U. Cluj",
+     "oppSlug": "u-cluj",
      "gf": 4,
      "ga": 3,
      "ha": "a",
@@ -262,6 +278,7 @@
     {
      "r": "W",
      "opp": "Corvinul",
+     "oppSlug": "corvinul",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -293,6 +310,7 @@
    "rank": 3,
    "next": {
     "opp": "FCSB",
+    "oppSlug": "fcsb",
     "ha": "a",
     "kickoff": "2026-10-24T18:00:00.000Z",
     "win": 0.372,
@@ -321,6 +339,7 @@
     {
      "r": "W",
      "opp": "Otelul",
+     "oppSlug": "otelul",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -329,6 +348,7 @@
     {
      "r": "W",
      "opp": "FC Voluntari",
+     "oppSlug": "fc-voluntari",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -337,6 +357,7 @@
     {
      "r": "W",
      "opp": "CFR Cluj",
+     "oppSlug": "cfr-cluj",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -345,6 +366,7 @@
     {
      "r": "L",
      "opp": "FC Rapid Bucuresti",
+     "oppSlug": "fc-rapid-bucuresti",
      "gf": 3,
      "ga": 4,
      "ha": "h",
@@ -353,6 +375,7 @@
     {
      "r": "D",
      "opp": "FC Arges",
+     "oppSlug": "fc-arges",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -405,6 +428,7 @@
     {
      "r": "L",
      "opp": "Dinamo Bucuresti",
+     "oppSlug": "dinamo-bucuresti",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -413,6 +437,7 @@
     {
      "r": "D",
      "opp": "Petrolul",
+     "oppSlug": "petrolul",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -421,6 +446,7 @@
     {
      "r": "L",
      "opp": "Univ. Craiova",
+     "oppSlug": "univ-craiova",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -429,6 +455,7 @@
     {
      "r": "W",
      "opp": "Otelul",
+     "oppSlug": "otelul",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -437,6 +464,7 @@
     {
      "r": "W",
      "opp": "FC Voluntari",
+     "oppSlug": "fc-voluntari",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -468,6 +496,7 @@
    "rank": 5,
    "next": {
     "opp": "FC Rapid Bucuresti",
+    "oppSlug": "fc-rapid-bucuresti",
     "ha": "h",
     "kickoff": "2026-10-24T18:00:00.000Z",
     "win": 0.332,
@@ -496,6 +525,7 @@
     {
      "r": "L",
      "opp": "Sepsi Sf. Gheorghe",
+     "oppSlug": "sepsi-sf-gheorghe",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -504,6 +534,7 @@
     {
      "r": "W",
      "opp": "FC Botosani",
+     "oppSlug": "fc-botosani",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -512,6 +543,7 @@
     {
      "r": "L",
      "opp": "U. Cluj",
+     "oppSlug": "u-cluj",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -520,6 +552,7 @@
     {
      "r": "W",
      "opp": "FC Arges",
+     "oppSlug": "fc-arges",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -528,6 +561,7 @@
     {
      "r": "L",
      "opp": "UTA Arad",
+     "oppSlug": "uta-arad",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -559,6 +593,7 @@
    "rank": 6,
    "next": {
     "opp": "Dinamo Bucuresti",
+    "oppSlug": "dinamo-bucuresti",
     "ha": "h",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.31,
@@ -587,6 +622,7 @@
     {
      "r": "D",
      "opp": "CFR Cluj",
+     "oppSlug": "cfr-cluj",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -595,6 +631,7 @@
     {
      "r": "W",
      "opp": "UTA Arad",
+     "oppSlug": "uta-arad",
      "gf": 4,
      "ga": 2,
      "ha": "h",
@@ -603,6 +640,7 @@
     {
      "r": "L",
      "opp": "Dinamo Bucuresti",
+     "oppSlug": "dinamo-bucuresti",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -611,6 +649,7 @@
     {
      "r": "W",
      "opp": "Petrolul",
+     "oppSlug": "petrolul",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -619,6 +658,7 @@
     {
      "r": "L",
      "opp": "Univ. Craiova",
+     "oppSlug": "univ-craiova",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -650,6 +690,7 @@
    "rank": 7,
    "next": {
     "opp": "Otelul",
+    "oppSlug": "otelul",
     "ha": "h",
     "kickoff": "2026-10-25T15:00:00.000Z",
     "win": 0.454,
@@ -678,6 +719,7 @@
     {
      "r": "L",
      "opp": "FC Rapid Bucuresti",
+     "oppSlug": "fc-rapid-bucuresti",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -686,6 +728,7 @@
     {
      "r": "L",
      "opp": "U. Cluj",
+     "oppSlug": "u-cluj",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -694,6 +737,7 @@
     {
      "r": "L",
      "opp": "Corvinul",
+     "oppSlug": "corvinul",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -702,6 +746,7 @@
     {
      "r": "L",
      "opp": "FCSB",
+     "oppSlug": "fcsb",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -710,6 +755,7 @@
     {
      "r": "D",
      "opp": "Csikszereda M. Ciuc",
+     "oppSlug": "csikszereda-m-ciuc",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -741,6 +787,7 @@
    "rank": 8,
    "next": {
     "opp": "Farul Constanta",
+    "oppSlug": "farul-constanta",
     "ha": "a",
     "kickoff": "2026-10-25T15:00:00.000Z",
     "win": 0.26,
@@ -769,6 +816,7 @@
     {
      "r": "L",
      "opp": "Petrolul",
+     "oppSlug": "petrolul",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -777,6 +825,7 @@
     {
      "r": "L",
      "opp": "Univ. Craiova",
+     "oppSlug": "univ-craiova",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -785,6 +834,7 @@
     {
      "r": "W",
      "opp": "Otelul",
+     "oppSlug": "otelul",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -793,6 +843,7 @@
     {
      "r": "W",
      "opp": "FC Voluntari",
+     "oppSlug": "fc-voluntari",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -801,6 +852,7 @@
     {
      "r": "L",
      "opp": "FC Rapid Bucuresti",
+     "oppSlug": "fc-rapid-bucuresti",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -851,6 +903,7 @@
     {
      "r": "W",
      "opp": "Sepsi Sf. Gheorghe",
+     "oppSlug": "sepsi-sf-gheorghe",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -859,6 +912,7 @@
     {
      "r": "D",
      "opp": "FC Arges",
+     "oppSlug": "fc-arges",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -867,6 +921,7 @@
     {
      "r": "L",
      "opp": "CFR Cluj",
+     "oppSlug": "cfr-cluj",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -875,6 +930,7 @@
     {
      "r": "W",
      "opp": "UTA Arad",
+     "oppSlug": "uta-arad",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -883,6 +939,7 @@
     {
      "r": "L",
      "opp": "Dinamo Bucuresti",
+     "oppSlug": "dinamo-bucuresti",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -935,6 +992,7 @@
     {
      "r": "W",
      "opp": "Csikszereda M. Ciuc",
+     "oppSlug": "csikszereda-m-ciuc",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -943,6 +1001,7 @@
     {
      "r": "L",
      "opp": "Farul Constanta",
+     "oppSlug": "farul-constanta",
      "gf": 2,
      "ga": 4,
      "ha": "a",
@@ -951,6 +1010,7 @@
     {
      "r": "W",
      "opp": "Sepsi Sf. Gheorghe",
+     "oppSlug": "sepsi-sf-gheorghe",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -959,6 +1019,7 @@
     {
      "r": "L",
      "opp": "FC Botosani",
+     "oppSlug": "fc-botosani",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -967,6 +1028,7 @@
     {
      "r": "W",
      "opp": "CFR Cluj",
+     "oppSlug": "cfr-cluj",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -998,6 +1060,7 @@
    "rank": 11,
    "next": {
     "opp": "FC Arges",
+    "oppSlug": "fc-arges",
     "ha": "a",
     "kickoff": "2026-10-24T15:00:00.000Z",
     "win": 0.296,
@@ -1026,6 +1089,7 @@
     {
      "r": "W",
      "opp": "Corvinul",
+     "oppSlug": "corvinul",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1034,6 +1098,7 @@
     {
      "r": "D",
      "opp": "FCSB",
+     "oppSlug": "fcsb",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1042,6 +1107,7 @@
     {
      "r": "W",
      "opp": "Csikszereda M. Ciuc",
+     "oppSlug": "csikszereda-m-ciuc",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1050,6 +1116,7 @@
     {
      "r": "L",
      "opp": "Farul Constanta",
+     "oppSlug": "farul-constanta",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1058,6 +1125,7 @@
     {
      "r": "D",
      "opp": "Sepsi Sf. Gheorghe",
+     "oppSlug": "sepsi-sf-gheorghe",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1110,6 +1178,7 @@
     {
      "r": "L",
      "opp": "FC Voluntari",
+     "oppSlug": "fc-voluntari",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1118,6 +1187,7 @@
     {
      "r": "D",
      "opp": "FC Botosani",
+     "oppSlug": "fc-botosani",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1126,6 +1196,7 @@
     {
      "r": "L",
      "opp": "FC Rapid Bucuresti",
+     "oppSlug": "fc-rapid-bucuresti",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1134,6 +1205,7 @@
     {
      "r": "L",
      "opp": "CFR Cluj",
+     "oppSlug": "cfr-cluj",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1142,6 +1214,7 @@
     {
      "r": "D",
      "opp": "U. Cluj",
+     "oppSlug": "u-cluj",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1173,6 +1246,7 @@
    "rank": 13,
    "next": {
     "opp": "UTA Arad",
+    "oppSlug": "uta-arad",
     "ha": "h",
     "kickoff": "2026-10-24T15:00:00.000Z",
     "win": 0.406,
@@ -1201,6 +1275,7 @@
     {
      "r": "L",
      "opp": "FC Botosani",
+     "oppSlug": "fc-botosani",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -1209,6 +1284,7 @@
     {
      "r": "W",
      "opp": "CFR Cluj",
+     "oppSlug": "cfr-cluj",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1217,6 +1293,7 @@
     {
      "r": "L",
      "opp": "UTA Arad",
+     "oppSlug": "uta-arad",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1225,6 +1302,7 @@
     {
      "r": "L",
      "opp": "Dinamo Bucuresti",
+     "oppSlug": "dinamo-bucuresti",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1233,6 +1311,7 @@
     {
      "r": "D",
      "opp": "Petrolul",
+     "oppSlug": "petrolul",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1264,6 +1343,7 @@
    "rank": 14,
    "next": {
     "opp": "Univ. Craiova",
+    "oppSlug": "univ-craiova",
     "ha": "h",
     "kickoff": "2026-10-26T19:00:00.000Z",
     "win": 0.181,
@@ -1292,6 +1372,7 @@
     {
      "r": "W",
      "opp": "FC Arges",
+     "oppSlug": "fc-arges",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1300,6 +1381,7 @@
     {
      "r": "L",
      "opp": "FC Rapid Bucuresti",
+     "oppSlug": "fc-rapid-bucuresti",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1308,6 +1390,7 @@
     {
      "r": "L",
      "opp": "U. Cluj",
+     "oppSlug": "u-cluj",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1316,6 +1399,7 @@
     {
      "r": "L",
      "opp": "Corvinul",
+     "oppSlug": "corvinul",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1324,6 +1408,7 @@
     {
      "r": "L",
      "opp": "FCSB",
+     "oppSlug": "fcsb",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1376,6 +1461,7 @@
     {
      "r": "L",
      "opp": "UTA Arad",
+     "oppSlug": "uta-arad",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -1384,6 +1470,7 @@
     {
      "r": "L",
      "opp": "Dinamo Bucuresti",
+     "oppSlug": "dinamo-bucuresti",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -1392,6 +1479,7 @@
     {
      "r": "L",
      "opp": "Petrolul",
+     "oppSlug": "petrolul",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1400,6 +1488,7 @@
     {
      "r": "L",
      "opp": "Univ. Craiova",
+     "oppSlug": "univ-craiova",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1408,6 +1497,7 @@
     {
      "r": "D",
      "opp": "Otelul",
+     "oppSlug": "otelul",
      "gf": 1,
      "ga": 1,
      "ha": "a",

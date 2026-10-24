@@ -1,6 +1,6 @@
 // premelo's page: everything comes from the JSON the build writes into data/.
 import { markets } from './lib/goals.mjs';
-// Routes: #/<league> (the table), #/<league>/fixtures, #/<league>/club/<slug>, #/europe[/fixtures], #/h2h/<league>:<slug>/<league>:<slug>,
+// Routes: #/<league> (the table), #/<league>/fixtures[/<home>~<away>] (scrolled to that match), #/<league>/club/<slug>, #/europe[/fixtures], #/h2h/<league>:<slug>/<league>:<slug>,
 // #/method[/<league>].
 // The Premier League is the default, so #/, #/fixtures and #/club/<slug> are its pages.
 const $ = (id) => document.getElementById(id);
@@ -31,11 +31,12 @@ function spark(values, w = 90, h = 22) {
 // form as Flashscore shows it: the next match in grey, then the last five league results, newest first, each with its
 // score and opponent on hover
 const formWord = { W: 'won', D: 'drew', L: 'lost' };
-const form = (f, next) => {
+// the next match's chip opens that match on the fixtures page; a result's chip opens the opponent's page
+const form = (f, next, me) => {
   const day = (d) => new Date(d).toLocaleDateString(undefined, { day: 'numeric', month: 'short' }), last = [...f].reverse();
   const nx = next ? `${next.ha === 'a' ? 'at' : 'v'} ${next.opp}, ${day(next.kickoff)}: ${pct(next.win)}% to win` : '';
   const said = `${next ? `Next ${nx}. ` : ''}Last ${f.length} league matches, newest first: ${last.map((m) => `${formWord[m.r]} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${m.opp}`).join(', ')}`;
-  return `<span class="form" role="img" aria-label="${esc(said)}">${next ? `<span class="N" aria-hidden="true" title="Next: ${esc(nx)}">?</span>` : ''}${last.map((m) => `<span class="${m.r}" aria-hidden="true" title="${m.r} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${esc(m.opp)} · ${day(m.date)}">${m.r}</span>`).join('')}</span>`;
+  return `<span class="form" role="img" aria-label="${esc(said)}">${next ? `<a class="N" href="#/${league}/fixtures/${next.ha === 'a' ? `${next.oppSlug}~${me}` : `${me}~${next.oppSlug}`}" title="Next: ${esc(nx)}">?</a>` : ''}${last.map((m) => `<a class="${m.r}" href="#/${league}/club/${m.oppSlug}" title="${m.r} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${esc(m.opp)} · ${day(m.date)}">${m.r}</a>`).join('')}</span>`;
 };
 const bar = (f) => `<div class="bar" role="img" aria-label="${esc(f.homeName)} ${pct(f.H)}%, draw ${pct(f.D)}%, ${esc(f.awayName)} ${pct(f.A)}%">
   <span class="ph" style="flex:${f.H}">${pct(f.H)}</span><span class="pd" style="flex:${f.D}">${pct(f.D)}</span><span class="pa" style="flex:${f.A}">${pct(f.A)}</span></div>`;
@@ -54,7 +55,7 @@ function fixtureRows(list) {
   for (const f of list) {
     const g = f.gw ? `Matchweek ${f.gw}` : `${day(f.kickoff)}${f.compName ? ` · ${f.compName}` : ''}`;
     if (g !== group) { group = g; out += `<div class="gw">${esc(g)}</div>`; }
-    out += `<div class="fx"><div class="when">${day(f.kickoff)}<br>${f.tbc ? 'TBC' : time(f.kickoff)}</div>
+    out += `<div class="fx" data-m="${f.homeSlug}~${f.awaySlug}"><div class="when">${day(f.kickoff)}<br>${f.tbc ? 'TBC' : time(f.kickoff)}</div>
       <div class="h"><div class="t">${side(f, true)}</div><div class="xg">${f.elo[0]} · xG ${f.xg[0].toFixed(1)}</div></div>
       <div><div class="t">${side(f, false)}</div><div class="xg">${f.elo[1]} · xG ${f.xg[1].toFixed(1)}</div></div>
       ${bar(f)}</div>`;
@@ -84,7 +85,7 @@ async function viewTable() {
       <th class="n sep hide-s" title="League position">Pos</th><th class="n hide-s" title="Played">P</th><th class="n" title="Points">Pts</th>
       ${pj ? `<th class="n sep hide-s" title="Average final points over 10,000 simulations of the rest of the season">Proj. pts</th><th class="n" title="Chance of finishing first">Title</th><th class="n hide-s" title="${pj.top ? `Chance of finishing in the top ${pj.top}` : `Chance of finishing in the top ${pj.up}, the automatic promotion places`}">${third}</th><th class="n hide-s" title="Chance of finishing in the bottom ${pj.down}, the direct relegation places">Down</th>` : ''}</tr>
     ${rows.map((c) => `<tr${order === 'what' && c.slug === what.club ? ' class="what"' : ''}><td class="n muted">${c.rank}</td><td>${clubLink(c.slug, c.name)}</td><td class="n"><b>${c.elo}</b></td>
-      <td class="n hide-s ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-m">${spark(c.spark)}</td><td class="hide-s">${form(c.form, c.next)}</td>
+      <td class="n hide-s ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-m">${spark(c.spark)}</td><td class="hide-s">${form(c.form, c.next, c.slug)}</td>
       <td class="n sep hide-s">${c.table ? `<span class="pos${zone(c.table.pos)}">${c.table.pos}</span>` : ''}</td><td class="n hide-s muted">${c.table?.p ?? ''}</td><td class="n"><b>${c.table?.pts ?? ''}</b></td>
       ${pj ? `<td class="n sep hide-s">${projOf(c) ? Math.round(projOf(c).pts) : ''}</td>${chance(projOf(c)?.first)}${chance(pj.top ? projOf(c)?.top : projOf(c)?.up).replace('class="n proj', 'class="n hide-s proj')}${chance(projOf(c)?.down, 'down').replace('class="n proj', 'class="n hide-s proj')}` : ''}</tr>`).join('')}</table></div>
     ${order === 'what' ? `<p class="small" style="margin:12px 0 0"><b>${esc(what.label)}:</b> ${esc(what.note)} The projection is run for each outcome below and mixed by its chance; a deduction comes off this season's points (the middle of each range: ${what.outcomes.filter((o) => o.cut !== 'expelled' && o.cut).map((o) => o.cut).join(', ')}), and expulsion expunges the club's results and drops its matches. City's projected points leave expulsion out.</p>
@@ -314,7 +315,7 @@ async function route() {
   if (page === 'table') division = division === 'second' && parts.length ? division : 'top';
   nav(page);
   try {
-    if (page === 'fixtures') await viewFixtures();
+    if (page === 'fixtures') { await viewFixtures(); const row = arg && $('main').querySelector(`[data-m="${CSS.escape(arg)}"]`); if (row) { row.classList.add('hit'); row.scrollIntoView({ block: 'center' }); return; } }
     else if (page === 'method') await viewMethod();
     else if (page === 'europe') await (arg === 'fixtures' ? viewEuropeFixtures() : viewEurope());
     else if (page === 'h2h') await viewH2H(parts[1], parts[2]);

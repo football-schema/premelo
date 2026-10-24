@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:43.573Z",
+ "updated": "2026-10-24T14:54:05.382Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-10-19",
@@ -47,6 +47,7 @@
     {
      "r": "D",
      "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -55,6 +56,7 @@
     {
      "r": "W",
      "opp": "Brondby",
+     "oppSlug": "brondby",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -63,6 +65,7 @@
     {
      "r": "D",
      "opp": "Odense",
+     "oppSlug": "odense",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -71,6 +74,7 @@
     {
      "r": "W",
      "opp": "FC Copenhagen",
+     "oppSlug": "fc-copenhagen",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -79,6 +83,7 @@
     {
      "r": "W",
      "opp": "Viborg",
+     "oppSlug": "viborg",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -110,6 +115,7 @@
    "rank": 1,
    "next": {
     "opp": "Lyngby",
+    "oppSlug": "lyngby",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.815,
@@ -138,6 +144,7 @@
     {
      "r": "W",
      "opp": "Odense",
+     "oppSlug": "odense",
      "gf": 5,
      "ga": 0,
      "ha": "a",
@@ -146,6 +153,7 @@
     {
      "r": "W",
      "opp": "Horsens",
+     "oppSlug": "horsens",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -154,6 +162,7 @@
     {
      "r": "W",
      "opp": "Brondby",
+     "oppSlug": "brondby",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -162,6 +171,7 @@
     {
      "r": "L",
      "opp": "Midtjylland",
+     "oppSlug": "midtjylland",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -170,6 +180,7 @@
     {
      "r": "D",
      "opp": "Aarhus",
+     "oppSlug": "aarhus",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -201,6 +212,7 @@
    "rank": 2,
    "next": {
     "opp": "Odense",
+    "oppSlug": "odense",
     "ha": "h",
     "kickoff": "2026-10-26T19:00:00.000Z",
     "win": 0.74,
@@ -229,6 +241,7 @@
     {
      "r": "D",
      "opp": "Midtjylland",
+     "oppSlug": "midtjylland",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -237,6 +250,7 @@
     {
      "r": "W",
      "opp": "Aarhus",
+     "oppSlug": "aarhus",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -245,6 +259,7 @@
     {
      "r": "L",
      "opp": "Viborg",
+     "oppSlug": "viborg",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -253,6 +268,7 @@
     {
      "r": "D",
      "opp": "Odense",
+     "oppSlug": "odense",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -261,6 +277,7 @@
     {
      "r": "D",
      "opp": "Lyngby",
+     "oppSlug": "lyngby",
      "gf": 3,
      "ga": 3,
      "ha": "a",
@@ -292,6 +309,7 @@
    "rank": 3,
    "next": {
     "opp": "Silkeborg",
+    "oppSlug": "silkeborg",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.484,
@@ -320,6 +338,7 @@
     {
      "r": "L",
      "opp": "Randers FC",
+     "oppSlug": "randers-fc",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -328,6 +347,7 @@
     {
      "r": "L",
      "opp": "Midtjylland",
+     "oppSlug": "midtjylland",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -336,6 +356,7 @@
     {
      "r": "L",
      "opp": "FC Copenhagen",
+     "oppSlug": "fc-copenhagen",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -344,6 +365,7 @@
     {
      "r": "W",
      "opp": "Lyngby",
+     "oppSlug": "lyngby",
      "gf": 5,
      "ga": 2,
      "ha": "h",
@@ -352,6 +374,7 @@
     {
      "r": "L",
      "opp": "Odense",
+     "oppSlug": "odense",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -404,6 +427,7 @@
     {
      "r": "D",
      "opp": "Silkeborg",
+     "oppSlug": "silkeborg",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -412,6 +436,7 @@
     {
      "r": "L",
      "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -420,6 +445,7 @@
     {
      "r": "D",
      "opp": "Horsens",
+     "oppSlug": "horsens",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -428,6 +454,7 @@
     {
      "r": "W",
      "opp": "Sonderjyske",
+     "oppSlug": "sonderjyske",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -436,6 +463,7 @@
     {
      "r": "D",
      "opp": "FC Copenhagen",
+     "oppSlug": "fc-copenhagen",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -467,6 +495,7 @@
    "rank": 5,
    "next": {
     "opp": "Viborg",
+    "oppSlug": "viborg",
     "ha": "h",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.438,
@@ -495,6 +524,7 @@
     {
      "r": "L",
      "opp": "Lyngby",
+     "oppSlug": "lyngby",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -503,6 +533,7 @@
     {
      "r": "D",
      "opp": "Silkeborg",
+     "oppSlug": "silkeborg",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -511,6 +542,7 @@
     {
      "r": "W",
      "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -519,6 +551,7 @@
     {
      "r": "W",
      "opp": "Randers FC",
+     "oppSlug": "randers-fc",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -527,6 +560,7 @@
     {
      "r": "L",
      "opp": "Midtjylland",
+     "oppSlug": "midtjylland",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -558,6 +592,7 @@
    "rank": 6,
    "next": {
     "opp": "Aarhus",
+    "oppSlug": "aarhus",
     "ha": "a",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.285,
@@ -586,6 +621,7 @@
     {
      "r": "W",
      "opp": "Brondby",
+     "oppSlug": "brondby",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -594,6 +630,7 @@
     {
      "r": "L",
      "opp": "Odense",
+     "oppSlug": "odense",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -602,6 +639,7 @@
     {
      "r": "L",
      "opp": "Sonderjyske",
+     "oppSlug": "sonderjyske",
      "gf": 2,
      "ga": 4,
      "ha": "a",
@@ -610,6 +648,7 @@
     {
      "r": "L",
      "opp": "Viborg",
+     "oppSlug": "viborg",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -618,6 +657,7 @@
     {
      "r": "D",
      "opp": "Horsens",
+     "oppSlug": "horsens",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -670,6 +710,7 @@
     {
      "r": "D",
      "opp": "Aarhus",
+     "oppSlug": "aarhus",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -678,6 +719,7 @@
     {
      "r": "D",
      "opp": "Viborg",
+     "oppSlug": "viborg",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -686,6 +728,7 @@
     {
      "r": "W",
      "opp": "Lyngby",
+     "oppSlug": "lyngby",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -694,6 +737,7 @@
     {
      "r": "D",
      "opp": "Horsens",
+     "oppSlug": "horsens",
      "gf": 3,
      "ga": 3,
      "ha": "h",
@@ -702,6 +746,7 @@
     {
      "r": "L",
      "opp": "Sonderjyske",
+     "oppSlug": "sonderjyske",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -733,6 +778,7 @@
    "rank": 8,
    "next": {
     "opp": "Nordsjaelland",
+    "oppSlug": "nordsjaelland",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.248,
@@ -761,6 +807,7 @@
     {
      "r": "L",
      "opp": "Horsens",
+     "oppSlug": "horsens",
      "gf": 2,
      "ga": 5,
      "ha": "h",
@@ -769,6 +816,7 @@
     {
      "r": "D",
      "opp": "Lyngby",
+     "oppSlug": "lyngby",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -777,6 +825,7 @@
     {
      "r": "W",
      "opp": "Randers FC",
+     "oppSlug": "randers-fc",
      "gf": 4,
      "ga": 2,
      "ha": "h",
@@ -785,6 +834,7 @@
     {
      "r": "L",
      "opp": "Aarhus",
+     "oppSlug": "aarhus",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -793,6 +843,7 @@
     {
      "r": "W",
      "opp": "Silkeborg",
+     "oppSlug": "silkeborg",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -824,6 +875,7 @@
    "rank": 9,
    "next": {
     "opp": "Horsens",
+    "oppSlug": "horsens",
     "ha": "a",
     "kickoff": "2026-10-25T16:00:00.000Z",
     "win": 0.354,
@@ -852,6 +904,7 @@
     {
      "r": "L",
      "opp": "FC Copenhagen",
+     "oppSlug": "fc-copenhagen",
      "gf": 0,
      "ga": 5,
      "ha": "h",
@@ -860,6 +913,7 @@
     {
      "r": "W",
      "opp": "Randers FC",
+     "oppSlug": "randers-fc",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -868,6 +922,7 @@
     {
      "r": "D",
      "opp": "Midtjylland",
+     "oppSlug": "midtjylland",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -876,6 +931,7 @@
     {
      "r": "D",
      "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -884,6 +940,7 @@
     {
      "r": "W",
      "opp": "Brondby",
+     "oppSlug": "brondby",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -915,6 +972,7 @@
    "rank": 10,
    "next": {
     "opp": "FC Copenhagen",
+    "oppSlug": "fc-copenhagen",
     "ha": "a",
     "kickoff": "2026-10-26T19:00:00.000Z",
     "win": 0.089,
@@ -943,6 +1001,7 @@
     {
      "r": "W",
      "opp": "Sonderjyske",
+     "oppSlug": "sonderjyske",
      "gf": 5,
      "ga": 2,
      "ha": "a",
@@ -951,6 +1010,7 @@
     {
      "r": "L",
      "opp": "FC Copenhagen",
+     "oppSlug": "fc-copenhagen",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -959,6 +1019,7 @@
     {
      "r": "D",
      "opp": "Aarhus",
+     "oppSlug": "aarhus",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -967,6 +1028,7 @@
     {
      "r": "D",
      "opp": "Silkeborg",
+     "oppSlug": "silkeborg",
      "gf": 3,
      "ga": 3,
      "ha": "a",
@@ -975,6 +1037,7 @@
     {
      "r": "D",
      "opp": "Randers FC",
+     "oppSlug": "randers-fc",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1006,6 +1069,7 @@
    "rank": 11,
    "next": {
     "opp": "Sonderjyske",
+    "oppSlug": "sonderjyske",
     "ha": "h",
     "kickoff": "2026-10-25T16:00:00.000Z",
     "win": 0.365,
@@ -1034,6 +1098,7 @@
     {
      "r": "W",
      "opp": "Viborg",
+     "oppSlug": "viborg",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -1042,6 +1107,7 @@
     {
      "r": "D",
      "opp": "Sonderjyske",
+     "oppSlug": "sonderjyske",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1050,6 +1116,7 @@
     {
      "r": "L",
      "opp": "Silkeborg",
+     "oppSlug": "silkeborg",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1058,6 +1125,7 @@
     {
      "r": "L",
      "opp": "Brondby",
+     "oppSlug": "brondby",
      "gf": 2,
      "ga": 5,
      "ha": "a",
@@ -1066,6 +1134,7 @@
     {
      "r": "D",
      "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
      "gf": 3,
      "ga": 3,
      "ha": "h",
@@ -1097,6 +1166,7 @@
    "rank": 12,
    "next": {
     "opp": "Midtjylland",
+    "oppSlug": "midtjylland",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.056,

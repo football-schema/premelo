@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:44.422Z",
+ "updated": "2026-10-24T14:54:06.235Z",
  "league": "finland",
  "name": "Veikkausliiga",
  "through": "2026-10-21",
@@ -47,6 +47,7 @@
     {
      "r": "W",
      "opp": "VPS",
+     "oppSlug": "vps",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -55,6 +56,7 @@
     {
      "r": "W",
      "opp": "AC Oulu",
+     "oppSlug": "ac-oulu",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -63,6 +65,7 @@
     {
      "r": "D",
      "opp": "Gnistan",
+     "oppSlug": "gnistan",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -71,6 +74,7 @@
     {
      "r": "W",
      "opp": "KuPS",
+     "oppSlug": "kups",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -79,6 +83,7 @@
     {
      "r": "L",
      "opp": "AC Oulu",
+     "oppSlug": "ac-oulu",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -131,6 +136,7 @@
     {
      "r": "D",
      "opp": "KuPS",
+     "oppSlug": "kups",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -139,6 +145,7 @@
     {
      "r": "D",
      "opp": "Gnistan",
+     "oppSlug": "gnistan",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -147,6 +154,7 @@
     {
      "r": "W",
      "opp": "VPS",
+     "oppSlug": "vps",
      "gf": 6,
      "ga": 0,
      "ha": "h",
@@ -155,6 +163,7 @@
     {
      "r": "W",
      "opp": "AC Oulu",
+     "oppSlug": "ac-oulu",
      "gf": 4,
      "ga": 3,
      "ha": "a",
@@ -163,6 +172,7 @@
     {
      "r": "W",
      "opp": "Gnistan",
+     "oppSlug": "gnistan",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -194,6 +204,7 @@
    "rank": 2,
    "next": {
     "opp": "KuPS",
+    "oppSlug": "kups",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.437,
@@ -222,6 +233,7 @@
     {
      "r": "D",
      "opp": "HJK",
+     "oppSlug": "hjk",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -230,6 +242,7 @@
     {
      "r": "W",
      "opp": "VPS",
+     "oppSlug": "vps",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -238,6 +251,7 @@
     {
      "r": "L",
      "opp": "AC Oulu",
+     "oppSlug": "ac-oulu",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -246,6 +260,7 @@
     {
      "r": "L",
      "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -254,6 +269,7 @@
     {
      "r": "W",
      "opp": "VPS",
+     "oppSlug": "vps",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -285,6 +301,7 @@
    "rank": 3,
    "next": {
     "opp": "HJK",
+    "oppSlug": "hjk",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.297,
@@ -313,6 +330,7 @@
     {
      "r": "W",
      "opp": "Jaro",
+     "oppSlug": "jaro",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -321,6 +339,7 @@
     {
      "r": "W",
      "opp": "Lahti",
+     "oppSlug": "lahti",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -329,6 +348,7 @@
     {
      "r": "W",
      "opp": "TPS",
+     "oppSlug": "tps",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -337,6 +357,7 @@
     {
      "r": "D",
      "opp": "Mariehamn",
+     "oppSlug": "mariehamn",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -345,6 +366,7 @@
     {
      "r": "W",
      "opp": "SJK",
+     "oppSlug": "sjk",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -397,6 +419,7 @@
     {
      "r": "W",
      "opp": "AC Oulu",
+     "oppSlug": "ac-oulu",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -405,6 +428,7 @@
     {
      "r": "D",
      "opp": "HJK",
+     "oppSlug": "hjk",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -413,6 +437,7 @@
     {
      "r": "D",
      "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -421,6 +446,7 @@
     {
      "r": "L",
      "opp": "VPS",
+     "oppSlug": "vps",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -429,6 +455,7 @@
     {
      "r": "L",
      "opp": "HJK",
+     "oppSlug": "hjk",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -460,6 +487,7 @@
    "rank": 5,
    "next": {
     "opp": "AC Oulu",
+    "oppSlug": "ac-oulu",
     "ha": "h",
     "kickoff": "2026-10-24T14:00:00.000Z",
     "win": 0.494,
@@ -488,6 +516,7 @@
     {
      "r": "D",
      "opp": "TPS",
+     "oppSlug": "tps",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -496,6 +525,7 @@
     {
      "r": "D",
      "opp": "Jaro",
+     "oppSlug": "jaro",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -504,6 +534,7 @@
     {
      "r": "W",
      "opp": "Mariehamn",
+     "oppSlug": "mariehamn",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -512,6 +543,7 @@
     {
      "r": "W",
      "opp": "Lahti",
+     "oppSlug": "lahti",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -520,6 +552,7 @@
     {
      "r": "L",
      "opp": "Ilves",
+     "oppSlug": "ilves",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -572,6 +605,7 @@
     {
      "r": "W",
      "opp": "Mariehamn",
+     "oppSlug": "mariehamn",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -580,6 +614,7 @@
     {
      "r": "L",
      "opp": "Ilves",
+     "oppSlug": "ilves",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -588,6 +623,7 @@
     {
      "r": "D",
      "opp": "Jaro",
+     "oppSlug": "jaro",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -596,6 +632,7 @@
     {
      "r": "L",
      "opp": "SJK",
+     "oppSlug": "sjk",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -604,6 +641,7 @@
     {
      "r": "W",
      "opp": "TPS",
+     "oppSlug": "tps",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -656,6 +694,7 @@
     {
      "r": "L",
      "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -664,6 +703,7 @@
     {
      "r": "L",
      "opp": "KuPS",
+     "oppSlug": "kups",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -672,6 +712,7 @@
     {
      "r": "L",
      "opp": "HJK",
+     "oppSlug": "hjk",
      "gf": 0,
      "ga": 6,
      "ha": "a",
@@ -680,6 +721,7 @@
     {
      "r": "W",
      "opp": "Gnistan",
+     "oppSlug": "gnistan",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -688,6 +730,7 @@
     {
      "r": "L",
      "opp": "KuPS",
+     "oppSlug": "kups",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -740,6 +783,7 @@
     {
      "r": "L",
      "opp": "Gnistan",
+     "oppSlug": "gnistan",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -748,6 +792,7 @@
     {
      "r": "L",
      "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -756,6 +801,7 @@
     {
      "r": "W",
      "opp": "KuPS",
+     "oppSlug": "kups",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -764,6 +810,7 @@
     {
      "r": "L",
      "opp": "HJK",
+     "oppSlug": "hjk",
      "gf": 3,
      "ga": 4,
      "ha": "h",
@@ -772,6 +819,7 @@
     {
      "r": "W",
      "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -803,6 +851,7 @@
    "rank": 9,
    "next": {
     "opp": "Gnistan",
+    "oppSlug": "gnistan",
     "ha": "a",
     "kickoff": "2026-10-24T14:00:00.000Z",
     "win": 0.246,
@@ -831,6 +880,7 @@
     {
      "r": "D",
      "opp": "SJK",
+     "oppSlug": "sjk",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -839,6 +889,7 @@
     {
      "r": "L",
      "opp": "Mariehamn",
+     "oppSlug": "mariehamn",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -847,6 +898,7 @@
     {
      "r": "L",
      "opp": "Ilves",
+     "oppSlug": "ilves",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -855,6 +907,7 @@
     {
      "r": "L",
      "opp": "Jaro",
+     "oppSlug": "jaro",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -863,6 +916,7 @@
     {
      "r": "L",
      "opp": "Lahti",
+     "oppSlug": "lahti",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -915,6 +969,7 @@
     {
      "r": "L",
      "opp": "Mariehamn",
+     "oppSlug": "mariehamn",
      "gf": 2,
      "ga": 4,
      "ha": "a",
@@ -923,6 +978,7 @@
     {
      "r": "L",
      "opp": "VPS",
+     "oppSlug": "vps",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -931,6 +987,7 @@
     {
      "r": "L",
      "opp": "SJK",
+     "oppSlug": "sjk",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -939,6 +996,7 @@
     {
      "r": "W",
      "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -947,6 +1005,7 @@
     {
      "r": "D",
      "opp": "Jaro",
+     "oppSlug": "jaro",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -999,6 +1058,7 @@
     {
      "r": "L",
      "opp": "Lahti",
+     "oppSlug": "lahti",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1007,6 +1067,7 @@
     {
      "r": "W",
      "opp": "TPS",
+     "oppSlug": "tps",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1015,6 +1076,7 @@
     {
      "r": "L",
      "opp": "SJK",
+     "oppSlug": "sjk",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1023,6 +1085,7 @@
     {
      "r": "D",
      "opp": "Ilves",
+     "oppSlug": "ilves",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1031,6 +1094,7 @@
     {
      "r": "D",
      "opp": "Jaro",
+     "oppSlug": "jaro",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1083,6 +1147,7 @@
     {
      "r": "D",
      "opp": "SJK",
+     "oppSlug": "sjk",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1091,6 +1156,7 @@
     {
      "r": "D",
      "opp": "Lahti",
+     "oppSlug": "lahti",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1099,6 +1165,7 @@
     {
      "r": "W",
      "opp": "TPS",
+     "oppSlug": "tps",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -1107,6 +1174,7 @@
     {
      "r": "D",
      "opp": "Mariehamn",
+     "oppSlug": "mariehamn",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1115,6 +1183,7 @@
     {
      "r": "D",
      "opp": "PK-35 Vantaa",
+     "oppSlug": "pk-35-vantaa",
      "gf": 1,
      "ga": 1,
      "ha": "a",

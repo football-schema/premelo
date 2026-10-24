@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:42.908Z",
+ "updated": "2026-10-24T14:54:04.718Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-10-18",
@@ -54,6 +54,7 @@
     {
      "r": "W",
      "opp": "Ajax",
+     "oppSlug": "ajax",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -62,6 +63,7 @@
     {
      "r": "W",
      "opp": "Sparta Rotterdam",
+     "oppSlug": "sparta-rotterdam",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -70,6 +72,7 @@
     {
      "r": "L",
      "opp": "Twente",
+     "oppSlug": "twente",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -78,6 +81,7 @@
     {
      "r": "W",
      "opp": "Heerenveen",
+     "oppSlug": "heerenveen",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -86,6 +90,7 @@
     {
      "r": "L",
      "opp": "Den Haag",
+     "oppSlug": "den-haag",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -117,6 +122,7 @@
    "rank": 1,
    "next": {
     "opp": "Feyenoord",
+    "oppSlug": "feyenoord",
     "ha": "h",
     "kickoff": "2026-10-25T13:30:00.000Z",
     "win": 0.533,
@@ -151,6 +157,7 @@
     {
      "r": "W",
      "opp": "NEC",
+     "oppSlug": "nijmegen",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -159,6 +166,7 @@
     {
      "r": "W",
      "opp": "Zwolle",
+     "oppSlug": "zwolle",
      "gf": 7,
      "ga": 0,
      "ha": "a",
@@ -167,6 +175,7 @@
     {
      "r": "W",
      "opp": "Utrecht",
+     "oppSlug": "utrecht",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -175,6 +184,7 @@
     {
      "r": "W",
      "opp": "AZ",
+     "oppSlug": "az-alkmaar",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -183,6 +193,7 @@
     {
      "r": "W",
      "opp": "Telstar",
+     "oppSlug": "telstar",
      "gf": 4,
      "ga": 3,
      "ha": "a",
@@ -214,6 +225,7 @@
    "rank": 2,
    "next": {
     "opp": "PSV",
+    "oppSlug": "psv-eindhoven",
     "ha": "a",
     "kickoff": "2026-10-25T13:30:00.000Z",
     "win": 0.237,
@@ -248,6 +260,7 @@
     {
      "r": "W",
      "opp": "Fortuna Sittard",
+     "oppSlug": "for-sittard",
      "gf": 5,
      "ga": 1,
      "ha": "a",
@@ -256,6 +269,7 @@
     {
      "r": "W",
      "opp": "Willem II",
+     "oppSlug": "willem-ii",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -264,6 +278,7 @@
     {
      "r": "D",
      "opp": "Excelsior",
+     "oppSlug": "excelsior",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -272,6 +287,7 @@
     {
      "r": "D",
      "opp": "NEC",
+     "oppSlug": "nijmegen",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -280,6 +296,7 @@
     {
      "r": "W",
      "opp": "Groningen",
+     "oppSlug": "groningen",
      "gf": 5,
      "ga": 2,
      "ha": "a",
@@ -311,6 +328,7 @@
    "rank": 3,
    "next": {
     "opp": "Sparta Rotterdam",
+    "oppSlug": "sparta-rotterdam",
     "ha": "a",
     "kickoff": "2026-10-25T15:45:00.000Z",
     "win": 0.56,
@@ -345,6 +363,7 @@
     {
      "r": "W",
      "opp": "Heerenveen",
+     "oppSlug": "heerenveen",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -353,6 +372,7 @@
     {
      "r": "D",
      "opp": "Willem II",
+     "oppSlug": "willem-ii",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -361,6 +381,7 @@
     {
      "r": "W",
      "opp": "Telstar",
+     "oppSlug": "telstar",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -369,6 +390,7 @@
     {
      "r": "L",
      "opp": "Feyenoord",
+     "oppSlug": "feyenoord",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -377,6 +399,7 @@
     {
      "r": "D",
      "opp": "Cambuur",
+     "oppSlug": "cambuur",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -408,6 +431,7 @@
    "rank": 4,
    "next": {
     "opp": "Twente",
+    "oppSlug": "twente",
     "ha": "h",
     "kickoff": "2026-10-25T19:00:00.000Z",
     "win": 0.425,
@@ -442,6 +466,7 @@
     {
      "r": "W",
      "opp": "Telstar",
+     "oppSlug": "telstar",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -450,6 +475,7 @@
     {
      "r": "W",
      "opp": "Den Haag",
+     "oppSlug": "den-haag",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -458,6 +484,7 @@
     {
      "r": "W",
      "opp": "PSV",
+     "oppSlug": "psv-eindhoven",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -466,6 +493,7 @@
     {
      "r": "D",
      "opp": "Fortuna Sittard",
+     "oppSlug": "for-sittard",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -474,6 +502,7 @@
     {
      "r": "L",
      "opp": "Utrecht",
+     "oppSlug": "utrecht",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -505,6 +534,7 @@
    "rank": 5,
    "next": {
     "opp": "AZ",
+    "oppSlug": "az-alkmaar",
     "ha": "a",
     "kickoff": "2026-10-25T19:00:00.000Z",
     "win": 0.306,
@@ -539,6 +569,7 @@
     {
      "r": "D",
      "opp": "Excelsior",
+     "oppSlug": "excelsior",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -547,6 +578,7 @@
     {
      "r": "L",
      "opp": "Cambuur",
+     "oppSlug": "cambuur",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -555,6 +587,7 @@
     {
      "r": "D",
      "opp": "Go Ahead Eagles",
+     "oppSlug": "go-ahead-eagles",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -563,6 +596,7 @@
     {
      "r": "D",
      "opp": "Ajax",
+     "oppSlug": "ajax",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -571,6 +605,7 @@
     {
      "r": "D",
      "opp": "Fortuna Sittard",
+     "oppSlug": "for-sittard",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -602,6 +637,7 @@
    "rank": 6,
    "next": {
     "opp": "Groningen",
+    "oppSlug": "groningen",
     "ha": "h",
     "kickoff": "2026-10-25T13:30:00.000Z",
     "win": 0.49,
@@ -636,6 +672,7 @@
     {
      "r": "D",
      "opp": "Go Ahead Eagles",
+     "oppSlug": "go-ahead-eagles",
      "gf": 3,
      "ga": 3,
      "ha": "h",
@@ -644,6 +681,7 @@
     {
      "r": "W",
      "opp": "Excelsior",
+     "oppSlug": "excelsior",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -652,6 +690,7 @@
     {
      "r": "L",
      "opp": "Feyenoord",
+     "oppSlug": "feyenoord",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -660,6 +699,7 @@
     {
      "r": "W",
      "opp": "Willem II",
+     "oppSlug": "willem-ii",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -668,6 +708,7 @@
     {
      "r": "W",
      "opp": "Twente",
+     "oppSlug": "twente",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -699,6 +740,7 @@
    "rank": 7,
    "next": {
     "opp": "Zwolle",
+    "oppSlug": "zwolle",
     "ha": "h",
     "kickoff": "2026-10-24T14:30:00.000Z",
     "win": 0.606,
@@ -733,6 +775,7 @@
     {
      "r": "L",
      "opp": "AZ",
+     "oppSlug": "az-alkmaar",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -741,6 +784,7 @@
     {
      "r": "D",
      "opp": "Telstar",
+     "oppSlug": "telstar",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -749,6 +793,7 @@
     {
      "r": "W",
      "opp": "Sparta Rotterdam",
+     "oppSlug": "sparta-rotterdam",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -757,6 +802,7 @@
     {
      "r": "L",
      "opp": "PSV",
+     "oppSlug": "psv-eindhoven",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -765,6 +811,7 @@
     {
      "r": "W",
      "opp": "Excelsior",
+     "oppSlug": "excelsior",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -796,6 +843,7 @@
    "rank": 8,
    "next": {
     "opp": "Den Haag",
+    "oppSlug": "den-haag",
     "ha": "a",
     "kickoff": "2026-10-24T19:00:00.000Z",
     "win": 0.486,
@@ -830,6 +878,7 @@
     {
      "r": "D",
      "opp": "Twente",
+     "oppSlug": "twente",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -838,6 +887,7 @@
     {
      "r": "D",
      "opp": "Go Ahead Eagles",
+     "oppSlug": "go-ahead-eagles",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -846,6 +896,7 @@
     {
      "r": "W",
      "opp": "Zwolle",
+     "oppSlug": "zwolle",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -854,6 +905,7 @@
     {
      "r": "W",
      "opp": "Excelsior",
+     "oppSlug": "excelsior",
      "gf": 5,
      "ga": 1,
      "ha": "a",
@@ -862,6 +914,7 @@
     {
      "r": "L",
      "opp": "Ajax",
+     "oppSlug": "ajax",
      "gf": 2,
      "ga": 5,
      "ha": "h",
@@ -893,6 +946,7 @@
    "rank": 9,
    "next": {
     "opp": "NEC",
+    "oppSlug": "nijmegen",
     "ha": "a",
     "kickoff": "2026-10-25T13:30:00.000Z",
     "win": 0.262,
@@ -927,6 +981,7 @@
     {
      "r": "D",
      "opp": "Utrecht",
+     "oppSlug": "utrecht",
      "gf": 3,
      "ga": 3,
      "ha": "a",
@@ -935,6 +990,7 @@
     {
      "r": "D",
      "opp": "Groningen",
+     "oppSlug": "groningen",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -943,6 +999,7 @@
     {
      "r": "D",
      "opp": "NEC",
+     "oppSlug": "nijmegen",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -951,6 +1008,7 @@
     {
      "r": "D",
      "opp": "Sparta Rotterdam",
+     "oppSlug": "sparta-rotterdam",
      "gf": 3,
      "ga": 3,
      "ha": "h",
@@ -959,6 +1017,7 @@
     {
      "r": "L",
      "opp": "Zwolle",
+     "oppSlug": "zwolle",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -1017,6 +1076,7 @@
     {
      "r": "D",
      "opp": "Zwolle",
+     "oppSlug": "zwolle",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1025,6 +1085,7 @@
     {
      "r": "L",
      "opp": "PSV",
+     "oppSlug": "psv-eindhoven",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -1033,6 +1094,7 @@
     {
      "r": "L",
      "opp": "Heerenveen",
+     "oppSlug": "heerenveen",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1041,6 +1103,7 @@
     {
      "r": "D",
      "opp": "Go Ahead Eagles",
+     "oppSlug": "go-ahead-eagles",
      "gf": 3,
      "ga": 3,
      "ha": "a",
@@ -1049,6 +1112,7 @@
     {
      "r": "W",
      "opp": "Willem II",
+     "oppSlug": "willem-ii",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1080,6 +1144,7 @@
    "rank": 11,
    "next": {
     "opp": "Ajax",
+    "oppSlug": "ajax",
     "ha": "h",
     "kickoff": "2026-10-25T15:45:00.000Z",
     "win": 0.205,
@@ -1114,6 +1179,7 @@
     {
      "r": "W",
      "opp": "Den Haag",
+     "oppSlug": "den-haag",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -1122,6 +1188,7 @@
     {
      "r": "L",
      "opp": "Ajax",
+     "oppSlug": "ajax",
      "gf": 1,
      "ga": 5,
      "ha": "h",
@@ -1130,6 +1197,7 @@
     {
      "r": "W",
      "opp": "Willem II",
+     "oppSlug": "willem-ii",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -1138,6 +1206,7 @@
     {
      "r": "D",
      "opp": "Twente",
+     "oppSlug": "twente",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1146,6 +1215,7 @@
     {
      "r": "D",
      "opp": "NEC",
+     "oppSlug": "nijmegen",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1177,6 +1247,7 @@
    "rank": 12,
    "next": {
     "opp": "Excelsior",
+    "oppSlug": "excelsior",
     "ha": "h",
     "kickoff": "2026-10-25T11:15:00.000Z",
     "win": 0.448,
@@ -1211,6 +1282,7 @@
     {
      "r": "D",
      "opp": "NEC",
+     "oppSlug": "nijmegen",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1219,6 +1291,7 @@
     {
      "r": "L",
      "opp": "Utrecht",
+     "oppSlug": "utrecht",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1227,6 +1300,7 @@
     {
      "r": "D",
      "opp": "Ajax",
+     "oppSlug": "ajax",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1235,6 +1309,7 @@
     {
      "r": "L",
      "opp": "Groningen",
+     "oppSlug": "groningen",
      "gf": 1,
      "ga": 5,
      "ha": "h",
@@ -1243,6 +1318,7 @@
     {
      "r": "L",
      "opp": "Heerenveen",
+     "oppSlug": "heerenveen",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1274,6 +1350,7 @@
    "rank": 13,
    "next": {
     "opp": "Fortuna Sittard",
+    "oppSlug": "for-sittard",
     "ha": "a",
     "kickoff": "2026-10-25T11:15:00.000Z",
     "win": 0.285,
@@ -1308,6 +1385,7 @@
     {
      "r": "D",
      "opp": "Sparta Rotterdam",
+     "oppSlug": "sparta-rotterdam",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1316,6 +1394,7 @@
     {
      "r": "L",
      "opp": "Feyenoord",
+     "oppSlug": "feyenoord",
      "gf": 0,
      "ga": 7,
      "ha": "h",
@@ -1324,6 +1403,7 @@
     {
      "r": "L",
      "opp": "Groningen",
+     "oppSlug": "groningen",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1332,6 +1412,7 @@
     {
      "r": "L",
      "opp": "Cambuur",
+     "oppSlug": "cambuur",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1340,6 +1421,7 @@
     {
      "r": "W",
      "opp": "Go Ahead Eagles",
+     "oppSlug": "go-ahead-eagles",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -1371,6 +1453,7 @@
    "rank": 14,
    "next": {
     "opp": "Utrecht",
+    "oppSlug": "utrecht",
     "ha": "a",
     "kickoff": "2026-10-24T14:30:00.000Z",
     "win": 0.174,
@@ -1405,6 +1488,7 @@
     {
      "r": "L",
      "opp": "Twente",
+     "oppSlug": "twente",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1413,6 +1497,7 @@
     {
      "r": "D",
      "opp": "Heerenveen",
+     "oppSlug": "heerenveen",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1421,6 +1506,7 @@
     {
      "r": "L",
      "opp": "AZ",
+     "oppSlug": "az-alkmaar",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1429,6 +1515,7 @@
     {
      "r": "D",
      "opp": "Den Haag",
+     "oppSlug": "den-haag",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1437,6 +1524,7 @@
     {
      "r": "L",
      "opp": "Feyenoord",
+     "oppSlug": "feyenoord",
      "gf": 3,
      "ga": 4,
      "ha": "h",
@@ -1495,6 +1583,7 @@
     {
      "r": "D",
      "opp": "Telstar",
+     "oppSlug": "telstar",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1503,6 +1592,7 @@
     {
      "r": "W",
      "opp": "NEC",
+     "oppSlug": "nijmegen",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -1511,6 +1601,7 @@
     {
      "r": "D",
      "opp": "Den Haag",
+     "oppSlug": "den-haag",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1519,6 +1610,7 @@
     {
      "r": "W",
      "opp": "Zwolle",
+     "oppSlug": "zwolle",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -1527,6 +1619,7 @@
     {
      "r": "D",
      "opp": "AZ",
+     "oppSlug": "az-alkmaar",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1558,6 +1651,7 @@
    "rank": 16,
    "next": {
     "opp": "Willem II",
+    "oppSlug": "willem-ii",
     "ha": "a",
     "kickoff": "2026-10-24T16:45:00.000Z",
     "win": 0.338,
@@ -1592,6 +1686,7 @@
     {
      "r": "L",
      "opp": "Fortuna Sittard",
+     "oppSlug": "for-sittard",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -1600,6 +1695,7 @@
     {
      "r": "L",
      "opp": "Twente",
+     "oppSlug": "twente",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1608,6 +1704,7 @@
     {
      "r": "D",
      "opp": "Cambuur",
+     "oppSlug": "cambuur",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1616,6 +1713,7 @@
     {
      "r": "D",
      "opp": "Telstar",
+     "oppSlug": "telstar",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1624,6 +1722,7 @@
     {
      "r": "W",
      "opp": "PSV",
+     "oppSlug": "psv-eindhoven",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1655,6 +1754,7 @@
    "rank": 17,
    "next": {
     "opp": "Heerenveen",
+    "oppSlug": "heerenveen",
     "ha": "h",
     "kickoff": "2026-10-24T19:00:00.000Z",
     "win": 0.256,
@@ -1689,6 +1789,7 @@
     {
      "r": "D",
      "opp": "AZ",
+     "oppSlug": "az-alkmaar",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1697,6 +1798,7 @@
     {
      "r": "L",
      "opp": "Ajax",
+     "oppSlug": "ajax",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -1705,6 +1807,7 @@
     {
      "r": "L",
      "opp": "Fortuna Sittard",
+     "oppSlug": "for-sittard",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1713,6 +1816,7 @@
     {
      "r": "L",
      "opp": "Utrecht",
+     "oppSlug": "utrecht",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1721,6 +1825,7 @@
     {
      "r": "L",
      "opp": "Sparta Rotterdam",
+     "oppSlug": "sparta-rotterdam",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1752,6 +1857,7 @@
    "rank": 18,
    "next": {
     "opp": "Cambuur",
+    "oppSlug": "cambuur",
     "ha": "h",
     "kickoff": "2026-10-24T16:45:00.000Z",
     "win": 0.39,

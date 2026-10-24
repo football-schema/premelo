@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:43.551Z",
+ "updated": "2026-10-24T14:54:05.360Z",
  "league": "superlig",
  "name": "Süper Lig",
  "through": "2026-10-19",
@@ -54,6 +54,7 @@
     {
      "r": "W",
      "opp": "İstanbul Başakşehir",
+     "oppSlug": "buyuksehyr",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -62,6 +63,7 @@
     {
      "r": "W",
      "opp": "Kocaelispor",
+     "oppSlug": "kocaelispor",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -70,6 +72,7 @@
     {
      "r": "L",
      "opp": "Trabzonspor",
+     "oppSlug": "trabzonspor",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -78,6 +81,7 @@
     {
      "r": "W",
      "opp": "Kasımpaşa",
+     "oppSlug": "kasimpasa",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -86,6 +90,7 @@
     {
      "r": "W",
      "opp": "Gençlerbirliği",
+     "oppSlug": "genclerbirligi",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -117,6 +122,7 @@
    "rank": 1,
    "next": {
     "opp": "Fenerbahçe",
+    "oppSlug": "fenerbahce",
     "ha": "h",
     "kickoff": "2026-10-26T18:30:00.000Z",
     "win": 0.457,
@@ -151,6 +157,7 @@
     {
      "r": "L",
      "opp": "Beşiktaş",
+     "oppSlug": "besiktas",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -159,6 +166,7 @@
     {
      "r": "D",
      "opp": "Gaziantep",
+     "oppSlug": "gaziantep",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -167,6 +175,7 @@
     {
      "r": "W",
      "opp": "Eyüpspor",
+     "oppSlug": "eyupspor",
      "gf": 8,
      "ga": 0,
      "ha": "h",
@@ -175,6 +184,7 @@
     {
      "r": "W",
      "opp": "Rizespor",
+     "oppSlug": "rizespor",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -183,6 +193,7 @@
     {
      "r": "W",
      "opp": "Alanyaspor",
+     "oppSlug": "alanyaspor",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -214,6 +225,7 @@
    "rank": 2,
    "next": {
     "opp": "Galatasaray",
+    "oppSlug": "galatasaray",
     "ha": "a",
     "kickoff": "2026-10-26T18:30:00.000Z",
     "win": 0.284,
@@ -248,6 +260,7 @@
     {
      "r": "W",
      "opp": "Fenerbahçe",
+     "oppSlug": "fenerbahce",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -256,6 +269,7 @@
     {
      "r": "W",
      "opp": "Erzurumspor",
+     "oppSlug": "erzurumspor",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -264,6 +278,7 @@
     {
      "r": "L",
      "opp": "Amedspor",
+     "oppSlug": "amedspor",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -272,6 +287,7 @@
     {
      "r": "W",
      "opp": "Kocaelispor",
+     "oppSlug": "kocaelispor",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -280,6 +296,7 @@
     {
      "r": "L",
      "opp": "Trabzonspor",
+     "oppSlug": "trabzonspor",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -311,6 +328,7 @@
    "rank": 3,
    "next": {
     "opp": "İstanbul Başakşehir",
+    "oppSlug": "buyuksehyr",
     "ha": "h",
     "kickoff": "2026-10-26T16:00:00.000Z",
     "win": 0.553,
@@ -345,6 +363,7 @@
     {
      "r": "W",
      "opp": "Gençlerbirliği",
+     "oppSlug": "genclerbirligi",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -353,6 +372,7 @@
     {
      "r": "L",
      "opp": "Konyaspor",
+     "oppSlug": "konyaspor",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -361,6 +381,7 @@
     {
      "r": "W",
      "opp": "Galatasaray",
+     "oppSlug": "galatasaray",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -369,6 +390,7 @@
     {
      "r": "W",
      "opp": "Samsunspor",
+     "oppSlug": "samsunspor",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -377,6 +399,7 @@
     {
      "r": "W",
      "opp": "Beşiktaş",
+     "oppSlug": "besiktas",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -408,6 +431,7 @@
    "rank": 4,
    "next": {
     "opp": "Rizespor",
+    "oppSlug": "rizespor",
     "ha": "a",
     "kickoff": "2026-10-26T16:00:00.000Z",
     "win": 0.468,
@@ -442,6 +466,7 @@
     {
      "r": "L",
      "opp": "Galatasaray",
+     "oppSlug": "galatasaray",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -450,6 +475,7 @@
     {
      "r": "L",
      "opp": "Amedspor",
+     "oppSlug": "amedspor",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -458,6 +484,7 @@
     {
      "r": "W",
      "opp": "Gençlerbirliği",
+     "oppSlug": "genclerbirligi",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -466,6 +493,7 @@
     {
      "r": "D",
      "opp": "Konyaspor",
+     "oppSlug": "konyaspor",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -474,6 +502,7 @@
     {
      "r": "W",
      "opp": "Gaziantep",
+     "oppSlug": "gaziantep",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -505,6 +534,7 @@
    "rank": 5,
    "next": {
     "opp": "Beşiktaş",
+    "oppSlug": "besiktas",
     "ha": "a",
     "kickoff": "2026-10-26T16:00:00.000Z",
     "win": 0.204,
@@ -539,6 +569,7 @@
     {
      "r": "L",
      "opp": "Gaziantep",
+     "oppSlug": "gaziantep",
      "gf": 2,
      "ga": 4,
      "ha": "h",
@@ -547,6 +578,7 @@
     {
      "r": "D",
      "opp": "Alanyaspor",
+     "oppSlug": "alanyaspor",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -555,6 +587,7 @@
     {
      "r": "D",
      "opp": "Rizespor",
+     "oppSlug": "rizespor",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -563,6 +596,7 @@
     {
      "r": "W",
      "opp": "Eyüpspor",
+     "oppSlug": "eyupspor",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -571,6 +605,7 @@
     {
      "r": "W",
      "opp": "Kocaelispor",
+     "oppSlug": "kocaelispor",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -602,6 +637,7 @@
    "rank": 6,
    "next": {
     "opp": "Corum",
+    "oppSlug": "corum",
     "ha": "h",
     "kickoff": "2026-10-25T16:00:00.000Z",
     "win": 0.554,
@@ -636,6 +672,7 @@
     {
      "r": "W",
      "opp": "Rizespor",
+     "oppSlug": "rizespor",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -644,6 +681,7 @@
     {
      "r": "D",
      "opp": "Göztepe",
+     "oppSlug": "goztep",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -652,6 +690,7 @@
     {
      "r": "W",
      "opp": "Corum",
+     "oppSlug": "corum",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -660,6 +699,7 @@
     {
      "r": "D",
      "opp": "Erzurumspor",
+     "oppSlug": "erzurumspor",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -668,6 +708,7 @@
     {
      "r": "L",
      "opp": "Fenerbahçe",
+     "oppSlug": "fenerbahce",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -726,6 +767,7 @@
     {
      "r": "D",
      "opp": "Amedspor",
+     "oppSlug": "amedspor",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -734,6 +776,7 @@
     {
      "r": "W",
      "opp": "Gençlerbirliği",
+     "oppSlug": "genclerbirligi",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -742,6 +785,7 @@
     {
      "r": "D",
      "opp": "Konyaspor",
+     "oppSlug": "konyaspor",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -750,6 +794,7 @@
     {
      "r": "L",
      "opp": "Galatasaray",
+     "oppSlug": "galatasaray",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -758,6 +803,7 @@
     {
      "r": "W",
      "opp": "Samsunspor",
+     "oppSlug": "samsunspor",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -816,6 +862,7 @@
     {
      "r": "L",
      "opp": "Alanyaspor",
+     "oppSlug": "alanyaspor",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -824,6 +871,7 @@
     {
      "r": "W",
      "opp": "Eyüpspor",
+     "oppSlug": "eyupspor",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -832,6 +880,7 @@
     {
      "r": "D",
      "opp": "Göztepe",
+     "oppSlug": "goztep",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -840,6 +889,7 @@
     {
      "r": "L",
      "opp": "Fenerbahçe",
+     "oppSlug": "fenerbahce",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -848,6 +898,7 @@
     {
      "r": "L",
      "opp": "Corum",
+     "oppSlug": "corum",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -879,6 +930,7 @@
    "rank": 9,
    "next": {
     "opp": "Trabzonspor",
+    "oppSlug": "trabzonspor",
     "ha": "h",
     "kickoff": "2026-10-26T16:00:00.000Z",
     "win": 0.269,
@@ -913,6 +965,7 @@
     {
      "r": "L",
      "opp": "Kocaelispor",
+     "oppSlug": "kocaelispor",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -921,6 +974,7 @@
     {
      "r": "L",
      "opp": "Corum",
+     "oppSlug": "corum",
      "gf": 1,
      "ga": 5,
      "ha": "h",
@@ -929,6 +983,7 @@
     {
      "r": "L",
      "opp": "Erzurumspor",
+     "oppSlug": "erzurumspor",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -937,6 +992,7 @@
     {
      "r": "L",
      "opp": "Trabzonspor",
+     "oppSlug": "trabzonspor",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -945,6 +1001,7 @@
     {
      "r": "L",
      "opp": "Kasımpaşa",
+     "oppSlug": "kasimpasa",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -976,6 +1033,7 @@
    "rank": 10,
    "next": {
     "opp": "Amedspor",
+    "oppSlug": "amedspor",
     "ha": "h",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.47,
@@ -1010,6 +1068,7 @@
     {
      "r": "D",
      "opp": "Kasımpaşa",
+     "oppSlug": "kasimpasa",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1018,6 +1077,7 @@
     {
      "r": "W",
      "opp": "İstanbul Başakşehir",
+     "oppSlug": "buyuksehyr",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -1026,6 +1086,7 @@
     {
      "r": "W",
      "opp": "Beşiktaş",
+     "oppSlug": "besiktas",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1034,6 +1095,7 @@
     {
      "r": "D",
      "opp": "Gençlerbirliği",
+     "oppSlug": "genclerbirligi",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1042,6 +1104,7 @@
     {
      "r": "W",
      "opp": "Konyaspor",
+     "oppSlug": "konyaspor",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1061,6 +1124,7 @@
    "rank": 11,
    "next": {
     "opp": "Samsunspor",
+    "oppSlug": "samsunspor",
     "ha": "a",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.262,
@@ -1095,6 +1159,7 @@
     {
      "r": "W",
      "opp": "Eyüpspor",
+     "oppSlug": "eyupspor",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -1103,6 +1168,7 @@
     {
      "r": "W",
      "opp": "Samsunspor",
+     "oppSlug": "samsunspor",
      "gf": 5,
      "ga": 1,
      "ha": "a",
@@ -1111,6 +1177,7 @@
     {
      "r": "L",
      "opp": "Alanyaspor",
+     "oppSlug": "alanyaspor",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1119,6 +1186,7 @@
     {
      "r": "W",
      "opp": "Gaziantep",
+     "oppSlug": "gaziantep",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -1127,6 +1195,7 @@
     {
      "r": "W",
      "opp": "Rizespor",
+     "oppSlug": "rizespor",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1146,6 +1215,7 @@
    "rank": 12,
    "next": {
     "opp": "Göztepe",
+    "oppSlug": "goztep",
     "ha": "a",
     "kickoff": "2026-10-25T16:00:00.000Z",
     "win": 0.201,
@@ -1180,6 +1250,7 @@
     {
      "r": "L",
      "opp": "Erzurumspor",
+     "oppSlug": "erzurumspor",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1188,6 +1259,7 @@
     {
      "r": "W",
      "opp": "Trabzonspor",
+     "oppSlug": "trabzonspor",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1196,6 +1268,7 @@
     {
      "r": "D",
      "opp": "Kasımpaşa",
+     "oppSlug": "kasimpasa",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1204,6 +1277,7 @@
     {
      "r": "D",
      "opp": "İstanbul Başakşehir",
+     "oppSlug": "buyuksehyr",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1212,6 +1286,7 @@
     {
      "r": "L",
      "opp": "Amedspor",
+     "oppSlug": "amedspor",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1243,6 +1318,7 @@
    "rank": 13,
    "next": {
     "opp": "Gençlerbirliği",
+    "oppSlug": "genclerbirligi",
     "ha": "h",
     "kickoff": "2026-10-25T13:00:00.000Z",
     "win": 0.499,
@@ -1277,6 +1353,7 @@
     {
      "r": "W",
      "opp": "Samsunspor",
+     "oppSlug": "samsunspor",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1285,6 +1362,7 @@
     {
      "r": "L",
      "opp": "Galatasaray",
+     "oppSlug": "galatasaray",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1293,6 +1371,7 @@
     {
      "r": "W",
      "opp": "Gaziantep",
+     "oppSlug": "gaziantep",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1301,6 +1380,7 @@
     {
      "r": "L",
      "opp": "Beşiktaş",
+     "oppSlug": "besiktas",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1309,6 +1389,7 @@
     {
      "r": "L",
      "opp": "Göztepe",
+     "oppSlug": "goztep",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1367,6 +1448,7 @@
     {
      "r": "W",
      "opp": "Göztepe",
+     "oppSlug": "goztep",
      "gf": 4,
      "ga": 2,
      "ha": "a",
@@ -1375,6 +1457,7 @@
     {
      "r": "D",
      "opp": "Fenerbahçe",
+     "oppSlug": "fenerbahce",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1383,6 +1466,7 @@
     {
      "r": "L",
      "opp": "Kocaelispor",
+     "oppSlug": "kocaelispor",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1391,6 +1475,7 @@
     {
      "r": "L",
      "opp": "Corum",
+     "oppSlug": "corum",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -1399,6 +1484,7 @@
     {
      "r": "L",
      "opp": "İstanbul Başakşehir",
+     "oppSlug": "buyuksehyr",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1430,6 +1516,7 @@
    "rank": 15,
    "next": {
     "opp": "Erzurumspor",
+    "oppSlug": "erzurumspor",
     "ha": "h",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.473,
@@ -1464,6 +1551,7 @@
     {
      "r": "L",
      "opp": "Trabzonspor",
+     "oppSlug": "trabzonspor",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -1472,6 +1560,7 @@
     {
      "r": "L",
      "opp": "Kasımpaşa",
+     "oppSlug": "kasimpasa",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1480,6 +1569,7 @@
     {
      "r": "L",
      "opp": "İstanbul Başakşehir",
+     "oppSlug": "buyuksehyr",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1488,6 +1578,7 @@
     {
      "r": "D",
      "opp": "Amedspor",
+     "oppSlug": "amedspor",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1496,6 +1587,7 @@
     {
      "r": "L",
      "opp": "Galatasaray",
+     "oppSlug": "galatasaray",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1527,6 +1619,7 @@
    "rank": 16,
    "next": {
     "opp": "Konyaspor",
+    "oppSlug": "konyaspor",
     "ha": "a",
     "kickoff": "2026-10-25T13:00:00.000Z",
     "win": 0.23,
@@ -1561,6 +1654,7 @@
     {
      "r": "W",
      "opp": "Konyaspor",
+     "oppSlug": "konyaspor",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1569,6 +1663,7 @@
     {
      "r": "L",
      "opp": "Beşiktaş",
+     "oppSlug": "besiktas",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1577,6 +1672,7 @@
     {
      "r": "W",
      "opp": "Samsunspor",
+     "oppSlug": "samsunspor",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1585,6 +1681,7 @@
     {
      "r": "D",
      "opp": "Alanyaspor",
+     "oppSlug": "alanyaspor",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1593,6 +1690,7 @@
     {
      "r": "W",
      "opp": "Eyüpspor",
+     "oppSlug": "eyupspor",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1624,6 +1722,7 @@
    "rank": 17,
    "next": {
     "opp": "Gaziantep",
+    "oppSlug": "gaziantep",
     "ha": "a",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.254,
@@ -1658,6 +1757,7 @@
     {
      "r": "L",
      "opp": "Corum",
+     "oppSlug": "corum",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1666,6 +1766,7 @@
     {
      "r": "L",
      "opp": "Rizespor",
+     "oppSlug": "rizespor",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1674,6 +1775,7 @@
     {
      "r": "L",
      "opp": "Fenerbahçe",
+     "oppSlug": "fenerbahce",
      "gf": 0,
      "ga": 8,
      "ha": "a",
@@ -1682,6 +1784,7 @@
     {
      "r": "L",
      "opp": "Göztepe",
+     "oppSlug": "goztep",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -1690,6 +1793,7 @@
     {
      "r": "L",
      "opp": "Erzurumspor",
+     "oppSlug": "erzurumspor",
      "gf": 0,
      "ga": 2,
      "ha": "a",

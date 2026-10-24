@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:43.566Z",
+ "updated": "2026-10-24T14:54:05.374Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-10-18",
@@ -47,6 +47,7 @@
     {
      "r": "D",
      "opp": "Volos NFC",
+     "oppSlug": "volos-nfc",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -55,6 +56,7 @@
     {
      "r": "L",
      "opp": "OFI",
+     "oppSlug": "ofi-crete",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -63,6 +65,7 @@
     {
      "r": "W",
      "opp": "Levadiakos",
+     "oppSlug": "levadiakos",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -71,6 +74,7 @@
     {
      "r": "W",
      "opp": "Panathinaikos",
+     "oppSlug": "panathinaikos",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -79,6 +83,7 @@
     {
      "r": "W",
      "opp": "Panetolikos",
+     "oppSlug": "panetolikos",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -110,6 +115,7 @@
    "rank": 1,
    "next": {
     "opp": "Kalamata",
+    "oppSlug": "kalamata",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.828,
@@ -138,6 +144,7 @@
     {
      "r": "D",
      "opp": "Kifisia",
+     "oppSlug": "kifisia",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -146,6 +153,7 @@
     {
      "r": "W",
      "opp": "Aris Thessaloniki",
+     "oppSlug": "aris",
      "gf": 5,
      "ga": 0,
      "ha": "h",
@@ -154,6 +162,7 @@
     {
      "r": "D",
      "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -162,6 +171,7 @@
     {
      "r": "W",
      "opp": "Volos NFC",
+     "oppSlug": "volos-nfc",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -170,6 +180,7 @@
     {
      "r": "W",
      "opp": "OFI",
+     "oppSlug": "ofi-crete",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -201,6 +212,7 @@
    "rank": 2,
    "next": {
     "opp": "Panetolikos",
+    "oppSlug": "panetolikos",
     "ha": "h",
     "kickoff": "2026-10-24T17:00:00.000Z",
     "win": 0.821,
@@ -229,6 +241,7 @@
     {
      "r": "W",
      "opp": "Kifisia",
+     "oppSlug": "kifisia",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -237,6 +250,7 @@
     {
      "r": "W",
      "opp": "Panetolikos",
+     "oppSlug": "panetolikos",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -245,6 +259,7 @@
     {
      "r": "W",
      "opp": "Kalamata",
+     "oppSlug": "kalamata",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -253,6 +268,7 @@
     {
      "r": "L",
      "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -261,6 +277,7 @@
     {
      "r": "W",
      "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -292,6 +309,7 @@
    "rank": 3,
    "next": {
     "opp": "Volos NFC",
+    "oppSlug": "volos-nfc",
     "ha": "a",
     "kickoff": "2026-10-25T16:00:00.000Z",
     "win": 0.702,
@@ -320,6 +338,7 @@
     {
      "r": "L",
      "opp": "Panathinaikos",
+     "oppSlug": "panathinaikos",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -328,6 +347,7 @@
     {
      "r": "W",
      "opp": "Aris Thessaloniki",
+     "oppSlug": "aris",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -336,6 +356,7 @@
     {
      "r": "W",
      "opp": "Panetolikos",
+     "oppSlug": "panetolikos",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -344,6 +365,7 @@
     {
      "r": "L",
      "opp": "Kalamata",
+     "oppSlug": "kalamata",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -352,6 +374,7 @@
     {
      "r": "W",
      "opp": "Iraklis",
+     "oppSlug": "iraklis",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -383,6 +406,7 @@
    "rank": 4,
    "next": {
     "opp": "OFI",
+    "oppSlug": "ofi-crete",
     "ha": "a",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.553,
@@ -411,6 +435,7 @@
     {
      "r": "L",
      "opp": "AEK Athens",
+     "oppSlug": "aek",
      "gf": 0,
      "ga": 5,
      "ha": "a",
@@ -419,6 +444,7 @@
     {
      "r": "L",
      "opp": "PAOK",
+     "oppSlug": "paok",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -427,6 +453,7 @@
     {
      "r": "D",
      "opp": "Iraklis",
+     "oppSlug": "iraklis",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -435,6 +462,7 @@
     {
      "r": "W",
      "opp": "Volos NFC",
+     "oppSlug": "volos-nfc",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -443,6 +471,7 @@
     {
      "r": "W",
      "opp": "Kifisia",
+     "oppSlug": "kifisia",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -474,6 +503,7 @@
    "rank": 5,
    "next": {
     "opp": "Atromitos",
+    "oppSlug": "atromitos",
     "ha": "h",
     "kickoff": "2026-10-25T17:30:00.000Z",
     "win": 0.515,
@@ -502,6 +532,7 @@
     {
      "r": "W",
      "opp": "Kifisia",
+     "oppSlug": "kifisia",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -510,6 +541,7 @@
     {
      "r": "W",
      "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -518,6 +550,7 @@
     {
      "r": "D",
      "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -526,6 +559,7 @@
     {
      "r": "L",
      "opp": "AEK Athens",
+     "oppSlug": "aek",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -534,6 +568,7 @@
     {
      "r": "L",
      "opp": "Kalamata",
+     "oppSlug": "kalamata",
      "gf": 3,
      "ga": 4,
      "ha": "a",
@@ -565,6 +600,7 @@
    "rank": 6,
    "next": {
     "opp": "PAOK",
+    "oppSlug": "paok",
     "ha": "h",
     "kickoff": "2026-10-25T18:00:00.000Z",
     "win": 0.202,
@@ -593,6 +629,7 @@
     {
      "r": "L",
      "opp": "PAOK",
+     "oppSlug": "paok",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -601,6 +638,7 @@
     {
      "r": "D",
      "opp": "Kalamata",
+     "oppSlug": "kalamata",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -609,6 +647,7 @@
     {
      "r": "D",
      "opp": "Iraklis",
+     "oppSlug": "iraklis",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -617,6 +656,7 @@
     {
      "r": "L",
      "opp": "Kifisia",
+     "oppSlug": "kifisia",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -625,6 +665,7 @@
     {
      "r": "L",
      "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -656,6 +697,7 @@
    "rank": 7,
    "next": {
     "opp": "Aris Thessaloniki",
+    "oppSlug": "aris",
     "ha": "a",
     "kickoff": "2026-10-25T17:30:00.000Z",
     "win": 0.215,
@@ -684,6 +726,7 @@
     {
      "r": "L",
      "opp": "Panetolikos",
+     "oppSlug": "panetolikos",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -692,6 +735,7 @@
     {
      "r": "D",
      "opp": "Kifisia",
+     "oppSlug": "kifisia",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -700,6 +744,7 @@
     {
      "r": "L",
      "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -708,6 +753,7 @@
     {
      "r": "L",
      "opp": "Iraklis",
+     "oppSlug": "iraklis",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -716,6 +762,7 @@
     {
      "r": "D",
      "opp": "Volos NFC",
+     "oppSlug": "volos-nfc",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -747,6 +794,7 @@
    "rank": 8,
    "next": {
     "opp": "Asteras Tripolis",
+    "oppSlug": "asteras-tripolis",
     "ha": "a",
     "kickoff": "2026-10-24T16:30:00.000Z",
     "win": 0.343,
@@ -775,6 +823,7 @@
     {
      "r": "W",
      "opp": "Levadiakos",
+     "oppSlug": "levadiakos",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -783,6 +832,7 @@
     {
      "r": "L",
      "opp": "Panathinaikos",
+     "oppSlug": "panathinaikos",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -791,6 +841,7 @@
     {
      "r": "L",
      "opp": "PAOK",
+     "oppSlug": "paok",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -799,6 +850,7 @@
     {
      "r": "L",
      "opp": "Kifisia",
+     "oppSlug": "kifisia",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -807,6 +859,7 @@
     {
      "r": "L",
      "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -838,6 +891,7 @@
    "rank": 9,
    "next": {
     "opp": "AEK Athens",
+    "oppSlug": "aek",
     "ha": "a",
     "kickoff": "2026-10-24T17:00:00.000Z",
     "win": 0.047,
@@ -866,6 +920,7 @@
     {
      "r": "L",
      "opp": "Iraklis",
+     "oppSlug": "iraklis",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -874,6 +929,7 @@
     {
      "r": "D",
      "opp": "AEK Athens",
+     "oppSlug": "aek",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -882,6 +938,7 @@
     {
      "r": "D",
      "opp": "OFI",
+     "oppSlug": "ofi-crete",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -890,6 +947,7 @@
     {
      "r": "W",
      "opp": "Atromitos",
+     "oppSlug": "atromitos",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -898,6 +956,7 @@
     {
      "r": "L",
      "opp": "Panathinaikos",
+     "oppSlug": "panathinaikos",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -929,6 +988,7 @@
    "rank": 10,
    "next": {
     "opp": "Levadiakos",
+    "oppSlug": "levadiakos",
     "ha": "h",
     "kickoff": "2026-10-24T16:30:00.000Z",
     "win": 0.37,
@@ -957,6 +1017,7 @@
     {
      "r": "L",
      "opp": "Panathinaikos",
+     "oppSlug": "panathinaikos",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -965,6 +1026,7 @@
     {
      "r": "D",
      "opp": "Levadiakos",
+     "oppSlug": "levadiakos",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -973,6 +1035,7 @@
     {
      "r": "W",
      "opp": "Atromitos",
+     "oppSlug": "atromitos",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -981,6 +1044,7 @@
     {
      "r": "W",
      "opp": "Panetolikos",
+     "oppSlug": "panetolikos",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -989,6 +1053,7 @@
     {
      "r": "L",
      "opp": "Aris Thessaloniki",
+     "oppSlug": "aris",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1020,6 +1085,7 @@
    "rank": 11,
    "next": {
     "opp": "Iraklis",
+    "oppSlug": "iraklis",
     "ha": "a",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.333,
@@ -1048,6 +1114,7 @@
     {
      "r": "W",
      "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -1056,6 +1123,7 @@
     {
      "r": "D",
      "opp": "Atromitos",
+     "oppSlug": "atromitos",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1064,6 +1132,7 @@
     {
      "r": "D",
      "opp": "Aris Thessaloniki",
+     "oppSlug": "aris",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1072,6 +1141,7 @@
     {
      "r": "W",
      "opp": "Levadiakos",
+     "oppSlug": "levadiakos",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1080,6 +1150,7 @@
     {
      "r": "L",
      "opp": "PAOK",
+     "oppSlug": "paok",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1111,6 +1182,7 @@
    "rank": 12,
    "next": {
     "opp": "Kifisia",
+    "oppSlug": "kifisia",
     "ha": "h",
     "kickoff": "2026-10-24T16:00:00.000Z",
     "win": 0.363,
@@ -1139,6 +1211,7 @@
     {
      "r": "D",
      "opp": "Atromitos",
+     "oppSlug": "atromitos",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1147,6 +1220,7 @@
     {
      "r": "W",
      "opp": "Volos NFC",
+     "oppSlug": "volos-nfc",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1155,6 +1229,7 @@
     {
      "r": "L",
      "opp": "Panathinaikos",
+     "oppSlug": "panathinaikos",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1163,6 +1238,7 @@
     {
      "r": "W",
      "opp": "PAOK",
+     "oppSlug": "paok",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -1171,6 +1247,7 @@
     {
      "r": "W",
      "opp": "OFI",
+     "oppSlug": "ofi-crete",
      "gf": 4,
      "ga": 3,
      "ha": "h",
@@ -1202,6 +1279,7 @@
    "rank": 13,
    "next": {
     "opp": "Olympiacos",
+    "oppSlug": "olympiakos",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.045,
@@ -1230,6 +1308,7 @@
     {
      "r": "D",
      "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1238,6 +1317,7 @@
     {
      "r": "L",
      "opp": "Kalamata",
+     "oppSlug": "kalamata",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1246,6 +1326,7 @@
     {
      "r": "L",
      "opp": "AEK Athens",
+     "oppSlug": "aek",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1254,6 +1335,7 @@
     {
      "r": "L",
      "opp": "Aris Thessaloniki",
+     "oppSlug": "aris",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1262,6 +1344,7 @@
     {
      "r": "D",
      "opp": "Levadiakos",
+     "oppSlug": "levadiakos",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1293,6 +1376,7 @@
    "rank": 14,
    "next": {
     "opp": "Panathinaikos",
+    "oppSlug": "panathinaikos",
     "ha": "h",
     "kickoff": "2026-10-25T16:00:00.000Z",
     "win": 0.105,

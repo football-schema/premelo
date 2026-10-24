@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:43.868Z",
+ "updated": "2026-10-24T14:54:05.680Z",
  "league": "sweden",
  "name": "Allsvenskan",
  "through": "2026-10-19",
@@ -54,6 +54,7 @@
     {
      "r": "W",
      "opp": "Kalmar",
+     "oppSlug": "kalmar",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -62,6 +63,7 @@
     {
      "r": "W",
      "opp": "GAIS",
+     "oppSlug": "gais",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -70,6 +72,7 @@
     {
      "r": "L",
      "opp": "Elfsborg",
+     "oppSlug": "elfsborg",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -78,6 +81,7 @@
     {
      "r": "W",
      "opp": "Hammarby",
+     "oppSlug": "hammarby",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -86,6 +90,7 @@
     {
      "r": "W",
      "opp": "Brommapojkarna",
+     "oppSlug": "brommapojkarna",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -117,6 +122,7 @@
    "rank": 1,
    "next": {
     "opp": "Orgryte",
+    "oppSlug": "orgryte",
     "ha": "h",
     "kickoff": "2026-10-24T15:30:00.000Z",
     "win": 0.777,
@@ -151,6 +157,7 @@
     {
      "r": "D",
      "opp": "Orgryte",
+     "oppSlug": "orgryte",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -159,6 +166,7 @@
     {
      "r": "W",
      "opp": "Brommapojkarna",
+     "oppSlug": "brommapojkarna",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -167,6 +175,7 @@
     {
      "r": "W",
      "opp": "Degerfors",
+     "oppSlug": "degerfors",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -175,6 +184,7 @@
     {
      "r": "L",
      "opp": "Djurgarden",
+     "oppSlug": "djurgarden",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -183,6 +193,7 @@
     {
      "r": "W",
      "opp": "Halmstad",
+     "oppSlug": "halmstad",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -214,6 +225,7 @@
    "rank": 2,
    "next": {
     "opp": "Mjallby",
+    "oppSlug": "mjallby",
     "ha": "a",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.501,
@@ -248,6 +260,7 @@
     {
      "r": "W",
      "opp": "Vasteras SK",
+     "oppSlug": "vasteras-sk",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -256,6 +269,7 @@
     {
      "r": "W",
      "opp": "Degerfors",
+     "oppSlug": "degerfors",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -264,6 +278,7 @@
     {
      "r": "W",
      "opp": "Orgryte",
+     "oppSlug": "orgryte",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -272,6 +287,7 @@
     {
      "r": "W",
      "opp": "GAIS",
+     "oppSlug": "gais",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -280,6 +296,7 @@
     {
      "r": "D",
      "opp": "Elfsborg",
+     "oppSlug": "elfsborg",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -311,6 +328,7 @@
    "rank": 3,
    "next": {
     "opp": "AIK",
+    "oppSlug": "aik",
     "ha": "h",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.595,
@@ -345,6 +363,7 @@
     {
      "r": "D",
      "opp": "GAIS",
+     "oppSlug": "gais",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -353,6 +372,7 @@
     {
      "r": "D",
      "opp": "Mjallby",
+     "oppSlug": "mjallby",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -361,6 +381,7 @@
     {
      "r": "W",
      "opp": "Kalmar",
+     "oppSlug": "kalmar",
      "gf": 5,
      "ga": 0,
      "ha": "a",
@@ -369,6 +390,7 @@
     {
      "r": "W",
      "opp": "Orgryte",
+     "oppSlug": "orgryte",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -377,6 +399,7 @@
     {
      "r": "W",
      "opp": "Malmo FF",
+     "oppSlug": "malmo-ff",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -408,6 +431,7 @@
    "rank": 4,
    "next": {
     "opp": "Degerfors",
+    "oppSlug": "degerfors",
     "ha": "h",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.644,
@@ -442,6 +466,7 @@
     {
      "r": "L",
      "opp": "Brommapojkarna",
+     "oppSlug": "brommapojkarna",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -450,6 +475,7 @@
     {
      "r": "W",
      "opp": "Kalmar",
+     "oppSlug": "kalmar",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -458,6 +484,7 @@
     {
      "r": "W",
      "opp": "Djurgarden",
+     "oppSlug": "djurgarden",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -466,6 +493,7 @@
     {
      "r": "W",
      "opp": "Halmstad",
+     "oppSlug": "halmstad",
      "gf": 4,
      "ga": 0,
      "ha": "h",
@@ -474,6 +502,7 @@
     {
      "r": "D",
      "opp": "Sirius",
+     "oppSlug": "sirius",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -532,6 +561,7 @@
     {
      "r": "D",
      "opp": "AIK",
+     "oppSlug": "aik",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -540,6 +570,7 @@
     {
      "r": "W",
      "opp": "Orgryte",
+     "oppSlug": "orgryte",
      "gf": 4,
      "ga": 1,
      "ha": "h",
@@ -548,6 +579,7 @@
     {
      "r": "L",
      "opp": "Vasteras SK",
+     "oppSlug": "vasteras-sk",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -556,6 +588,7 @@
     {
      "r": "W",
      "opp": "Kalmar",
+     "oppSlug": "kalmar",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -564,6 +597,7 @@
     {
      "r": "L",
      "opp": "Hacken",
+     "oppSlug": "hacken",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -622,6 +656,7 @@
     {
      "r": "D",
      "opp": "Hacken",
+     "oppSlug": "hacken",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -630,6 +665,7 @@
     {
      "r": "L",
      "opp": "Djurgarden",
+     "oppSlug": "djurgarden",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -638,6 +674,7 @@
     {
      "r": "W",
      "opp": "Mjallby",
+     "oppSlug": "mjallby",
      "gf": 3,
      "ga": 0,
      "ha": "a",
@@ -646,6 +683,7 @@
     {
      "r": "L",
      "opp": "Sirius",
+     "oppSlug": "sirius",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -654,6 +692,7 @@
     {
      "r": "L",
      "opp": "Orgryte",
+     "oppSlug": "orgryte",
      "gf": 2,
      "ga": 4,
      "ha": "a",
@@ -685,6 +724,7 @@
    "rank": 7,
    "next": {
     "opp": "Goteborg",
+    "oppSlug": "goteborg",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.434,
@@ -719,6 +759,7 @@
     {
      "r": "W",
      "opp": "Mjallby",
+     "oppSlug": "mjallby",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -727,6 +768,7 @@
     {
      "r": "W",
      "opp": "Halmstad",
+     "oppSlug": "halmstad",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -735,6 +777,7 @@
     {
      "r": "W",
      "opp": "Brommapojkarna",
+     "oppSlug": "brommapojkarna",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -743,6 +786,7 @@
     {
      "r": "W",
      "opp": "Vasteras SK",
+     "oppSlug": "vasteras-sk",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -751,6 +795,7 @@
     {
      "r": "D",
      "opp": "AIK",
+     "oppSlug": "aik",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -782,6 +827,7 @@
    "rank": 8,
    "next": {
     "opp": "GAIS",
+    "oppSlug": "gais",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
     "win": 0.291,
@@ -816,6 +862,7 @@
     {
      "r": "L",
      "opp": "Sirius",
+     "oppSlug": "sirius",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -824,6 +871,7 @@
     {
      "r": "W",
      "opp": "AIK",
+     "oppSlug": "aik",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -832,6 +880,7 @@
     {
      "r": "W",
      "opp": "Malmo FF",
+     "oppSlug": "malmo-ff",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -840,6 +889,7 @@
     {
      "r": "L",
      "opp": "Goteborg",
+     "oppSlug": "goteborg",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -848,6 +898,7 @@
     {
      "r": "W",
      "opp": "Mjallby",
+     "oppSlug": "mjallby",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -906,6 +957,7 @@
     {
      "r": "L",
      "opp": "Vasteras SK",
+     "oppSlug": "vasteras-sk",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -914,6 +966,7 @@
     {
      "r": "D",
      "opp": "Mjallby",
+     "oppSlug": "mjallby",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -922,6 +975,7 @@
     {
      "r": "L",
      "opp": "Halmstad",
+     "oppSlug": "halmstad",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -930,6 +984,7 @@
     {
      "r": "L",
      "opp": "Brommapojkarna",
+     "oppSlug": "brommapojkarna",
      "gf": 5,
      "ga": 6,
      "ha": "h",
@@ -938,6 +993,7 @@
     {
      "r": "D",
      "opp": "Goteborg",
+     "oppSlug": "goteborg",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -969,6 +1025,7 @@
    "rank": 10,
    "next": {
     "opp": "Sirius",
+    "oppSlug": "sirius",
     "ha": "a",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.176,
@@ -1003,6 +1060,7 @@
     {
      "r": "D",
      "opp": "Hacken",
+     "oppSlug": "hacken",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1011,6 +1069,7 @@
     {
      "r": "D",
      "opp": "AIK",
+     "oppSlug": "aik",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1019,6 +1078,7 @@
     {
      "r": "L",
      "opp": "GAIS",
+     "oppSlug": "gais",
      "gf": 0,
      "ga": 3,
      "ha": "h",
@@ -1027,6 +1087,7 @@
     {
      "r": "D",
      "opp": "Degerfors",
+     "oppSlug": "degerfors",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1035,6 +1096,7 @@
     {
      "r": "L",
      "opp": "Vasteras SK",
+     "oppSlug": "vasteras-sk",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1066,6 +1128,7 @@
    "rank": 11,
    "next": {
     "opp": "Hammarby",
+    "oppSlug": "hammarby",
     "ha": "h",
     "kickoff": "2026-10-25T16:30:00.000Z",
     "win": 0.237,
@@ -1100,6 +1163,7 @@
     {
      "r": "W",
      "opp": "Elfsborg",
+     "oppSlug": "elfsborg",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1108,6 +1172,7 @@
     {
      "r": "L",
      "opp": "Hammarby",
+     "oppSlug": "hammarby",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -1116,6 +1181,7 @@
     {
      "r": "L",
      "opp": "Goteborg",
+     "oppSlug": "goteborg",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1124,6 +1190,7 @@
     {
      "r": "W",
      "opp": "AIK",
+     "oppSlug": "aik",
      "gf": 6,
      "ga": 5,
      "ha": "a",
@@ -1132,6 +1199,7 @@
     {
      "r": "L",
      "opp": "Djurgarden",
+     "oppSlug": "djurgarden",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1163,6 +1231,7 @@
    "rank": 12,
    "next": {
     "opp": "Kalmar",
+    "oppSlug": "kalmar",
     "ha": "a",
     "kickoff": "2026-10-24T15:30:00.000Z",
     "win": 0.392,
@@ -1197,6 +1266,7 @@
     {
      "r": "W",
      "opp": "Halmstad",
+     "oppSlug": "halmstad",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1205,6 +1275,7 @@
     {
      "r": "L",
      "opp": "Sirius",
+     "oppSlug": "sirius",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1213,6 +1284,7 @@
     {
      "r": "L",
      "opp": "Hammarby",
+     "oppSlug": "hammarby",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1221,6 +1293,7 @@
     {
      "r": "D",
      "opp": "Mjallby",
+     "oppSlug": "mjallby",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1229,6 +1302,7 @@
     {
      "r": "L",
      "opp": "Kalmar",
+     "oppSlug": "kalmar",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1260,6 +1334,7 @@
    "rank": 13,
    "next": {
     "opp": "Hacken",
+    "oppSlug": "hacken",
     "ha": "a",
     "kickoff": "2026-10-24T13:00:00.000Z",
     "win": 0.141,
@@ -1294,6 +1369,7 @@
     {
      "r": "L",
      "opp": "Djurgarden",
+     "oppSlug": "djurgarden",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -1302,6 +1378,7 @@
     {
      "r": "L",
      "opp": "Elfsborg",
+     "oppSlug": "elfsborg",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1310,6 +1387,7 @@
     {
      "r": "L",
      "opp": "Hacken",
+     "oppSlug": "hacken",
      "gf": 0,
      "ga": 5,
      "ha": "h",
@@ -1318,6 +1396,7 @@
     {
      "r": "L",
      "opp": "Malmo FF",
+     "oppSlug": "malmo-ff",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1326,6 +1405,7 @@
     {
      "r": "W",
      "opp": "Degerfors",
+     "oppSlug": "degerfors",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -1357,6 +1437,7 @@
    "rank": 14,
    "next": {
     "opp": "Brommapojkarna",
+    "oppSlug": "brommapojkarna",
     "ha": "h",
     "kickoff": "2026-10-24T15:30:00.000Z",
     "win": 0.332,
@@ -1391,6 +1472,7 @@
     {
      "r": "D",
      "opp": "Hammarby",
+     "oppSlug": "hammarby",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -1399,6 +1481,7 @@
     {
      "r": "L",
      "opp": "Malmo FF",
+     "oppSlug": "malmo-ff",
      "gf": 1,
      "ga": 4,
      "ha": "a",
@@ -1407,6 +1490,7 @@
     {
      "r": "L",
      "opp": "Sirius",
+     "oppSlug": "sirius",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1415,6 +1499,7 @@
     {
      "r": "L",
      "opp": "Hacken",
+     "oppSlug": "hacken",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1423,6 +1508,7 @@
     {
      "r": "W",
      "opp": "GAIS",
+     "oppSlug": "gais",
      "gf": 4,
      "ga": 2,
      "ha": "h",
@@ -1454,6 +1540,7 @@
    "rank": 15,
    "next": {
     "opp": "Djurgarden",
+    "oppSlug": "djurgarden",
     "ha": "a",
     "kickoff": "2026-10-24T15:30:00.000Z",
     "win": 0.074,
@@ -1488,6 +1575,7 @@
     {
      "r": "L",
      "opp": "Degerfors",
+     "oppSlug": "degerfors",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1496,6 +1584,7 @@
     {
      "r": "L",
      "opp": "Goteborg",
+     "oppSlug": "goteborg",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1504,6 +1593,7 @@
     {
      "r": "W",
      "opp": "AIK",
+     "oppSlug": "aik",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1512,6 +1602,7 @@
     {
      "r": "L",
      "opp": "Elfsborg",
+     "oppSlug": "elfsborg",
      "gf": 0,
      "ga": 4,
      "ha": "a",
@@ -1520,6 +1611,7 @@
     {
      "r": "L",
      "opp": "Hammarby",
+     "oppSlug": "hammarby",
      "gf": 0,
      "ga": 1,
      "ha": "h",

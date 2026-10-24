@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:44.420Z",
+ "updated": "2026-10-24T14:54:06.233Z",
  "league": "ireland",
  "name": "League of Ireland",
  "through": "2026-10-19",
@@ -47,6 +47,7 @@
     {
      "r": "W",
      "opp": "Galway",
+     "oppSlug": "galway",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -55,6 +56,7 @@
     {
      "r": "W",
      "opp": "Drogheda",
+     "oppSlug": "drogheda",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -63,6 +65,7 @@
     {
      "r": "W",
      "opp": "Dundalk",
+     "oppSlug": "dundalk",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -71,6 +74,7 @@
     {
      "r": "L",
      "opp": "Shamrock Rovers",
+     "oppSlug": "shamrock-rovers",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -79,6 +83,7 @@
     {
      "r": "W",
      "opp": "Waterford",
+     "oppSlug": "waterford",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -131,6 +136,7 @@
     {
      "r": "L",
      "opp": "St. Patricks",
+     "oppSlug": "st-patricks",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -139,6 +145,7 @@
     {
      "r": "W",
      "opp": "Waterford",
+     "oppSlug": "waterford",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -147,6 +154,7 @@
     {
      "r": "W",
      "opp": "Drogheda",
+     "oppSlug": "drogheda",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -155,6 +163,7 @@
     {
      "r": "W",
      "opp": "Bohemians",
+     "oppSlug": "bohemians",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -163,6 +172,7 @@
     {
      "r": "L",
      "opp": "Galway",
+     "oppSlug": "galway",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -215,6 +225,7 @@
     {
      "r": "W",
      "opp": "Shamrock Rovers",
+     "oppSlug": "shamrock-rovers",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -223,6 +234,7 @@
     {
      "r": "W",
      "opp": "Dundalk",
+     "oppSlug": "dundalk",
      "gf": 4,
      "ga": 0,
      "ha": "a",
@@ -231,6 +243,7 @@
     {
      "r": "W",
      "opp": "Sligo Rovers",
+     "oppSlug": "sligo-rovers",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -239,6 +252,7 @@
     {
      "r": "L",
      "opp": "Shelbourne",
+     "oppSlug": "shelbourne",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -247,6 +261,7 @@
     {
      "r": "L",
      "opp": "Derry City",
+     "oppSlug": "derry-city",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -299,6 +314,7 @@
     {
      "r": "L",
      "opp": "Drogheda",
+     "oppSlug": "drogheda",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -307,6 +323,7 @@
     {
      "r": "W",
      "opp": "Dundalk",
+     "oppSlug": "dundalk",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -315,6 +332,7 @@
     {
      "r": "D",
      "opp": "Galway",
+     "oppSlug": "galway",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -323,6 +341,7 @@
     {
      "r": "W",
      "opp": "Sligo Rovers",
+     "oppSlug": "sligo-rovers",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -331,6 +350,7 @@
     {
      "r": "W",
      "opp": "St. Patricks",
+     "oppSlug": "st-patricks",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -383,6 +403,7 @@
     {
      "r": "W",
      "opp": "Shelbourne",
+     "oppSlug": "shelbourne",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -391,6 +412,7 @@
     {
      "r": "D",
      "opp": "Waterford",
+     "oppSlug": "waterford",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -399,6 +421,7 @@
     {
      "r": "W",
      "opp": "Galway",
+     "oppSlug": "galway",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -407,6 +430,7 @@
     {
      "r": "L",
      "opp": "Drogheda",
+     "oppSlug": "drogheda",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -415,6 +439,7 @@
     {
      "r": "W",
      "opp": "St. Patricks",
+     "oppSlug": "st-patricks",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -467,6 +492,7 @@
     {
      "r": "D",
      "opp": "Dundalk",
+     "oppSlug": "dundalk",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -475,6 +501,7 @@
     {
      "r": "D",
      "opp": "Derry City",
+     "oppSlug": "derry-city",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -483,6 +510,7 @@
     {
      "r": "L",
      "opp": "Shamrock Rovers",
+     "oppSlug": "shamrock-rovers",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -491,6 +519,7 @@
     {
      "r": "L",
      "opp": "Bohemians",
+     "oppSlug": "bohemians",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -499,6 +528,7 @@
     {
      "r": "W",
      "opp": "Galway",
+     "oppSlug": "galway",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -551,6 +581,7 @@
     {
      "r": "W",
      "opp": "Sligo Rovers",
+     "oppSlug": "sligo-rovers",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -559,6 +590,7 @@
     {
      "r": "L",
      "opp": "Derry City",
+     "oppSlug": "derry-city",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -567,6 +599,7 @@
     {
      "r": "D",
      "opp": "Shelbourne",
+     "oppSlug": "shelbourne",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -575,6 +608,7 @@
     {
      "r": "W",
      "opp": "Shamrock Rovers",
+     "oppSlug": "shamrock-rovers",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -583,6 +617,7 @@
     {
      "r": "L",
      "opp": "Waterford",
+     "oppSlug": "waterford",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -635,6 +670,7 @@
     {
      "r": "W",
      "opp": "Sligo Rovers",
+     "oppSlug": "sligo-rovers",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -643,6 +679,7 @@
     {
      "r": "W",
      "opp": "Shelbourne",
+     "oppSlug": "shelbourne",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -651,6 +688,7 @@
     {
      "r": "L",
      "opp": "Bohemians",
+     "oppSlug": "bohemians",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -659,6 +697,7 @@
     {
      "r": "L",
      "opp": "Shamrock Rovers",
+     "oppSlug": "shamrock-rovers",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -667,6 +706,7 @@
     {
      "r": "W",
      "opp": "Derry City",
+     "oppSlug": "derry-city",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -719,6 +759,7 @@
     {
      "r": "D",
      "opp": "Waterford",
+     "oppSlug": "waterford",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -727,6 +768,7 @@
     {
      "r": "L",
      "opp": "St. Patricks",
+     "oppSlug": "st-patricks",
      "gf": 0,
      "ga": 4,
      "ha": "h",
@@ -735,6 +777,7 @@
     {
      "r": "L",
      "opp": "Shelbourne",
+     "oppSlug": "shelbourne",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -743,6 +786,7 @@
     {
      "r": "L",
      "opp": "Bohemians",
+     "oppSlug": "bohemians",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -751,6 +795,7 @@
     {
      "r": "D",
      "opp": "Sligo Rovers",
+     "oppSlug": "sligo-rovers",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -803,6 +848,7 @@
     {
      "r": "L",
      "opp": "Drogheda",
+     "oppSlug": "drogheda",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -811,6 +857,7 @@
     {
      "r": "L",
      "opp": "Galway",
+     "oppSlug": "galway",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -819,6 +866,7 @@
     {
      "r": "L",
      "opp": "St. Patricks",
+     "oppSlug": "st-patricks",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -827,6 +875,7 @@
     {
      "r": "L",
      "opp": "Shelbourne",
+     "oppSlug": "shelbourne",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -835,6 +884,7 @@
     {
      "r": "D",
      "opp": "Dundalk",
+     "oppSlug": "dundalk",
      "gf": 1,
      "ga": 1,
      "ha": "h",

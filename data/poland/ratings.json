@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:50:44.414Z",
+ "updated": "2026-10-24T14:54:06.228Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-19",
@@ -54,6 +54,7 @@
     {
      "r": "W",
      "opp": "Rakow",
+     "oppSlug": "rakow",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -62,6 +63,7 @@
     {
      "r": "L",
      "opp": "Gornik Zabrze",
+     "oppSlug": "gornik-zabrze",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -70,6 +72,7 @@
     {
      "r": "W",
      "opp": "Radomiak Radom",
+     "oppSlug": "radomiak-radom",
      "gf": 5,
      "ga": 1,
      "ha": "h",
@@ -78,6 +81,7 @@
     {
      "r": "W",
      "opp": "Slask Wroclaw",
+     "oppSlug": "slask-wroclaw",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -86,6 +90,7 @@
     {
      "r": "W",
      "opp": "Korona Kielce",
+     "oppSlug": "korona-kielce",
      "gf": 6,
      "ga": 1,
      "ha": "h",
@@ -117,6 +122,7 @@
    "rank": 1,
    "next": {
     "opp": "Legia",
+    "oppSlug": "legia",
     "ha": "a",
     "kickoff": "2026-10-25T17:30:00.000Z",
     "win": 0.349,
@@ -151,6 +157,7 @@
     {
      "r": "W",
      "opp": "Motor Lublin",
+     "oppSlug": "motor-lublin",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -159,6 +166,7 @@
     {
      "r": "D",
      "opp": "Widzew Lodz",
+     "oppSlug": "widzew-lodz",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -167,6 +175,7 @@
     {
      "r": "W",
      "opp": "Jagiellonia",
+     "oppSlug": "jagiellonia",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -175,6 +184,7 @@
     {
      "r": "W",
      "opp": "Wisla",
+     "oppSlug": "wisla",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -183,6 +193,7 @@
     {
      "r": "D",
      "opp": "Cracovia",
+     "oppSlug": "cracovia",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -214,6 +225,7 @@
    "rank": 2,
    "next": {
     "opp": "Lech Poznan",
+    "oppSlug": "lech-poznan",
     "ha": "h",
     "kickoff": "2026-10-25T17:30:00.000Z",
     "win": 0.37,
@@ -248,6 +260,7 @@
     {
      "r": "W",
      "opp": "Motor Lublin",
+     "oppSlug": "motor-lublin",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -256,6 +269,7 @@
     {
      "r": "L",
      "opp": "Zaglebie",
+     "oppSlug": "zaglebie",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -264,6 +278,7 @@
     {
      "r": "L",
      "opp": "Korona Kielce",
+     "oppSlug": "korona-kielce",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -272,6 +287,7 @@
     {
      "r": "L",
      "opp": "GKS Katowice",
+     "oppSlug": "gks-katowice",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -280,6 +296,7 @@
     {
      "r": "W",
      "opp": "Wieczysta Krakow",
+     "oppSlug": "wieczysta-krakow",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -311,6 +328,7 @@
    "rank": 3,
    "next": {
     "opp": "Wisla",
+    "oppSlug": "wisla",
     "ha": "a",
     "kickoff": "2026-10-24T18:15:00.000Z",
     "win": 0.415,
@@ -345,6 +363,7 @@
     {
      "r": "W",
      "opp": "Slask Wroclaw",
+     "oppSlug": "slask-wroclaw",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -353,6 +372,7 @@
     {
      "r": "L",
      "opp": "Wisla",
+     "oppSlug": "wisla",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -361,6 +381,7 @@
     {
      "r": "L",
      "opp": "Legia",
+     "oppSlug": "legia",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -369,6 +390,7 @@
     {
      "r": "L",
      "opp": "Gornik Zabrze",
+     "oppSlug": "gornik-zabrze",
      "gf": 1,
      "ga": 3,
      "ha": "h",
@@ -377,6 +399,7 @@
     {
      "r": "L",
      "opp": "Zaglebie",
+     "oppSlug": "zaglebie",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -408,6 +431,7 @@
    "rank": 4,
    "next": {
     "opp": "Wisla Plock",
+    "oppSlug": "wisla-plock",
     "ha": "h",
     "kickoff": "2026-10-25T14:45:00.000Z",
     "win": 0.57,
@@ -442,6 +466,7 @@
     {
      "r": "D",
      "opp": "Wisla Plock",
+     "oppSlug": "wisla-plock",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -450,6 +475,7 @@
     {
      "r": "W",
      "opp": "Wieczysta Krakow",
+     "oppSlug": "wieczysta-krakow",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -458,6 +484,7 @@
     {
      "r": "W",
      "opp": "Piast Gliwice",
+     "oppSlug": "piast-gliwice",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -466,6 +493,7 @@
     {
      "r": "W",
      "opp": "Korona Kielce",
+     "oppSlug": "korona-kielce",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -474,6 +502,7 @@
     {
      "r": "W",
      "opp": "GKS Katowice",
+     "oppSlug": "gks-katowice",
      "gf": 1,
      "ga": 0,
      "ha": "a",
@@ -505,6 +534,7 @@
    "rank": 5,
    "next": {
     "opp": "Radomiak Radom",
+    "oppSlug": "radomiak-radom",
     "ha": "h",
     "kickoff": "2026-10-24T15:30:00.000Z",
     "win": 0.573,
@@ -539,6 +569,7 @@
     {
      "r": "W",
      "opp": "Lech Poznan",
+     "oppSlug": "lech-poznan",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -547,6 +578,7 @@
     {
      "r": "W",
      "opp": "Korona Kielce",
+     "oppSlug": "korona-kielce",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -555,6 +587,7 @@
     {
      "r": "D",
      "opp": "Motor Lublin",
+     "oppSlug": "motor-lublin",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -563,6 +596,7 @@
     {
      "r": "W",
      "opp": "Jagiellonia",
+     "oppSlug": "jagiellonia",
      "gf": 3,
      "ga": 1,
      "ha": "a",
@@ -571,6 +605,7 @@
     {
      "r": "D",
      "opp": "Piast Gliwice",
+     "oppSlug": "piast-gliwice",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -629,6 +664,7 @@
     {
      "r": "L",
      "opp": "Zaglebie",
+     "oppSlug": "zaglebie",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -637,6 +673,7 @@
     {
      "r": "W",
      "opp": "Cracovia",
+     "oppSlug": "cracovia",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -645,6 +682,7 @@
     {
      "r": "W",
      "opp": "Rakow",
+     "oppSlug": "rakow",
      "gf": 4,
      "ga": 1,
      "ha": "a",
@@ -653,6 +691,7 @@
     {
      "r": "W",
      "opp": "Wieczysta Krakow",
+     "oppSlug": "wieczysta-krakow",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -661,6 +700,7 @@
     {
      "r": "L",
      "opp": "Pogon Szczecin",
+     "oppSlug": "pogon-szczecin",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -719,6 +759,7 @@
     {
      "r": "W",
      "opp": "GKS Katowice",
+     "oppSlug": "gks-katowice",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -727,6 +768,7 @@
     {
      "r": "W",
      "opp": "Radomiak Radom",
+     "oppSlug": "radomiak-radom",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -735,6 +777,7 @@
     {
      "r": "L",
      "opp": "Pogon Szczecin",
+     "oppSlug": "pogon-szczecin",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -743,6 +786,7 @@
     {
      "r": "W",
      "opp": "Widzew Lodz",
+     "oppSlug": "widzew-lodz",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -751,6 +795,7 @@
     {
      "r": "D",
      "opp": "Gornik Zabrze",
+     "oppSlug": "gornik-zabrze",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -809,6 +854,7 @@
     {
      "r": "L",
      "opp": "Gornik Zabrze",
+     "oppSlug": "gornik-zabrze",
      "gf": 0,
      "ga": 1,
      "ha": "h",
@@ -817,6 +863,7 @@
     {
      "r": "L",
      "opp": "Wisla Plock",
+     "oppSlug": "wisla-plock",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -825,6 +872,7 @@
     {
      "r": "L",
      "opp": "GKS Katowice",
+     "oppSlug": "gks-katowice",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -833,6 +881,7 @@
     {
      "r": "W",
      "opp": "Zaglebie",
+     "oppSlug": "zaglebie",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -841,6 +890,7 @@
     {
      "r": "D",
      "opp": "Legia",
+     "oppSlug": "legia",
      "gf": 1,
      "ga": 1,
      "ha": "h",
@@ -899,6 +949,7 @@
     {
      "r": "W",
      "opp": "GKS Katowice",
+     "oppSlug": "gks-katowice",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -907,6 +958,7 @@
     {
      "r": "W",
      "opp": "Rakow",
+     "oppSlug": "rakow",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -915,6 +967,7 @@
     {
      "r": "L",
      "opp": "Wisla Plock",
+     "oppSlug": "wisla-plock",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -923,6 +976,7 @@
     {
      "r": "L",
      "opp": "Cracovia",
+     "oppSlug": "cracovia",
      "gf": 1,
      "ga": 3,
      "ha": "a",
@@ -931,6 +985,7 @@
     {
      "r": "W",
      "opp": "Jagiellonia",
+     "oppSlug": "jagiellonia",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -989,6 +1044,7 @@
     {
      "r": "W",
      "opp": "Slask Wroclaw",
+     "oppSlug": "slask-wroclaw",
      "gf": 2,
      "ga": 1,
      "ha": "a",
@@ -997,6 +1053,7 @@
     {
      "r": "L",
      "opp": "Gornik Zabrze",
+     "oppSlug": "gornik-zabrze",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1005,6 +1062,7 @@
     {
      "r": "W",
      "opp": "Rakow",
+     "oppSlug": "rakow",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1013,6 +1071,7 @@
     {
      "r": "L",
      "opp": "Pogon Szczecin",
+     "oppSlug": "pogon-szczecin",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1021,6 +1080,7 @@
     {
      "r": "L",
      "opp": "Lech Poznan",
+     "oppSlug": "lech-poznan",
      "gf": 1,
      "ga": 6,
      "ha": "a",
@@ -1079,6 +1139,7 @@
     {
      "r": "D",
      "opp": "Radomiak Radom",
+     "oppSlug": "radomiak-radom",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1087,6 +1148,7 @@
     {
      "r": "D",
      "opp": "Legia",
+     "oppSlug": "legia",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1095,6 +1157,7 @@
     {
      "r": "D",
      "opp": "Wieczysta Krakow",
+     "oppSlug": "wieczysta-krakow",
      "gf": 2,
      "ga": 2,
      "ha": "h",
@@ -1103,6 +1166,7 @@
     {
      "r": "L",
      "opp": "Piast Gliwice",
+     "oppSlug": "piast-gliwice",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1111,6 +1175,7 @@
     {
      "r": "D",
      "opp": "Wisla",
+     "oppSlug": "wisla",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1169,6 +1234,7 @@
     {
      "r": "L",
      "opp": "Legia",
+     "oppSlug": "legia",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -1177,6 +1243,7 @@
     {
      "r": "L",
      "opp": "Rakow",
+     "oppSlug": "rakow",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1185,6 +1252,7 @@
     {
      "r": "D",
      "opp": "Gornik Zabrze",
+     "oppSlug": "gornik-zabrze",
      "gf": 0,
      "ga": 0,
      "ha": "h",
@@ -1193,6 +1261,7 @@
     {
      "r": "W",
      "opp": "Radomiak Radom",
+     "oppSlug": "radomiak-radom",
      "gf": 3,
      "ga": 2,
      "ha": "a",
@@ -1201,6 +1270,7 @@
     {
      "r": "W",
      "opp": "Slask Wroclaw",
+     "oppSlug": "slask-wroclaw",
      "gf": 3,
      "ga": 2,
      "ha": "h",
@@ -1259,6 +1329,7 @@
     {
      "r": "D",
      "opp": "Pogon Szczecin",
+     "oppSlug": "pogon-szczecin",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1267,6 +1338,7 @@
     {
      "r": "W",
      "opp": "Cracovia",
+     "oppSlug": "cracovia",
      "gf": 3,
      "ga": 1,
      "ha": "h",
@@ -1275,6 +1347,7 @@
     {
      "r": "W",
      "opp": "Zaglebie",
+     "oppSlug": "zaglebie",
      "gf": 2,
      "ga": 0,
      "ha": "a",
@@ -1283,6 +1356,7 @@
     {
      "r": "L",
      "opp": "Wieczysta Krakow",
+     "oppSlug": "wieczysta-krakow",
      "gf": 0,
      "ga": 3,
      "ha": "a",
@@ -1291,6 +1365,7 @@
     {
      "r": "W",
      "opp": "Radomiak Radom",
+     "oppSlug": "radomiak-radom",
      "gf": 1,
      "ga": 0,
      "ha": "h",
@@ -1322,6 +1397,7 @@
    "rank": 14,
    "next": {
     "opp": "Jagiellonia",
+    "oppSlug": "jagiellonia",
     "ha": "a",
     "kickoff": "2026-10-25T14:45:00.000Z",
     "win": 0.186,
@@ -1356,6 +1432,7 @@
     {
      "r": "D",
      "opp": "Korona Kielce",
+     "oppSlug": "korona-kielce",
      "gf": 1,
      "ga": 1,
      "ha": "a",
@@ -1364,6 +1441,7 @@
     {
      "r": "W",
      "opp": "Jagiellonia",
+     "oppSlug": "jagiellonia",
      "gf": 2,
      "ga": 0,
      "ha": "h",
@@ -1372,6 +1450,7 @@
     {
      "r": "W",
      "opp": "Slask Wroclaw",
+     "oppSlug": "slask-wroclaw",
      "gf": 2,
      "ga": 1,
      "ha": "h",
@@ -1380,6 +1459,7 @@
     {
      "r": "L",
      "opp": "Legia",
+     "oppSlug": "legia",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1388,6 +1468,7 @@
     {
      "r": "D",
      "opp": "Widzew Lodz",
+     "oppSlug": "widzew-lodz",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1419,6 +1500,7 @@
    "rank": 15,
    "next": {
     "opp": "Rakow",
+    "oppSlug": "rakow",
     "ha": "h",
     "kickoff": "2026-10-24T18:15:00.000Z",
     "win": 0.306,
@@ -1453,6 +1535,7 @@
     {
      "r": "D",
      "opp": "Widzew Lodz",
+     "oppSlug": "widzew-lodz",
      "gf": 0,
      "ga": 0,
      "ha": "a",
@@ -1461,6 +1544,7 @@
     {
      "r": "L",
      "opp": "Piast Gliwice",
+     "oppSlug": "piast-gliwice",
      "gf": 0,
      "ga": 2,
      "ha": "h",
@@ -1469,6 +1553,7 @@
     {
      "r": "L",
      "opp": "Lech Poznan",
+     "oppSlug": "lech-poznan",
      "gf": 1,
      "ga": 5,
      "ha": "a",
@@ -1477,6 +1562,7 @@
     {
      "r": "L",
      "opp": "Motor Lublin",
+     "oppSlug": "motor-lublin",
      "gf": 2,
      "ga": 3,
      "ha": "h",
@@ -1485,6 +1571,7 @@
     {
      "r": "L",
      "opp": "Wisla Plock",
+     "oppSlug": "wisla-plock",
      "gf": 0,
      "ga": 1,
      "ha": "a",
@@ -1516,6 +1603,7 @@
    "rank": 16,
    "next": {
     "opp": "Pogon Szczecin",
+    "oppSlug": "pogon-szczecin",
     "ha": "a",
     "kickoff": "2026-10-24T15:30:00.000Z",
     "win": 0.184,
@@ -1550,6 +1638,7 @@
     {
      "r": "L",
      "opp": "Pogon Szczecin",
+     "oppSlug": "pogon-szczecin",
      "gf": 0,
      "ga": 2,
      "ha": "a",
@@ -1558,6 +1647,7 @@
     {
      "r": "D",
      "opp": "Widzew Lodz",
+     "oppSlug": "widzew-lodz",
      "gf": 2,
      "ga": 2,
      "ha": "a",
@@ -1566,6 +1656,7 @@
     {
      "r": "W",
      "opp": "Wisla Plock",
+     "oppSlug": "wisla-plock",
      "gf": 3,
      "ga": 0,
      "ha": "h",
@@ -1574,6 +1665,7 @@
     {
      "r": "L",
      "opp": "GKS Katowice",
+     "oppSlug": "gks-katowice",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1582,6 +1674,7 @@
     {
      "r": "L",
      "opp": "Rakow",
+     "oppSlug": "rakow",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1604,6 +1697,7 @@
    "rank": 17,
    "next": {
     "opp": "Slask Wroclaw",
+    "oppSlug": "slask-wroclaw",
     "ha": "a",
     "kickoff": "2026-10-25T12:15:00.000Z",
     "win": 0.29,
@@ -1638,6 +1732,7 @@
     {
      "r": "L",
      "opp": "Jagiellonia",
+     "oppSlug": "jagiellonia",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1646,6 +1741,7 @@
     {
      "r": "L",
      "opp": "Korona Kielce",
+     "oppSlug": "korona-kielce",
      "gf": 1,
      "ga": 2,
      "ha": "h",
@@ -1654,6 +1750,7 @@
     {
      "r": "L",
      "opp": "Wisla",
+     "oppSlug": "wisla",
      "gf": 1,
      "ga": 2,
      "ha": "a",
@@ -1662,6 +1759,7 @@
     {
      "r": "L",
      "opp": "Lech Poznan",
+     "oppSlug": "lech-poznan",
      "gf": 1,
      "ga": 4,
      "ha": "h",
@@ -1670,6 +1768,7 @@
     {
      "r": "L",
      "opp": "Motor Lublin",
+     "oppSlug": "motor-lublin",
      "gf": 2,
      "ga": 3,
      "ha": "a",
@@ -1701,6 +1800,7 @@
    "rank": 18,
    "next": {
     "opp": "Wieczysta Krakow",
+    "oppSlug": "wieczysta-krakow",
     "ha": "h",
     "kickoff": "2026-10-25T12:15:00.000Z",
     "win": 0.434,
