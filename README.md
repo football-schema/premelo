@@ -62,8 +62,7 @@ node scripts/build.mjs              # -> data/ratings.json, data/fixtures.json, 
 npm test
 ```
 
-No dependencies: Node 22 or later. A GitHub Action (`.github/workflows/update.yml`) refreshes this season's results and
-rebuilds twice a day.
+No dependencies: Node 22 or later. To update after a matchday: `node scripts/fetch.mjs --current && node scripts/import.mjs --current && node scripts/build.mjs`, then commit and push. The site is the `gh-pages` branch as it is.
 
 | File | What's in it |
 |---|---|
