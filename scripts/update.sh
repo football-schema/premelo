@@ -1,5 +1,5 @@
 #!/bin/sh
-# premelo's twice-daily update, run by cron on the maintainer's machine (08:00 and 23:40): this season's results from
+# premelo's daily update, run by cron on the maintainer's machine at 08:00: this season's results from
 # football-data (one request a second), UEFA's European cups and matchday's newest results, the ratings and predictions
 # rebuilt, and data/ committed and pushed if anything moved. The site is the gh-pages branch as it is: nothing runs on
 # GitHub's side.

@@ -1,57 +1,8 @@
 {
- "updated": "2026-10-24T10:25:10.643Z",
+ "updated": "2026-10-24T12:39:07.719Z",
  "league": "poland",
  "season": "2026-27",
  "fixtures": [
-  {
-   "kickoff": "2026-10-24T10:15:00.000Z",
-   "home": "Piast Gliwice",
-   "away": "Cracovia",
-   "homeSlug": "piast-gliwice",
-   "awaySlug": "cracovia",
-   "homeName": "Piast Gliwice",
-   "awayName": "Cracovia",
-   "elo": [
-    1470,
-    1451
-   ],
-   "dr": 89,
-   "H": 0.465,
-   "D": 0.271,
-   "A": 0.264,
-   "xg": [
-    1.6,
-    1.1
-   ],
-   "O25": 0.491,
-   "btts": 0.537,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.104
-    ],
-    [
-     "2-1",
-     0.091
-    ],
-    [
-     "2-0",
-     0.081
-    ],
-    [
-     "0-0",
-     0.076
-    ],
-    [
-     "0-1",
-     0.074
-    ]
-   ]
-  },
   {
    "kickoff": "2026-10-24T12:45:00.000Z",
    "home": "Korona Kielce",

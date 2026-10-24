@@ -113,7 +113,7 @@ node scripts/build.mjs                          # -> ratings, fixtures, club his
 npm test
 ```
 
-Updates: `scripts/update.sh` fetches this season's results (one request a second), imports, scores, builds, and commits and pushes `data/` if anything moved. Cron runs it on the maintainer's machine at 08:00 and 23:40; nothing runs on GitHub's side. No dependencies: Node 22 or later. The site is the `gh-pages` branch as it is.
+Updates: `scripts/update.sh` fetches this season's results (one request a second), imports, scores, builds, and commits and pushes `data/` if anything moved. Cron runs it on the maintainer's machine once a day at 08:00, after matchday's own refresh; nothing runs on GitHub's side. No dependencies: Node 22 or later. The site is the `gh-pages` branch as it is.
 
 | File | What's in it |
 |---|---|
