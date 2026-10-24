@@ -63,7 +63,7 @@ function fixtureRows(list) {
   return out;
 }
 
-let division = 'top', order = 'elo', openClub = null;
+let division = 'top', order = 'elo', openClub = null, sanction = false;
 // a projected chance, as sports sites print them: – for none, <1% and >99% at the ends; the cell tinted by it
 const chance = (x, tone) => x == null ? '<td class="n hide-s"></td>' : `<td class="n proj${tone === 'down' ? ' dn' : ''}" style="--p:${Math.round(Math.sqrt(x) * 100)}%">${x === 0 ? '<span class="muted">–</span>' : x < 0.005 ? '<1%' : x >= 0.995 ? '>99%' : `${pct(x)}%`}</td>`;
 // a club's chance of each finishing place, a bar a place in the zone colours of the position badges, and the run of
@@ -80,25 +80,26 @@ function spread(name, q, zone) {
 
 // the projected final table: clubs in order of their average final points, and each one's chance of every place, a
 // cell a place shaded by that chance in the zone colours. On a phone the places give way to title, top and down.
-function projectedTable(rows, pj, zone) {
-  const n = pj.clubs, edge = pj.top ?? pj.up, list = rows.filter((c) => c.proj?.pos).sort((a, b) => b.proj.pts - a.proj.pts || a.table.pos - b.table.pos);
+function projectedTable(rows, pj, zone, projOf, marked) {
+  const n = pj.clubs, edge = pj.top ?? pj.up, list = rows.filter((c) => projOf(c)?.pos).sort((a, b) => projOf(b).pts - projOf(a).pts || a.table.pos - b.table.pos);
   const cell = (x, i) => { const z = zone(i + 1).trim() || 'zm', cut = i + 1 === edge || i + 1 === n - pj.down ? ' cut' : '';
     return `<td class="hm ${z}${cut}${x >= 0.3 ? ' deep' : ''} hide-s" style="--p:${Math.round(Math.sqrt(x) * 100)}%" title="${ordinal(i + 1)}: ${x < 0.005 ? (x ? '<1%' : 'never in 10,000 seasons') : `${pct(x)}%`}">${x >= 0.005 ? pct(x) : ''}</td>`; };
   return `<div class="scroll"><table class="league proj-table"><tr><th class="n">#</th><th>Club</th><th class="n hide-s" title="Points so far">Pts</th><th class="n" title="Average final points over 10,000 simulations of the rest of the season">Proj. pts</th>
     ${Array.from({ length: n }, (_, i) => `<th class="n hm-h hide-s${i + 1 === edge || i + 1 === n - pj.down ? ' cut' : ''}" title="Chance of finishing ${ordinal(i + 1)}">${i + 1}</th>`).join('')}
     <th class="n show-s">Title</th><th class="n show-s">${pj.top ? `Top ${pj.top}` : 'Up'}</th><th class="n show-s">Down</th></tr>
-    ${list.map((c, i) => `<tr${i + 1 === edge || i + 1 === n - pj.down ? ' class="zl"' : ''}><td class="n"><span class="pos${zone(i + 1)}">${i + 1}</span></td><td>${clubLink(c.slug, c.name)}</td><td class="n muted hide-s">${c.table.pts}</td><td class="n"><b>${Math.round(c.proj.pts)}</b></td>
-      ${c.proj.pos.map(cell).join('')}${[c.proj.first, pj.top ? c.proj.top : c.proj.up, c.proj.down].map((x, k) => chance(x, k === 2 ? 'down' : '').replace('class="n', 'class="n show-s')).join('')}</tr>`).join('')}</table></div>
+    ${list.map((c, i) => { const q = projOf(c), cls = [(i + 1 === edge || i + 1 === n - pj.down) && 'zl', c.slug === marked && 'what'].filter(Boolean).join(' ');
+      return `<tr${cls ? ` class="${cls}"` : ''}><td class="n"><span class="pos${zone(i + 1)}">${i + 1}</span></td><td>${clubLink(c.slug, c.name)}</td><td class="n muted hide-s">${c.table.pts}</td><td class="n"><b>${Math.round(q.pts)}</b></td>
+      ${q.pos.map(cell).join('')}${[q.first, pj.top ? q.top : q.up, q.down].map((x, k) => chance(x, k === 2 ? 'down' : '').replace('class="n', 'class="n show-s')).join('')}</tr>`; }).join('')}</table></div>
     <p class="small muted" style="margin:12px 0 0">Each cell: the chance, in %, of finishing in that place; blank under 0.5%. Clubs in order of projected points.</p>`;
 }
 
 async function viewTable() {
   const [r, fx] = await Promise.all([get(path('ratings.json')), get(path('fixtures.json'))]);
   const l = L(), pj = r.projected?.[division], rows = r.clubs.filter((c) => c.div === division), what = pj?.what;
-  if (order === 'what' && !what) order = 'table';
   if (order === 'proj' && !pj) order = 'table';
   // with the sanction button on, each club's projection is the one mixed over the sanction's outcomes
-  const projOf = (c) => (order === 'what' ? what.clubs[c.slug] : c.proj);
+  const withWhat = order === 'proj' && sanction && what;
+  const projOf = (c) => (withWhat ? what.clubs[c.slug] : c.proj);
   if (order !== 'elo') rows.sort((a, b) => (a.table?.pos ?? 99) - (b.table?.pos ?? 99));
   const next = fx.fixtures[0]?.gw ? fx.fixtures.filter((f) => f.gw === fx.fixtures[0].gw) : fx.fixtures.filter((f) => Date.parse(f.kickoff) < Date.parse(fx.fixtures[0].kickoff) + 5 * 86400_000);
   const third = pj?.top ? `Top ${pj.top}` : 'Up';
@@ -109,21 +110,23 @@ async function viewTable() {
   $('main').innerHTML = `<h1>${esc(l.name)} Elo</h1>
     <p class="sub">Ratings after every result since ${l.extra ? 2012 : 1993}, through ${fullDate(r.through)}, on one scale for all ${LEAGUES.length} leagues, which <a href="#/europe">the European cups</a> tie together. A 100-point gap makes the stronger side about a 64% favourite on neutral ground.</p>
     <div class="card"><div class="controls">${l.second ? `<div class="tabs"><button data-d="top" class="${division === 'top' ? 'on' : ''}">${esc(l.name)}</button><button data-d="second" class="${division === 'second' ? 'on' : ''}">${esc(l.second)}</button></div>` : ''}
-    <div class="tabs"><button data-o="elo" class="${order === 'elo' ? 'on' : ''}">By Elo</button><button data-o="table" class="${order === 'table' ? 'on' : ''}">By position</button>${pj ? `<button data-o="proj" class="${order === 'proj' ? 'on' : ''}">Projected</button>` : ''}${what ? `<button data-o="what" class="${order === 'what' ? 'on' : ''}">${esc(what.label)}</button>` : ''}</div></div>
-    ${order === 'proj' ? projectedTable(rows, pj, zone) : `<div class="scroll"><table class="league"><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n hide-s">30 days</th><th class="hide-m">Last 20</th><th class="hide-s" title="Next match, then the last 5 league matches, newest first">Form</th>
+    <div class="tabs"><button data-o="elo" class="${order === 'elo' ? 'on' : ''}">By Elo</button><button data-o="table" class="${order === 'table' ? 'on' : ''}">By position</button>${pj ? `<button data-o="proj" class="${order === 'proj' ? 'on' : ''}">Projected</button>` : ''}</div>
+    ${order === 'proj' && what ? `<div class="tabs"><button data-w="" class="${withWhat ? '' : 'on'}">As it stands</button><button data-w="1" class="${withWhat ? 'on' : ''}">With ${esc(what.label)}</button></div>` : ''}</div>
+    ${order === 'proj' ? projectedTable(rows, pj, zone, projOf, withWhat && what.club) : `<div class="scroll"><table class="league"><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n hide-s">30 days</th><th class="hide-m">Last 20</th><th class="hide-s" title="Next match, then the last 5 league matches, newest first">Form</th>
       <th class="n sep hide-s" title="League position">Pos</th><th class="n hide-s" title="Played">P</th><th class="n hide-s" title="Goal difference">GD</th><th class="n" title="Points">Pts</th>
       ${pj ? `<th class="n sep hide-s" title="Average final points over 10,000 simulations of the rest of the season">Proj. pts</th><th class="n" title="Chance of finishing first">Title</th><th class="n hide-s" title="${pj.top ? `Chance of finishing in the top ${pj.top}` : `Chance of finishing in the top ${pj.up}, the automatic promotion places`}">${third}</th><th class="n hide-s" title="Chance of finishing in the bottom ${pj.down}, the direct relegation places">Down</th>` : ''}</tr>
-    ${rows.map((c) => { const q = projOf(c), cls = [order === 'what' && c.slug === what.club && 'what', q?.pos && 'opens', q?.pos && openClub === c.slug && 'open', lineAfter(c) && 'zl'].filter(Boolean).join(' ');
+    ${rows.map((c) => { const q = projOf(c), cls = [q?.pos && 'opens', q?.pos && openClub === c.slug && 'open', lineAfter(c) && 'zl'].filter(Boolean).join(' ');
       return `<tr${cls ? ` class="${cls}"` : ''}${q?.pos ? ` data-c="${c.slug}" tabindex="0" aria-expanded="${openClub === c.slug}"` : ''}><td class="n muted">${c.rank}</td><td>${clubLink(c.slug, c.name)}</td><td class="n"><b>${c.elo}</b></td>
       <td class="n hide-s ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-m">${spark(c.spark)}</td><td class="hide-s">${form(c.form, c.next, c.slug)}</td>
       <td class="n sep hide-s">${c.table ? `<span class="pos${zone(c.table.pos)}">${c.table.pos}</span>` : ''}</td><td class="n hide-s muted">${c.table?.p ?? ''}</td><td class="n hide-s muted">${c.table ? signed(c.table.gf - c.table.ga) : ''}</td><td class="n"><b>${c.table?.pts ?? ''}</b></td>
       ${pj ? `<td class="n sep hide-s">${projOf(c) ? Math.round(projOf(c).pts) : ''}</td>${chance(projOf(c)?.first)}${chance(pj.top ? projOf(c)?.top : projOf(c)?.up).replace('class="n proj', 'class="n hide-s proj')}${chance(projOf(c)?.down, 'down').replace('class="n proj', 'class="n hide-s proj')}` : ''}</tr>${q?.pos && openClub === c.slug ? `<tr class="spread-row"><td colspan="20">${spread(c.name, q, zone)}</td></tr>` : ''}`; }).join('')}</table></div>`}
-    ${order === 'what' ? `<p class="small" style="margin:12px 0 0"><b>${esc(what.label)}:</b> ${esc(what.note)} The projection is run for each outcome below and mixed by its chance; a deduction comes off this season's points (the middle of each range: ${what.outcomes.filter((o) => o.cut !== 'expelled' && o.cut).map((o) => o.cut).join(', ')}), and expulsion expunges the club's results and drops its matches. City's projected points leave expulsion out.</p>
+    ${withWhat ? `<p class="small" style="margin:12px 0 0"><b>${esc(what.label)}:</b> ${esc(what.note)} The projection is run for each outcome below and mixed by its chance; a deduction comes off this season's points (the middle of each range: ${what.outcomes.filter((o) => o.cut !== 'expelled' && o.cut).map((o) => o.cut).join(', ')}), and expulsion expunges the club's results and drops its matches. City's projected points leave expulsion out.</p>
     <p class="small muted" style="margin:6px 0 0">Outcome chances, an editorial estimate of the final outcome with appeals, not bookmaker prices: ${what.outcomes.map((o) => `${esc(o.label)} ${pct(o.p)}%`).join(' · ')}.</p>` : ''}
-    <p class="small muted" style="margin:12px 0 0">${pj ? `Projection: the ${pj.left} remaining matches played out 10,000 times from each match's chances, the ratings moving with each simulated result. Ties split on goal difference, then goals scored; ${order === 'what' ? 'other ' : ''}points deductions and play-offs aren't modelled.` : `${esc(division === 'top' ? l.name : l.second)} isn't projected: its season splits into further rounds, or its clubs meet more than twice, so the remaining fixtures aren't known yet.`} ${order === 'proj' ? 'Pts: points so far.' : `Pos, P, GD and Pts: the league table from the results here.${pj ? ' Click a club for its chance of every place.' : ''}`}</p></div>
+    <p class="small muted" style="margin:12px 0 0">${pj ? `Projection: the ${pj.left} remaining matches played out 10,000 times from each match's chances, the ratings moving with each simulated result. Ties split on goal difference, then goals scored; ${withWhat ? 'other ' : ''}points deductions and play-offs aren't modelled.` : `${esc(division === 'top' ? l.name : l.second)} isn't projected: its season splits into further rounds, or its clubs meet more than twice, so the remaining fixtures aren't known yet.`} ${order === 'proj' ? 'Pts: points so far.' : `Pos, P, GD and Pts: the league table from the results here.${pj ? ' Click a club for its chance of every place.' : ''}`}</p></div>
     ${next.length ? `<div class="card"><h2>Next up</h2>${fixtureRows(next)}<p class="small muted" style="margin:10px 0 0">Bars: home win · draw · away win, in %. <a href="#/${league}/fixtures">Every fixture</a></p></div>` : ''}`;
   $('main').querySelectorAll('[data-d]').forEach((b) => (b.onclick = () => { division = b.dataset.d; viewTable(); }));
   $('main').querySelectorAll('[data-o]').forEach((b) => (b.onclick = () => { order = b.dataset.o; viewTable(); }));
+  $('main').querySelectorAll('[data-w]').forEach((b) => (b.onclick = () => { sanction = !!b.dataset.w; viewTable(); }));
   $('main').querySelectorAll('tr[data-c]').forEach((tr) => {
     // from the keyboard, focus stays on the row once the table is redrawn
     const toggle = (keys) => { const c = tr.dataset.c; openClub = openClub === c ? null : c; viewTable().then(() => keys && $('main').querySelector(`tr[data-c="${c}"]`)?.focus({ preventScroll: true })); };
