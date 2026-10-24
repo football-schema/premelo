@@ -16,7 +16,7 @@ import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc, startOf } from '../lib/seasons.mjs';
 import { clubOf } from '../lib/uefa.mjs';
 import { fetchSeason } from '../lib/matchday.mjs';
-import { LEAGUES, PLACES, load } from '../lib/leagues.mjs';
+import { LEAGUES, PLACES, SCENARIOS, load } from '../lib/leagues.mjs';
 import { standings, remaining, simulate } from '../lib/table.mjs';
 import { writeCard } from './card.mjs';
 
@@ -109,6 +109,26 @@ for (const [id, league] of Object.entries(LEAGUES)) {
     const eloPrice = (dr) => { const m = markets(dr, p.goals); return [m.H, m.D, ...goals(dr, p.goals)]; };
     const sim = places && left.every(Boolean) ? simulate(table, left, { n: 10000, seed: results.length + 1, hot: { k: p.elo.k, margin: p.elo.margin, price: eloPrice } }) : null;
     if (sim) projected[div === top ? 'top' : 'second'] = { ...places, left: left.length };
+    // a pending sanction (SCENARIOS): the projection for each outcome, mixed by the outcomes' chances
+    const what = SCENARIOS[div], hotOpts = { n: 10000, seed: results.length + 1, hot: { k: p.elo.k, margin: p.elo.margin, price: eloPrice } };
+    if (sim && what && members.includes(what.club)) {
+      const mix = new Map(members.map((c) => [c, { pts: 0, w: 0, first: 0, top: 0, up: 0, down: 0 }]));
+      for (const o of what.outcomes) {
+        const out = o.cut === 'expelled';
+        const t = out ? standings(members.filter((c) => c !== what.club), results.filter((m) => m.home !== what.club && m.away !== what.club))
+          : table.map((r) => (r.club === what.club ? { ...r, pts: r.pts - o.cut } : r));
+        const s2 = simulate(t, out ? left.filter((m) => m.home !== what.club && m.away !== what.club) : left, hotOpts), k = t.length;
+        if (out) mix.get(what.club).down += o.p;
+        for (const [c, f] of s2) {
+          const x = mix.get(c), sum = (a, b) => f.pos.slice(a, b).reduce((u, v) => u + v, 0);
+          x.pts += o.p * f.pts; x.w += o.p; x.first += o.p * sum(0, 1); x.down += o.p * sum(k - places.down, k);
+          if (places.top) x.top += o.p * sum(0, places.top); if (places.up) x.up += o.p * sum(0, places.up);
+        }
+      }
+      projected[div === top ? 'top' : 'second'].what = { club: slug(what.club), label: what.label, note: what.note, outcomes: what.outcomes,
+        clubs: Object.fromEntries([...mix].map(([c, x]) => [slug(c), { pts: r1(x.pts / x.w), first: r3(x.first), top: places.top ? r3(x.top) : undefined, up: places.up ? r3(x.up) : undefined, down: r3(x.down) }])) };
+    }
+
     for (const r of table) {
       const c = clubs.find((x) => x.club === r.club);
       if (!c) continue;

@@ -1,57 +1,8 @@
 {
- "updated": "2026-10-24T13:52:02.253Z",
+ "updated": "2026-10-24T14:09:46.182Z",
  "league": "laliga",
  "season": "2026-27",
  "fixtures": [
-  {
-   "kickoff": "2026-10-24T12:00:00.000Z",
-   "home": "Vallecano",
-   "away": "Elche",
-   "homeSlug": "vallecano",
-   "awaySlug": "elche",
-   "homeName": "Rayo Vallecano",
-   "awayName": "Elche",
-   "elo": [
-    1699,
-    1624
-   ],
-   "dr": 175,
-   "H": 0.541,
-   "D": 0.251,
-   "A": 0.208,
-   "xg": [
-    1.7,
-    1
-   ],
-   "O25": 0.503,
-   "btts": 0.519,
-   "scores": [
-    [
-     "1-1",
-     0.123
-    ],
-    [
-     "1-0",
-     0.111
-    ],
-    [
-     "2-0",
-     0.097
-    ],
-    [
-     "2-1",
-     0.095
-    ],
-    [
-     "0-0",
-     0.071
-    ],
-    [
-     "0-1",
-     0.063
-    ]
-   ]
-  },
   {
    "kickoff": "2026-10-24T14:15:00.000Z",
    "home": "Santander",

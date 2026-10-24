@@ -290,6 +290,7 @@ td a:hover { color: var(--accent); text-decoration: underline; }
 .controls { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
 .scroll { overflow-x: auto; }
 table.league th, table.league td { padding-left: 8px; padding-right: 8px; }
+table.league tr.what td:nth-child(2) a::after { content: " ⚖"; color: var(--loss); }
 table.league .sep { border-left: 1px solid var(--line); }
 table.league td.proj { background: color-mix(in srgb, var(--win) calc(var(--p) * .3), transparent); white-space: nowrap; }
 table.league td.proj.dn { background: color-mix(in srgb, var(--loss) calc(var(--p) * .3), transparent); }

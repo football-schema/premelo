@@ -39,7 +39,9 @@ Finnish top divisions. (Russia is left out: its file stops in August 2026 and it
   (85% relegation calls came true 76% of the time) and moving ratings scored better on the title, top four and relegation. Each result is drawn from home/draw/away and its score from the expected goals given that result,
   for goal difference. Out of that: projected points and the chance of the title, the top four or automatic promotion, and
   direct relegation. Ties split on goal difference, then goals; head-to-head rules, deductions and play-offs aren't
-  modelled. The generator is seeded, so the same results give the same numbers. Leagues that split into further rounds
+  modelled, except a pending sanction (`SCENARIOS` in `lib/leagues.mjs`): Manchester City's gets a button that runs the
+  projection once per outcome, from no deduction to expulsion, and mixes them by an editorial estimate of each outcome's
+  chance. The generator is seeded, so the same results give the same numbers. Leagues that split into further rounds
   (Belgium, Scotland, Greece, Austria, Switzerland, Denmark, Romania, Finland) or meet three times (Ireland) get the table only.
 
 ## How good it is

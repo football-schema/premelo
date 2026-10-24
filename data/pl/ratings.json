@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:52:00.483Z",
+ "updated": "2026-10-24T14:09:44.150Z",
  "league": "pl",
  "name": "Premier League",
  "through": "2026-10-24",
@@ -37,7 +37,171 @@
   "top": {
    "top": 4,
    "down": 3,
-   "left": 308
+   "left": 308,
+   "what": {
+    "club": "man-city",
+    "label": "City sanction",
+    "note": "An independent commission found Manchester City guilty of almost all of the Premier League's 115 charges in September 2026; no sanction has been set and City say they will appeal.",
+    "outcomes": [
+     {
+      "label": "No points deduction",
+      "cut": 0,
+      "p": 0.08
+     },
+     {
+      "label": "1–9 points",
+      "cut": 5,
+      "p": 0.07
+     },
+     {
+      "label": "10–19 points",
+      "cut": 15,
+      "p": 0.15
+     },
+     {
+      "label": "20–39 points",
+      "cut": 30,
+      "p": 0.25
+     },
+     {
+      "label": "40–59 points",
+      "cut": 50,
+      "p": 0.25
+     },
+     {
+      "label": "60+ points",
+      "cut": 70,
+      "p": 0.15
+     },
+     {
+      "label": "Expulsion",
+      "cut": "expelled",
+      "p": 0.05
+     }
+    ],
+    "clubs": {
+     "arsenal": {
+      "pts": 80.8,
+      "first": 0.676,
+      "top": 0.974,
+      "down": 0
+     },
+     "coventry": {
+      "pts": 34.1,
+      "first": 0,
+      "top": 0.001,
+      "down": 0.512
+     },
+     "brentford": {
+      "pts": 55.3,
+      "first": 0.01,
+      "top": 0.187,
+      "down": 0.011
+     },
+     "tottenham": {
+      "pts": 43.7,
+      "first": 0,
+      "top": 0.018,
+      "down": 0.136
+     },
+     "everton": {
+      "pts": 49.2,
+      "first": 0.002,
+      "top": 0.064,
+      "down": 0.042
+     },
+     "crystal-palace": {
+      "pts": 44.4,
+      "first": 0,
+      "top": 0.023,
+      "down": 0.118
+     },
+     "hull": {
+      "pts": 28.7,
+      "first": 0,
+      "top": 0,
+      "down": 0.778
+     },
+     "man-united": {
+      "pts": 55.1,
+      "first": 0.008,
+      "top": 0.194,
+      "down": 0.011
+     },
+     "ipswich": {
+      "pts": 36.9,
+      "first": 0,
+      "top": 0.003,
+      "down": 0.364
+     },
+     "sunderland": {
+      "pts": 35.9,
+      "first": 0,
+      "top": 0.001,
+      "down": 0.41
+     },
+     "nott-m-forest": {
+      "pts": 46.1,
+      "first": 0,
+      "top": 0.03,
+      "down": 0.079
+     },
+     "leeds": {
+      "pts": 53.6,
+      "first": 0.005,
+      "top": 0.146,
+      "down": 0.019
+     },
+     "brighton": {
+      "pts": 69.6,
+      "first": 0.143,
+      "top": 0.764,
+      "down": 0
+     },
+     "aston-villa": {
+      "pts": 56.7,
+      "first": 0.009,
+      "top": 0.222,
+      "down": 0.008
+     },
+     "man-city": {
+      "pts": 45.4,
+      "first": 0.061,
+      "top": 0.241,
+      "down": 0.356
+     },
+     "bournemouth": {
+      "pts": 52.8,
+      "first": 0.004,
+      "top": 0.125,
+      "down": 0.022
+     },
+     "newcastle": {
+      "pts": 49.2,
+      "first": 0.002,
+      "top": 0.063,
+      "down": 0.048
+     },
+     "liverpool": {
+      "pts": 64.3,
+      "first": 0.053,
+      "top": 0.538,
+      "down": 0.001
+     },
+     "fulham": {
+      "pts": 43.6,
+      "first": 0,
+      "top": 0.019,
+      "down": 0.135
+     },
+     "chelsea": {
+      "pts": 60.7,
+      "first": 0.027,
+      "top": 0.387,
+      "down": 0.002
+     }
+    }
+   }
   },
   "second": {
    "up": 2,
