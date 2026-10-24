@@ -11,9 +11,9 @@
   <g font-size="16" fill="#617067" font-weight="bold" letter-spacing="1.5"><text x="122" y="240">CLUB</text><text x="640" y="240" text-anchor="end">ELO</text><text x="760" y="240" text-anchor="end">30 DAYS</text><text x="820" y="240">LAST 20 MATCHES</text></g>
   <g font-size="27">
   <text x="80" y="296" fill="#617067">1</text><text x="122" y="296" fill="#17251e" font-weight="600">Arsenal <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="296" fill="#17251e" font-weight="bold" text-anchor="end">2101</text>
-  <text x="760" y="296" fill="#167450" text-anchor="end">+1</text>
-  <polyline points="820.0,279.0 835.3,284.7 850.5,283.0 865.8,285.5 881.1,280.6 896.3,278.1 911.6,274.9 926.8,274.9 942.1,270.0 957.4,270.8 972.6,292.0 987.9,287.1 1003.2,285.5 1018.4,277.3 1033.7,274.1 1048.9,287.1 1064.2,285.5 1079.5,283.0 1094.7,284.7 1110.0,282.2" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="282.2" r="5" fill="#167451"/>
+  <text x="640" y="296" fill="#17251e" font-weight="bold" text-anchor="end">2104</text>
+  <text x="760" y="296" fill="#167450" text-anchor="end">+4</text>
+  <polyline points="820.0,284.7 835.3,283.0 850.5,285.5 865.8,280.6 881.1,278.1 896.3,274.9 911.6,274.9 926.8,270.0 942.1,270.8 957.4,292.0 972.6,287.1 987.9,285.5 1003.2,277.3 1018.4,274.1 1033.7,287.1 1048.9,285.5 1064.2,283.0 1079.5,284.7 1094.7,282.2 1110.0,283.9" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="283.9" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="314" y2="314" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="345" fill="#617067">2</text><text x="122" y="345" fill="#17251e" font-weight="600">Paris Saint-Germain <tspan fill="#617067" font-size="20" font-weight="normal">Ligue 1</tspan></text>
   <text x="640" y="345" fill="#17251e" font-weight="bold" text-anchor="end">2049</text>

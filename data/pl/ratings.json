@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:09:44.963Z",
+ "updated": "2026-10-24T19:12:49.754Z",
  "league": "pl",
  "name": "Premier League",
  "through": "2026-10-24",
@@ -37,7 +37,7 @@
   "top": {
    "top": 4,
    "down": 3,
-   "left": 307,
+   "left": 306,
    "clubs": 20,
    "what": {
     "club": "man-city",
@@ -82,124 +82,124 @@
     ],
     "clubs": {
      "arsenal": {
-      "pts": 80.6,
-      "first": 0.677,
-      "top": 0.974,
+      "pts": 82.1,
+      "first": 0.715,
+      "top": 0.982,
       "down": 0
      },
      "coventry": {
-      "pts": 33.9,
+      "pts": 32.6,
       "first": 0,
       "top": 0.001,
-      "down": 0.53
+      "down": 0.578
      },
      "brentford": {
-      "pts": 55.2,
-      "first": 0.008,
-      "top": 0.2,
-      "down": 0.012
+      "pts": 55.3,
+      "first": 0.006,
+      "top": 0.194,
+      "down": 0.009
      },
      "tottenham": {
-      "pts": 47.3,
-      "first": 0.001,
-      "top": 0.043,
-      "down": 0.064
+      "pts": 43.9,
+      "first": 0,
+      "top": 0.02,
+      "down": 0.131
      },
      "everton": {
-      "pts": 49.4,
-      "first": 0.002,
-      "top": 0.07,
-      "down": 0.041
+      "pts": 48.1,
+      "first": 0.001,
+      "top": 0.046,
+      "down": 0.049
      },
      "crystal-palace": {
-      "pts": 44.5,
-      "first": 0.001,
-      "top": 0.023,
-      "down": 0.124
+      "pts": 44.4,
+      "first": 0,
+      "top": 0.022,
+      "down": 0.119
      },
      "hull": {
-      "pts": 28.8,
+      "pts": 28.6,
       "first": 0,
       "top": 0,
-      "down": 0.783
+      "down": 0.77
      },
      "man-united": {
-      "pts": 55,
-      "first": 0.009,
-      "top": 0.201,
-      "down": 0.012
+      "pts": 55.1,
+      "first": 0.007,
+      "top": 0.198,
+      "down": 0.011
      },
      "ipswich": {
-      "pts": 36.8,
+      "pts": 36.9,
       "first": 0,
       "top": 0.002,
-      "down": 0.381
+      "down": 0.37
      },
      "sunderland": {
-      "pts": 35.8,
+      "pts": 35.9,
       "first": 0,
       "top": 0.002,
-      "down": 0.421
+      "down": 0.401
      },
      "nott-m-forest": {
-      "pts": 46.2,
-      "first": 0.001,
-      "top": 0.035,
-      "down": 0.086
+      "pts": 46,
+      "first": 0,
+      "top": 0.03,
+      "down": 0.075
      },
      "leeds": {
-      "pts": 53.8,
-      "first": 0.005,
-      "top": 0.162,
-      "down": 0.018
+      "pts": 53.7,
+      "first": 0.003,
+      "top": 0.143,
+      "down": 0.017
      },
      "brighton": {
-      "pts": 69.5,
-      "first": 0.148,
-      "top": 0.775,
+      "pts": 69.6,
+      "first": 0.129,
+      "top": 0.765,
       "down": 0
      },
      "aston-villa": {
-      "pts": 56.9,
-      "first": 0.009,
-      "top": 0.237,
+      "pts": 56.8,
+      "first": 0.007,
+      "top": 0.227,
       "down": 0.006
      },
      "man-city": {
       "pts": 45.5,
-      "first": 0.064,
-      "top": 0.246,
-      "down": 0.358
+      "first": 0.057,
+      "top": 0.242,
+      "down": 0.354
      },
      "bournemouth": {
-      "pts": 52.7,
-      "first": 0.005,
-      "top": 0.133,
-      "down": 0.026
+      "pts": 52.6,
+      "first": 0.003,
+      "top": 0.123,
+      "down": 0.021
      },
      "newcastle": {
       "pts": 49.2,
       "first": 0.001,
       "top": 0.065,
-      "down": 0.05
+      "down": 0.045
      },
      "liverpool": {
       "pts": 64.2,
-      "first": 0.059,
-      "top": 0.552,
+      "first": 0.048,
+      "top": 0.535,
       "down": 0.001
      },
      "fulham": {
-      "pts": 43.7,
+      "pts": 45.4,
       "first": 0,
-      "top": 0.02,
-      "down": 0.132
+      "top": 0.029,
+      "down": 0.089
      },
      "chelsea": {
-      "pts": 57.2,
-      "first": 0.011,
-      "top": 0.258,
-      "down": 0.007
+      "pts": 60.5,
+      "first": 0.022,
+      "top": 0.375,
+      "down": 0.003
      }
     }
    }
@@ -217,19 +217,10 @@
    "name": "Arsenal",
    "slug": "arsenal",
    "div": "top",
-   "elo": 2101,
-   "change30": 1,
-   "played": 10,
+   "elo": 2104,
+   "change30": 4,
+   "played": 11,
    "form": [
-    {
-     "r": "W",
-     "opp": "Chelsea",
-     "oppSlug": "chelsea",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-06"
-    },
     {
      "r": "W",
      "opp": "Sunderland",
@@ -265,10 +256,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-18"
+    },
+    {
+     "r": "W",
+     "opp": "Everton",
+     "oppSlug": "everton",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    2110,
     2103,
     2105,
     2102,
@@ -287,7 +286,8 @@
     2102,
     2105,
     2103,
-    2106
+    2106,
+    2104
    ],
    "rank": 1,
    "next": {
@@ -295,23 +295,23 @@
     "oppSlug": "liverpool",
     "ha": "a",
     "kickoff": "2026-11-01T16:30:00.000Z",
-    "win": 0.438,
+    "win": 0.442,
     "draw": 0.285
    },
    "table": {
     "pos": 2,
-    "p": 7,
-    "w": 6,
+    "p": 8,
+    "w": 7,
     "d": 0,
     "l": 1,
-    "gf": 11,
+    "gf": 13,
     "ga": 5,
-    "pts": 18
+    "pts": 21
    },
    "proj": {
-    "pts": 80.7,
-    "first": 0.442,
-    "top": 0.958,
+    "pts": 82.2,
+    "first": 0.484,
+    "top": 0.967,
     "down": 0
    }
   },
@@ -398,7 +398,7 @@
     "oppSlug": "brighton",
     "ha": "h",
     "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.531,
+    "win": 0.532,
     "draw": 0.248
    },
    "table": {
@@ -413,8 +413,8 @@
    },
    "proj": {
     "pts": 80.3,
-    "first": 0.429,
-    "top": 0.95,
+    "first": 0.396,
+    "top": 0.949,
     "down": 0
    }
   },
@@ -501,7 +501,7 @@
     "oppSlug": "brighton",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.419,
+    "win": 0.42,
     "draw": 0.265
    },
    "table": {
@@ -515,9 +515,9 @@
     "pts": 12
    },
    "proj": {
-    "pts": 64.3,
-    "first": 0.026,
-    "top": 0.446,
+    "pts": 64.2,
+    "first": 0.023,
+    "top": 0.423,
     "down": 0.001
    }
   },
@@ -604,8 +604,8 @@
     "oppSlug": "fulham",
     "ha": "h",
     "kickoff": "2026-10-31T20:00:00.000Z",
-    "win": 0.516,
-    "draw": 0.26
+    "win": 0.51,
+    "draw": 0.264
    },
    "table": {
     "pos": 6,
@@ -618,9 +618,9 @@
     "pts": 11
    },
    "proj": {
-    "pts": 57.1,
+    "pts": 57,
     "first": 0.003,
-    "top": 0.164,
+    "top": 0.154,
     "down": 0.007
    }
   },
@@ -707,7 +707,7 @@
     "oppSlug": "liverpool",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.316,
+    "win": 0.315,
     "draw": 0.265
    },
    "table": {
@@ -721,9 +721,9 @@
     "pts": 16
    },
    "proj": {
-    "pts": 69.6,
-    "first": 0.084,
-    "top": 0.696,
+    "pts": 69.7,
+    "first": 0.076,
+    "top": 0.687,
     "down": 0
    }
   },
@@ -810,7 +810,7 @@
     "oppSlug": "man-united",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.287,
+    "win": 0.286,
     "draw": 0.265
    },
    "table": {
@@ -824,10 +824,113 @@
     "pts": 6
    },
    "proj": {
-    "pts": 52.8,
+    "pts": 52.6,
     "first": 0.002,
-    "top": 0.084,
-    "down": 0.032
+    "top": 0.075,
+    "down": 0.026
+   }
+  },
+  {
+   "club": "Chelsea",
+   "name": "Chelsea",
+   "slug": "chelsea",
+   "div": "top",
+   "elo": 1894,
+   "change30": 20,
+   "played": 7,
+   "form": [
+    {
+     "r": "L",
+     "opp": "Arsenal",
+     "oppSlug": "arsenal",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Hull City",
+     "oppSlug": "hull",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Brentford",
+     "oppSlug": "brentford",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "AFC Bournemouth",
+     "oppSlug": "bournemouth",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Everton",
+     "oppSlug": "everton",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
+   "spark": [
+    1972,
+    1989,
+    1968,
+    1952,
+    1929,
+    1915,
+    1904,
+    1892,
+    1880,
+    1867,
+    1872,
+    1877,
+    1870,
+    1876,
+    1883,
+    1880,
+    1882,
+    1874,
+    1889,
+    1897
+   ],
+   "rank": 7,
+   "next": {
+    "opp": "Manchester United",
+    "oppSlug": "man-united",
+    "ha": "h",
+    "kickoff": "2026-10-31T12:30:00.000Z",
+    "win": 0.418,
+    "draw": 0.261
+   },
+   "table": {
+    "pos": 4,
+    "p": 7,
+    "w": 4,
+    "d": 1,
+    "l": 2,
+    "gf": 17,
+    "ga": 13,
+    "pts": 13
+   },
+   "proj": {
+    "pts": 60.6,
+    "first": 0.011,
+    "top": 0.279,
+    "down": 0.003
    }
   },
   {
@@ -907,13 +1010,13 @@
     1911,
     1890
    ],
-   "rank": 7,
+   "rank": 8,
    "next": {
     "opp": "AFC Bournemouth",
     "oppSlug": "bournemouth",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.448,
+    "win": 0.449,
     "draw": 0.265
    },
    "table": {
@@ -928,9 +1031,9 @@
    },
    "proj": {
     "pts": 55.1,
-    "first": 0.003,
-    "top": 0.136,
-    "down": 0.015
+    "first": 0.002,
+    "top": 0.13,
+    "down": 0.014
    }
   },
   {
@@ -1010,13 +1113,13 @@
     1901,
     1889
    ],
-   "rank": 8,
+   "rank": 9,
    "next": {
     "opp": "Hull City",
     "oppSlug": "hull",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.617,
+    "win": 0.616,
     "draw": 0.225
    },
    "table": {
@@ -1030,113 +1133,10 @@
     "pts": 10
    },
    "proj": {
-    "pts": 55.3,
-    "first": 0.003,
-    "top": 0.135,
-    "down": 0.015
-   }
-  },
-  {
-   "club": "Chelsea",
-   "name": "Chelsea",
-   "slug": "chelsea",
-   "div": "top",
-   "elo": 1878,
-   "change30": 4,
-   "played": 8,
-   "form": [
-    {
-     "r": "D",
-     "opp": "Hull City",
-     "oppSlug": "hull",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-12"
-    },
-    {
-     "r": "L",
-     "opp": "Brentford",
-     "oppSlug": "brentford",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
-    {
-     "r": "W",
-     "opp": "AFC Bournemouth",
-     "oppSlug": "bournemouth",
-     "gf": 5,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-10"
-    },
-    {
-     "r": "W",
-     "opp": "Everton",
-     "oppSlug": "everton",
-     "gf": 2,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-10-17"
-    },
-    {
-     "r": "L",
-     "opp": "Tottenham Hotspur",
-     "oppSlug": "tottenham",
-     "gf": 0,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-10-24"
-    }
-   ],
-   "spark": [
-    1989,
-    1968,
-    1952,
-    1929,
-    1915,
-    1904,
-    1892,
-    1880,
-    1867,
-    1872,
-    1877,
-    1870,
-    1876,
-    1883,
-    1880,
-    1882,
-    1874,
-    1889,
-    1897,
-    1878
-   ],
-   "rank": 9,
-   "next": {
-    "opp": "Manchester United",
-    "oppSlug": "man-united",
-    "ha": "h",
-    "kickoff": "2026-10-31T12:30:00.000Z",
-    "win": 0.397,
-    "draw": 0.264
-   },
-   "table": {
-    "pos": 4,
-    "p": 8,
-    "w": 4,
-    "d": 1,
-    "l": 3,
-    "gf": 17,
-    "ga": 15,
-    "pts": 13
-   },
-   "proj": {
-    "pts": 57.3,
-    "first": 0.004,
-    "top": 0.177,
-    "down": 0.009
+    "pts": 55.4,
+    "first": 0.002,
+    "top": 0.127,
+    "down": 0.012
    }
   },
   {
@@ -1222,7 +1222,7 @@
     "oppSlug": "crystal-palace",
     "ha": "a",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.359,
+    "win": 0.358,
     "draw": 0.272
    },
    "table": {
@@ -1236,10 +1236,10 @@
     "pts": 8
    },
    "proj": {
-    "pts": 49.2,
-    "first": 0,
-    "top": 0.038,
-    "down": 0.06
+    "pts": 49.3,
+    "first": 0.001,
+    "top": 0.039,
+    "down": 0.056
    }
   },
   {
@@ -1325,7 +1325,7 @@
     "oppSlug": "sunderland",
     "ha": "a",
     "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.425,
+    "win": 0.423,
     "draw": 0.293
    },
    "table": {
@@ -1339,10 +1339,10 @@
     "pts": 10
    },
    "proj": {
-    "pts": 53.9,
-    "first": 0.002,
-    "top": 0.106,
-    "down": 0.022
+    "pts": 53.8,
+    "first": 0.001,
+    "top": 0.089,
+    "down": 0.021
    }
   },
   {
@@ -1428,7 +1428,7 @@
     "oppSlug": "brentford",
     "ha": "a",
     "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.265,
+    "win": 0.264,
     "draw": 0.275
    },
    "table": {
@@ -1442,10 +1442,10 @@
     "pts": 6
    },
    "proj": {
-    "pts": 46.3,
+    "pts": 46.1,
     "first": 0,
-    "top": 0.018,
-    "down": 0.102
+    "top": 0.017,
+    "down": 0.09
    }
   },
   {
@@ -1453,19 +1453,10 @@
    "name": "Everton",
    "slug": "everton",
    "div": "top",
-   "elo": 1836,
-   "change30": -24,
-   "played": 7,
+   "elo": 1833,
+   "change30": -27,
+   "played": 8,
    "form": [
-    {
-     "r": "D",
-     "opp": "Manchester United",
-     "oppSlug": "man-united",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-06"
-    },
     {
      "r": "D",
      "opp": "Tottenham Hotspur",
@@ -1501,10 +1492,18 @@
      "ga": 2,
      "ha": "h",
      "date": "2026-10-17"
+    },
+    {
+     "r": "L",
+     "opp": "Arsenal",
+     "oppSlug": "arsenal",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1855,
     1853,
     1860,
     1866,
@@ -1523,7 +1522,8 @@
     1853,
     1860,
     1857,
-    1839
+    1839,
+    1833
    ],
    "rank": 13,
    "next": {
@@ -1531,127 +1531,24 @@
     "oppSlug": "newcastle",
     "ha": "a",
     "kickoff": "2026-11-02T20:00:00.000Z",
-    "win": 0.286,
+    "win": 0.281,
     "draw": 0.276
    },
    "table": {
     "pos": 9,
-    "p": 7,
+    "p": 8,
     "w": 2,
     "d": 4,
-    "l": 1,
+    "l": 2,
     "gf": 8,
-    "ga": 7,
+    "ga": 9,
     "pts": 10
    },
    "proj": {
-    "pts": 49.5,
-    "first": 0.001,
-    "top": 0.041,
-    "down": 0.049
-   }
-  },
-  {
-   "club": "Tottenham",
-   "name": "Tottenham Hotspur",
-   "slug": "tottenham",
-   "div": "top",
-   "elo": 1830,
-   "change30": 20,
-   "played": 8,
-   "form": [
-    {
-     "r": "D",
-     "opp": "Everton",
-     "oppSlug": "everton",
-     "gf": 0,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-12"
-    },
-    {
-     "r": "L",
-     "opp": "Aston Villa",
-     "oppSlug": "aston-villa",
-     "gf": 2,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-09-19"
-    },
-    {
-     "r": "D",
-     "opp": "Manchester United",
-     "oppSlug": "man-united",
-     "gf": 1,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-10-10"
-    },
-    {
-     "r": "W",
-     "opp": "Coventry City",
-     "oppSlug": "coventry",
-     "gf": 3,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-19"
-    },
-    {
-     "r": "W",
-     "opp": "Chelsea",
-     "oppSlug": "chelsea",
-     "gf": 2,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-10-24"
-    }
-   ],
-   "spark": [
-    1842,
-    1829,
-    1820,
-    1823,
-    1807,
-    1803,
-    1799,
-    1805,
-    1818,
-    1818,
-    1814,
-    1822,
-    1814,
-    1804,
-    1806,
-    1812,
-    1810,
-    1813,
-    1816,
-    1830
-   ],
-   "rank": 14,
-   "next": {
-    "opp": "Crystal Palace",
-    "oppSlug": "crystal-palace",
-    "ha": "h",
-    "kickoff": "2026-10-31T17:30:00.000Z",
-    "win": 0.451,
-    "draw": 0.274
-   },
-   "table": {
-    "pos": 12,
-    "p": 8,
-    "w": 2,
-    "d": 3,
-    "l": 3,
-    "gf": 8,
-    "ga": 10,
-    "pts": 9
-   },
-   "proj": {
-    "pts": 47.4,
+    "pts": 48.1,
     "first": 0,
-    "top": 0.024,
-    "down": 0.078
+    "top": 0.026,
+    "down": 0.06
    }
   },
   {
@@ -1659,19 +1556,10 @@
    "name": "Fulham",
    "slug": "fulham",
    "div": "top",
-   "elo": 1823,
-   "change30": -13,
-   "played": 7,
+   "elo": 1829,
+   "change30": -7,
+   "played": 8,
    "form": [
-    {
-     "r": "L",
-     "opp": "Crystal Palace",
-     "oppSlug": "crystal-palace",
-     "gf": 2,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-09-05"
-    },
     {
      "r": "D",
      "opp": "Liverpool",
@@ -1707,10 +1595,18 @@
      "ga": 0,
      "ha": "h",
      "date": "2026-10-17"
+    },
+    {
+     "r": "W",
+     "opp": "Coventry City",
+     "oppSlug": "coventry",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1840,
     1854,
     1858,
     1848,
@@ -1729,32 +1625,136 @@
     1832,
     1836,
     1828,
-    1825
+    1825,
+    1829
    ],
-   "rank": 15,
+   "rank": 14,
    "next": {
     "opp": "Aston Villa",
     "oppSlug": "aston-villa",
     "ha": "a",
     "kickoff": "2026-10-31T20:00:00.000Z",
-    "win": 0.224,
-    "draw": 0.26
+    "win": 0.227,
+    "draw": 0.264
    },
    "table": {
-    "pos": 19,
-    "p": 7,
-    "w": 1,
+    "pos": 12,
+    "p": 8,
+    "w": 2,
     "d": 2,
     "l": 4,
-    "gf": 7,
+    "gf": 8,
     "ga": 10,
-    "pts": 5
+    "pts": 8
    },
    "proj": {
-    "pts": 43.8,
+    "pts": 45.5,
     "first": 0,
-    "top": 0.011,
-    "down": 0.156
+    "top": 0.017,
+    "down": 0.105
+   }
+  },
+  {
+   "club": "Tottenham",
+   "name": "Tottenham Hotspur",
+   "slug": "tottenham",
+   "div": "top",
+   "elo": 1813,
+   "change30": 3,
+   "played": 7,
+   "form": [
+    {
+     "r": "D",
+     "opp": "Nottingham Forest",
+     "oppSlug": "nott-m-forest",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Everton",
+     "oppSlug": "everton",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Aston Villa",
+     "oppSlug": "aston-villa",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Manchester United",
+     "oppSlug": "man-united",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Coventry City",
+     "oppSlug": "coventry",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
+   "spark": [
+    1856,
+    1842,
+    1829,
+    1820,
+    1823,
+    1807,
+    1803,
+    1799,
+    1805,
+    1818,
+    1818,
+    1814,
+    1822,
+    1814,
+    1804,
+    1806,
+    1812,
+    1810,
+    1813,
+    1816
+   ],
+   "rank": 15,
+   "next": {
+    "opp": "Crystal Palace",
+    "oppSlug": "crystal-palace",
+    "ha": "h",
+    "kickoff": "2026-10-31T17:30:00.000Z",
+    "win": 0.435,
+    "draw": 0.275
+   },
+   "table": {
+    "pos": 18,
+    "p": 7,
+    "w": 1,
+    "d": 3,
+    "l": 3,
+    "gf": 6,
+    "ga": 10,
+    "pts": 6
+   },
+   "proj": {
+    "pts": 43.9,
+    "first": 0,
+    "top": 0.01,
+    "down": 0.153
    }
   },
   {
@@ -1840,7 +1840,7 @@
     "oppSlug": "newcastle",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.369,
+    "win": 0.37,
     "draw": 0.272
    },
    "table": {
@@ -1854,10 +1854,10 @@
     "pts": 7
    },
    "proj": {
-    "pts": 44.5,
+    "pts": 44.4,
     "first": 0,
-    "top": 0.013,
-    "down": 0.147
+    "top": 0.011,
+    "down": 0.142
    }
   },
   {
@@ -1950,8 +1950,8 @@
    },
    "proj": {
     "pts": 98.4,
-    "first": 0.742,
-    "up": 0.894,
+    "first": 0.747,
+    "up": 0.895,
     "down": 0
    }
   },
@@ -2038,7 +2038,7 @@
     "oppSlug": "leeds",
     "ha": "h",
     "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.282,
+    "win": 0.283,
     "draw": 0.293
    },
    "table": {
@@ -2052,10 +2052,10 @@
     "pts": 4
    },
    "proj": {
-    "pts": 35.9,
+    "pts": 36,
     "first": 0,
     "top": 0.001,
-    "down": 0.47
+    "down": 0.45
    }
   },
   {
@@ -2063,19 +2063,10 @@
    "name": "Coventry City",
    "slug": "coventry",
    "div": "top",
-   "elo": 1708,
-   "change30": 6,
-   "played": 7,
+   "elo": 1702,
+   "change30": 0,
+   "played": 8,
    "form": [
-    {
-     "r": "L",
-     "opp": "Manchester City",
-     "oppSlug": "man-city",
-     "gf": 0,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-05"
-    },
     {
      "r": "L",
      "opp": "Brighton & Hove Albion",
@@ -2111,10 +2102,18 @@
      "ga": 3,
      "ha": "a",
      "date": "2026-10-19"
+    },
+    {
+     "r": "L",
+     "opp": "Fulham",
+     "oppSlug": "fulham",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1667,
     1668,
     1678,
     1678,
@@ -2133,7 +2132,8 @@
     1687,
     1702,
     1722,
-    1710
+    1710,
+    1702
    ],
    "rank": 18,
    "next": {
@@ -2141,24 +2141,24 @@
     "oppSlug": "sunderland",
     "ha": "h",
     "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.388,
-    "draw": 0.286
+    "win": 0.383,
+    "draw": 0.288
    },
    "table": {
-    "pos": 18,
-    "p": 7,
+    "pos": 19,
+    "p": 8,
     "w": 2,
     "d": 0,
-    "l": 5,
+    "l": 6,
     "gf": 6,
-    "ga": 14,
+    "ga": 15,
     "pts": 6
    },
    "proj": {
-    "pts": 34,
+    "pts": 32.6,
     "first": 0,
-    "top": 0.001,
-    "down": 0.579
+    "top": 0,
+    "down": 0.629
    }
   },
   {
@@ -2244,8 +2244,8 @@
     "oppSlug": "hull",
     "ha": "a",
     "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.408,
-    "draw": 0.271
+    "win": 0.406,
+    "draw": 0.272
    },
    "table": {
     "pos": 10,
@@ -2258,10 +2258,10 @@
     "pts": 10
    },
    "proj": {
-    "pts": 36.8,
+    "pts": 36.9,
     "first": 0,
     "top": 0.001,
-    "down": 0.434
+    "down": 0.421
    }
   },
   {
@@ -2353,9 +2353,9 @@
     "pts": 18
    },
    "proj": {
-    "pts": 81.3,
-    "first": 0.064,
-    "up": 0.266,
+    "pts": 81.4,
+    "first": 0.068,
+    "up": 0.272,
     "down": 0
    }
   },
@@ -2448,9 +2448,9 @@
     "pts": 21
    },
    "proj": {
-    "pts": 80.6,
-    "first": 0.071,
-    "up": 0.261,
+    "pts": 80.9,
+    "first": 0.068,
+    "up": 0.263,
     "down": 0
    }
   },
@@ -2544,8 +2544,8 @@
    },
    "proj": {
     "pts": 81.5,
-    "first": 0.074,
-    "up": 0.279,
+    "first": 0.068,
+    "up": 0.277,
     "down": 0
    }
   },
@@ -2638,10 +2638,10 @@
     "pts": 8
    },
    "proj": {
-    "pts": 67,
-    "first": 0.002,
-    "up": 0.023,
-    "down": 0.013
+    "pts": 66.7,
+    "first": 0.004,
+    "up": 0.022,
+    "down": 0.017
    }
   },
   {
@@ -2727,7 +2727,7 @@
     "oppSlug": "brentford",
     "ha": "h",
     "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.158,
+    "win": 0.159,
     "draw": 0.225
    },
    "table": {
@@ -2741,10 +2741,10 @@
     "pts": 9
    },
    "proj": {
-    "pts": 28.8,
+    "pts": 28.7,
     "first": 0,
     "top": 0,
-    "down": 0.825
+    "down": 0.81
    }
   },
   {
@@ -2836,10 +2836,10 @@
     "pts": 23
    },
    "proj": {
-    "pts": 75,
-    "first": 0.02,
-    "up": 0.105,
-    "down": 0.002
+    "pts": 74.8,
+    "first": 0.018,
+    "up": 0.1,
+    "down": 0.001
    }
   },
   {
@@ -2931,10 +2931,10 @@
     "pts": 15
    },
    "proj": {
-    "pts": 67.7,
-    "first": 0.004,
-    "up": 0.03,
-    "down": 0.011
+    "pts": 67.9,
+    "first": 0.005,
+    "up": 0.032,
+    "down": 0.01
    }
   },
   {
@@ -3026,8 +3026,8 @@
     "pts": 20
    },
    "proj": {
-    "pts": 71.4,
-    "first": 0.011,
+    "pts": 71.5,
+    "first": 0.012,
     "up": 0.057,
     "down": 0.004
    }
@@ -3121,10 +3121,10 @@
     "pts": 15
    },
    "proj": {
-    "pts": 63.4,
-    "first": 0.002,
+    "pts": 63.6,
+    "first": 0.001,
     "up": 0.011,
-    "down": 0.031
+    "down": 0.03
    }
   },
   {
@@ -3216,10 +3216,10 @@
     "pts": 14
    },
    "proj": {
-    "pts": 60.5,
-    "first": 0,
+    "pts": 60.6,
+    "first": 0.001,
     "up": 0.007,
-    "down": 0.053
+    "down": 0.052
    }
   },
   {
@@ -3311,10 +3311,10 @@
     "pts": 20
    },
    "proj": {
-    "pts": 68.6,
-    "first": 0.006,
+    "pts": 68.5,
+    "first": 0.005,
     "up": 0.032,
-    "down": 0.009
+    "down": 0.008
    }
   },
   {
@@ -3406,9 +3406,9 @@
     "pts": 9
    },
    "proj": {
-    "pts": 59.8,
+    "pts": 59.7,
     "first": 0.001,
-    "up": 0.006,
+    "up": 0.005,
     "down": 0.064
    }
   },
@@ -3501,10 +3501,10 @@
     "pts": 17
    },
    "proj": {
-    "pts": 61.8,
-    "first": 0.001,
-    "up": 0.009,
-    "down": 0.037
+    "pts": 61.5,
+    "first": 0.002,
+    "up": 0.008,
+    "down": 0.042
    }
   },
   {
@@ -3598,8 +3598,8 @@
    "proj": {
     "pts": 58.3,
     "first": 0,
-    "up": 0.003,
-    "down": 0.073
+    "up": 0.002,
+    "down": 0.074
    }
   },
   {
@@ -3691,10 +3691,10 @@
     "pts": 15
    },
    "proj": {
-    "pts": 58,
-    "first": 0.001,
-    "up": 0.003,
-    "down": 0.08
+    "pts": 58.2,
+    "first": 0,
+    "up": 0.004,
+    "down": 0.075
    }
   },
   {
@@ -3786,10 +3786,10 @@
     "pts": 14
    },
    "proj": {
-    "pts": 58.1,
+    "pts": 58,
     "first": 0,
-    "up": 0.004,
-    "down": 0.082
+    "up": 0.003,
+    "down": 0.084
    }
   },
   {
@@ -3883,8 +3883,8 @@
    "proj": {
     "pts": 61.9,
     "first": 0.001,
-    "up": 0.01,
-    "down": 0.037
+    "up": 0.006,
+    "down": 0.038
    }
   },
   {
@@ -3976,10 +3976,10 @@
     "pts": 6
    },
    "proj": {
-    "pts": 47.5,
+    "pts": 47.6,
     "first": 0,
     "up": 0,
-    "down": 0.364
+    "down": 0.365
    }
   },
   {
@@ -4073,8 +4073,8 @@
    "proj": {
     "pts": 54.2,
     "first": 0,
-    "up": 0.001,
-    "down": 0.159
+    "up": 0.002,
+    "down": 0.157
    }
   },
   {
@@ -4166,10 +4166,10 @@
     "pts": 14
    },
    "proj": {
-    "pts": 51,
+    "pts": 51.1,
     "first": 0,
-    "up": 0,
-    "down": 0.247
+    "up": 0.001,
+    "down": 0.243
    }
   },
   {
@@ -4261,10 +4261,10 @@
     "pts": 11
    },
    "proj": {
-    "pts": 49.8,
+    "pts": 49.6,
     "first": 0,
     "up": 0,
-    "down": 0.273
+    "down": 0.279
    }
   },
   {
@@ -4359,7 +4359,7 @@
     "pts": 48.4,
     "first": 0,
     "up": 0,
-    "down": 0.347
+    "down": 0.341
    }
   },
   {
@@ -4442,10 +4442,10 @@
     "pts": 12
    },
    "proj": {
-    "pts": 48.3,
+    "pts": 48.2,
     "first": 0,
     "up": 0,
-    "down": 0.351
+    "down": 0.346
    }
   },
   {
@@ -4537,10 +4537,10 @@
     "pts": 4
    },
    "proj": {
-    "pts": 37.6,
+    "pts": 37.5,
     "first": 0,
     "up": 0,
-    "down": 0.763
+    "down": 0.77
    }
   }
  ]
