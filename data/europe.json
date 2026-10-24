@@ -3,9 +3,9 @@
  "matches": 20252,
  "from": "1993-08-18",
  "model": {
-  "logloss": 0.958,
-  "rps": 0.196,
-  "brier": 0.5675
+  "logloss": 0.9557,
+  "rps": 0.1953,
+  "brier": 0.566
  },
  "baseline": {
   "logloss": 1.0486,
@@ -13,10 +13,10 @@
   "brier": 0.6321
  },
  "params": {
-  "k": 20,
+  "k": 16,
   "hfa": 90,
-  "margin": "wfe",
-  "other": 300,
-  "kLeague": 6
+  "margin": "log",
+  "other": 200,
+  "kLeague": 4
  }
 }

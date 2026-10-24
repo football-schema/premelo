@@ -10,7 +10,8 @@
 import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'node:fs';
 import { fromCsv, byDate, parseCsv, isoDate } from '../lib/results.mjs';
 import { runAll } from '../lib/elo.mjs';
-import { markets } from '../lib/goals.mjs';
+import { goals, grid, gridOf, blended } from '../lib/goals.mjs';
+import { run as runAttack } from '../lib/attack.mjs';
 import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
 import { fetchSeason } from '../lib/matchday.mjs';
@@ -52,7 +53,8 @@ for (const [id, league] of Object.entries(LEAGUES)) {
 }
 
 // every league and the European cups in one run: one scale, countries set against each other by their clubs' European results
-const { ratings, history, divisions: byLeague } = runAll(leagues, { list: europe, params: params.europe }, { history: true });
+const { ratings, history, divisions: byLeague, hfa: hfaNow } = runAll(leagues, { list: europe, params: params.europe }, { history: true });
+const attack = Object.fromEntries(Object.entries(leagues).map(([id, l]) => [id, runAttack(l.list, params[id].attack ?? {}, { divs: l.divs })]));
 const leagueOfClub = new Map(Object.entries(leagues).flatMap(([id, l]) => l.list.flatMap((m) => [[m.home, id], [m.away, id]])));
 const where = (div, top) => (div === 'EU' ? 'europe' : div === top ? 'top' : 'second');
 for (const [id, league] of Object.entries(LEAGUES)) {
@@ -77,7 +79,9 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   const preds = fixtures.map((f) => {
     const eh = ratings.get(f.home), ea = ratings.get(f.away);
     if (eh == null || ea == null) { console.log(`${league.name}: no rating for ${eh == null ? f.home : f.away}, fixture left out`); return null; }
-    const dr = eh + p.elo.hfa - ea, m = markets(dr, p.goals);
+    // the Elo's grid and the attack/defence model's, blended as tuned (lib/attack.mjs)
+    const dr = eh + hfaNow[id] - ea, elo = { grid: grid(dr, p.goals), xg: goals(dr, p.goals) }, xa = attack[id].expect(f.home, f.away, top);
+    const m = xa && p.attack ? blended(elo, { grid: gridOf(xa, p.attack.draw), xg: xa }, p.blend ?? 1) : blended(elo, elo, 1);
     return { kickoff: f.kickoff, gw: f.gw, tbc: f.tbc || undefined, home: f.home, away: f.away, homeSlug: slug(f.home), awaySlug: slug(f.away), homeName: display(f.home), awayName: display(f.away),
       elo: [Math.round(eh), Math.round(ea)], dr: Math.round(dr), H: r3(m.H), D: r3(m.D), A: r3(m.A), xg: m.xg.map(r1), O25: r3(m.O25), btts: r3(m.btts), scores: m.scores.map(([s, q]) => [s, r3(q)]) };
   }).filter(Boolean);

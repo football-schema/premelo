@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:43:46.864Z",
+ "updated": "2026-10-24T09:03:30.774Z",
  "leagues": [
   {
    "id": "pl",
@@ -10,7 +10,7 @@
    "top": [
     [
      "Arsenal",
-     2105
+     2100
     ],
     [
      "Manchester City",
@@ -31,15 +31,15 @@
    "top": [
     [
      "Barcelona",
-     2029
+     2026
     ],
     [
      "Real Madrid",
-     2018
+     2014
     ],
     [
      "Atlético Madrid",
-     1917
+     1915
     ]
    ]
   },
@@ -52,15 +52,15 @@
    "top": [
     [
      "Bayern Munich",
-     2038
-    ],
-    [
-     "Bayer Leverkusen",
-     1883
+     2035
     ],
     [
      "Borussia Dortmund",
-     1880
+     1878
+    ],
+    [
+     "Bayer Leverkusen",
+     1873
     ]
    ]
   },
@@ -73,15 +73,15 @@
    "top": [
     [
      "Inter",
-     1925
+     1938
     ],
     [
      "AS Roma",
-     1852
+     1858
     ],
     [
      "Como",
-     1796
+     1803
     ]
    ]
   },
@@ -94,15 +94,136 @@
    "top": [
     [
      "Paris Saint-Germain",
-     2056
+     2049
     ],
     [
      "Monaco",
-     1791
+     1782
     ],
     [
      "Olympique Lyonnais",
-     1763
+     1758
+    ]
+   ]
+  },
+  {
+   "id": "primeira",
+   "name": "Primeira Liga",
+   "country": "Portugal",
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Benfica",
+     1876
+    ],
+    [
+     "Sporting CP",
+     1868
+    ],
+    [
+     "Porto",
+     1818
+    ]
+   ]
+  },
+  {
+   "id": "eredivisie",
+   "name": "Eredivisie",
+   "country": "Netherlands",
+   "through": "2026-10-18",
+   "top": [
+    [
+     "PSV",
+     1793
+    ],
+    [
+     "Feyenoord",
+     1688
+    ],
+    [
+     "Ajax",
+     1681
+    ]
+   ]
+  },
+  {
+   "id": "proleague",
+   "name": "Pro League",
+   "country": "Belgium",
+   "through": "2026-10-11",
+   "top": [
+    [
+     "Club Brugge",
+     1837
+    ],
+    [
+     "Union Saint-Gilloise",
+     1804
+    ],
+    [
+     "Anderlecht",
+     1636
+    ]
+   ]
+  },
+  {
+   "id": "superlig",
+   "name": "Süper Lig",
+   "country": "Turkey",
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Galatasaray",
+     1724
+    ],
+    [
+     "Fenerbahçe",
+     1720
+    ],
+    [
+     "Beşiktaş",
+     1627
+    ]
+   ]
+  },
+  {
+   "id": "scotland",
+   "name": "Scottish Premiership",
+   "country": "Scotland",
+   "second": "Championship",
+   "through": "2026-10-20",
+   "top": [
+    [
+     "Celtic",
+     1579
+    ],
+    [
+     "Rangers",
+     1533
+    ],
+    [
+     "Hearts",
+     1457
+    ]
+   ]
+  },
+  {
+   "id": "superleague",
+   "name": "Super League",
+   "country": "Greece",
+   "through": "2026-10-18",
+   "top": [
+    [
+     "Olympiacos",
+     1721
+    ],
+    [
+     "AEK Athens",
+     1676
+    ],
+    [
+     "Panathinaikos",
+     1628
     ]
    ]
   }

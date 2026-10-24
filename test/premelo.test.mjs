@@ -3,7 +3,8 @@ import assert from 'node:assert/strict';
 import { parseCsv, isoDate, matches, oddsOf, toCsv, fromCsv } from '../lib/results.mjs';
 import { run, runAll, marginFactor, expectedScore } from '../lib/elo.mjs';
 import { parse as parseUefa } from '../lib/uefa.mjs';
-import { markets, table } from '../lib/goals.mjs';
+import { markets, table, gridOf, blended } from '../lib/goals.mjs';
+import { run as runAttack } from '../lib/attack.mjs';
 import { seasons, currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
 import { slug, canonical } from '../lib/teams.mjs';
 import { LEAGUES, leagueOf } from '../lib/leagues.mjs';
@@ -84,7 +85,7 @@ test('UK kick-off times become UTC on either side of the clocks changing', () =>
 test('club pages have plain addresses, and one club under two names is one club', () => {
   assert.equal(slug('Preußen Münster'), 'preussen-munster'); assert.equal(slug("Nott'm Forest"), 'nott-m-forest'); assert.equal(slug('Ath Madrid'), 'ath-madrid');
   assert.equal(canonical('Leonesa'), 'Cultural Leonesa'); assert.equal(canonical('Arsenal'), 'Arsenal');
-  assert.equal(leagueOf('SP2'), 'laliga'); assert.equal(Object.keys(LEAGUES).length, 5);
+  assert.equal(leagueOf('SP2'), 'laliga'); assert.equal(Object.keys(LEAGUES).length, 11);
 });
 
 test('a country whose second division starts later still rates the clubs coming up', () => {
@@ -120,4 +121,31 @@ test('a European win lifts the winner\'s whole league a little and leaves every 
   assert.ok(R.get('B') > R0.get('B') && R.get('D') < R0.get('D'), 'B and D moved with their leagues');
   assert.ok(Math.abs((R.get('B') - R0.get('B')) + (R.get('D') - R0.get('D'))) < 1e-9, 'what one league gains the other loses');
   assert.ok(R.get('A') - R.get('B') > R0.get('A') - R0.get('B'), 'A gained on B too: it won');
+});
+
+test('the attack/defence model: a club that scores more than expected gets a better attack, and its home rate follows results', () => {
+  const g = (date, home, away, hg, ag) => ({ season: '2122', date, div: 'X1', home, away, hg, ag });
+  const list = [g('2021-08-14', 'A', 'B', 4, 0), g('2021-08-21', 'B', 'A', 0, 3), g('2021-08-28', 'A', 'B', 3, 1)];
+  const seen = [];
+  const m = runAttack(list, { k: 0.05, kb: 0.01 }, { divs: ['X1'], each: (x, xg) => seen.push(xg) });
+  assert.ok(m.att.get('A') > m.att.get('B') && m.def.get('A') > m.def.get('B'));
+  assert.ok(seen[2][0] > seen[0][0], 'A expected to score more the third time');
+  const [h, a] = m.expect('A', 'B', 'X1');
+  assert.ok(h > a && h > 0 && a > 0);
+  assert.equal(m.expect('A', 'Nobody', 'X1'), null);
+});
+
+test('home advantage learnt as it goes: home sides doing worse than expected bring it down', () => {
+  const list = Array.from({ length: 40 }, (_, i) => ({ season: '2122', date: `2021-09-${String(1 + (i % 28)).padStart(2, '0')}`, div: 'X1', home: i % 2 ? 'A' : 'B', away: i % 2 ? 'B' : 'A', hg: 0, ag: 1 }));
+  const fixed = run(list, { k: 10, hfa: 80, kH: 0 }, { divs: ['X1', 'X2'] }), learnt = run(list, { k: 10, hfa: 80, kH: 1 }, { divs: ['X1', 'X2'] });
+  assert.equal(fixed.hfa, 80);
+  assert.ok(learnt.hfa < 80, `home advantage fell to ${learnt.hfa}`);
+});
+
+test("two models' score grids blend into one consistent set of markets", () => {
+  const a = { grid: gridOf([2, 0.8], 0.1), xg: [2, 0.8] }, b = { grid: gridOf([1, 1.4], 0.1), xg: [1, 1.4] };
+  const m = blended(a, b, 0.5), ma = blended(a, a, 1), mb = blended(b, b, 1);
+  assert.ok(Math.abs(m.H + m.D + m.A - 1) < 1e-9);
+  assert.ok(Math.abs(m.H - (ma.H + mb.H) / 2) < 1e-9);
+  assert.deepEqual(m.xg, [1.5, 1.1]);
 });

@@ -9,16 +9,6 @@ date,season,div,home,away,hg,ag
 1993-09-05,9394,SP1,Tenerife,Lerida,1,0
 1993-09-05,9394,SP1,Valladolid,Sp Gijon,0,1
 1993-09-05,9394,SP1,Zaragoza,Sevilla,1,2
-1993-09-05,9394,SP2,Ath Bilbao,Albacete,4,1
-1993-09-05,9394,SP2,Ath Madrid,Logrones,1,0
-1993-09-05,9394,SP2,Barcelona,Sociedad,3,0
-1993-09-05,9394,SP2,La Coruna,Celta,0,0
-1993-09-05,9394,SP2,Osasuna,Real Madrid,1,4
-1993-09-05,9394,SP2,Oviedo,Valencia,0,3
-1993-09-05,9394,SP2,Santander,Vallecano,1,0
-1993-09-05,9394,SP2,Tenerife,Lerida,1,0
-1993-09-05,9394,SP2,Valladolid,Sp Gijon,0,1
-1993-09-05,9394,SP2,Zaragoza,Sevilla,1,2
 1993-09-12,9394,SP1,Albacete,Barcelona,0,0
 1993-09-12,9394,SP1,Celta,Oviedo,1,1
 1993-09-12,9394,SP1,Lerida,Ath Bilbao,1,2
@@ -29,16 +19,6 @@ date,season,div,home,away,hg,ag
 1993-09-12,9394,SP1,Sp Gijon,La Coruna,0,2
 1993-09-12,9394,SP1,Valencia,Ath Madrid,2,2
 1993-09-12,9394,SP1,Vallecano,Tenerife,4,3
-1993-09-12,9394,SP2,Albacete,Barcelona,0,0
-1993-09-12,9394,SP2,Celta,Oviedo,1,1
-1993-09-12,9394,SP2,Lerida,Ath Bilbao,1,2
-1993-09-12,9394,SP2,Logrones,Santander,0,1
-1993-09-12,9394,SP2,Real Madrid,Valladolid,1,3
-1993-09-12,9394,SP2,Sevilla,Osasuna,1,1
-1993-09-12,9394,SP2,Sociedad,Zaragoza,2,2
-1993-09-12,9394,SP2,Sp Gijon,La Coruna,0,2
-1993-09-12,9394,SP2,Valencia,Ath Madrid,2,2
-1993-09-12,9394,SP2,Vallecano,Tenerife,4,3
 1993-09-19,9394,SP1,Ath Bilbao,Barcelona,0,0
 1993-09-19,9394,SP1,Ath Madrid,Celta,3,2
 1993-09-19,9394,SP1,La Coruna,Real Madrid,4,0
@@ -49,16 +29,6 @@ date,season,div,home,away,hg,ag
 1993-09-19,9394,SP1,Tenerife,Logrones,2,0
 1993-09-19,9394,SP1,Valladolid,Sevilla,2,2
 1993-09-19,9394,SP1,Zaragoza,Albacete,1,1
-1993-09-19,9394,SP2,Ath Bilbao,Barcelona,0,0
-1993-09-19,9394,SP2,Ath Madrid,Celta,3,2
-1993-09-19,9394,SP2,La Coruna,Real Madrid,4,0
-1993-09-19,9394,SP2,Lerida,Vallecano,0,1
-1993-09-19,9394,SP2,Osasuna,Sociedad,0,2
-1993-09-19,9394,SP2,Oviedo,Sp Gijon,0,1
-1993-09-19,9394,SP2,Santander,Valencia,0,1
-1993-09-19,9394,SP2,Tenerife,Logrones,2,0
-1993-09-19,9394,SP2,Valladolid,Sevilla,2,2
-1993-09-19,9394,SP2,Zaragoza,Albacete,1,1
 1993-09-26,9394,SP1,Albacete,Osasuna,2,1
 1993-09-26,9394,SP1,Barcelona,Zaragoza,4,1
 1993-09-26,9394,SP1,Celta,Santander,0,0
@@ -69,16 +39,6 @@ date,season,div,home,away,hg,ag
 1993-09-26,9394,SP1,Sp Gijon,Ath Madrid,1,1
 1993-09-26,9394,SP1,Valencia,Tenerife,3,2
 1993-09-26,9394,SP1,Vallecano,Ath Bilbao,1,2
-1993-09-26,9394,SP2,Albacete,Osasuna,2,1
-1993-09-26,9394,SP2,Barcelona,Zaragoza,4,1
-1993-09-26,9394,SP2,Celta,Santander,0,0
-1993-09-26,9394,SP2,Logrones,Lerida,2,1
-1993-09-26,9394,SP2,Real Madrid,Oviedo,0,1
-1993-09-26,9394,SP2,Sevilla,La Coruna,0,0
-1993-09-26,9394,SP2,Sociedad,Valladolid,1,0
-1993-09-26,9394,SP2,Sp Gijon,Ath Madrid,1,1
-1993-09-26,9394,SP2,Valencia,Tenerife,3,2
-1993-09-26,9394,SP2,Vallecano,Ath Bilbao,1,2
 1993-10-03,9394,SP1,Ath Bilbao,Zaragoza,2,1
 1993-10-03,9394,SP1,Ath Madrid,Real Madrid,0,0
 1993-10-03,9394,SP1,La Coruna,Sociedad,0,1
@@ -89,16 +49,6 @@ date,season,div,home,away,hg,ag
 1993-10-03,9394,SP1,Tenerife,Celta,0,0
 1993-10-03,9394,SP1,Valladolid,Albacete,1,0
 1993-10-03,9394,SP1,Vallecano,Logrones,3,1
-1993-10-03,9394,SP2,Ath Bilbao,Zaragoza,2,1
-1993-10-03,9394,SP2,Ath Madrid,Real Madrid,0,0
-1993-10-03,9394,SP2,La Coruna,Sociedad,0,1
-1993-10-03,9394,SP2,Lerida,Valencia,1,1
-1993-10-03,9394,SP2,Osasuna,Barcelona,2,3
-1993-10-03,9394,SP2,Oviedo,Sevilla,0,2
-1993-10-03,9394,SP2,Santander,Sp Gijon,2,0
-1993-10-03,9394,SP2,Tenerife,Celta,0,0
-1993-10-03,9394,SP2,Valladolid,Albacete,1,0
-1993-10-03,9394,SP2,Vallecano,Logrones,3,1
 1993-10-06,9394,SP1,Albacete,La Coruna,0,0
 1993-10-06,9394,SP1,Barcelona,Valladolid,3,0
 1993-10-06,9394,SP1,Celta,Lerida,1,0
@@ -109,16 +59,6 @@ date,season,div,home,away,hg,ag
 1993-10-06,9394,SP1,Sp Gijon,Tenerife,1,2
 1993-10-06,9394,SP1,Valencia,Vallecano,3,1
 1993-10-06,9394,SP1,Zaragoza,Osasuna,2,1
-1993-10-06,9394,SP2,Albacete,La Coruna,0,0
-1993-10-06,9394,SP2,Barcelona,Valladolid,3,0
-1993-10-06,9394,SP2,Celta,Lerida,1,0
-1993-10-06,9394,SP2,Logrones,Ath Bilbao,4,2
-1993-10-06,9394,SP2,Real Madrid,Santander,2,1
-1993-10-06,9394,SP2,Sevilla,Ath Madrid,2,1
-1993-10-06,9394,SP2,Sociedad,Oviedo,2,2
-1993-10-06,9394,SP2,Sp Gijon,Tenerife,1,2
-1993-10-06,9394,SP2,Valencia,Vallecano,3,1
-1993-10-06,9394,SP2,Zaragoza,Osasuna,2,1
 1993-10-17,9394,SP1,Ath Bilbao,Osasuna,1,2
 1993-10-17,9394,SP1,Ath Madrid,Sociedad,1,2
 1993-10-17,9394,SP1,La Coruna,Barcelona,1,0
@@ -129,16 +69,6 @@ date,season,div,home,away,hg,ag
 1993-10-17,9394,SP1,Tenerife,Real Madrid,0,0
 1993-10-17,9394,SP1,Valladolid,Zaragoza,0,0
 1993-10-17,9394,SP1,Vallecano,Celta,1,1
-1993-10-17,9394,SP2,Ath Bilbao,Osasuna,1,2
-1993-10-17,9394,SP2,Ath Madrid,Sociedad,1,2
-1993-10-17,9394,SP2,La Coruna,Barcelona,1,0
-1993-10-17,9394,SP2,Lerida,Sp Gijon,1,1
-1993-10-17,9394,SP2,Logrones,Valencia,2,0
-1993-10-17,9394,SP2,Oviedo,Albacete,1,1
-1993-10-17,9394,SP2,Santander,Sevilla,1,0
-1993-10-17,9394,SP2,Tenerife,Real Madrid,0,0
-1993-10-17,9394,SP2,Valladolid,Zaragoza,0,0
-1993-10-17,9394,SP2,Vallecano,Celta,1,1
 1993-10-24,9394,SP1,Albacete,Ath Madrid,2,2
 1993-10-24,9394,SP1,Barcelona,Oviedo,1,0
 1993-10-24,9394,SP1,Celta,Logrones,2,0
@@ -149,16 +79,6 @@ date,season,div,home,away,hg,ag
 1993-10-24,9394,SP1,Sp Gijon,Vallecano,2,0
 1993-10-24,9394,SP1,Valencia,Ath Bilbao,1,0
 1993-10-24,9394,SP1,Zaragoza,La Coruna,0,1
-1993-10-24,9394,SP2,Albacete,Ath Madrid,2,2
-1993-10-24,9394,SP2,Barcelona,Oviedo,1,0
-1993-10-24,9394,SP2,Celta,Logrones,2,0
-1993-10-24,9394,SP2,Osasuna,Valladolid,2,0
-1993-10-24,9394,SP2,Real Madrid,Lerida,5,0
-1993-10-24,9394,SP2,Sevilla,Tenerife,4,0
-1993-10-24,9394,SP2,Sociedad,Santander,2,0
-1993-10-24,9394,SP2,Sp Gijon,Vallecano,2,0
-1993-10-24,9394,SP2,Valencia,Ath Bilbao,1,0
-1993-10-24,9394,SP2,Zaragoza,La Coruna,0,1
 1993-10-31,9394,SP1,Ath Bilbao,Valladolid,3,0
 1993-10-31,9394,SP1,Ath Madrid,Barcelona,4,3
 1993-10-31,9394,SP1,La Coruna,Osasuna,3,1
@@ -169,16 +89,6 @@ date,season,div,home,away,hg,ag
 1993-10-31,9394,SP1,Tenerife,Sociedad,2,1
 1993-10-31,9394,SP1,Valencia,Celta,3,0
 1993-10-31,9394,SP1,Vallecano,Real Madrid,0,2
-1993-10-31,9394,SP2,Ath Bilbao,Valladolid,3,0
-1993-10-31,9394,SP2,Ath Madrid,Barcelona,4,3
-1993-10-31,9394,SP2,La Coruna,Osasuna,3,1
-1993-10-31,9394,SP2,Lerida,Sevilla,0,3
-1993-10-31,9394,SP2,Logrones,Sp Gijon,1,2
-1993-10-31,9394,SP2,Oviedo,Zaragoza,2,1
-1993-10-31,9394,SP2,Santander,Albacete,1,1
-1993-10-31,9394,SP2,Tenerife,Sociedad,2,1
-1993-10-31,9394,SP2,Valencia,Celta,3,0
-1993-10-31,9394,SP2,Vallecano,Real Madrid,0,2
 1993-11-07,9394,SP1,Albacete,Tenerife,2,3
 1993-11-07,9394,SP1,Barcelona,Santander,2,1
 1993-11-07,9394,SP1,Celta,Ath Bilbao,1,1
@@ -189,16 +99,6 @@ date,season,div,home,away,hg,ag
 1993-11-07,9394,SP1,Sp Gijon,Valencia,2,0
 1993-11-07,9394,SP1,Valladolid,La Coruna,0,0
 1993-11-07,9394,SP1,Zaragoza,Ath Madrid,2,1
-1993-11-07,9394,SP2,Albacete,Tenerife,2,3
-1993-11-07,9394,SP2,Barcelona,Santander,2,1
-1993-11-07,9394,SP2,Celta,Ath Bilbao,1,1
-1993-11-07,9394,SP2,Osasuna,Oviedo,2,0
-1993-11-07,9394,SP2,Real Madrid,Logrones,2,1
-1993-11-07,9394,SP2,Sevilla,Vallecano,3,1
-1993-11-07,9394,SP2,Sociedad,Lerida,1,3
-1993-11-07,9394,SP2,Sp Gijon,Valencia,2,0
-1993-11-07,9394,SP2,Valladolid,La Coruna,0,0
-1993-11-07,9394,SP2,Zaragoza,Ath Madrid,2,1
 1993-11-10,9394,SP1,Ath Bilbao,La Coruna,3,1
 1993-11-10,9394,SP1,Ath Madrid,Osasuna,3,0
 1993-11-10,9394,SP1,Celta,Sp Gijon,0,2
@@ -209,16 +109,6 @@ date,season,div,home,away,hg,ag
 1993-11-10,9394,SP1,Tenerife,Barcelona,2,3
 1993-11-10,9394,SP1,Valencia,Real Madrid,0,3
 1993-11-10,9394,SP1,Vallecano,Sociedad,4,1
-1993-11-10,9394,SP2,Ath Bilbao,La Coruna,3,1
-1993-11-10,9394,SP2,Ath Madrid,Osasuna,3,0
-1993-11-10,9394,SP2,Celta,Sp Gijon,0,2
-1993-11-10,9394,SP2,Lerida,Albacete,0,1
-1993-11-10,9394,SP2,Logrones,Sevilla,1,1
-1993-11-10,9394,SP2,Oviedo,Valladolid,1,0
-1993-11-10,9394,SP2,Santander,Zaragoza,2,0
-1993-11-10,9394,SP2,Tenerife,Barcelona,2,3
-1993-11-10,9394,SP2,Valencia,Real Madrid,0,3
-1993-11-10,9394,SP2,Vallecano,Sociedad,4,1
 1993-11-21,9394,SP1,Albacete,Vallecano,1,1
 1993-11-21,9394,SP1,Barcelona,Lerida,0,1
 1993-11-21,9394,SP1,La Coruna,Oviedo,4,0
@@ -229,16 +119,6 @@ date,season,div,home,away,hg,ag
 1993-11-21,9394,SP1,Sp Gijon,Ath Bilbao,0,1
 1993-11-21,9394,SP1,Valladolid,Ath Madrid,1,1
 1993-11-21,9394,SP1,Zaragoza,Tenerife,6,2
-1993-11-21,9394,SP2,Albacete,Vallecano,1,1
-1993-11-21,9394,SP2,Barcelona,Lerida,0,1
-1993-11-21,9394,SP2,La Coruna,Oviedo,4,0
-1993-11-21,9394,SP2,Osasuna,Santander,0,0
-1993-11-21,9394,SP2,Real Madrid,Celta,2,1
-1993-11-21,9394,SP2,Sevilla,Valencia,0,1
-1993-11-21,9394,SP2,Sociedad,Logrones,2,2
-1993-11-21,9394,SP2,Sp Gijon,Ath Bilbao,0,1
-1993-11-21,9394,SP2,Valladolid,Ath Madrid,1,1
-1993-11-21,9394,SP2,Zaragoza,Tenerife,6,2
 1993-11-28,9394,SP1,Ath Bilbao,Oviedo,1,1
 1993-11-28,9394,SP1,Ath Madrid,La Coruna,0,1
 1993-11-28,9394,SP1,Celta,Sevilla,2,1
@@ -249,16 +129,6 @@ date,season,div,home,away,hg,ag
 1993-11-28,9394,SP1,Tenerife,Osasuna,1,0
 1993-11-28,9394,SP1,Valencia,Sociedad,0,0
 1993-11-28,9394,SP1,Vallecano,Barcelona,2,4
-1993-11-28,9394,SP2,Ath Bilbao,Oviedo,1,1
-1993-11-28,9394,SP2,Ath Madrid,La Coruna,0,1
-1993-11-28,9394,SP2,Celta,Sevilla,2,1
-1993-11-28,9394,SP2,Lerida,Zaragoza,0,1
-1993-11-28,9394,SP2,Logrones,Albacete,2,2
-1993-11-28,9394,SP2,Santander,Valladolid,5,1
-1993-11-28,9394,SP2,Sp Gijon,Real Madrid,2,1
-1993-11-28,9394,SP2,Tenerife,Osasuna,1,0
-1993-11-28,9394,SP2,Valencia,Sociedad,0,0
-1993-11-28,9394,SP2,Vallecano,Barcelona,2,4
 1993-12-05,9394,SP1,Albacete,Valencia,3,1
 1993-12-05,9394,SP1,Barcelona,Logrones,2,2
 1993-12-05,9394,SP1,La Coruna,Santander,1,0
@@ -269,16 +139,6 @@ date,season,div,home,away,hg,ag
 1993-12-05,9394,SP1,Sociedad,Celta,2,1
 1993-12-05,9394,SP1,Valladolid,Tenerife,2,0
 1993-12-05,9394,SP1,Zaragoza,Vallecano,4,1
-1993-12-05,9394,SP2,Albacete,Valencia,3,1
-1993-12-05,9394,SP2,Barcelona,Logrones,2,2
-1993-12-05,9394,SP2,La Coruna,Santander,1,0
-1993-12-05,9394,SP2,Osasuna,Lerida,1,0
-1993-12-05,9394,SP2,Oviedo,Ath Madrid,1,1
-1993-12-05,9394,SP2,Real Madrid,Ath Bilbao,2,1
-1993-12-05,9394,SP2,Sevilla,Sp Gijon,1,2
-1993-12-05,9394,SP2,Sociedad,Celta,2,1
-1993-12-05,9394,SP2,Valladolid,Tenerife,2,0
-1993-12-05,9394,SP2,Zaragoza,Vallecano,4,1
 1993-12-12,9394,SP1,Ath Bilbao,Ath Madrid,3,2
 1993-12-12,9394,SP1,Celta,Albacete,1,4
 1993-12-12,9394,SP1,Lerida,Valladolid,1,0
@@ -289,16 +149,6 @@ date,season,div,home,away,hg,ag
 1993-12-12,9394,SP1,Tenerife,La Coruna,0,1
 1993-12-12,9394,SP1,Valencia,Barcelona,0,4
 1993-12-12,9394,SP1,Vallecano,Osasuna,1,0
-1993-12-12,9394,SP2,Ath Bilbao,Ath Madrid,3,2
-1993-12-12,9394,SP2,Celta,Albacete,1,4
-1993-12-12,9394,SP2,Lerida,Valladolid,1,0
-1993-12-12,9394,SP2,Logrones,Zaragoza,2,2
-1993-12-12,9394,SP2,Real Madrid,Sevilla,0,0
-1993-12-12,9394,SP2,Santander,Oviedo,1,2
-1993-12-12,9394,SP2,Sp Gijon,Sociedad,3,2
-1993-12-12,9394,SP2,Tenerife,La Coruna,0,1
-1993-12-12,9394,SP2,Valencia,Barcelona,0,4
-1993-12-12,9394,SP2,Vallecano,Osasuna,1,0
 1993-12-19,9394,SP1,Albacete,Sp Gijon,3,1
 1993-12-19,9394,SP1,Ath Madrid,Santander,4,0
 1993-12-19,9394,SP1,Barcelona,Celta,1,0
@@ -309,16 +159,6 @@ date,season,div,home,away,hg,ag
 1993-12-19,9394,SP1,Sociedad,Real Madrid,2,0
 1993-12-19,9394,SP1,Valladolid,Vallecano,1,3
 1993-12-19,9394,SP1,Zaragoza,Valencia,1,0
-1993-12-19,9394,SP2,Albacete,Sp Gijon,3,1
-1993-12-19,9394,SP2,Ath Madrid,Santander,4,0
-1993-12-19,9394,SP2,Barcelona,Celta,1,0
-1993-12-19,9394,SP2,La Coruna,Lerida,2,0
-1993-12-19,9394,SP2,Osasuna,Logrones,1,3
-1993-12-19,9394,SP2,Oviedo,Tenerife,1,0
-1993-12-19,9394,SP2,Sevilla,Ath Bilbao,1,3
-1993-12-19,9394,SP2,Sociedad,Real Madrid,2,0
-1993-12-19,9394,SP2,Valladolid,Vallecano,1,3
-1993-12-19,9394,SP2,Zaragoza,Valencia,1,0
 1994-01-02,9394,SP1,Ath Bilbao,Santander,1,2
 1994-01-02,9394,SP1,Celta,Zaragoza,1,0
 1994-01-02,9394,SP1,Lerida,Oviedo,1,1
@@ -329,16 +169,6 @@ date,season,div,home,away,hg,ag
 1994-01-02,9394,SP1,Tenerife,Ath Madrid,1,1
 1994-01-02,9394,SP1,Valencia,Osasuna,0,0
 1994-01-02,9394,SP1,Vallecano,La Coruna,0,0
-1994-01-02,9394,SP2,Ath Bilbao,Santander,1,2
-1994-01-02,9394,SP2,Celta,Zaragoza,1,0
-1994-01-02,9394,SP2,Lerida,Oviedo,1,1
-1994-01-02,9394,SP2,Logrones,Valladolid,0,0
-1994-01-02,9394,SP2,Real Madrid,Albacete,2,0
-1994-01-02,9394,SP2,Sevilla,Sociedad,1,0
-1994-01-02,9394,SP2,Sp Gijon,Barcelona,2,0
-1994-01-02,9394,SP2,Tenerife,Ath Madrid,1,1
-1994-01-02,9394,SP2,Valencia,Osasuna,0,0
-1994-01-02,9394,SP2,Vallecano,La Coruna,0,0
 1994-01-09,9394,SP1,Albacete,Sevilla,2,2
 1994-01-09,9394,SP1,Ath Bilbao,Sociedad,0,0
 1994-01-09,9394,SP1,Ath Madrid,Lerida,0,0
@@ -349,16 +179,6 @@ date,season,div,home,away,hg,ag
 1994-01-09,9394,SP1,Santander,Tenerife,1,0
 1994-01-09,9394,SP1,Valladolid,Valencia,1,1
 1994-01-09,9394,SP1,Zaragoza,Sp Gijon,3,0
-1994-01-09,9394,SP2,Albacete,Sevilla,2,2
-1994-01-09,9394,SP2,Ath Bilbao,Sociedad,0,0
-1994-01-09,9394,SP2,Ath Madrid,Lerida,0,0
-1994-01-09,9394,SP2,Barcelona,Real Madrid,5,0
-1994-01-09,9394,SP2,La Coruna,Logrones,3,0
-1994-01-09,9394,SP2,Osasuna,Celta,0,1
-1994-01-09,9394,SP2,Oviedo,Vallecano,5,0
-1994-01-09,9394,SP2,Santander,Tenerife,1,0
-1994-01-09,9394,SP2,Valladolid,Valencia,1,1
-1994-01-09,9394,SP2,Zaragoza,Sp Gijon,3,0
 1994-01-16,9394,SP1,Celta,Valladolid,1,2
 1994-01-16,9394,SP1,Lerida,Santander,0,0
 1994-01-16,9394,SP1,Logrones,Oviedo,2,2
@@ -369,16 +189,6 @@ date,season,div,home,away,hg,ag
 1994-01-16,9394,SP1,Tenerife,Ath Bilbao,2,1
 1994-01-16,9394,SP1,Valencia,La Coruna,1,3
 1994-01-16,9394,SP1,Vallecano,Ath Madrid,2,1
-1994-01-16,9394,SP2,Celta,Valladolid,1,2
-1994-01-16,9394,SP2,Lerida,Santander,0,0
-1994-01-16,9394,SP2,Logrones,Oviedo,2,2
-1994-01-16,9394,SP2,Real Madrid,Zaragoza,3,2
-1994-01-16,9394,SP2,Sevilla,Barcelona,0,0
-1994-01-16,9394,SP2,Sociedad,Albacete,1,1
-1994-01-16,9394,SP2,Sp Gijon,Osasuna,7,1
-1994-01-16,9394,SP2,Tenerife,Ath Bilbao,2,1
-1994-01-16,9394,SP2,Valencia,La Coruna,1,3
-1994-01-16,9394,SP2,Vallecano,Ath Madrid,2,1
 1994-01-23,9394,SP1,Albacete,Ath Bilbao,1,0
 1994-01-23,9394,SP1,Celta,La Coruna,0,0
 1994-01-23,9394,SP1,Lerida,Tenerife,1,1
@@ -389,16 +199,6 @@ date,season,div,home,away,hg,ag
 1994-01-23,9394,SP1,Sp Gijon,Valladolid,2,0
 1994-01-23,9394,SP1,Valencia,Oviedo,2,2
 1994-01-23,9394,SP1,Vallecano,Santander,1,1
-1994-01-23,9394,SP2,Albacete,Ath Bilbao,1,0
-1994-01-23,9394,SP2,Celta,La Coruna,0,0
-1994-01-23,9394,SP2,Lerida,Tenerife,1,1
-1994-01-23,9394,SP2,Logrones,Ath Madrid,1,0
-1994-01-23,9394,SP2,Real Madrid,Osasuna,0,0
-1994-01-23,9394,SP2,Sevilla,Zaragoza,0,1
-1994-01-23,9394,SP2,Sociedad,Barcelona,2,1
-1994-01-23,9394,SP2,Sp Gijon,Valladolid,2,0
-1994-01-23,9394,SP2,Valencia,Oviedo,2,2
-1994-01-23,9394,SP2,Vallecano,Santander,1,1
 1994-01-30,9394,SP1,Ath Bilbao,Lerida,4,0
 1994-01-30,9394,SP1,Ath Madrid,Valencia,2,0
 1994-01-30,9394,SP1,Barcelona,Albacete,2,1
@@ -409,16 +209,6 @@ date,season,div,home,away,hg,ag
 1994-01-30,9394,SP1,Tenerife,Vallecano,3,1
 1994-01-30,9394,SP1,Valladolid,Real Madrid,0,0
 1994-01-30,9394,SP1,Zaragoza,Sociedad,3,0
-1994-01-30,9394,SP2,Ath Bilbao,Lerida,4,0
-1994-01-30,9394,SP2,Ath Madrid,Valencia,2,0
-1994-01-30,9394,SP2,Barcelona,Albacete,2,1
-1994-01-30,9394,SP2,La Coruna,Sp Gijon,2,1
-1994-01-30,9394,SP2,Osasuna,Sevilla,0,0
-1994-01-30,9394,SP2,Oviedo,Celta,1,0
-1994-01-30,9394,SP2,Santander,Logrones,0,0
-1994-01-30,9394,SP2,Tenerife,Vallecano,3,1
-1994-01-30,9394,SP2,Valladolid,Real Madrid,0,0
-1994-01-30,9394,SP2,Zaragoza,Sociedad,3,0
 1994-02-06,9394,SP1,Albacete,Zaragoza,2,1
 1994-02-06,9394,SP1,Barcelona,Ath Bilbao,2,3
 1994-02-06,9394,SP1,Celta,Ath Madrid,3,2
@@ -429,16 +219,6 @@ date,season,div,home,away,hg,ag
 1994-02-06,9394,SP1,Sp Gijon,Oviedo,0,0
 1994-02-06,9394,SP1,Valencia,Santander,2,1
 1994-02-06,9394,SP1,Vallecano,Lerida,1,2
-1994-02-06,9394,SP2,Albacete,Zaragoza,2,1
-1994-02-06,9394,SP2,Barcelona,Ath Bilbao,2,3
-1994-02-06,9394,SP2,Celta,Ath Madrid,3,2
-1994-02-06,9394,SP2,Logrones,Tenerife,1,2
-1994-02-06,9394,SP2,Real Madrid,La Coruna,2,0
-1994-02-06,9394,SP2,Sevilla,Valladolid,3,3
-1994-02-06,9394,SP2,Sociedad,Osasuna,1,0
-1994-02-06,9394,SP2,Sp Gijon,Oviedo,0,0
-1994-02-06,9394,SP2,Valencia,Santander,2,1
-1994-02-06,9394,SP2,Vallecano,Lerida,1,2
 1994-02-13,9394,SP1,Ath Bilbao,Vallecano,0,0
 1994-02-13,9394,SP1,Ath Madrid,Sp Gijon,2,0
 1994-02-13,9394,SP1,La Coruna,Sevilla,2,0
@@ -449,16 +229,6 @@ date,season,div,home,away,hg,ag
 1994-02-13,9394,SP1,Tenerife,Valencia,1,0
 1994-02-13,9394,SP1,Valladolid,Sociedad,0,0
 1994-02-13,9394,SP1,Zaragoza,Barcelona,6,3
-1994-02-13,9394,SP2,Ath Bilbao,Vallecano,0,0
-1994-02-13,9394,SP2,Ath Madrid,Sp Gijon,2,0
-1994-02-13,9394,SP2,La Coruna,Sevilla,2,0
-1994-02-13,9394,SP2,Lerida,Logrones,1,1
-1994-02-13,9394,SP2,Osasuna,Albacete,3,1
-1994-02-13,9394,SP2,Oviedo,Real Madrid,0,1
-1994-02-13,9394,SP2,Santander,Celta,2,1
-1994-02-13,9394,SP2,Tenerife,Valencia,1,0
-1994-02-13,9394,SP2,Valladolid,Sociedad,0,0
-1994-02-13,9394,SP2,Zaragoza,Barcelona,6,3
 1994-02-20,9394,SP1,Albacete,Valladolid,1,1
 1994-02-20,9394,SP1,Barcelona,Osasuna,8,1
 1994-02-20,9394,SP1,Celta,Tenerife,1,0
@@ -469,16 +239,6 @@ date,season,div,home,away,hg,ag
 1994-02-20,9394,SP1,Sp Gijon,Santander,0,2
 1994-02-20,9394,SP1,Valencia,Lerida,3,3
 1994-02-20,9394,SP1,Zaragoza,Ath Bilbao,1,0
-1994-02-20,9394,SP2,Albacete,Valladolid,1,1
-1994-02-20,9394,SP2,Barcelona,Osasuna,8,1
-1994-02-20,9394,SP2,Celta,Tenerife,1,0
-1994-02-20,9394,SP2,Logrones,Vallecano,1,1
-1994-02-20,9394,SP2,Real Madrid,Ath Madrid,1,0
-1994-02-20,9394,SP2,Sevilla,Oviedo,2,0
-1994-02-20,9394,SP2,Sociedad,La Coruna,0,1
-1994-02-20,9394,SP2,Sp Gijon,Santander,0,2
-1994-02-20,9394,SP2,Valencia,Lerida,3,3
-1994-02-20,9394,SP2,Zaragoza,Ath Bilbao,1,0
 1994-02-23,9394,SP1,Ath Bilbao,Logrones,0,0
 1994-02-23,9394,SP1,Ath Madrid,Sevilla,2,4
 1994-02-23,9394,SP1,La Coruna,Albacete,5,1
@@ -489,16 +249,6 @@ date,season,div,home,away,hg,ag
 1994-02-23,9394,SP1,Tenerife,Sp Gijon,3,0
 1994-02-23,9394,SP1,Valladolid,Barcelona,1,3
 1994-02-23,9394,SP1,Vallecano,Valencia,1,1
-1994-02-23,9394,SP2,Ath Bilbao,Logrones,0,0
-1994-02-23,9394,SP2,Ath Madrid,Sevilla,2,4
-1994-02-23,9394,SP2,La Coruna,Albacete,5,1
-1994-02-23,9394,SP2,Lerida,Celta,0,0
-1994-02-23,9394,SP2,Osasuna,Zaragoza,0,0
-1994-02-23,9394,SP2,Oviedo,Sociedad,2,1
-1994-02-23,9394,SP2,Santander,Real Madrid,1,3
-1994-02-23,9394,SP2,Tenerife,Sp Gijon,3,0
-1994-02-23,9394,SP2,Valladolid,Barcelona,1,3
-1994-02-23,9394,SP2,Vallecano,Valencia,1,1
 1994-02-27,9394,SP1,Albacete,Oviedo,5,0
 1994-02-27,9394,SP1,Barcelona,La Coruna,3,0
 1994-02-27,9394,SP1,Celta,Vallecano,0,0
@@ -509,16 +259,6 @@ date,season,div,home,away,hg,ag
 1994-02-27,9394,SP1,Sp Gijon,Lerida,1,1
 1994-02-27,9394,SP1,Valencia,Logrones,3,1
 1994-02-27,9394,SP1,Zaragoza,Valladolid,2,0
-1994-02-27,9394,SP2,Albacete,Oviedo,5,0
-1994-02-27,9394,SP2,Barcelona,La Coruna,3,0
-1994-02-27,9394,SP2,Celta,Vallecano,0,0
-1994-02-27,9394,SP2,Osasuna,Ath Bilbao,0,0
-1994-02-27,9394,SP2,Real Madrid,Tenerife,1,1
-1994-02-27,9394,SP2,Sevilla,Santander,2,1
-1994-02-27,9394,SP2,Sociedad,Ath Madrid,2,1
-1994-02-27,9394,SP2,Sp Gijon,Lerida,1,1
-1994-02-27,9394,SP2,Valencia,Logrones,3,1
-1994-02-27,9394,SP2,Zaragoza,Valladolid,2,0
 1994-03-06,9394,SP1,Ath Bilbao,Valencia,2,1
 1994-03-06,9394,SP1,Ath Madrid,Albacete,0,0
 1994-03-06,9394,SP1,La Coruna,Zaragoza,1,1
@@ -529,16 +269,6 @@ date,season,div,home,away,hg,ag
 1994-03-06,9394,SP1,Tenerife,Sevilla,2,1
 1994-03-06,9394,SP1,Valladolid,Osasuna,2,1
 1994-03-06,9394,SP1,Vallecano,Sp Gijon,2,1
-1994-03-06,9394,SP2,Ath Bilbao,Valencia,2,1
-1994-03-06,9394,SP2,Ath Madrid,Albacete,0,0
-1994-03-06,9394,SP2,La Coruna,Zaragoza,1,1
-1994-03-06,9394,SP2,Lerida,Real Madrid,2,1
-1994-03-06,9394,SP2,Logrones,Celta,1,1
-1994-03-06,9394,SP2,Oviedo,Barcelona,1,3
-1994-03-06,9394,SP2,Santander,Sociedad,4,1
-1994-03-06,9394,SP2,Tenerife,Sevilla,2,1
-1994-03-06,9394,SP2,Valladolid,Osasuna,2,1
-1994-03-06,9394,SP2,Vallecano,Sp Gijon,2,1
 1994-03-13,9394,SP1,Albacete,Santander,3,0
 1994-03-13,9394,SP1,Barcelona,Ath Madrid,5,3
 1994-03-13,9394,SP1,Celta,Valencia,1,2
@@ -549,16 +279,6 @@ date,season,div,home,away,hg,ag
 1994-03-13,9394,SP1,Sp Gijon,Logrones,1,2
 1994-03-13,9394,SP1,Valladolid,Ath Bilbao,1,1
 1994-03-13,9394,SP1,Zaragoza,Oviedo,2,1
-1994-03-13,9394,SP2,Albacete,Santander,3,0
-1994-03-13,9394,SP2,Barcelona,Ath Madrid,5,3
-1994-03-13,9394,SP2,Celta,Valencia,1,2
-1994-03-13,9394,SP2,Osasuna,La Coruna,0,0
-1994-03-13,9394,SP2,Real Madrid,Vallecano,5,2
-1994-03-13,9394,SP2,Sevilla,Lerida,2,1
-1994-03-13,9394,SP2,Sociedad,Tenerife,2,1
-1994-03-13,9394,SP2,Sp Gijon,Logrones,1,2
-1994-03-13,9394,SP2,Valladolid,Ath Bilbao,1,1
-1994-03-13,9394,SP2,Zaragoza,Oviedo,2,1
 1994-03-20,9394,SP1,Ath Bilbao,Celta,2,1
 1994-03-20,9394,SP1,Ath Madrid,Zaragoza,0,4
 1994-03-20,9394,SP1,La Coruna,Valladolid,0,0
@@ -569,16 +289,6 @@ date,season,div,home,away,hg,ag
 1994-03-20,9394,SP1,Tenerife,Albacete,2,1
 1994-03-20,9394,SP1,Valencia,Sp Gijon,1,0
 1994-03-20,9394,SP1,Vallecano,Sevilla,2,1
-1994-03-20,9394,SP2,Ath Bilbao,Celta,2,1
-1994-03-20,9394,SP2,Ath Madrid,Zaragoza,0,4
-1994-03-20,9394,SP2,La Coruna,Valladolid,0,0
-1994-03-20,9394,SP2,Lerida,Sociedad,1,0
-1994-03-20,9394,SP2,Logrones,Real Madrid,3,4
-1994-03-20,9394,SP2,Oviedo,Osasuna,1,0
-1994-03-20,9394,SP2,Santander,Barcelona,1,1
-1994-03-20,9394,SP2,Tenerife,Albacete,2,1
-1994-03-20,9394,SP2,Valencia,Sp Gijon,1,0
-1994-03-20,9394,SP2,Vallecano,Sevilla,2,1
 1994-03-27,9394,SP1,Albacete,Lerida,2,1
 1994-03-27,9394,SP1,Barcelona,Tenerife,2,1
 1994-03-27,9394,SP1,La Coruna,Ath Bilbao,4,1
@@ -589,16 +299,6 @@ date,season,div,home,away,hg,ag
 1994-03-27,9394,SP1,Sp Gijon,Celta,2,1
 1994-03-27,9394,SP1,Valladolid,Oviedo,0,0
 1994-03-27,9394,SP1,Zaragoza,Santander,2,0
-1994-03-27,9394,SP2,Albacete,Lerida,2,1
-1994-03-27,9394,SP2,Barcelona,Tenerife,2,1
-1994-03-27,9394,SP2,La Coruna,Ath Bilbao,4,1
-1994-03-27,9394,SP2,Osasuna,Ath Madrid,0,1
-1994-03-27,9394,SP2,Real Madrid,Valencia,3,2
-1994-03-27,9394,SP2,Sevilla,Logrones,4,1
-1994-03-27,9394,SP2,Sociedad,Vallecano,1,1
-1994-03-27,9394,SP2,Sp Gijon,Celta,2,1
-1994-03-27,9394,SP2,Valladolid,Oviedo,0,0
-1994-03-27,9394,SP2,Zaragoza,Santander,2,0
 1994-04-03,9394,SP1,Ath Bilbao,Sp Gijon,7,0
 1994-04-03,9394,SP1,Ath Madrid,Valladolid,2,0
 1994-04-03,9394,SP1,Celta,Real Madrid,3,2
@@ -609,16 +309,6 @@ date,season,div,home,away,hg,ag
 1994-04-03,9394,SP1,Tenerife,Zaragoza,5,3
 1994-04-03,9394,SP1,Valencia,Sevilla,1,1
 1994-04-03,9394,SP1,Vallecano,Albacete,0,0
-1994-04-03,9394,SP2,Ath Bilbao,Sp Gijon,7,0
-1994-04-03,9394,SP2,Ath Madrid,Valladolid,2,0
-1994-04-03,9394,SP2,Celta,Real Madrid,3,2
-1994-04-03,9394,SP2,Lerida,Barcelona,1,2
-1994-04-03,9394,SP2,Logrones,Sociedad,2,0
-1994-04-03,9394,SP2,Oviedo,La Coruna,2,5
-1994-04-03,9394,SP2,Santander,Osasuna,3,1
-1994-04-03,9394,SP2,Tenerife,Zaragoza,5,3
-1994-04-03,9394,SP2,Valencia,Sevilla,1,1
-1994-04-03,9394,SP2,Vallecano,Albacete,0,0
 1994-04-06,9394,SP1,Albacete,Logrones,2,2
 1994-04-06,9394,SP1,Barcelona,Vallecano,1,0
 1994-04-06,9394,SP1,La Coruna,Ath Madrid,2,1
@@ -629,16 +319,6 @@ date,season,div,home,away,hg,ag
 1994-04-06,9394,SP1,Sociedad,Valencia,0,0
 1994-04-06,9394,SP1,Valladolid,Santander,0,3
 1994-04-06,9394,SP1,Zaragoza,Lerida,1,1
-1994-04-06,9394,SP2,Albacete,Logrones,2,2
-1994-04-06,9394,SP2,Barcelona,Vallecano,1,0
-1994-04-06,9394,SP2,La Coruna,Ath Madrid,2,1
-1994-04-06,9394,SP2,Osasuna,Tenerife,1,0
-1994-04-06,9394,SP2,Oviedo,Ath Bilbao,3,0
-1994-04-06,9394,SP2,Real Madrid,Sp Gijon,2,2
-1994-04-06,9394,SP2,Sevilla,Celta,4,1
-1994-04-06,9394,SP2,Sociedad,Valencia,0,0
-1994-04-06,9394,SP2,Valladolid,Santander,0,3
-1994-04-06,9394,SP2,Zaragoza,Lerida,1,1
 1994-04-10,9394,SP1,Ath Bilbao,Real Madrid,2,1
 1994-04-10,9394,SP1,Ath Madrid,Oviedo,0,3
 1994-04-10,9394,SP1,Celta,Sociedad,3,2
@@ -649,16 +329,6 @@ date,season,div,home,away,hg,ag
 1994-04-10,9394,SP1,Tenerife,Valladolid,0,2
 1994-04-10,9394,SP1,Valencia,Albacete,4,0
 1994-04-10,9394,SP1,Vallecano,Zaragoza,1,2
-1994-04-10,9394,SP2,Ath Bilbao,Real Madrid,2,1
-1994-04-10,9394,SP2,Ath Madrid,Oviedo,0,3
-1994-04-10,9394,SP2,Celta,Sociedad,3,2
-1994-04-10,9394,SP2,Lerida,Osasuna,1,2
-1994-04-10,9394,SP2,Logrones,Barcelona,0,0
-1994-04-10,9394,SP2,Santander,La Coruna,0,1
-1994-04-10,9394,SP2,Sp Gijon,Sevilla,0,1
-1994-04-10,9394,SP2,Tenerife,Valladolid,0,2
-1994-04-10,9394,SP2,Valencia,Albacete,4,0
-1994-04-10,9394,SP2,Vallecano,Zaragoza,1,2
 1994-04-17,9394,SP1,Albacete,Celta,0,4
 1994-04-17,9394,SP1,Ath Madrid,Ath Bilbao,4,2
 1994-04-17,9394,SP1,Barcelona,Valencia,3,1
@@ -669,16 +339,6 @@ date,season,div,home,away,hg,ag
 1994-04-17,9394,SP1,Sociedad,Sp Gijon,0,1
 1994-04-17,9394,SP1,Valladolid,Lerida,0,2
 1994-04-17,9394,SP1,Zaragoza,Logrones,1,1
-1994-04-17,9394,SP2,Albacete,Celta,0,4
-1994-04-17,9394,SP2,Ath Madrid,Ath Bilbao,4,2
-1994-04-17,9394,SP2,Barcelona,Valencia,3,1
-1994-04-17,9394,SP2,La Coruna,Tenerife,2,0
-1994-04-17,9394,SP2,Osasuna,Vallecano,1,1
-1994-04-17,9394,SP2,Oviedo,Santander,3,0
-1994-04-17,9394,SP2,Sevilla,Real Madrid,0,1
-1994-04-17,9394,SP2,Sociedad,Sp Gijon,0,1
-1994-04-17,9394,SP2,Valladolid,Lerida,0,2
-1994-04-17,9394,SP2,Zaragoza,Logrones,1,1
 1994-04-24,9394,SP1,Ath Bilbao,Sevilla,1,1
 1994-04-24,9394,SP1,Celta,Barcelona,0,4
 1994-04-24,9394,SP1,Lerida,La Coruna,0,0
@@ -689,16 +349,6 @@ date,season,div,home,away,hg,ag
 1994-04-24,9394,SP1,Tenerife,Oviedo,2,2
 1994-04-24,9394,SP1,Valencia,Zaragoza,3,0
 1994-04-24,9394,SP1,Vallecano,Valladolid,0,1
-1994-04-24,9394,SP2,Ath Bilbao,Sevilla,1,1
-1994-04-24,9394,SP2,Celta,Barcelona,0,4
-1994-04-24,9394,SP2,Lerida,La Coruna,0,0
-1994-04-24,9394,SP2,Logrones,Osasuna,3,2
-1994-04-24,9394,SP2,Real Madrid,Sociedad,0,1
-1994-04-24,9394,SP2,Santander,Ath Madrid,2,0
-1994-04-24,9394,SP2,Sp Gijon,Albacete,1,0
-1994-04-24,9394,SP2,Tenerife,Oviedo,2,2
-1994-04-24,9394,SP2,Valencia,Zaragoza,3,0
-1994-04-24,9394,SP2,Vallecano,Valladolid,0,1
 1994-05-01,9394,SP1,Albacete,Real Madrid,1,4
 1994-05-01,9394,SP1,Ath Madrid,Tenerife,2,0
 1994-05-01,9394,SP1,Barcelona,Sp Gijon,4,0
@@ -709,16 +359,6 @@ date,season,div,home,away,hg,ag
 1994-05-01,9394,SP1,Sociedad,Sevilla,0,0
 1994-05-01,9394,SP1,Valladolid,Logrones,2,0
 1994-05-01,9394,SP1,Zaragoza,Celta,4,1
-1994-05-01,9394,SP2,Albacete,Real Madrid,1,4
-1994-05-01,9394,SP2,Ath Madrid,Tenerife,2,0
-1994-05-01,9394,SP2,Barcelona,Sp Gijon,4,0
-1994-05-01,9394,SP2,La Coruna,Vallecano,0,0
-1994-05-01,9394,SP2,Osasuna,Valencia,3,3
-1994-05-01,9394,SP2,Oviedo,Lerida,0,0
-1994-05-01,9394,SP2,Santander,Ath Bilbao,2,2
-1994-05-01,9394,SP2,Sociedad,Sevilla,0,0
-1994-05-01,9394,SP2,Valladolid,Logrones,2,0
-1994-05-01,9394,SP2,Zaragoza,Celta,4,1
 1994-05-08,9394,SP1,Celta,Osasuna,4,0
 1994-05-08,9394,SP1,Lerida,Ath Madrid,0,1
 1994-05-08,9394,SP1,Logrones,La Coruna,0,2
@@ -729,16 +369,6 @@ date,season,div,home,away,hg,ag
 1994-05-08,9394,SP1,Tenerife,Santander,1,0
 1994-05-08,9394,SP1,Valencia,Valladolid,5,1
 1994-05-08,9394,SP1,Vallecano,Oviedo,0,0
-1994-05-08,9394,SP2,Celta,Osasuna,4,0
-1994-05-08,9394,SP2,Lerida,Ath Madrid,0,1
-1994-05-08,9394,SP2,Logrones,La Coruna,0,2
-1994-05-08,9394,SP2,Real Madrid,Barcelona,0,1
-1994-05-08,9394,SP2,Sevilla,Albacete,2,0
-1994-05-08,9394,SP2,Sociedad,Ath Bilbao,0,0
-1994-05-08,9394,SP2,Sp Gijon,Zaragoza,0,3
-1994-05-08,9394,SP2,Tenerife,Santander,1,0
-1994-05-08,9394,SP2,Valencia,Valladolid,5,1
-1994-05-08,9394,SP2,Vallecano,Oviedo,0,0
 1994-05-15,9394,SP1,Albacete,Sociedad,1,1
 1994-05-15,9394,SP1,Ath Bilbao,Tenerife,3,2
 1994-05-15,9394,SP1,Ath Madrid,Vallecano,2,0
@@ -749,18 +379,7 @@ date,season,div,home,away,hg,ag
 1994-05-15,9394,SP1,Santander,Lerida,2,1
 1994-05-15,9394,SP1,Valladolid,Celta,0,0
 1994-05-15,9394,SP1,Zaragoza,Real Madrid,4,1
-1994-05-15,9394,SP2,Albacete,Sociedad,1,1
-1994-05-15,9394,SP2,Ath Bilbao,Tenerife,3,2
-1994-05-15,9394,SP2,Ath Madrid,Vallecano,2,0
-1994-05-15,9394,SP2,Barcelona,Sevilla,5,2
-1994-05-15,9394,SP2,La Coruna,Valencia,0,0
-1994-05-15,9394,SP2,Osasuna,Sp Gijon,3,0
-1994-05-15,9394,SP2,Oviedo,Logrones,1,2
-1994-05-15,9394,SP2,Santander,Lerida,2,1
-1994-05-15,9394,SP2,Valladolid,Celta,0,0
-1994-05-15,9394,SP2,Zaragoza,Real Madrid,4,1
 1994-09-03,9495,SP1,Sevilla,Real Madrid,1,4
-1994-09-03,9495,SP2,Sevilla,Real Madrid,1,4
 1994-09-04,9495,SP1,Albacete,Celta,1,1
 1994-09-04,9495,SP1,Ath Bilbao,La Coruna,0,2
 1994-09-04,9495,SP1,Ath Madrid,Valencia,2,4
@@ -770,35 +389,16 @@ date,season,div,home,away,hg,ag
 1994-09-04,9495,SP1,Santander,Valladolid,0,0
 1994-09-04,9495,SP1,Sp Gijon,Barcelona,2,1
 1994-09-04,9495,SP1,Zaragoza,Tenerife,2,2
-1994-09-04,9495,SP2,Albacete,Celta,1,1
-1994-09-04,9495,SP2,Ath Bilbao,La Coruna,0,2
-1994-09-04,9495,SP2,Ath Madrid,Valencia,2,4
-1994-09-04,9495,SP2,Compostela,Sociedad,0,2
-1994-09-04,9495,SP2,Espanol,Oviedo,4,2
-1994-09-04,9495,SP2,Logrones,Betis,0,0
-1994-09-04,9495,SP2,Santander,Valladolid,0,0
-1994-09-04,9495,SP2,Sp Gijon,Barcelona,2,1
-1994-09-04,9495,SP2,Zaragoza,Tenerife,2,2
 1994-09-10,9495,SP1,Barcelona,Santander,2,1
 1994-09-10,9495,SP1,Celta,Ath Bilbao,1,1
 1994-09-10,9495,SP1,La Coruna,Sp Gijon,2,1
 1994-09-10,9495,SP1,Real Madrid,Logrones,2,0
 1994-09-10,9495,SP1,Tenerife,Ath Madrid,1,0
-1994-09-10,9495,SP2,Barcelona,Santander,2,1
-1994-09-10,9495,SP2,Celta,Ath Bilbao,1,1
-1994-09-10,9495,SP2,La Coruna,Sp Gijon,2,1
-1994-09-10,9495,SP2,Real Madrid,Logrones,2,0
-1994-09-10,9495,SP2,Tenerife,Ath Madrid,1,0
 1994-09-11,9495,SP1,Betis,Albacete,4,1
 1994-09-11,9495,SP1,Oviedo,Compostela,2,2
 1994-09-11,9495,SP1,Sociedad,Zaragoza,1,2
 1994-09-11,9495,SP1,Valencia,Sevilla,0,1
 1994-09-11,9495,SP1,Valladolid,Espanol,0,4
-1994-09-11,9495,SP2,Betis,Albacete,4,1
-1994-09-11,9495,SP2,Oviedo,Compostela,2,2
-1994-09-11,9495,SP2,Sociedad,Zaragoza,1,2
-1994-09-11,9495,SP2,Valencia,Sevilla,0,1
-1994-09-11,9495,SP2,Valladolid,Espanol,0,4
 1994-09-18,9495,SP1,Albacete,Real Madrid,1,1
 1994-09-18,9495,SP1,Ath Bilbao,Betis,1,0
 1994-09-18,9495,SP1,Ath Madrid,Sociedad,2,1
@@ -809,40 +409,18 @@ date,season,div,home,away,hg,ag
 1994-09-18,9495,SP1,Sp Gijon,Celta,0,0
 1994-09-18,9495,SP1,Valencia,Tenerife,2,1
 1994-09-18,9495,SP1,Zaragoza,Oviedo,2,1
-1994-09-18,9495,SP2,Albacete,Real Madrid,1,1
-1994-09-18,9495,SP2,Ath Bilbao,Betis,1,0
-1994-09-18,9495,SP2,Ath Madrid,Sociedad,2,1
-1994-09-18,9495,SP2,Compostela,Valladolid,1,0
-1994-09-18,9495,SP2,Espanol,Barcelona,0,0
-1994-09-18,9495,SP2,Santander,La Coruna,1,2
-1994-09-18,9495,SP2,Sevilla,Logrones,1,0
-1994-09-18,9495,SP2,Sp Gijon,Celta,0,0
-1994-09-18,9495,SP2,Valencia,Tenerife,2,1
-1994-09-18,9495,SP2,Zaragoza,Oviedo,2,1
 1994-09-24,9495,SP1,Barcelona,Compostela,4,0
 1994-09-24,9495,SP1,La Coruna,Espanol,1,1
 1994-09-24,9495,SP1,Real Madrid,Ath Bilbao,4,0
 1994-09-24,9495,SP1,Valladolid,Zaragoza,2,0
-1994-09-24,9495,SP2,Barcelona,Compostela,4,0
-1994-09-24,9495,SP2,La Coruna,Espanol,1,1
-1994-09-24,9495,SP2,Real Madrid,Ath Bilbao,4,0
-1994-09-24,9495,SP2,Valladolid,Zaragoza,2,0
 1994-09-25,9495,SP1,Betis,Sp Gijon,5,0
 1994-09-25,9495,SP1,Celta,Santander,2,1
 1994-09-25,9495,SP1,Logrones,Albacete,1,1
 1994-09-25,9495,SP1,Oviedo,Ath Madrid,1,0
 1994-09-25,9495,SP1,Sociedad,Valencia,0,2
 1994-09-25,9495,SP1,Tenerife,Sevilla,0,0
-1994-09-25,9495,SP2,Betis,Sp Gijon,5,0
-1994-09-25,9495,SP2,Celta,Santander,2,1
-1994-09-25,9495,SP2,Logrones,Albacete,1,1
-1994-09-25,9495,SP2,Oviedo,Ath Madrid,1,0
-1994-09-25,9495,SP2,Sociedad,Valencia,0,2
-1994-09-25,9495,SP2,Tenerife,Sevilla,0,0
 1994-10-01,9495,SP1,Compostela,La Coruna,0,1
 1994-10-01,9495,SP1,Valencia,Oviedo,1,0
-1994-10-01,9495,SP2,Compostela,La Coruna,0,1
-1994-10-01,9495,SP2,Valencia,Oviedo,1,0
 1994-10-02,9495,SP1,Ath Bilbao,Logrones,1,0
 1994-10-02,9495,SP1,Ath Madrid,Valladolid,6,0
 1994-10-02,9495,SP1,Espanol,Celta,0,0
@@ -851,16 +429,7 @@ date,season,div,home,away,hg,ag
 1994-10-02,9495,SP1,Sp Gijon,Real Madrid,1,0
 1994-10-02,9495,SP1,Tenerife,Sociedad,3,0
 1994-10-02,9495,SP1,Zaragoza,Barcelona,2,1
-1994-10-02,9495,SP2,Ath Bilbao,Logrones,1,0
-1994-10-02,9495,SP2,Ath Madrid,Valladolid,6,0
-1994-10-02,9495,SP2,Espanol,Celta,0,0
-1994-10-02,9495,SP2,Santander,Betis,0,0
-1994-10-02,9495,SP2,Sevilla,Albacete,0,2
-1994-10-02,9495,SP2,Sp Gijon,Real Madrid,1,0
-1994-10-02,9495,SP2,Tenerife,Sociedad,3,0
-1994-10-02,9495,SP2,Zaragoza,Barcelona,2,1
 1994-10-08,9495,SP1,Barcelona,Ath Madrid,4,3
-1994-10-08,9495,SP2,Barcelona,Ath Madrid,4,3
 1994-10-09,9495,SP1,Albacete,Ath Bilbao,1,2
 1994-10-09,9495,SP1,Betis,Espanol,3,1
 1994-10-09,9495,SP1,Celta,Compostela,1,2
@@ -870,37 +439,17 @@ date,season,div,home,away,hg,ag
 1994-10-09,9495,SP1,Real Madrid,Santander,3,1
 1994-10-09,9495,SP1,Sociedad,Sevilla,0,0
 1994-10-09,9495,SP1,Valladolid,Valencia,2,0
-1994-10-09,9495,SP2,Albacete,Ath Bilbao,1,2
-1994-10-09,9495,SP2,Betis,Espanol,3,1
-1994-10-09,9495,SP2,Celta,Compostela,1,2
-1994-10-09,9495,SP2,La Coruna,Zaragoza,3,3
-1994-10-09,9495,SP2,Logrones,Sp Gijon,1,3
-1994-10-09,9495,SP2,Oviedo,Tenerife,1,2
-1994-10-09,9495,SP2,Real Madrid,Santander,3,1
-1994-10-09,9495,SP2,Sociedad,Sevilla,0,0
-1994-10-09,9495,SP2,Valladolid,Valencia,2,0
 1994-10-15,9495,SP1,Ath Madrid,La Coruna,1,1
 1994-10-15,9495,SP1,Espanol,Real Madrid,1,2
 1994-10-15,9495,SP1,Sevilla,Ath Bilbao,0,0
 1994-10-15,9495,SP1,Valencia,Barcelona,1,2
-1994-10-15,9495,SP2,Ath Madrid,La Coruna,1,1
-1994-10-15,9495,SP2,Espanol,Real Madrid,1,2
-1994-10-15,9495,SP2,Sevilla,Ath Bilbao,0,0
-1994-10-15,9495,SP2,Valencia,Barcelona,1,2
 1994-10-16,9495,SP1,Compostela,Betis,1,1
 1994-10-16,9495,SP1,Santander,Logrones,3,0
 1994-10-16,9495,SP1,Sociedad,Oviedo,3,1
 1994-10-16,9495,SP1,Sp Gijon,Albacete,3,2
 1994-10-16,9495,SP1,Tenerife,Valladolid,0,0
 1994-10-16,9495,SP1,Zaragoza,Celta,4,0
-1994-10-16,9495,SP2,Compostela,Betis,1,1
-1994-10-16,9495,SP2,Santander,Logrones,3,0
-1994-10-16,9495,SP2,Sociedad,Oviedo,3,1
-1994-10-16,9495,SP2,Sp Gijon,Albacete,3,2
-1994-10-16,9495,SP2,Tenerife,Valladolid,0,0
-1994-10-16,9495,SP2,Zaragoza,Celta,4,0
 1994-10-22,9495,SP1,Celta,Ath Madrid,1,0
-1994-10-22,9495,SP2,Celta,Ath Madrid,1,0
 1994-10-23,9495,SP1,Albacete,Santander,2,0
 1994-10-23,9495,SP1,Ath Bilbao,Sp Gijon,2,0
 1994-10-23,9495,SP1,Barcelona,Tenerife,1,0
@@ -910,37 +459,17 @@ date,season,div,home,away,hg,ag
 1994-10-23,9495,SP1,Oviedo,Sevilla,1,0
 1994-10-23,9495,SP1,Real Madrid,Compostela,1,1
 1994-10-23,9495,SP1,Valladolid,Sociedad,1,1
-1994-10-23,9495,SP2,Albacete,Santander,2,0
-1994-10-23,9495,SP2,Ath Bilbao,Sp Gijon,2,0
-1994-10-23,9495,SP2,Barcelona,Tenerife,1,0
-1994-10-23,9495,SP2,Betis,Zaragoza,0,1
-1994-10-23,9495,SP2,La Coruna,Valencia,3,1
-1994-10-23,9495,SP2,Logrones,Espanol,1,1
-1994-10-23,9495,SP2,Oviedo,Sevilla,1,0
-1994-10-23,9495,SP2,Real Madrid,Compostela,1,1
-1994-10-23,9495,SP2,Valladolid,Sociedad,1,1
 1994-10-29,9495,SP1,Sociedad,Barcelona,1,1
 1994-10-29,9495,SP1,Tenerife,La Coruna,1,1
 1994-10-29,9495,SP1,Valencia,Celta,1,0
 1994-10-29,9495,SP1,Zaragoza,Real Madrid,3,2
-1994-10-29,9495,SP2,Sociedad,Barcelona,1,1
-1994-10-29,9495,SP2,Tenerife,La Coruna,1,1
-1994-10-29,9495,SP2,Valencia,Celta,1,0
-1994-10-29,9495,SP2,Zaragoza,Real Madrid,3,2
 1994-10-30,9495,SP1,Ath Madrid,Betis,0,2
 1994-10-30,9495,SP1,Compostela,Logrones,2,0
 1994-10-30,9495,SP1,Espanol,Albacete,5,1
 1994-10-30,9495,SP1,Oviedo,Valladolid,1,0
 1994-10-30,9495,SP1,Sevilla,Sp Gijon,5,1
-1994-10-30,9495,SP2,Ath Madrid,Betis,0,2
-1994-10-30,9495,SP2,Compostela,Logrones,2,0
-1994-10-30,9495,SP2,Espanol,Albacete,5,1
-1994-10-30,9495,SP2,Oviedo,Valladolid,1,0
-1994-10-30,9495,SP2,Sevilla,Sp Gijon,5,1
 1994-10-31,9495,SP1,Santander,Ath Bilbao,0,2
-1994-10-31,9495,SP2,Santander,Ath Bilbao,0,2
 1994-11-05,9495,SP1,Real Madrid,Ath Madrid,4,2
-1994-11-05,9495,SP2,Real Madrid,Ath Madrid,4,2
 1994-11-06,9495,SP1,Albacete,Compostela,1,3
 1994-11-06,9495,SP1,Ath Bilbao,Espanol,1,3
 1994-11-06,9495,SP1,Barcelona,Oviedo,1,0
@@ -950,35 +479,16 @@ date,season,div,home,away,hg,ag
 1994-11-06,9495,SP1,Logrones,Zaragoza,0,0
 1994-11-06,9495,SP1,Sp Gijon,Santander,2,3
 1994-11-06,9495,SP1,Valladolid,Sevilla,0,4
-1994-11-06,9495,SP2,Albacete,Compostela,1,3
-1994-11-06,9495,SP2,Ath Bilbao,Espanol,1,3
-1994-11-06,9495,SP2,Barcelona,Oviedo,1,0
-1994-11-06,9495,SP2,Betis,Valencia,1,1
-1994-11-06,9495,SP2,Celta,Tenerife,3,2
-1994-11-06,9495,SP2,La Coruna,Sociedad,3,1
-1994-11-06,9495,SP2,Logrones,Zaragoza,0,0
-1994-11-06,9495,SP2,Sp Gijon,Santander,2,3
-1994-11-06,9495,SP2,Valladolid,Sevilla,0,4
 1994-11-19,9495,SP1,Compostela,Ath Bilbao,0,1
 1994-11-19,9495,SP1,Oviedo,La Coruna,2,0
 1994-11-19,9495,SP1,Valencia,Real Madrid,1,2
 1994-11-19,9495,SP1,Valladolid,Barcelona,1,3
-1994-11-19,9495,SP2,Compostela,Ath Bilbao,0,1
-1994-11-19,9495,SP2,Oviedo,La Coruna,2,0
-1994-11-19,9495,SP2,Valencia,Real Madrid,1,2
-1994-11-19,9495,SP2,Valladolid,Barcelona,1,3
 1994-11-20,9495,SP1,Ath Madrid,Logrones,3,0
 1994-11-20,9495,SP1,Espanol,Sp Gijon,1,1
 1994-11-20,9495,SP1,Sevilla,Santander,1,3
 1994-11-20,9495,SP1,Sociedad,Celta,2,3
 1994-11-20,9495,SP1,Tenerife,Betis,1,4
 1994-11-20,9495,SP1,Zaragoza,Albacete,1,0
-1994-11-20,9495,SP2,Ath Madrid,Logrones,3,0
-1994-11-20,9495,SP2,Espanol,Sp Gijon,1,1
-1994-11-20,9495,SP2,Sevilla,Santander,1,3
-1994-11-20,9495,SP2,Sociedad,Celta,2,3
-1994-11-20,9495,SP2,Tenerife,Betis,1,4
-1994-11-20,9495,SP2,Zaragoza,Albacete,1,0
 1994-11-27,9495,SP1,Albacete,Ath Madrid,2,2
 1994-11-27,9495,SP1,Ath Bilbao,Zaragoza,1,0
 1994-11-27,9495,SP1,Barcelona,Sevilla,0,1
@@ -989,38 +499,17 @@ date,season,div,home,away,hg,ag
 1994-11-27,9495,SP1,Real Madrid,Tenerife,4,2
 1994-11-27,9495,SP1,Santander,Espanol,0,0
 1994-11-27,9495,SP1,Sp Gijon,Compostela,1,1
-1994-11-27,9495,SP2,Albacete,Ath Madrid,2,2
-1994-11-27,9495,SP2,Ath Bilbao,Zaragoza,1,0
-1994-11-27,9495,SP2,Barcelona,Sevilla,0,1
-1994-11-27,9495,SP2,Betis,Sociedad,0,0
-1994-11-27,9495,SP2,Celta,Oviedo,0,0
-1994-11-27,9495,SP2,La Coruna,Valladolid,4,0
-1994-11-27,9495,SP2,Logrones,Valencia,2,2
-1994-11-27,9495,SP2,Real Madrid,Tenerife,4,2
-1994-11-27,9495,SP2,Santander,Espanol,0,0
-1994-11-27,9495,SP2,Sp Gijon,Compostela,1,1
 1994-12-03,9495,SP1,Ath Madrid,Ath Bilbao,2,1
 1994-12-03,9495,SP1,Barcelona,La Coruna,1,1
 1994-12-03,9495,SP1,Sociedad,Real Madrid,1,1
 1994-12-03,9495,SP1,Valencia,Albacete,3,3
-1994-12-03,9495,SP2,Ath Madrid,Ath Bilbao,2,1
-1994-12-03,9495,SP2,Barcelona,La Coruna,1,1
-1994-12-03,9495,SP2,Sociedad,Real Madrid,1,1
-1994-12-03,9495,SP2,Valencia,Albacete,3,3
 1994-12-04,9495,SP1,Compostela,Santander,2,1
 1994-12-04,9495,SP1,Oviedo,Betis,0,0
 1994-12-04,9495,SP1,Sevilla,Espanol,3,0
 1994-12-04,9495,SP1,Tenerife,Logrones,4,0
 1994-12-04,9495,SP1,Valladolid,Celta,1,1
 1994-12-04,9495,SP1,Zaragoza,Sp Gijon,3,2
-1994-12-04,9495,SP2,Compostela,Santander,2,1
-1994-12-04,9495,SP2,Oviedo,Betis,0,0
-1994-12-04,9495,SP2,Sevilla,Espanol,3,0
-1994-12-04,9495,SP2,Tenerife,Logrones,4,0
-1994-12-04,9495,SP2,Valladolid,Celta,1,1
-1994-12-04,9495,SP2,Zaragoza,Sp Gijon,3,2
 1994-12-10,9495,SP1,Ath Bilbao,Valencia,2,1
-1994-12-10,9495,SP2,Ath Bilbao,Valencia,2,1
 1994-12-11,9495,SP1,Albacete,Tenerife,2,1
 1994-12-11,9495,SP1,Betis,Valladolid,1,2
 1994-12-11,9495,SP1,Celta,Barcelona,2,4
@@ -1030,15 +519,6 @@ date,season,div,home,away,hg,ag
 1994-12-11,9495,SP1,Real Madrid,Oviedo,2,0
 1994-12-11,9495,SP1,Santander,Zaragoza,0,1
 1994-12-11,9495,SP1,Sp Gijon,Ath Madrid,0,2
-1994-12-11,9495,SP2,Albacete,Tenerife,2,1
-1994-12-11,9495,SP2,Betis,Valladolid,1,2
-1994-12-11,9495,SP2,Celta,Barcelona,2,4
-1994-12-11,9495,SP2,Espanol,Compostela,2,0
-1994-12-11,9495,SP2,La Coruna,Sevilla,5,1
-1994-12-11,9495,SP2,Logrones,Sociedad,0,4
-1994-12-11,9495,SP2,Real Madrid,Oviedo,2,0
-1994-12-11,9495,SP2,Santander,Zaragoza,0,1
-1994-12-11,9495,SP2,Sp Gijon,Ath Madrid,0,2
 1994-12-21,9495,SP1,Ath Madrid,Santander,0,1
 1994-12-21,9495,SP1,Barcelona,Betis,1,1
 1994-12-21,9495,SP1,La Coruna,Celta,1,2
@@ -1048,19 +528,8 @@ date,season,div,home,away,hg,ag
 1994-12-21,9495,SP1,Tenerife,Ath Bilbao,1,0
 1994-12-21,9495,SP1,Valencia,Sp Gijon,0,0
 1994-12-21,9495,SP1,Zaragoza,Espanol,1,0
-1994-12-21,9495,SP2,Ath Madrid,Santander,0,1
-1994-12-21,9495,SP2,Barcelona,Betis,1,1
-1994-12-21,9495,SP2,La Coruna,Celta,1,2
-1994-12-21,9495,SP2,Oviedo,Logrones,1,0
-1994-12-21,9495,SP2,Sevilla,Compostela,3,0
-1994-12-21,9495,SP2,Sociedad,Albacete,2,0
-1994-12-21,9495,SP2,Tenerife,Ath Bilbao,1,0
-1994-12-21,9495,SP2,Valencia,Sp Gijon,0,0
-1994-12-21,9495,SP2,Zaragoza,Espanol,1,0
 1994-12-22,9495,SP1,Valladolid,Real Madrid,0,5
-1994-12-22,9495,SP2,Valladolid,Real Madrid,0,5
 1995-01-07,9495,SP1,Real Madrid,Barcelona,5,0
-1995-01-07,9495,SP2,Real Madrid,Barcelona,5,0
 1995-01-08,9495,SP1,Albacete,Oviedo,1,0
 1995-01-08,9495,SP1,Ath Bilbao,Sociedad,0,0
 1995-01-08,9495,SP1,Betis,La Coruna,0,0
@@ -1070,17 +539,7 @@ date,season,div,home,away,hg,ag
 1995-01-08,9495,SP1,Logrones,Valladolid,0,0
 1995-01-08,9495,SP1,Santander,Valencia,3,2
 1995-01-08,9495,SP1,Sp Gijon,Tenerife,1,1
-1995-01-08,9495,SP2,Albacete,Oviedo,1,0
-1995-01-08,9495,SP2,Ath Bilbao,Sociedad,0,0
-1995-01-08,9495,SP2,Betis,La Coruna,0,0
-1995-01-08,9495,SP2,Celta,Sevilla,0,0
-1995-01-08,9495,SP2,Compostela,Zaragoza,3,2
-1995-01-08,9495,SP2,Espanol,Ath Madrid,2,0
-1995-01-08,9495,SP2,Logrones,Valladolid,0,0
-1995-01-08,9495,SP2,Santander,Valencia,3,2
-1995-01-08,9495,SP2,Sp Gijon,Tenerife,1,1
 1995-01-14,9495,SP1,La Coruna,Real Madrid,0,0
-1995-01-14,9495,SP2,La Coruna,Real Madrid,0,0
 1995-01-15,9495,SP1,Ath Madrid,Compostela,1,1
 1995-01-15,9495,SP1,Barcelona,Logrones,3,0
 1995-01-15,9495,SP1,Celta,Betis,0,2
@@ -1090,17 +549,7 @@ date,season,div,home,away,hg,ag
 1995-01-15,9495,SP1,Tenerife,Santander,3,0
 1995-01-15,9495,SP1,Valencia,Espanol,0,0
 1995-01-15,9495,SP1,Valladolid,Albacete,1,1
-1995-01-15,9495,SP2,Ath Madrid,Compostela,1,1
-1995-01-15,9495,SP2,Barcelona,Logrones,3,0
-1995-01-15,9495,SP2,Celta,Betis,0,2
-1995-01-15,9495,SP2,Oviedo,Ath Bilbao,1,1
-1995-01-15,9495,SP2,Sevilla,Zaragoza,2,1
-1995-01-15,9495,SP2,Sociedad,Sp Gijon,2,2
-1995-01-15,9495,SP2,Tenerife,Santander,3,0
-1995-01-15,9495,SP2,Valencia,Espanol,0,0
-1995-01-15,9495,SP2,Valladolid,Albacete,1,1
 1995-01-21,9495,SP1,Logrones,La Coruna,0,1
-1995-01-21,9495,SP2,Logrones,La Coruna,0,1
 1995-01-22,9495,SP1,Albacete,Barcelona,2,2
 1995-01-22,9495,SP1,Ath Bilbao,Valladolid,1,1
 1995-01-22,9495,SP1,Compostela,Valencia,1,1
@@ -1110,17 +559,7 @@ date,season,div,home,away,hg,ag
 1995-01-22,9495,SP1,Sevilla,Betis,0,1
 1995-01-22,9495,SP1,Sp Gijon,Oviedo,1,1
 1995-01-22,9495,SP1,Zaragoza,Ath Madrid,3,1
-1995-01-22,9495,SP2,Albacete,Barcelona,2,2
-1995-01-22,9495,SP2,Ath Bilbao,Valladolid,1,1
-1995-01-22,9495,SP2,Compostela,Valencia,1,1
-1995-01-22,9495,SP2,Espanol,Tenerife,0,0
-1995-01-22,9495,SP2,Real Madrid,Celta,4,0
-1995-01-22,9495,SP2,Santander,Sociedad,0,0
-1995-01-22,9495,SP2,Sevilla,Betis,0,1
-1995-01-22,9495,SP2,Sp Gijon,Oviedo,1,1
-1995-01-22,9495,SP2,Zaragoza,Ath Madrid,3,1
 1995-01-28,9495,SP1,Barcelona,Ath Bilbao,1,0
-1995-01-28,9495,SP2,Barcelona,Ath Bilbao,1,0
 1995-01-29,9495,SP1,Ath Madrid,Sevilla,2,2
 1995-01-29,9495,SP1,Betis,Real Madrid,0,0
 1995-01-29,9495,SP1,Celta,Logrones,0,1
@@ -1130,17 +569,7 @@ date,season,div,home,away,hg,ag
 1995-01-29,9495,SP1,Tenerife,Compostela,2,0
 1995-01-29,9495,SP1,Valencia,Zaragoza,3,0
 1995-01-29,9495,SP1,Valladolid,Sp Gijon,2,0
-1995-01-29,9495,SP2,Ath Madrid,Sevilla,2,2
-1995-01-29,9495,SP2,Betis,Real Madrid,0,0
-1995-01-29,9495,SP2,Celta,Logrones,0,1
-1995-01-29,9495,SP2,La Coruna,Albacete,2,1
-1995-01-29,9495,SP2,Oviedo,Santander,3,1
-1995-01-29,9495,SP2,Sociedad,Espanol,2,0
-1995-01-29,9495,SP2,Tenerife,Compostela,2,0
-1995-01-29,9495,SP2,Valencia,Zaragoza,3,0
-1995-01-29,9495,SP2,Valladolid,Sp Gijon,2,0
 1995-02-04,9495,SP1,La Coruna,Ath Bilbao,0,0
-1995-02-04,9495,SP2,La Coruna,Ath Bilbao,0,0
 1995-02-05,9495,SP1,Barcelona,Sp Gijon,3,1
 1995-02-05,9495,SP1,Betis,Logrones,1,0
 1995-02-05,9495,SP1,Celta,Albacete,0,0
@@ -1150,19 +579,8 @@ date,season,div,home,away,hg,ag
 1995-02-05,9495,SP1,Tenerife,Zaragoza,2,0
 1995-02-05,9495,SP1,Valencia,Ath Madrid,0,0
 1995-02-05,9495,SP1,Valladolid,Santander,1,1
-1995-02-05,9495,SP2,Barcelona,Sp Gijon,3,1
-1995-02-05,9495,SP2,Betis,Logrones,1,0
-1995-02-05,9495,SP2,Celta,Albacete,0,0
-1995-02-05,9495,SP2,Oviedo,Espanol,3,0
-1995-02-05,9495,SP2,Real Madrid,Sevilla,2,0
-1995-02-05,9495,SP2,Sociedad,Compostela,1,1
-1995-02-05,9495,SP2,Tenerife,Zaragoza,2,0
-1995-02-05,9495,SP2,Valencia,Ath Madrid,0,0
-1995-02-05,9495,SP2,Valladolid,Santander,1,1
 1995-02-11,9495,SP1,Ath Madrid,Tenerife,3,1
 1995-02-11,9495,SP1,Santander,Barcelona,5,0
-1995-02-11,9495,SP2,Ath Madrid,Tenerife,3,1
-1995-02-11,9495,SP2,Santander,Barcelona,5,0
 1995-02-12,9495,SP1,Albacete,Betis,3,1
 1995-02-12,9495,SP1,Ath Bilbao,Celta,1,1
 1995-02-12,9495,SP1,Compostela,Oviedo,1,1
@@ -1171,16 +589,7 @@ date,season,div,home,away,hg,ag
 1995-02-12,9495,SP1,Sevilla,Valencia,1,1
 1995-02-12,9495,SP1,Sp Gijon,La Coruna,3,1
 1995-02-12,9495,SP1,Zaragoza,Sociedad,1,1
-1995-02-12,9495,SP2,Albacete,Betis,3,1
-1995-02-12,9495,SP2,Ath Bilbao,Celta,1,1
-1995-02-12,9495,SP2,Compostela,Oviedo,1,1
-1995-02-12,9495,SP2,Espanol,Valladolid,3,0
-1995-02-12,9495,SP2,Logrones,Real Madrid,1,4
-1995-02-12,9495,SP2,Sevilla,Valencia,1,1
-1995-02-12,9495,SP2,Sp Gijon,La Coruna,3,1
-1995-02-12,9495,SP2,Zaragoza,Sociedad,1,1
 1995-02-18,9495,SP1,Barcelona,Espanol,3,0
-1995-02-18,9495,SP2,Barcelona,Espanol,3,0
 1995-02-19,9495,SP1,Betis,Ath Bilbao,0,0
 1995-02-19,9495,SP1,Celta,Sp Gijon,2,0
 1995-02-19,9495,SP1,La Coruna,Santander,3,0
@@ -1190,21 +599,9 @@ date,season,div,home,away,hg,ag
 1995-02-19,9495,SP1,Sociedad,Ath Madrid,3,1
 1995-02-19,9495,SP1,Tenerife,Valencia,1,2
 1995-02-19,9495,SP1,Valladolid,Compostela,2,0
-1995-02-19,9495,SP2,Betis,Ath Bilbao,0,0
-1995-02-19,9495,SP2,Celta,Sp Gijon,2,0
-1995-02-19,9495,SP2,La Coruna,Santander,3,0
-1995-02-19,9495,SP2,Logrones,Sevilla,0,2
-1995-02-19,9495,SP2,Oviedo,Zaragoza,2,1
-1995-02-19,9495,SP2,Real Madrid,Albacete,0,0
-1995-02-19,9495,SP2,Sociedad,Ath Madrid,3,1
-1995-02-19,9495,SP2,Tenerife,Valencia,1,2
-1995-02-19,9495,SP2,Valladolid,Compostela,2,0
 1995-02-25,9495,SP1,Compostela,Barcelona,1,2
 1995-02-25,9495,SP1,Sp Gijon,Betis,1,1
 1995-02-25,9495,SP1,Zaragoza,Valladolid,1,0
-1995-02-25,9495,SP2,Compostela,Barcelona,1,2
-1995-02-25,9495,SP2,Sp Gijon,Betis,1,1
-1995-02-25,9495,SP2,Zaragoza,Valladolid,1,0
 1995-02-26,9495,SP1,Albacete,Logrones,0,0
 1995-02-26,9495,SP1,Ath Bilbao,Real Madrid,1,1
 1995-02-26,9495,SP1,Ath Madrid,Oviedo,3,3
@@ -1212,15 +609,7 @@ date,season,div,home,away,hg,ag
 1995-02-26,9495,SP1,Santander,Celta,2,0
 1995-02-26,9495,SP1,Sevilla,Tenerife,1,2
 1995-02-26,9495,SP1,Valencia,Sociedad,4,2
-1995-02-26,9495,SP2,Albacete,Logrones,0,0
-1995-02-26,9495,SP2,Ath Bilbao,Real Madrid,1,1
-1995-02-26,9495,SP2,Ath Madrid,Oviedo,3,3
-1995-02-26,9495,SP2,Espanol,La Coruna,1,0
-1995-02-26,9495,SP2,Santander,Celta,2,0
-1995-02-26,9495,SP2,Sevilla,Tenerife,1,2
-1995-02-26,9495,SP2,Valencia,Sociedad,4,2
 1995-03-04,9495,SP1,Oviedo,Valencia,1,0
-1995-03-04,9495,SP2,Oviedo,Valencia,1,0
 1995-03-05,9495,SP1,Albacete,Sevilla,1,1
 1995-03-05,9495,SP1,Barcelona,Zaragoza,3,0
 1995-03-05,9495,SP1,Betis,Santander,2,0
@@ -1230,17 +619,7 @@ date,season,div,home,away,hg,ag
 1995-03-05,9495,SP1,Real Madrid,Sp Gijon,4,0
 1995-03-05,9495,SP1,Sociedad,Tenerife,5,2
 1995-03-05,9495,SP1,Valladolid,Ath Madrid,0,1
-1995-03-05,9495,SP2,Albacete,Sevilla,1,1
-1995-03-05,9495,SP2,Barcelona,Zaragoza,3,0
-1995-03-05,9495,SP2,Betis,Santander,2,0
-1995-03-05,9495,SP2,Celta,Espanol,1,2
-1995-03-05,9495,SP2,La Coruna,Compostela,1,0
-1995-03-05,9495,SP2,Logrones,Ath Bilbao,0,1
-1995-03-05,9495,SP2,Real Madrid,Sp Gijon,4,0
-1995-03-05,9495,SP2,Sociedad,Tenerife,5,2
-1995-03-05,9495,SP2,Valladolid,Ath Madrid,0,1
 1995-03-11,9495,SP1,Ath Madrid,Barcelona,2,0
-1995-03-11,9495,SP2,Ath Madrid,Barcelona,2,0
 1995-03-12,9495,SP1,Ath Bilbao,Albacete,1,2
 1995-03-12,9495,SP1,Compostela,Celta,2,0
 1995-03-12,9495,SP1,Espanol,Betis,0,0
@@ -1250,19 +629,8 @@ date,season,div,home,away,hg,ag
 1995-03-12,9495,SP1,Tenerife,Oviedo,1,1
 1995-03-12,9495,SP1,Valencia,Valladolid,3,0
 1995-03-12,9495,SP1,Zaragoza,La Coruna,1,0
-1995-03-12,9495,SP2,Ath Bilbao,Albacete,1,2
-1995-03-12,9495,SP2,Compostela,Celta,2,0
-1995-03-12,9495,SP2,Espanol,Betis,0,0
-1995-03-12,9495,SP2,Santander,Real Madrid,3,1
-1995-03-12,9495,SP2,Sevilla,Sociedad,2,0
-1995-03-12,9495,SP2,Sp Gijon,Logrones,2,2
-1995-03-12,9495,SP2,Tenerife,Oviedo,1,1
-1995-03-12,9495,SP2,Valencia,Valladolid,3,0
-1995-03-12,9495,SP2,Zaragoza,La Coruna,1,0
 1995-03-18,9495,SP1,Ath Bilbao,Sevilla,0,2
 1995-03-18,9495,SP1,La Coruna,Ath Madrid,0,1
-1995-03-18,9495,SP2,Ath Bilbao,Sevilla,0,2
-1995-03-18,9495,SP2,La Coruna,Ath Madrid,0,1
 1995-03-19,9495,SP1,Albacete,Sp Gijon,1,2
 1995-03-19,9495,SP1,Barcelona,Valencia,0,0
 1995-03-19,9495,SP1,Betis,Compostela,1,0
@@ -1271,18 +639,8 @@ date,season,div,home,away,hg,ag
 1995-03-19,9495,SP1,Oviedo,Sociedad,3,0
 1995-03-19,9495,SP1,Real Madrid,Espanol,1,0
 1995-03-19,9495,SP1,Valladolid,Tenerife,1,4
-1995-03-19,9495,SP2,Albacete,Sp Gijon,1,2
-1995-03-19,9495,SP2,Barcelona,Valencia,0,0
-1995-03-19,9495,SP2,Betis,Compostela,1,0
-1995-03-19,9495,SP2,Celta,Zaragoza,0,0
-1995-03-19,9495,SP2,Logrones,Santander,0,1
-1995-03-19,9495,SP2,Oviedo,Sociedad,3,0
-1995-03-19,9495,SP2,Real Madrid,Espanol,1,0
-1995-03-19,9495,SP2,Valladolid,Tenerife,1,4
 1995-04-01,9495,SP1,Valencia,La Coruna,1,2
 1995-04-01,9495,SP1,Zaragoza,Betis,3,0
-1995-04-01,9495,SP2,Valencia,La Coruna,1,2
-1995-04-01,9495,SP2,Zaragoza,Betis,3,0
 1995-04-02,9495,SP1,Ath Madrid,Celta,0,2
 1995-04-02,9495,SP1,Compostela,Real Madrid,1,1
 1995-04-02,9495,SP1,Espanol,Logrones,2,0
@@ -1291,16 +649,7 @@ date,season,div,home,away,hg,ag
 1995-04-02,9495,SP1,Sociedad,Valladolid,3,0
 1995-04-02,9495,SP1,Sp Gijon,Ath Bilbao,1,1
 1995-04-02,9495,SP1,Tenerife,Barcelona,2,1
-1995-04-02,9495,SP2,Ath Madrid,Celta,0,2
-1995-04-02,9495,SP2,Compostela,Real Madrid,1,1
-1995-04-02,9495,SP2,Espanol,Logrones,2,0
-1995-04-02,9495,SP2,Santander,Albacete,2,1
-1995-04-02,9495,SP2,Sevilla,Oviedo,1,1
-1995-04-02,9495,SP2,Sociedad,Valladolid,3,0
-1995-04-02,9495,SP2,Sp Gijon,Ath Bilbao,1,1
-1995-04-02,9495,SP2,Tenerife,Barcelona,2,1
 1995-04-08,9495,SP1,Betis,Ath Madrid,2,0
-1995-04-08,9495,SP2,Betis,Ath Madrid,2,0
 1995-04-09,9495,SP1,Albacete,Espanol,1,1
 1995-04-09,9495,SP1,Ath Bilbao,Santander,2,0
 1995-04-09,9495,SP1,Barcelona,Sociedad,1,1
@@ -1310,19 +659,8 @@ date,season,div,home,away,hg,ag
 1995-04-09,9495,SP1,Real Madrid,Zaragoza,3,0
 1995-04-09,9495,SP1,Sp Gijon,Sevilla,3,0
 1995-04-09,9495,SP1,Valladolid,Oviedo,2,1
-1995-04-09,9495,SP2,Albacete,Espanol,1,1
-1995-04-09,9495,SP2,Ath Bilbao,Santander,2,0
-1995-04-09,9495,SP2,Barcelona,Sociedad,1,1
-1995-04-09,9495,SP2,Celta,Valencia,0,0
-1995-04-09,9495,SP2,La Coruna,Tenerife,4,1
-1995-04-09,9495,SP2,Logrones,Compostela,0,4
-1995-04-09,9495,SP2,Real Madrid,Zaragoza,3,0
-1995-04-09,9495,SP2,Sp Gijon,Sevilla,3,0
-1995-04-09,9495,SP2,Valladolid,Oviedo,2,1
 1995-04-15,9495,SP1,Ath Madrid,Real Madrid,0,2
 1995-04-15,9495,SP1,Zaragoza,Logrones,3,0
-1995-04-15,9495,SP2,Ath Madrid,Real Madrid,0,2
-1995-04-15,9495,SP2,Zaragoza,Logrones,3,0
 1995-04-16,9495,SP1,Compostela,Albacete,0,0
 1995-04-16,9495,SP1,Espanol,Ath Bilbao,3,1
 1995-04-16,9495,SP1,Oviedo,Barcelona,0,0
@@ -1331,16 +669,7 @@ date,season,div,home,away,hg,ag
 1995-04-16,9495,SP1,Sociedad,La Coruna,1,3
 1995-04-16,9495,SP1,Tenerife,Celta,3,0
 1995-04-16,9495,SP1,Valencia,Betis,2,1
-1995-04-16,9495,SP2,Compostela,Albacete,0,0
-1995-04-16,9495,SP2,Espanol,Ath Bilbao,3,1
-1995-04-16,9495,SP2,Oviedo,Barcelona,0,0
-1995-04-16,9495,SP2,Santander,Sp Gijon,0,0
-1995-04-16,9495,SP2,Sevilla,Valladolid,1,0
-1995-04-16,9495,SP2,Sociedad,La Coruna,1,3
-1995-04-16,9495,SP2,Tenerife,Celta,3,0
-1995-04-16,9495,SP2,Valencia,Betis,2,1
 1995-04-22,9495,SP1,Real Madrid,Valencia,3,1
-1995-04-22,9495,SP2,Real Madrid,Valencia,3,1
 1995-04-23,9495,SP1,Albacete,Zaragoza,0,3
 1995-04-23,9495,SP1,Ath Bilbao,Compostela,1,0
 1995-04-23,9495,SP1,Barcelona,Valladolid,4,1
@@ -1350,15 +679,6 @@ date,season,div,home,away,hg,ag
 1995-04-23,9495,SP1,Logrones,Ath Madrid,0,0
 1995-04-23,9495,SP1,Santander,Sevilla,0,3
 1995-04-23,9495,SP1,Sp Gijon,Espanol,0,0
-1995-04-23,9495,SP2,Albacete,Zaragoza,0,3
-1995-04-23,9495,SP2,Ath Bilbao,Compostela,1,0
-1995-04-23,9495,SP2,Barcelona,Valladolid,4,1
-1995-04-23,9495,SP2,Betis,Tenerife,3,0
-1995-04-23,9495,SP2,Celta,Sociedad,2,1
-1995-04-23,9495,SP2,La Coruna,Oviedo,2,2
-1995-04-23,9495,SP2,Logrones,Ath Madrid,0,0
-1995-04-23,9495,SP2,Santander,Sevilla,0,3
-1995-04-23,9495,SP2,Sp Gijon,Espanol,0,0
 1995-04-30,9495,SP1,Ath Madrid,Albacete,4,0
 1995-04-30,9495,SP1,Compostela,Sp Gijon,3,2
 1995-04-30,9495,SP1,Espanol,Santander,2,0
@@ -1369,20 +689,8 @@ date,season,div,home,away,hg,ag
 1995-04-30,9495,SP1,Valencia,Logrones,3,0
 1995-04-30,9495,SP1,Valladolid,La Coruna,0,0
 1995-04-30,9495,SP1,Zaragoza,Ath Bilbao,1,4
-1995-04-30,9495,SP2,Ath Madrid,Albacete,4,0
-1995-04-30,9495,SP2,Compostela,Sp Gijon,3,2
-1995-04-30,9495,SP2,Espanol,Santander,2,0
-1995-04-30,9495,SP2,Oviedo,Celta,2,2
-1995-04-30,9495,SP2,Sevilla,Barcelona,4,2
-1995-04-30,9495,SP2,Sociedad,Betis,1,1
-1995-04-30,9495,SP2,Tenerife,Real Madrid,0,1
-1995-04-30,9495,SP2,Valencia,Logrones,3,0
-1995-04-30,9495,SP2,Valladolid,La Coruna,0,0
-1995-04-30,9495,SP2,Zaragoza,Ath Bilbao,1,4
 1995-05-06,9495,SP1,La Coruna,Barcelona,1,0
 1995-05-06,9495,SP1,Sp Gijon,Zaragoza,1,3
-1995-05-06,9495,SP2,La Coruna,Barcelona,1,0
-1995-05-06,9495,SP2,Sp Gijon,Zaragoza,1,3
 1995-05-07,9495,SP1,Albacete,Valencia,1,0
 1995-05-07,9495,SP1,Ath Bilbao,Ath Madrid,3,1
 1995-05-07,9495,SP1,Betis,Oviedo,0,0
@@ -1391,18 +699,8 @@ date,season,div,home,away,hg,ag
 1995-05-07,9495,SP1,Logrones,Tenerife,4,2
 1995-05-07,9495,SP1,Real Madrid,Sociedad,0,0
 1995-05-07,9495,SP1,Santander,Compostela,2,2
-1995-05-07,9495,SP2,Albacete,Valencia,1,0
-1995-05-07,9495,SP2,Ath Bilbao,Ath Madrid,3,1
-1995-05-07,9495,SP2,Betis,Oviedo,0,0
-1995-05-07,9495,SP2,Celta,Valladolid,1,0
-1995-05-07,9495,SP2,Espanol,Sevilla,2,2
-1995-05-07,9495,SP2,Logrones,Tenerife,4,2
-1995-05-07,9495,SP2,Real Madrid,Sociedad,0,0
-1995-05-07,9495,SP2,Santander,Compostela,2,2
 1995-05-13,9495,SP1,Sevilla,La Coruna,0,0
 1995-05-13,9495,SP1,Valencia,Ath Bilbao,3,1
-1995-05-13,9495,SP2,Sevilla,La Coruna,0,0
-1995-05-13,9495,SP2,Valencia,Ath Bilbao,3,1
 1995-05-14,9495,SP1,Ath Madrid,Sp Gijon,3,2
 1995-05-14,9495,SP1,Barcelona,Celta,1,1
 1995-05-14,9495,SP1,Compostela,Espanol,1,1
@@ -1411,16 +709,7 @@ date,season,div,home,away,hg,ag
 1995-05-14,9495,SP1,Tenerife,Albacete,2,2
 1995-05-14,9495,SP1,Valladolid,Betis,0,2
 1995-05-14,9495,SP1,Zaragoza,Santander,1,1
-1995-05-14,9495,SP2,Ath Madrid,Sp Gijon,3,2
-1995-05-14,9495,SP2,Barcelona,Celta,1,1
-1995-05-14,9495,SP2,Compostela,Espanol,1,1
-1995-05-14,9495,SP2,Oviedo,Real Madrid,3,2
-1995-05-14,9495,SP2,Sociedad,Logrones,6,0
-1995-05-14,9495,SP2,Tenerife,Albacete,2,2
-1995-05-14,9495,SP2,Valladolid,Betis,0,2
-1995-05-14,9495,SP2,Zaragoza,Santander,1,1
 1995-05-20,9495,SP1,Espanol,Zaragoza,2,0
-1995-05-20,9495,SP2,Espanol,Zaragoza,2,0
 1995-05-21,9495,SP1,Albacete,Sociedad,0,1
 1995-05-21,9495,SP1,Ath Bilbao,Tenerife,3,2
 1995-05-21,9495,SP1,Betis,Barcelona,1,1
@@ -1430,39 +719,18 @@ date,season,div,home,away,hg,ag
 1995-05-21,9495,SP1,Real Madrid,Valladolid,1,0
 1995-05-21,9495,SP1,Santander,Ath Madrid,0,0
 1995-05-21,9495,SP1,Sp Gijon,Valencia,1,0
-1995-05-21,9495,SP2,Albacete,Sociedad,0,1
-1995-05-21,9495,SP2,Ath Bilbao,Tenerife,3,2
-1995-05-21,9495,SP2,Betis,Barcelona,1,1
-1995-05-21,9495,SP2,Celta,La Coruna,0,2
-1995-05-21,9495,SP2,Compostela,Sevilla,0,4
-1995-05-21,9495,SP2,Logrones,Oviedo,0,2
-1995-05-21,9495,SP2,Real Madrid,Valladolid,1,0
-1995-05-21,9495,SP2,Santander,Ath Madrid,0,0
-1995-05-21,9495,SP2,Sp Gijon,Valencia,1,0
 1995-05-27,9495,SP1,Barcelona,Real Madrid,1,0
 1995-05-27,9495,SP1,La Coruna,Betis,2,0
 1995-05-27,9495,SP1,Oviedo,Albacete,1,3
 1995-05-27,9495,SP1,Tenerife,Sp Gijon,3,0
 1995-05-27,9495,SP1,Valencia,Santander,1,1
-1995-05-27,9495,SP2,Barcelona,Real Madrid,1,0
-1995-05-27,9495,SP2,La Coruna,Betis,2,0
-1995-05-27,9495,SP2,Oviedo,Albacete,1,3
-1995-05-27,9495,SP2,Tenerife,Sp Gijon,3,0
-1995-05-27,9495,SP2,Valencia,Santander,1,1
 1995-05-28,9495,SP1,Ath Madrid,Espanol,3,1
 1995-05-28,9495,SP1,Sevilla,Celta,2,3
 1995-05-28,9495,SP1,Sociedad,Ath Bilbao,5,0
 1995-05-28,9495,SP1,Valladolid,Logrones,2,1
 1995-05-28,9495,SP1,Zaragoza,Compostela,5,3
-1995-05-28,9495,SP2,Ath Madrid,Espanol,3,1
-1995-05-28,9495,SP2,Sevilla,Celta,2,3
-1995-05-28,9495,SP2,Sociedad,Ath Bilbao,5,0
-1995-05-28,9495,SP2,Valladolid,Logrones,2,1
-1995-05-28,9495,SP2,Zaragoza,Compostela,5,3
 1995-06-03,9495,SP1,Espanol,Valencia,5,0
 1995-06-03,9495,SP1,Real Madrid,La Coruna,2,1
-1995-06-03,9495,SP2,Espanol,Valencia,5,0
-1995-06-03,9495,SP2,Real Madrid,La Coruna,2,1
 1995-06-04,9495,SP1,Albacete,Valladolid,1,0
 1995-06-04,9495,SP1,Ath Bilbao,Oviedo,1,0
 1995-06-04,9495,SP1,Betis,Celta,1,1
@@ -1471,36 +739,17 @@ date,season,div,home,away,hg,ag
 1995-06-04,9495,SP1,Santander,Tenerife,2,1
 1995-06-04,9495,SP1,Sp Gijon,Sociedad,1,2
 1995-06-04,9495,SP1,Zaragoza,Sevilla,0,1
-1995-06-04,9495,SP2,Albacete,Valladolid,1,0
-1995-06-04,9495,SP2,Ath Bilbao,Oviedo,1,0
-1995-06-04,9495,SP2,Betis,Celta,1,1
-1995-06-04,9495,SP2,Compostela,Ath Madrid,2,1
-1995-06-04,9495,SP2,Logrones,Barcelona,1,4
-1995-06-04,9495,SP2,Santander,Tenerife,2,1
-1995-06-04,9495,SP2,Sp Gijon,Sociedad,1,2
-1995-06-04,9495,SP2,Zaragoza,Sevilla,0,1
 1995-06-10,9495,SP1,Barcelona,Albacete,0,1
 1995-06-10,9495,SP1,Celta,Real Madrid,0,2
 1995-06-10,9495,SP1,La Coruna,Logrones,5,0
 1995-06-10,9495,SP1,Valencia,Compostela,4,1
-1995-06-10,9495,SP2,Barcelona,Albacete,0,1
-1995-06-10,9495,SP2,Celta,Real Madrid,0,2
-1995-06-10,9495,SP2,La Coruna,Logrones,5,0
-1995-06-10,9495,SP2,Valencia,Compostela,4,1
 1995-06-11,9495,SP1,Ath Madrid,Zaragoza,2,0
 1995-06-11,9495,SP1,Betis,Sevilla,2,1
 1995-06-11,9495,SP1,Oviedo,Sp Gijon,1,0
 1995-06-11,9495,SP1,Sociedad,Santander,0,1
 1995-06-11,9495,SP1,Tenerife,Espanol,1,1
 1995-06-11,9495,SP1,Valladolid,Ath Bilbao,0,1
-1995-06-11,9495,SP2,Ath Madrid,Zaragoza,2,0
-1995-06-11,9495,SP2,Betis,Sevilla,2,1
-1995-06-11,9495,SP2,Oviedo,Sp Gijon,1,0
-1995-06-11,9495,SP2,Sociedad,Santander,0,1
-1995-06-11,9495,SP2,Tenerife,Espanol,1,1
-1995-06-11,9495,SP2,Valladolid,Ath Bilbao,0,1
 1995-06-17,9495,SP1,Sp Gijon,Valladolid,1,3
-1995-06-17,9495,SP2,Sp Gijon,Valladolid,1,3
 1995-06-18,9495,SP1,Albacete,La Coruna,2,8
 1995-06-18,9495,SP1,Ath Bilbao,Barcelona,0,2
 1995-06-18,9495,SP1,Compostela,Tenerife,2,0
@@ -1510,19 +759,8 @@ date,season,div,home,away,hg,ag
 1995-06-18,9495,SP1,Santander,Oviedo,2,0
 1995-06-18,9495,SP1,Sevilla,Ath Madrid,2,2
 1995-06-18,9495,SP1,Zaragoza,Valencia,2,2
-1995-06-18,9495,SP2,Albacete,La Coruna,2,8
-1995-06-18,9495,SP2,Ath Bilbao,Barcelona,0,2
-1995-06-18,9495,SP2,Compostela,Tenerife,2,0
-1995-06-18,9495,SP2,Espanol,Sociedad,0,0
-1995-06-18,9495,SP2,Logrones,Celta,0,3
-1995-06-18,9495,SP2,Real Madrid,Betis,0,2
-1995-06-18,9495,SP2,Santander,Oviedo,2,0
-1995-06-18,9495,SP2,Sevilla,Ath Madrid,2,2
-1995-06-18,9495,SP2,Zaragoza,Valencia,2,2
 1995-09-02,9596,SP1,La Coruna,Valencia,3,0
 1995-09-02,9596,SP1,Sp Gijon,Albacete,3,0
-1995-09-02,9596,SP2,La Coruna,Valencia,3,0
-1995-09-02,9596,SP2,Sp Gijon,Albacete,3,0
 1995-09-03,9596,SP1,Ath Bilbao,Santander,4,0
 1995-09-03,9596,SP1,Ath Madrid,Sociedad,4,1
 1995-09-03,9596,SP1,Celta,Compostela,0,1
@@ -1532,23 +770,10 @@ date,season,div,home,away,hg,ag
 1995-09-03,9596,SP1,Valladolid,Barcelona,0,2
 1995-09-03,9596,SP1,Vallecano,Real Madrid,1,5
 1995-09-03,9596,SP1,Zaragoza,Oviedo,1,0
-1995-09-03,9596,SP2,Ath Bilbao,Santander,4,0
-1995-09-03,9596,SP2,Ath Madrid,Sociedad,4,1
-1995-09-03,9596,SP2,Celta,Compostela,0,1
-1995-09-03,9596,SP2,Espanol,Salamanca,3,1
-1995-09-03,9596,SP2,Merida,Betis,1,1
-1995-09-03,9596,SP2,Sevilla,Tenerife,0,1
-1995-09-03,9596,SP2,Valladolid,Barcelona,0,2
-1995-09-03,9596,SP2,Vallecano,Real Madrid,1,5
-1995-09-03,9596,SP2,Zaragoza,Oviedo,1,0
 1995-09-09,9596,SP1,Albacete,Sevilla,3,2
 1995-09-09,9596,SP1,Barcelona,Merida,2,2
 1995-09-09,9596,SP1,Betis,Zaragoza,3,1
 1995-09-09,9596,SP1,Real Madrid,Ath Bilbao,1,2
-1995-09-09,9596,SP2,Albacete,Sevilla,3,2
-1995-09-09,9596,SP2,Barcelona,Merida,2,2
-1995-09-09,9596,SP2,Betis,Zaragoza,3,1
-1995-09-09,9596,SP2,Real Madrid,Ath Bilbao,1,2
 1995-09-10,9596,SP1,Compostela,La Coruna,4,0
 1995-09-10,9596,SP1,Oviedo,Vallecano,2,0
 1995-09-10,9596,SP1,Salamanca,Celta,0,1
@@ -1556,15 +781,7 @@ date,season,div,home,away,hg,ag
 1995-09-10,9596,SP1,Sociedad,Sp Gijon,2,0
 1995-09-10,9596,SP1,Tenerife,Espanol,1,4
 1995-09-10,9596,SP1,Valencia,Valladolid,1,0
-1995-09-10,9596,SP2,Compostela,La Coruna,4,0
-1995-09-10,9596,SP2,Oviedo,Vallecano,2,0
-1995-09-10,9596,SP2,Salamanca,Celta,0,1
-1995-09-10,9596,SP2,Santander,Ath Madrid,0,4
-1995-09-10,9596,SP2,Sociedad,Sp Gijon,2,0
-1995-09-10,9596,SP2,Tenerife,Espanol,1,4
-1995-09-10,9596,SP2,Valencia,Valladolid,1,0
 1995-09-16,9596,SP1,Ath Bilbao,Ath Madrid,0,2
-1995-09-16,9596,SP2,Ath Bilbao,Ath Madrid,0,2
 1995-09-17,9596,SP1,Celta,Tenerife,2,2
 1995-09-17,9596,SP1,Espanol,Albacete,1,0
 1995-09-17,9596,SP1,La Coruna,Salamanca,2,0
@@ -1575,22 +792,9 @@ date,season,div,home,away,hg,ag
 1995-09-17,9596,SP1,Valladolid,Compostela,0,0
 1995-09-17,9596,SP1,Vallecano,Betis,1,2
 1995-09-17,9596,SP1,Zaragoza,Barcelona,0,3
-1995-09-17,9596,SP2,Celta,Tenerife,2,2
-1995-09-17,9596,SP2,Espanol,Albacete,1,0
-1995-09-17,9596,SP2,La Coruna,Salamanca,2,0
-1995-09-17,9596,SP2,Merida,Valencia,0,2
-1995-09-17,9596,SP2,Real Madrid,Oviedo,2,3
-1995-09-17,9596,SP2,Sevilla,Sociedad,2,1
-1995-09-17,9596,SP2,Sp Gijon,Santander,4,2
-1995-09-17,9596,SP2,Valladolid,Compostela,0,0
-1995-09-17,9596,SP2,Vallecano,Betis,1,2
-1995-09-17,9596,SP2,Zaragoza,Barcelona,0,3
 1995-09-23,9596,SP1,Barcelona,Vallecano,2,0
 1995-09-23,9596,SP1,Betis,Real Madrid,0,0
 1995-09-23,9596,SP1,Santander,Sevilla,1,1
-1995-09-23,9596,SP2,Barcelona,Vallecano,2,0
-1995-09-23,9596,SP2,Betis,Real Madrid,0,0
-1995-09-23,9596,SP2,Santander,Sevilla,1,1
 1995-09-24,9596,SP1,Albacete,Celta,4,0
 1995-09-24,9596,SP1,Ath Madrid,Sp Gijon,2,0
 1995-09-24,9596,SP1,Compostela,Merida,1,0
@@ -1599,18 +803,8 @@ date,season,div,home,away,hg,ag
 1995-09-24,9596,SP1,Sociedad,Espanol,0,1
 1995-09-24,9596,SP1,Tenerife,La Coruna,1,1
 1995-09-24,9596,SP1,Valencia,Zaragoza,0,0
-1995-09-24,9596,SP2,Albacete,Celta,4,0
-1995-09-24,9596,SP2,Ath Madrid,Sp Gijon,2,0
-1995-09-24,9596,SP2,Compostela,Merida,1,0
-1995-09-24,9596,SP2,Oviedo,Ath Bilbao,0,0
-1995-09-24,9596,SP2,Salamanca,Valladolid,0,0
-1995-09-24,9596,SP2,Sociedad,Espanol,0,1
-1995-09-24,9596,SP2,Tenerife,La Coruna,1,1
-1995-09-24,9596,SP2,Valencia,Zaragoza,0,0
 1995-09-30,9596,SP1,Ath Bilbao,Sp Gijon,2,1
 1995-09-30,9596,SP1,Real Madrid,Barcelona,1,1
-1995-09-30,9596,SP2,Ath Bilbao,Sp Gijon,2,1
-1995-09-30,9596,SP2,Real Madrid,Barcelona,1,1
 1995-10-01,9596,SP1,Celta,Sociedad,1,1
 1995-10-01,9596,SP1,Espanol,Santander,1,0
 1995-10-01,9596,SP1,La Coruna,Albacete,5,0
@@ -1620,15 +814,6 @@ date,season,div,home,away,hg,ag
 1995-10-01,9596,SP1,Valladolid,Tenerife,3,0
 1995-10-01,9596,SP1,Vallecano,Valencia,3,2
 1995-10-01,9596,SP1,Zaragoza,Compostela,1,0
-1995-10-01,9596,SP2,Celta,Sociedad,1,1
-1995-10-01,9596,SP2,Espanol,Santander,1,0
-1995-10-01,9596,SP2,La Coruna,Albacete,5,0
-1995-10-01,9596,SP2,Merida,Salamanca,0,0
-1995-10-01,9596,SP2,Oviedo,Betis,0,1
-1995-10-01,9596,SP2,Sevilla,Ath Madrid,0,0
-1995-10-01,9596,SP2,Valladolid,Tenerife,3,0
-1995-10-01,9596,SP2,Vallecano,Valencia,3,2
-1995-10-01,9596,SP2,Zaragoza,Compostela,1,0
 1995-10-04,9596,SP1,Albacete,Valladolid,4,2
 1995-10-04,9596,SP1,Barcelona,Oviedo,4,1
 1995-10-04,9596,SP1,Betis,Ath Bilbao,0,0
@@ -1639,20 +824,8 @@ date,season,div,home,away,hg,ag
 1995-10-04,9596,SP1,Sp Gijon,Sevilla,3,1
 1995-10-04,9596,SP1,Tenerife,Merida,1,0
 1995-10-04,9596,SP1,Valencia,Real Madrid,4,3
-1995-10-04,9596,SP2,Albacete,Valladolid,4,2
-1995-10-04,9596,SP2,Barcelona,Oviedo,4,1
-1995-10-04,9596,SP2,Betis,Ath Bilbao,0,0
-1995-10-04,9596,SP2,Compostela,Vallecano,1,0
-1995-10-04,9596,SP2,Salamanca,Zaragoza,0,1
-1995-10-04,9596,SP2,Santander,Celta,2,1
-1995-10-04,9596,SP2,Sociedad,La Coruna,2,1
-1995-10-04,9596,SP2,Sp Gijon,Sevilla,3,1
-1995-10-04,9596,SP2,Tenerife,Merida,1,0
-1995-10-04,9596,SP2,Valencia,Real Madrid,4,3
 1995-10-05,9596,SP1,Ath Madrid,Espanol,2,1
-1995-10-05,9596,SP2,Ath Madrid,Espanol,2,1
 1995-10-07,9596,SP1,Betis,Barcelona,1,5
-1995-10-07,9596,SP2,Betis,Barcelona,1,5
 1995-10-08,9596,SP1,Ath Bilbao,Sevilla,1,1
 1995-10-08,9596,SP1,Celta,Ath Madrid,0,3
 1995-10-08,9596,SP1,Espanol,Sp Gijon,0,0
@@ -1663,24 +836,10 @@ date,season,div,home,away,hg,ag
 1995-10-08,9596,SP1,Valladolid,Sociedad,3,0
 1995-10-08,9596,SP1,Vallecano,Salamanca,1,4
 1995-10-08,9596,SP1,Zaragoza,Tenerife,0,2
-1995-10-08,9596,SP2,Ath Bilbao,Sevilla,1,1
-1995-10-08,9596,SP2,Celta,Ath Madrid,0,3
-1995-10-08,9596,SP2,Espanol,Sp Gijon,0,0
-1995-10-08,9596,SP2,La Coruna,Santander,2,3
-1995-10-08,9596,SP2,Merida,Albacete,1,1
-1995-10-08,9596,SP2,Oviedo,Valencia,0,1
-1995-10-08,9596,SP2,Real Madrid,Compostela,2,1
-1995-10-08,9596,SP2,Valladolid,Sociedad,3,0
-1995-10-08,9596,SP2,Vallecano,Salamanca,1,4
-1995-10-08,9596,SP2,Zaragoza,Tenerife,0,2
 1995-10-14,9596,SP1,Ath Madrid,La Coruna,1,0
 1995-10-14,9596,SP1,Barcelona,Ath Bilbao,4,1
 1995-10-14,9596,SP1,Sevilla,Espanol,0,3
 1995-10-14,9596,SP1,Valencia,Betis,1,1
-1995-10-14,9596,SP2,Ath Madrid,La Coruna,1,0
-1995-10-14,9596,SP2,Barcelona,Ath Bilbao,4,1
-1995-10-14,9596,SP2,Sevilla,Espanol,0,3
-1995-10-14,9596,SP2,Valencia,Betis,1,1
 1995-10-15,9596,SP1,Albacete,Zaragoza,0,1
 1995-10-15,9596,SP1,Compostela,Oviedo,4,1
 1995-10-15,9596,SP1,Salamanca,Real Madrid,0,2
@@ -1688,15 +847,7 @@ date,season,div,home,away,hg,ag
 1995-10-15,9596,SP1,Sociedad,Merida,1,2
 1995-10-15,9596,SP1,Sp Gijon,Celta,1,0
 1995-10-15,9596,SP1,Tenerife,Vallecano,2,2
-1995-10-15,9596,SP2,Albacete,Zaragoza,0,1
-1995-10-15,9596,SP2,Compostela,Oviedo,4,1
-1995-10-15,9596,SP2,Salamanca,Real Madrid,0,2
-1995-10-15,9596,SP2,Santander,Valladolid,0,0
-1995-10-15,9596,SP2,Sociedad,Merida,1,2
-1995-10-15,9596,SP2,Sp Gijon,Celta,1,0
-1995-10-15,9596,SP2,Tenerife,Vallecano,2,2
 1995-10-21,9596,SP1,Valladolid,Ath Madrid,0,1
-1995-10-21,9596,SP2,Valladolid,Ath Madrid,0,1
 1995-10-22,9596,SP1,Ath Bilbao,Espanol,0,0
 1995-10-22,9596,SP1,Barcelona,Valencia,1,0
 1995-10-22,9596,SP1,Betis,Compostela,5,0
@@ -1707,22 +858,9 @@ date,season,div,home,away,hg,ag
 1995-10-22,9596,SP1,Real Madrid,Tenerife,2,0
 1995-10-22,9596,SP1,Vallecano,Albacete,2,0
 1995-10-22,9596,SP1,Zaragoza,Sociedad,1,2
-1995-10-22,9596,SP2,Ath Bilbao,Espanol,0,0
-1995-10-22,9596,SP2,Barcelona,Valencia,1,0
-1995-10-22,9596,SP2,Betis,Compostela,5,0
-1995-10-22,9596,SP2,Celta,Sevilla,4,0
-1995-10-22,9596,SP2,La Coruna,Sp Gijon,1,0
-1995-10-22,9596,SP2,Merida,Santander,3,1
-1995-10-22,9596,SP2,Oviedo,Salamanca,2,2
-1995-10-22,9596,SP2,Real Madrid,Tenerife,2,0
-1995-10-22,9596,SP2,Vallecano,Albacete,2,0
-1995-10-22,9596,SP2,Zaragoza,Sociedad,1,2
 1995-10-28,9596,SP1,Albacete,Real Madrid,1,1
 1995-10-28,9596,SP1,Compostela,Barcelona,2,1
 1995-10-28,9596,SP1,Sevilla,La Coruna,0,0
-1995-10-28,9596,SP2,Albacete,Real Madrid,1,1
-1995-10-28,9596,SP2,Compostela,Barcelona,2,1
-1995-10-28,9596,SP2,Sevilla,La Coruna,0,0
 1995-10-29,9596,SP1,Ath Madrid,Merida,1,1
 1995-10-29,9596,SP1,Espanol,Celta,2,2
 1995-10-29,9596,SP1,Salamanca,Betis,2,1
@@ -1731,16 +869,7 @@ date,season,div,home,away,hg,ag
 1995-10-29,9596,SP1,Sp Gijon,Valladolid,4,2
 1995-10-29,9596,SP1,Tenerife,Oviedo,3,3
 1995-10-29,9596,SP1,Valencia,Ath Bilbao,3,1
-1995-10-29,9596,SP2,Ath Madrid,Merida,1,1
-1995-10-29,9596,SP2,Espanol,Celta,2,2
-1995-10-29,9596,SP2,Salamanca,Betis,2,1
-1995-10-29,9596,SP2,Santander,Zaragoza,0,0
-1995-10-29,9596,SP2,Sociedad,Vallecano,2,1
-1995-10-29,9596,SP2,Sp Gijon,Valladolid,4,2
-1995-10-29,9596,SP2,Tenerife,Oviedo,3,3
-1995-10-29,9596,SP2,Valencia,Ath Bilbao,3,1
 1995-11-04,9596,SP1,Real Madrid,Sociedad,3,2
-1995-11-04,9596,SP2,Real Madrid,Sociedad,3,2
 1995-11-05,9596,SP1,Ath Bilbao,Celta,3,0
 1995-11-05,9596,SP1,Barcelona,Salamanca,4,1
 1995-11-05,9596,SP1,Betis,Tenerife,3,3
@@ -1751,18 +880,7 @@ date,season,div,home,away,hg,ag
 1995-11-05,9596,SP1,Valladolid,Sevilla,3,3
 1995-11-05,9596,SP1,Vallecano,Santander,1,2
 1995-11-05,9596,SP1,Zaragoza,Ath Madrid,0,1
-1995-11-05,9596,SP2,Ath Bilbao,Celta,3,0
-1995-11-05,9596,SP2,Barcelona,Salamanca,4,1
-1995-11-05,9596,SP2,Betis,Tenerife,3,3
-1995-11-05,9596,SP2,La Coruna,Espanol,0,1
-1995-11-05,9596,SP2,Merida,Sp Gijon,1,0
-1995-11-05,9596,SP2,Oviedo,Albacete,1,0
-1995-11-05,9596,SP2,Valencia,Compostela,5,2
-1995-11-05,9596,SP2,Valladolid,Sevilla,3,3
-1995-11-05,9596,SP2,Vallecano,Santander,1,2
-1995-11-05,9596,SP2,Zaragoza,Ath Madrid,0,1
 1995-11-11,9596,SP1,Celta,La Coruna,0,0
-1995-11-11,9596,SP2,Celta,La Coruna,0,0
 1995-11-12,9596,SP1,Albacete,Betis,0,0
 1995-11-12,9596,SP1,Ath Madrid,Vallecano,0,0
 1995-11-12,9596,SP1,Compostela,Ath Bilbao,2,1
@@ -1773,24 +891,10 @@ date,season,div,home,away,hg,ag
 1995-11-12,9596,SP1,Sociedad,Oviedo,1,1
 1995-11-12,9596,SP1,Sp Gijon,Zaragoza,4,1
 1995-11-12,9596,SP1,Tenerife,Barcelona,1,1
-1995-11-12,9596,SP2,Albacete,Betis,0,0
-1995-11-12,9596,SP2,Ath Madrid,Vallecano,0,0
-1995-11-12,9596,SP2,Compostela,Ath Bilbao,2,1
-1995-11-12,9596,SP2,Espanol,Valladolid,2,0
-1995-11-12,9596,SP2,Salamanca,Valencia,4,0
-1995-11-12,9596,SP2,Santander,Real Madrid,2,0
-1995-11-12,9596,SP2,Sevilla,Merida,3,0
-1995-11-12,9596,SP2,Sociedad,Oviedo,1,1
-1995-11-12,9596,SP2,Sp Gijon,Zaragoza,4,1
-1995-11-12,9596,SP2,Tenerife,Barcelona,1,1
 1995-11-18,9596,SP1,Barcelona,Albacete,3,0
 1995-11-18,9596,SP1,Betis,Sociedad,3,1
 1995-11-18,9596,SP1,Real Madrid,Ath Madrid,1,0
 1995-11-18,9596,SP1,Zaragoza,Sevilla,0,1
-1995-11-18,9596,SP2,Barcelona,Albacete,3,0
-1995-11-18,9596,SP2,Betis,Sociedad,3,1
-1995-11-18,9596,SP2,Real Madrid,Ath Madrid,1,0
-1995-11-18,9596,SP2,Zaragoza,Sevilla,0,1
 1995-11-19,9596,SP1,Ath Bilbao,La Coruna,1,0
 1995-11-19,9596,SP1,Compostela,Salamanca,0,0
 1995-11-19,9596,SP1,Merida,Espanol,0,1
@@ -1798,15 +902,7 @@ date,season,div,home,away,hg,ag
 1995-11-19,9596,SP1,Valencia,Tenerife,2,2
 1995-11-19,9596,SP1,Valladolid,Celta,1,1
 1995-11-19,9596,SP1,Vallecano,Sp Gijon,2,0
-1995-11-19,9596,SP2,Ath Bilbao,La Coruna,1,0
-1995-11-19,9596,SP2,Compostela,Salamanca,0,0
-1995-11-19,9596,SP2,Merida,Espanol,0,1
-1995-11-19,9596,SP2,Oviedo,Santander,2,1
-1995-11-19,9596,SP2,Valencia,Tenerife,2,2
-1995-11-19,9596,SP2,Valladolid,Celta,1,1
-1995-11-19,9596,SP2,Vallecano,Sp Gijon,2,0
 1995-11-25,9596,SP1,Sociedad,Barcelona,1,1
-1995-11-25,9596,SP2,Sociedad,Barcelona,1,1
 1995-11-26,9596,SP1,Albacete,Valencia,1,3
 1995-11-26,9596,SP1,Ath Madrid,Oviedo,3,0
 1995-11-26,9596,SP1,Celta,Merida,2,0
@@ -1817,22 +913,9 @@ date,season,div,home,away,hg,ag
 1995-11-26,9596,SP1,Sevilla,Vallecano,1,0
 1995-11-26,9596,SP1,Sp Gijon,Real Madrid,0,0
 1995-11-26,9596,SP1,Tenerife,Compostela,1,1
-1995-11-26,9596,SP2,Albacete,Valencia,1,3
-1995-11-26,9596,SP2,Ath Madrid,Oviedo,3,0
-1995-11-26,9596,SP2,Celta,Merida,2,0
-1995-11-26,9596,SP2,Espanol,Zaragoza,1,1
-1995-11-26,9596,SP2,La Coruna,Valladolid,3,1
-1995-11-26,9596,SP2,Salamanca,Ath Bilbao,2,1
-1995-11-26,9596,SP2,Santander,Betis,0,0
-1995-11-26,9596,SP2,Sevilla,Vallecano,1,0
-1995-11-26,9596,SP2,Sp Gijon,Real Madrid,0,0
-1995-11-26,9596,SP2,Tenerife,Compostela,1,1
 1995-12-02,9596,SP1,Barcelona,Santander,1,1
 1995-12-02,9596,SP1,Real Madrid,Sevilla,4,1
 1995-12-02,9596,SP1,Vallecano,Espanol,1,0
-1995-12-02,9596,SP2,Barcelona,Santander,1,1
-1995-12-02,9596,SP2,Real Madrid,Sevilla,4,1
-1995-12-02,9596,SP2,Vallecano,Espanol,1,0
 1995-12-03,9596,SP1,Ath Bilbao,Valladolid,2,1
 1995-12-03,9596,SP1,Betis,Ath Madrid,2,1
 1995-12-03,9596,SP1,Compostela,Albacete,3,1
@@ -1841,18 +924,8 @@ date,season,div,home,away,hg,ag
 1995-12-03,9596,SP1,Salamanca,Tenerife,1,2
 1995-12-03,9596,SP1,Valencia,Sociedad,0,1
 1995-12-03,9596,SP1,Zaragoza,Celta,0,0
-1995-12-03,9596,SP2,Ath Bilbao,Valladolid,2,1
-1995-12-03,9596,SP2,Betis,Ath Madrid,2,1
-1995-12-03,9596,SP2,Compostela,Albacete,3,1
-1995-12-03,9596,SP2,Merida,La Coruna,0,2
-1995-12-03,9596,SP2,Oviedo,Sp Gijon,1,0
-1995-12-03,9596,SP2,Salamanca,Tenerife,1,2
-1995-12-03,9596,SP2,Valencia,Sociedad,0,1
-1995-12-03,9596,SP2,Zaragoza,Celta,0,0
 1995-12-09,9596,SP1,Ath Madrid,Barcelona,3,1
 1995-12-09,9596,SP1,Santander,Valencia,0,3
-1995-12-09,9596,SP2,Ath Madrid,Barcelona,3,1
-1995-12-09,9596,SP2,Santander,Valencia,0,3
 1995-12-10,9596,SP1,Albacete,Salamanca,3,3
 1995-12-10,9596,SP1,Celta,Vallecano,2,0
 1995-12-10,9596,SP1,Espanol,Real Madrid,3,1
@@ -1862,19 +935,8 @@ date,season,div,home,away,hg,ag
 1995-12-10,9596,SP1,Sp Gijon,Betis,2,3
 1995-12-10,9596,SP1,Tenerife,Ath Bilbao,3,2
 1995-12-10,9596,SP1,Valladolid,Merida,1,1
-1995-12-10,9596,SP2,Albacete,Salamanca,3,3
-1995-12-10,9596,SP2,Celta,Vallecano,2,0
-1995-12-10,9596,SP2,Espanol,Real Madrid,3,1
-1995-12-10,9596,SP2,La Coruna,Zaragoza,2,3
-1995-12-10,9596,SP2,Sevilla,Oviedo,1,1
-1995-12-10,9596,SP2,Sociedad,Compostela,0,1
-1995-12-10,9596,SP2,Sp Gijon,Betis,2,3
-1995-12-10,9596,SP2,Tenerife,Ath Bilbao,3,2
-1995-12-10,9596,SP2,Valladolid,Merida,1,1
 1995-12-16,9596,SP1,Barcelona,Sp Gijon,1,0
 1995-12-16,9596,SP1,Betis,Sevilla,1,1
-1995-12-16,9596,SP2,Barcelona,Sp Gijon,1,0
-1995-12-16,9596,SP2,Betis,Sevilla,1,1
 1995-12-17,9596,SP1,Ath Bilbao,Merida,1,1
 1995-12-17,9596,SP1,Compostela,Santander,2,0
 1995-12-17,9596,SP1,Oviedo,Espanol,1,2
@@ -1884,15 +946,6 @@ date,season,div,home,away,hg,ag
 1995-12-17,9596,SP1,Valencia,Ath Madrid,0,1
 1995-12-17,9596,SP1,Vallecano,La Coruna,0,6
 1995-12-17,9596,SP1,Zaragoza,Valladolid,5,3
-1995-12-17,9596,SP2,Ath Bilbao,Merida,1,1
-1995-12-17,9596,SP2,Compostela,Santander,2,0
-1995-12-17,9596,SP2,Oviedo,Espanol,1,2
-1995-12-17,9596,SP2,Real Madrid,Celta,1,0
-1995-12-17,9596,SP2,Salamanca,Sociedad,3,3
-1995-12-17,9596,SP2,Tenerife,Albacete,1,3
-1995-12-17,9596,SP2,Valencia,Ath Madrid,0,1
-1995-12-17,9596,SP2,Vallecano,La Coruna,0,6
-1995-12-17,9596,SP2,Zaragoza,Valladolid,5,3
 1995-12-20,9596,SP1,Albacete,Ath Bilbao,2,0
 1995-12-20,9596,SP1,Ath Madrid,Compostela,3,0
 1995-12-20,9596,SP1,Celta,Oviedo,1,0
@@ -1903,18 +956,7 @@ date,season,div,home,away,hg,ag
 1995-12-20,9596,SP1,Sociedad,Tenerife,0,1
 1995-12-20,9596,SP1,Sp Gijon,Valencia,1,3
 1995-12-20,9596,SP1,Valladolid,Vallecano,1,1
-1995-12-20,9596,SP2,Albacete,Ath Bilbao,2,0
-1995-12-20,9596,SP2,Ath Madrid,Compostela,3,0
-1995-12-20,9596,SP2,Celta,Oviedo,1,0
-1995-12-20,9596,SP2,Espanol,Betis,1,1
-1995-12-20,9596,SP2,Merida,Zaragoza,1,1
-1995-12-20,9596,SP2,Santander,Salamanca,2,1
-1995-12-20,9596,SP2,Sevilla,Barcelona,1,0
-1995-12-20,9596,SP2,Sociedad,Tenerife,0,1
-1995-12-20,9596,SP2,Sp Gijon,Valencia,1,3
-1995-12-20,9596,SP2,Valladolid,Vallecano,1,1
 1995-12-21,9596,SP1,La Coruna,Real Madrid,3,0
-1995-12-21,9596,SP2,La Coruna,Real Madrid,3,0
 1996-01-03,9596,SP1,Albacete,Sociedad,3,5
 1996-01-03,9596,SP1,Ath Bilbao,Zaragoza,1,0
 1996-01-03,9596,SP1,Betis,Celta,0,3
@@ -1925,22 +967,9 @@ date,season,div,home,away,hg,ag
 1996-01-03,9596,SP1,Tenerife,Santander,2,0
 1996-01-03,9596,SP1,Valencia,Sevilla,1,0
 1996-01-03,9596,SP1,Vallecano,Merida,4,1
-1996-01-03,9596,SP2,Albacete,Sociedad,3,5
-1996-01-03,9596,SP2,Ath Bilbao,Zaragoza,1,0
-1996-01-03,9596,SP2,Betis,Celta,0,3
-1996-01-03,9596,SP2,Compostela,Sp Gijon,1,0
-1996-01-03,9596,SP2,Oviedo,La Coruna,0,2
-1996-01-03,9596,SP2,Real Madrid,Valladolid,4,1
-1996-01-03,9596,SP2,Salamanca,Ath Madrid,1,3
-1996-01-03,9596,SP2,Tenerife,Santander,2,0
-1996-01-03,9596,SP2,Valencia,Sevilla,1,0
-1996-01-03,9596,SP2,Vallecano,Merida,4,1
 1996-01-04,9596,SP1,Barcelona,Espanol,2,1
-1996-01-04,9596,SP2,Barcelona,Espanol,2,1
 1996-01-06,9596,SP1,Ath Bilbao,Sociedad,0,0
 1996-01-06,9596,SP1,Ath Madrid,Tenerife,3,1
-1996-01-06,9596,SP2,Ath Bilbao,Sociedad,0,0
-1996-01-06,9596,SP2,Ath Madrid,Tenerife,3,1
 1996-01-07,9596,SP1,Celta,Barcelona,1,0
 1996-01-07,9596,SP1,Espanol,Valencia,2,0
 1996-01-07,9596,SP1,La Coruna,Betis,0,0
@@ -1950,19 +979,8 @@ date,season,div,home,away,hg,ag
 1996-01-07,9596,SP1,Sp Gijon,Salamanca,3,2
 1996-01-07,9596,SP1,Valladolid,Oviedo,2,2
 1996-01-07,9596,SP1,Zaragoza,Vallecano,1,1
-1996-01-07,9596,SP2,Celta,Barcelona,1,0
-1996-01-07,9596,SP2,Espanol,Valencia,2,0
-1996-01-07,9596,SP2,La Coruna,Betis,0,0
-1996-01-07,9596,SP2,Merida,Real Madrid,2,2
-1996-01-07,9596,SP2,Santander,Albacete,5,5
-1996-01-07,9596,SP2,Sevilla,Compostela,0,1
-1996-01-07,9596,SP2,Sp Gijon,Salamanca,3,2
-1996-01-07,9596,SP2,Valladolid,Oviedo,2,2
-1996-01-07,9596,SP2,Zaragoza,Vallecano,1,1
 1996-01-13,9596,SP1,Albacete,Ath Madrid,1,1
 1996-01-13,9596,SP1,Betis,Valladolid,3,0
-1996-01-13,9596,SP2,Albacete,Ath Madrid,1,1
-1996-01-13,9596,SP2,Betis,Valladolid,3,0
 1996-01-14,9596,SP1,Barcelona,La Coruna,1,1
 1996-01-14,9596,SP1,Compostela,Espanol,2,1
 1996-01-14,9596,SP1,Oviedo,Merida,0,0
@@ -1972,17 +990,7 @@ date,season,div,home,away,hg,ag
 1996-01-14,9596,SP1,Tenerife,Sp Gijon,3,0
 1996-01-14,9596,SP1,Valencia,Celta,3,0
 1996-01-14,9596,SP1,Vallecano,Ath Bilbao,2,2
-1996-01-14,9596,SP2,Barcelona,La Coruna,1,1
-1996-01-14,9596,SP2,Compostela,Espanol,2,1
-1996-01-14,9596,SP2,Oviedo,Merida,0,0
-1996-01-14,9596,SP2,Real Madrid,Zaragoza,2,2
-1996-01-14,9596,SP2,Salamanca,Sevilla,4,1
-1996-01-14,9596,SP2,Sociedad,Santander,2,1
-1996-01-14,9596,SP2,Tenerife,Sp Gijon,3,0
-1996-01-14,9596,SP2,Valencia,Celta,3,0
-1996-01-14,9596,SP2,Vallecano,Ath Bilbao,2,2
 1996-01-20,9596,SP1,Valencia,La Coruna,2,1
-1996-01-20,9596,SP2,Valencia,La Coruna,2,1
 1996-01-21,9596,SP1,Albacete,Sp Gijon,1,3
 1996-01-21,9596,SP1,Barcelona,Valladolid,1,0
 1996-01-21,9596,SP1,Betis,Merida,0,1
@@ -1993,16 +1001,6 @@ date,season,div,home,away,hg,ag
 1996-01-21,9596,SP1,Santander,Ath Bilbao,1,1
 1996-01-21,9596,SP1,Sociedad,Ath Madrid,1,0
 1996-01-21,9596,SP1,Tenerife,Sevilla,4,2
-1996-01-21,9596,SP2,Albacete,Sp Gijon,1,3
-1996-01-21,9596,SP2,Barcelona,Valladolid,1,0
-1996-01-21,9596,SP2,Betis,Merida,0,1
-1996-01-21,9596,SP2,Compostela,Celta,1,1
-1996-01-21,9596,SP2,Oviedo,Zaragoza,1,1
-1996-01-21,9596,SP2,Real Madrid,Vallecano,1,2
-1996-01-21,9596,SP2,Salamanca,Espanol,2,2
-1996-01-21,9596,SP2,Santander,Ath Bilbao,1,1
-1996-01-21,9596,SP2,Sociedad,Ath Madrid,1,0
-1996-01-21,9596,SP2,Tenerife,Sevilla,4,2
 1996-01-24,9596,SP1,Ath Bilbao,Real Madrid,0,5
 1996-01-24,9596,SP1,Ath Madrid,Santander,2,0
 1996-01-24,9596,SP1,Celta,Salamanca,2,1
@@ -2013,20 +1011,8 @@ date,season,div,home,away,hg,ag
 1996-01-24,9596,SP1,Valladolid,Valencia,2,5
 1996-01-24,9596,SP1,Vallecano,Oviedo,1,2
 1996-01-24,9596,SP1,Zaragoza,Betis,1,2
-1996-01-24,9596,SP2,Ath Bilbao,Real Madrid,0,5
-1996-01-24,9596,SP2,Ath Madrid,Santander,2,0
-1996-01-24,9596,SP2,Celta,Salamanca,2,1
-1996-01-24,9596,SP2,Espanol,Tenerife,2,1
-1996-01-24,9596,SP2,La Coruna,Compostela,2,0
-1996-01-24,9596,SP2,Sevilla,Albacete,1,1
-1996-01-24,9596,SP2,Sp Gijon,Sociedad,1,1
-1996-01-24,9596,SP2,Valladolid,Valencia,2,5
-1996-01-24,9596,SP2,Vallecano,Oviedo,1,2
-1996-01-24,9596,SP2,Zaragoza,Betis,1,2
 1996-01-25,9596,SP1,Merida,Barcelona,0,0
-1996-01-25,9596,SP2,Merida,Barcelona,0,0
 1996-01-27,9596,SP1,Salamanca,La Coruna,0,5
-1996-01-27,9596,SP2,Salamanca,La Coruna,0,5
 1996-01-28,9596,SP1,Albacete,Espanol,0,0
 1996-01-28,9596,SP1,Ath Madrid,Ath Bilbao,4,1
 1996-01-28,9596,SP1,Barcelona,Zaragoza,3,1
@@ -2037,20 +1023,8 @@ date,season,div,home,away,hg,ag
 1996-01-28,9596,SP1,Sociedad,Sevilla,1,0
 1996-01-28,9596,SP1,Tenerife,Celta,1,0
 1996-01-28,9596,SP1,Valencia,Merida,4,1
-1996-01-28,9596,SP2,Albacete,Espanol,0,0
-1996-01-28,9596,SP2,Ath Madrid,Ath Bilbao,4,1
-1996-01-28,9596,SP2,Barcelona,Zaragoza,3,1
-1996-01-28,9596,SP2,Betis,Vallecano,0,0
-1996-01-28,9596,SP2,Compostela,Valladolid,1,3
-1996-01-28,9596,SP2,Oviedo,Real Madrid,1,2
-1996-01-28,9596,SP2,Santander,Sp Gijon,1,1
-1996-01-28,9596,SP2,Sociedad,Sevilla,1,0
-1996-01-28,9596,SP2,Tenerife,Celta,1,0
-1996-01-28,9596,SP2,Valencia,Merida,4,1
 1996-02-03,9596,SP1,Sp Gijon,Ath Madrid,1,2
 1996-02-03,9596,SP1,Zaragoza,Valencia,4,1
-1996-02-03,9596,SP2,Sp Gijon,Ath Madrid,1,2
-1996-02-03,9596,SP2,Zaragoza,Valencia,4,1
 1996-02-04,9596,SP1,Ath Bilbao,Oviedo,0,1
 1996-02-04,9596,SP1,Celta,Albacete,2,2
 1996-02-04,9596,SP1,Espanol,Sociedad,0,0
@@ -2060,21 +1034,9 @@ date,season,div,home,away,hg,ag
 1996-02-04,9596,SP1,Sevilla,Santander,0,1
 1996-02-04,9596,SP1,Valladolid,Salamanca,1,0
 1996-02-04,9596,SP1,Vallecano,Barcelona,1,1
-1996-02-04,9596,SP2,Ath Bilbao,Oviedo,0,1
-1996-02-04,9596,SP2,Celta,Albacete,2,2
-1996-02-04,9596,SP2,Espanol,Sociedad,0,0
-1996-02-04,9596,SP2,La Coruna,Tenerife,1,1
-1996-02-04,9596,SP2,Merida,Compostela,0,2
-1996-02-04,9596,SP2,Real Madrid,Betis,4,2
-1996-02-04,9596,SP2,Sevilla,Santander,0,1
-1996-02-04,9596,SP2,Valladolid,Salamanca,1,0
-1996-02-04,9596,SP2,Vallecano,Barcelona,1,1
 1996-02-10,9596,SP1,Ath Madrid,Sevilla,0,1
 1996-02-10,9596,SP1,Barcelona,Real Madrid,3,0
 1996-02-10,9596,SP1,Valencia,Vallecano,3,0
-1996-02-10,9596,SP2,Ath Madrid,Sevilla,0,1
-1996-02-10,9596,SP2,Barcelona,Real Madrid,3,0
-1996-02-10,9596,SP2,Valencia,Vallecano,3,0
 1996-02-11,9596,SP1,Albacete,La Coruna,1,0
 1996-02-11,9596,SP1,Betis,Oviedo,2,1
 1996-02-11,9596,SP1,Compostela,Zaragoza,3,2
@@ -2083,18 +1045,8 @@ date,season,div,home,away,hg,ag
 1996-02-11,9596,SP1,Sociedad,Celta,3,1
 1996-02-11,9596,SP1,Sp Gijon,Ath Bilbao,1,2
 1996-02-11,9596,SP1,Tenerife,Valladolid,1,0
-1996-02-11,9596,SP2,Albacete,La Coruna,1,0
-1996-02-11,9596,SP2,Betis,Oviedo,2,1
-1996-02-11,9596,SP2,Compostela,Zaragoza,3,2
-1996-02-11,9596,SP2,Salamanca,Merida,2,2
-1996-02-11,9596,SP2,Santander,Espanol,1,1
-1996-02-11,9596,SP2,Sociedad,Celta,3,1
-1996-02-11,9596,SP2,Sp Gijon,Ath Bilbao,1,2
-1996-02-11,9596,SP2,Tenerife,Valladolid,1,0
 1996-02-17,9596,SP1,Real Madrid,Valencia,0,0
 1996-02-17,9596,SP1,Zaragoza,Salamanca,1,1
-1996-02-17,9596,SP2,Real Madrid,Valencia,0,0
-1996-02-17,9596,SP2,Zaragoza,Salamanca,1,1
 1996-02-18,9596,SP1,Ath Bilbao,Betis,0,1
 1996-02-18,9596,SP1,Celta,Santander,0,0
 1996-02-18,9596,SP1,Espanol,Ath Madrid,0,2
@@ -2104,17 +1056,7 @@ date,season,div,home,away,hg,ag
 1996-02-18,9596,SP1,Sevilla,Sp Gijon,2,0
 1996-02-18,9596,SP1,Valladolid,Albacete,3,0
 1996-02-18,9596,SP1,Vallecano,Compostela,0,1
-1996-02-18,9596,SP2,Ath Bilbao,Betis,0,1
-1996-02-18,9596,SP2,Celta,Santander,0,0
-1996-02-18,9596,SP2,Espanol,Ath Madrid,0,2
-1996-02-18,9596,SP2,La Coruna,Sociedad,1,1
-1996-02-18,9596,SP2,Merida,Tenerife,2,0
-1996-02-18,9596,SP2,Oviedo,Barcelona,1,2
-1996-02-18,9596,SP2,Sevilla,Sp Gijon,2,0
-1996-02-18,9596,SP2,Valladolid,Albacete,3,0
-1996-02-18,9596,SP2,Vallecano,Compostela,0,1
 1996-02-24,9596,SP1,Santander,La Coruna,2,1
-1996-02-24,9596,SP2,Santander,La Coruna,2,1
 1996-02-25,9596,SP1,Albacete,Merida,2,0
 1996-02-25,9596,SP1,Ath Madrid,Celta,3,2
 1996-02-25,9596,SP1,Barcelona,Betis,1,0
@@ -2125,40 +1067,18 @@ date,season,div,home,away,hg,ag
 1996-02-25,9596,SP1,Sp Gijon,Espanol,2,3
 1996-02-25,9596,SP1,Tenerife,Zaragoza,1,2
 1996-02-25,9596,SP1,Valencia,Oviedo,3,1
-1996-02-25,9596,SP2,Albacete,Merida,2,0
-1996-02-25,9596,SP2,Ath Madrid,Celta,3,2
-1996-02-25,9596,SP2,Barcelona,Betis,1,0
-1996-02-25,9596,SP2,Compostela,Real Madrid,3,3
-1996-02-25,9596,SP2,Salamanca,Vallecano,1,2
-1996-02-25,9596,SP2,Sevilla,Ath Bilbao,1,1
-1996-02-25,9596,SP2,Sociedad,Valladolid,1,0
-1996-02-25,9596,SP2,Sp Gijon,Espanol,2,3
-1996-02-25,9596,SP2,Tenerife,Zaragoza,1,2
-1996-02-25,9596,SP2,Valencia,Oviedo,3,1
 1996-03-02,9596,SP1,Ath Bilbao,Barcelona,0,0
 1996-03-02,9596,SP1,Espanol,Sevilla,0,1
 1996-03-02,9596,SP1,Merida,Sociedad,1,2
 1996-03-02,9596,SP1,Real Madrid,Salamanca,5,0
 1996-03-02,9596,SP1,Valladolid,Santander,3,1
-1996-03-02,9596,SP2,Ath Bilbao,Barcelona,0,0
-1996-03-02,9596,SP2,Espanol,Sevilla,0,1
-1996-03-02,9596,SP2,Merida,Sociedad,1,2
-1996-03-02,9596,SP2,Real Madrid,Salamanca,5,0
-1996-03-02,9596,SP2,Valladolid,Santander,3,1
 1996-03-03,9596,SP1,Betis,Valencia,3,0
 1996-03-03,9596,SP1,Celta,Sp Gijon,0,0
 1996-03-03,9596,SP1,La Coruna,Ath Madrid,2,2
 1996-03-03,9596,SP1,Oviedo,Compostela,3,1
 1996-03-03,9596,SP1,Vallecano,Tenerife,2,4
 1996-03-03,9596,SP1,Zaragoza,Albacete,3,1
-1996-03-03,9596,SP2,Betis,Valencia,3,0
-1996-03-03,9596,SP2,Celta,Sp Gijon,0,0
-1996-03-03,9596,SP2,La Coruna,Ath Madrid,2,2
-1996-03-03,9596,SP2,Oviedo,Compostela,3,1
-1996-03-03,9596,SP2,Vallecano,Tenerife,2,4
-1996-03-03,9596,SP2,Zaragoza,Albacete,3,1
 1996-03-09,9596,SP1,Valencia,Barcelona,4,1
-1996-03-09,9596,SP2,Valencia,Barcelona,4,1
 1996-03-10,9596,SP1,Albacete,Vallecano,1,2
 1996-03-10,9596,SP1,Ath Madrid,Valladolid,0,2
 1996-03-10,9596,SP1,Compostela,Betis,1,2
@@ -2169,22 +1089,9 @@ date,season,div,home,away,hg,ag
 1996-03-10,9596,SP1,Sociedad,Zaragoza,3,1
 1996-03-10,9596,SP1,Sp Gijon,La Coruna,1,1
 1996-03-10,9596,SP1,Tenerife,Real Madrid,3,0
-1996-03-10,9596,SP2,Albacete,Vallecano,1,2
-1996-03-10,9596,SP2,Ath Madrid,Valladolid,0,2
-1996-03-10,9596,SP2,Compostela,Betis,1,2
-1996-03-10,9596,SP2,Espanol,Ath Bilbao,3,0
-1996-03-10,9596,SP2,Salamanca,Oviedo,0,1
-1996-03-10,9596,SP2,Santander,Merida,2,0
-1996-03-10,9596,SP2,Sevilla,Celta,0,0
-1996-03-10,9596,SP2,Sociedad,Zaragoza,3,1
-1996-03-10,9596,SP2,Sp Gijon,La Coruna,1,1
-1996-03-10,9596,SP2,Tenerife,Real Madrid,3,0
 1996-03-16,9596,SP1,Barcelona,Compostela,1,0
 1996-03-16,9596,SP1,Real Madrid,Albacete,2,0
 1996-03-16,9596,SP1,Zaragoza,Santander,1,2
-1996-03-16,9596,SP2,Barcelona,Compostela,1,0
-1996-03-16,9596,SP2,Real Madrid,Albacete,2,0
-1996-03-16,9596,SP2,Zaragoza,Santander,1,2
 1996-03-17,9596,SP1,Ath Bilbao,Valencia,0,1
 1996-03-17,9596,SP1,Betis,Salamanca,4,0
 1996-03-17,9596,SP1,Celta,Espanol,4,2
@@ -2193,18 +1100,8 @@ date,season,div,home,away,hg,ag
 1996-03-17,9596,SP1,Oviedo,Tenerife,1,3
 1996-03-17,9596,SP1,Valladolid,Sp Gijon,1,0
 1996-03-17,9596,SP1,Vallecano,Sociedad,2,0
-1996-03-17,9596,SP2,Ath Bilbao,Valencia,0,1
-1996-03-17,9596,SP2,Betis,Salamanca,4,0
-1996-03-17,9596,SP2,Celta,Espanol,4,2
-1996-03-17,9596,SP2,La Coruna,Sevilla,3,2
-1996-03-17,9596,SP2,Merida,Ath Madrid,0,1
-1996-03-17,9596,SP2,Oviedo,Tenerife,1,3
-1996-03-17,9596,SP2,Valladolid,Sp Gijon,1,0
-1996-03-17,9596,SP2,Vallecano,Sociedad,2,0
 1996-03-23,9596,SP1,Sp Gijon,Merida,3,1
 1996-03-23,9596,SP1,Tenerife,Betis,1,2
-1996-03-23,9596,SP2,Sp Gijon,Merida,3,1
-1996-03-23,9596,SP2,Tenerife,Betis,1,2
 1996-03-24,9596,SP1,Albacete,Oviedo,0,1
 1996-03-24,9596,SP1,Ath Madrid,Zaragoza,1,1
 1996-03-24,9596,SP1,Celta,Ath Bilbao,3,1
@@ -2214,15 +1111,6 @@ date,season,div,home,away,hg,ag
 1996-03-24,9596,SP1,Santander,Vallecano,1,2
 1996-03-24,9596,SP1,Sevilla,Valladolid,1,1
 1996-03-24,9596,SP1,Sociedad,Real Madrid,1,1
-1996-03-24,9596,SP2,Albacete,Oviedo,0,1
-1996-03-24,9596,SP2,Ath Madrid,Zaragoza,1,1
-1996-03-24,9596,SP2,Celta,Ath Bilbao,3,1
-1996-03-24,9596,SP2,Compostela,Valencia,0,4
-1996-03-24,9596,SP2,Espanol,La Coruna,0,0
-1996-03-24,9596,SP2,Salamanca,Barcelona,1,3
-1996-03-24,9596,SP2,Santander,Vallecano,1,2
-1996-03-24,9596,SP2,Sevilla,Valladolid,1,1
-1996-03-24,9596,SP2,Sociedad,Real Madrid,1,1
 1996-03-27,9596,SP1,Ath Bilbao,Compostela,0,0
 1996-03-27,9596,SP1,Barcelona,Tenerife,2,2
 1996-03-27,9596,SP1,Betis,Albacete,2,3
@@ -2233,18 +1121,7 @@ date,season,div,home,away,hg,ag
 1996-03-27,9596,SP1,Valladolid,Espanol,0,0
 1996-03-27,9596,SP1,Vallecano,Ath Madrid,0,3
 1996-03-27,9596,SP1,Zaragoza,Sp Gijon,1,1
-1996-03-27,9596,SP2,Ath Bilbao,Compostela,0,0
-1996-03-27,9596,SP2,Barcelona,Tenerife,2,2
-1996-03-27,9596,SP2,Betis,Albacete,2,3
-1996-03-27,9596,SP2,La Coruna,Celta,2,1
-1996-03-27,9596,SP2,Merida,Sevilla,3,2
-1996-03-27,9596,SP2,Real Madrid,Santander,1,2
-1996-03-27,9596,SP2,Valencia,Salamanca,2,0
-1996-03-27,9596,SP2,Valladolid,Espanol,0,0
-1996-03-27,9596,SP2,Vallecano,Ath Madrid,0,3
-1996-03-27,9596,SP2,Zaragoza,Sp Gijon,1,1
 1996-03-28,9596,SP1,Oviedo,Sociedad,0,0
-1996-03-28,9596,SP2,Oviedo,Sociedad,0,0
 1996-03-31,9596,SP1,Albacete,Barcelona,0,1
 1996-03-31,9596,SP1,Ath Madrid,Real Madrid,1,2
 1996-03-31,9596,SP1,Celta,Valladolid,1,1
@@ -2256,23 +1133,9 @@ date,season,div,home,away,hg,ag
 1996-03-31,9596,SP1,Sociedad,Betis,1,1
 1996-03-31,9596,SP1,Sp Gijon,Vallecano,3,1
 1996-03-31,9596,SP1,Tenerife,Valencia,2,1
-1996-03-31,9596,SP2,Albacete,Barcelona,0,1
-1996-03-31,9596,SP2,Ath Madrid,Real Madrid,1,2
-1996-03-31,9596,SP2,Celta,Valladolid,1,1
-1996-03-31,9596,SP2,Espanol,Merida,3,0
-1996-03-31,9596,SP2,La Coruna,Ath Bilbao,0,0
-1996-03-31,9596,SP2,Salamanca,Compostela,1,0
-1996-03-31,9596,SP2,Santander,Oviedo,0,0
-1996-03-31,9596,SP2,Sevilla,Zaragoza,1,1
-1996-03-31,9596,SP2,Sociedad,Betis,1,1
-1996-03-31,9596,SP2,Sp Gijon,Vallecano,3,1
-1996-03-31,9596,SP2,Tenerife,Valencia,2,1
 1996-04-06,9596,SP1,Barcelona,Sociedad,1,0
 1996-04-06,9596,SP1,Oviedo,Ath Madrid,1,1
 1996-04-06,9596,SP1,Zaragoza,Espanol,1,1
-1996-04-06,9596,SP2,Barcelona,Sociedad,1,0
-1996-04-06,9596,SP2,Oviedo,Ath Madrid,1,1
-1996-04-06,9596,SP2,Zaragoza,Espanol,1,1
 1996-04-07,9596,SP1,Ath Bilbao,Salamanca,3,1
 1996-04-07,9596,SP1,Betis,Santander,2,2
 1996-04-07,9596,SP1,Compostela,Tenerife,0,2
@@ -2281,18 +1144,8 @@ date,season,div,home,away,hg,ag
 1996-04-07,9596,SP1,Valencia,Albacete,1,0
 1996-04-07,9596,SP1,Valladolid,La Coruna,2,2
 1996-04-07,9596,SP1,Vallecano,Sevilla,0,0
-1996-04-07,9596,SP2,Ath Bilbao,Salamanca,3,1
-1996-04-07,9596,SP2,Betis,Santander,2,2
-1996-04-07,9596,SP2,Compostela,Tenerife,0,2
-1996-04-07,9596,SP2,Merida,Celta,2,0
-1996-04-07,9596,SP2,Real Madrid,Sp Gijon,0,1
-1996-04-07,9596,SP2,Valencia,Albacete,1,0
-1996-04-07,9596,SP2,Valladolid,La Coruna,2,2
-1996-04-07,9596,SP2,Vallecano,Sevilla,0,0
 1996-04-13,9596,SP1,Santander,Barcelona,1,1
 1996-04-13,9596,SP1,Sevilla,Real Madrid,0,1
-1996-04-13,9596,SP2,Santander,Barcelona,1,1
-1996-04-13,9596,SP2,Sevilla,Real Madrid,0,1
 1996-04-14,9596,SP1,Albacete,Compostela,2,1
 1996-04-14,9596,SP1,Ath Madrid,Betis,1,1
 1996-04-14,9596,SP1,Celta,Zaragoza,1,1
@@ -2302,19 +1155,8 @@ date,season,div,home,away,hg,ag
 1996-04-14,9596,SP1,Sp Gijon,Oviedo,0,1
 1996-04-14,9596,SP1,Tenerife,Salamanca,4,0
 1996-04-14,9596,SP1,Valladolid,Ath Bilbao,1,1
-1996-04-14,9596,SP2,Albacete,Compostela,2,1
-1996-04-14,9596,SP2,Ath Madrid,Betis,1,1
-1996-04-14,9596,SP2,Celta,Zaragoza,1,1
-1996-04-14,9596,SP2,Espanol,Vallecano,4,2
-1996-04-14,9596,SP2,La Coruna,Merida,2,1
-1996-04-14,9596,SP2,Sociedad,Valencia,5,2
-1996-04-14,9596,SP2,Sp Gijon,Oviedo,0,1
-1996-04-14,9596,SP2,Tenerife,Salamanca,4,0
-1996-04-14,9596,SP2,Valladolid,Ath Bilbao,1,1
 1996-04-20,9596,SP1,Barcelona,Ath Madrid,1,3
 1996-04-20,9596,SP1,Valencia,Santander,2,1
-1996-04-20,9596,SP2,Barcelona,Ath Madrid,1,3
-1996-04-20,9596,SP2,Valencia,Santander,2,1
 1996-04-21,9596,SP1,Ath Bilbao,Tenerife,2,0
 1996-04-21,9596,SP1,Betis,Sp Gijon,2,5
 1996-04-21,9596,SP1,Compostela,Sociedad,2,0
@@ -2324,17 +1166,7 @@ date,season,div,home,away,hg,ag
 1996-04-21,9596,SP1,Salamanca,Albacete,2,4
 1996-04-21,9596,SP1,Vallecano,Celta,1,3
 1996-04-21,9596,SP1,Zaragoza,La Coruna,2,3
-1996-04-21,9596,SP2,Ath Bilbao,Tenerife,2,0
-1996-04-21,9596,SP2,Betis,Sp Gijon,2,5
-1996-04-21,9596,SP2,Compostela,Sociedad,2,0
-1996-04-21,9596,SP2,Merida,Valladolid,1,0
-1996-04-21,9596,SP2,Oviedo,Sevilla,2,3
-1996-04-21,9596,SP2,Real Madrid,Espanol,1,2
-1996-04-21,9596,SP2,Salamanca,Albacete,2,4
-1996-04-21,9596,SP2,Vallecano,Celta,1,3
-1996-04-21,9596,SP2,Zaragoza,La Coruna,2,3
 1996-04-27,9596,SP1,Ath Madrid,Valencia,2,3
-1996-04-27,9596,SP2,Ath Madrid,Valencia,2,3
 1996-04-28,9596,SP1,Albacete,Tenerife,0,0
 1996-04-28,9596,SP1,Celta,Real Madrid,1,1
 1996-04-28,9596,SP1,La Coruna,Vallecano,1,0
@@ -2344,19 +1176,8 @@ date,season,div,home,away,hg,ag
 1996-04-28,9596,SP1,Sociedad,Salamanca,1,0
 1996-04-28,9596,SP1,Sp Gijon,Barcelona,0,3
 1996-04-28,9596,SP1,Valladolid,Zaragoza,0,0
-1996-04-28,9596,SP2,Albacete,Tenerife,0,0
-1996-04-28,9596,SP2,Celta,Real Madrid,1,1
-1996-04-28,9596,SP2,La Coruna,Vallecano,1,0
-1996-04-28,9596,SP2,Merida,Ath Bilbao,1,0
-1996-04-28,9596,SP2,Santander,Compostela,1,0
-1996-04-28,9596,SP2,Sevilla,Betis,1,0
-1996-04-28,9596,SP2,Sociedad,Salamanca,1,0
-1996-04-28,9596,SP2,Sp Gijon,Barcelona,0,3
-1996-04-28,9596,SP2,Valladolid,Zaragoza,0,0
 1996-05-04,9596,SP1,Compostela,Ath Madrid,1,3
 1996-05-04,9596,SP1,Valencia,Sp Gijon,1,0
-1996-05-04,9596,SP2,Compostela,Ath Madrid,1,3
-1996-05-04,9596,SP2,Valencia,Sp Gijon,1,0
 1996-05-05,9596,SP1,Ath Bilbao,Albacete,2,2
 1996-05-05,9596,SP1,Barcelona,Sevilla,1,1
 1996-05-05,9596,SP1,Betis,Espanol,2,3
@@ -2366,17 +1187,7 @@ date,season,div,home,away,hg,ag
 1996-05-05,9596,SP1,Tenerife,Sociedad,1,0
 1996-05-05,9596,SP1,Vallecano,Valladolid,0,2
 1996-05-05,9596,SP1,Zaragoza,Merida,3,1
-1996-05-05,9596,SP2,Ath Bilbao,Albacete,2,2
-1996-05-05,9596,SP2,Barcelona,Sevilla,1,1
-1996-05-05,9596,SP2,Betis,Espanol,2,3
-1996-05-05,9596,SP2,Oviedo,Celta,1,1
-1996-05-05,9596,SP2,Real Madrid,La Coruna,1,0
-1996-05-05,9596,SP2,Salamanca,Santander,5,0
-1996-05-05,9596,SP2,Tenerife,Sociedad,1,0
-1996-05-05,9596,SP2,Vallecano,Valladolid,0,2
-1996-05-05,9596,SP2,Zaragoza,Merida,3,1
 1996-05-08,9596,SP1,Espanol,Oviedo,5,0
-1996-05-08,9596,SP2,Espanol,Oviedo,5,0
 1996-05-12,9596,SP1,Ath Madrid,Salamanca,2,1
 1996-05-12,9596,SP1,Celta,Betis,2,0
 1996-05-12,9596,SP1,La Coruna,Oviedo,0,4
@@ -2387,20 +1198,8 @@ date,season,div,home,away,hg,ag
 1996-05-12,9596,SP1,Sp Gijon,Compostela,2,1
 1996-05-12,9596,SP1,Valladolid,Real Madrid,0,3
 1996-05-12,9596,SP1,Zaragoza,Ath Bilbao,1,0
-1996-05-12,9596,SP2,Ath Madrid,Salamanca,2,1
-1996-05-12,9596,SP2,Celta,Betis,2,0
-1996-05-12,9596,SP2,La Coruna,Oviedo,0,4
-1996-05-12,9596,SP2,Merida,Vallecano,0,1
-1996-05-12,9596,SP2,Santander,Tenerife,1,2
-1996-05-12,9596,SP2,Sevilla,Valencia,1,2
-1996-05-12,9596,SP2,Sociedad,Albacete,8,1
-1996-05-12,9596,SP2,Sp Gijon,Compostela,2,1
-1996-05-12,9596,SP2,Valladolid,Real Madrid,0,3
-1996-05-12,9596,SP2,Zaragoza,Ath Bilbao,1,0
 1996-05-15,9596,SP1,Espanol,Barcelona,1,1
-1996-05-15,9596,SP2,Espanol,Barcelona,1,1
 1996-05-18,9596,SP1,Tenerife,Ath Madrid,1,1
-1996-05-18,9596,SP2,Tenerife,Ath Madrid,1,1
 1996-05-19,9596,SP1,Albacete,Santander,2,2
 1996-05-19,9596,SP1,Barcelona,Celta,3,2
 1996-05-19,9596,SP1,Betis,La Coruna,1,0
@@ -2411,16 +1210,6 @@ date,season,div,home,away,hg,ag
 1996-05-19,9596,SP1,Sociedad,Ath Bilbao,2,2
 1996-05-19,9596,SP1,Valencia,Espanol,1,0
 1996-05-19,9596,SP1,Vallecano,Zaragoza,4,3
-1996-05-19,9596,SP2,Albacete,Santander,2,2
-1996-05-19,9596,SP2,Barcelona,Celta,3,2
-1996-05-19,9596,SP2,Betis,La Coruna,1,0
-1996-05-19,9596,SP2,Compostela,Sevilla,0,0
-1996-05-19,9596,SP2,Oviedo,Valladolid,3,8
-1996-05-19,9596,SP2,Real Madrid,Merida,4,0
-1996-05-19,9596,SP2,Salamanca,Sp Gijon,3,0
-1996-05-19,9596,SP2,Sociedad,Ath Bilbao,2,2
-1996-05-19,9596,SP2,Valencia,Espanol,1,0
-1996-05-19,9596,SP2,Vallecano,Zaragoza,4,3
 1996-05-25,9596,SP1,Ath Bilbao,Vallecano,3,1
 1996-05-25,9596,SP1,Ath Madrid,Albacete,2,0
 1996-05-25,9596,SP1,Celta,Valencia,1,1
@@ -2430,19 +1219,8 @@ date,season,div,home,away,hg,ag
 1996-05-25,9596,SP1,Sp Gijon,Tenerife,0,2
 1996-05-25,9596,SP1,Valladolid,Betis,3,1
 1996-05-25,9596,SP1,Zaragoza,Real Madrid,0,1
-1996-05-25,9596,SP2,Ath Bilbao,Vallecano,3,1
-1996-05-25,9596,SP2,Ath Madrid,Albacete,2,0
-1996-05-25,9596,SP2,Celta,Valencia,1,1
-1996-05-25,9596,SP2,Espanol,Compostela,0,0
-1996-05-25,9596,SP2,Santander,Sociedad,2,3
-1996-05-25,9596,SP2,Sevilla,Salamanca,3,1
-1996-05-25,9596,SP2,Sp Gijon,Tenerife,0,2
-1996-05-25,9596,SP2,Valladolid,Betis,3,1
-1996-05-25,9596,SP2,Zaragoza,Real Madrid,0,1
 1996-05-26,9596,SP1,La Coruna,Barcelona,2,2
 1996-05-26,9596,SP1,Merida,Oviedo,3,1
-1996-05-26,9596,SP2,La Coruna,Barcelona,2,2
-1996-05-26,9596,SP2,Merida,Oviedo,3,1
 1996-08-31,9697,SP1,La Coruna,Real Madrid,1,1
 1996-08-31,9697,SP2,Almeria,Las Palmas,0,0
 1996-08-31,9697,SP2,Leganes,Orense,5,0

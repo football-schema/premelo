@@ -17,7 +17,7 @@ for (const season of list) {
   for (const div of DIVS) {
     const file = `cache/${season}-${div}.csv`;
     if (existsSync(file) && season !== currentSeason()) continue;
-    const url = `https://www.football-data.co.uk/mmz4281/${season}/${div}.csv`;
+    const url = `https://football-data.co.uk/mmz4281/${season}/${div}.csv`;
     const r = await fetch(url, { headers: { 'user-agent': 'premelo (Premier League Elo; github.com/football-schema/premelo)' } });
     // a season they don't have answers 404 or 300 (Serie B before 1997-98, for one)
     if (r.status === 404 || r.status === 300) { console.log(`${season} ${div}: not published`); await sleep(1000); continue; }

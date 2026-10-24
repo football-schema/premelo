@@ -1,0 +1,399 @@
+{
+ "updated": "2026-10-24T09:03:30.722Z",
+ "league": "superlig",
+ "season": "2026-27",
+ "fixtures": [
+  {
+   "kickoff": "2026-10-24T10:30:00.000Z",
+   "home": "Eyupspor",
+   "away": "Kasimpasa",
+   "homeSlug": "eyupspor",
+   "awaySlug": "kasimpasa",
+   "homeName": "Eyüpspor",
+   "awayName": "Kasımpaşa",
+   "elo": [
+    1351,
+    1455
+   ],
+   "dr": -27,
+   "H": 0.319,
+   "D": 0.281,
+   "A": 0.399,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.498,
+   "btts": 0.558,
+   "scores": [
+    [
+     "1-1",
+     0.14
+    ],
+    [
+     "0-1",
+     0.091
+    ],
+    [
+     "1-2",
+     0.085
+    ],
+    [
+     "1-0",
+     0.079
+    ],
+    [
+     "0-0",
+     0.075
+    ],
+    [
+     "2-1",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-24T13:00:00.000Z",
+   "home": "Gaziantep",
+   "away": "Erzurumspor",
+   "homeSlug": "gaziantep",
+   "awaySlug": "erzurumspor",
+   "homeName": "Gaziantep",
+   "awayName": "Erzurumspor",
+   "elo": [
+    1393,
+    1379
+   ],
+   "dr": 92,
+   "H": 0.471,
+   "D": 0.275,
+   "A": 0.253,
+   "xg": [
+    1.6,
+    1.1
+   ],
+   "O25": 0.491,
+   "btts": 0.538,
+   "scores": [
+    [
+     "1-1",
+     0.136
+    ],
+    [
+     "1-0",
+     0.103
+    ],
+    [
+     "2-1",
+     0.091
+    ],
+    [
+     "2-0",
+     0.082
+    ],
+    [
+     "0-0",
+     0.077
+    ],
+    [
+     "0-1",
+     0.071
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-24T16:00:00.000Z",
+   "home": "Samsunspor",
+   "away": "Amedspor",
+   "homeSlug": "samsunspor",
+   "awaySlug": "amedspor",
+   "homeName": "Samsunspor",
+   "awayName": "Amedspor",
+   "elo": [
+    1446,
+    1428
+   ],
+   "dr": 95,
+   "H": 0.468,
+   "D": 0.27,
+   "A": 0.262,
+   "xg": [
+    1.6,
+    1.2
+   ],
+   "O25": 0.517,
+   "btts": 0.561,
+   "scores": [
+    [
+     "1-1",
+     0.134
+    ],
+    [
+     "1-0",
+     0.095
+    ],
+    [
+     "2-1",
+     0.092
+    ],
+    [
+     "2-0",
+     0.078
+    ],
+    [
+     "0-0",
+     0.069
+    ],
+    [
+     "0-1",
+     0.067
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-25T13:00:00.000Z",
+   "home": "Konyaspor",
+   "away": "Genclerbirligi",
+   "homeSlug": "konyaspor",
+   "awaySlug": "genclerbirligi",
+   "homeName": "Konyaspor",
+   "awayName": "Gençlerbirliği",
+   "elo": [
+    1422,
+    1379
+   ],
+   "dr": 120,
+   "H": 0.497,
+   "D": 0.273,
+   "A": 0.23,
+   "xg": [
+    1.6,
+    1
+   ],
+   "O25": 0.483,
+   "btts": 0.523,
+   "scores": [
+    [
+     "1-1",
+     0.134
+    ],
+    [
+     "1-0",
+     0.109
+    ],
+    [
+     "2-1",
+     0.091
+    ],
+    [
+     "2-0",
+     0.089
+    ],
+    [
+     "0-0",
+     0.081
+    ],
+    [
+     "0-1",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-25T16:00:00.000Z",
+   "home": "Goztep",
+   "away": "Corum",
+   "homeSlug": "goztep",
+   "awaySlug": "corum",
+   "homeName": "Göztepe",
+   "awayName": "Corum",
+   "elo": [
+    1500,
+    1426
+   ],
+   "dr": 151,
+   "H": 0.548,
+   "D": 0.249,
+   "A": 0.202,
+   "xg": [
+    1.9,
+    1
+   ],
+   "O25": 0.541,
+   "btts": 0.553,
+   "scores": [
+    [
+     "1-1",
+     0.123
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "2-0",
+     0.091
+    ],
+    [
+     "0-0",
+     0.063
+    ],
+    [
+     "3-1",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-26T16:00:00.000Z",
+   "home": "Besiktas",
+   "away": "Buyuksehyr",
+   "homeSlug": "besiktas",
+   "awaySlug": "buyuksehyr",
+   "homeName": "Beşiktaş",
+   "awayName": "İstanbul Başakşehir",
+   "elo": [
+    1627,
+    1525
+   ],
+   "dr": 178,
+   "H": 0.553,
+   "D": 0.245,
+   "A": 0.201,
+   "xg": [
+    1.9,
+    1.1
+   ],
+   "O25": 0.548,
+   "btts": 0.554,
+   "scores": [
+    [
+     "1-1",
+     0.121
+    ],
+    [
+     "1-0",
+     0.096
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "2-0",
+     0.092
+    ],
+    [
+     "0-0",
+     0.061
+    ],
+    [
+     "3-1",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-26T16:00:00.000Z",
+   "home": "Rizespor",
+   "away": "Trabzonspor",
+   "homeSlug": "rizespor",
+   "awaySlug": "trabzonspor",
+   "homeName": "Rizespor",
+   "awayName": "Trabzonspor",
+   "elo": [
+    1447,
+    1618
+   ],
+   "dr": -94,
+   "H": 0.256,
+   "D": 0.264,
+   "A": 0.48,
+   "xg": [
+    1.2,
+    1.7
+   ],
+   "O25": 0.536,
+   "btts": 0.573,
+   "scores": [
+    [
+     "1-1",
+     0.13
+    ],
+    [
+     "1-2",
+     0.092
+    ],
+    [
+     "0-1",
+     0.091
+    ],
+    [
+     "0-2",
+     0.078
+    ],
+    [
+     "0-0",
+     0.065
+    ],
+    [
+     "2-1",
+     0.064
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-26T18:30:00.000Z",
+   "home": "Galatasaray",
+   "away": "Fenerbahce",
+   "homeSlug": "galatasaray",
+   "awaySlug": "fenerbahce",
+   "homeName": "Galatasaray",
+   "awayName": "Fenerbahçe",
+   "elo": [
+    1724,
+    1720
+   ],
+   "dr": 81,
+   "H": 0.456,
+   "D": 0.264,
+   "A": 0.281,
+   "xg": [
+    1.7,
+    1.3
+   ],
+   "O25": 0.555,
+   "btts": 0.594,
+   "scores": [
+    [
+     "1-1",
+     0.128
+    ],
+    [
+     "2-1",
+     0.089
+    ],
+    [
+     "1-0",
+     0.083
+    ],
+    [
+     "2-0",
+     0.07
+    ],
+    [
+     "1-2",
+     0.068
+    ],
+    [
+     "0-1",
+     0.063
+    ]
+   ]
+  }
+ ]
+}
