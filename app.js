@@ -129,10 +129,10 @@ async function viewEurope() {
   const avg = LEAGUES.map((l, i) => [l, Math.round(all[i].reduce((t, c) => t + c.elo, 0) / all[i].length)]).sort((a, b) => b[1] - a[1]);
   $('main').innerHTML = `<h1>Europe</h1>
     <p class="sub">Every top-division club of the ${LEAGUES.length} leagues on one scale. What sets one country against another is the ${eu.matches.toLocaleString()} European cup matches since ${eu.from.slice(0, 4)} (Champions League, UEFA Cup / Europa League and Conference League, qualifiers included): each result moves the clubs that played and, a little, their whole league.</p>
-    <div class="card"><h2>League strength</h2><table><tr><th>League</th><th class="n">Average top-division Elo</th></tr>${avg.map(([l, a]) => `<tr><td><a href="${home(l.id)}">${esc(l.name)}</a></td><td class="n"><b>${a}</b></td></tr>`).join('')}</table></div>
     <div class="card"><table><tr><th class="n">#</th><th>Club</th><th class="hide-s">League</th><th class="n">Elo</th><th class="n">30 days</th><th class="hide-s">Last 20</th></tr>
     ${clubs.map((c, i) => `<tr><td class="n muted">${i + 1}</td><td><a href="#/${c.league}/club/${c.slug}">${esc(c.name)}</a></td><td class="hide-s muted">${esc(c.leagueName)}</td><td class="n"><b>${c.elo}</b></td>
-      <td class="n ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-s">${spark(c.spark)}</td></tr>`).join('')}</table></div>`;
+      <td class="n ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-s">${spark(c.spark)}</td></tr>`).join('')}</table></div>
+    <div class="card"><h2>League strength</h2><table><tr><th>League</th><th class="n">Average top-division Elo</th></tr>${avg.map(([l, a]) => `<tr><td><a href="${home(l.id)}">${esc(l.name)}</a></td><td class="n"><b>${a}</b></td></tr>`).join('')}</table></div>`;
 }
 
 async function viewMethod() {
