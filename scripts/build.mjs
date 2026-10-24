@@ -124,6 +124,19 @@ europeFixtures.sort((a, b) => a.kickoff.localeCompare(b.kickoff));
 writeFileSync('data/europe-fixtures.json', JSON.stringify({ updated: new Date().toISOString(), fixtures: europeFixtures }, null, 1) + '\n');
 console.log(`Europe: ${europeFixtures.length} coming matches priced`);
 
+// the week's movers: every top-division club's rating now against seven days before its league's latest result
+const moves = [];
+for (const [id, l] of Object.entries(LEAGUES)) {
+  const r = JSON.parse(readFileSync(`data/${id}/ratings.json`, 'utf8')), weekAgo = new Date(Date.parse(r.through) - 7 * 86400000).toISOString().slice(0, 10);
+  for (const c of r.clubs.filter((c) => c.div === 'top')) {
+    const h = history.get(c.club); let before = null;
+    for (const x of h) { if (x[0] > weekAgo) break; before = x[1]; }
+    if (before != null && h.at(-1)[0] > weekAgo) moves.push({ league: id, leagueName: l.name, slug: c.slug, name: c.name, elo: c.elo, change: c.elo - before });
+  }
+}
+moves.sort((a, b) => b.change - a.change);
+writeFileSync('data/movers.json', JSON.stringify({ updated: new Date().toISOString(), up: moves.slice(0, 10), down: moves.slice(-10).reverse() }, null, 1) + '\n');
+
 const tops = [];
 for (const id of Object.keys(LEAGUES)) for (const c of JSON.parse(readFileSync(`data/${id}/ratings.json`, 'utf8')).clubs) if (c.div === 'top') tops.push({ ...c, leagueName: LEAGUES[id].name });
 writeCard({ through: index.map((l) => l.through).sort().at(-1), clubs: tops.sort((a, b) => b.elo - a.elo) });

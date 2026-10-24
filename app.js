@@ -163,6 +163,27 @@ async function viewEurope() {
   $('showAll')?.addEventListener('click', () => { showAll = true; viewEurope(); });
 }
 
+// this week: how premelo did this season (settings frozen since 2012), the week's upsets and movers, and every result
+async function viewWeek() {
+  const [sc, mv] = await Promise.all([get('data/scorecard.json'), get('data/movers.json')]);
+  const name = (id) => LEAGUES.find((l) => l.id === id)?.name ?? id;
+  const link = (lg, sl, n) => `<a href="#/${lg}/club/${sl}">${esc(n)}</a>`;
+  const main = sc.leagues.filter((l) => !l.extra && l.withOdds), n = main.reduce((t, l) => t + l.withOdds, 0);
+  const w = (k) => main.reduce((t, l) => t + l[k].logloss * l.withOdds, 0) / n;
+  const result = (r) => `<tr><td class="muted small">${new Date(r.date).toLocaleDateString(undefined, { day: 'numeric', month: 'short' })}<br>${esc(name(r.league))}</td><td class="h">${link(r.league, r.homeSlug, r.homeName)}</td><td class="n"><b>${r.hg}-${r.ag}</b></td><td>${link(r.league, r.awaySlug, r.awayName)}</td><td style="width:180px">${bar({ homeName: r.homeName, awayName: r.awayName, H: r.p[0], D: r.p[1], A: r.p[2] })}</td><td class="n ${r.chance < 0.25 ? 'down' : 'muted'}">${pct(r.chance)}%</td></tr>`;
+  const mover = (m) => `<tr><td>${link(m.league, m.slug, m.name)}<div class="muted small">${esc(m.leagueName)}</div></td><td class="n">${m.elo}</td><td class="n ${m.change > 0 ? 'up' : 'down'}">${signed(m.change)}</td></tr>`;
+  $('main').innerHTML = `<h1>This week</h1>
+    <p class="sub">How premelo did, from ${new Date(sc.week.from).toLocaleDateString(undefined, { day: 'numeric', month: 'long' })} to ${new Date(sc.week.to).toLocaleDateString(undefined, { day: 'numeric', month: 'long', year: 'numeric' })}. Every prediction here was made from the ratings before the match, with settings frozen at the end of ${esc(sc.frozen)}: nothing was tuned on this season.</p>
+    <div class="card"><h2>This season so far</h2>
+    <div class="stats"><div><b>${w('modelOnOdds').toFixed(3)}</b>premelo log loss</div><div><b>${w('market').toFixed(3)}</b>closing odds</div><div><b>${n.toLocaleString()}</b>matches</div></div>
+    <table><tr><th>League</th><th class="n">Matches</th><th class="n hide-s">Favourite won</th><th class="n">premelo</th><th class="n">Closing odds</th></tr>
+    ${sc.leagues.filter((l) => l.matches).map((l) => `<tr><td>${esc(l.name)}${l.extra ? ' <span class="muted small">(settings from all seasons)</span>' : ''}</td><td class="n">${l.matches}</td><td class="n hide-s">${pct(l.called / l.matches)}%</td><td class="n ${l.modelOnOdds && l.market && l.modelOnOdds.logloss < l.market.logloss ? 'up' : ''}">${l.modelOnOdds?.logloss.toFixed(3) ?? '–'}</td><td class="n">${l.market?.logloss.toFixed(3) ?? '–'}</td></tr>`).join('')}</table>
+    <p class="small muted" style="margin:10px 0 0">Log loss: lower is better. Green where premelo beat the closing odds. "Favourite won": how often the result premelo rated likeliest happened.</p></div>
+    <div class="card"><h2>Upsets</h2><p class="small muted" style="margin:0 0 8px">The week's results premelo rated least likely, with the chance it gave them.</p><table>${sc.upsets.map(result).join('')}</table></div>
+    <div class="cols"><div class="card"><h2>Up</h2><table>${mv.up.map(mover).join('')}</table></div><div class="card"><h2>Down</h2><table>${mv.down.map(mover).join('')}</table></div></div>
+    <div class="card"><h2>Every result this week</h2><table>${sc.recent.map(result).join('')}</table></div>`;
+}
+
 // any two clubs: their chances three ways (each at home, and at a neutral ground), their ratings over time, their meetings
 let EUROPE = null;
 async function viewH2H(a = 'pl:arsenal', b = 'laliga:barcelona') {
@@ -250,7 +271,7 @@ async function viewMethod() {
 function nav(page) {
   $('leagues').innerHTML = `<a href="#/europe" class="${page === 'europe' ? 'on' : ''}">Europe</a>` + LEAGUES.map((l) => `<a href="${page === 'method' ? `#/method/${l.id}` : page === 'fixtures' ? `#/${l.id}/fixtures` : home(l.id)}" class="${l.id === league && page !== 'europe' ? 'on' : ''}${l.extra ? ' minor' : ''}" title="${esc(l.name)}">${esc(l.short ?? l.name)}</a>`).join('');
   const eu = page === 'europe', euFx = eu && location.hash.endsWith('/fixtures');
-  $('nav').innerHTML = `<a href="${eu ? '#/europe' : home()}" class="${(page === 'table' || page === 'club' || (eu && !euFx)) ? 'on' : ''}">Table</a><a href="${eu ? '#/europe/fixtures' : `#/${league}/fixtures`}" class="${page === 'fixtures' || euFx ? 'on' : ''}">Fixtures</a><a href="#/h2h" class="${page === 'h2h' ? 'on' : ''}">Compare</a><a href="#/method/${league}" class="${page === 'method' ? 'on' : ''}">Method</a>`;
+  $('nav').innerHTML = `<a href="${eu ? '#/europe' : home()}" class="${(page === 'table' || page === 'club' || (eu && !euFx)) ? 'on' : ''}">Table</a><a href="${eu ? '#/europe/fixtures' : `#/${league}/fixtures`}" class="${page === 'fixtures' || euFx ? 'on' : ''}">Fixtures</a><a href="#/week" class="${page === 'week' ? 'on' : ''}">This week</a><a href="#/h2h" class="${page === 'h2h' ? 'on' : ''}">Compare</a><a href="#/method/${league}" class="${page === 'method' ? 'on' : ''}">Method</a>`;
 }
 
 async function route() {
@@ -259,6 +280,7 @@ async function route() {
   if (parts[0] === 'method') { league = LEAGUES.some((l) => l.id === parts[1]) ? parts[1] : league; parts = ['method']; }
   else if (parts[0] === 'europe') parts = ['europe', parts[1]];
   else if (parts[0] === 'h2h') parts = ['h2h', parts[1], parts[2]];
+  else if (parts[0] === 'week') parts = ['week'];
   else if (LEAGUES.some((l) => l.id === parts[0])) league = parts.shift();
   else league = 'pl';
   const [page = 'table', arg] = parts;
@@ -269,6 +291,7 @@ async function route() {
     else if (page === 'method') await viewMethod();
     else if (page === 'europe') await (arg === 'fixtures' ? viewEuropeFixtures() : viewEurope());
     else if (page === 'h2h') await viewH2H(parts[1], parts[2]);
+    else if (page === 'week') await viewWeek();
     else if (page === 'club' && arg) await viewClub(arg);
     else await viewTable();
   } catch (e) { $('main').innerHTML = `<p class="pad muted">Couldn't load: ${esc(e.message)}</p>`; }

@@ -21,6 +21,7 @@ import { run, runAll } from '../lib/elo.mjs';
 import { run as runAttack } from '../lib/attack.mjs';
 import { table, x12 } from '../lib/goals.mjs';
 import { LEAGUES, IDS, load } from '../lib/leagues.mjs';
+import { display, slug } from '../lib/teams.mjs';
 
 const FROM = 2000, HOLD = 2012; // first season scored; first season of the holdout, by the year each starts
 const year = (code) => { const y = Number(code.slice(0, 2)); return y >= 90 ? 1900 + y : 2000 + y; };
@@ -160,6 +161,32 @@ for (const id of IDS) {
   summary.push({ id, name: league.name, test, all: inSample });
   console.log(`${league.name.padEnd(21)} holdout ${test ? `${test.model.logloss} (Elo ${test.elo.logloss}) v market ${test.market.logloss}` : '—'} · in-sample ${inSample.model.logloss} v ${inSample.market.logloss} · ${ro.length} matches`);
 }
+// this season's scorecard: every top-division match so far, predicted from the ratings before it with the settings frozen
+// at the end of 2011-12 (params-holdout.json), so nothing was tuned on this season; against the results and the closing
+// prices (only the scores are published, never the prices). With the last week's results, each with the chance premelo
+// gave it, and the upsets: the results it thought least likely.
+if (held) {
+  const outcomeName = ['home win', 'draw', 'away win'], sc = { updated: new Date().toISOString(), frozen: `${HOLD - 1}-${String(HOLD).slice(2)}`, leagues: [], recent: [] };
+  const latest = held.pl.reduce((d, r) => (r.m.date > d ? r.m.date : d), '');
+  const weekAgo = new Date(Date.parse(latest) - 7 * 86400000).toISOString().slice(0, 10);
+  for (const id of IDS) {
+    const league = LEAGUES[id], hs = held[id];
+    if (!hs.length) continue;
+    const now = hs.reduce((a, r) => (year(r.m.season) > year(a) ? r.m.season : a), hs[0].m.season); // the season under way
+    const season = hs.filter((r) => r.m.season === now), wo = season.filter((r) => r.m.odds);
+    const right = season.filter((r) => r.model.indexOf(Math.max(...r.model)) === r.o).length;
+    sc.leagues.push({ id, name: league.name, extra: !!league.extra, season: label(now), matches: season.length, called: right,
+      model: season.length ? scores(season, model) : null, market: wo.length ? scores(wo, market) : null, withOdds: wo.length, modelOnOdds: wo.length ? scores(wo, model) : null });
+    for (const r of season.filter((r) => r.m.date > weekAgo)) sc.recent.push({ date: r.m.date, league: id, home: r.m.home, away: r.m.away, homeName: display(r.m.home), awayName: display(r.m.away), homeSlug: slug(r.m.home), awaySlug: slug(r.m.away), hg: r.m.hg, ag: r.m.ag, p: r.model.map((x) => +x.toFixed(3)), result: outcomeName[r.o], chance: +r.model[r.o].toFixed(3) });
+  }
+  sc.recent.sort((a, b) => b.date.localeCompare(a.date) || a.chance - b.chance);
+  sc.upsets = [...sc.recent].sort((a, b) => a.chance - b.chance).slice(0, 10);
+  sc.week = { from: weekAgo, to: latest };
+  writeFileSync('data/scorecard.json', JSON.stringify(sc, null, 1) + '\n');
+  const s1 = sc.leagues.filter((l) => !l.extra && l.withOdds), n = s1.reduce((t, l) => t + l.withOdds, 0);
+  console.log(`This season so far: log loss ${(s1.reduce((t, l) => t + l.modelOnOdds.logloss * l.withOdds, 0) / n).toFixed(4)} v closing odds ${(s1.reduce((t, l) => t + l.market.logloss * l.withOdds, 0) / n).toFixed(4)} over ${n} matches; ${sc.recent.length} results in the last week`);
+}
+
 const te = table(euGoals), eu = rows.EU;
 const freq = [eu.filter((r) => r.o === 0).length, eu.filter((r) => r.o === 1).length, eu.filter((r) => r.o === 2).length].map((n) => n / eu.length);
 writeFileSync('data/europe.json', JSON.stringify({ updated: new Date().toISOString().slice(0, 10), matches: eu.length, from: eu[0]?.m.date, model: scores(eu, (r) => te(r.dr)), baseline: scores(eu, () => freq), params: params.europe }, null, 1) + '\n');

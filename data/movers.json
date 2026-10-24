@@ -1,0 +1,167 @@
+{
+ "updated": "2026-10-24T10:21:40.088Z",
+ "up": [
+  {
+   "league": "superleague",
+   "leagueName": "Super League",
+   "slug": "kalamata",
+   "name": "Kalamata",
+   "elo": 1222,
+   "change": 48
+  },
+  {
+   "league": "switzerland",
+   "leagueName": "Swiss Super League",
+   "slug": "lugano",
+   "name": "Lugano",
+   "elo": 1625,
+   "change": 41
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "club-brugge",
+   "name": "Club Brugge",
+   "elo": 1836,
+   "change": 39
+  },
+  {
+   "league": "laliga",
+   "leagueName": "La Liga",
+   "slug": "sociedad",
+   "name": "Real Sociedad",
+   "elo": 1736,
+   "change": 31
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "trabzonspor",
+   "name": "Trabzonspor",
+   "elo": 1620,
+   "change": 31
+  },
+  {
+   "league": "laliga",
+   "leagueName": "La Liga",
+   "slug": "celta",
+   "name": "Celta Vigo",
+   "elo": 1721,
+   "change": 30
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "anderlecht",
+   "name": "Anderlecht",
+   "elo": 1635,
+   "change": 30
+  },
+  {
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "ajax",
+   "name": "Ajax",
+   "elo": 1682,
+   "change": 29
+  },
+  {
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "nijmegen",
+   "name": "NEC",
+   "elo": 1556,
+   "change": 29
+  },
+  {
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "zwolle",
+   "name": "Zwolle",
+   "elo": 1426,
+   "change": 27
+  }
+ ],
+ "down": [
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "juventus",
+   "name": "Juventus",
+   "elo": 1792,
+   "change": -38
+  },
+  {
+   "league": "ligue1",
+   "leagueName": "Ligue 1",
+   "slug": "lille",
+   "name": "Lille",
+   "elo": 1729,
+   "change": -32
+  },
+  {
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "st-patricks",
+   "name": "St. Patricks",
+   "elo": 1316,
+   "change": -31
+  },
+  {
+   "league": "superleague",
+   "leagueName": "Super League",
+   "slug": "paok",
+   "name": "PAOK",
+   "elo": 1601,
+   "change": -29
+  },
+  {
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "shamrock-rovers",
+   "name": "Shamrock Rovers",
+   "elo": 1320,
+   "change": -27
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "udinese",
+   "name": "Udinese",
+   "elo": 1613,
+   "change": -27
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "napoli",
+   "name": "Napoli",
+   "elo": 1791,
+   "change": -27
+  },
+  {
+   "league": "ligue1",
+   "leagueName": "Ligue 1",
+   "slug": "lens",
+   "name": "Lens",
+   "elo": 1746,
+   "change": -25
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "cagliari",
+   "name": "Cagliari",
+   "elo": 1608,
+   "change": -25
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "atalanta",
+   "name": "Atalanta",
+   "elo": 1756,
+   "change": -25
+  }
+ ]
+}
