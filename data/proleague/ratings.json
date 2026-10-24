@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.687Z",
+ "updated": "2026-10-24T12:44:23.625Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-10-11",
@@ -42,7 +42,48 @@
    "elo": 1836,
    "change30": 51,
    "played": 11,
-   "form": "WWWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Gent",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "W",
+     "opp": "Lommel SK",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Antwerp",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Genk",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "RAAL La Louviere",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1786,
     1780,
@@ -75,7 +116,48 @@
    "elo": 1803,
    "change30": 33,
    "played": 13,
-   "form": "WWDDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Sint-Truiden",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "W",
+     "opp": "Charleroi",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Lommel SK",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Antwerp",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "OH Leuven",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1772,
     1779,
@@ -108,7 +190,48 @@
    "elo": 1635,
    "change30": 35,
    "played": 17,
-   "form": "LWWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Kortrijk",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-03"
+    },
+    {
+     "r": "D",
+     "opp": "Genk",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Mechelen",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Waregem",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Cercle Brugge",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1555,
     1565,
@@ -141,7 +264,48 @@
    "elo": 1630,
    "change30": 8,
    "played": 8,
-   "form": "WDDLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Beveren",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-08-28"
+    },
+    {
+     "r": "D",
+     "opp": "Anderlecht",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Gent",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Club Brugge",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Kortrijk",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1626,
     1623,
@@ -174,7 +338,48 @@
    "elo": 1602,
    "change30": 28,
    "played": 16,
-   "form": "DWWWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "OH Leuven",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-03"
+    },
+    {
+     "r": "W",
+     "opp": "Cercle Brugge",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Genk",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Standard Liège",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Waregem",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1526,
     1528,
@@ -207,7 +412,48 @@
    "elo": 1598,
    "change30": 31,
    "played": 8,
-   "form": "WLWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Kortrijk",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Union Saint-Gilloise",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Waregem",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Cercle Brugge",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Standard Liège",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1518,
     1508,
@@ -240,7 +486,48 @@
    "elo": 1570,
    "change30": -12,
    "played": 12,
-   "form": "LLLWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Union Saint-Gilloise",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "W",
+     "opp": "RAAL La Louviere",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Beveren",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Westerlo",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Mechelen",
+     "gf": 3,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1552,
     1563,
@@ -273,7 +560,48 @@
    "elo": 1551,
    "change30": 54,
    "played": 8,
-   "form": "DWWWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Waregem",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "W",
+     "opp": "Mechelen",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Standard Liège",
+     "gf": 4,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Sint-Truiden",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Antwerp",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1513,
     1512,
@@ -306,7 +634,48 @@
    "elo": 1540,
    "change30": -12,
    "played": 8,
-   "form": "WWLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "OH Leuven",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "W",
+     "opp": "Antwerp",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Westerlo",
+     "gf": 2,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Gent",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Charleroi",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1501,
     1498,
@@ -339,7 +708,48 @@
    "elo": 1510,
    "change30": -9,
    "played": 8,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Sint-Truiden",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "L",
+     "opp": "Standard Liège",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Club Brugge",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Union Saint-Gilloise",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Westerlo",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1545,
     1535,
@@ -372,7 +782,48 @@
    "elo": 1494,
    "change30": -14,
    "played": 8,
-   "form": "DWLLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Westerlo",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "W",
+     "opp": "Kortrijk",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Charleroi",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Anderlecht",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Gent",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1435,
     1430,
@@ -405,7 +856,48 @@
    "elo": 1490,
    "change30": 22,
    "played": 8,
-   "form": "DLLDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "RAAL La Louviere",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Westerlo",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Anderlecht",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Lommel SK",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Sint-Truiden",
+     "gf": 4,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1544,
     1537,
@@ -438,7 +930,48 @@
    "elo": 1471,
    "change30": 4,
    "played": 8,
-   "form": "LLDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Lommel SK",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Gent",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "OH Leuven",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Charleroi",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Anderlecht",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1485,
     1499,
@@ -471,7 +1004,48 @@
    "elo": 1450,
    "change30": 28,
    "played": 8,
-   "form": "LLDWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Gent",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-03"
+    },
+    {
+     "r": "L",
+     "opp": "Beveren",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Cercle Brugge",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "RAAL La Louviere",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Union Saint-Gilloise",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1471,
     1475,
@@ -504,7 +1078,48 @@
    "elo": 1430,
    "change30": 24,
    "played": 8,
-   "form": "WLLDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Cercle Brugge",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Club Brugge",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Union Saint-Gilloise",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Mechelen",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Beveren",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-09"
+    }
+   ],
    "spark": [
     1379,
     1375,
@@ -525,7 +1140,48 @@
    "elo": 1406,
    "change30": 10,
    "played": 8,
-   "form": "DLWLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Mechelen",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Sint-Truiden",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Kortrijk",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "OH Leuven",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Club Brugge",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1408,
     1412,
@@ -558,7 +1214,48 @@
    "elo": 1394,
    "change30": 8,
    "played": 8,
-   "form": "LWWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Genk",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-08-28"
+    },
+    {
+     "r": "W",
+     "opp": "OH Leuven",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Sint-Truiden",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Kortrijk",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Lommel SK",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-09"
+    }
+   ],
    "spark": [
     1254,
     1245,
@@ -591,7 +1288,48 @@
    "elo": 1353,
    "change30": 5,
    "played": 8,
-   "form": "LLLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Anderlecht",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-03"
+    },
+    {
+     "r": "L",
+     "opp": "Waregem",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "RAAL La Louviere",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Beveren",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Genk",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1338,
     1329,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.669Z",
+ "updated": "2026-10-24T12:44:23.606Z",
  "league": "ligue1",
  "name": "Ligue 1",
  "through": "2026-10-19",
@@ -42,7 +42,48 @@
    "elo": 2049,
    "change30": 25,
    "played": 10,
-   "form": "WWWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Monaco",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Brest",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Olympique de Marseille",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Le Mans",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Strasbourg",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     2045,
     2046,
@@ -75,7 +116,48 @@
    "elo": 1783,
    "change30": -3,
    "played": 11,
-   "form": "WDWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Paris Saint-Germain",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Strasbourg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Lens",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Toulouse",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Lorient",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1770,
     1775,
@@ -108,7 +190,48 @@
    "elo": 1758,
    "change30": -20,
    "played": 14,
-   "form": "WLWWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Auxerre",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Paris FC",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Rennes",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Lens",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Nice",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1770,
     1789,
@@ -141,7 +264,48 @@
    "elo": 1746,
    "change30": -19,
    "played": 10,
-   "form": "LWLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Lorient",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Le Mans",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Monaco",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Olympique Lyonnais",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Troyes",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1784,
     1778,
@@ -174,7 +338,48 @@
    "elo": 1732,
    "change30": -4,
    "played": 10,
-   "form": "LWWLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Angers",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Olympique de Marseille",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Olympique Lyonnais",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Auxerre",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Paris FC",
+     "gf": 3,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1731,
     1726,
@@ -207,7 +412,48 @@
    "elo": 1729,
    "change30": -42,
    "played": 10,
-   "form": "LWLDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Toulouse",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-03"
+    },
+    {
+     "r": "W",
+     "opp": "Troyes",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Nice",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Le Havre",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Brest",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1749,
     1747,
@@ -240,7 +486,48 @@
    "elo": 1695,
    "change30": -14,
    "played": 10,
-   "form": "LWLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Paris FC",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Rennes",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Paris Saint-Germain",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Troyes",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Angers",
+     "gf": 5,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1771,
     1777,
@@ -273,7 +560,48 @@
    "elo": 1693,
    "change30": -19,
    "played": 7,
-   "form": "WDLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Troyes",
+     "gf": 6,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Monaco",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Paris FC",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Nice",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Paris Saint-Germain",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1724,
     1728,
@@ -306,7 +634,48 @@
    "elo": 1658,
    "change30": 6,
    "played": 7,
-   "form": "LDWDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Lille",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-03"
+    },
+    {
+     "r": "D",
+     "opp": "Lorient",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Le Havre",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Monaco",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Le Mans",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1664,
     1658,
@@ -339,7 +708,48 @@
    "elo": 1638,
    "change30": -5,
    "played": 7,
-   "form": "WLLWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Le Havre",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Paris Saint-Germain",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Auxerre",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Angers",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Lille",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1670,
     1679,
@@ -372,7 +782,48 @@
    "elo": 1638,
    "change30": 9,
    "played": 7,
-   "form": "WDLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Lens",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Toulouse",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Le Mans",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Paris FC",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Monaco",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1636,
     1634,
@@ -405,7 +856,48 @@
    "elo": 1637,
    "change30": -5,
    "played": 7,
-   "form": "WDWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Olympique de Marseille",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Olympique Lyonnais",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Strasbourg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Lorient",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Rennes",
+     "gf": 4,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1542,
     1542,
@@ -438,7 +930,48 @@
    "elo": 1604,
    "change30": 2,
    "played": 7,
-   "form": "LWWLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Olympique Lyonnais",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Nice",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Brest",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Rennes",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Le Havre",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1584,
     1571,
@@ -471,7 +1004,48 @@
    "elo": 1582,
    "change30": 5,
    "played": 7,
-   "form": "DLWWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Le Mans",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Auxerre",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Lille",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Strasbourg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Olympique Lyonnais",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1610,
     1606,
@@ -504,7 +1078,48 @@
    "elo": 1564,
    "change30": -2,
    "played": 9,
-   "form": "DWDDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Guingamp",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Nancy",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Montpellier",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Nantes",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Dijon",
+     "gf": 4,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1565,
     1566,
@@ -537,7 +1152,48 @@
    "elo": 1540,
    "change30": 7,
    "played": 9,
-   "form": "WLDWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Montpellier",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Dunkerque",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Metz",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Rodez",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Red Star",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1517,
     1528,
@@ -570,7 +1226,48 @@
    "elo": 1537,
    "change30": -20,
    "played": 7,
-   "form": "LDLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Brest",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Angers",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Toulouse",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Lille",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Auxerre",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1576,
     1562,
@@ -603,7 +1300,48 @@
    "elo": 1531,
    "change30": -23,
    "played": 7,
-   "form": "LDWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Rennes",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Le Havre",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Troyes",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Brest",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Olympique de Marseille",
+     "gf": 2,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1564,
     1556,
@@ -636,7 +1374,48 @@
    "elo": 1499,
    "change30": 13,
    "played": 9,
-   "form": "LWDWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Saint-Étienne",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Pau FC",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Reims",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Grenoble",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Rodez",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1465,
     1468,
@@ -669,7 +1448,48 @@
    "elo": 1488,
    "change30": -16,
    "played": 9,
-   "form": "WLWDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Nancy",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "L",
+     "opp": "Sochaux",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Boulogne",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Reims",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Dunkerque",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1535,
     1528,
@@ -702,7 +1522,48 @@
    "elo": 1486,
    "change30": -18,
    "played": 7,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Strasbourg",
+     "gf": 2,
+     "ga": 6,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Lille",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Angers",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Olympique de Marseille",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Lens",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1469,
     1468,
@@ -735,7 +1596,48 @@
    "elo": 1479,
    "change30": -16,
    "played": 9,
-   "form": "WLDLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Rodez",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Red Star",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "Saint-Étienne",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Dijon",
+     "gf": 2,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Sochaux",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1519,
     1516,
@@ -768,7 +1670,48 @@
    "elo": 1469,
    "change30": -16,
    "played": 7,
-   "form": "DDWLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Nice",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Lens",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Lorient",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Paris Saint-Germain",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Toulouse",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1427,
     1419,
@@ -801,7 +1744,48 @@
    "elo": 1442,
    "change30": -6,
    "played": 9,
-   "form": "WWWWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Laval",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Metz",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Guingamp",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Clermont",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Saint-Étienne",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1400,
     1401,
@@ -834,7 +1818,48 @@
    "elo": 1441,
    "change30": -9,
    "played": 9,
-   "form": "WLLWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Grenoble",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Guingamp",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Dijon",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Dunkerque",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Nancy",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1442,
     1454,
@@ -867,7 +1892,48 @@
    "elo": 1432,
    "change30": -26,
    "played": 9,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Metz",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Grenoble",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Nancy",
+     "gf": 3,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Saint-Étienne",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Montpellier",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1439,
     1443,
@@ -900,7 +1966,48 @@
    "elo": 1405,
    "change30": -4,
    "played": 9,
-   "form": "DWLLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Clermont",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Saint-Étienne",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Pau FC",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Annecy",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Nantes",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1465,
     1459,
@@ -933,7 +2040,48 @@
    "elo": 1378,
    "change30": 8,
    "played": 9,
-   "form": "DLWWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Sochaux",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Montpellier",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Dunkerque",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Laval",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Guingamp",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1393,
     1385,
@@ -966,7 +2114,48 @@
    "elo": 1375,
    "change30": -21,
    "played": 9,
-   "form": "DWLLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Reims",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Annecy",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Red Star",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Nancy",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Pau FC",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1444,
     1444,
@@ -999,7 +2188,48 @@
    "elo": 1373,
    "change30": -12,
    "played": 9,
-   "form": "DDDLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Dunkerque",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Boulogne",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Grenoble",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Red Star",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Laval",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1394,
     1404,
@@ -1032,7 +2262,48 @@
    "elo": 1370,
    "change30": 10,
    "played": 9,
-   "form": "LLWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Nantes",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "L",
+     "opp": "Reims",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Rodez",
+     "gf": 4,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Guingamp",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Annecy",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1334,
     1337,
@@ -1065,7 +2336,48 @@
    "elo": 1369,
    "change30": -27,
    "played": 9,
-   "form": "LWDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Annecy",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Rodez",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Clermont",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Montpellier",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Boulogne",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1388,
     1388,
@@ -1098,7 +2410,48 @@
    "elo": 1348,
    "change30": 3,
    "played": 9,
-   "form": "DWWWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Boulogne",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Laval",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Annecy",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Metz",
+     "gf": 4,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Reims",
+     "gf": 2,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1332,
     1327,
@@ -1131,7 +2484,48 @@
    "elo": 1345,
    "change30": 9,
    "played": 9,
-   "form": "DDLDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Dijon",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Clermont",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Nantes",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Sochaux",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Grenoble",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1347,
     1351,
@@ -1164,7 +2558,48 @@
    "elo": 1340,
    "change30": -12,
    "played": 9,
-   "form": "LLDLD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Red Star",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Dijon",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Sochaux",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Pau FC",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Clermont",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1354,
     1354,
@@ -1197,7 +2632,48 @@
    "elo": 1338,
    "change30": -11,
    "played": 9,
-   "form": "DWDDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Pau FC",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Nantes",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Laval",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Boulogne",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Metz",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1479,
     1471,

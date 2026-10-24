@@ -70,7 +70,8 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   const ratingOn = (h, date) => { let r = null; for (const x of h) { if (x[0] > date) break; r = x[1]; } return r; };
   const clubs = [...divisions].map(([club, div]) => {
     const h = history.get(club), played = h.filter((x) => x[0] >= seasonStart).length;
-    const form = h.slice(-5).map((x) => (x[3] > x[4] ? 'W' : x[3] === x[4] ? 'D' : 'L')).join('');
+    // form: the last five league matches only (a league table's readers take it as league form), oldest first
+    const form = h.filter((x) => league.divs.includes(x[6])).slice(-5).map((x) => ({ r: x[3] > x[4] ? 'W' : x[3] === x[4] ? 'D' : 'L', opp: display(x[2]), gf: x[3], ga: x[4], ha: x[5], date: x[0] }));
     const before = ratingOn(h, monthAgo) ?? h[0][1];
     return { club, name: display(club), slug: slug(club), div: div === top ? 'top' : 'second', elo: Math.round(ratings.get(club)), change30: Math.round(ratings.get(club) - before), played, form, spark: h.slice(-20).map((x) => x[1]) };
   }).sort((a, b) => b.elo - a.elo);

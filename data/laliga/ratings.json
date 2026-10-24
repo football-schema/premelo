@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.631Z",
+ "updated": "2026-10-24T12:44:23.564Z",
  "league": "laliga",
  "name": "La Liga",
  "through": "2026-10-21",
@@ -42,7 +42,48 @@
    "elo": 2026,
    "change30": 15,
    "played": 12,
-   "form": "WWWWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Levante",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Racing Santander",
+     "gf": 7,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-16"
+    },
+    {
+     "r": "W",
+     "opp": "Sevilla",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Getafe",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Real Betis",
+     "gf": 5,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     2009,
     1998,
@@ -75,7 +116,48 @@
    "elo": 2015,
    "change30": 26,
    "played": 12,
-   "form": "LWWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Rayo Vallecano",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Elche",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "L",
+     "opp": "Atlético Madrid",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Villarreal",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Sevilla",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1999,
     1988,
@@ -108,7 +190,48 @@
    "elo": 1916,
    "change30": 28,
    "played": 12,
-   "form": "WWWWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Real Sociedad",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Osasuna",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-16"
+    },
+    {
+     "r": "W",
+     "opp": "Real Madrid",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Alavés",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Espanyol",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1893,
     1897,
@@ -141,7 +264,48 @@
    "elo": 1797,
    "change30": 20,
    "played": 12,
-   "form": "DWWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Villarreal",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Getafe",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-17"
+    },
+    {
+     "r": "D",
+     "opp": "Deportivo La Coruña",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Osasuna",
+     "gf": 5,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Barcelona",
+     "gf": 2,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1743,
     1744,
@@ -174,7 +338,48 @@
    "elo": 1768,
    "change30": 17,
    "played": 12,
-   "form": "WLWDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Real Betis",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Málaga",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-17"
+    },
+    {
+     "r": "W",
+     "opp": "Levante",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Real Madrid",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Elche",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1775,
     1761,
@@ -207,7 +412,48 @@
    "elo": 1736,
    "change30": 33,
    "played": 12,
-   "form": "WWDWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Elche",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "L",
+     "opp": "Atlético Madrid",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Valencia",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Deportivo La Coruña",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Málaga",
+     "gf": 5,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1738,
     1718,
@@ -240,7 +486,48 @@
    "elo": 1724,
    "change30": 5,
    "played": 8,
-   "form": "WDDDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Atlético Madrid",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Elche",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Alavés",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Valencia",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    },
+    {
+     "r": "L",
+     "opp": "Levante",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-21"
+    }
+   ],
    "spark": [
     1745,
     1743,
@@ -273,7 +560,48 @@
    "elo": 1721,
    "change30": 31,
    "played": 12,
-   "form": "WDWWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Getafe",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "Málaga",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Racing Santander",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Elche",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Alavés",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1706,
     1705,
@@ -306,7 +634,48 @@
    "elo": 1699,
    "change30": 12,
    "played": 8,
-   "form": "WLWDD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Racing Santander",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Real Madrid",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Espanyol",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Osasuna",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Getafe",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1675,
     1659,
@@ -339,7 +708,48 @@
    "elo": 1681,
    "change30": 11,
    "played": 9,
-   "form": "LWLDD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Sevilla",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Alavés",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "L",
+     "opp": "Real Sociedad",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Racing Santander",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Athletic Club",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1679,
     1695,
@@ -372,7 +782,48 @@
    "elo": 1676,
    "change30": 11,
    "played": 9,
-   "form": "WWLDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Valencia",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Deportivo La Coruña",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-16"
+    },
+    {
+     "r": "L",
+     "opp": "Barcelona",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Levante",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Real Madrid",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1661,
     1658,
@@ -405,7 +856,48 @@
    "elo": 1665,
    "change30": 12,
    "played": 9,
-   "form": "LLDLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Espanyol",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Atlético Madrid",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-16"
+    },
+    {
+     "r": "D",
+     "opp": "Rayo Vallecano",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Real Betis",
+     "gf": 2,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Racing Santander",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1691,
     1700,
@@ -438,7 +930,48 @@
    "elo": 1662,
    "change30": 14,
    "played": 10,
-   "form": "WWDDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Cádiz",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Albacete",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "D",
+     "opp": "Mallorca",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "D",
+     "opp": "Tenerife",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Andorra",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1671,
     1676,
@@ -471,7 +1004,48 @@
    "elo": 1655,
    "change30": 10,
    "played": 10,
-   "form": "WLDWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Sociedad B",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Almería",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "D",
+     "opp": "Girona",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "W",
+     "opp": "Las Palmas",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Eibar",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1647,
     1655,
@@ -504,7 +1078,48 @@
    "elo": 1653,
    "change30": 18,
    "played": 9,
-   "form": "LLDDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Barcelona",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Villarreal",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Sevilla",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "D",
+     "opp": "Deportivo La Coruña",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-16"
+    },
+    {
+     "r": "W",
+     "opp": "Athletic Club",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-21"
+    }
+   ],
    "spark": [
     1620,
     1630,
@@ -537,7 +1152,48 @@
    "elo": 1648,
    "change30": 5,
    "played": 9,
-   "form": "LLDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Racing Santander",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Valencia",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Athletic Club",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Atlético Madrid",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Celta Vigo",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1622,
     1636,
@@ -570,7 +1226,48 @@
    "elo": 1641,
    "change30": 9,
    "played": 9,
-   "form": "WLLDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Osasuna",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Rayo Vallecano",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "L",
+     "opp": "Elche",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Málaga",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Atlético Madrid",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1644,
     1644,
@@ -603,7 +1300,48 @@
    "elo": 1630,
    "change30": -16,
    "played": 13,
-   "form": "WLDDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Deportivo La Coruña",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Real Betis",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-17"
+    },
+    {
+     "r": "W",
+     "opp": "Málaga",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Barcelona",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Rayo Vallecano",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1668,
     1665,
@@ -636,7 +1374,48 @@
    "elo": 1624,
    "change30": 14,
    "played": 9,
-   "form": "DLWDD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Athletic Club",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Real Madrid",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "W",
+     "opp": "Espanyol",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Celta Vigo",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Villarreal",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1599,
     1609,
@@ -669,7 +1448,48 @@
    "elo": 1618,
    "change30": 32,
    "played": 10,
-   "form": "WWWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Celta B",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Mallorca",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "W",
+     "opp": "Burgos",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "W",
+     "opp": "Leganés",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Sociedad B",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1596,
     1599,
@@ -702,7 +1522,48 @@
    "elo": 1602,
    "change30": 16,
    "played": 10,
-   "form": "WWWLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Eldense",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Las Palmas",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "W",
+     "opp": "Albacete",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "L",
+     "opp": "Real Oviedo",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "D",
+     "opp": "Mallorca",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1584,
     1588,
@@ -735,7 +1596,48 @@
    "elo": 1596,
    "change30": 7,
    "played": 9,
-   "form": "WLLDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Alavés",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Barcelona",
+     "gf": 2,
+     "ga": 7,
+     "ha": "a",
+     "date": "2026-09-16"
+    },
+    {
+     "r": "L",
+     "opp": "Celta Vigo",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Valencia",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Osasuna",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1580,
     1584,
@@ -768,7 +1670,48 @@
    "elo": 1585,
    "change30": 24,
    "played": 10,
-   "form": "WWDLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Tenerife",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Leganés",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-28"
+    },
+    {
+     "r": "D",
+     "opp": "Ceuta",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "L",
+     "opp": "Andorra",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Las Palmas",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1535,
     1539,
@@ -801,7 +1744,48 @@
    "elo": 1576,
    "change30": 17,
    "played": 10,
-   "form": "LWLWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Sabadell",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Sporting Gijón",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "L",
+     "opp": "Eldense",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-02"
+    },
+    {
+     "r": "W",
+     "opp": "Eibar",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Ceuta",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1578,
     1582,
@@ -834,7 +1818,48 @@
    "elo": 1576,
    "change30": -11,
    "played": 10,
-   "form": "LLDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Burgos",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Eibar",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "D",
+     "opp": "Real Valladolid",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "L",
+     "opp": "Mallorca",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Castellon",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1595,
     1598,
@@ -867,7 +1892,48 @@
    "elo": 1567,
    "change30": 9,
    "played": 9,
-   "form": "DLDLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Getafe",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Sevilla",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-16"
+    },
+    {
+     "r": "D",
+     "opp": "Real Betis",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Real Sociedad",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Levante",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1531,
     1535,
@@ -900,7 +1966,48 @@
    "elo": 1555,
    "change30": 6,
    "played": 10,
-   "form": "WWLLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Las Palmas",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Eldense",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "L",
+     "opp": "Almería",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "L",
+     "opp": "Granada",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Sabadell",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1537,
     1543,
@@ -933,7 +2040,48 @@
    "elo": 1544,
    "change30": 4,
    "played": 9,
-   "form": "DLLDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Celta Vigo",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Villarreal",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-17"
+    },
+    {
+     "r": "L",
+     "opp": "Getafe",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Espanyol",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Real Sociedad",
+     "gf": 2,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1533,
     1534,
@@ -966,7 +2114,48 @@
    "elo": 1536,
    "change30": 18,
    "played": 10,
-   "form": "WLWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Andorra",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Real Oviedo",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "W",
+     "opp": "Celta B",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "W",
+     "opp": "Cádiz",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Albacete",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1520,
     1522,
@@ -999,7 +2188,48 @@
    "elo": 1535,
    "change30": 21,
    "played": 10,
-   "form": "LLWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Leganés",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Andorra",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "W",
+     "opp": "Sociedad B",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "W",
+     "opp": "Burgos",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Cádiz",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1556,
     1552,
@@ -1032,7 +2262,48 @@
    "elo": 1508,
    "change30": -18,
    "played": 10,
-   "form": "WLLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Granada",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Castellon",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-28"
+    },
+    {
+     "r": "L",
+     "opp": "Cádiz",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "L",
+     "opp": "Almería",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Córdoba",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1564,
     1561,
@@ -1065,7 +2336,48 @@
    "elo": 1483,
    "change30": 12,
    "played": 10,
-   "form": "WLWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Albacete",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Real Valladolid",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "W",
+     "opp": "Tenerife",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-05"
+    },
+    {
+     "r": "L",
+     "opp": "Eldense",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Leganés",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1474,
     1484,
@@ -1098,7 +2410,48 @@
    "elo": 1482,
    "change30": 20,
    "played": 10,
-   "form": "DWDWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Ceuta",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Córdoba",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "D",
+     "opp": "Las Palmas",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "W",
+     "opp": "Albacete",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Eldense",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1503,
     1498,
@@ -1131,7 +2484,48 @@
    "elo": 1475,
    "change30": -9,
    "played": 10,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Córdoba",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Girona",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "L",
+     "opp": "Eibar",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "L",
+     "opp": "Real Valladolid",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Sporting Gijón",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1520,
     1514,
@@ -1164,7 +2558,48 @@
    "elo": 1465,
    "change30": 22,
    "played": 10,
-   "form": "LWDWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Sporting Gijón",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Granada",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "D",
+     "opp": "Sabadell",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "W",
+     "opp": "Castellon",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Girona",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1462,
     1472,
@@ -1197,7 +2632,48 @@
    "elo": 1464,
    "change30": 10,
    "played": 10,
-   "form": "LDWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Girona",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Tenerife",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "W",
+     "opp": "Leganés",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "L",
+     "opp": "Sporting Gijón",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Granada",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1508,
     1498,
@@ -1230,7 +2706,48 @@
    "elo": 1464,
    "change30": 14,
    "played": 10,
-   "form": "WDDWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Real Oviedo",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Celta B",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "D",
+     "opp": "Andorra",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "W",
+     "opp": "Ceuta",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Burgos",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1467,
     1470,
@@ -1263,7 +2780,48 @@
    "elo": 1457,
    "change30": 30,
    "played": 10,
-   "form": "LLWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Eibar",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Burgos",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-27"
+    },
+    {
+     "r": "W",
+     "opp": "Real Oviedo",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-02"
+    },
+    {
+     "r": "W",
+     "opp": "Córdoba",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Real Valladolid",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1463,
     1469,
@@ -1296,7 +2854,48 @@
    "elo": 1455,
    "change30": 10,
    "played": 10,
-   "form": "LDLDD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Castellon",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Cádiz",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "L",
+     "opp": "Córdoba",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-05"
+    },
+    {
+     "r": "D",
+     "opp": "Girona",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "D",
+     "opp": "Celta B",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1486,
     1497,
@@ -1329,7 +2928,48 @@
    "elo": 1443,
    "change30": 12,
    "played": 10,
-   "form": "LDLWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Almería",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Sabadell",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "L",
+     "opp": "Sporting Gijón",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "W",
+     "opp": "Sociedad B",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Tenerife",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1434,
     1441,
@@ -1352,7 +2992,48 @@
    "elo": 1436,
    "change30": 9,
    "played": 10,
-   "form": "DWDLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Real Valladolid",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Sociedad B",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "D",
+     "opp": "Castellon",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "L",
+     "opp": "Sabadell",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Real Oviedo",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1462,
     1458,
@@ -1385,7 +3066,48 @@
    "elo": 1428,
    "change30": -12,
    "played": 10,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Mallorca",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Ceuta",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-26"
+    },
+    {
+     "r": "L",
+     "opp": "Granada",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-04"
+    },
+    {
+     "r": "L",
+     "opp": "Celta B",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Almería",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1455,
     1452,

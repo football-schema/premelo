@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.712Z",
+ "updated": "2026-10-24T12:44:23.652Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-10-19",
@@ -42,7 +42,48 @@
    "elo": 1683,
    "change30": -15,
    "played": 19,
-   "form": "DWDWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Nordsjaelland",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "W",
+     "opp": "Brondby",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "Odense",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "FC Copenhagen",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Viborg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1697,
     1681,
@@ -75,7 +116,48 @@
    "elo": 1655,
    "change30": 10,
    "played": 19,
-   "form": "WLWDD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Odense",
+     "gf": 5,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Horsens",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Brondby",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Midtjylland",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Aarhus",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1614,
     1599,
@@ -108,7 +190,48 @@
    "elo": 1577,
    "change30": -25,
    "played": 19,
-   "form": "LDDDD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Midtjylland",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "W",
+     "opp": "Aarhus",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Viborg",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Odense",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Lyngby",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1555,
     1537,
@@ -141,7 +264,48 @@
    "elo": 1515,
    "change30": -10,
    "played": 11,
-   "form": "LLLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Randers FC",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Midtjylland",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "FC Copenhagen",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Lyngby",
+     "gf": 5,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Odense",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1535,
     1531,
@@ -174,7 +338,48 @@
    "elo": 1511,
    "change30": -7,
    "played": 19,
-   "form": "DWLDD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Silkeborg",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Nordsjaelland",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Horsens",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Sonderjyske",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "D",
+     "opp": "FC Copenhagen",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1572,
     1546,
@@ -207,7 +412,48 @@
    "elo": 1497,
    "change30": 11,
    "played": 11,
-   "form": "LDWWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Lyngby",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Silkeborg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Nordsjaelland",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Randers FC",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Midtjylland",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1484,
     1479,
@@ -240,7 +486,48 @@
    "elo": 1430,
    "change30": -19,
    "played": 11,
-   "form": "WLLLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Brondby",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Odense",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Sonderjyske",
+     "gf": 2,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Viborg",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Horsens",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1467,
     1466,
@@ -273,7 +560,48 @@
    "elo": 1423,
    "change30": -15,
    "played": 11,
-   "form": "DDWDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Aarhus",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Viborg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Lyngby",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Horsens",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Sonderjyske",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1430,
     1425,
@@ -306,7 +634,48 @@
    "elo": 1404,
    "change30": 8,
    "played": 11,
-   "form": "LDWLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Horsens",
+     "gf": 2,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Lyngby",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Randers FC",
+     "gf": 4,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Aarhus",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Silkeborg",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1428,
     1431,
@@ -339,7 +708,48 @@
    "elo": 1387,
    "change30": 5,
    "played": 11,
-   "form": "LWDDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "FC Copenhagen",
+     "gf": 0,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Randers FC",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Midtjylland",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Nordsjaelland",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Brondby",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1375,
     1379,
@@ -372,7 +782,48 @@
    "elo": 1359,
    "change30": 0,
    "played": 11,
-   "form": "WLDDD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Sonderjyske",
+     "gf": 5,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "FC Copenhagen",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Aarhus",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Silkeborg",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Randers FC",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1320,
     1315,
@@ -405,7 +856,48 @@
    "elo": 1340,
    "change30": -5,
    "played": 11,
-   "form": "WDLLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Viborg",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Sonderjyske",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Silkeborg",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Brondby",
+     "gf": 2,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Nordsjaelland",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1336,
     1336,

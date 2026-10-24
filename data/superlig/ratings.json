@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.694Z",
+ "updated": "2026-10-24T12:44:23.632Z",
  "league": "superlig",
  "name": "Süper Lig",
  "through": "2026-10-19",
@@ -42,7 +42,48 @@
    "elo": 1726,
    "change30": 24,
    "played": 11,
-   "form": "LWLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "İstanbul Başakşehir",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Kocaelispor",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Trabzonspor",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Kasımpaşa",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Gençlerbirliği",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1777,
     1770,
@@ -75,7 +116,48 @@
    "elo": 1723,
    "change30": 17,
    "played": 17,
-   "form": "WWLWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Beşiktaş",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Gaziantep",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Eyüpspor",
+     "gf": 8,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Rizespor",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Alanyaspor",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1719,
     1728,
@@ -108,7 +190,48 @@
    "elo": 1628,
    "change30": 0,
    "played": 17,
-   "form": "LWWLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Fenerbahçe",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Erzurumspor",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Amedspor",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Kocaelispor",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Trabzonspor",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1586,
     1576,
@@ -141,7 +264,48 @@
    "elo": 1620,
    "change30": 47,
    "played": 12,
-   "form": "WWWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Gençlerbirliği",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Konyaspor",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Galatasaray",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Samsunspor",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Beşiktaş",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1607,
     1619,
@@ -174,7 +338,48 @@
    "elo": 1532,
    "change30": 10,
    "played": 10,
-   "form": "LLWDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Galatasaray",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Amedspor",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Gençlerbirliği",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Konyaspor",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Gaziantep",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1561,
     1556,
@@ -207,7 +412,48 @@
    "elo": 1504,
    "change30": 36,
    "played": 8,
-   "form": "LDDWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Gaziantep",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "Alanyaspor",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Rizespor",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Eyüpspor",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Kocaelispor",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1510,
     1508,
@@ -240,7 +486,48 @@
    "elo": 1463,
    "change30": -2,
    "played": 8,
-   "form": "WDWDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Rizespor",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "Göztepe",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Corum",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Erzurumspor",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Fenerbahçe",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1434,
     1434,
@@ -273,7 +560,48 @@
    "elo": 1459,
    "change30": 17,
    "played": 8,
-   "form": "DWDLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Amedspor",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Gençlerbirliği",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Konyaspor",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Galatasaray",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Samsunspor",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1408,
     1390,
@@ -306,7 +634,48 @@
    "elo": 1451,
    "change30": -2,
    "played": 8,
-   "form": "LWDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Alanyaspor",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "W",
+     "opp": "Eyüpspor",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Göztepe",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Fenerbahçe",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Corum",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1425,
     1447,
@@ -339,7 +708,48 @@
    "elo": 1449,
    "change30": -27,
    "played": 8,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Kocaelispor",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Corum",
+     "gf": 1,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Erzurumspor",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Trabzonspor",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Kasımpaşa",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1469,
     1460,
@@ -372,7 +782,48 @@
    "elo": 1432,
    "change30": 30,
    "played": 8,
-   "form": "DWWDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Kasımpaşa",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "İstanbul Başakşehir",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Beşiktaş",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Gençlerbirliği",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Konyaspor",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1380,
     1367,
@@ -393,7 +844,48 @@
    "elo": 1430,
    "change30": 36,
    "played": 8,
-   "form": "WWLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Eyüpspor",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Samsunspor",
+     "gf": 5,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Alanyaspor",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Gaziantep",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Rizespor",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1373,
     1363,
@@ -414,7 +906,48 @@
    "elo": 1426,
    "change30": 0,
    "played": 8,
-   "form": "LWDDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Erzurumspor",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Trabzonspor",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Kasımpaşa",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "İstanbul Başakşehir",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Amedspor",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1414,
     1410,
@@ -447,7 +980,48 @@
    "elo": 1411,
    "change30": -4,
    "played": 8,
-   "form": "WLWLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Samsunspor",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Galatasaray",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Gaziantep",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Beşiktaş",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Göztepe",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1391,
     1387,
@@ -480,7 +1054,48 @@
    "elo": 1397,
    "change30": -19,
    "played": 8,
-   "form": "WDLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Göztepe",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "Fenerbahçe",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Kocaelispor",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Corum",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "İstanbul Başakşehir",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1404,
     1410,
@@ -513,7 +1128,48 @@
    "elo": 1383,
    "change30": 2,
    "played": 8,
-   "form": "LLLDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Trabzonspor",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Kasımpaşa",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "İstanbul Başakşehir",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Amedspor",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Galatasaray",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1358,
     1359,
@@ -546,7 +1202,48 @@
    "elo": 1383,
    "change30": 35,
    "played": 8,
-   "form": "WLWDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Konyaspor",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Beşiktaş",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Samsunspor",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Alanyaspor",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Eyüpspor",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1388,
     1377,
@@ -579,7 +1276,48 @@
    "elo": 1355,
    "change30": -21,
    "played": 8,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Corum",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Rizespor",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Fenerbahçe",
+     "gf": 0,
+     "ga": 8,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Göztepe",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Erzurumspor",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1386,
     1393,

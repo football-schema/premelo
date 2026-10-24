@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.656Z",
+ "updated": "2026-10-24T12:44:23.592Z",
  "league": "seriea",
  "name": "Serie A",
  "through": "2026-10-19",
@@ -42,7 +42,48 @@
    "elo": 1938,
    "change30": -10,
    "played": 10,
-   "form": "DWLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Napoli",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Udinese",
+     "gf": 5,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "AS Roma",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Parma",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Bologna",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1942,
     1938,
@@ -75,7 +116,48 @@
    "elo": 1859,
    "change30": -9,
    "played": 10,
-   "form": "DDLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Atalanta",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Torino",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "Inter",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Como",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Genoa",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1818,
     1821,
@@ -108,7 +190,48 @@
    "elo": 1803,
    "change30": -8,
    "played": 10,
-   "form": "LDLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Genoa",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Parma",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Frosinone",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "AS Roma",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Fiorentina",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1766,
     1771,
@@ -141,7 +264,48 @@
    "elo": 1794,
    "change30": 7,
    "played": 10,
-   "form": "WDWWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Juventus",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Lazio",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Lecce",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Sassuolo",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Atalanta",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1854,
     1858,
@@ -174,7 +338,48 @@
    "elo": 1792,
    "change30": -32,
    "played": 10,
-   "form": "WDLLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "AC Milan",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Sassuolo",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Atalanta",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Cagliari",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Lazio",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1840,
     1836,
@@ -207,7 +412,48 @@
    "elo": 1791,
    "change30": -26,
    "played": 10,
-   "form": "DWLLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Inter",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Bologna",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Fiorentina",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Frosinone",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Venezia",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1837,
     1842,
@@ -240,7 +486,48 @@
    "elo": 1778,
    "change30": 14,
    "played": 7,
-   "form": "WDWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Udinese",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "AC Milan",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Venezia",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Monza",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Juventus",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1740,
     1723,
@@ -273,7 +560,48 @@
    "elo": 1756,
    "change30": -33,
    "played": 11,
-   "form": "LWWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "AS Roma",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Cagliari",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Juventus",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Venezia",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "AC Milan",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1825,
     1831,
@@ -306,7 +634,48 @@
    "elo": 1691,
    "change30": -7,
    "played": 7,
-   "form": "DLDWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Sassuolo",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Napoli",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Torino",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Lecce",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Inter",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1735,
     1739,
@@ -339,7 +708,48 @@
    "elo": 1649,
    "change30": 13,
    "played": 7,
-   "form": "WLDWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Fiorentina",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "AS Roma",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "Bologna",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Udinese",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Parma",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1628,
     1639,
@@ -372,7 +782,48 @@
    "elo": 1647,
    "change30": -27,
    "played": 7,
-   "form": "LWDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Torino",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Venezia",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Napoli",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Genoa",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Como",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1669,
     1678,
@@ -405,7 +856,48 @@
    "elo": 1626,
    "change30": -17,
    "played": 7,
-   "form": "DWLDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Bologna",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Juventus",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Monza",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "AC Milan",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Frosinone",
+     "gf": 2,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1642,
     1651,
@@ -438,7 +930,48 @@
    "elo": 1613,
    "change30": -34,
    "played": 7,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Lazio",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "L",
+     "opp": "Inter",
+     "gf": 3,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Cagliari",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Torino",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Lecce",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1618,
     1629,
@@ -471,7 +1004,48 @@
    "elo": 1610,
    "change30": 13,
    "played": 7,
-   "form": "WDWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Venezia",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Genoa",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Como",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Napoli",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Sassuolo",
+     "gf": 4,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1539,
     1536,
@@ -504,7 +1078,48 @@
    "elo": 1608,
    "change30": -21,
    "played": 7,
-   "form": "WWWDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Lecce",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "W",
+     "opp": "Atalanta",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Udinese",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Juventus",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Monza",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1600,
     1598,
@@ -537,7 +1152,48 @@
    "elo": 1596,
    "change30": -13,
    "played": 7,
-   "form": "LDLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Como",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Frosinone",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Parma",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Fiorentina",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "AS Roma",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1646,
     1640,
@@ -570,7 +1226,48 @@
    "elo": 1578,
    "change30": -3,
    "played": 7,
-   "form": "LWLLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Cagliari",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "W",
+     "opp": "Monza",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "AC Milan",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Bologna",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Udinese",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1569,
     1561,
@@ -603,7 +1300,48 @@
    "elo": 1568,
    "change30": -19,
    "played": 7,
-   "form": "DLWLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Monza",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Como",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Genoa",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Inter",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Torino",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1619,
     1614,
@@ -636,7 +1374,48 @@
    "elo": 1559,
    "change30": 0,
    "played": 7,
-   "form": "LLLLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Frosinone",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Fiorentina",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Lazio",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Atalanta",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Napoli",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1590,
     1584,
@@ -669,7 +1448,48 @@
    "elo": 1553,
    "change30": 5,
    "played": 7,
-   "form": "DLWLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Parma",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Lecce",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Sassuolo",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Lazio",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Cagliari",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1556,
     1557,
@@ -702,7 +1522,48 @@
    "elo": 1545,
    "change30": 11,
    "played": 7,
-   "form": "WDWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Sampdoria",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "Avellino",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Padova",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Empoli",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Mantova",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1530,
     1515,
@@ -735,7 +1596,48 @@
    "elo": 1482,
    "change30": -22,
    "played": 7,
-   "form": "WDDDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Padova",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Cesena",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Virtus Entella",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Arezzo",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Pisa",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1552,
     1544,
@@ -768,7 +1670,48 @@
    "elo": 1468,
    "change30": -17,
    "played": 7,
-   "form": "WLWLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Arezzo",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Benevento",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Vicenza",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Modena",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Catanzaro",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1521,
     1515,
@@ -801,7 +1744,48 @@
    "elo": 1461,
    "change30": 14,
    "played": 7,
-   "form": "WLDWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Juve Stabia",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Virtus Entella",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Mantova",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Vicenza",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Cremonese",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1507,
     1499,
@@ -834,7 +1818,48 @@
    "elo": 1435,
    "change30": -6,
    "played": 7,
-   "form": "LDWWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Avellino",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Südtirol",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Empoli",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Hellas Verona",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Carrarese",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1465,
     1451,
@@ -867,7 +1892,48 @@
    "elo": 1411,
    "change30": -20,
    "played": 7,
-   "form": "LWLLD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Südtirol",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Carrarese",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Sampdoria",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Mantova",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Hellas Verona",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1490,
     1486,
@@ -900,7 +1966,48 @@
    "elo": 1408,
    "change30": -6,
    "played": 7,
-   "form": "DWDWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Cesena",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Sampdoria",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Pisa",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Catanzaro",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Palermo",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1343,
     1340,
@@ -933,7 +2040,48 @@
    "elo": 1404,
    "change30": 4,
    "played": 7,
-   "form": "LDDDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Pisa",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Vicenza",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Cesena",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Virtus Entella",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Südtirol",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1431,
     1427,
@@ -966,7 +2114,48 @@
    "elo": 1397,
    "change30": -27,
    "played": 7,
-   "form": "WLLLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Carrarese",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Arezzo",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Modena",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Palermo",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Ascoli",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1467,
     1461,
@@ -999,7 +2188,48 @@
    "elo": 1384,
    "change30": 4,
    "played": 7,
-   "form": "WDLWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Modena",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Palermo",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Ascoli",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Sampdoria",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Cesena",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1351,
     1348,
@@ -1032,7 +2262,48 @@
    "elo": 1376,
    "change30": -10,
    "played": 7,
-   "form": "WDWDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Catanzaro",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Modena",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Arezzo",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Ascoli",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Juve Stabia",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1428,
     1427,
@@ -1065,7 +2336,48 @@
    "elo": 1363,
    "change30": -7,
    "played": 7,
-   "form": "WLWDD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Benevento",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Padova",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Avellino",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Südtirol",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Empoli",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1398,
     1397,
@@ -1098,7 +2410,48 @@
    "elo": 1360,
    "change30": 1,
    "played": 7,
-   "form": "DWDDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Vicenza",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Pisa",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Cremonese",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Juve Stabia",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Padova",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1351,
     1343,
@@ -1131,7 +2484,48 @@
    "elo": 1359,
    "change30": 1,
    "played": 7,
-   "form": "LWWWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Ascoli",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Hellas Verona",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Carrarese",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Cesena",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Vicenza",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1426,
     1411,
@@ -1164,7 +2558,48 @@
    "elo": 1357,
    "change30": 16,
    "played": 7,
-   "form": "LLLWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Empoli",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Catanzaro",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Benevento",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Padova",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Modena",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1380,
     1377,
@@ -1197,7 +2632,48 @@
    "elo": 1347,
    "change30": -19,
    "played": 7,
-   "form": "DDDLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Mantova",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Cremonese",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Juve Stabia",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Benevento",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Avellino",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1388,
     1387,
@@ -1230,7 +2706,48 @@
    "elo": 1344,
    "change30": -13,
    "played": 7,
-   "form": "LWLDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Hellas Verona",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Empoli",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Südtirol",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Cremonese",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Sampdoria",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1358,
     1355,
@@ -1263,7 +2780,48 @@
    "elo": 1339,
    "change30": -31,
    "played": 7,
-   "form": "LWLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Cremonese",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Ascoli",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Palermo",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Carrarese",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Virtus Entella",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1367,
     1375,
@@ -1296,7 +2854,48 @@
    "elo": 1331,
    "change30": -29,
    "played": 7,
-   "form": "LLWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Palermo",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "L",
+     "opp": "Mantova",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Catanzaro",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Avellino",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Arezzo",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1396,
     1377,
@@ -1329,7 +2928,48 @@
    "elo": 1325,
    "change30": -24,
    "played": 7,
-   "form": "DDLLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Virtus Entella",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Juve Stabia",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Hellas Verona",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Pisa",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Benevento",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1301,
     1293,

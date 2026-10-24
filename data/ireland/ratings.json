@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.724Z",
+ "updated": "2026-10-24T12:44:23.667Z",
  "league": "ireland",
  "name": "League of Ireland",
  "through": "2026-10-19",
@@ -42,7 +42,48 @@
    "elo": 1338,
    "change30": 4,
    "played": 16,
-   "form": "WWWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Galway",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Drogheda",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Dundalk",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-02"
+    },
+    {
+     "r": "L",
+     "opp": "Shamrock Rovers",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Waterford",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1292,
     1275,
@@ -75,7 +116,48 @@
    "elo": 1320,
    "change30": -7,
    "played": 18,
-   "form": "LWWWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "St. Patricks",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Waterford",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Drogheda",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-08"
+    },
+    {
+     "r": "W",
+     "opp": "Bohemians",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Galway",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1366,
     1375,
@@ -108,7 +190,48 @@
    "elo": 1316,
    "change30": -31,
    "played": 12,
-   "form": "WWWLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Shamrock Rovers",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Dundalk",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Sligo Rovers",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Shelbourne",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    },
+    {
+     "r": "L",
+     "opp": "Derry City",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1332,
     1340,
@@ -141,7 +264,48 @@
    "elo": 1260,
    "change30": 30,
    "played": 15,
-   "form": "LWDWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Drogheda",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Dundalk",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Galway",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "W",
+     "opp": "Sligo Rovers",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "St. Patricks",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1287,
     1301,
@@ -174,7 +338,48 @@
    "elo": 1249,
    "change30": -10,
    "played": 14,
-   "form": "WDWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Shelbourne",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Waterford",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Galway",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Drogheda",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-16"
+    },
+    {
+     "r": "W",
+     "opp": "St. Patricks",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1273,
     1259,
@@ -207,7 +412,48 @@
    "elo": 1221,
    "change30": 4,
    "played": 12,
-   "form": "DDLLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Dundalk",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Derry City",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Shamrock Rovers",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Bohemians",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-16"
+    },
+    {
+     "r": "W",
+     "opp": "Galway",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1077,
     1082,
@@ -240,7 +486,48 @@
    "elo": 1206,
    "change30": 15,
    "played": 13,
-   "form": "WLDWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Sligo Rovers",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Derry City",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Shelbourne",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "W",
+     "opp": "Shamrock Rovers",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-16"
+    },
+    {
+     "r": "L",
+     "opp": "Waterford",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1184,
     1213,
@@ -273,7 +560,48 @@
    "elo": 1172,
    "change30": 14,
    "played": 12,
-   "form": "WWLLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Sligo Rovers",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Shelbourne",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Bohemians",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Shamrock Rovers",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-08"
+    },
+    {
+     "r": "W",
+     "opp": "Derry City",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1206,
     1198,
@@ -306,7 +634,48 @@
    "elo": 1133,
    "change30": -9,
    "played": 12,
-   "form": "DLLLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Waterford",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "St. Patricks",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Shelbourne",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Bohemians",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-02"
+    },
+    {
+     "r": "D",
+     "opp": "Sligo Rovers",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1179,
     1161,
@@ -339,7 +708,48 @@
    "elo": 1042,
    "change30": -11,
    "played": 12,
-   "form": "LLLLD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Drogheda",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Galway",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "St. Patricks",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Shelbourne",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Dundalk",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1183,
     1187,

@@ -19,8 +19,10 @@
   --away: #b94f36;
   --up: #167450;
   --down: #b54439;
-  --win: #167451;
-  --loss: #b54439;
+  --win: #007900;
+  --loss: #dd2c53;
+  --form-draw: #bac2bc;
+  --form-draw-ink: #17251e;
   --e1: rgba(23, 37, 30, .07);
   --stripe: rgba(23, 37, 30, .025);
   --hover: rgba(22, 116, 81, .065);
@@ -49,8 +51,10 @@
     --away: #b9583f;
     --up: #83d7a5;
     --down: #f29383;
-    --win: #237b60;
-    --loss: #a84b3f;
+    --win: #007900;
+    --loss: #dd2c53;
+    --form-draw: #46524b;
+    --form-draw-ink: #e6ece7;
     --e1: rgba(237, 244, 238, .07);
     --stripe: rgba(255, 255, 255, .025);
     --hover: rgba(181, 231, 124, .07);
@@ -79,8 +83,10 @@
   --away: #b9583f;
   --up: #83d7a5;
   --down: #f29383;
-  --win: #237b60;
-  --loss: #a84b3f;
+  --win: #007900;
+  --loss: #dd2c53;
+  --form-draw: #46524b;
+  --form-draw-ink: #e6ece7;
   --e1: rgba(237, 244, 238, .07);
   --stripe: rgba(255, 255, 255, .025);
   --hover: rgba(181, 231, 124, .07);
@@ -229,9 +235,10 @@ td b { font-weight: 780; font-variant-numeric: tabular-nums; }
 td a { color: var(--text); font-weight: 600; text-decoration: none; }
 td a:hover { color: var(--accent); text-decoration: underline; }
 .form { display: inline-flex; gap: 3px; white-space: nowrap; }
-.form span { width: 19px; height: 19px; border-radius: 5px; background: var(--e1); color: var(--text2); font-size: 10px; font-weight: 800; line-height: 19px; text-align: center; }
+.form span { width: 20px; height: 20px; border-radius: 4px; background: var(--form-draw); color: var(--form-draw-ink); font-size: 11px; font-weight: 700; line-height: 20px; text-align: center; cursor: default; }
 .form .W { background: var(--win); color: #ffffff; }
 .form .L { background: var(--loss); color: #ffffff; }
+.form span:last-child { box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .35); }
 .spark { vertical-align: middle; }
 .fx { display: grid; grid-template-columns: 82px minmax(0, 1fr) minmax(0, 1fr) 225px; gap: 15px; align-items: center; padding: 14px 0; border-bottom: 1px solid var(--line); font-size: 13px; }
 .fx:last-child { border-bottom: 0; }

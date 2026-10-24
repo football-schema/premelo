@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.705Z",
+ "updated": "2026-10-24T12:44:23.645Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-10-18",
@@ -42,7 +42,48 @@
    "elo": 1718,
    "change30": 35,
    "played": 12,
-   "form": "WWWWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Volos NFC",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "OFI",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Levadiakos",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Panathinaikos",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Panetolikos",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1736,
     1719,
@@ -75,7 +116,48 @@
    "elo": 1672,
    "change30": 2,
    "played": 11,
-   "form": "DWWLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Kifisia",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "W",
+     "opp": "Aris Thessaloniki",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Asteras Tripolis",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Volos NFC",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "OFI",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1627,
     1641,
@@ -108,7 +190,48 @@
    "elo": 1620,
    "change30": 23,
    "played": 15,
-   "form": "WLWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Kifisia",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-10"
+    },
+    {
+     "r": "W",
+     "opp": "Panetolikos",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Kalamata",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Olympiacos",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Asteras Tripolis",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1588,
     1588,
@@ -141,7 +264,48 @@
    "elo": 1601,
    "change30": -16,
    "played": 13,
-   "form": "LWWLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Panathinaikos",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Aris Thessaloniki",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Panetolikos",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Kalamata",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Iraklis",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1624,
     1621,
@@ -174,7 +338,48 @@
    "elo": 1436,
    "change30": 12,
    "played": 7,
-   "form": "LLDWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "AEK Athens",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "PAOK",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Iraklis",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Volos NFC",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Kifisia",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1420,
     1417,
@@ -207,7 +412,48 @@
    "elo": 1380,
    "change30": -25,
    "played": 12,
-   "form": "DLLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Kifisia",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Olympiacos",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Asteras Tripolis",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "AEK Athens",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Kalamata",
+     "gf": 3,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1293,
     1311,
@@ -240,7 +486,48 @@
    "elo": 1326,
    "change30": -16,
    "played": 6,
-   "form": "LDDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "PAOK",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "D",
+     "opp": "Kalamata",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Iraklis",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Kifisia",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Asteras Tripolis",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1351,
     1355,
@@ -273,7 +560,48 @@
    "elo": 1319,
    "change30": -20,
    "played": 7,
-   "form": "LDLLD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Panetolikos",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Kifisia",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Olympiacos",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Iraklis",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Volos NFC",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1415,
     1422,
@@ -306,7 +634,48 @@
    "elo": 1273,
    "change30": -17,
    "played": 7,
-   "form": "WLLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Levadiakos",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Panathinaikos",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "PAOK",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Kifisia",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Olympiacos",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1270,
     1284,
@@ -339,7 +708,48 @@
    "elo": 1262,
    "change30": 21,
    "played": 7,
-   "form": "LDDWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Iraklis",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "AEK Athens",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "OFI",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Atromitos",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Panathinaikos",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1225,
     1232,
@@ -372,7 +782,48 @@
    "elo": 1259,
    "change30": 32,
    "played": 7,
-   "form": "LDWWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Panathinaikos",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-10"
+    },
+    {
+     "r": "D",
+     "opp": "Levadiakos",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Atromitos",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Panetolikos",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Aris Thessaloniki",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1210,
     1231,
@@ -405,7 +856,48 @@
    "elo": 1225,
    "change30": 35,
    "played": 7,
-   "form": "WDDWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Asteras Tripolis",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "D",
+     "opp": "Atromitos",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Aris Thessaloniki",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Levadiakos",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "PAOK",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1232,
     1230,
@@ -438,7 +930,48 @@
    "elo": 1222,
    "change30": 52,
    "played": 7,
-   "form": "DWLWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Atromitos",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Volos NFC",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Panathinaikos",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "PAOK",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "OFI",
+     "gf": 4,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1148,
     1156,
@@ -471,7 +1004,48 @@
    "elo": 1187,
    "change30": 10,
    "played": 7,
-   "form": "DLLLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Olympiacos",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Kalamata",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "AEK Athens",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Aris Thessaloniki",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Levadiakos",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1241,
     1244,

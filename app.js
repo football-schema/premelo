@@ -27,7 +27,13 @@ function spark(values, w = 90, h = 22) {
   const [lx, ly] = pts.split(' ').at(-1).split(',');
   return `<svg class="spark" width="${w + 3}" height="${h}" viewBox="0 0 ${w + 3} ${h}" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linejoin="round"/><circle cx="${lx}" cy="${ly}" r="2.5" fill="var(--accent)"/></svg>`;
 }
-const form = (f) => `<span class="form">${[...f].map((r) => `<span class="${r}">${r}</span>`).join('')}</span>`;
+// the last five league results, oldest first, each with its score and opponent on hover
+const formWord = { W: 'won', D: 'drew', L: 'lost' };
+const form = (f) => {
+  const day = (d) => new Date(d).toLocaleDateString(undefined, { day: 'numeric', month: 'short' });
+  const said = f.map((m) => `${formWord[m.r]} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${m.opp}`).join(', ');
+  return `<span class="form" role="img" aria-label="Last ${f.length} league matches, oldest first: ${esc(said)}">${f.map((m) => `<span class="${m.r}" aria-hidden="true" title="${m.r} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${esc(m.opp)} · ${day(m.date)}">${m.r}</span>`).join('')}</span>`;
+};
 const bar = (f) => `<div class="bar" role="img" aria-label="${esc(f.homeName)} ${pct(f.H)}%, draw ${pct(f.D)}%, ${esc(f.awayName)} ${pct(f.A)}%">
   <span class="ph" style="flex:${f.H}">${pct(f.H)}</span><span class="pd" style="flex:${f.D}">${pct(f.D)}</span><span class="pa" style="flex:${f.A}">${pct(f.A)}</span></div>`;
 const clubLink = (slug, name, id = league) => `<a href="#/${id}/club/${slug}">${esc(name)}</a>`;
@@ -61,7 +67,7 @@ async function viewTable() {
   $('main').innerHTML = `<h1>${esc(l.name)} Elo</h1>
     <p class="sub">Ratings after every result since ${l.extra ? 2012 : 1993}, through ${fullDate(r.through)}, on one scale for all ${LEAGUES.length} leagues, which <a href="#/europe">the European cups</a> tie together. A 100-point gap makes the stronger side about a 64% favourite on neutral ground.</p>
     <div class="card">${l.second ? `<div class="tabs"><button data-d="top" class="${division === 'top' ? 'on' : ''}">${esc(l.name)}</button><button data-d="second" class="${division === 'second' ? 'on' : ''}">${esc(l.second)}</button></div>` : ''}
-    <table><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n">30 days</th><th class="hide-s">Last 20</th><th class="hide-s">Form</th></tr>
+    <table><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n">30 days</th><th class="hide-s">Last 20</th><th class="hide-s" title="Last 5 league matches, oldest to newest">Form</th></tr>
     ${rows.map((c) => `<tr><td class="n muted">${c.rank}</td><td>${clubLink(c.slug, c.name)}</td><td class="n"><b>${c.elo}</b></td>
       <td class="n ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-s">${spark(c.spark)}</td><td class="hide-s">${form(c.form)}</td></tr>`).join('')}</table></div>
     ${next.length ? `<div class="card"><h2>Next up</h2>${fixtureRows(next)}<p class="small muted" style="margin:10px 0 0">Bars: home win · draw · away win, in %. <a href="#/${league}/fixtures">Every fixture</a></p></div>` : ''}`;

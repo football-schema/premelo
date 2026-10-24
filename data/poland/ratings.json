@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.719Z",
+ "updated": "2026-10-24T12:44:23.662Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-19",
@@ -42,7 +42,48 @@
    "elo": 1608,
    "change30": -4,
    "played": 19,
-   "form": "WWLWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Rakow",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Gornik Zabrze",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Radomiak Radom",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Slask Wroclaw",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Korona Kielce",
+     "gf": 6,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1598,
     1611,
@@ -75,7 +116,48 @@
    "elo": 1547,
    "change30": 3,
    "played": 11,
-   "form": "WDWWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Motor Lublin",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Widzew Lodz",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Jagiellonia",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Wisla",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Cracovia",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1512,
     1520,
@@ -108,7 +190,48 @@
    "elo": 1536,
    "change30": -14,
    "played": 17,
-   "form": "WLLLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Motor Lublin",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Zaglebie",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "L",
+     "opp": "Korona Kielce",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "GKS Katowice",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Wieczysta Krakow",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1584,
     1590,
@@ -141,7 +264,48 @@
    "elo": 1522,
    "change30": -42,
    "played": 17,
-   "form": "LLWLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Slask Wroclaw",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Wisla",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Legia",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Gornik Zabrze",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Zaglebie",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1560,
     1560,
@@ -174,7 +338,48 @@
    "elo": 1516,
    "change30": 4,
    "played": 10,
-   "form": "DWWWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Wisla Plock",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "W",
+     "opp": "Wieczysta Krakow",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Piast Gliwice",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Korona Kielce",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "GKS Katowice",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1501,
     1498,
@@ -207,7 +412,48 @@
    "elo": 1515,
    "change30": 1,
    "played": 17,
-   "form": "WWDWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Lech Poznan",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Korona Kielce",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Motor Lublin",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Jagiellonia",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Piast Gliwice",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1484,
     1488,
@@ -240,7 +486,48 @@
    "elo": 1475,
    "change30": 4,
    "played": 15,
-   "form": "LWWWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Zaglebie",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Cracovia",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Rakow",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Wieczysta Krakow",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Pogon Szczecin",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1455,
     1460,
@@ -273,7 +560,48 @@
    "elo": 1470,
    "change30": -9,
    "played": 11,
-   "form": "WWLWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "GKS Katowice",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Radomiak Radom",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Pogon Szczecin",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Widzew Lodz",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Gornik Zabrze",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1477,
     1473,
@@ -306,7 +634,48 @@
    "elo": 1451,
    "change30": 0,
    "played": 11,
-   "form": "LLLWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Gornik Zabrze",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Wisla Plock",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "GKS Katowice",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Zaglebie",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Legia",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1475,
     1469,
@@ -339,7 +708,48 @@
    "elo": 1451,
    "change30": -18,
    "played": 11,
-   "form": "WWLLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "GKS Katowice",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Rakow",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "L",
+     "opp": "Wisla Plock",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Cracovia",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Jagiellonia",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1455,
     1449,
@@ -372,7 +782,48 @@
    "elo": 1439,
    "change30": -15,
    "played": 11,
-   "form": "WLWLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Slask Wroclaw",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Gornik Zabrze",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "W",
+     "opp": "Rakow",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Pogon Szczecin",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Lech Poznan",
+     "gf": 1,
+     "ga": 6,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1443,
     1437,
@@ -405,7 +856,48 @@
    "elo": 1428,
    "change30": -10,
    "played": 11,
-   "form": "DDDLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Radomiak Radom",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Legia",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Wieczysta Krakow",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Piast Gliwice",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Wisla",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1414,
     1417,
@@ -438,7 +930,48 @@
    "elo": 1420,
    "change30": 2,
    "played": 11,
-   "form": "LLDWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Legia",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Rakow",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Gornik Zabrze",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Radomiak Radom",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Slask Wroclaw",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1427,
     1428,
@@ -471,7 +1004,48 @@
    "elo": 1418,
    "change30": -4,
    "played": 10,
-   "form": "DWWLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Pogon Szczecin",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "W",
+     "opp": "Cracovia",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Zaglebie",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Wieczysta Krakow",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Radomiak Radom",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1422,
     1429,
@@ -504,7 +1078,48 @@
    "elo": 1418,
    "change30": -8,
    "played": 11,
-   "form": "DWWLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Korona Kielce",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Jagiellonia",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Slask Wroclaw",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Legia",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Widzew Lodz",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1330,
     1338,
@@ -537,7 +1152,48 @@
    "elo": 1409,
    "change30": -20,
    "played": 11,
-   "form": "DLLLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Widzew Lodz",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Piast Gliwice",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Lech Poznan",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Motor Lublin",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Wisla Plock",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1439,
     1439,
@@ -570,7 +1226,48 @@
    "elo": 1390,
    "change30": -4,
    "played": 11,
-   "form": "LDWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Pogon Szczecin",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Widzew Lodz",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Wisla Plock",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "GKS Katowice",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "Rakow",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1399,
     1394,
@@ -594,7 +1291,48 @@
    "elo": 1383,
    "change30": -14,
    "played": 11,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Jagiellonia",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Korona Kielce",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Wisla",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Lech Poznan",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Motor Lublin",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1426,
     1425,

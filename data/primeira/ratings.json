@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.676Z",
+ "updated": "2026-10-24T12:44:23.613Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-10-19",
@@ -43,7 +43,48 @@
    "elo": 1872,
    "change30": 0,
    "played": 11,
-   "form": "DDWWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Rio Ave",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-08-28"
+    },
+    {
+     "r": "W",
+     "opp": "Nacional",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Famalicão",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Arouca",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Braga",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-09"
+    }
+   ],
    "spark": [
     1872,
     1872,
@@ -76,7 +117,48 @@
    "elo": 1871,
    "change30": 2,
    "played": 17,
-   "form": "WLWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Marítimo",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Moreirense",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "W",
+     "opp": "Gil Vicente",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Porto",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Vitória SC",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1859,
     1855,
@@ -109,7 +191,48 @@
    "elo": 1827,
    "change30": -13,
    "played": 11,
-   "form": "WWWLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Academico Viseu",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "W",
+     "opp": "Moreirense",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Casa Pia",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Benfica",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Marítimo",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1858,
     1853,
@@ -142,7 +265,48 @@
    "elo": 1697,
    "change30": -25,
    "played": 16,
-   "form": "DLLLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Estrela da Amadora",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-10"
+    },
+    {
+     "r": "W",
+     "opp": "Estoril",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "Santa Clara",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Sporting CP",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Gil Vicente",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1746,
     1733,
@@ -175,7 +339,48 @@
    "elo": 1539,
    "change30": -22,
    "played": 8,
-   "form": "DDDWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Gil Vicente",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "D",
+     "opp": "Estrela da Amadora",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Sporting CP",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Nacional",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Alverca",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-12"
+    }
+   ],
    "spark": [
     1556,
     1554,
@@ -208,7 +413,48 @@
    "elo": 1529,
    "change30": -4,
    "played": 8,
-   "form": "LDLDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Braga",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-08-31"
+    },
+    {
+     "r": "D",
+     "opp": "Casa Pia",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Academico Viseu",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Moreirense",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Benfica",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1581,
     1578,
@@ -241,7 +487,48 @@
    "elo": 1522,
    "change30": 9,
    "played": 8,
-   "form": "LLDWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Academico Viseu",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Benfica",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Marítimo",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Moreirense",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Braga",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-19"
+    }
+   ],
    "spark": [
     1524,
     1522,
@@ -274,7 +561,48 @@
    "elo": 1497,
    "change30": -2,
    "played": 8,
-   "form": "WDLDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Marítimo",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "D",
+     "opp": "Estoril",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "L",
+     "opp": "Santa Clara",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Sporting CP",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Estrela da Amadora",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1452,
     1451,
@@ -307,7 +635,48 @@
    "elo": 1481,
    "change30": 6,
    "played": 8,
-   "form": "DWWDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Alverca",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "W",
+     "opp": "Rio Ave",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Arouca",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Braga",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Casa Pia",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1436,
     1435,
@@ -340,7 +709,48 @@
    "elo": 1474,
    "change30": -5,
    "played": 8,
-   "form": "LLWDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Porto",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Benfica",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "W",
+     "opp": "Marítimo",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "Vitória SC",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Gil Vicente",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-09"
+    }
+   ],
    "spark": [
     1497,
     1496,
@@ -373,7 +783,48 @@
    "elo": 1429,
    "change30": 12,
    "played": 8,
-   "form": "DLWWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Santa Clara",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Braga",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Nacional",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Rio Ave",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Famalicão",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-12"
+    }
+   ],
    "spark": [
     1397,
     1399,
@@ -406,7 +857,48 @@
    "elo": 1426,
    "change30": -10,
    "played": 8,
-   "form": "LDLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Benfica",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-08-31"
+    },
+    {
+     "r": "D",
+     "opp": "Arouca",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-07"
+    },
+    {
+     "r": "L",
+     "opp": "Braga",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Casa Pia",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Academico Viseu",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1476,
     1474,
@@ -439,7 +931,48 @@
    "elo": 1423,
    "change30": 0,
    "played": 8,
-   "form": "LLDLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Sporting CP",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-08-28"
+    },
+    {
+     "r": "L",
+     "opp": "Santa Clara",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Estrela da Amadora",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Alverca",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Nacional",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1424,
     1424,
@@ -472,7 +1005,48 @@
    "elo": 1399,
    "change30": -12,
    "played": 8,
-   "form": "DWDLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Famalicão",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Braga",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-10"
+    },
+    {
+     "r": "D",
+     "opp": "Rio Ave",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Academico Viseu",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Arouca",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1386,
     1385,
@@ -505,7 +1079,48 @@
    "elo": 1395,
    "change30": -1,
    "played": 8,
-   "form": "LDLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Moreirense",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "D",
+     "opp": "Vitória SC",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Porto",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Estoril",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Santa Clara",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1442,
     1441,
@@ -538,7 +1153,48 @@
    "elo": 1393,
    "change30": -8,
    "played": 8,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Estrela da Amadora",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "L",
+     "opp": "Sporting CP",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Alverca",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Famalicão",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Rio Ave",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    }
+   ],
    "spark": [
     1401,
     1399,
@@ -571,7 +1227,48 @@
    "elo": 1386,
    "change30": 13,
    "played": 8,
-   "form": "LWWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Porto",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "W",
+     "opp": "Gil Vicente",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Vitória SC",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Estrela da Amadora",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Estoril",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1370,
     1360,
@@ -592,7 +1289,48 @@
    "elo": 1373,
    "change30": -5,
    "played": 8,
-   "form": "LLLDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Arouca",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Benfica",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Moreirense",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "D",
+     "opp": "Gil Vicente",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Porto",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    }
+   ],
    "spark": [
     1400,
     1401,

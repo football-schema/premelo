@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.643Z",
+ "updated": "2026-10-24T12:44:23.576Z",
  "league": "bundesliga",
  "name": "Bundesliga",
  "through": "2026-10-18",
@@ -42,7 +42,48 @@
    "elo": 2036,
    "change30": -6,
    "played": 9,
-   "form": "WDDWD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Schalke 04",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Elversberg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Union Berlin",
+     "gf": 7,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "FC Augsburg",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "RB Leipzig",
+     "gf": 6,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     2061,
     2072,
@@ -75,7 +116,48 @@
    "elo": 1877,
    "change30": -15,
    "played": 9,
-   "form": "WDLDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Hoffenheim",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Paderborn",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "VfB Stuttgart",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Werder Bremen",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Union Berlin",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1880,
     1882,
@@ -108,7 +190,48 @@
    "elo": 1873,
    "change30": 21,
    "played": 9,
-   "form": "WWWWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Union Berlin",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "FC Augsburg",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "RB Leipzig",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Mainz 05",
+     "gf": 4,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "SC Freiburg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1870,
     1866,
@@ -141,7 +264,48 @@
    "elo": 1787,
    "change30": -3,
    "played": 9,
-   "form": "LWWLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "1. FC Köln",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Hoffenheim",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Borussia Dortmund",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Paderborn",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Hamburger SV",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1776,
     1781,
@@ -174,7 +338,48 @@
    "elo": 1784,
    "change30": -6,
    "played": 9,
-   "form": "LWWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Werder Bremen",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Hamburger SV",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Bayer Leverkusen",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Eintracht Frankfurt",
+     "gf": 6,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Bayern Munich",
+     "gf": 1,
+     "ga": 6,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1792,
     1794,
@@ -207,7 +412,48 @@
    "elo": 1759,
    "change30": -27,
    "played": 10,
-   "form": "DWDLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Paderborn",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Borussia M'gladbach",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Eintracht Frankfurt",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Schalke 04",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Bayer Leverkusen",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1758,
     1778,
@@ -240,7 +486,48 @@
    "elo": 1721,
    "change30": -1,
    "played": 6,
-   "form": "WLWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Hamburger SV",
+     "gf": 5,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Eintracht Frankfurt",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Borussia M'gladbach",
+     "gf": 4,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Bayer Leverkusen",
+     "gf": 3,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Schalke 04",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1704,
     1704,
@@ -273,7 +560,48 @@
    "elo": 1702,
    "change30": -11,
    "played": 6,
-   "form": "LWDLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "FC Augsburg",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Mainz 05",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "SC Freiburg",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "RB Leipzig",
+     "gf": 0,
+     "ga": 6,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "1. FC Köln",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1708,
     1716,
@@ -306,7 +634,48 @@
    "elo": 1699,
    "change30": -7,
    "played": 9,
-   "form": "LLLWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Borussia Dortmund",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "VfB Stuttgart",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Paderborn",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Hamburger SV",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Borussia M'gladbach",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1741,
     1746,
@@ -339,7 +708,48 @@
    "elo": 1682,
    "change30": -13,
    "played": 6,
-   "form": "WDLDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Eintracht Frankfurt",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Bayer Leverkusen",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Werder Bremen",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Bayern Munich",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Elversberg",
+     "gf": 3,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1641,
     1645,
@@ -372,7 +782,48 @@
    "elo": 1669,
    "change30": 0,
    "played": 6,
-   "form": "WDWDD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "RB Leipzig",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "1. FC Köln",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "FC Augsburg",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Borussia Dortmund",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Paderborn",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1664,
     1661,
@@ -405,7 +856,48 @@
    "elo": 1649,
    "change30": 3,
    "played": 8,
-   "form": "DLWDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Cottbus",
+     "gf": 4,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "St Pauli",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Darmstadt 98",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "1. FC Nürnberg",
+     "gf": 4,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Heidenheim",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1668,
     1653,
@@ -438,7 +930,48 @@
    "elo": 1647,
    "change30": -21,
    "played": 6,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Elversberg",
+     "gf": 3,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "SC Freiburg",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Mainz 05",
+     "gf": 3,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "1. FC Köln",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Hoffenheim",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1668,
     1660,
@@ -471,7 +1004,48 @@
    "elo": 1647,
    "change30": 5,
    "played": 6,
-   "form": "LLLWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Bayer Leverkusen",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Schalke 04",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Bayern Munich",
+     "gf": 0,
+     "ga": 7,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Elversberg",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Borussia Dortmund",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1656,
     1652,
@@ -504,7 +1078,48 @@
    "elo": 1640,
    "change30": 11,
    "played": 6,
-   "form": "LLWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Mainz 05",
+     "gf": 0,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "RB Leipzig",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "1. FC Köln",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Hoffenheim",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "VfB Stuttgart",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1633,
     1643,
@@ -537,7 +1152,48 @@
    "elo": 1620,
    "change30": -8,
    "played": 6,
-   "form": "LDLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "VfB Stuttgart",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Werder Bremen",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Hamburger SV",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Borussia M'gladbach",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Eintracht Frankfurt",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1620,
     1616,
@@ -570,7 +1226,48 @@
    "elo": 1593,
    "change30": -3,
    "played": 6,
-   "form": "WLDLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Borussia M'gladbach",
+     "gf": 4,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Bayern Munich",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Schalke 04",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Union Berlin",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "FC Augsburg",
+     "gf": 4,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1544,
     1548,
@@ -603,7 +1300,48 @@
    "elo": 1584,
    "change30": 1,
    "played": 6,
-   "form": "LLWLD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "SC Freiburg",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Borussia Dortmund",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Hoffenheim",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "VfB Stuttgart",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Werder Bremen",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1548,
     1549,
@@ -636,7 +1374,48 @@
    "elo": 1570,
    "change30": -15,
    "played": 8,
-   "form": "WWDDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Greuther Fürth",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Holstein Kiel",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Arminia Bielefeld",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Kaiserslautern",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "VfL Wolfsburg",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1573,
     1559,
@@ -669,7 +1448,48 @@
    "elo": 1570,
    "change30": -1,
    "played": 8,
-   "form": "DWDWD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Arminia Bielefeld",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "VfL Wolfsburg",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Cottbus",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Karlsruhe",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Hannover 96",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1608,
     1607,
@@ -702,7 +1522,48 @@
    "elo": 1565,
    "change30": -12,
    "played": 6,
-   "form": "DWDLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Bayern Munich",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Union Berlin",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Elversberg",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "SC Freiburg",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Mainz 05",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1509,
     1515,
@@ -735,7 +1596,48 @@
    "elo": 1551,
    "change30": 1,
    "played": 8,
-   "form": "WWWWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Magdeburg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "VfL Osnabrück",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Dresden",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Greuther Fürth",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Holstein Kiel",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1522,
     1517,
@@ -768,7 +1670,48 @@
    "elo": 1528,
    "change30": -12,
    "played": 8,
-   "form": "DLWLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Karlsruhe",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "1. FC Nürnberg",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "VfL Bochum",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Magdeburg",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "St Pauli",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1547,
     1543,
@@ -801,7 +1744,48 @@
    "elo": 1518,
    "change30": 0,
    "played": 8,
-   "form": "DWWDD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Holstein Kiel",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Hannover 96",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Karlsruhe",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "VfL Wolfsburg",
+     "gf": 4,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Cottbus",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1473,
     1461,
@@ -834,7 +1818,48 @@
    "elo": 1512,
    "change30": 6,
    "played": 8,
-   "form": "WLWDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Darmstadt 98",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Magdeburg",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Braunschweig",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Heidenheim",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "VfL Bochum",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1505,
     1491,
@@ -867,7 +1892,48 @@
    "elo": 1509,
    "change30": -25,
    "played": 8,
-   "form": "WDLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Dresden",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Greuther Fürth",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Hannover 96",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Arminia Bielefeld",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Kaiserslautern",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1561,
     1547,
@@ -900,7 +1966,48 @@
    "elo": 1490,
    "change30": -13,
    "played": 8,
-   "form": "DLDLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "1. FC Nürnberg",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Heidenheim",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "VfL Osnabrück",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Braunschweig",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Hertha BSC",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1514,
     1505,
@@ -933,7 +2040,48 @@
    "elo": 1488,
    "change30": 0,
    "played": 8,
-   "form": "LWDWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Hertha BSC",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Kaiserslautern",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Greuther Fürth",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Hannover 96",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Dresden",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1461,
     1443,
@@ -966,7 +2114,48 @@
    "elo": 1485,
    "change30": -6,
    "played": 8,
-   "form": "LWLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Kaiserslautern",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Arminia Bielefeld",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "VfL Wolfsburg",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Cottbus",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Karlsruhe",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1564,
     1544,
@@ -999,7 +2188,48 @@
    "elo": 1470,
    "change30": -5,
    "played": 8,
-   "form": "DLLLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Hannover 96",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Cottbus",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "1. FC Nürnberg",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "St Pauli",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Darmstadt 98",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1495,
     1495,
@@ -1032,7 +2262,48 @@
    "elo": 1443,
    "change30": -11,
    "played": 8,
-   "form": "DWDLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "VfL Wolfsburg",
+     "gf": 4,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Karlsruhe",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "St Pauli",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Darmstadt 98",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "1. FC Nürnberg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1416,
     1414,
@@ -1065,7 +2336,48 @@
    "elo": 1442,
    "change30": 6,
    "played": 8,
-   "form": "DLDWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "St Pauli",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Darmstadt 98",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "D",
+     "opp": "Heidenheim",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "VfL Bochum",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "VfL Osnabrück",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1426,
     1413,
@@ -1098,7 +2410,48 @@
    "elo": 1439,
    "change30": 3,
    "played": 8,
-   "form": "LDDLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Heidenheim",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "VfL Bochum",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Magdeburg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Hertha BSC",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Braunschweig",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1417,
     1410,
@@ -1131,7 +2484,48 @@
    "elo": 1431,
    "change30": 0,
    "played": 8,
-   "form": "LDLDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "VfL Bochum",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "D",
+     "opp": "Braunschweig",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Hertha BSC",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "VfL Osnabrück",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Magdeburg",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1392,
     1394,
@@ -1164,7 +2558,48 @@
    "elo": 1426,
    "change30": -10,
    "played": 8,
-   "form": "WLDDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Braunschweig",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Hertha BSC",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Holstein Kiel",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Dresden",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Arminia Bielefeld",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1394,
     1403,
@@ -1197,7 +2632,48 @@
    "elo": 1408,
    "change30": -10,
    "played": 8,
-   "form": "LDLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "VfL Osnabrück",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Dresden",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Kaiserslautern",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Holstein Kiel",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Greuther Fürth",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1403,
     1389,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.701Z",
+ "updated": "2026-10-24T12:44:23.640Z",
  "league": "scotland",
  "name": "Scottish Premiership",
  "through": "2026-10-20",
@@ -42,7 +42,48 @@
    "elo": 1579,
    "change30": 4,
    "played": 14,
-   "form": "LWLWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "St Mirren",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "St Johnstone",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "L",
+     "opp": "Rangers",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Motherwell",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Hearts",
+     "gf": 7,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1593,
     1596,
@@ -75,7 +116,48 @@
    "elo": 1534,
    "change30": -3,
    "played": 13,
-   "form": "WWWWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Motherwell",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "St Mirren",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "W",
+     "opp": "Celtic",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Kilmarnock",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Dundee",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1589,
     1596,
@@ -108,7 +190,48 @@
    "elo": 1458,
    "change30": -13,
    "played": 17,
-   "form": "DWDLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Dundee",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Falkirk",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Kilmarnock",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "St Mirren",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Celtic",
+     "gf": 1,
+     "ga": 7,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1517,
     1522,
@@ -141,7 +264,48 @@
    "elo": 1373,
    "change30": -19,
    "played": 15,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Rangers",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Aberdeen",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "L",
+     "opp": "Dundee",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Celtic",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Kilmarnock",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1429,
     1421,
@@ -174,7 +338,48 @@
    "elo": 1370,
    "change30": -21,
    "played": 15,
-   "form": "LLDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "St Johnstone",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Kilmarnock",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Aberdeen",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Dundee United",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Falkirk",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1438,
     1433,
@@ -207,7 +412,48 @@
    "elo": 1329,
    "change30": 4,
    "played": 9,
-   "form": "LDWWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Motherwell",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "D",
+     "opp": "Falkirk",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "St Mirren",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Hibernian",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "St Johnstone",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1321,
     1326,
@@ -240,7 +486,48 @@
    "elo": 1316,
    "change30": 7,
    "played": 9,
-   "form": "DLWWD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "St Johnstone",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "L",
+     "opp": "Hearts",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Motherwell",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Falkirk",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Rangers",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1285,
     1294,
@@ -273,7 +560,48 @@
    "elo": 1304,
    "change30": -3,
    "played": 9,
-   "form": "DWDLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Kilmarnock",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Motherwell",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Hibernian",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "St Johnstone",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "St Mirren",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1297,
     1295,
@@ -306,7 +634,48 @@
    "elo": 1298,
    "change30": 4,
    "played": 9,
-   "form": "WLDWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Hibernian",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Celtic",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "D",
+     "opp": "Falkirk",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Aberdeen",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Dundee United",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1245,
     1256,
@@ -339,7 +708,48 @@
    "elo": 1296,
    "change30": 1,
    "played": 9,
-   "form": "DWDLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Aberdeen",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Hibernian",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Hearts",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Rangers",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Motherwell",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1282,
     1273,
@@ -372,7 +782,48 @@
    "elo": 1286,
    "change30": -2,
    "played": 9,
-   "form": "DWDLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Dundee United",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Hearts",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "St Johnstone",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Dundee",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Hibernian",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1299,
     1315,
@@ -405,7 +856,48 @@
    "elo": 1261,
    "change30": -20,
    "played": 9,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Celtic",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Rangers",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "L",
+     "opp": "Dundee United",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Hearts",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Aberdeen",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1289,
     1284,
@@ -438,7 +930,48 @@
    "elo": 1203,
    "change30": 16,
    "played": 11,
-   "form": "DWWWD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Raith Rvs",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Arbroath",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "W",
+     "opp": "Livingston",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Ayr",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-16"
+    },
+    {
+     "r": "D",
+     "opp": "Dunfermline",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-20"
+    }
+   ],
    "spark": [
     1188,
     1189,
@@ -471,7 +1004,48 @@
    "elo": 1159,
    "change30": -9,
    "played": 11,
-   "form": "DWLLD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Inverness CT",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Raith Rvs",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "L",
+     "opp": "Ayr",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "L",
+     "opp": "Partick Thistle",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Dunfermline",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1202,
     1195,
@@ -504,7 +1078,48 @@
    "elo": 1135,
    "change30": -4,
    "played": 11,
-   "form": "DLWWD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Partick Thistle",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Livingston",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "W",
+     "opp": "Morton",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "W",
+     "opp": "Queens Park",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Stenhousemuir",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1098,
     1106,
@@ -537,7 +1152,48 @@
    "elo": 1115,
    "change30": -3,
    "played": 10,
-   "form": "WWDDD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Queens Park",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Morton",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Ayr",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Livingston",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    },
+    {
+     "r": "D",
+     "opp": "Partick Thistle",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-20"
+    }
+   ],
    "spark": [
     1085,
     1099,
@@ -570,7 +1226,48 @@
    "elo": 1109,
    "change30": -9,
    "played": 10,
-   "form": "WWWLD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Partick Thistle",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "W",
+     "opp": "Arbroath",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Ayr",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "L",
+     "opp": "Inverness CT",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Raith Rvs",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1073,
     1081,
@@ -593,7 +1290,48 @@
    "elo": 1080,
    "change30": 17,
    "played": 11,
-   "form": "DWWLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Livingston",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Morton",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "W",
+     "opp": "Stenhousemuir",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Queens Park",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-13"
+    },
+    {
+     "r": "W",
+     "opp": "Arbroath",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1136,
     1126,
@@ -626,7 +1364,48 @@
    "elo": 1064,
    "change30": -7,
    "played": 11,
-   "form": "WLWDL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Queens Park",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Stenhousemuir",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "W",
+     "opp": "Livingston",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "D",
+     "opp": "Dunfermline",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Partick Thistle",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1139,
     1130,
@@ -659,7 +1438,48 @@
    "elo": 1042,
    "change30": -25,
    "played": 11,
-   "form": "LWLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Stenhousemuir",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Queens Park",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "L",
+     "opp": "Partick Thistle",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "L",
+     "opp": "Morton",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Inverness CT",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1098,
     1098,
@@ -692,7 +1512,48 @@
    "elo": 1011,
    "change30": 1,
    "played": 11,
-   "form": "LLLWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Dunfermline",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Inverness CT",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "L",
+     "opp": "Raith Rvs",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-03"
+    },
+    {
+     "r": "W",
+     "opp": "Arbroath",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Queens Park",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1085,
     1079,
@@ -725,7 +1586,48 @@
    "elo": 987,
    "change30": -17,
    "played": 11,
-   "form": "LLLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Ayr",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Arbroath",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-25"
+    },
+    {
+     "r": "L",
+     "opp": "Raith Rvs",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Inverness CT",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-13"
+    },
+    {
+     "r": "L",
+     "opp": "Morton",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1057,
     1057,

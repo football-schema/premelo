@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.682Z",
+ "updated": "2026-10-24T12:44:23.620Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-10-18",
@@ -42,7 +42,48 @@
    "elo": 1794,
    "change30": 1,
    "played": 12,
-   "form": "LWLLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Ajax",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Sparta Rotterdam",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Twente",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Heerenveen",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Den Haag",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1804,
     1792,
@@ -75,7 +116,48 @@
    "elo": 1689,
    "change30": 35,
    "played": 12,
-   "form": "WWWWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "NEC",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Zwolle",
+     "gf": 7,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Utrecht",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "AZ",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Telstar",
+     "gf": 4,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1636,
     1641,
@@ -108,7 +190,48 @@
    "elo": 1682,
    "change30": 20,
    "played": 17,
-   "form": "DDLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Fortuna Sittard",
+     "gf": 5,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Willem II",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "D",
+     "opp": "Excelsior",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "NEC",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Groningen",
+     "gf": 5,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1634,
     1626,
@@ -141,7 +264,48 @@
    "elo": 1635,
    "change30": 20,
    "played": 12,
-   "form": "WLWDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Heerenveen",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Willem II",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Telstar",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Feyenoord",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Cambuur",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1606,
     1593,
@@ -174,7 +338,48 @@
    "elo": 1626,
    "change30": 17,
    "played": 17,
-   "form": "WDWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Telstar",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "W",
+     "opp": "Den Haag",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "PSV",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Fortuna Sittard",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Utrecht",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1613,
     1619,
@@ -207,7 +412,48 @@
    "elo": 1556,
    "change30": 30,
    "played": 16,
-   "form": "DDDDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Excelsior",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-08"
+    },
+    {
+     "r": "L",
+     "opp": "Cambuur",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Go Ahead Eagles",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Ajax",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "Fortuna Sittard",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1578,
     1575,
@@ -240,7 +486,48 @@
    "elo": 1550,
    "change30": 16,
    "played": 9,
-   "form": "DWLWW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Go Ahead Eagles",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-08"
+    },
+    {
+     "r": "W",
+     "opp": "Excelsior",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Feyenoord",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Willem II",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Twente",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1529,
     1541,
@@ -273,7 +560,48 @@
    "elo": 1523,
    "change30": 34,
    "played": 9,
-   "form": "LDWLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "AZ",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Telstar",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Sparta Rotterdam",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "PSV",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Excelsior",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1476,
     1482,
@@ -306,7 +634,48 @@
    "elo": 1509,
    "change30": 19,
    "played": 9,
-   "form": "DDWWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Twente",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Go Ahead Eagles",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Zwolle",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Excelsior",
+     "gf": 5,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Ajax",
+     "gf": 2,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1431,
     1426,
@@ -339,7 +708,48 @@
    "elo": 1480,
    "change30": -1,
    "played": 9,
-   "form": "DDDDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Utrecht",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-08"
+    },
+    {
+     "r": "D",
+     "opp": "Groningen",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "NEC",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Sparta Rotterdam",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Zwolle",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1451,
     1458,
@@ -372,7 +782,48 @@
    "elo": 1459,
    "change30": 1,
    "played": 9,
-   "form": "DLLDW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Zwolle",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "PSV",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Heerenveen",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Go Ahead Eagles",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Willem II",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1489,
     1486,
@@ -405,7 +856,48 @@
    "elo": 1454,
    "change30": 22,
    "played": 9,
-   "form": "WLWDD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Den Haag",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Ajax",
+     "gf": 1,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Willem II",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Twente",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "D",
+     "opp": "NEC",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1424,
     1435,
@@ -438,7 +930,48 @@
    "elo": 1432,
    "change30": -8,
    "played": 9,
-   "form": "DLDLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "NEC",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-08"
+    },
+    {
+     "r": "L",
+     "opp": "Utrecht",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Ajax",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Groningen",
+     "gf": 1,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Heerenveen",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1372,
     1367,
@@ -471,7 +1004,48 @@
    "elo": 1426,
    "change30": 19,
    "played": 9,
-   "form": "DLLLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Sparta Rotterdam",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Feyenoord",
+     "gf": 0,
+     "ga": 7,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Groningen",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Cambuur",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Go Ahead Eagles",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1431,
     1434,
@@ -504,7 +1078,48 @@
    "elo": 1420,
    "change30": 5,
    "played": 9,
-   "form": "LDLDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Twente",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-09"
+    },
+    {
+     "r": "D",
+     "opp": "Heerenveen",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "AZ",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Den Haag",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Feyenoord",
+     "gf": 3,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1355,
     1367,
@@ -537,7 +1152,48 @@
    "elo": 1375,
    "change30": 24,
    "played": 9,
-   "form": "DWDWD",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Telstar",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "NEC",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Den Haag",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Zwolle",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "AZ",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1385,
     1387,
@@ -570,7 +1226,48 @@
    "elo": 1365,
    "change30": 24,
    "played": 9,
-   "form": "LLDDW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Fortuna Sittard",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Twente",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Cambuur",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Telstar",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "PSV",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1328,
     1320,
@@ -603,7 +1300,48 @@
    "elo": 1340,
    "change30": 0,
    "played": 9,
-   "form": "DLLLL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "AZ",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "L",
+     "opp": "Ajax",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-15"
+    },
+    {
+     "r": "L",
+     "opp": "Fortuna Sittard",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Utrecht",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Sparta Rotterdam",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1401,
     1391,

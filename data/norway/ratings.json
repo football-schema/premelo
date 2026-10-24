@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.714Z",
+ "updated": "2026-10-24T12:44:23.656Z",
  "league": "norway",
  "name": "Eliteserien",
  "through": "2026-10-18",
@@ -42,7 +42,48 @@
    "elo": 1752,
    "change30": -1,
    "played": 19,
-   "form": "LWWWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Fredrikstad",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Sandefjord",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "L",
+     "opp": "Brann",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Kristiansund",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "HamKam",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1695,
     1701,
@@ -75,7 +116,48 @@
    "elo": 1684,
    "change30": 19,
    "played": 18,
-   "form": "WWDWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Sandefjord",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Kristiansund",
+     "gf": 8,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Lillestrom",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Brann",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "W",
+     "opp": "Fredrikstad",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1653,
     1657,
@@ -108,7 +190,48 @@
    "elo": 1538,
    "change30": 24,
    "played": 12,
-   "form": "WWWDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "HamKam",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Tromso",
+     "gf": 5,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Kristiansund",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Sandefjord",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Sarpsborg 08",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1444,
     1446,
@@ -141,7 +264,48 @@
    "elo": 1523,
    "change30": -8,
    "played": 12,
-   "form": "WWLDW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "KFUM Oslo",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "HamKam",
+     "gf": 5,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Aalesund",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Lillestrom",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Start",
+     "gf": 6,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1479,
     1477,
@@ -174,7 +338,48 @@
    "elo": 1522,
    "change30": -7,
    "played": 19,
-   "form": "WLWLW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Lillestrom",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Start",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Bodo/Glimt",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Viking",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "L",
+     "opp": "Valerenga",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1518,
     1521,
@@ -207,7 +412,48 @@
    "elo": 1514,
    "change30": -1,
    "played": 16,
-   "form": "LLWDD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Kristiansund",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Rosenborg",
+     "gf": 3,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "HamKam",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Fredrikstad",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "KFUM Oslo",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1521,
     1513,
@@ -240,7 +486,48 @@
    "elo": 1442,
    "change30": -2,
    "played": 12,
-   "form": "LDDDL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Bodo/Glimt",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "D",
+     "opp": "Sarpsborg 08",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Valerenga",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Tromso",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Viking",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1456,
     1442,
@@ -273,7 +560,48 @@
    "elo": 1426,
    "change30": -1,
    "played": 12,
-   "form": "DDLWL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Valerenga",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Fredrikstad",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "KFUM Oslo",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Aalesund",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Rosenborg",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1443,
     1435,
@@ -306,7 +634,48 @@
    "elo": 1425,
    "change30": -7,
    "played": 12,
-   "form": "DLWDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Viking",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "Bodo/Glimt",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-14"
+    },
+    {
+     "r": "W",
+     "opp": "Start",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Rosenborg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Lillestrom",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1458,
     1456,
@@ -339,7 +708,48 @@
    "elo": 1407,
    "change30": 13,
    "played": 12,
-   "form": "LWWWD",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Molde",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "W",
+     "opp": "Aalesund",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Sarpsborg 08",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "Valerenga",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "D",
+     "opp": "Tromso",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1400,
     1385,
@@ -372,7 +782,48 @@
    "elo": 1398,
    "change30": 15,
    "played": 17,
-   "form": "LDDWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Brann",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "W",
+     "opp": "Valerenga",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Viking",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Molde",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Sandefjord",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1398,
     1388,
@@ -405,7 +856,48 @@
    "elo": 1395,
    "change30": 5,
    "played": 13,
-   "form": "LLLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Rosenborg",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-05"
+    },
+    {
+     "r": "L",
+     "opp": "Molde",
+     "gf": 1,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Tromso",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Start",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Bodo/Glimt",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1413,
     1417,
@@ -438,7 +930,48 @@
    "elo": 1394,
    "change30": 10,
    "played": 12,
-   "form": "DLDLW",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Sarpsborg 08",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Lillestrom",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Fredrikstad",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "KFUM Oslo",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "W",
+     "opp": "Brann",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1434,
     1415,
@@ -471,7 +1004,48 @@
    "elo": 1345,
    "change30": 22,
    "played": 12,
-   "form": "WLWLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Start",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "L",
+     "opp": "KFUM Oslo",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Molde",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Sarpsborg 08",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Kristiansund",
+     "gf": 4,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1299,
     1297,
@@ -504,7 +1078,48 @@
    "elo": 1335,
    "change30": -35,
    "played": 12,
-   "form": "WLLLL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Tromso",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Viking",
+     "gf": 1,
+     "ga": 8,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Rosenborg",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Bodo/Glimt",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Aalesund",
+     "gf": 1,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1383,
     1383,
@@ -537,7 +1152,48 @@
    "elo": 1296,
    "change30": -29,
    "played": 11,
-   "form": "LWLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Aalesund",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-04"
+    },
+    {
+     "r": "W",
+     "opp": "Brann",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Sandefjord",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "HamKam",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Molde",
+     "gf": 1,
+     "ga": 6,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1306,
     1308,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:39:07.707Z",
+ "updated": "2026-10-24T12:44:23.647Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-10-18",
@@ -42,7 +42,48 @@
    "elo": 1594,
    "change30": -6,
    "played": 16,
-   "form": "WDLWD",
+   "form": [
+    {
+     "r": "W",
+     "opp": "SK Rapid",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "D",
+     "opp": "Ried",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Sturm Graz",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "D",
+     "opp": "Grazer AK",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Altach",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1557,
     1557,
@@ -75,7 +116,48 @@
    "elo": 1582,
    "change30": 15,
    "played": 16,
-   "form": "LWLWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "SK Rapid",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "W",
+     "opp": "LASK",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Salzburg",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Austria Vienna",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Grazer AK",
+     "gf": 6,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1532,
     1533,
@@ -108,7 +190,48 @@
    "elo": 1569,
    "change30": 9,
    "played": 14,
-   "form": "DLLWW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Wolfsberger AC",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-01"
+    },
+    {
+     "r": "L",
+     "opp": "Sturm Graz",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Hartberg",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "SK Rapid",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "A. Lustenau",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1487,
     1489,
@@ -141,7 +264,48 @@
    "elo": 1523,
    "change30": 17,
    "played": 15,
-   "form": "LWWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Salzburg",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "W",
+     "opp": "Wolfsberger AC",
+     "gf": 3,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "W",
+     "opp": "Tirol",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "W",
+     "opp": "LASK",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Hartberg",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1433,
     1440,
@@ -174,7 +338,48 @@
    "elo": 1465,
    "change30": -11,
    "played": 15,
-   "form": "LWDLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Tirol",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "W",
+     "opp": "A. Lustenau",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "Grazer AK",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Sturm Graz",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Ried",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1466,
     1468,
@@ -207,7 +412,48 @@
    "elo": 1443,
    "change30": 1,
    "played": 9,
-   "form": "WDDWL",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Ried",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "D",
+     "opp": "Tirol",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "D",
+     "opp": "LASK",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "A. Lustenau",
+     "gf": 4,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "SK Rapid",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-16"
+    }
+   ],
    "spark": [
     1440,
     1441,
@@ -240,7 +486,48 @@
    "elo": 1418,
    "change30": -31,
    "played": 9,
-   "form": "LLLLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "LASK",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-01"
+    },
+    {
+     "r": "L",
+     "opp": "SK Rapid",
+     "gf": 0,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "Ried",
+     "gf": 1,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Altach",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Tirol",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1461,
     1450,
@@ -273,7 +560,48 @@
    "elo": 1398,
    "change30": 26,
    "played": 9,
-   "form": "LDWWW",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Hartberg",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-08-30"
+    },
+    {
+     "r": "D",
+     "opp": "Salzburg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-11"
+    },
+    {
+     "r": "W",
+     "opp": "Wolfsberger AC",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Tirol",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Austria Vienna",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1349,
     1354,
@@ -306,7 +634,48 @@
    "elo": 1378,
    "change30": 6,
    "played": 9,
-   "form": "WDLLW",
+   "form": [
+    {
+     "r": "W",
+     "opp": "Austria Vienna",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-02"
+    },
+    {
+     "r": "D",
+     "opp": "Hartberg",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "SK Rapid",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Ried",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Wolfsberger AC",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1371,
     1367,
@@ -339,7 +708,48 @@
    "elo": 1377,
    "change30": 1,
    "played": 9,
-   "form": "DWDDL",
+   "form": [
+    {
+     "r": "D",
+     "opp": "Wolfsberger AC",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "W",
+     "opp": "Altach",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "D",
+     "opp": "Austria Vienna",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "D",
+     "opp": "Salzburg",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Sturm Graz",
+     "gf": 1,
+     "ga": 6,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1319,
     1330,
@@ -372,7 +782,48 @@
    "elo": 1370,
    "change30": 2,
    "played": 9,
-   "form": "LLLWL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "LASK",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-08-29"
+    },
+    {
+     "r": "L",
+     "opp": "Grazer AK",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-12"
+    },
+    {
+     "r": "L",
+     "opp": "A. Lustenau",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "Wolfsberger AC",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Salzburg",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-18"
+    }
+   ],
    "spark": [
     1358,
     1365,
@@ -405,7 +856,48 @@
    "elo": 1354,
    "change30": 0,
    "played": 9,
-   "form": "LLWLL",
+   "form": [
+    {
+     "r": "L",
+     "opp": "Tirol",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-08-28"
+    },
+    {
+     "r": "L",
+     "opp": "Austria Vienna",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Altach",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Hartberg",
+     "gf": 3,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "LASK",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-17"
+    }
+   ],
    "spark": [
     1336,
     1338,
