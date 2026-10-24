@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:19:30.684Z",
+ "updated": "2026-10-24T19:36:23.021Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-10-18",
@@ -404,14 +404,6 @@
     1518
    ],
    "rank": 4,
-   "next": {
-    "opp": "A. Lustenau",
-    "oppSlug": "a-lustenau",
-    "ha": "h",
-    "kickoff": "2026-10-24T17:30:00.000Z",
-    "win": 0.629,
-    "draw": 0.216
-   },
    "table": {
     "pos": 1,
     "p": 9,
@@ -1132,14 +1124,6 @@
     1349
    ],
    "rank": 12,
-   "next": {
-    "opp": "SK Rapid",
-    "oppSlug": "sk-rapid",
-    "ha": "a",
-    "kickoff": "2026-10-24T17:30:00.000Z",
-    "win": 0.154,
-    "draw": 0.216
-   },
    "table": {
     "pos": 9,
     "p": 9,
