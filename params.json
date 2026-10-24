@@ -6,8 +6,8 @@
       "margin": "log",
       "regress": 0.1,
       "start": {
-        "top": 1600,
-        "second": 1450
+        "top": 1719,
+        "second": 1569
       },
       "hfaEmpty": 0
     },
@@ -24,8 +24,8 @@
       "margin": "wfe",
       "regress": 0,
       "start": {
-        "top": 1600,
-        "second": 1450
+        "top": 1719,
+        "second": 1569
       },
       "hfaEmpty": 30
     },
@@ -42,8 +42,8 @@
       "margin": "log",
       "regress": 0.1,
       "start": {
-        "top": 1600,
-        "second": 1450
+        "top": 1719,
+        "second": 1569
       },
       "hfaEmpty": 30
     },
@@ -60,8 +60,8 @@
       "margin": "wfe",
       "regress": 0,
       "start": {
-        "top": 1600,
-        "second": 1450
+        "top": 1719,
+        "second": 1569
       },
       "hfaEmpty": 30
     },
@@ -78,8 +78,8 @@
       "margin": "wfe",
       "regress": 0,
       "start": {
-        "top": 1600,
-        "second": 1450
+        "top": 1719,
+        "second": 1569
       },
       "hfaEmpty": 0
     },
@@ -93,10 +93,10 @@
     "c": 525
   },
   "europe": {
-    "k": 30,
+    "k": 16,
     "hfa": 90,
-    "margin": "log",
+    "margin": "wfe",
     "other": 100,
-    "kLeague": 2
+    "kLeague": 4
   }
 }

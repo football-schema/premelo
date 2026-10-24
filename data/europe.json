@@ -3,9 +3,9 @@
  "matches": 3388,
  "from": "2011-09-13",
  "model": {
-  "logloss": 0.9533,
-  "rps": 0.1986,
-  "brier": 0.5638
+  "logloss": 0.955,
+  "rps": 0.1992,
+  "brier": 0.5651
  },
  "baseline": {
   "logloss": 1.047,
@@ -13,10 +13,10 @@
   "brier": 0.6321
  },
  "params": {
-  "k": 30,
+  "k": 16,
   "hfa": 90,
-  "margin": "log",
+  "margin": "wfe",
   "other": 100,
-  "kLeague": 2
+  "kLeague": 4
  }
 }

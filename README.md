@@ -31,17 +31,19 @@ next to the bookmakers' prices with their margin taken out (closing prices from 
 
 | League | Matches | premelo log loss | Bookmakers | premelo RPS | Bookmakers |
 |---|---|---|---|---|---|
-| Premier League | 9,950 | 0.977 | 0.965 | 0.199 | 0.1945 |
-| La Liga | 9,967 | 0.985 | 0.970 | 0.201 | 0.1959 |
-| Bundesliga | 8,010 | 1.001 | 0.990 | 0.207 | 0.2033 |
+| Premier League | 9,950 | 0.976 | 0.965 | 0.198 | 0.1945 |
+| La Liga | 9,967 | 0.983 | 0.970 | 0.200 | 0.1959 |
+| Bundesliga | 8,010 | 1.000 | 0.990 | 0.207 | 0.2033 |
 | Serie A | 9,646 | 0.983 | 0.961 | 0.196 | 0.1893 |
 | Ligue 1 | 9,470 | 1.015 | 1.003 | 0.205 | 0.2016 |
 
-European cups (3,388 matches since 2011-12): log loss 0.953, against 1.047 for base rates (`data/europe.json`).
+European cups (3,388 matches since 2011-12): log loss 0.955, against 1.047 for base rates (`data/europe.json`).
 
-Against ClubElo's published table of 23 January 2025 (archived), the order within each league correlates at
-0.986-0.994, and the clubs at the top land close: Real Madrid 1951 (ClubElo 1952), Liverpool 2011 (2001),
-Chelsea 1860 (1859), Atalanta 1897 (1908), Barcelona 1873 (1890).
+Against ClubElo's table of 24 October 2026, the 31 big-five clubs in its top 40 are 25 points apart on average
+(root mean square), and 20 of them within 20 points: Bayern Munich 2040 (ClubElo 2040), Liverpool 1940 (1940),
+Real Madrid 1980 (1986), Chelsea 1892 (1896), Barcelona 2008 (2031), Arsenal 2077 (2049). The biggest differences are
+Paris SG (+79), Manchester United (+47) and Real Betis (−48). The scale's origin (where 1993's clubs start) is set so
+the numbers read like ClubElo's; that shifts every club alike and changes no gap or prediction.
 
 A baseline that knows only how often home sides, draws and away sides win scores about 1.07. Being 0.01-0.02 behind
 the closing odds is about where the literature puts results-only models; nothing published reliably beats them.
