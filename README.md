@@ -75,6 +75,12 @@ clubs of different rated leagues, most leagues' clubs scored within about 3% of 
   summer, faster K for new clubs; `q`, `rNew`): built and searched, but tuned on 2000-2011 it never beat a plain K, so
   the holdout model doesn't use it; tuned on everything, only Portugal and Romania pick it up, by a hair.
 - **Real xG** (not just shots on target) would likely help more; there is no free, licensed source.
+- **The small cross-country bias** (since 2015, Belgian and Polish clubs score about 4% above what premelo expects in
+  Europe, the big five's 1-2% below): four fixes were tested out of sample on 2015-2026 European matches, a faster or
+  slower league shift, a fixed European offset per league fitted on 2000-2014, and pulling European entrants towards
+  their league's average (they qualify off good, partly lucky, seasons). None improved the European log loss by more
+  than 0.0002 or moved the bias, so none is in. It's worth about 25 points for Belgium and Poland and 10 for the big
+  five; squad rotation in Europe is one likely cause that results alone can't see.
 - **Domestic cups** would link each league's divisions directly, not only through promotion and relegation.
 - **Older history for the 2012 leagues** (engsoccerdata and RSSSF have some) would give them a holdout and a better start.
 - Tried and found no help out of sample: an ordered logit in place of the Poisson grid, FiveThirtyEight's margin

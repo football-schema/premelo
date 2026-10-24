@@ -46,8 +46,8 @@
    "margin": "log",
    "regress": 0.1,
    "start": {
-    "top": 1545,
-    "second": 1395
+    "top": 1626,
+    "second": 1476
    },
    "hfaEmpty": 30,
    "kH": 0.5,
