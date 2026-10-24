@@ -33,8 +33,10 @@ Finnish top divisions. (Russia is left out: its file stops in August 2026 and it
   home/draw/away, the goal lines, both teams to score and the likeliest scores all come from the mix.
 - **Table and projection** (`lib/table.mjs`). Each division's table from this season's results, and, in the divisions
   played as a plain double round-robin (the big five's top two, Portugal, the Netherlands, Turkey, Poland, Norway and
-  Sweden: `PLACES` in `lib/leagues.mjs`), every remaining pairing played out 10,000 times from its chances, the ratings held
-  where they are today. Each result is drawn from home/draw/away and its score from the expected goals given that result,
+  Sweden: `PLACES` in `lib/leagues.mjs`), every remaining pairing played out 10,000 times from its chances. Inside each simulated season
+  the ratings keep moving with its simulated results (FiveThirtyEight's "hot" simulations), so a later match's chances move
+  too; backtested from seven rounds into the big five's 2005-06 to 2024-25 seasons, holding them fixed was overconfident
+  (85% relegation calls came true 76% of the time) and moving ratings scored better on the title, top four and relegation. Each result is drawn from home/draw/away and its score from the expected goals given that result,
   for goal difference. Out of that: projected points and the chance of the title, the top four or automatic promotion, and
   direct relegation. Ties split on goal difference, then goals; head-to-head rules, deductions and play-offs aren't
   modelled. The generator is seeded, so the same results give the same numbers. Leagues that split into further rounds

@@ -10,7 +10,7 @@
 import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'node:fs';
 import { fromCsv, byDate, parseCsv, isoDate } from '../lib/results.mjs';
 import { runAll } from '../lib/elo.mjs';
-import { goals, grid, gridOf, blended } from '../lib/goals.mjs';
+import { goals, grid, gridOf, blended, markets } from '../lib/goals.mjs';
 import { run as runAttack } from '../lib/attack.mjs';
 import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc, startOf } from '../lib/seasons.mjs';
@@ -104,8 +104,10 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   for (const div of league.divs) {
     const games = list.filter((m) => m.div === div), now = games.at(-1)?.season, results = games.filter((m) => m.season === now);
     const members = [...divisions].filter(([, d]) => d === div).map(([c]) => c), table = standings(members, results);
-    const places = PLACES[div], left = places ? remaining(members, results).map((f) => { const q = price(f.home, f.away, div); return q && { ...f, H: q.m.H, D: q.m.D, A: q.m.A, xg: q.m.xg }; }) : [];
-    const sim = places && left.every(Boolean) ? simulate(table, left, { n: 10000, seed: results.length + 1 }) : null;
+    const places = PLACES[div], left = places ? remaining(members, results).map((f) => { const q = price(f.home, f.away, div); return q && { ...f, H: q.m.H, D: q.m.D, A: q.m.A, xg: q.m.xg, dr: q.dr }; }) : [];
+    // ratings keep moving inside each simulated season by the Elo's own K and margin (lib/table.mjs says why)
+    const eloPrice = (dr) => { const m = markets(dr, p.goals); return [m.H, m.D, ...goals(dr, p.goals)]; };
+    const sim = places && left.every(Boolean) ? simulate(table, left, { n: 10000, seed: results.length + 1, hot: { k: p.elo.k, margin: p.elo.margin, price: eloPrice } }) : null;
     if (sim) projected[div === top ? 'top' : 'second'] = { ...places, left: left.length };
     for (const r of table) {
       const c = clubs.find((x) => x.club === r.club);

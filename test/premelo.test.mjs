@@ -182,3 +182,10 @@ test('simulate: places sum to one, a certain result is certain, and it repeats w
   assert.ok(s.get('A').pts >= 3 && s.get('B').pts <= 3);
   assert.deepEqual(simulate(t, games, { n: 500, seed: 7 }), simulate(t, games, { n: 500, seed: 7 }));
 });
+test('simulate, hot: a simulated result moves the later chances, and places still sum to one', () => {
+  const t = standings(['A', 'B', 'C'], []), price = (dr) => { const h = 1 / (1 + 10 ** (-dr / 400)); return [h * 0.75, 0.25, 1.3 + dr / 800, 1.3 - dr / 800]; };
+  const games = remaining(['A', 'B', 'C'], []).map((m) => ({ ...m, dr: 0, H: 0.375, D: 0.25, A: 0.375, xg: [1.3, 1.3] }));
+  const s = simulate(t, games, { n: 3000, hot: { k: 20, margin: 'log', price } });
+  assert.ok(Math.abs([...s.values()].reduce((x, c) => x + c.pos[0], 0) - 1) < 1e-9);
+  assert.ok([...s.values()].every((c) => c.pos[0] > 0.2 && c.pos[0] < 0.47));
+});
