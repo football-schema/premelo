@@ -23,6 +23,9 @@ a { color: var(--accent); }
 .brand b { color: var(--accent); }
 nav a { margin-right: 16px; text-decoration: none; color: var(--text2); font-weight: 500; }
 nav a.on { color: var(--text); border-bottom: 2px solid var(--accent); }
+.leagues { max-width: 1000px; margin: 0 auto; padding: 4px 16px 6px; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.leagues a { flex: none; text-decoration: none; color: var(--text2); border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 4px 12px; font-size: 13px; }
+.leagues a.on { background: var(--text); color: var(--card); border-color: var(--text); }
 main { max-width: 1000px; margin: 0 auto; padding: 8px 16px 24px; }
 .foot { max-width: 1000px; margin: 0 auto; padding: 16px; color: var(--muted); font-size: 12px; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px; margin-bottom: 16px; overflow: hidden; }

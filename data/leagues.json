@@ -1,0 +1,110 @@
+{
+ "updated": "2026-10-24T07:17:06.865Z",
+ "leagues": [
+  {
+   "id": "pl",
+   "name": "Premier League",
+   "country": "England",
+   "second": "Championship",
+   "through": "2026-10-23",
+   "top": [
+    [
+     "Manchester City",
+     1922
+    ],
+    [
+     "Arsenal",
+     1904
+    ],
+    [
+     "Liverpool",
+     1804
+    ]
+   ]
+  },
+  {
+   "id": "laliga",
+   "name": "La Liga",
+   "country": "Spain",
+   "second": "Segunda División",
+   "through": "2026-10-21",
+   "top": [
+    [
+     "Barcelona",
+     1759
+    ],
+    [
+     "Real Madrid",
+     1717
+    ],
+    [
+     "Atlético Madrid",
+     1652
+    ]
+   ]
+  },
+  {
+   "id": "bundesliga",
+   "name": "Bundesliga",
+   "country": "Germany",
+   "second": "2. Bundesliga",
+   "through": "2026-10-18",
+   "top": [
+    [
+     "Bayern Munich",
+     1907
+    ],
+    [
+     "Borussia Dortmund",
+     1791
+    ],
+    [
+     "Bayer Leverkusen",
+     1773
+    ]
+   ]
+  },
+  {
+   "id": "seriea",
+   "name": "Serie A",
+   "country": "Italy",
+   "second": "Serie B",
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Inter",
+     1970
+    ],
+    [
+     "AS Roma",
+     1848
+    ],
+    [
+     "Napoli",
+     1807
+    ]
+   ]
+  },
+  {
+   "id": "ligue1",
+   "name": "Ligue 1",
+   "country": "France",
+   "second": "Ligue 2",
+   "through": "2026-10-19",
+   "top": [
+    [
+     "Paris Saint-Germain",
+     1819
+    ],
+    [
+     "Lens",
+     1718
+    ],
+    [
+     "Olympique Lyonnais",
+     1715
+    ]
+   ]
+  }
+ ]
+}

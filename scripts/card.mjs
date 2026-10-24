@@ -20,8 +20,8 @@ export function card(ratings) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="DejaVu Sans, sans-serif">
   <rect width="1200" height="630" fill="#fcfcfb"/>
   <text x="80" y="112" font-size="72" fill="#0b0b0b" letter-spacing="-1.5"><tspan fill="#2a78d6" font-weight="bold">prem</tspan>elo</text>
-  <text x="80" y="164" font-size="30" fill="#52514e">Premier League Elo, from every result since 1993</text>
-  <g font-size="20" fill="#77766f"><text x="122" y="214">Club</text><text x="640" y="214" text-anchor="end">Elo</text><text x="760" y="214" text-anchor="end">30 days</text><text x="820" y="214">Last 20 matches</text></g>
+  <text x="80" y="164" font-size="30" fill="#52514e">Elo for Europe’s big five leagues, from every result since 1993</text>
+  <g font-size="20" fill="#77766f"><text x="122" y="214">Premier League</text><text x="640" y="214" text-anchor="end">Elo</text><text x="760" y="214" text-anchor="end">30 days</text><text x="820" y="214">Last 20 matches</text></g>
   <line x1="80" x2="1120" y1="230" y2="230" stroke="#e4e3df" stroke-width="2"/>
   <g font-size="28">
   ${rows}

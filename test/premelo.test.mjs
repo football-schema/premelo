@@ -3,7 +3,9 @@ import assert from 'node:assert/strict';
 import { parseCsv, isoDate, matches, oddsOf, toCsv, fromCsv } from '../lib/results.mjs';
 import { run, marginFactor, expectedScore } from '../lib/elo.mjs';
 import { markets, table } from '../lib/goals.mjs';
-import { seasons, currentSeason, label } from '../lib/seasons.mjs';
+import { seasons, currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
+import { slug, canonical } from '../lib/teams.mjs';
+import { LEAGUES, leagueOf } from '../lib/leagues.mjs';
 import { parseMatch } from '../lib/matchday.mjs';
 
 test('season codes run from 1993-94 to the season under way, which starts in July', () => {
@@ -70,4 +72,24 @@ test('the goals model: probabilities add up, a bigger gap favours the home side 
 test('a matchday match becomes a fixture under football-data\'s club names', () => {
   const m = parseMatch({ kickoff: '2026-10-24T11:30:00Z', matchweek: 8, status: 'scheduled', homeTeam: '../../clubs/AVL.jsonld#this', awayTeam: '../../clubs/MCI.jsonld#this' });
   assert.deepEqual(m, { kickoff: '2026-10-24T11:30:00.000Z', gw: 8, home: 'Aston Villa', away: 'Man City', status: 'scheduled', ft: null, tbc: false });
+});
+
+test('UK kick-off times become UTC on either side of the clocks changing', () => {
+  assert.equal(ukToUtc('2026-10-24', '15:00'), '2026-10-24T14:00:00.000Z'); // British Summer Time
+  assert.equal(ukToUtc('2026-10-31', '15:00'), '2026-10-31T15:00:00.000Z'); // Greenwich Mean Time
+  assert.equal(ukToUtc('2026-12-26'), '2026-12-26T15:00:00.000Z');
+});
+
+test('club pages have plain addresses, and one club under two names is one club', () => {
+  assert.equal(slug('Preußen Münster'), 'preussen-munster'); assert.equal(slug("Nott'm Forest"), 'nott-m-forest'); assert.equal(slug('Ath Madrid'), 'ath-madrid');
+  assert.equal(canonical('Leonesa'), 'Cultural Leonesa'); assert.equal(canonical('Arsenal'), 'Arsenal');
+  assert.equal(leagueOf('SP2'), 'laliga'); assert.equal(Object.keys(LEAGUES).length, 5);
+});
+
+test('a country whose second division starts later still rates the clubs coming up', () => {
+  const g = (season, date, div, home, away, hg, ag) => ({ season, date, div, home, away, hg, ag });
+  const list = [g('9394', '1993-08-29', 'I1', 'Juve', 'Bari', 3, 0), g('9495', '1994-08-28', 'I1', 'Juve', 'Novo', 1, 0)];
+  let novo = null;
+  run(list, { regress: 0 }, { divs: ['I1', 'I2'], each: (m, x) => { if (m.away === 'Novo') novo = x.away; } });
+  assert.ok(Number.isFinite(novo) && novo < 1600, 'Novo takes the relegated Bari\'s rating');
 });
