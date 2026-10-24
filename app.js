@@ -8,7 +8,7 @@ const signed = (n) => (n > 0 ? `+${n}` : n < 0 ? `−${-n}` : '0');
 const cache = new Map();
 const get = (path) => cache.get(path) ?? cache.set(path, fetch(path).then((r) => { if (!r.ok) throw new Error(`${path}: ${r.status}`); return r.json(); })).get(path);
 const day = (iso) => new Date(iso).toLocaleDateString(undefined, { weekday: 'short', day: 'numeric', month: 'short' });
-const time = (iso) => new Date(iso).toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
+const time = (iso) => new Date(iso).toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit' });
 const fullDate = (iso) => new Date(iso).toLocaleDateString(undefined, { day: 'numeric', month: 'long', year: 'numeric' });
 // as lib/teams.mjs makes them
 const slugOf = (club) => club.replace(/ß/g, 'ss').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -22,7 +22,8 @@ function spark(values, w = 90, h = 22) {
   if (!values?.length) return '';
   const lo = Math.min(...values), hi = Math.max(...values), span = hi - lo || 1;
   const pts = values.map((v, i) => `${(i / (values.length - 1 || 1)) * (w - 4) + 2},${h - 2 - ((v - lo) / span) * (h - 4)}`).join(' ');
-  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linejoin="round"/></svg>`;
+  const [lx, ly] = pts.split(' ').at(-1).split(',');
+  return `<svg class="spark" width="${w + 3}" height="${h}" viewBox="0 0 ${w + 3} ${h}" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linejoin="round"/><circle cx="${lx}" cy="${ly}" r="2.5" fill="var(--accent)"/></svg>`;
 }
 const form = (f) => `<span class="form">${[...f].map((r) => `<span class="${r}">${r}</span>`).join('')}</span>`;
 const bar = (f) => `<div class="bar" role="img" aria-label="${esc(f.homeName)} ${pct(f.H)}%, draw ${pct(f.D)}%, ${esc(f.awayName)} ${pct(f.A)}%">
@@ -31,7 +32,7 @@ const clubLink = (slug, name) => `<a href="#/${league}/club/${slug}">${esc(name)
 
 // grouped by matchweek where there is one (the Premier League's, from matchday), else by day
 function fixtureRows(list) {
-  let group = null, out = '';
+  let group = null, out = '<div class="bar-key"><span></span><span></span><span></span><span><i>Home</i><i>Draw</i><i>Away</i></span></div>';
   for (const f of list) {
     const g = f.gw ? `Matchweek ${f.gw}` : day(f.kickoff);
     if (g !== group) { group = g; out += `<div class="gw">${esc(g)}</div>`; }
@@ -80,7 +81,9 @@ function ratingChart(h, el) {
     <g class="grid">${grid.map((y) => `<line x1="${Lm}" x2="${W - R}" y1="${Y(y)}" y2="${Y(y)}"/>`).join('')}</g>
     <g class="axis">${grid.map((y) => `<text x="${Lm - 6}" y="${Y(y) + 4}" text-anchor="end">${y}</text>`).join('')}
     ${years.filter((_, i) => i % step === 0).map((y) => `<text x="${X(Date.UTC(y, 0, 1))}" y="${H - 6}" text-anchor="middle">${y}</text>`).join('')}</g>
+    <polygon class="area" points="${X(t0)},${H - B} ${h.map((x, i) => `${X(t[i]).toFixed(1)},${Y(v[i]).toFixed(1)}`).join(' ')} ${X(t1)},${H - B}"/>
     <polyline class="line" points="${h.map((x, i) => `${X(t[i]).toFixed(1)},${Y(v[i]).toFixed(1)}`).join(' ')}"/>
+    ${(() => { const i = v.indexOf(Math.max(...v)); return `<circle class="peak" cx="${X(t[i])}" cy="${Y(v[i])}" r="4"/><text x="${X(t[i])}" y="${Y(v[i]) - 9}" text-anchor="middle" class="axis" style="fill:var(--text2);font-size:11px">${v[i]}</text>`; })()}
     <line class="hair" y1="${T}" y2="${H - B}" style="display:none"/><circle class="dot" r="4.5" style="display:none"/>
     <rect x="${Lm}" y="${T}" width="${W - Lm - R}" height="${H - T - B}" fill="transparent"/></svg><div class="tip"></div>`;
   const svg = el.querySelector('svg'), hair = svg.querySelector('.hair'), dot = svg.querySelector('.dot'), tip = el.querySelector('.tip'), second = L().second;
@@ -114,8 +117,8 @@ async function viewClub(slug) {
   const recent = h.slice(-10).reverse();
   $('main').innerHTML = `<h1>${esc(c.name)}</h1>
     <p class="sub">${now ? `${now.div === 'top' ? esc(l.name) : esc(l.second)} · ${ordinal(now.rank)} of ${r.clubs.filter((x) => x.div === now.div).length}` : `Outside ${esc(l.country)}'s ${l.second ? 'top two divisions' : 'top division'} this season`} · ${h.filter((x) => x[6] !== 'europe').length} league matches since ${h[0][0].slice(0, 4)}${h.some((x) => x[6] === 'europe') ? ` and ${h.filter((x) => x[6] === 'europe').length} in Europe` : ''}</p>
-    <div class="stats"><div><b>${h.at(-1)[1]}</b>Elo now</div><div><b>${best[1]}</b>Highest · ${best[0].slice(0, 4)}</div><div><b>${worst[1]}</b>Lowest · ${worst[0].slice(0, 4)}</div>${now ? `<div><b class="${now.change30 > 0 ? 'up' : now.change30 < 0 ? 'down' : ''}">${signed(now.change30)}</b>Last 30 days</div>` : ''}</div>
-    <div class="card"><h2>Rating since ${h[0][0].slice(0, 4)}</h2><div class="chart" id="chart"></div>${l.second ? `<p class="small muted" style="margin:8px 0 0">Shaded: seasons in the ${esc(l.second)}.</p>` : ''}</div>
+    <div class="stats"><div><b>${now?.elo ?? h.at(-1)[1]}</b>Elo now</div><div><b>${best[1]}</b>Highest · ${best[0].slice(0, 4)}</div><div><b>${worst[1]}</b>Lowest · ${worst[0].slice(0, 4)}</div>${now ? `<div><b class="${now.change30 > 0 ? 'up' : now.change30 < 0 ? 'down' : ''}">${signed(now.change30)}</b>Last 30 days</div>` : ''}</div>
+    <div class="card"><h2>Rating since ${h[0][0].slice(0, 4)}</h2><div class="chart" id="chart"></div>${l.second && h.some((x) => x[6] === 'second') ? `<p class="small muted" style="margin:8px 0 0">Shaded: seasons in the ${esc(l.second)}.</p>` : ''}</div>
     ${mine.length ? `<div class="card"><h2>Coming up</h2>${fixtureRows(mine)}</div>` : ''}
     <div class="card"><h2>Last 10 matches</h2><table><tr><th>Date</th><th>Opponent</th><th class="n">Score</th><th class="n">Elo after</th><th class="n">Change</th></tr>
     ${recent.map((x, i) => { const prev = h[h.length - 2 - i]?.[1] ?? x[1], d = x[1] - prev; return `<tr><td class="muted">${fullDate(x[0])}${x[6] === 'europe' ? ' · Europe' : ''}</td><td>${x[5] === 'a' ? '@ ' : x[5] === 'n' ? 'v ' : ''}${opponent(x)}</td><td class="n">${x[3]}-${x[4]}</td><td class="n">${x[1]}</td><td class="n ${d > 0 ? 'up' : d < 0 ? 'down' : 'muted'}">${signed(d)}</td></tr>`; }).join('')}</table></div>`;
