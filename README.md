@@ -113,7 +113,7 @@ node scripts/build.mjs                          # -> ratings, fixtures, club his
 npm test
 ```
 
-After a matchday: `node scripts/fetch.mjs --current && node scripts/fetch-uefa.mjs --current && node scripts/import.mjs && node scripts/build.mjs`, then commit and push. No dependencies: Node 22 or later. The site is the `gh-pages` branch as it is.
+Updates: `scripts/update.sh` fetches this season's results (one request a second), imports, scores, builds, and commits and pushes `data/` if anything moved. Cron runs it on the maintainer's machine at 08:00 and 23:40; nothing runs on GitHub's side. No dependencies: Node 22 or later. The site is the `gh-pages` branch as it is.
 
 | File | What's in it |
 |---|---|
@@ -125,5 +125,8 @@ After a matchday: `node scripts/fetch.mjs --current && node scripts/fetch-uefa.m
 | `data/<league>/fixtures.json` | coming matches: home/draw/away, expected goals, over 2.5, both to score, likeliest scores |
 | `data/<league>/backtest.json` | `test`: the holdout scores; `all`: in-sample; by season, against the bookmakers; calibration |
 | `data/<league>/results.csv` | every match: `date,season,div,home,away,hg,ag` |
+| `data/scorecard.json` | this season so far, per league, with the settings frozen since 2012: scores against the results and the closing prices, the last week's results with the chance premelo gave each, and the upsets |
+| `data/movers.json` | the week's biggest rating changes |
+| `data/europe-fixtures.json` | the coming Champions League, Europa League and Conference League matches, priced |
 
 League ids: `pl`, `laliga`, `bundesliga`, `seriea`, `ligue1`, `primeira`, `eredivisie`, `proleague`, `superlig`, `scotland`, `superleague`, `austria`, `switzerland`, `denmark`, `norway`, `sweden`, `poland`, `romania`, `ireland`, `finland`.
