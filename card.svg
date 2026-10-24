@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fcfcfb"/>
+  <text x="80" y="150" font-family="DejaVu Sans, sans-serif" font-size="88" fill="#0b0b0b" letter-spacing="-2"><tspan fill="#2a78d6" font-weight="bold">prem</tspan>elo</text>
+  <text x="80" y="220" font-family="DejaVu Sans, sans-serif" font-size="36" fill="#52514e">Premier League Elo ratings and match chances,</text>
+  <text x="80" y="266" font-family="DejaVu Sans, sans-serif" font-size="36" fill="#52514e">from every result since 1993.</text>
+  <g font-family="DejaVu Sans, sans-serif" font-size="22" fill="#77766f">
+    <line x1="80" x2="1120" y1="520" y2="520" stroke="#e4e3df" stroke-width="2"/>
+    <line x1="80" x2="1120" y1="440" y2="440" stroke="#e4e3df" stroke-width="2"/>
+    <line x1="80" x2="1120" y1="360" y2="360" stroke="#e4e3df" stroke-width="2"/>
+  </g>
+  <polyline fill="none" stroke="#2a78d6" stroke-width="5" stroke-linejoin="round" points="80,500 140,480 200,488 260,450 320,430 380,440 440,400 500,380 560,392 620,410 680,400 740,420 800,436 860,410 920,380 980,372 1040,352 1080,360 1120,340"/>
+  <text x="80" y="580" font-family="DejaVu Sans, sans-serif" font-size="26" fill="#77766f">Tuned on 30 seasons · scored against the bookmakers · open data</text>
+</svg>
