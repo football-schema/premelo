@@ -1,57 +1,8 @@
 {
- "updated": "2026-10-24T14:09:55.108Z",
+ "updated": "2026-10-24T14:50:44.414Z",
  "league": "poland",
  "season": "2026-27",
  "fixtures": [
-  {
-   "kickoff": "2026-10-24T12:45:00.000Z",
-   "home": "Korona Kielce",
-   "away": "GKS Katowice",
-   "homeSlug": "korona-kielce",
-   "awaySlug": "gks-katowice",
-   "homeName": "Korona Kielce",
-   "awayName": "GKS Katowice",
-   "elo": [
-    1439,
-    1475
-   ],
-   "dr": 34,
-   "H": 0.399,
-   "D": 0.28,
-   "A": 0.321,
-   "xg": [
-    1.4,
-    1.2
-   ],
-   "O25": 0.482,
-   "btts": 0.542,
-   "scores": [
-    [
-     "1-1",
-     0.138
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.085
-    ],
-    [
-     "0-1",
-     0.085
-    ],
-    [
-     "0-0",
-     0.078
-    ],
-    [
-     "1-2",
-     0.074
-    ]
-   ]
-  },
   {
    "kickoff": "2026-10-24T15:30:00.000Z",
    "home": "Pogon Szczecin",

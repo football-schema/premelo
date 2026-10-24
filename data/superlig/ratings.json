@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:09:54.025Z",
+ "updated": "2026-10-24T14:50:43.551Z",
  "league": "superlig",
  "name": "Süper Lig",
  "through": "2026-10-19",
@@ -37,7 +37,8 @@
   "top": {
    "top": 4,
    "down": 3,
-   "left": 234
+   "left": 234,
+   "clubs": 18
   }
  },
  "clubs": [
@@ -114,6 +115,13 @@
     1725
    ],
    "rank": 1,
+   "next": {
+    "opp": "Fenerbahçe",
+    "ha": "h",
+    "kickoff": "2026-10-26T18:30:00.000Z",
+    "win": 0.457,
+    "draw": 0.259
+   },
    "table": {
     "pos": 1,
     "p": 8,
@@ -204,6 +212,13 @@
     1717
    ],
    "rank": 2,
+   "next": {
+    "opp": "Galatasaray",
+    "ha": "a",
+    "kickoff": "2026-10-26T18:30:00.000Z",
+    "win": 0.284,
+    "draw": 0.259
+   },
    "table": {
     "pos": 3,
     "p": 8,
@@ -294,6 +309,13 @@
     1627
    ],
    "rank": 3,
+   "next": {
+    "opp": "İstanbul Başakşehir",
+    "ha": "h",
+    "kickoff": "2026-10-26T16:00:00.000Z",
+    "win": 0.553,
+    "draw": 0.243
+   },
    "table": {
     "pos": 5,
     "p": 8,
@@ -384,6 +406,13 @@
     1620
    ],
    "rank": 4,
+   "next": {
+    "opp": "Rizespor",
+    "ha": "a",
+    "kickoff": "2026-10-26T16:00:00.000Z",
+    "win": 0.468,
+    "draw": 0.262
+   },
    "table": {
     "pos": 4,
     "p": 8,
@@ -474,6 +503,13 @@
     1526
    ],
    "rank": 5,
+   "next": {
+    "opp": "Beşiktaş",
+    "ha": "a",
+    "kickoff": "2026-10-26T16:00:00.000Z",
+    "win": 0.204,
+    "draw": 0.243
+   },
    "table": {
     "pos": 10,
     "p": 8,
@@ -564,6 +600,13 @@
     1498
    ],
    "rank": 6,
+   "next": {
+    "opp": "Corum",
+    "ha": "h",
+    "kickoff": "2026-10-25T16:00:00.000Z",
+    "win": 0.554,
+    "draw": 0.245
+   },
    "table": {
     "pos": 13,
     "p": 8,
@@ -834,6 +877,13 @@
     1445
    ],
    "rank": 9,
+   "next": {
+    "opp": "Trabzonspor",
+    "ha": "h",
+    "kickoff": "2026-10-26T16:00:00.000Z",
+    "win": 0.269,
+    "draw": 0.262
+   },
    "table": {
     "pos": 12,
     "p": 8,
@@ -924,6 +974,13 @@
     1444
    ],
    "rank": 10,
+   "next": {
+    "opp": "Amedspor",
+    "ha": "h",
+    "kickoff": "2026-10-24T16:00:00.000Z",
+    "win": 0.47,
+    "draw": 0.268
+   },
    "table": {
     "pos": 17,
     "p": 8,
@@ -1002,6 +1059,13 @@
     1427
    ],
    "rank": 11,
+   "next": {
+    "opp": "Samsunspor",
+    "ha": "a",
+    "kickoff": "2026-10-24T16:00:00.000Z",
+    "win": 0.262,
+    "draw": 0.268
+   },
    "table": {
     "pos": 2,
     "p": 8,
@@ -1080,6 +1144,13 @@
     1424
    ],
    "rank": 12,
+   "next": {
+    "opp": "Göztepe",
+    "ha": "a",
+    "kickoff": "2026-10-25T16:00:00.000Z",
+    "win": 0.201,
+    "draw": 0.245
+   },
    "table": {
     "pos": 6,
     "p": 8,
@@ -1170,6 +1241,13 @@
     1421
    ],
    "rank": 13,
+   "next": {
+    "opp": "Gençlerbirliği",
+    "ha": "h",
+    "kickoff": "2026-10-25T13:00:00.000Z",
+    "win": 0.499,
+    "draw": 0.271
+   },
    "table": {
     "pos": 16,
     "p": 8,
@@ -1350,6 +1428,13 @@
     1392
    ],
    "rank": 15,
+   "next": {
+    "opp": "Erzurumspor",
+    "ha": "h",
+    "kickoff": "2026-10-24T13:00:00.000Z",
+    "win": 0.473,
+    "draw": 0.273
+   },
    "table": {
     "pos": 14,
     "p": 8,
@@ -1440,6 +1525,13 @@
     1378
    ],
    "rank": 16,
+   "next": {
+    "opp": "Konyaspor",
+    "ha": "a",
+    "kickoff": "2026-10-25T13:00:00.000Z",
+    "win": 0.23,
+    "draw": 0.271
+   },
    "table": {
     "pos": 15,
     "p": 8,
@@ -1530,6 +1622,13 @@
     1377
    ],
    "rank": 17,
+   "next": {
+    "opp": "Gaziantep",
+    "ha": "a",
+    "kickoff": "2026-10-24T13:00:00.000Z",
+    "win": 0.254,
+    "draw": 0.273
+   },
    "table": {
     "pos": 11,
     "p": 8,

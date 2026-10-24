@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:09:55.108Z",
+ "updated": "2026-10-24T14:50:44.414Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-19",
@@ -37,7 +37,8 @@
   "top": {
    "top": 4,
    "down": 3,
-   "left": 209
+   "left": 209,
+   "clubs": 18
   }
  },
  "clubs": [
@@ -114,6 +115,13 @@
     1608
    ],
    "rank": 1,
+   "next": {
+    "opp": "Legia",
+    "ha": "a",
+    "kickoff": "2026-10-25T17:30:00.000Z",
+    "win": 0.349,
+    "draw": 0.282
+   },
    "table": {
     "pos": 2,
     "p": 10,
@@ -204,6 +212,13 @@
     1551
    ],
    "rank": 2,
+   "next": {
+    "opp": "Lech Poznan",
+    "ha": "h",
+    "kickoff": "2026-10-25T17:30:00.000Z",
+    "win": 0.37,
+    "draw": 0.282
+   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -294,6 +309,13 @@
     1540
    ],
    "rank": 3,
+   "next": {
+    "opp": "Wisla",
+    "ha": "a",
+    "kickoff": "2026-10-24T18:15:00.000Z",
+    "win": 0.415,
+    "draw": 0.279
+   },
    "table": {
     "pos": 18,
     "p": 11,
@@ -384,6 +406,13 @@
     1522
    ],
    "rank": 4,
+   "next": {
+    "opp": "Wisla Plock",
+    "ha": "h",
+    "kickoff": "2026-10-25T14:45:00.000Z",
+    "win": 0.57,
+    "draw": 0.244
+   },
    "table": {
     "pos": 13,
     "p": 10,
@@ -474,6 +503,13 @@
     1521
    ],
    "rank": 5,
+   "next": {
+    "opp": "Radomiak Radom",
+    "ha": "h",
+    "kickoff": "2026-10-24T15:30:00.000Z",
+    "win": 0.573,
+    "draw": 0.243
+   },
    "table": {
     "pos": 4,
     "p": 10,
@@ -1284,6 +1320,13 @@
     1422
    ],
    "rank": 14,
+   "next": {
+    "opp": "Jagiellonia",
+    "ha": "a",
+    "kickoff": "2026-10-25T14:45:00.000Z",
+    "win": 0.186,
+    "draw": 0.244
+   },
    "table": {
     "pos": 10,
     "p": 10,
@@ -1374,6 +1417,13 @@
     1422
    ],
    "rank": 15,
+   "next": {
+    "opp": "Rakow",
+    "ha": "h",
+    "kickoff": "2026-10-24T18:15:00.000Z",
+    "win": 0.306,
+    "draw": 0.279
+   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -1464,6 +1514,13 @@
     1414
    ],
    "rank": 16,
+   "next": {
+    "opp": "Pogon Szczecin",
+    "ha": "a",
+    "kickoff": "2026-10-24T15:30:00.000Z",
+    "win": 0.184,
+    "draw": 0.243
+   },
    "table": {
     "pos": 16,
     "p": 11,
@@ -1545,6 +1602,13 @@
     1394
    ],
    "rank": 17,
+   "next": {
+    "opp": "Slask Wroclaw",
+    "ha": "a",
+    "kickoff": "2026-10-25T12:15:00.000Z",
+    "win": 0.29,
+    "draw": 0.276
+   },
    "table": {
     "pos": 15,
     "p": 11,
@@ -1635,6 +1699,13 @@
     1387
    ],
    "rank": 18,
+   "next": {
+    "opp": "Wieczysta Krakow",
+    "ha": "h",
+    "kickoff": "2026-10-25T12:15:00.000Z",
+    "win": 0.434,
+    "draw": 0.276
+   },
    "table": {
     "pos": 17,
     "p": 11,

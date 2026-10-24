@@ -99,6 +99,11 @@ for (const [id, league] of Object.entries(LEAGUES)) {
       elo: [Math.round(eh), Math.round(ea)], dr: Math.round(dr), H: r3(m.H), D: r3(m.D), A: r3(m.A), xg: m.xg.map(r1), O25: r3(m.O25), btts: r3(m.btts), scores: m.scores.map(([s, q]) => [s, r3(q)]) };
   }).filter(Boolean);
 
+  // each top-division club's next match, for the grey chip ahead of its form
+  for (const c of clubs) {
+    const f = preds.find((x) => x.home === c.club || x.away === c.club);
+    if (f) c.next = { opp: f.home === c.club ? f.awayName : f.homeName, ha: f.home === c.club ? 'h' : 'a', kickoff: f.kickoff, win: f.home === c.club ? f.H : f.A, draw: f.D };
+  }
   // each division's table this season and, where its remaining matches are known (PLACES), where its clubs will finish
   const projected = {};
   for (const div of league.divs) {
@@ -108,7 +113,7 @@ for (const [id, league] of Object.entries(LEAGUES)) {
     // ratings keep moving inside each simulated season by the Elo's own K and margin (lib/table.mjs says why)
     const eloPrice = (dr) => { const m = markets(dr, p.goals); return [m.H, m.D, ...goals(dr, p.goals)]; };
     const sim = places && left.every(Boolean) ? simulate(table, left, { n: 10000, seed: results.length + 1, hot: { k: p.elo.k, margin: p.elo.margin, price: eloPrice } }) : null;
-    if (sim) projected[div === top ? 'top' : 'second'] = { ...places, left: left.length };
+    if (sim) projected[div === top ? 'top' : 'second'] = { ...places, left: left.length, clubs: members.length };
     // a pending sanction (SCENARIOS): the projection for each outcome, mixed by the outcomes' chances
     const what = SCENARIOS[div], hotOpts = { n: 10000, seed: results.length + 1, hot: { k: p.elo.k, margin: p.elo.margin, price: eloPrice } };
     if (sim && what && members.includes(what.club)) {

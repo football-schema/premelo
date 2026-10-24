@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:09:53.280Z",
+ "updated": "2026-10-24T14:50:42.914Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-10-11",
@@ -108,6 +108,13 @@
     1829
    ],
    "rank": 1,
+   "next": {
+    "opp": "Sint-Truiden",
+    "ha": "h",
+    "kickoff": "2026-10-25T15:00:00.000Z",
+    "win": 0.722,
+    "draw": 0.169
+   },
    "table": {
     "pos": 2,
     "p": 8,
@@ -192,6 +199,13 @@
     1803
    ],
    "rank": 2,
+   "next": {
+    "opp": "Cercle Brugge",
+    "ha": "h",
+    "kickoff": "2026-10-25T18:15:00.000Z",
+    "win": 0.779,
+    "draw": 0.146
+   },
    "table": {
     "pos": 4,
     "p": 8,
@@ -276,6 +290,13 @@
     1633
    ],
    "rank": 3,
+   "next": {
+    "opp": "Gent",
+    "ha": "a",
+    "kickoff": "2026-10-25T17:30:00.000Z",
+    "win": 0.331,
+    "draw": 0.271
+   },
    "table": {
     "pos": 5,
     "p": 8,
@@ -360,6 +381,13 @@
     1618
    ],
    "rank": 4,
+   "next": {
+    "opp": "Standard Liège",
+    "ha": "h",
+    "kickoff": "2026-10-25T12:30:00.000Z",
+    "win": 0.551,
+    "draw": 0.247
+   },
    "table": {
     "pos": 7,
     "p": 8,
@@ -444,6 +472,13 @@
     1601
    ],
    "rank": 5,
+   "next": {
+    "opp": "Anderlecht",
+    "ha": "h",
+    "kickoff": "2026-10-25T17:30:00.000Z",
+    "win": 0.397,
+    "draw": 0.271
+   },
    "table": {
     "pos": 1,
     "p": 8,
@@ -528,6 +563,13 @@
     1585
    ],
    "rank": 6,
+   "next": {
+    "opp": "Antwerp",
+    "ha": "a",
+    "kickoff": "2026-10-24T14:00:00.000Z",
+    "win": 0.399,
+    "draw": 0.27
+   },
    "table": {
     "pos": 3,
     "p": 8,
@@ -612,6 +654,13 @@
     1571
    ],
    "rank": 7,
+   "next": {
+    "opp": "Club Brugge",
+    "ha": "a",
+    "kickoff": "2026-10-25T15:00:00.000Z",
+    "win": 0.109,
+    "draw": 0.169
+   },
    "table": {
     "pos": 12,
     "p": 8,
@@ -696,6 +745,13 @@
     1539
    ],
    "rank": 8,
+   "next": {
+    "opp": "Beveren",
+    "ha": "h",
+    "kickoff": "2026-10-24T18:45:00.000Z",
+    "win": 0.628,
+    "draw": 0.21
+   },
    "table": {
     "pos": 6,
     "p": 8,
@@ -780,6 +836,13 @@
     1528
    ],
    "rank": 9,
+   "next": {
+    "opp": "Genk",
+    "ha": "a",
+    "kickoff": "2026-10-25T12:30:00.000Z",
+    "win": 0.202,
+    "draw": 0.247
+   },
    "table": {
     "pos": 9,
     "p": 8,
@@ -864,6 +927,13 @@
     1498
    ],
    "rank": 10,
+   "next": {
+    "opp": "Charleroi",
+    "ha": "h",
+    "kickoff": "2026-10-24T14:00:00.000Z",
+    "win": 0.33,
+    "draw": 0.27
+   },
    "table": {
     "pos": 13,
     "p": 8,
@@ -948,6 +1018,13 @@
     1482
    ],
    "rank": 11,
+   "next": {
+    "opp": "RAAL La Louviere",
+    "ha": "a",
+    "kickoff": "2026-10-24T18:45:00.000Z",
+    "win": 0.401,
+    "draw": 0.274
+   },
    "table": {
     "pos": 8,
     "p": 8,
@@ -1116,6 +1193,13 @@
     1458
    ],
    "rank": 13,
+   "next": {
+    "opp": "Union Saint-Gilloise",
+    "ha": "a",
+    "kickoff": "2026-10-25T18:15:00.000Z",
+    "win": 0.074,
+    "draw": 0.146
+   },
    "table": {
     "pos": 17,
     "p": 8,
@@ -1200,6 +1284,13 @@
     1438
    ],
    "rank": 14,
+   "next": {
+    "opp": "Lommel SK",
+    "ha": "h",
+    "kickoff": "2026-10-24T16:15:00.000Z",
+    "win": 0.445,
+    "draw": 0.275
+   },
    "table": {
     "pos": 15,
     "p": 8,
@@ -1272,6 +1363,13 @@
     1417
    ],
    "rank": 15,
+   "next": {
+    "opp": "OH Leuven",
+    "ha": "a",
+    "kickoff": "2026-10-24T16:15:00.000Z",
+    "win": 0.28,
+    "draw": 0.275
+   },
    "table": {
     "pos": 10,
     "p": 8,
@@ -1356,6 +1454,13 @@
     1394
    ],
    "rank": 16,
+   "next": {
+    "opp": "Waregem",
+    "ha": "h",
+    "kickoff": "2026-10-24T18:45:00.000Z",
+    "win": 0.326,
+    "draw": 0.274
+   },
    "table": {
     "pos": 16,
     "p": 8,
@@ -1440,6 +1545,13 @@
     1382
    ],
    "rank": 17,
+   "next": {
+    "opp": "Westerlo",
+    "ha": "a",
+    "kickoff": "2026-10-24T18:45:00.000Z",
+    "win": 0.162,
+    "draw": 0.21
+   },
    "table": {
     "pos": 11,
     "p": 8,

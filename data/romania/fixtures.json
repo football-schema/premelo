@@ -1,57 +1,8 @@
 {
- "updated": "2026-10-24T14:09:55.114Z",
+ "updated": "2026-10-24T14:50:44.418Z",
  "league": "romania",
  "season": "2026-27",
  "fixtures": [
-  {
-   "kickoff": "2026-10-24T12:30:00.000Z",
-   "home": "Csikszereda M. Ciuc",
-   "away": "FC Voluntari",
-   "homeSlug": "csikszereda-m-ciuc",
-   "awaySlug": "fc-voluntari",
-   "homeName": "Csikszereda M. Ciuc",
-   "awayName": "FC Voluntari",
-   "elo": [
-    1179,
-    1262
-   ],
-   "dr": -13,
-   "H": 0.348,
-   "D": 0.295,
-   "A": 0.357,
-   "xg": [
-    1.2,
-    1.2
-   ],
-   "O25": 0.43,
-   "btts": 0.501,
-   "scores": [
-    [
-     "1-1",
-     0.143
-    ],
-    [
-     "0-1",
-     0.104
-    ],
-    [
-     "1-0",
-     0.101
-    ],
-    [
-     "0-0",
-     0.096
-    ],
-    [
-     "1-2",
-     0.077
-    ],
-    [
-     "2-1",
-     0.076
-    ]
-   ]
-  },
   {
    "kickoff": "2026-10-24T15:00:00.000Z",
    "home": "FC Arges",

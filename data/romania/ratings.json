@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:09:55.114Z",
+ "updated": "2026-10-24T14:50:44.418Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-19",
@@ -109,6 +109,13 @@
     1537
    ],
    "rank": 1,
+   "next": {
+    "opp": "Sepsi Sf. Gheorghe",
+    "ha": "a",
+    "kickoff": "2026-10-26T19:00:00.000Z",
+    "win": 0.56,
+    "draw": 0.26
+   },
    "table": {
     "pos": 3,
     "p": 12,
@@ -193,6 +200,13 @@
     1502
    ],
    "rank": 2,
+   "next": {
+    "opp": "CFR Cluj",
+    "ha": "a",
+    "kickoff": "2026-10-25T18:00:00.000Z",
+    "win": 0.395,
+    "draw": 0.295
+   },
    "table": {
     "pos": 1,
     "p": 12,
@@ -277,6 +291,13 @@
     1489
    ],
    "rank": 3,
+   "next": {
+    "opp": "FCSB",
+    "ha": "a",
+    "kickoff": "2026-10-24T18:00:00.000Z",
+    "win": 0.372,
+    "draw": 0.296
+   },
    "table": {
     "pos": 2,
     "p": 12,
@@ -445,6 +466,13 @@
     1398
    ],
    "rank": 5,
+   "next": {
+    "opp": "FC Rapid Bucuresti",
+    "ha": "h",
+    "kickoff": "2026-10-24T18:00:00.000Z",
+    "win": 0.332,
+    "draw": 0.296
+   },
    "table": {
     "pos": 6,
     "p": 12,
@@ -529,6 +557,13 @@
     1392
    ],
    "rank": 6,
+   "next": {
+    "opp": "Dinamo Bucuresti",
+    "ha": "h",
+    "kickoff": "2026-10-25T18:00:00.000Z",
+    "win": 0.31,
+    "draw": 0.295
+   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -613,6 +648,13 @@
     1370
    ],
    "rank": 7,
+   "next": {
+    "opp": "Otelul",
+    "ha": "h",
+    "kickoff": "2026-10-25T15:00:00.000Z",
+    "win": 0.454,
+    "draw": 0.286
+   },
    "table": {
     "pos": 7,
     "p": 12,
@@ -697,6 +739,13 @@
     1353
    ],
    "rank": 8,
+   "next": {
+    "opp": "Farul Constanta",
+    "ha": "a",
+    "kickoff": "2026-10-25T15:00:00.000Z",
+    "win": 0.26,
+    "draw": 0.286
+   },
    "table": {
     "pos": 14,
     "p": 12,
@@ -947,6 +996,13 @@
     1350
    ],
    "rank": 11,
+   "next": {
+    "opp": "FC Arges",
+    "ha": "a",
+    "kickoff": "2026-10-24T15:00:00.000Z",
+    "win": 0.296,
+    "draw": 0.298
+   },
    "table": {
     "pos": 10,
     "p": 12,
@@ -1115,6 +1171,13 @@
     1329
    ],
    "rank": 13,
+   "next": {
+    "opp": "UTA Arad",
+    "ha": "h",
+    "kickoff": "2026-10-24T15:00:00.000Z",
+    "win": 0.406,
+    "draw": 0.298
+   },
    "table": {
     "pos": 13,
     "p": 12,
@@ -1199,6 +1262,13 @@
     1284
    ],
    "rank": 14,
+   "next": {
+    "opp": "Univ. Craiova",
+    "ha": "h",
+    "kickoff": "2026-10-26T19:00:00.000Z",
+    "win": 0.181,
+    "draw": 0.26
+   },
    "table": {
     "pos": 12,
     "p": 12,

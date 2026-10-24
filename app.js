@@ -28,12 +28,14 @@ function spark(values, w = 90, h = 22) {
   const [lx, ly] = pts.split(' ').at(-1).split(',');
   return `<svg class="spark" width="${w + 3}" height="${h}" viewBox="0 0 ${w + 3} ${h}" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linejoin="round"/><circle cx="${lx}" cy="${ly}" r="2.5" fill="var(--accent)"/></svg>`;
 }
-// the last five league results, oldest first, each with its score and opponent on hover
+// form as Flashscore shows it: the next match in grey, then the last five league results, newest first, each with its
+// score and opponent on hover
 const formWord = { W: 'won', D: 'drew', L: 'lost' };
-const form = (f) => {
-  const day = (d) => new Date(d).toLocaleDateString(undefined, { day: 'numeric', month: 'short' });
-  const said = f.map((m) => `${formWord[m.r]} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${m.opp}`).join(', ');
-  return `<span class="form" role="img" aria-label="Last ${f.length} league matches, oldest first: ${esc(said)}">${f.map((m) => `<span class="${m.r}" aria-hidden="true" title="${m.r} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${esc(m.opp)} · ${day(m.date)}">${m.r}</span>`).join('')}</span>`;
+const form = (f, next) => {
+  const day = (d) => new Date(d).toLocaleDateString(undefined, { day: 'numeric', month: 'short' }), last = [...f].reverse();
+  const nx = next ? `${next.ha === 'a' ? 'at' : 'v'} ${next.opp}, ${day(next.kickoff)}: ${pct(next.win)}% to win` : '';
+  const said = `${next ? `Next ${nx}. ` : ''}Last ${f.length} league matches, newest first: ${last.map((m) => `${formWord[m.r]} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${m.opp}`).join(', ')}`;
+  return `<span class="form" role="img" aria-label="${esc(said)}">${next ? `<span class="N" aria-hidden="true" title="Next: ${esc(nx)}">?</span>` : ''}${last.map((m) => `<span class="${m.r}" aria-hidden="true" title="${m.r} ${m.gf}–${m.ga} ${m.ha === 'a' ? 'at' : 'v'} ${esc(m.opp)} · ${day(m.date)}">${m.r}</span>`).join('')}</span>`;
 };
 const bar = (f) => `<div class="bar" role="img" aria-label="${esc(f.homeName)} ${pct(f.H)}%, draw ${pct(f.D)}%, ${esc(f.awayName)} ${pct(f.A)}%">
   <span class="ph" style="flex:${f.H}">${pct(f.H)}</span><span class="pd" style="flex:${f.D}">${pct(f.D)}</span><span class="pa" style="flex:${f.A}">${pct(f.A)}</span></div>`;
@@ -72,16 +74,18 @@ async function viewTable() {
   if (order !== 'elo') rows.sort((a, b) => (a.table?.pos ?? 99) - (b.table?.pos ?? 99));
   const next = fx.fixtures[0]?.gw ? fx.fixtures.filter((f) => f.gw === fx.fixtures[0].gw) : fx.fixtures.filter((f) => Date.parse(f.kickoff) < Date.parse(fx.fixtures[0].kickoff) + 5 * 86400_000);
   const third = pj?.top ? `Top ${pj.top}` : 'Up';
+  // a position's badge colour, as Flashscore marks its zones: the top (or promotion) places blue, the relegation places red
+  const zone = (n) => (!pj ? '' : n <= (pj.top ?? pj.up) ? ' zt' : n > pj.clubs - pj.down ? ' zd' : '');
   $('main').innerHTML = `<h1>${esc(l.name)} Elo</h1>
     <p class="sub">Ratings after every result since ${l.extra ? 2012 : 1993}, through ${fullDate(r.through)}, on one scale for all ${LEAGUES.length} leagues, which <a href="#/europe">the European cups</a> tie together. A 100-point gap makes the stronger side about a 64% favourite on neutral ground.</p>
     <div class="card"><div class="controls">${l.second ? `<div class="tabs"><button data-d="top" class="${division === 'top' ? 'on' : ''}">${esc(l.name)}</button><button data-d="second" class="${division === 'second' ? 'on' : ''}">${esc(l.second)}</button></div>` : ''}
     <div class="tabs"><button data-o="elo" class="${order === 'elo' ? 'on' : ''}">By Elo</button><button data-o="table" class="${order === 'table' ? 'on' : ''}">By position</button>${what ? `<button data-o="what" class="${order === 'what' ? 'on' : ''}">${esc(what.label)}</button>` : ''}</div></div>
-    <div class="scroll"><table class="league"><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n hide-s">30 days</th><th class="hide-m">Last 20</th><th class="hide-s" title="Last 5 league matches, oldest to newest">Form</th>
+    <div class="scroll"><table class="league"><tr><th class="n">#</th><th>Club</th><th class="n">Elo</th><th class="n hide-s">30 days</th><th class="hide-m">Last 20</th><th class="hide-s" title="Next match, then the last 5 league matches, newest first">Form</th>
       <th class="n sep hide-s" title="League position">Pos</th><th class="n hide-s" title="Played">P</th><th class="n" title="Points">Pts</th>
       ${pj ? `<th class="n sep hide-s" title="Average final points over 10,000 simulations of the rest of the season">Proj. pts</th><th class="n" title="Chance of finishing first">Title</th><th class="n hide-s" title="${pj.top ? `Chance of finishing in the top ${pj.top}` : `Chance of finishing in the top ${pj.up}, the automatic promotion places`}">${third}</th><th class="n hide-s" title="Chance of finishing in the bottom ${pj.down}, the direct relegation places">Down</th>` : ''}</tr>
     ${rows.map((c) => `<tr${order === 'what' && c.slug === what.club ? ' class="what"' : ''}><td class="n muted">${c.rank}</td><td>${clubLink(c.slug, c.name)}</td><td class="n"><b>${c.elo}</b></td>
-      <td class="n hide-s ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-m">${spark(c.spark)}</td><td class="hide-s">${form(c.form)}</td>
-      <td class="n sep hide-s">${c.table?.pos ?? ''}</td><td class="n hide-s muted">${c.table?.p ?? ''}</td><td class="n"><b>${c.table?.pts ?? ''}</b></td>
+      <td class="n hide-s ${c.change30 > 0 ? 'up' : c.change30 < 0 ? 'down' : 'muted'}">${signed(c.change30)}</td><td class="hide-m">${spark(c.spark)}</td><td class="hide-s">${form(c.form, c.next)}</td>
+      <td class="n sep hide-s">${c.table ? `<span class="pos${zone(c.table.pos)}">${c.table.pos}</span>` : ''}</td><td class="n hide-s muted">${c.table?.p ?? ''}</td><td class="n"><b>${c.table?.pts ?? ''}</b></td>
       ${pj ? `<td class="n sep hide-s">${projOf(c) ? Math.round(projOf(c).pts) : ''}</td>${chance(projOf(c)?.first)}${chance(pj.top ? projOf(c)?.top : projOf(c)?.up).replace('class="n proj', 'class="n hide-s proj')}${chance(projOf(c)?.down, 'down').replace('class="n proj', 'class="n hide-s proj')}` : ''}</tr>`).join('')}</table></div>
     ${order === 'what' ? `<p class="small" style="margin:12px 0 0"><b>${esc(what.label)}:</b> ${esc(what.note)} The projection is run for each outcome below and mixed by its chance; a deduction comes off this season's points (the middle of each range: ${what.outcomes.filter((o) => o.cut !== 'expelled' && o.cut).map((o) => o.cut).join(', ')}), and expulsion expunges the club's results and drops its matches. City's projected points leave expulsion out.</p>
     <p class="small muted" style="margin:6px 0 0">Outcome chances, an editorial estimate of the final outcome with appeals, not bookmaker prices: ${what.outcomes.map((o) => `${esc(o.label)} ${pct(o.p)}%`).join(' · ')}.</p>` : ''}

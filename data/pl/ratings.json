@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:09:44.150Z",
+ "updated": "2026-10-24T14:50:35.521Z",
  "league": "pl",
  "name": "Premier League",
  "through": "2026-10-24",
@@ -38,6 +38,7 @@
    "top": 4,
    "down": 3,
    "left": 308,
+   "clubs": 20,
    "what": {
     "club": "man-city",
     "label": "City sanction",
@@ -206,7 +207,8 @@
   "second": {
    "up": 2,
    "down": 3,
-   "left": 420
+   "left": 420,
+   "clubs": 24
   }
  },
  "clubs": [
@@ -283,6 +285,13 @@
     2106
    ],
    "rank": 1,
+   "next": {
+    "opp": "Everton",
+    "ha": "h",
+    "kickoff": "2026-10-24T14:00:00.000Z",
+    "win": 0.663,
+    "draw": 0.222
+   },
    "table": {
     "pos": 2,
     "p": 7,
@@ -373,6 +382,13 @@
     2034
    ],
    "rank": 2,
+   "next": {
+    "opp": "Brighton & Hove Albion",
+    "ha": "h",
+    "kickoff": "2026-10-31T15:00:00.000Z",
+    "win": 0.532,
+    "draw": 0.248
+   },
    "table": {
     "pos": 1,
     "p": 8,
@@ -463,6 +479,13 @@
     1964
    ],
    "rank": 3,
+   "next": {
+    "opp": "Brighton & Hove Albion",
+    "ha": "h",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.42,
+    "draw": 0.265
+   },
    "table": {
     "pos": 5,
     "p": 7,
@@ -553,6 +576,13 @@
     1956
    ],
    "rank": 4,
+   "next": {
+    "opp": "Fulham",
+    "ha": "h",
+    "kickoff": "2026-10-31T20:00:00.000Z",
+    "win": 0.517,
+    "draw": 0.26
+   },
    "table": {
     "pos": 6,
     "p": 8,
@@ -643,6 +673,13 @@
     1935
    ],
    "rank": 5,
+   "next": {
+    "opp": "Liverpool",
+    "ha": "a",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.315,
+    "draw": 0.265
+   },
    "table": {
     "pos": 3,
     "p": 7,
@@ -733,6 +770,13 @@
     1896
    ],
    "rank": 6,
+   "next": {
+    "opp": "Manchester United",
+    "ha": "a",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.286,
+    "draw": 0.264
+   },
    "table": {
     "pos": 15,
     "p": 7,
@@ -823,6 +867,13 @@
     1897
    ],
    "rank": 7,
+   "next": {
+    "opp": "Tottenham Hotspur",
+    "ha": "h",
+    "kickoff": "2026-10-24T16:30:00.000Z",
+    "win": 0.528,
+    "draw": 0.247
+   },
    "table": {
     "pos": 4,
     "p": 7,
@@ -913,6 +964,13 @@
     1890
    ],
    "rank": 8,
+   "next": {
+    "opp": "AFC Bournemouth",
+    "ha": "h",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.449,
+    "draw": 0.264
+   },
    "table": {
     "pos": 13,
     "p": 7,
@@ -1003,6 +1061,13 @@
     1889
    ],
    "rank": 9,
+   "next": {
+    "opp": "Hull City",
+    "ha": "a",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.616,
+    "draw": 0.225
+   },
    "table": {
     "pos": 7,
     "p": 7,
@@ -1093,6 +1158,13 @@
     1862
    ],
    "rank": 10,
+   "next": {
+    "opp": "Crystal Palace",
+    "ha": "a",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.358,
+    "draw": 0.272
+   },
    "table": {
     "pos": 12,
     "p": 7,
@@ -1183,6 +1255,13 @@
     1853
    ],
    "rank": 11,
+   "next": {
+    "opp": "Sunderland",
+    "ha": "a",
+    "kickoff": "2026-10-25T16:30:00.000Z",
+    "win": 0.424,
+    "draw": 0.293
+   },
    "table": {
     "pos": 8,
     "p": 7,
@@ -1273,6 +1352,13 @@
     1841
    ],
    "rank": 12,
+   "next": {
+    "opp": "Brentford",
+    "ha": "a",
+    "kickoff": "2026-10-31T15:00:00.000Z",
+    "win": 0.264,
+    "draw": 0.274
+   },
    "table": {
     "pos": 16,
     "p": 8,
@@ -1363,6 +1449,13 @@
     1839
    ],
    "rank": 13,
+   "next": {
+    "opp": "Arsenal",
+    "ha": "a",
+    "kickoff": "2026-10-24T14:00:00.000Z",
+    "win": 0.115,
+    "draw": 0.222
+   },
    "table": {
     "pos": 9,
     "p": 7,
@@ -1453,6 +1546,13 @@
     1825
    ],
    "rank": 14,
+   "next": {
+    "opp": "Coventry City",
+    "ha": "a",
+    "kickoff": "2026-10-24T14:00:00.000Z",
+    "win": 0.432,
+    "draw": 0.276
+   },
    "table": {
     "pos": 19,
     "p": 7,
@@ -1543,6 +1643,13 @@
     1816
    ],
    "rank": 15,
+   "next": {
+    "opp": "Chelsea",
+    "ha": "a",
+    "kickoff": "2026-10-24T16:30:00.000Z",
+    "win": 0.225,
+    "draw": 0.247
+   },
    "table": {
     "pos": 17,
     "p": 7,
@@ -1633,6 +1740,13 @@
     1809
    ],
    "rank": 16,
+   "next": {
+    "opp": "Newcastle United",
+    "ha": "h",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.37,
+    "draw": 0.272
+   },
    "table": {
     "pos": 14,
     "p": 7,
@@ -1813,6 +1927,13 @@
     1737
    ],
    "rank": 17,
+   "next": {
+    "opp": "Leeds United",
+    "ha": "h",
+    "kickoff": "2026-10-25T16:30:00.000Z",
+    "win": 0.283,
+    "draw": 0.293
+   },
    "table": {
     "pos": 20,
     "p": 7,
@@ -1903,6 +2024,13 @@
     1710
    ],
    "rank": 18,
+   "next": {
+    "opp": "Fulham",
+    "ha": "h",
+    "kickoff": "2026-10-24T14:00:00.000Z",
+    "win": 0.293,
+    "draw": 0.276
+   },
    "table": {
     "pos": 18,
     "p": 7,
@@ -1993,6 +2121,13 @@
     1696
    ],
    "rank": 19,
+   "next": {
+    "opp": "Hull City",
+    "ha": "a",
+    "kickoff": "2026-10-31T15:00:00.000Z",
+    "win": 0.407,
+    "draw": 0.271
+   },
    "table": {
     "pos": 10,
     "p": 8,
@@ -2443,6 +2578,13 @@
     1615
    ],
    "rank": 20,
+   "next": {
+    "opp": "Brentford",
+    "ha": "h",
+    "kickoff": "2026-10-25T14:00:00.000Z",
+    "win": 0.159,
+    "draw": 0.225
+   },
    "table": {
     "pos": 11,
     "p": 7,
