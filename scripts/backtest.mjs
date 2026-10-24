@@ -4,16 +4,15 @@
 // The ratings are the published ones: all five leagues and the European cups run together (lib/elo.mjs runAll).
 //   node scripts/backtest.mjs                    score -> data/<league>/backtest.json, data/europe.json
 //   node scripts/backtest.mjs --tune [league…]   search a league's settings first (on its own matches) -> params.json
-//   node scripts/backtest.mjs --tune-europe      search the European settings, judged on every match since 2011, home and away
+//   node scripts/backtest.mjs --tune-europe      search the European settings, judged on every match since 2000, home and away
 // (side by side: TUNED=cache/tuned node scripts/backtest.mjs --tune laliga & … then merge cache/tuned/*.json)
 // Every gap means the same in every league: the goals model's c is params.common.c for all of them.
 // Needs cache/ (node scripts/fetch.mjs): the odds are football-data's, so they're read here and not published.
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { seasons, label } from '../lib/seasons.mjs';
-import { matches, byDate } from '../lib/results.mjs';
+import { matches, byDate, fromCsv } from '../lib/results.mjs';
 import { run, runAll } from '../lib/elo.mjs';
 import { table } from '../lib/goals.mjs';
-import { parse as parseEurope } from '../lib/europe.mjs';
 import { LEAGUES, IDS } from '../lib/leagues.mjs';
 
 const FROM = 2000; // first season scored, by the year it starts
@@ -29,7 +28,7 @@ const scores = (rows, prob) => ({ logloss: +logloss(rows, prob).toFixed(4), rps:
 const params = JSON.parse(readFileSync('params.json', 'utf8'));
 const C = params.common.c;
 const lists = Object.fromEntries(IDS.map((id) => [id, seasons().flatMap((s) => LEAGUES[id].divs.flatMap((d) => existsSync(`cache/${s}-${d}.csv`) ? matches(readFileSync(`cache/${s}-${d}.csv`, 'utf8'), s, d, { odds: true }) : [])).sort(byDate)]));
-const europe = readdirSync('cache/europe').sort().flatMap((f) => { const [a, b, comp] = f.replace('.txt', '').split('-'); return parseEurope(readFileSync(`cache/europe/${f}`, 'utf8'), `${a}-${b}`, comp); });
+const europe = fromCsv(readFileSync('data/europe.csv', 'utf8')).map((m) => ({ ...m, neutral: m.div === 'EUN', div: 'EU' })); // scripts/import.mjs makes it from UEFA's data
 
 // the goal model's settings for one league's ratings: mu from its matches, the draw boost searched, c common
 function fitGoals(rows) {
@@ -69,16 +68,16 @@ function sinceEurope(eu) {
   const tE = table(euGoals), tL = Object.fromEntries(IDS.map((id) => [id, table(params[id].goals)]));
   let sum = 0, n = 0;
   runAll(leaguesFor(params), { list: europe, params: eu }, { each: (m, { dr, league }) => {
-    if (league !== 'EU' && (m.div !== LEAGUES[league].divs[0] || m.date < '2011-07-01')) return;
+    if (league !== 'EU' && (m.div !== LEAGUES[league].divs[0] || m.date < '2000-07-01')) return;
     sum -= Math.log(Math.max(1e-9, (league === 'EU' ? tE : tL[league])(dr)[outcome(m)])); n++;
   } });
   return sum / n;
 }
 if (argv.includes('--tune-europe')) {
   let best = null;
-  for (const k of [12, 16, 20, 24]) for (const kLeague of [0, 2, 4]) for (const margin of ['log', 'wfe']) for (const hfa of [70, 90]) for (const other of [50, 100, 200]) {
+  for (const k of [12, 16, 20]) for (const kLeague of [2, 4, 6, 8]) for (const margin of ['log', 'wfe']) for (const hfa of [70, 90, 110]) for (const other of [100, 200, 300]) {
     const eu = { ...params.europe, k, kLeague, margin, hfa, other }, ll = sinceEurope(eu);
-    if (!best || ll < best.ll) { best = { ll, eu }; console.log(`log loss ${ll.toFixed(5)} since 2011  k ${k} kLeague ${kLeague} ${margin} hfa ${hfa} other ${other}`); }
+    if (!best || ll < best.ll) { best = { ll, eu }; console.log(`log loss ${ll.toFixed(5)} since 2000  k ${k} kLeague ${kLeague} ${margin} hfa ${hfa} other ${other}`); }
   }
   params.europe = best.eu;
   const now = JSON.parse(readFileSync('params.json', 'utf8')); now.europe = best.eu; writeFileSync('params.json', JSON.stringify(now, null, 2) + '\n');

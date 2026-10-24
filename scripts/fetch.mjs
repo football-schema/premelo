@@ -2,7 +2,7 @@
 // one request a second. Files already cached are kept, except the current season's, which is fetched again.
 //   node scripts/fetch.mjs            every season since 1993-94
 //   node scripts/fetch.mjs --current  this season only (what the nightly update does)
-// Then the European cups from openfootball. football-data's files are theirs: they stay in cache/ and aren't published. What's published is derived from them:
+// (The European cups come from UEFA: scripts/fetch-uefa.mjs.) football-data's files are theirs: they stay in cache/ and aren't published. What's published is derived from them:
 // the results (facts) and our own ratings.
 import { existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { seasons, currentSeason } from '../lib/seasons.mjs';
@@ -30,14 +30,3 @@ for (const season of list) {
   }
 }
 
-// the European cups from openfootball (CC0): the Champions League from 2011-12, the Europa and Conference Leagues from 2020-21
-mkdirSync('cache/europe', { recursive: true });
-const RAW = 'https://raw.githubusercontent.com/openfootball/champions-league/master';
-const euSeasons = list.map((c) => { const y = Number(c.slice(0, 2)); const start = y >= 90 ? 1900 + y : 2000 + y; return `${start}-${c.slice(2)}`; }).filter((s) => s >= '2011-12');
-for (const season of euSeasons) for (const comp of ['cl', 'el', 'conf']) {
-  const file = `cache/europe/${season}-${comp}.txt`;
-  if (existsSync(file) && season !== euSeasons.at(-1) && !process.argv.includes('--current')) continue;
-  const r = await fetch(`${RAW}/${season}/${comp}.txt`);
-  if (r.ok) { writeFileSync(file, await r.text()); console.log(`${season} ${comp}: fetched`); }
-  await sleep(300);
-}

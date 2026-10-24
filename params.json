@@ -93,10 +93,10 @@
     "c": 525
   },
   "europe": {
-    "k": 16,
+    "k": 20,
     "hfa": 90,
     "margin": "wfe",
-    "other": 100,
-    "kLeague": 4
+    "other": 300,
+    "kLeague": 6
   }
 }

@@ -37,7 +37,7 @@ next to the bookmakers' prices with their margin taken out (closing prices from 
 | Serie A | 9,646 | 0.983 | 0.961 | 0.196 | 0.1893 |
 | Ligue 1 | 9,470 | 1.015 | 1.003 | 0.205 | 0.2016 |
 
-European cups (3,388 matches since 2011-12): log loss 0.955, against 1.047 for base rates (`data/europe.json`).
+European cups (20,252 matches since 1993-94): log loss 0.955, against 1.047 for base rates (`data/europe.json`).
 
 Against ClubElo's table of 24 October 2026, the 31 big-five clubs in its top 40 are 25 points apart on average
 (root mean square), and 20 of them within 20 points: Bayern Munich 2040 (ClubElo 2040), Liverpool 1940 (1940),
@@ -70,8 +70,9 @@ Already in: a margin-of-victory factor, home advantage set separately for the em
   `cache/` (not published). `data/<league>/results.csv` keeps only the results, which are facts. Their bookmaker odds are read
   by the backtest and never republished.
 - **This season's latest results and fixtures:** [matchday](https://melvin.me/public/matchday/), in Football Schema JSON-LD.
-- **European cups:** [openfootball/champions-league](https://github.com/openfootball/champions-league) (CC0): the Champions League
-  from 2011-12, the Europa and Conference Leagues from 2020-21, in `data/europe.csv` (a neutral-ground final's div is `EUN`).
+- **European cups:** UEFA's match data (match.uefa.com, the API behind uefa.com), fetched by `scripts/fetch-uefa.mjs`: every
+  Champions League, UEFA Cup / Europa League and Conference League match since 1993-94, qualifiers included, in
+  `data/europe.csv` (a neutral-ground match's div is `EUN`; awarded and abandoned matches are left out; only results are kept).
 
 ## Running it
 

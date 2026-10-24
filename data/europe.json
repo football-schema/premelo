@@ -1,22 +1,22 @@
 {
  "updated": "2026-10-24",
- "matches": 3388,
- "from": "2011-09-13",
+ "matches": 20252,
+ "from": "1993-08-18",
  "model": {
-  "logloss": 0.955,
-  "rps": 0.1992,
-  "brier": 0.5651
+  "logloss": 0.958,
+  "rps": 0.196,
+  "brier": 0.5675
  },
  "baseline": {
-  "logloss": 1.047,
-  "rps": 0.2323,
+  "logloss": 1.0486,
+  "rps": 0.2273,
   "brier": 0.6321
  },
  "params": {
-  "k": 16,
+  "k": 20,
   "hfa": 90,
   "margin": "wfe",
-  "other": 100,
-  "kLeague": 4
+  "other": 300,
+  "kLeague": 6
  }
 }

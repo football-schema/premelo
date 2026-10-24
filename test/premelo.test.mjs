@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { parseCsv, isoDate, matches, oddsOf, toCsv, fromCsv } from '../lib/results.mjs';
 import { run, runAll, marginFactor, expectedScore } from '../lib/elo.mjs';
-import { parse as parseEurope, score as score90 } from '../lib/europe.mjs';
+import { parse as parseUefa } from '../lib/uefa.mjs';
 import { markets, table } from '../lib/goals.mjs';
 import { seasons, currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
 import { slug, canonical } from '../lib/teams.mjs';
@@ -95,27 +95,17 @@ test('a country whose second division starts later still rates the clubs coming 
   assert.ok(Number.isFinite(novo) && novo < 1600, 'Novo takes the relegated Bari\'s rating');
 });
 
-test('European cup results: 90-minute scores, years across the new year, finals at neutral grounds, clubs under football-data names', () => {
-  assert.deepEqual(score90('2-1 (1-0)'), [2, 1]); assert.deepEqual(score90('3-2 pen. 1-1 a.e.t. (1-1, 0-0)'), [1, 1]); assert.deepEqual(score90('2-3 a.e.t. (1-1, 0-1)'), [1, 1]);
-  const txt = `= UEFA Champions League 2019/20
-
-▪ Group A
-  Wed Sep 18 2019
-    21:00  FC Barcelona (ESP)      v SSC Napoli (ITA)         2-1 (1-0)
-▪ Group B
-  Tue Sep 17
-    21:00  FK Crvena Zvezda (SRB)  v FC Bayern München (GER)  0-3
-▪ Round of 16
-  Tue Feb 25
-    21:00  Chelsea FC (ENG)        v Bayern München (GER)     0-3 (0-0)
-▪ Final
-  Sun Aug 23
-    21:00  Paris Saint-Germain (FRA) v Bayern München (GER)   0-1 (0-0)
-`;
-  const ms = parseEurope(txt, '2019-20', 'cl');
-  assert.deepEqual(ms.map((m) => m.date), ['2019-09-18', '2019-09-17', '2020-02-25', '2020-08-23']);
-  assert.deepEqual(ms.map((m) => m.neutral), [false, false, false, true]);
-  assert.deepEqual([ms[0].home, ms[0].away, ms[1].home, ms[1].away, ms[3].home], ['Barcelona', 'Napoli', 'FK Crvena Zvezda (SRB)', 'Bayern Munich', 'Paris SG']);
+test('UEFA match data: 90-minute scores, finished matches only, finals neutral, big-five clubs under football-data names', () => {
+  const t = (id, name, country) => ({ id, name, country });
+  const ms = parseUefa([
+    { date: '2026-05-30', status: 'FINISHED', type: 'SINGLE', round: 'Final', home: t('52747', 'Paris', 'FRA'), away: t('52280', 'Arsenal', 'ENG'), regular: { home: 1, away: 1 }, total: { home: 1, away: 1 } },
+    { date: '2026-10-21', status: 'FINISHED', type: 'GROUP_STAGE', round: 'League phase', home: t('50080', 'Barcelona', 'ESP'), away: t('1', 'Olympiacos', 'GRE'), regular: { home: 2, away: 0 }, total: { home: 2, away: 0 } },
+    { date: '2020-12-10', status: 'ABANDONED', type: 'GROUP_STAGE', round: 'Group stage', home: t('70691', 'Villarreal', 'ESP'), away: t('2', 'Qarabağ', 'AZE'), regular: { home: 3, away: 0 } },
+    { date: '1994-09-13', status: 'FINISHED', type: 'FIRST_LEG', round: 'Round 1', home: t('3', 'CSKA Sofia', 'BUL'), away: t('50139', 'Juventus', 'ITA'), regular: null, total: { home: 0, away: 3 } },
+    { date: '2020-08-21', status: 'FINISHED', type: 'SINGLE', round: 'Second qualifying round', home: t('4', 'Celtic', 'SCO'), away: t('5', 'Ferencváros', 'HUN'), regular: { home: 1, away: 2 } },
+  ], 'cl');
+  assert.equal(ms.length, 3, 'abandoned and awarded matches are left out');
+  assert.deepEqual(ms.map((m) => [m.home, m.away, m.hg, m.ag, m.neutral, m.season]), [['Paris SG', 'Arsenal', 1, 1, true, '2526'], ['Barcelona', 'Olympiacos (GRE)', 2, 0, false, '2627'], ['Celtic (SCO)', 'Ferencváros (HUN)', 1, 2, false, '2021']]);
 });
 
 test('a European win lifts the winner\'s whole league a little and leaves every gap inside it as it was', () => {

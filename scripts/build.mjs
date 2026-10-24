@@ -10,7 +10,6 @@
 import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'node:fs';
 import { fromCsv, byDate, parseCsv, isoDate } from '../lib/results.mjs';
 import { runAll } from '../lib/elo.mjs';
-import { parse as parseEurope } from '../lib/europe.mjs';
 import { markets } from '../lib/goals.mjs';
 import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
@@ -26,7 +25,7 @@ const pair = (m) => `${m.home}|${m.away}`;
 const upcoming = offline ? [] : await fetch('https://www.football-data.co.uk/fixtures.csv', { headers: { 'user-agent': 'premelo (github.com/football-schema/premelo)' } })
   .then((r) => (r.ok ? r.text() : '')).then((t) => (t ? parseCsv(t) : [])).catch(() => []);
 
-// the European cups: data/europe.csv (from openfootball, CC0), which ties the countries together
+// the European cups: data/europe.csv (from UEFA's match data), which ties the countries together
 const europe = existsSync('data/europe.csv') ? fromCsv(readFileSync('data/europe.csv', 'utf8')).map((m) => ({ ...m, neutral: m.div === 'EUN', div: 'EU' })) : [];
 
 const index = [], leagues = {}, upcomingBy = {};
