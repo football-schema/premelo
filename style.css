@@ -310,6 +310,13 @@ table.league .sep { border-left: 1px solid var(--line); }
 table.league td.proj { background: color-mix(in srgb, var(--win) calc(var(--p) * .3), transparent); white-space: nowrap; }
 table.league td.proj.dn { background: color-mix(in srgb, var(--loss) calc(var(--p) * .3), transparent); }
 table.league tr.zl td { border-bottom: 2px solid var(--muted); }
+table.proj-table td.hm, table.proj-table th.hm-h { width: 30px; padding: 0 2px; text-align: center; font-size: 11px; font-variant-numeric: tabular-nums; }
+table.proj-table td.hm { height: 36px; border-left: 2px solid var(--card); background: color-mix(in srgb, var(--muted) calc(var(--p) * .6), transparent); color: var(--text); }
+table.proj-table td.hm.zt { background: color-mix(in srgb, var(--zone-top) calc(var(--p) * .85), transparent); }
+table.proj-table td.hm.zd { background: color-mix(in srgb, var(--zone-down) calc(var(--p) * .85), transparent); }
+table.proj-table td.hm.deep { color: #ffffff; font-weight: 700; }
+table.proj-table .cut { border-right: 2px solid var(--muted); }
+.show-s { display: none; }
 table.league tr.opens { cursor: pointer; }
 table.league tr.opens:focus-visible { outline: 2px solid var(--zone-top); outline-offset: -2px; }
 table.league tr.open td { background: var(--surface-2); }
@@ -368,6 +375,7 @@ td.h { text-align: right; }
   .bar-key { grid-template-columns: 1fr; }
   .bar-key span:not(:last-child) { display: none; }
   .hide-s { display: none; }
+  .show-s { display: table-cell; }
   .cols { grid-template-columns: 1fr; gap: 0; }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 9px; }
   .stats div { padding: 14px; }
