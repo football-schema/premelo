@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:22.383Z",
+ "updated": "2026-10-25T07:01:10.763Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-10-18",
@@ -973,14 +973,6 @@
     1509
    ],
    "rank": 8,
-   "next": {
-    "opp": "Den Haag",
-    "oppSlug": "den-haag",
-    "ha": "a",
-    "kickoff": "2026-10-24T19:00:00.000Z",
-    "win": 0.486,
-    "draw": 0.258
-   },
    "table": {
     "pos": 8,
     "p": 9,
@@ -2048,14 +2040,6 @@
     1351
    ],
    "rank": 17,
-   "next": {
-    "opp": "Heerenveen",
-    "oppSlug": "heerenveen",
-    "ha": "h",
-    "kickoff": "2026-10-24T19:00:00.000Z",
-    "win": 0.256,
-    "draw": 0.258
-   },
    "table": {
     "pos": 17,
     "p": 9,

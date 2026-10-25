@@ -1,57 +1,8 @@
 {
- "updated": "2026-10-24T19:36:21.779Z",
+ "updated": "2026-10-25T07:01:10.141Z",
  "league": "primeira",
  "season": "2026-27",
  "fixtures": [
-  {
-   "kickoff": "2026-10-24T19:30:00.000Z",
-   "home": "Gil Vicente",
-   "away": "Porto",
-   "homeSlug": "gil-vicente",
-   "awaySlug": "porto",
-   "homeName": "Gil Vicente",
-   "awayName": "Porto",
-   "elo": [
-    1522,
-    1827
-   ],
-   "dr": -247,
-   "H": 0.14,
-   "D": 0.241,
-   "A": 0.619,
-   "xg": [
-    0.7,
-    1.9
-   ],
-   "O25": 0.467,
-   "btts": 0.445,
-   "scores": [
-    [
-     "0-1",
-     0.135
-    ],
-    [
-     "0-2",
-     0.123
-    ],
-    [
-     "1-1",
-     0.115
-    ],
-    [
-     "1-2",
-     0.091
-    ],
-    [
-     "0-0",
-     0.086
-    ],
-    [
-     "0-3",
-     0.076
-    ]
-   ]
-  },
   {
    "kickoff": "2026-10-25T15:30:00.000Z",
    "home": "Estoril",

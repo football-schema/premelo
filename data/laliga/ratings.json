@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:16.760Z",
+ "updated": "2026-10-25T07:01:05.237Z",
  "league": "laliga",
  "name": "La Liga",
  "through": "2026-10-21",
@@ -376,14 +376,6 @@
     1915
    ],
    "rank": 3,
-   "next": {
-    "opp": "Deportivo La Coruña",
-    "oppSlug": "la-coruna",
-    "ha": "h",
-    "kickoff": "2026-10-24T19:00:00.000Z",
-    "win": 0.815,
-    "draw": 0.126
-   },
    "table": {
     "pos": 2,
     "p": 9,
@@ -3153,14 +3145,6 @@
     1570
    ],
    "rank": 19,
-   "next": {
-    "opp": "Atlético Madrid",
-    "oppSlug": "ath-madrid",
-    "ha": "a",
-    "kickoff": "2026-10-24T19:00:00.000Z",
-    "win": 0.059,
-    "draw": 0.126
-   },
    "table": {
     "pos": 9,
     "p": 9,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:23.853Z",
+ "updated": "2026-10-25T07:01:12.409Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-19",
@@ -366,14 +366,6 @@
     1540
    ],
    "rank": 3,
-   "next": {
-    "opp": "Wisla",
-    "oppSlug": "wisla",
-    "ha": "a",
-    "kickoff": "2026-10-24T18:15:00.000Z",
-    "win": 0.415,
-    "draw": 0.279
-   },
    "table": {
     "pos": 18,
     "p": 11,
@@ -1770,14 +1762,6 @@
     1422
    ],
    "rank": 15,
-   "next": {
-    "opp": "Rakow",
-    "oppSlug": "rakow",
-    "ha": "h",
-    "kickoff": "2026-10-24T18:15:00.000Z",
-    "win": 0.306,
-    "draw": 0.279
-   },
    "table": {
     "pos": 6,
     "p": 11,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:19.948Z",
+ "updated": "2026-10-25T07:01:08.259Z",
  "league": "seriea",
  "name": "Serie A",
  "through": "2026-10-19",
@@ -852,14 +852,6 @@
     1778
    ],
    "rank": 7,
-   "next": {
-    "opp": "Parma",
-    "oppSlug": "parma",
-    "ha": "h",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.601,
-    "draw": 0.258
-   },
    "table": {
     "pos": 2,
     "p": 7,
@@ -2195,14 +2187,6 @@
     1568
    ],
    "rank": 18,
-   "next": {
-    "opp": "Lazio",
-    "oppSlug": "lazio",
-    "ha": "a",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.142,
-    "draw": 0.258
-   },
    "table": {
     "pos": 19,
     "p": 7,

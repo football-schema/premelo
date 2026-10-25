@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:21.175Z",
+ "updated": "2026-10-25T07:01:09.513Z",
  "league": "ligue1",
  "name": "Ligue 1",
  "through": "2026-10-19",
@@ -495,14 +495,6 @@
     1754
    ],
    "rank": 4,
-   "next": {
-    "opp": "Paris FC",
-    "oppSlug": "paris-fc",
-    "ha": "h",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.558,
-    "draw": 0.247
-   },
    "table": {
     "pos": 8,
     "p": 7,
@@ -1471,14 +1463,6 @@
     1645
    ],
    "rank": 12,
-   "next": {
-    "opp": "Lens",
-    "oppSlug": "lens",
-    "ha": "a",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.194,
-    "draw": 0.247
-   },
    "table": {
     "pos": 3,
     "p": 7,

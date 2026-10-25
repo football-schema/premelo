@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:23.857Z",
+ "updated": "2026-10-25T07:01:12.413Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-19",
@@ -308,14 +308,6 @@
     1489
    ],
    "rank": 3,
-   "next": {
-    "opp": "FCSB",
-    "oppSlug": "fcsb",
-    "ha": "a",
-    "kickoff": "2026-10-24T18:00:00.000Z",
-    "win": 0.372,
-    "draw": 0.296
-   },
    "table": {
     "pos": 2,
     "p": 12,
@@ -494,14 +486,6 @@
     1398
    ],
    "rank": 5,
-   "next": {
-    "opp": "FC Rapid Bucuresti",
-    "oppSlug": "fc-rapid-bucuresti",
-    "ha": "h",
-    "kickoff": "2026-10-24T18:00:00.000Z",
-    "win": 0.332,
-    "draw": 0.296
-   },
    "table": {
     "pos": 6,
     "p": 12,

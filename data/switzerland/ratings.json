@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:23.023Z",
+ "updated": "2026-10-25T07:01:11.535Z",
  "league": "switzerland",
  "name": "Swiss Super League",
  "through": "2026-10-11",
@@ -210,14 +210,6 @@
     1548
    ],
    "rank": 2,
-   "next": {
-    "opp": "St. Gallen",
-    "oppSlug": "st-gallen",
-    "ha": "h",
-    "kickoff": "2026-10-24T18:30:00.000Z",
-    "win": 0.486,
-    "draw": 0.254
-   },
    "table": {
     "pos": 2,
     "p": 10,
@@ -404,14 +396,6 @@
     1509
    ],
    "rank": 4,
-   "next": {
-    "opp": "Young Boys",
-    "oppSlug": "young-boys",
-    "ha": "a",
-    "kickoff": "2026-10-24T18:30:00.000Z",
-    "win": 0.261,
-    "draw": 0.254
-   },
    "table": {
     "pos": 4,
     "p": 10,

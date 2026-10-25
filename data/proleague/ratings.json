@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:22.389Z",
+ "updated": "2026-10-25T07:01:10.770Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-10-11",
@@ -784,14 +784,6 @@
     1539
    ],
    "rank": 8,
-   "next": {
-    "opp": "Beveren",
-    "oppSlug": "beveren",
-    "ha": "h",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.628,
-    "draw": 0.21
-   },
    "table": {
     "pos": 6,
     "p": 8,
@@ -1067,14 +1059,6 @@
     1482
    ],
    "rank": 11,
-   "next": {
-    "opp": "RAAL La Louviere",
-    "oppSlug": "raal-la-louviere",
-    "ha": "a",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.401,
-    "draw": 0.274
-   },
    "table": {
     "pos": 8,
     "p": 8,
@@ -1516,14 +1500,6 @@
     1394
    ],
    "rank": 16,
-   "next": {
-    "opp": "Waregem",
-    "oppSlug": "waregem",
-    "ha": "h",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.326,
-    "draw": 0.274
-   },
    "table": {
     "pos": 16,
     "p": 8,
@@ -1613,14 +1589,6 @@
     1382
    ],
    "rank": 17,
-   "next": {
-    "opp": "Westerlo",
-    "oppSlug": "westerlo",
-    "ha": "a",
-    "kickoff": "2026-10-24T18:45:00.000Z",
-    "win": 0.162,
-    "draw": 0.21
-   },
    "table": {
     "pos": 11,
     "p": 8,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:36:21.779Z",
+ "updated": "2026-10-25T07:01:10.141Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-10-19",
@@ -367,14 +367,6 @@
     1827
    ],
    "rank": 3,
-   "next": {
-    "opp": "Gil Vicente",
-    "oppSlug": "gil-vicente",
-    "ha": "a",
-    "kickoff": "2026-10-24T19:30:00.000Z",
-    "win": 0.619,
-    "draw": 0.241
-   },
    "table": {
     "pos": 1,
     "p": 8,
@@ -851,14 +843,6 @@
     1524
    ],
    "rank": 7,
-   "next": {
-    "opp": "Porto",
-    "oppSlug": "porto",
-    "ha": "h",
-    "kickoff": "2026-10-24T19:30:00.000Z",
-    "win": 0.14,
-    "draw": 0.241
-   },
    "table": {
     "pos": 6,
     "p": 8,
