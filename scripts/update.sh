@@ -17,6 +17,8 @@ node scripts/fetch-uefa.mjs --current
 node scripts/import.mjs
 node scripts/backtest.mjs | tail -3
 node scripts/build.mjs | tail -3
+# the Premier League's ratings and forecasts in the Football Schema (data/pl/forecasts.jsonld, data/dataset.jsonld)
+node scripts/export-schema.mjs
 ./scripts/deploy.sh
 git add data card.svg card.png
 if git diff --cached --quiet; then echo "nothing new"; exit 0; fi

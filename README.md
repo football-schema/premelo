@@ -11,6 +11,17 @@ Liga, Eredivisie, Pro League, Süper Lig, Scottish Premiership (with the Champio
 from 1993-94 or so; and, from 2012, the Austrian, Swiss, Danish, Norwegian, Swedish, Polish, Romanian, Irish and
 Finnish top divisions. (Russia is left out: its file stops in August 2026 and its clubs are barred from Europe.)
 
+## In the Football Schema
+
+The Premier League's ratings and predictions are also published in the [Football Schema](https://football-schema.github.io/schema/)'s
+`forecast` vocabulary, so any project can read them and score them once the matches are played: start at
+[`data/dataset.jsonld`](https://football-schema.github.io/premelo/data/dataset.jsonld), which includes
+[`data/pl/forecasts.jsonld`](https://football-schema.github.io/premelo/data/pl/forecasts.jsonld): a `Rating` per club, a
+`MatchForecast` per coming match (home/draw/away, expected goals, over 2.5, both teams to score, likeliest scores) and a
+`SeasonProjection` per club, as things stand and under the open scenario. Each points at the match, club or season in
+[matchday](https://melvin.me/public/matchday/)'s data. `scripts/export-schema.mjs` writes them and checks them with
+football-schema's `validate()`.
+
 ## How it works
 
 - **Ratings.** Each league runs its own divisions, with its own settings, over every match since 1993-94. After each
@@ -126,7 +137,7 @@ node scripts/build.mjs                          # -> ratings, fixtures, club his
 npm test
 ```
 
-Updates: `scripts/update.sh` fetches this season's results (one request a second), imports, scores, builds, and commits and pushes `data/` if anything moved. Cron runs it on the maintainer's machine once a day at 08:00, after matchday's own refresh; nothing runs on GitHub's side. One dependency, [football-schema](https://github.com/football-schema/schema) (`npm install`), for matchday's data; Node 22 or later. The site is the `gh-pages` branch as it is.
+Updates: `scripts/update.sh` fetches this season's results (one request a second), imports, scores, builds, and commits and pushes `data/` if anything moved. Cron runs it on the maintainer's machine once a day at 08:00, after matchday's own refresh; nothing runs on GitHub's side. One dependency, [football-schema](https://github.com/football-schema/schema) (`npm install`), for matchday's data and the export below; Node 22 or later. The site is the `gh-pages` branch as it is.
 
 | File | What's in it |
 |---|---|

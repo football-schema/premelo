@@ -9,6 +9,6 @@
     "test": "node --test test/*.test.mjs"
   },
   "dependencies": {
-    "football-schema": "github:football-schema/schema#v0.0.2"
+    "football-schema": "github:football-schema/schema#v0.0.3"
   }
 }
