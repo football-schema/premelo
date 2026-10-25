@@ -10,6 +10,8 @@ export PATH="/home/melvin/.nvm/versions/node/v24.16.0/bin:/usr/bin:/bin"
 # git pushes through gh, whose token is in the desktop keyring: cron needs the session bus to reach it
 export XDG_RUNTIME_DIR="/run/user/$(id -u)" DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/$(id -u)/bus"
 echo "== $(date -u +%FT%TZ)"
+# football-schema (package.json), which reads matchday's data, is the one dependency
+[ -d node_modules/football-schema ] || npm install --no-fund --no-audit --silent
 node scripts/fetch.mjs --current
 node scripts/fetch-uefa.mjs --current
 node scripts/import.mjs

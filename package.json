@@ -7,5 +7,8 @@
     "build": "node scripts/build.mjs",
     "backtest": "node scripts/backtest.mjs",
     "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "football-schema": "github:football-schema/schema#v0.0.2"
   }
 }

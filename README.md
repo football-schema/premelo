@@ -110,7 +110,8 @@ clubs of different rated leagues, most leagues' clubs scored within about 3% of 
   UEFA's team ids keep one identity per club whatever it is called; awarded and abandoned matches are left out; only
   dates, clubs and 90-minute scores are kept, in `data/europe.csv` (a neutral-ground match's div is `EUN`).
 - **This season's Premier League fixtures and latest results:** [matchday](https://melvin.me/public/matchday/), in Football
-  Schema JSON-LD. Other leagues' coming fixtures: football-data's `fixtures.csv` and `new_league_fixtures.csv`.
+  Schema JSON-LD, read from its one published address (`data/dataset.jsonld`) with [football-schema](https://github.com/football-schema/schema)'s
+  `loadLinked()`, checked with its `validate()`, and its clubs matched by their own `altNames`. Other leagues' coming fixtures: football-data's `fixtures.csv` and `new_league_fixtures.csv`.
 
 ## Running it
 
@@ -125,7 +126,7 @@ node scripts/build.mjs                          # -> ratings, fixtures, club his
 npm test
 ```
 
-Updates: `scripts/update.sh` fetches this season's results (one request a second), imports, scores, builds, and commits and pushes `data/` if anything moved. Cron runs it on the maintainer's machine once a day at 08:00, after matchday's own refresh; nothing runs on GitHub's side. No dependencies: Node 22 or later. The site is the `gh-pages` branch as it is.
+Updates: `scripts/update.sh` fetches this season's results (one request a second), imports, scores, builds, and commits and pushes `data/` if anything moved. Cron runs it on the maintainer's machine once a day at 08:00, after matchday's own refresh; nothing runs on GitHub's side. One dependency, [football-schema](https://github.com/football-schema/schema) (`npm install`), for matchday's data; Node 22 or later. The site is the `gh-pages` branch as it is.
 
 | File | What's in it |
 |---|---|

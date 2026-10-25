@@ -8,7 +8,7 @@ import { run as runAttack } from '../lib/attack.mjs';
 import { seasons, currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
 import { slug, canonical } from '../lib/teams.mjs';
 import { LEAGUES, leagueOf } from '../lib/leagues.mjs';
-import { parseMatch } from '../lib/matchday.mjs';
+import { parseMatch, nameFor } from '../lib/matchday.mjs';
 
 test('season codes run from 1993-94 to the season under way, which starts in July', () => {
   assert.equal(currentSeason(new Date('2026-10-24')), '2627');
@@ -72,8 +72,18 @@ test('the goals model: probabilities add up, a bigger gap favours the home side 
 });
 
 test('a matchday match becomes a fixture under football-data\'s club names', () => {
-  const m = parseMatch({ kickoff: '2026-10-24T11:30:00Z', matchweek: 8, status: 'scheduled', homeTeam: '../../clubs/AVL.jsonld#this', awayTeam: '../../clubs/MCI.jsonld#this' });
+  const clubs = { avl: { shortName: 'Aston Villa', altNames: ['Aston Villa FC'] }, mci: { shortName: 'Man City', altNames: ['Manchester City FC'] } };
+  const known = new Set(['Aston Villa', 'Man City']);
+  const m = parseMatch({ kickoff: '2026-10-24T11:30:00Z', matchweek: 8, status: 'scheduled', homeTeam: 'avl', awayTeam: 'mci' }, (iri) => nameFor(clubs[iri], known));
   assert.deepEqual(m, { kickoff: '2026-10-24T11:30:00.000Z', gw: 8, home: 'Aston Villa', away: 'Man City', status: 'scheduled', ft: null, tbc: false });
+});
+
+test('a club takes the name premelo has its results under, from its short name or the other names it goes by', () => {
+  const known = new Set(['Man United', "Nott'm Forest", 'Tottenham']);
+  assert.equal(nameFor({ shortName: 'Man Utd', altNames: ['Manchester United FC', 'Man United'], name: 'Manchester United Football Club' }, known), 'Man United');
+  assert.equal(nameFor({ shortName: "Nott'm Forest", altNames: ['Nottingham Forest FC'] }, known), "Nott'm Forest");
+  assert.equal(nameFor({ shortName: 'Spurs', altNames: ['Tottenham'] }, known), 'Tottenham');
+  assert.equal(nameFor({ shortName: 'Newcomers' }, known), 'Newcomers');
 });
 
 test('UK kick-off times become UTC on either side of the clocks changing', () => {

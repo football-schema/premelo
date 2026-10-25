@@ -41,7 +41,7 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   let fixtures = [];
   if (!offline && id === 'pl') {
     // matchday's results that football-data hasn't got yet (each pairing is played once a season)
-    const md = await fetchSeason(label(season));
+    const md = await fetchSeason(label(season), new Set(list.flatMap((m) => [m.home, m.away])));
     const have = new Set(list.filter((m) => m.season === season && m.div === top).map(pair));
     const extra = md.filter((m) => m.status === 'finished' && m.ft && !have.has(pair(m))).map((m) => ({ date: m.kickoff.slice(0, 10), season, div: top, home: m.home, away: m.away, hg: m.ft[0], ag: m.ft[1] }));
     if (extra.length) console.log(`${extra.length} newer results from matchday: ${extra.map((m) => `${m.home} ${m.hg}-${m.ag} ${m.away}`).join(', ')}`);
