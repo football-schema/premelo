@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:10.763Z",
+ "updated": "2026-10-26T07:01:16.900Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-10-18",
@@ -120,14 +120,6 @@
     1783
    ],
    "rank": 1,
-   "next": {
-    "opp": "Feyenoord",
-    "oppSlug": "feyenoord",
-    "ha": "h",
-    "kickoff": "2026-10-25T13:30:00.000Z",
-    "win": 0.533,
-    "draw": 0.231
-   },
    "table": {
     "pos": 3,
     "p": 9,
@@ -243,14 +235,6 @@
     1676
    ],
    "rank": 2,
-   "next": {
-    "opp": "PSV",
-    "oppSlug": "psv-eindhoven",
-    "ha": "a",
-    "kickoff": "2026-10-25T13:30:00.000Z",
-    "win": 0.237,
-    "draw": 0.231
-   },
    "table": {
     "pos": 1,
     "p": 9,
@@ -366,14 +350,6 @@
     1672
    ],
    "rank": 3,
-   "next": {
-    "opp": "Sparta Rotterdam",
-    "oppSlug": "sparta-rotterdam",
-    "ha": "a",
-    "kickoff": "2026-10-25T15:45:00.000Z",
-    "win": 0.56,
-    "draw": 0.235
-   },
    "table": {
     "pos": 4,
     "p": 9,
@@ -489,14 +465,6 @@
     1629
    ],
    "rank": 4,
-   "next": {
-    "opp": "Twente",
-    "oppSlug": "twente",
-    "ha": "h",
-    "kickoff": "2026-10-25T19:00:00.000Z",
-    "win": 0.425,
-    "draw": 0.269
-   },
    "table": {
     "pos": 2,
     "p": 9,
@@ -612,14 +580,6 @@
     1626
    ],
    "rank": 5,
-   "next": {
-    "opp": "AZ",
-    "oppSlug": "az-alkmaar",
-    "ha": "a",
-    "kickoff": "2026-10-25T19:00:00.000Z",
-    "win": 0.306,
-    "draw": 0.269
-   },
    "table": {
     "pos": 5,
     "p": 9,
@@ -735,14 +695,6 @@
     1555
    ],
    "rank": 6,
-   "next": {
-    "opp": "Groningen",
-    "oppSlug": "groningen",
-    "ha": "h",
-    "kickoff": "2026-10-25T13:30:00.000Z",
-    "win": 0.49,
-    "draw": 0.248
-   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -1088,14 +1040,6 @@
     1494
    ],
    "rank": 9,
-   "next": {
-    "opp": "NEC",
-    "oppSlug": "nijmegen",
-    "ha": "a",
-    "kickoff": "2026-10-25T13:30:00.000Z",
-    "win": 0.262,
-    "draw": 0.248
-   },
    "table": {
     "pos": 7,
     "p": 9,
@@ -1326,14 +1270,6 @@
     1445
    ],
    "rank": 11,
-   "next": {
-    "opp": "Ajax",
-    "oppSlug": "ajax",
-    "ha": "h",
-    "kickoff": "2026-10-25T15:45:00.000Z",
-    "win": 0.205,
-    "draw": 0.235
-   },
    "table": {
     "pos": 13,
     "p": 9,
@@ -1449,14 +1385,6 @@
     1440
    ],
    "rank": 12,
-   "next": {
-    "opp": "Excelsior",
-    "oppSlug": "excelsior",
-    "ha": "h",
-    "kickoff": "2026-10-25T11:15:00.000Z",
-    "win": 0.448,
-    "draw": 0.266
-   },
    "table": {
     "pos": 6,
     "p": 9,
@@ -1572,14 +1500,6 @@
     1417
    ],
    "rank": 13,
-   "next": {
-    "opp": "Fortuna Sittard",
-    "oppSlug": "for-sittard",
-    "ha": "a",
-    "kickoff": "2026-10-25T11:15:00.000Z",
-    "win": 0.285,
-    "draw": 0.266
-   },
    "table": {
     "pos": 10,
     "p": 9,

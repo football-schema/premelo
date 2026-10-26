@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:10.141Z",
+ "updated": "2026-10-26T07:01:16.295Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-10-19",
@@ -121,14 +121,6 @@
     1868
    ],
    "rank": 1,
-   "next": {
-    "opp": "Academico Viseu",
-    "oppSlug": "academico-viseu",
-    "ha": "h",
-    "kickoff": "2026-10-25T20:30:00.000Z",
-    "win": 0.894,
-    "draw": 0.08
-   },
    "table": {
     "pos": 3,
     "p": 8,
@@ -482,14 +474,6 @@
     1697
    ],
    "rank": 4,
-   "next": {
-    "opp": "Nacional",
-    "oppSlug": "nacional",
-    "ha": "a",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.61,
-    "draw": 0.234
-   },
    "table": {
     "pos": 9,
     "p": 8,
@@ -605,14 +589,6 @@
     1544
    ],
    "rank": 5,
-   "next": {
-    "opp": "Rio Ave",
-    "oppSlug": "rio-ave",
-    "ha": "a",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.436,
-    "draw": 0.29
-   },
    "table": {
     "pos": 13,
     "p": 8,
@@ -1196,14 +1172,6 @@
     1478
    ],
    "rank": 10,
-   "next": {
-    "opp": "Estoril",
-    "oppSlug": "estoril",
-    "ha": "a",
-    "kickoff": "2026-10-25T15:30:00.000Z",
-    "win": 0.315,
-    "draw": 0.286
-   },
    "table": {
     "pos": 12,
     "p": 8,
@@ -1434,14 +1402,6 @@
     1430
    ],
    "rank": 12,
-   "next": {
-    "opp": "Moreirense",
-    "oppSlug": "moreirense",
-    "ha": "h",
-    "kickoff": "2026-10-25T15:30:00.000Z",
-    "win": 0.399,
-    "draw": 0.286
-   },
    "table": {
     "pos": 18,
     "p": 8,
@@ -1557,14 +1517,6 @@
     1427
    ],
    "rank": 13,
-   "next": {
-    "opp": "Famalicão",
-    "oppSlug": "famalicao",
-    "ha": "h",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.274,
-    "draw": 0.29
-   },
    "table": {
     "pos": 14,
     "p": 8,
@@ -1910,14 +1862,6 @@
     1397
    ],
    "rank": 16,
-   "next": {
-    "opp": "Braga",
-    "oppSlug": "sp-braga",
-    "ha": "h",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.156,
-    "draw": 0.234
-   },
    "table": {
     "pos": 16,
     "p": 8,
@@ -2021,14 +1965,6 @@
     1390
    ],
    "rank": 17,
-   "next": {
-    "opp": "Sporting CP",
-    "oppSlug": "sp-lisbon",
-    "ha": "a",
-    "kickoff": "2026-10-25T20:30:00.000Z",
-    "win": 0.027,
-    "draw": 0.08
-   },
    "table": {
     "pos": 7,
     "p": 8,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:12.409Z",
+ "updated": "2026-10-26T07:01:18.383Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-19",
@@ -120,14 +120,6 @@
     1608
    ],
    "rank": 1,
-   "next": {
-    "opp": "Legia",
-    "oppSlug": "legia",
-    "ha": "a",
-    "kickoff": "2026-10-25T17:30:00.000Z",
-    "win": 0.349,
-    "draw": 0.282
-   },
    "table": {
     "pos": 2,
     "p": 10,
@@ -243,14 +235,6 @@
     1551
    ],
    "rank": 2,
-   "next": {
-    "opp": "Lech Poznan",
-    "oppSlug": "lech-poznan",
-    "ha": "h",
-    "kickoff": "2026-10-25T17:30:00.000Z",
-    "win": 0.37,
-    "draw": 0.282
-   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -481,14 +465,6 @@
     1522
    ],
    "rank": 4,
-   "next": {
-    "opp": "Wisla Plock",
-    "oppSlug": "wisla-plock",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:45:00.000Z",
-    "win": 0.57,
-    "draw": 0.244
-   },
    "table": {
     "pos": 13,
     "p": 10,
@@ -1639,14 +1615,6 @@
     1422
    ],
    "rank": 14,
-   "next": {
-    "opp": "Jagiellonia",
-    "oppSlug": "jagiellonia",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:45:00.000Z",
-    "win": 0.186,
-    "draw": 0.244
-   },
    "table": {
     "pos": 10,
     "p": 10,
@@ -1983,14 +1951,6 @@
     1394
    ],
    "rank": 17,
-   "next": {
-    "opp": "Slask Wroclaw",
-    "oppSlug": "slask-wroclaw",
-    "ha": "a",
-    "kickoff": "2026-10-25T12:15:00.000Z",
-    "win": 0.29,
-    "draw": 0.276
-   },
    "table": {
     "pos": 15,
     "p": 11,
@@ -2106,14 +2066,6 @@
     1387
    ],
    "rank": 18,
-   "next": {
-    "opp": "Wieczysta Krakow",
-    "oppSlug": "wieczysta-krakow",
-    "ha": "h",
-    "kickoff": "2026-10-25T12:15:00.000Z",
-    "win": 0.434,
-    "draw": 0.276
-   },
    "table": {
     "pos": 17,
     "p": 11,

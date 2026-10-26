@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:12.413Z",
+ "updated": "2026-10-26T07:01:18.387Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-19",
@@ -211,14 +211,6 @@
     1502
    ],
    "rank": 2,
-   "next": {
-    "opp": "CFR Cluj",
-    "oppSlug": "cfr-cluj",
-    "ha": "a",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.395,
-    "draw": 0.295
-   },
    "table": {
     "pos": 1,
     "p": 12,
@@ -575,14 +567,6 @@
     1392
    ],
    "rank": 6,
-   "next": {
-    "opp": "Dinamo Bucuresti",
-    "oppSlug": "dinamo-bucuresti",
-    "ha": "h",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.31,
-    "draw": 0.295
-   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -672,14 +656,6 @@
     1370
    ],
    "rank": 7,
-   "next": {
-    "opp": "Otelul",
-    "oppSlug": "otelul",
-    "ha": "h",
-    "kickoff": "2026-10-25T15:00:00.000Z",
-    "win": 0.454,
-    "draw": 0.286
-   },
    "table": {
     "pos": 7,
     "p": 12,
@@ -769,14 +745,6 @@
     1353
    ],
    "rank": 8,
-   "next": {
-    "opp": "Farul Constanta",
-    "oppSlug": "farul-constanta",
-    "ha": "a",
-    "kickoff": "2026-10-25T15:00:00.000Z",
-    "win": 0.26,
-    "draw": 0.286
-   },
    "table": {
     "pos": 14,
     "p": 12,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:12.466Z",
+ "updated": "2026-10-26T07:01:18.446Z",
  "up": [
   {
    "league": "superleague",
@@ -92,6 +92,14 @@
    "change": -38
   },
   {
+   "league": "pl",
+   "leagueName": "Premier League",
+   "slug": "man-united",
+   "name": "Manchester United",
+   "elo": 1873,
+   "change": -38
+  },
+  {
    "league": "ligue1",
    "leagueName": "Ligue 1",
    "slug": "lille",
@@ -153,14 +161,6 @@
    "slug": "cagliari",
    "name": "Cagliari",
    "elo": 1608,
-   "change": -25
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "atalanta",
-   "name": "Atalanta",
-   "elo": 1756,
    "change": -25
   }
  ]

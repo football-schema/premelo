@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:05.237Z",
+ "updated": "2026-10-26T07:01:11.266Z",
  "league": "laliga",
  "name": "La Liga",
  "through": "2026-10-21",
@@ -126,14 +126,6 @@
     2026
    ],
    "rank": 1,
-   "next": {
-    "opp": "Real Madrid",
-    "oppSlug": "real-madrid",
-    "ha": "h",
-    "kickoff": "2026-10-25T20:00:00.000Z",
-    "win": 0.54,
-    "draw": 0.233
-   },
    "table": {
     "pos": 1,
     "p": 9,
@@ -251,14 +243,6 @@
     2017
    ],
    "rank": 2,
-   "next": {
-    "opp": "Barcelona",
-    "oppSlug": "barcelona",
-    "ha": "a",
-    "kickoff": "2026-10-25T20:00:00.000Z",
-    "win": 0.227,
-    "draw": 0.233
-   },
    "table": {
     "pos": 3,
     "p": 9,
@@ -493,14 +477,6 @@
     1798
    ],
    "rank": 4,
-   "next": {
-    "opp": "Celta Vigo",
-    "oppSlug": "celta",
-    "ha": "a",
-    "kickoff": "2026-10-25T15:15:00.000Z",
-    "win": 0.327,
-    "draw": 0.268
-   },
    "table": {
     "pos": 4,
     "p": 9,
@@ -735,14 +711,6 @@
     1736
    ],
    "rank": 6,
-   "next": {
-    "opp": "Levante",
-    "oppSlug": "levante",
-    "ha": "h",
-    "kickoff": "2026-10-25T17:30:00.000Z",
-    "win": 0.568,
-    "draw": 0.231
-   },
    "table": {
     "pos": 5,
     "p": 9,
@@ -860,14 +828,6 @@
     1723
    ],
    "rank": 7,
-   "next": {
-    "opp": "Getafe",
-    "oppSlug": "getafe",
-    "ha": "h",
-    "kickoff": "2026-10-25T13:00:00.000Z",
-    "win": 0.543,
-    "draw": 0.271
-   },
    "table": {
     "pos": 13,
     "p": 8,
@@ -985,14 +945,6 @@
     1724
    ],
    "rank": 8,
-   "next": {
-    "opp": "Real Betis",
-    "oppSlug": "betis",
-    "ha": "h",
-    "kickoff": "2026-10-25T15:15:00.000Z",
-    "win": 0.405,
-    "draw": 0.268
-   },
    "table": {
     "pos": 8,
     "p": 9,
@@ -1832,14 +1784,6 @@
     1652
    ],
    "rank": 13,
-   "next": {
-    "opp": "Real Sociedad",
-    "oppSlug": "sociedad",
-    "ha": "a",
-    "kickoff": "2026-10-25T17:30:00.000Z",
-    "win": 0.201,
-    "draw": 0.231
-   },
    "table": {
     "pos": 11,
     "p": 9,
@@ -2191,14 +2135,6 @@
     1628
    ],
    "rank": 16,
-   "next": {
-    "opp": "Athletic Club",
-    "oppSlug": "ath-bilbao",
-    "ha": "a",
-    "kickoff": "2026-10-25T13:00:00.000Z",
-    "win": 0.186,
-    "draw": 0.271
-   },
    "table": {
     "pos": 15,
     "p": 9,

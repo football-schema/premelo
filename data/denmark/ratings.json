@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:11.538Z",
+ "updated": "2026-10-26T07:01:17.543Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-10-19",
@@ -113,14 +113,6 @@
     1684
    ],
    "rank": 1,
-   "next": {
-    "opp": "Lyngby",
-    "oppSlug": "lyngby",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.815,
-    "draw": 0.129
-   },
    "table": {
     "pos": 2,
     "p": 11,
@@ -307,14 +299,6 @@
     1577
    ],
    "rank": 3,
-   "next": {
-    "opp": "Silkeborg",
-    "oppSlug": "silkeborg",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.484,
-    "draw": 0.267
-   },
    "table": {
     "pos": 4,
     "p": 11,
@@ -493,14 +477,6 @@
     1516
    ],
    "rank": 5,
-   "next": {
-    "opp": "Viborg",
-    "oppSlug": "viborg",
-    "ha": "h",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.438,
-    "draw": 0.277
-   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -590,14 +566,6 @@
     1503
    ],
    "rank": 6,
-   "next": {
-    "opp": "Aarhus",
-    "oppSlug": "aarhus",
-    "ha": "a",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.285,
-    "draw": 0.277
-   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -776,14 +744,6 @@
     1429
    ],
    "rank": 8,
-   "next": {
-    "opp": "Nordsjaelland",
-    "oppSlug": "nordsjaelland",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.248,
-    "draw": 0.267
-   },
    "table": {
     "pos": 8,
     "p": 11,
@@ -873,14 +833,6 @@
     1409
    ],
    "rank": 9,
-   "next": {
-    "opp": "Horsens",
-    "oppSlug": "horsens",
-    "ha": "a",
-    "kickoff": "2026-10-25T16:00:00.000Z",
-    "win": 0.354,
-    "draw": 0.281
-   },
    "table": {
     "pos": 11,
     "p": 11,
@@ -1067,14 +1019,6 @@
     1365
    ],
    "rank": 11,
-   "next": {
-    "opp": "Sonderjyske",
-    "oppSlug": "sonderjyske",
-    "ha": "h",
-    "kickoff": "2026-10-25T16:00:00.000Z",
-    "win": 0.365,
-    "draw": 0.281
-   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -1164,14 +1108,6 @@
     1345
    ],
    "rank": 12,
-   "next": {
-    "opp": "Midtjylland",
-    "oppSlug": "midtjylland",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.056,
-    "draw": 0.129
-   },
    "table": {
     "pos": 12,
     "p": 11,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:11.535Z",
+ "updated": "2026-10-26T07:01:17.541Z",
  "league": "switzerland",
  "name": "Swiss Super League",
  "through": "2026-10-11",
@@ -113,14 +113,6 @@
     1627
    ],
    "rank": 1,
-   "next": {
-    "opp": "Thun",
-    "oppSlug": "thun",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.544,
-    "draw": 0.242
-   },
    "table": {
     "pos": 1,
     "p": 10,
@@ -299,14 +291,6 @@
     1510
    ],
    "rank": 3,
-   "next": {
-    "opp": "Lausanne",
-    "oppSlug": "lausanne",
-    "ha": "h",
-    "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.594,
-    "draw": 0.229
-   },
    "table": {
     "pos": 3,
     "p": 10,
@@ -663,14 +647,6 @@
     1456
    ],
    "rank": 7,
-   "next": {
-    "opp": "Grasshoppers",
-    "oppSlug": "grasshoppers",
-    "ha": "h",
-    "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.558,
-    "draw": 0.239
-   },
    "table": {
     "pos": 7,
     "p": 10,
@@ -760,14 +736,6 @@
     1436
    ],
    "rank": 8,
-   "next": {
-    "opp": "Lugano",
-    "oppSlug": "lugano",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.214,
-    "draw": 0.242
-   },
    "table": {
     "pos": 9,
     "p": 10,
@@ -946,14 +914,6 @@
     1383
    ],
    "rank": 10,
-   "next": {
-    "opp": "Sion",
-    "oppSlug": "sion",
-    "ha": "a",
-    "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.177,
-    "draw": 0.229
-   },
    "table": {
     "pos": 12,
     "p": 10,
@@ -1043,14 +1003,6 @@
     1357
    ],
    "rank": 11,
-   "next": {
-    "opp": "Basel",
-    "oppSlug": "basel",
-    "ha": "a",
-    "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.204,
-    "draw": 0.239
-   },
    "table": {
     "pos": 11,
     "p": 10,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:11.530Z",
+ "updated": "2026-10-26T07:01:17.536Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-10-18",
@@ -113,14 +113,6 @@
     1718
    ],
    "rank": 1,
-   "next": {
-    "opp": "Kalamata",
-    "oppSlug": "kalamata",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.828,
-    "draw": 0.127
-   },
    "table": {
     "pos": 2,
     "p": 7,
@@ -299,14 +291,6 @@
     1620
    ],
    "rank": 3,
-   "next": {
-    "opp": "Volos NFC",
-    "oppSlug": "volos-nfc",
-    "ha": "a",
-    "kickoff": "2026-10-25T16:00:00.000Z",
-    "win": 0.702,
-    "draw": 0.193
-   },
    "table": {
     "pos": 1,
     "p": 7,
@@ -396,14 +380,6 @@
     1599
    ],
    "rank": 4,
-   "next": {
-    "opp": "OFI",
-    "oppSlug": "ofi-crete",
-    "ha": "a",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.553,
-    "draw": 0.245
-   },
    "table": {
     "pos": 3,
     "p": 7,
@@ -493,14 +469,6 @@
     1434
    ],
    "rank": 5,
-   "next": {
-    "opp": "Atromitos",
-    "oppSlug": "atromitos",
-    "ha": "h",
-    "kickoff": "2026-10-25T17:30:00.000Z",
-    "win": 0.515,
-    "draw": 0.27
-   },
    "table": {
     "pos": 5,
     "p": 7,
@@ -590,14 +558,6 @@
     1379
    ],
    "rank": 6,
-   "next": {
-    "opp": "PAOK",
-    "oppSlug": "paok",
-    "ha": "h",
-    "kickoff": "2026-10-25T18:00:00.000Z",
-    "win": 0.202,
-    "draw": 0.245
-   },
    "table": {
     "pos": 7,
     "p": 7,
@@ -687,14 +647,6 @@
     1324
    ],
    "rank": 7,
-   "next": {
-    "opp": "Aris Thessaloniki",
-    "oppSlug": "aris",
-    "ha": "a",
-    "kickoff": "2026-10-25T17:30:00.000Z",
-    "win": 0.215,
-    "draw": 0.27
-   },
    "table": {
     "pos": 13,
     "p": 6,
@@ -1229,14 +1181,6 @@
     1219
    ],
    "rank": 13,
-   "next": {
-    "opp": "Olympiacos",
-    "oppSlug": "olympiakos",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.045,
-    "draw": 0.127
-   },
    "table": {
     "pos": 6,
     "p": 7,
@@ -1326,14 +1270,6 @@
     1185
    ],
    "rank": 14,
-   "next": {
-    "opp": "Panathinaikos",
-    "oppSlug": "panathinaikos",
-    "ha": "h",
-    "kickoff": "2026-10-25T16:00:00.000Z",
-    "win": 0.105,
-    "draw": 0.193
-   },
    "table": {
     "pos": 12,
     "p": 7,

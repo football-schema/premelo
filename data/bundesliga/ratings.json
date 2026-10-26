@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:06.548Z",
+ "updated": "2026-10-26T07:01:12.688Z",
  "league": "bundesliga",
  "name": "Bundesliga",
  "through": "2026-10-18",
@@ -126,14 +126,6 @@
     2036
    ],
    "rank": 1,
-   "next": {
-    "opp": "SC Freiburg",
-    "oppSlug": "freiburg",
-    "ha": "a",
-    "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.656,
-    "draw": 0.189
-   },
    "table": {
     "pos": 1,
     "p": 6,
@@ -364,14 +356,6 @@
     1873
    ],
    "rank": 3,
-   "next": {
-    "opp": "Hoffenheim",
-    "oppSlug": "hoffenheim",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:30:00.000Z",
-    "win": 0.439,
-    "draw": 0.238
-   },
    "table": {
     "pos": 4,
     "p": 6,
@@ -717,14 +701,6 @@
     1759
    ],
    "rank": 6,
-   "next": {
-    "opp": "Bayern Munich",
-    "oppSlug": "bayern-munich",
-    "ha": "h",
-    "kickoff": "2026-10-25T16:30:00.000Z",
-    "win": 0.154,
-    "draw": 0.189
-   },
    "table": {
     "pos": 3,
     "p": 6,
@@ -1070,14 +1046,6 @@
     1702
    ],
    "rank": 9,
-   "next": {
-    "opp": "Bayer Leverkusen",
-    "oppSlug": "leverkusen",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:30:00.000Z",
-    "win": 0.323,
-    "draw": 0.238
-   },
    "table": {
     "pos": 14,
     "p": 6,

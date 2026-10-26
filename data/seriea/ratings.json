@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:01:08.259Z",
+ "updated": "2026-10-26T07:01:14.468Z",
  "league": "seriea",
  "name": "Serie A",
  "through": "2026-10-19",
@@ -126,14 +126,6 @@
     1945
    ],
    "rank": 1,
-   "next": {
-    "opp": "Fiorentina",
-    "oppSlug": "fiorentina",
-    "ha": "h",
-    "kickoff": "2026-10-25T11:30:00.000Z",
-    "win": 0.769,
-    "draw": 0.154
-   },
    "table": {
     "pos": 1,
     "p": 7,
@@ -485,14 +477,6 @@
     1795
    ],
    "rank": 4,
-   "next": {
-    "opp": "Udinese",
-    "oppSlug": "udinese",
-    "ha": "a",
-    "kickoff": "2026-10-25T19:45:00.000Z",
-    "win": 0.484,
-    "draw": 0.281
-   },
    "table": {
     "pos": 4,
     "p": 7,
@@ -610,14 +594,6 @@
     1792
    ],
    "rank": 5,
-   "next": {
-    "opp": "Lecce",
-    "oppSlug": "lecce",
-    "ha": "a",
-    "kickoff": "2026-10-25T17:00:00.000Z",
-    "win": 0.553,
-    "draw": 0.273
-   },
    "table": {
     "pos": 8,
     "p": 7,
@@ -969,14 +945,6 @@
     1759
    ],
    "rank": 8,
-   "next": {
-    "opp": "Frosinone",
-    "oppSlug": "frosinone",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.563,
-    "draw": 0.246
-   },
    "table": {
     "pos": 11,
     "p": 7,
@@ -1328,14 +1296,6 @@
     1647
    ],
    "rank": 11,
-   "next": {
-    "opp": "Inter",
-    "oppSlug": "inter",
-    "ha": "a",
-    "kickoff": "2026-10-25T11:30:00.000Z",
-    "win": 0.076,
-    "draw": 0.154
-   },
    "table": {
     "pos": 18,
     "p": 7,
@@ -1570,14 +1530,6 @@
     1613
    ],
    "rank": 13,
-   "next": {
-    "opp": "AC Milan",
-    "oppSlug": "milan",
-    "ha": "h",
-    "kickoff": "2026-10-25T19:45:00.000Z",
-    "win": 0.235,
-    "draw": 0.281
-   },
    "table": {
     "pos": 16,
     "p": 7,
@@ -1695,14 +1647,6 @@
     1610
    ],
    "rank": 14,
-   "next": {
-    "opp": "Atalanta",
-    "oppSlug": "atalanta",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.19,
-    "draw": 0.246
-   },
    "table": {
     "pos": 6,
     "p": 7,
@@ -1937,14 +1881,6 @@
     1596
    ],
    "rank": 16,
-   "next": {
-    "opp": "Venezia",
-    "oppSlug": "venezia",
-    "ha": "h",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.435,
-    "draw": 0.292
-   },
    "table": {
     "pos": 17,
     "p": 7,
@@ -2062,14 +1998,6 @@
     1578
    ],
    "rank": 17,
-   "next": {
-    "opp": "Juventus",
-    "oppSlug": "juventus",
-    "ha": "h",
-    "kickoff": "2026-10-25T17:00:00.000Z",
-    "win": 0.173,
-    "draw": 0.273
-   },
    "table": {
     "pos": 12,
     "p": 7,
@@ -2304,14 +2232,6 @@
     1559
    ],
    "rank": 19,
-   "next": {
-    "opp": "Genoa",
-    "oppSlug": "genoa",
-    "ha": "a",
-    "kickoff": "2026-10-25T14:00:00.000Z",
-    "win": 0.273,
-    "draw": 0.292
-   },
    "table": {
     "pos": 20,
     "p": 7,
