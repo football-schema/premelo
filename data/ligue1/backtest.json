@@ -1,30 +1,30 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "league": "Ligue 1",
  "from": "2000-01",
  "test": {
   "from": "2012-13",
-  "matches": 5060,
+  "matches": 5069,
   "model": {
-   "logloss": 1.0022,
-   "rps": 0.2048,
+   "logloss": 1.0021,
+   "rps": 0.2047,
    "brier": 0.5994
   },
   "elo": {
-   "logloss": 1.0054,
-   "rps": 0.2052,
+   "logloss": 1.0053,
+   "rps": 0.2051,
    "brier": 0.6015
   },
   "market": {
-   "logloss": 0.9848,
-   "rps": 0.1996,
+   "logloss": 0.9847,
+   "rps": 0.1995,
    "brier": 0.5875
   }
  },
  "all": {
-  "matches": 9470,
+  "matches": 9479,
   "model": {
-   "logloss": 1.0121,
+   "logloss": 1.012,
    "rps": 0.2045,
    "brier": 0.607
   },
@@ -35,7 +35,7 @@
   },
   "market": {
    "logloss": 1.0026,
-   "rps": 0.2016,
+   "rps": 0.2015,
    "brier": 0.6004
   }
  },
@@ -601,22 +601,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 63,
-   "withOdds": 63,
+   "matches": 72,
+   "withOdds": 72,
    "model": {
-    "logloss": 0.9914,
-    "rps": 0.2058,
-    "brier": 0.5915
+    "logloss": 0.9915,
+    "rps": 0.2005,
+    "brier": 0.5927
    },
    "market": {
-    "logloss": 0.9757,
-    "rps": 0.1998,
-    "brier": 0.5788
+    "logloss": 0.9764,
+    "rps": 0.1944,
+    "brier": 0.58
    },
    "baseline": {
-    "logloss": 1.0728,
-    "rps": 0.2329,
-    "brier": 0.6486
+    "logloss": 1.0724,
+    "rps": 0.227,
+    "brier": 0.6484
    }
   }
  ],
@@ -635,9 +635,9 @@
   },
   {
    "bucket": "20-30%",
-   "matches": 1037,
+   "matches": 1038,
    "predicted": 0.258,
-   "actual": 0.251
+   "actual": 0.25
   },
   {
    "bucket": "30-40%",
@@ -647,19 +647,19 @@
   },
   {
    "bucket": "40-50%",
-   "matches": 2705,
+   "matches": 2708,
    "predicted": 0.448,
-   "actual": 0.464
+   "actual": 0.463
   },
   {
    "bucket": "50-60%",
-   "matches": 1913,
+   "matches": 1915,
    "predicted": 0.544,
    "actual": 0.539
   },
   {
    "bucket": "60-70%",
-   "matches": 856,
+   "matches": 859,
    "predicted": 0.644,
    "actual": 0.653
   },

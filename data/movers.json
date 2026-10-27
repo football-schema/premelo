@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-26T07:01:18.446Z",
+ "updated": "2026-10-27T07:01:10.135Z",
  "up": [
-  {
-   "league": "superleague",
-   "leagueName": "Super League",
-   "slug": "kalamata",
-   "name": "Kalamata",
-   "elo": 1222,
-   "change": 48
-  },
   {
    "league": "switzerland",
    "leagueName": "Swiss Super League",
@@ -18,79 +10,79 @@
    "change": 41
   },
   {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "club-brugge",
-   "name": "Club Brugge",
-   "elo": 1836,
-   "change": 39
-  },
-  {
-   "league": "laliga",
-   "leagueName": "La Liga",
-   "slug": "sociedad",
-   "name": "Real Sociedad",
-   "elo": 1736,
-   "change": 31
-  },
-  {
-   "league": "superlig",
-   "leagueName": "Süper Lig",
-   "slug": "trabzonspor",
-   "name": "Trabzonspor",
-   "elo": 1620,
-   "change": 31
-  },
-  {
-   "league": "laliga",
-   "leagueName": "La Liga",
-   "slug": "celta",
-   "name": "Celta Vigo",
-   "elo": 1721,
-   "change": 30
-  },
-  {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "anderlecht",
-   "name": "Anderlecht",
-   "elo": 1635,
-   "change": 30
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "nijmegen",
+   "name": "NEC",
+   "elo": 1555,
+   "change": 34
   },
   {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
    "slug": "ajax",
    "name": "Ajax",
-   "elo": 1682,
-   "change": 29
+   "elo": 1685,
+   "change": 33
+  },
+  {
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "hoffenheim",
+   "name": "Hoffenheim",
+   "elo": 1713,
+   "change": 32
   },
   {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
-   "slug": "nijmegen",
-   "name": "NEC",
-   "elo": 1556,
-   "change": 29
+   "slug": "cambuur",
+   "name": "Cambuur",
+   "elo": 1392,
+   "change": 32
   },
   {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
-   "slug": "zwolle",
-   "name": "Zwolle",
-   "elo": 1426,
-   "change": 27
+   "slug": "twente",
+   "name": "Twente",
+   "elo": 1638,
+   "change": 31
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "galatasaray",
+   "name": "Galatasaray",
+   "elo": 1733,
+   "change": 31
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "antwerp",
+   "name": "Antwerp",
+   "elo": 1526,
+   "change": 28
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "raal-la-louviere",
+   "name": "RAAL La Louviere",
+   "elo": 1422,
+   "change": 28
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "orgryte",
+   "name": "Orgryte",
+   "elo": 1250,
+   "change": 26
   }
  ],
  "down": [
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "juventus",
-   "name": "Juventus",
-   "elo": 1792,
-   "change": -38
-  },
   {
    "league": "pl",
    "leagueName": "Premier League",
@@ -100,11 +92,27 @@
    "change": -38
   },
   {
-   "league": "ligue1",
-   "leagueName": "Ligue 1",
-   "slug": "lille",
-   "name": "Lille",
-   "elo": 1729,
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "cagliari",
+   "name": "Cagliari",
+   "elo": 1597,
+   "change": -36
+  },
+  {
+   "league": "primeira",
+   "leagueName": "Primeira Liga",
+   "slug": "sp-lisbon",
+   "name": "Sporting CP",
+   "elo": 1862,
+   "change": -33
+  },
+  {
+   "league": "laliga",
+   "leagueName": "La Liga",
+   "slug": "getafe",
+   "name": "Getafe",
+   "elo": 1625,
    "change": -32
   },
   {
@@ -116,14 +124,6 @@
    "change": -31
   },
   {
-   "league": "superleague",
-   "leagueName": "Super League",
-   "slug": "paok",
-   "name": "PAOK",
-   "elo": 1601,
-   "change": -29
-  },
-  {
    "league": "ireland",
    "leagueName": "League of Ireland",
    "slug": "shamrock-rovers",
@@ -132,36 +132,36 @@
    "change": -27
   },
   {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "udinese",
-   "name": "Udinese",
-   "elo": 1613,
-   "change": -27
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "napoli",
-   "name": "Napoli",
-   "elo": 1791,
+   "league": "ligue1",
+   "leagueName": "Ligue 1",
+   "slug": "lyon",
+   "name": "Olympique Lyonnais",
+   "elo": 1755,
    "change": -27
   },
   {
    "league": "ligue1",
    "leagueName": "Ligue 1",
-   "slug": "lens",
-   "name": "Lens",
-   "elo": 1746,
-   "change": -25
+   "slug": "lille",
+   "name": "Lille",
+   "elo": 1732,
+   "change": -24
   },
   {
    "league": "seriea",
    "leagueName": "Serie A",
-   "slug": "cagliari",
-   "name": "Cagliari",
-   "elo": 1608,
-   "change": -25
+   "slug": "parma",
+   "name": "Parma",
+   "elo": 1565,
+   "change": -24
+  },
+  {
+   "league": "poland",
+   "leagueName": "Ekstraklasa",
+   "slug": "jagiellonia",
+   "name": "Jagiellonia",
+   "elo": 1522,
+   "change": -23
   }
  ]
 }

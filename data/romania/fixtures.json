@@ -1,56 +1,6 @@
 {
- "updated": "2026-10-26T07:01:18.387Z",
+ "updated": "2026-10-27T07:01:10.080Z",
  "league": "romania",
  "season": "2026-27",
- "fixtures": [
-  {
-   "kickoff": "2026-10-26T19:00:00.000Z",
-   "home": "Sepsi Sf. Gheorghe",
-   "away": "Univ. Craiova",
-   "homeSlug": "sepsi-sf-gheorghe",
-   "awaySlug": "univ-craiova",
-   "homeName": "Sepsi Sf. Gheorghe",
-   "awayName": "Univ. Craiova",
-   "elo": [
-    1286,
-    1537
-   ],
-   "dr": -181,
-   "H": 0.181,
-   "D": 0.26,
-   "A": 0.56,
-   "xg": [
-    0.8,
-    1.7
-   ],
-   "O25": 0.455,
-   "btts": 0.47,
-   "scores": [
-    [
-     "0-1",
-     0.13
-    ],
-    [
-     "1-1",
-     0.126
-    ],
-    [
-     "0-2",
-     0.11
-    ],
-    [
-     "1-2",
-     0.093
-    ],
-    [
-     "0-0",
-     0.087
-    ],
-    [
-     "1-0",
-     0.065
-    ]
-   ]
-  }
- ]
+ "fixtures": []
 }

@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-26T07:01:16.907Z",
+ "updated": "2026-10-27T07:01:08.548Z",
  "league": "proleague",
  "name": "Pro League",
- "through": "2026-10-11",
+ "through": "2026-10-25",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -40,19 +40,10 @@
    "name": "Club Brugge",
    "slug": "club-brugge",
    "div": "top",
-   "elo": 1836,
-   "change30": 51,
-   "played": 11,
+   "elo": 1838,
+   "change30": 41,
+   "played": 12,
    "form": [
-    {
-     "r": "L",
-     "opp": "Gent",
-     "oppSlug": "gent",
-     "gf": 1,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-08-30"
-    },
     {
      "r": "W",
      "opp": "Lommel SK",
@@ -88,10 +79,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Sint-Truiden",
+     "oppSlug": "st-truiden",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1786,
     1780,
     1785,
     1791,
@@ -110,18 +109,19 @@
     1797,
     1800,
     1816,
-    1829
+    1829,
+    1838
    ],
    "rank": 1,
    "table": {
     "pos": 2,
-    "p": 8,
-    "w": 7,
+    "p": 9,
+    "w": 8,
     "d": 0,
     "l": 1,
-    "gf": 19,
-    "ga": 4,
-    "pts": 21
+    "gf": 22,
+    "ga": 6,
+    "pts": 24
    }
   },
   {
@@ -129,19 +129,10 @@
    "name": "Union Saint-Gilloise",
    "slug": "st-gilloise",
    "div": "top",
-   "elo": 1803,
-   "change30": 33,
-   "played": 13,
+   "elo": 1806,
+   "change30": 10,
+   "played": 14,
    "form": [
-    {
-     "r": "W",
-     "opp": "Sint-Truiden",
-     "oppSlug": "st-truiden",
-     "gf": 3,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-02"
-    },
     {
      "r": "W",
      "opp": "Charleroi",
@@ -177,10 +168,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Cercle Brugge",
+     "oppSlug": "cercle-brugge",
+     "gf": 5,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1772,
     1779,
     1770,
     1774,
@@ -199,18 +198,108 @@
     1796,
     1790,
     1789,
-    1803
+    1803,
+    1806
    ],
    "rank": 2,
    "table": {
-    "pos": 4,
-    "p": 8,
-    "w": 6,
+    "pos": 3,
+    "p": 9,
+    "w": 7,
     "d": 2,
     "l": 0,
-    "gf": 22,
-    "ga": 4,
-    "pts": 20
+    "gf": 27,
+    "ga": 6,
+    "pts": 23
+   }
+  },
+  {
+   "club": "Genk",
+   "name": "Genk",
+   "slug": "genk",
+   "div": "top",
+   "elo": 1635,
+   "change30": 21,
+   "played": 9,
+   "form": [
+    {
+     "r": "D",
+     "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "D",
+     "opp": "Gent",
+     "oppSlug": "gent",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Club Brugge",
+     "oppSlug": "club-brugge",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Standard Liège",
+     "oppSlug": "standard",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-25"
+    }
+   ],
+   "spark": [
+    1623,
+    1629,
+    1625,
+    1631,
+    1628,
+    1625,
+    1611,
+    1620,
+    1619,
+    1616,
+    1624,
+    1609,
+    1614,
+    1616,
+    1621,
+    1622,
+    1618,
+    1614,
+    1618,
+    1635
+   ],
+   "rank": 3,
+   "table": {
+    "pos": 6,
+    "p": 9,
+    "w": 4,
+    "d": 3,
+    "l": 2,
+    "gf": 18,
+    "ga": 13,
+    "pts": 15
    }
   },
   {
@@ -218,19 +307,10 @@
    "name": "Anderlecht",
    "slug": "anderlecht",
    "div": "top",
-   "elo": 1635,
-   "change30": 35,
-   "played": 17,
+   "elo": 1619,
+   "change30": 14,
+   "played": 18,
    "form": [
-    {
-     "r": "W",
-     "opp": "Kortrijk",
-     "oppSlug": "kortrijk",
-     "gf": 1,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-03"
-    },
     {
      "r": "D",
      "opp": "Genk",
@@ -266,10 +346,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Gent",
+     "oppSlug": "gent",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1555,
     1565,
     1559,
     1557,
@@ -288,107 +376,19 @@
     1605,
     1610,
     1608,
-    1633
-   ],
-   "rank": 3,
-   "table": {
-    "pos": 5,
-    "p": 8,
-    "w": 5,
-    "d": 1,
-    "l": 2,
-    "gf": 9,
-    "ga": 6,
-    "pts": 16
-   }
-  },
-  {
-   "club": "Genk",
-   "name": "Genk",
-   "slug": "genk",
-   "div": "top",
-   "elo": 1630,
-   "change30": 8,
-   "played": 8,
-   "form": [
-    {
-     "r": "W",
-     "opp": "Beveren",
-     "oppSlug": "beveren",
-     "gf": 4,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-08-28"
-    },
-    {
-     "r": "D",
-     "opp": "Anderlecht",
-     "oppSlug": "anderlecht",
-     "gf": 0,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-06"
-    },
-    {
-     "r": "D",
-     "opp": "Gent",
-     "oppSlug": "gent",
-     "gf": 1,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
-    {
-     "r": "L",
-     "opp": "Club Brugge",
-     "oppSlug": "club-brugge",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-20"
-    },
-    {
-     "r": "W",
-     "opp": "Kortrijk",
-     "oppSlug": "kortrijk",
-     "gf": 3,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-10"
-    }
-   ],
-   "spark": [
-    1626,
-    1623,
-    1629,
-    1625,
-    1631,
-    1628,
-    1625,
-    1611,
-    1620,
-    1619,
-    1616,
-    1624,
-    1609,
-    1614,
-    1616,
-    1621,
-    1622,
-    1618,
-    1614,
-    1618
+    1633,
+    1619
    ],
    "rank": 4,
    "table": {
-    "pos": 7,
-    "p": 8,
-    "w": 3,
-    "d": 3,
-    "l": 2,
-    "gf": 16,
-    "ga": 12,
-    "pts": 12
+    "pos": 5,
+    "p": 9,
+    "w": 5,
+    "d": 1,
+    "l": 3,
+    "gf": 9,
+    "ga": 10,
+    "pts": 16
    }
   },
   {
@@ -396,19 +396,10 @@
    "name": "Gent",
    "slug": "gent",
    "div": "top",
-   "elo": 1602,
-   "change30": 28,
-   "played": 16,
+   "elo": 1617,
+   "change30": 35,
+   "played": 17,
    "form": [
-    {
-     "r": "W",
-     "opp": "OH Leuven",
-     "oppSlug": "oud-heverlee-leuven",
-     "gf": 1,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-03"
-    },
     {
      "r": "W",
      "opp": "Cercle Brugge",
@@ -444,10 +435,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
+     "gf": 4,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1526,
     1528,
     1531,
     1527,
@@ -466,18 +465,19 @@
     1582,
     1593,
     1601,
-    1601
+    1601,
+    1617
    ],
    "rank": 5,
    "table": {
     "pos": 1,
-    "p": 8,
-    "w": 7,
+    "p": 9,
+    "w": 8,
     "d": 1,
     "l": 0,
-    "gf": 15,
+    "gf": 19,
     "ga": 4,
-    "pts": 22
+    "pts": 25
    }
   },
   {
@@ -485,19 +485,10 @@
    "name": "Charleroi",
    "slug": "charleroi",
    "div": "top",
-   "elo": 1598,
-   "change30": 31,
-   "played": 8,
+   "elo": 1582,
+   "change30": 4,
+   "played": 9,
    "form": [
-    {
-     "r": "W",
-     "opp": "Kortrijk",
-     "oppSlug": "kortrijk",
-     "gf": 3,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-08-29"
-    },
     {
      "r": "L",
      "opp": "Union Saint-Gilloise",
@@ -533,10 +524,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Antwerp",
+     "oppSlug": "antwerp",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1518,
     1508,
     1498,
     1504,
@@ -555,17 +554,18 @@
     1567,
     1572,
     1578,
-    1585
+    1585,
+    1582
    ],
    "rank": 6,
    "table": {
-    "pos": 3,
-    "p": 8,
+    "pos": 4,
+    "p": 9,
     "w": 7,
     "d": 0,
-    "l": 1,
+    "l": 2,
     "gf": 16,
-    "ga": 7,
+    "ga": 10,
     "pts": 21
    }
   },
@@ -574,19 +574,10 @@
    "name": "Sint-Truiden",
    "slug": "st-truiden",
    "div": "top",
-   "elo": 1570,
-   "change30": -12,
-   "played": 12,
+   "elo": 1569,
+   "change30": 18,
+   "played": 13,
    "form": [
-    {
-     "r": "L",
-     "opp": "Union Saint-Gilloise",
-     "oppSlug": "st-gilloise",
-     "gf": 0,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-09-02"
-    },
     {
      "r": "W",
      "opp": "RAAL La Louviere",
@@ -622,10 +613,18 @@
      "ga": 4,
      "ha": "a",
      "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Club Brugge",
+     "oppSlug": "club-brugge",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1552,
     1563,
     1579,
     1588,
@@ -644,17 +643,18 @@
     1551,
     1543,
     1549,
-    1571
+    1571,
+    1569
    ],
    "rank": 7,
    "table": {
-    "pos": 12,
-    "p": 8,
+    "pos": 13,
+    "p": 9,
     "w": 2,
     "d": 2,
-    "l": 4,
-    "gf": 15,
-    "ga": 16,
+    "l": 5,
+    "gf": 17,
+    "ga": 19,
     "pts": 8
    }
   },
@@ -663,19 +663,10 @@
    "name": "Westerlo",
    "slug": "westerlo",
    "div": "top",
-   "elo": 1551,
-   "change30": 54,
-   "played": 8,
+   "elo": 1547,
+   "change30": 22,
+   "played": 9,
    "form": [
-    {
-     "r": "D",
-     "opp": "Waregem",
-     "oppSlug": "waregem",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-08-30"
-    },
     {
      "r": "W",
      "opp": "Mechelen",
@@ -711,10 +702,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Beveren",
+     "oppSlug": "beveren",
+     "gf": 4,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1513,
     1512,
     1521,
     1529,
@@ -733,18 +732,19 @@
     1497,
     1507,
     1525,
-    1539
+    1539,
+    1547
    ],
    "rank": 8,
    "table": {
-    "pos": 6,
-    "p": 8,
+    "pos": 7,
+    "p": 9,
     "w": 4,
-    "d": 1,
+    "d": 2,
     "l": 3,
-    "gf": 20,
-    "ga": 17,
-    "pts": 13
+    "gf": 24,
+    "ga": 21,
+    "pts": 14
    }
   },
   {
@@ -752,19 +752,10 @@
    "name": "Standard Liège",
    "slug": "standard",
    "div": "top",
-   "elo": 1540,
-   "change30": -12,
-   "played": 8,
+   "elo": 1536,
+   "change30": 1,
+   "played": 9,
    "form": [
-    {
-     "r": "W",
-     "opp": "OH Leuven",
-     "oppSlug": "oud-heverlee-leuven",
-     "gf": 2,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-08-29"
-    },
     {
      "r": "W",
      "opp": "Antwerp",
@@ -800,10 +791,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Genk",
+     "oppSlug": "genk",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1501,
     1498,
     1511,
     1503,
@@ -822,17 +821,18 @@
     1552,
     1538,
     1535,
-    1528
+    1528,
+    1536
    ],
    "rank": 9,
    "table": {
     "pos": 9,
-    "p": 8,
+    "p": 9,
     "w": 3,
     "d": 2,
-    "l": 3,
-    "gf": 13,
-    "ga": 13,
+    "l": 4,
+    "gf": 14,
+    "ga": 15,
     "pts": 11
    }
   },
@@ -841,19 +841,10 @@
    "name": "Antwerp",
    "slug": "antwerp",
    "div": "top",
-   "elo": 1510,
-   "change30": -9,
-   "played": 8,
+   "elo": 1526,
+   "change30": 15,
+   "played": 9,
    "form": [
-    {
-     "r": "L",
-     "opp": "Sint-Truiden",
-     "oppSlug": "st-truiden",
-     "gf": 1,
-     "ga": 4,
-     "ha": "h",
-     "date": "2026-08-30"
-    },
     {
      "r": "L",
      "opp": "Standard Liège",
@@ -889,10 +880,18 @@
      "ga": 5,
      "ha": "a",
      "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Charleroi",
+     "oppSlug": "charleroi",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1545,
     1535,
     1529,
     1522,
@@ -911,107 +910,19 @@
     1519,
     1514,
     1511,
-    1498
+    1498,
+    1526
    ],
    "rank": 10,
    "table": {
-    "pos": 13,
-    "p": 8,
-    "w": 2,
+    "pos": 11,
+    "p": 9,
+    "w": 3,
     "d": 1,
     "l": 5,
-    "gf": 12,
+    "gf": 15,
     "ga": 20,
-    "pts": 7
-   }
-  },
-  {
-   "club": "Waregem",
-   "name": "Waregem",
-   "slug": "waregem",
-   "div": "top",
-   "elo": 1494,
-   "change30": -14,
-   "played": 8,
-   "form": [
-    {
-     "r": "D",
-     "opp": "Westerlo",
-     "oppSlug": "westerlo",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-08-30"
-    },
-    {
-     "r": "W",
-     "opp": "Kortrijk",
-     "oppSlug": "kortrijk",
-     "gf": 2,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-06"
-    },
-    {
-     "r": "L",
-     "opp": "Charleroi",
-     "oppSlug": "charleroi",
-     "gf": 0,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
-    {
-     "r": "L",
-     "opp": "Anderlecht",
-     "oppSlug": "anderlecht",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-19"
-    },
-    {
-     "r": "L",
-     "opp": "Gent",
-     "oppSlug": "gent",
-     "gf": 0,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-10-10"
-    }
-   ],
-   "spark": [
-    1435,
-    1430,
-    1420,
-    1413,
-    1409,
-    1414,
-    1415,
-    1422,
-    1435,
-    1447,
-    1456,
-    1461,
-    1479,
-    1485,
-    1498,
-    1499,
-    1508,
-    1499,
-    1493,
-    1482
-   ],
-   "rank": 11,
-   "table": {
-    "pos": 8,
-    "p": 8,
-    "w": 3,
-    "d": 2,
-    "l": 3,
-    "gf": 10,
-    "ga": 9,
-    "pts": 11
+    "pts": 10
    }
   },
   {
@@ -1020,7 +931,7 @@
    "slug": "mechelen",
    "div": "top",
    "elo": 1490,
-   "change30": 22,
+   "change30": 20,
    "played": 8,
    "form": [
     {
@@ -1091,9 +1002,9 @@
     1470,
     1478
    ],
-   "rank": 12,
+   "rank": 11,
    "table": {
-    "pos": 14,
+    "pos": 15,
     "p": 8,
     "w": 1,
     "d": 3,
@@ -1104,23 +1015,103 @@
    }
   },
   {
+   "club": "Waregem",
+   "name": "Waregem",
+   "slug": "waregem",
+   "div": "top",
+   "elo": 1478,
+   "change30": -15,
+   "played": 9,
+   "form": [
+    {
+     "r": "W",
+     "opp": "Kortrijk",
+     "oppSlug": "kortrijk",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-06"
+    },
+    {
+     "r": "L",
+     "opp": "Charleroi",
+     "oppSlug": "charleroi",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "L",
+     "opp": "Anderlecht",
+     "oppSlug": "anderlecht",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "L",
+     "opp": "Gent",
+     "oppSlug": "gent",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "RAAL La Louviere",
+     "oppSlug": "raal-la-louviere",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-24"
+    }
+   ],
+   "spark": [
+    1430,
+    1420,
+    1413,
+    1409,
+    1414,
+    1415,
+    1422,
+    1435,
+    1447,
+    1456,
+    1461,
+    1479,
+    1485,
+    1498,
+    1499,
+    1508,
+    1499,
+    1493,
+    1482,
+    1478
+   ],
+   "rank": 12,
+   "table": {
+    "pos": 10,
+    "p": 9,
+    "w": 3,
+    "d": 2,
+    "l": 4,
+    "gf": 10,
+    "ga": 12,
+    "pts": 11
+   }
+  },
+  {
    "club": "Cercle Brugge",
    "name": "Cercle Brugge",
    "slug": "cercle-brugge",
    "div": "top",
-   "elo": 1471,
+   "elo": 1468,
    "change30": 4,
-   "played": 8,
+   "played": 9,
    "form": [
-    {
-     "r": "L",
-     "opp": "Lommel SK",
-     "oppSlug": "lommel-sk",
-     "gf": 0,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-08-29"
-    },
     {
      "r": "L",
      "opp": "Gent",
@@ -1156,10 +1147,18 @@
      "ga": 2,
      "ha": "h",
      "date": "2026-10-10"
+    },
+    {
+     "r": "L",
+     "opp": "Union Saint-Gilloise",
+     "oppSlug": "st-gilloise",
+     "gf": 2,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1485,
     1499,
     1489,
     1485,
@@ -1178,17 +1177,18 @@
     1467,
     1465,
     1464,
-    1458
+    1458,
+    1468
    ],
    "rank": 13,
    "table": {
     "pos": 17,
-    "p": 8,
+    "p": 9,
     "w": 0,
     "d": 3,
-    "l": 5,
-    "gf": 9,
-    "ga": 16,
+    "l": 6,
+    "gf": 11,
+    "ga": 21,
     "pts": 3
    }
   },
@@ -1197,19 +1197,10 @@
    "name": "OH Leuven",
    "slug": "oud-heverlee-leuven",
    "div": "top",
-   "elo": 1450,
-   "change30": 28,
-   "played": 8,
+   "elo": 1448,
+   "change30": 16,
+   "played": 9,
    "form": [
-    {
-     "r": "L",
-     "opp": "Gent",
-     "oppSlug": "gent",
-     "gf": 0,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-03"
-    },
     {
      "r": "L",
      "opp": "Beveren",
@@ -1245,10 +1236,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Lommel SK",
+     "oppSlug": "lommel-sk",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1471,
     1475,
     1462,
     1466,
@@ -1267,18 +1266,19 @@
     1422,
     1420,
     1432,
-    1438
+    1438,
+    1448
    ],
    "rank": 14,
    "table": {
-    "pos": 15,
-    "p": 8,
+    "pos": 16,
+    "p": 9,
     "w": 1,
-    "d": 2,
+    "d": 3,
     "l": 5,
-    "gf": 6,
-    "ga": 14,
-    "pts": 5
+    "gf": 8,
+    "ga": 16,
+    "pts": 6
    }
   },
   {
@@ -1286,19 +1286,10 @@
    "name": "Lommel SK",
    "slug": "lommel-sk",
    "div": "top",
-   "elo": 1430,
-   "change30": 24,
-   "played": 8,
+   "elo": 1431,
+   "change30": 27,
+   "played": 9,
    "form": [
-    {
-     "r": "W",
-     "opp": "Cercle Brugge",
-     "oppSlug": "cercle-brugge",
-     "gf": 1,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-08-29"
-    },
     {
      "r": "L",
      "opp": "Club Brugge",
@@ -1334,6 +1325,15 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "OH Leuven",
+     "oppSlug": "oud-heverlee-leuven",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
@@ -1344,18 +1344,19 @@
     1406,
     1401,
     1404,
-    1417
+    1417,
+    1431
    ],
    "rank": 15,
    "table": {
-    "pos": 10,
-    "p": 8,
+    "pos": 8,
+    "p": 9,
     "w": 3,
-    "d": 2,
+    "d": 3,
     "l": 3,
-    "gf": 9,
-    "ga": 9,
-    "pts": 11
+    "gf": 11,
+    "ga": 11,
+    "pts": 12
    }
   },
   {
@@ -1363,19 +1364,10 @@
    "name": "RAAL La Louviere",
    "slug": "raal-la-louviere",
    "div": "top",
-   "elo": 1406,
-   "change30": 10,
-   "played": 8,
+   "elo": 1422,
+   "change30": 25,
+   "played": 9,
    "form": [
-    {
-     "r": "D",
-     "opp": "Mechelen",
-     "oppSlug": "mechelen",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-08-29"
-    },
     {
      "r": "L",
      "opp": "Sint-Truiden",
@@ -1411,10 +1403,18 @@
      "ga": 4,
      "ha": "h",
      "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Waregem",
+     "oppSlug": "waregem",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1408,
     1412,
     1407,
     1403,
@@ -1433,18 +1433,19 @@
     1396,
     1404,
     1397,
-    1394
+    1394,
+    1422
    ],
    "rank": 16,
    "table": {
-    "pos": 16,
-    "p": 8,
-    "w": 1,
+    "pos": 14,
+    "p": 9,
+    "w": 2,
     "d": 1,
     "l": 6,
-    "gf": 8,
+    "gf": 11,
     "ga": 18,
-    "pts": 4
+    "pts": 7
    }
   },
   {
@@ -1452,19 +1453,10 @@
    "name": "Beveren",
    "slug": "beveren",
    "div": "top",
-   "elo": 1394,
-   "change30": 8,
-   "played": 8,
+   "elo": 1398,
+   "change30": 2,
+   "played": 9,
    "form": [
-    {
-     "r": "L",
-     "opp": "Genk",
-     "oppSlug": "genk",
-     "gf": 0,
-     "ga": 4,
-     "ha": "a",
-     "date": "2026-08-28"
-    },
     {
      "r": "W",
      "opp": "OH Leuven",
@@ -1500,10 +1492,18 @@
      "ga": 3,
      "ha": "h",
      "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Westerlo",
+     "oppSlug": "westerlo",
+     "gf": 4,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-24"
     }
    ],
    "spark": [
-    1254,
     1245,
     1242,
     1240,
@@ -1522,18 +1522,19 @@
     1386,
     1400,
     1396,
-    1382
+    1382,
+    1398
    ],
    "rank": 17,
    "table": {
-    "pos": 11,
-    "p": 8,
+    "pos": 12,
+    "p": 9,
     "w": 3,
-    "d": 0,
+    "d": 1,
     "l": 5,
-    "gf": 8,
-    "ga": 14,
-    "pts": 9
+    "gf": 12,
+    "ga": 18,
+    "pts": 10
    }
   },
   {
@@ -1542,7 +1543,7 @@
    "slug": "kortrijk",
    "div": "top",
    "elo": 1353,
-   "change30": 5,
+   "change30": 8,
    "played": 8,
    "form": [
     {
