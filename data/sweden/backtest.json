@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "league": "Allsvenskan",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 3576,
+  "matches": 3584,
   "model": {
-   "logloss": 1.0062,
-   "rps": 0.2078,
-   "brier": 0.6015
+   "logloss": 1.0068,
+   "rps": 0.2079,
+   "brier": 0.6019
   },
   "elo": {
-   "logloss": 1.0063,
-   "rps": 0.2078,
-   "brier": 0.6016
+   "logloss": 1.0069,
+   "rps": 0.2079,
+   "brier": 0.602
   },
   "market": {
-   "logloss": 0.9839,
-   "rps": 0.2009,
-   "brier": 0.5863
+   "logloss": 0.9846,
+   "rps": 0.2011,
+   "brier": 0.5868
   }
  },
  "params": {
@@ -343,22 +343,22 @@
   },
   {
    "season": "2026",
-   "matches": 192,
-   "withOdds": 192,
+   "matches": 200,
+   "withOdds": 200,
    "model": {
-    "logloss": 1.031,
-    "rps": 0.2207,
-    "brier": 0.6164
+    "logloss": 1.0409,
+    "rps": 0.2225,
+    "brier": 0.6234
    },
    "market": {
-    "logloss": 0.994,
-    "rps": 0.2086,
-    "brier": 0.5913
+    "logloss": 1.007,
+    "rps": 0.2114,
+    "brier": 0.6004
    },
    "baseline": {
-    "logloss": 1.0755,
-    "rps": 0.2375,
-    "brier": 0.6521
+    "logloss": 1.0806,
+    "rps": 0.2378,
+    "brier": 0.6556
    }
   }
  ],
@@ -377,39 +377,39 @@
   },
   {
    "bucket": "20-30%",
-   "matches": 569,
+   "matches": 570,
    "predicted": 0.254,
    "actual": 0.267
   },
   {
    "bucket": "30-40%",
-   "matches": 769,
+   "matches": 770,
    "predicted": 0.352,
    "actual": 0.322
   },
   {
    "bucket": "40-50%",
-   "matches": 758,
+   "matches": 760,
    "predicted": 0.448,
-   "actual": 0.439
+   "actual": 0.438
   },
   {
    "bucket": "50-60%",
-   "matches": 620,
+   "matches": 621,
    "predicted": 0.548,
    "actual": 0.556
   },
   {
    "bucket": "60-70%",
-   "matches": 426,
+   "matches": 428,
    "predicted": 0.645,
-   "actual": 0.641
+   "actual": 0.64
   },
   {
    "bucket": "70-80%",
-   "matches": 176,
+   "matches": 177,
    "predicted": 0.738,
-   "actual": 0.784
+   "actual": 0.78
   },
   {
    "bucket": "80-90%",

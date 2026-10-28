@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "league": "League of Ireland",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 2733,
+  "matches": 2738,
   "model": {
-   "logloss": 0.987,
+   "logloss": 0.9868,
    "rps": 0.2019,
-   "brier": 0.5884
+   "brier": 0.5882
   },
   "elo": {
-   "logloss": 0.9875,
-   "rps": 0.2021,
-   "brier": 0.5888
+   "logloss": 0.9873,
+   "rps": 0.202,
+   "brier": 0.5886
   },
   "market": {
-   "logloss": 0.9664,
+   "logloss": 0.9663,
    "rps": 0.1955,
-   "brier": 0.575
+   "brier": 0.5749
   }
  },
  "params": {
@@ -343,22 +343,22 @@
   },
   {
    "season": "2026",
-   "matches": 170,
-   "withOdds": 170,
+   "matches": 175,
+   "withOdds": 175,
    "model": {
-    "logloss": 1.0607,
-    "rps": 0.2118,
-    "brier": 0.6409
+    "logloss": 1.0549,
+    "rps": 0.2107,
+    "brier": 0.6367
    },
    "market": {
-    "logloss": 1.03,
-    "rps": 0.2022,
-    "brier": 0.6194
+    "logloss": 1.0262,
+    "rps": 0.2018,
+    "brier": 0.6168
    },
    "baseline": {
-    "logloss": 1.1006,
-    "rps": 0.2238,
-    "brier": 0.6667
+    "logloss": 1.0981,
+    "rps": 0.2237,
+    "brier": 0.665
    }
   }
  ],
@@ -377,7 +377,7 @@
   },
   {
    "bucket": "20-30%",
-   "matches": 456,
+   "matches": 457,
    "predicted": 0.253,
    "actual": 0.263
   },
@@ -389,13 +389,13 @@
   },
   {
    "bucket": "40-50%",
-   "matches": 527,
+   "matches": 528,
    "predicted": 0.449,
-   "actual": 0.435
+   "actual": 0.436
   },
   {
    "bucket": "50-60%",
-   "matches": 442,
+   "matches": 444,
    "predicted": 0.548,
    "actual": 0.536
   },
@@ -407,9 +407,9 @@
   },
   {
    "bucket": "70-80%",
-   "matches": 150,
+   "matches": 151,
    "predicted": 0.74,
-   "actual": 0.773
+   "actual": 0.775
   },
   {
    "bucket": "80-90%",

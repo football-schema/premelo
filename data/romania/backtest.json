@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "league": "Liga I",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 4278,
+  "matches": 4286,
   "model": {
    "logloss": 1.02,
    "rps": 0.2063,
-   "brier": 0.6113
+   "brier": 0.6114
   },
   "elo": {
    "logloss": 1.0202,
-   "rps": 0.2063,
+   "rps": 0.2064,
    "brier": 0.6115
   },
   "market": {
-   "logloss": 0.9967,
+   "logloss": 0.9968,
    "rps": 0.1992,
-   "brier": 0.5957
+   "brier": 0.5958
   }
  },
  "params": {
@@ -344,22 +344,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 96,
-   "withOdds": 96,
+   "matches": 104,
+   "withOdds": 104,
    "model": {
-    "logloss": 0.9494,
-    "rps": 0.1878,
-    "brier": 0.5593
+    "logloss": 0.9557,
+    "rps": 0.1919,
+    "brier": 0.5638
    },
    "market": {
-    "logloss": 0.9238,
-    "rps": 0.1795,
-    "brier": 0.5415
+    "logloss": 0.9307,
+    "rps": 0.184,
+    "brier": 0.5468
    },
    "baseline": {
-    "logloss": 1.0348,
-    "rps": 0.2168,
-    "brier": 0.6218
+    "logloss": 1.0391,
+    "rps": 0.2205,
+    "brier": 0.6249
    }
   }
  ],
@@ -372,9 +372,9 @@
   },
   {
    "bucket": "10-20%",
-   "matches": 158,
+   "matches": 159,
    "predicted": 0.167,
-   "actual": 0.12
+   "actual": 0.119
   },
   {
    "bucket": "20-30%",
@@ -384,13 +384,13 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 1086,
+   "matches": 1090,
    "predicted": 0.352,
    "actual": 0.351
   },
   {
    "bucket": "40-50%",
-   "matches": 1128,
+   "matches": 1131,
    "predicted": 0.449,
    "actual": 0.441
   },

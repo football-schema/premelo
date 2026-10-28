@@ -1,14 +1,6 @@
 {
- "updated": "2026-10-27T07:01:10.135Z",
+ "updated": "2026-10-28T07:01:10.766Z",
  "up": [
-  {
-   "league": "switzerland",
-   "leagueName": "Swiss Super League",
-   "slug": "lugano",
-   "name": "Lugano",
-   "elo": 1625,
-   "change": 41
-  },
   {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
@@ -58,6 +50,14 @@
    "change": 31
   },
   {
+   "league": "switzerland",
+   "leagueName": "Swiss Super League",
+   "slug": "lugano",
+   "name": "Lugano",
+   "elo": 1629,
+   "change": 30
+  },
+  {
    "league": "proleague",
    "leagueName": "Pro League",
    "slug": "antwerp",
@@ -74,12 +74,12 @@
    "change": 28
   },
   {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "orgryte",
-   "name": "Orgryte",
-   "elo": 1250,
-   "change": 26
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "waterford",
+   "name": "Waterford",
+   "elo": 1236,
+   "change": 25
   }
  ],
  "down": [
@@ -116,22 +116,6 @@
    "change": -32
   },
   {
-   "league": "ireland",
-   "leagueName": "League of Ireland",
-   "slug": "st-patricks",
-   "name": "St. Patricks",
-   "elo": 1316,
-   "change": -31
-  },
-  {
-   "league": "ireland",
-   "leagueName": "League of Ireland",
-   "slug": "shamrock-rovers",
-   "name": "Shamrock Rovers",
-   "elo": 1320,
-   "change": -27
-  },
-  {
    "league": "ligue1",
    "leagueName": "Ligue 1",
    "slug": "lyon",
@@ -156,12 +140,28 @@
    "change": -24
   },
   {
+   "league": "norway",
+   "leagueName": "Eliteserien",
+   "slug": "bodo-glimt",
+   "name": "Bodo/Glimt",
+   "elo": 1737,
+   "change": -23
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "degerfors",
+   "name": "Degerfors",
+   "elo": 1252,
+   "change": -21
+  },
+  {
    "league": "poland",
    "leagueName": "Ekstraklasa",
    "slug": "jagiellonia",
    "name": "Jagiellonia",
-   "elo": 1522,
-   "change": -23
+   "elo": 1524,
+   "change": -20
   }
  ]
 }

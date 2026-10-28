@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T07:01:09.202Z",
+ "updated": "2026-10-28T07:01:09.908Z",
  "league": "denmark",
  "name": "Danish Superliga",
- "through": "2026-10-19",
+ "through": "2026-10-26",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -40,19 +40,10 @@
    "name": "Midtjylland",
    "slug": "midtjylland",
    "div": "top",
-   "elo": 1683,
-   "change30": -15,
-   "played": 19,
+   "elo": 1684,
+   "change30": -14,
+   "played": 20,
    "form": [
-    {
-     "r": "D",
-     "opp": "Nordsjaelland",
-     "oppSlug": "nordsjaelland",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-07"
-    },
     {
      "r": "W",
      "opp": "Brondby",
@@ -88,10 +79,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-19"
+    },
+    {
+     "r": "W",
+     "opp": "Lyngby",
+     "oppSlug": "lyngby",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1697,
     1681,
     1680,
     1660,
@@ -110,18 +109,19 @@
     1701,
     1695,
     1701,
+    1684,
     1684
    ],
    "rank": 1,
    "table": {
-    "pos": 2,
-    "p": 11,
-    "w": 7,
+    "pos": 1,
+    "p": 12,
+    "w": 8,
     "d": 4,
     "l": 0,
-    "gf": 21,
-    "ga": 11,
-    "pts": 25
+    "gf": 24,
+    "ga": 13,
+    "pts": 28
    }
   },
   {
@@ -129,19 +129,10 @@
    "name": "FC Copenhagen",
    "slug": "fc-copenhagen",
    "div": "top",
-   "elo": 1655,
-   "change30": 10,
-   "played": 19,
+   "elo": 1651,
+   "change30": 2,
+   "played": 20,
    "form": [
-    {
-     "r": "W",
-     "opp": "Odense",
-     "oppSlug": "odense",
-     "gf": 5,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-06"
-    },
     {
      "r": "W",
      "opp": "Horsens",
@@ -177,10 +168,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-18"
+    },
+    {
+     "r": "D",
+     "opp": "Odense",
+     "oppSlug": "odense",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-26"
     }
    ],
    "spark": [
-    1614,
     1599,
     1600,
     1602,
@@ -199,18 +198,19 @@
     1645,
     1664,
     1660,
-    1660
+    1660,
+    1651
    ],
    "rank": 2,
    "table": {
-    "pos": 1,
-    "p": 11,
+    "pos": 2,
+    "p": 12,
     "w": 8,
-    "d": 1,
+    "d": 2,
     "l": 2,
-    "gf": 25,
-    "ga": 11,
-    "pts": 25
+    "gf": 26,
+    "ga": 12,
+    "pts": 26
    }
   },
   {
@@ -218,19 +218,10 @@
    "name": "Nordsjaelland",
    "slug": "nordsjaelland",
    "div": "top",
-   "elo": 1577,
-   "change30": -25,
-   "played": 19,
+   "elo": 1575,
+   "change30": -17,
+   "played": 20,
    "form": [
-    {
-     "r": "D",
-     "opp": "Midtjylland",
-     "oppSlug": "midtjylland",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-07"
-    },
     {
      "r": "W",
      "opp": "Aarhus",
@@ -266,10 +257,18 @@
      "ga": 3,
      "ha": "a",
      "date": "2026-10-18"
+    },
+    {
+     "r": "D",
+     "opp": "Silkeborg",
+     "oppSlug": "silkeborg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1555,
     1537,
     1534,
     1550,
@@ -288,18 +287,19 @@
     1589,
     1590,
     1587,
-    1577
+    1577,
+    1575
    ],
    "rank": 3,
    "table": {
     "pos": 4,
-    "p": 11,
+    "p": 12,
     "w": 5,
-    "d": 4,
+    "d": 5,
     "l": 2,
-    "gf": 17,
-    "ga": 13,
-    "pts": 19
+    "gf": 18,
+    "ga": 14,
+    "pts": 20
    }
   },
   {
@@ -307,19 +307,10 @@
    "name": "Brondby",
    "slug": "brondby",
    "div": "top",
-   "elo": 1515,
-   "change30": -10,
-   "played": 11,
+   "elo": 1521,
+   "change30": 0,
+   "played": 12,
    "form": [
-    {
-     "r": "L",
-     "opp": "Randers FC",
-     "oppSlug": "randers-fc",
-     "gf": 0,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-09-06"
-    },
     {
      "r": "L",
      "opp": "Midtjylland",
@@ -355,10 +346,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-18"
+    },
+    {
+     "r": "W",
+     "opp": "Randers FC",
+     "oppSlug": "randers-fc",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-23"
     }
    ],
    "spark": [
-    1535,
     1531,
     1527,
     1534,
@@ -377,18 +376,19 @@
     1525,
     1521,
     1525,
-    1520
+    1520,
+    1521
    ],
    "rank": 4,
    "table": {
     "pos": 5,
-    "p": 11,
-    "w": 5,
+    "p": 12,
+    "w": 6,
     "d": 1,
     "l": 5,
-    "gf": 18,
-    "ga": 19,
-    "pts": 16
+    "gf": 21,
+    "ga": 20,
+    "pts": 19
    }
   },
   {
@@ -396,19 +396,10 @@
    "name": "Aarhus",
    "slug": "aarhus",
    "div": "top",
-   "elo": 1511,
-   "change30": -7,
-   "played": 19,
+   "elo": 1515,
+   "change30": -2,
+   "played": 20,
    "form": [
-    {
-     "r": "D",
-     "opp": "Silkeborg",
-     "oppSlug": "silkeborg",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-05"
-    },
     {
      "r": "L",
      "opp": "Nordsjaelland",
@@ -444,10 +435,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-18"
+    },
+    {
+     "r": "W",
+     "opp": "Viborg",
+     "oppSlug": "viborg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1572,
     1546,
     1540,
     1570,
@@ -466,18 +465,19 @@
     1522,
     1519,
     1521,
-    1516
+    1516,
+    1515
    ],
    "rank": 5,
    "table": {
-    "pos": 10,
-    "p": 11,
-    "w": 1,
+    "pos": 8,
+    "p": 12,
+    "w": 2,
     "d": 6,
     "l": 4,
-    "gf": 15,
-    "ga": 18,
-    "pts": 9
+    "gf": 17,
+    "ga": 19,
+    "pts": 12
    }
   },
   {
@@ -485,19 +485,10 @@
    "name": "Viborg",
    "slug": "viborg",
    "div": "top",
-   "elo": 1497,
-   "change30": 11,
-   "played": 11,
+   "elo": 1493,
+   "change30": -4,
+   "played": 12,
    "form": [
-    {
-     "r": "L",
-     "opp": "Lyngby",
-     "oppSlug": "lyngby",
-     "gf": 0,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-04"
-    },
     {
      "r": "D",
      "opp": "Silkeborg",
@@ -533,10 +524,18 @@
      "ga": 2,
      "ha": "h",
      "date": "2026-10-19"
+    },
+    {
+     "r": "L",
+     "opp": "Aarhus",
+     "oppSlug": "aarhus",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1484,
     1479,
     1487,
     1483,
@@ -555,18 +554,108 @@
     1486,
     1497,
     1504,
-    1503
+    1503,
+    1493
    ],
    "rank": 6,
    "table": {
     "pos": 3,
-    "p": 11,
+    "p": 12,
     "w": 6,
     "d": 2,
-    "l": 3,
-    "gf": 18,
-    "ga": 10,
+    "l": 4,
+    "gf": 19,
+    "ga": 12,
     "pts": 20
+   }
+  },
+  {
+   "club": "Silkeborg",
+   "name": "Silkeborg",
+   "slug": "silkeborg",
+   "div": "top",
+   "elo": 1425,
+   "change30": -13,
+   "played": 12,
+   "form": [
+    {
+     "r": "D",
+     "opp": "Viborg",
+     "oppSlug": "viborg",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-13"
+    },
+    {
+     "r": "W",
+     "opp": "Lyngby",
+     "oppSlug": "lyngby",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "D",
+     "opp": "Horsens",
+     "oppSlug": "horsens",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Sonderjyske",
+     "oppSlug": "sonderjyske",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-18"
+    },
+    {
+     "r": "D",
+     "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-25"
+    }
+   ],
+   "spark": [
+    1425,
+    1431,
+    1429,
+    1433,
+    1440,
+    1445,
+    1438,
+    1428,
+    1419,
+    1418,
+    1428,
+    1422,
+    1419,
+    1427,
+    1429,
+    1429,
+    1438,
+    1436,
+    1429,
+    1425
+   ],
+   "rank": 7,
+   "table": {
+    "pos": 9,
+    "p": 12,
+    "w": 2,
+    "d": 6,
+    "l": 4,
+    "gf": 16,
+    "ga": 20,
+    "pts": 12
    }
   },
   {
@@ -574,19 +663,10 @@
    "name": "Randers FC",
    "slug": "randers-fc",
    "div": "top",
-   "elo": 1430,
-   "change30": -19,
-   "played": 11,
+   "elo": 1423,
+   "change30": -18,
+   "played": 12,
    "form": [
-    {
-     "r": "W",
-     "opp": "Brondby",
-     "oppSlug": "brondby",
-     "gf": 3,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-06"
-    },
     {
      "r": "L",
      "opp": "Odense",
@@ -622,10 +702,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-16"
+    },
+    {
+     "r": "L",
+     "opp": "Brondby",
+     "oppSlug": "brondby",
+     "gf": 1,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-23"
     }
    ],
    "spark": [
-    1467,
     1466,
     1462,
     1454,
@@ -644,105 +732,17 @@
     1449,
     1441,
     1434,
-    1435
-   ],
-   "rank": 7,
-   "table": {
-    "pos": 9,
-    "p": 11,
-    "w": 3,
-    "d": 2,
-    "l": 6,
-    "gf": 11,
-    "ga": 16,
-    "pts": 11
-   }
-  },
-  {
-   "club": "Silkeborg",
-   "name": "Silkeborg",
-   "slug": "silkeborg",
-   "div": "top",
-   "elo": 1423,
-   "change30": -15,
-   "played": 11,
-   "form": [
-    {
-     "r": "D",
-     "opp": "Aarhus",
-     "oppSlug": "aarhus",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-05"
-    },
-    {
-     "r": "D",
-     "opp": "Viborg",
-     "oppSlug": "viborg",
-     "gf": 1,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
-    {
-     "r": "W",
-     "opp": "Lyngby",
-     "oppSlug": "lyngby",
-     "gf": 4,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
-    {
-     "r": "D",
-     "opp": "Horsens",
-     "oppSlug": "horsens",
-     "gf": 3,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "L",
-     "opp": "Sonderjyske",
-     "oppSlug": "sonderjyske",
-     "gf": 0,
-     "ga": 4,
-     "ha": "a",
-     "date": "2026-10-18"
-    }
-   ],
-   "spark": [
-    1430,
-    1425,
-    1431,
-    1429,
-    1433,
-    1440,
-    1445,
-    1438,
-    1428,
-    1419,
-    1418,
-    1428,
-    1422,
-    1419,
-    1427,
-    1429,
-    1429,
-    1438,
-    1436,
-    1429
+    1435,
+    1423
    ],
    "rank": 8,
    "table": {
-    "pos": 8,
-    "p": 11,
-    "w": 2,
-    "d": 5,
-    "l": 4,
-    "gf": 15,
+    "pos": 10,
+    "p": 12,
+    "w": 3,
+    "d": 2,
+    "l": 7,
+    "gf": 12,
     "ga": 19,
     "pts": 11
    }
@@ -752,19 +752,10 @@
    "name": "Sonderjyske",
    "slug": "sonderjyske",
    "div": "top",
-   "elo": 1404,
-   "change30": 8,
-   "played": 11,
+   "elo": 1395,
+   "change30": -9,
+   "played": 12,
    "form": [
-    {
-     "r": "L",
-     "opp": "Horsens",
-     "oppSlug": "horsens",
-     "gf": 2,
-     "ga": 5,
-     "ha": "h",
-     "date": "2026-09-06"
-    },
     {
      "r": "D",
      "opp": "Lyngby",
@@ -800,10 +791,18 @@
      "ga": 0,
      "ha": "h",
      "date": "2026-10-18"
+    },
+    {
+     "r": "L",
+     "opp": "Horsens",
+     "oppSlug": "horsens",
+     "gf": 1,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1428,
     1431,
     1424,
     1418,
@@ -822,17 +821,18 @@
     1396,
     1404,
     1399,
-    1409
+    1409,
+    1395
    ],
    "rank": 9,
    "table": {
-    "pos": 11,
-    "p": 11,
+    "pos": 12,
+    "p": 12,
     "w": 2,
     "d": 2,
-    "l": 7,
-    "gf": 16,
-    "ga": 24,
+    "l": 8,
+    "gf": 17,
+    "ga": 29,
     "pts": 8
    }
   },
@@ -841,19 +841,10 @@
    "name": "Odense",
    "slug": "odense",
    "div": "top",
-   "elo": 1387,
-   "change30": 5,
-   "played": 11,
+   "elo": 1391,
+   "change30": 9,
+   "played": 12,
    "form": [
-    {
-     "r": "L",
-     "opp": "FC Copenhagen",
-     "oppSlug": "fc-copenhagen",
-     "gf": 0,
-     "ga": 5,
-     "ha": "h",
-     "date": "2026-09-06"
-    },
     {
      "r": "W",
      "opp": "Randers FC",
@@ -889,10 +880,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-18"
+    },
+    {
+     "r": "D",
+     "opp": "FC Copenhagen",
+     "oppSlug": "fc-copenhagen",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-26"
     }
    ],
    "spark": [
-    1375,
     1379,
     1373,
     1382,
@@ -911,18 +910,19 @@
     1378,
     1382,
     1385,
-    1393
+    1393,
+    1391
    ],
    "rank": 10,
    "table": {
     "pos": 7,
-    "p": 11,
+    "p": 12,
     "w": 3,
-    "d": 4,
+    "d": 5,
     "l": 4,
-    "gf": 10,
-    "ga": 15,
-    "pts": 13
+    "gf": 11,
+    "ga": 16,
+    "pts": 14
    }
   },
   {
@@ -930,19 +930,10 @@
    "name": "Horsens",
    "slug": "horsens",
    "div": "top",
-   "elo": 1359,
-   "change30": 0,
-   "played": 11,
+   "elo": 1368,
+   "change30": 7,
+   "played": 12,
    "form": [
-    {
-     "r": "W",
-     "opp": "Sonderjyske",
-     "oppSlug": "sonderjyske",
-     "gf": 5,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-06"
-    },
     {
      "r": "L",
      "opp": "FC Copenhagen",
@@ -978,10 +969,18 @@
      "ga": 0,
      "ha": "h",
      "date": "2026-10-16"
+    },
+    {
+     "r": "W",
+     "opp": "Sonderjyske",
+     "oppSlug": "sonderjyske",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1320,
     1315,
     1312,
     1312,
@@ -1000,18 +999,19 @@
     1359,
     1361,
     1363,
-    1365
+    1365,
+    1368
    ],
    "rank": 11,
    "table": {
     "pos": 6,
-    "p": 11,
-    "w": 3,
+    "p": 12,
+    "w": 4,
     "d": 4,
     "l": 4,
-    "gf": 18,
-    "ga": 19,
-    "pts": 13
+    "gf": 23,
+    "ga": 20,
+    "pts": 16
    }
   },
   {
@@ -1019,19 +1019,10 @@
    "name": "Lyngby",
    "slug": "lyngby",
    "div": "top",
-   "elo": 1340,
-   "change30": -5,
-   "played": 11,
+   "elo": 1339,
+   "change30": -6,
+   "played": 12,
    "form": [
-    {
-     "r": "W",
-     "opp": "Viborg",
-     "oppSlug": "viborg",
-     "gf": 2,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-04"
-    },
     {
      "r": "D",
      "opp": "Sonderjyske",
@@ -1067,10 +1058,18 @@
      "ga": 3,
      "ha": "h",
      "date": "2026-10-18"
+    },
+    {
+     "r": "L",
+     "opp": "Midtjylland",
+     "oppSlug": "midtjylland",
+     "gf": 2,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-25"
     }
    ],
    "spark": [
-    1336,
     1336,
     1328,
     1330,
@@ -1089,17 +1088,18 @@
     1354,
     1345,
     1341,
-    1345
+    1345,
+    1339
    ],
    "rank": 12,
    "table": {
-    "pos": 12,
-    "p": 11,
+    "pos": 11,
+    "p": 12,
     "w": 1,
     "d": 5,
-    "l": 5,
-    "gf": 15,
-    "ga": 24,
+    "l": 6,
+    "gf": 17,
+    "ga": 27,
     "pts": 8
    }
   }

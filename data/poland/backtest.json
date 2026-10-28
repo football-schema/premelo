@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "league": "Ekstraklasa",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 4179,
+  "matches": 4188,
   "model": {
-   "logloss": 1.0502,
+   "logloss": 1.05,
    "rps": 0.2179,
-   "brier": 0.6322
+   "brier": 0.632
   },
   "elo": {
-   "logloss": 1.0502,
+   "logloss": 1.05,
    "rps": 0.2179,
-   "brier": 0.6322
+   "brier": 0.632
   },
   "market": {
-   "logloss": 1.0394,
-   "rps": 0.2145,
-   "brier": 0.6252
+   "logloss": 1.0392,
+   "rps": 0.2144,
+   "brier": 0.6251
   }
  },
  "params": {
@@ -343,22 +343,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 97,
-   "withOdds": 97,
+   "matches": 106,
+   "withOdds": 106,
    "model": {
-    "logloss": 1.0361,
-    "rps": 0.2227,
-    "brier": 0.6216
+    "logloss": 1.0276,
+    "rps": 0.2199,
+    "brier": 0.6154
    },
    "market": {
-    "logloss": 1.0074,
-    "rps": 0.2139,
-    "brier": 0.6039
+    "logloss": 1.0013,
+    "rps": 0.2121,
+    "brier": 0.5994
    },
    "baseline": {
-    "logloss": 1.0609,
-    "rps": 0.2317,
-    "brier": 0.6407
+    "logloss": 1.0537,
+    "rps": 0.2292,
+    "brier": 0.6355
    }
   }
  ],
@@ -377,21 +377,21 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 1016,
+   "matches": 1020,
    "predicted": 0.358,
-   "actual": 0.373
+   "actual": 0.374
   },
   {
    "bucket": "40-50%",
-   "matches": 1568,
+   "matches": 1571,
    "predicted": 0.448,
    "actual": 0.433
   },
   {
    "bucket": "50-60%",
-   "matches": 798,
+   "matches": 800,
    "predicted": 0.54,
-   "actual": 0.52
+   "actual": 0.521
   },
   {
    "bucket": "60-70%",
