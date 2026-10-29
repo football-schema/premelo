@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { parseCsv, isoDate, matches, matchesExtra, oddsOf, toCsv, fromCsv } from '../lib/results.mjs';
 import { run, runAll, marginFactor, expectedScore } from '../lib/elo.mjs';
 import { parse as parseUefa } from '../lib/uefa.mjs';
-import { markets, table, gridOf, blended } from '../lib/goals.mjs';
+import { markets, table, gridOf, blended, implied } from '../lib/goals.mjs';
 import { run as runAttack } from '../lib/attack.mjs';
 import { seasons, currentSeason, label, ukToUtc } from '../lib/seasons.mjs';
 import { slug, canonical } from '../lib/teams.mjs';
@@ -150,6 +150,22 @@ test('home advantage learnt as it goes: home sides doing worse than expected bri
   const fixed = run(list, { k: 10, hfa: 80, kH: 0 }, { divs: ['X1', 'X2'] }), learnt = run(list, { k: 10, hfa: 80, kH: 1 }, { divs: ['X1', 'X2'] });
   assert.equal(fixed.hfa, 80);
   assert.ok(learnt.hfa < 80, `home advantage fell to ${learnt.hfa}`);
+});
+
+test("the market's view is learnt from only after the match it priced has been predicted", () => {
+  const imp = implied({ mu: 2.7, c: 525, draw: 0.2 });
+  assert.ok(Math.abs(imp([2.5, 3.2, 2.5])) < 1e-6, 'level prices, level gap');
+  assert.ok(imp([1.3, 5, 10]) > 200 && imp([10, 5, 1.3]) < -200);
+  const list = (odds) => [['A', 'B'], ['B', 'A'], ['A', 'B']].map(([home, away], i) => ({ season: '2122', date: `2021-09-0${i + 1}`, div: 'X1', home, away, hg: 1, ag: 1, odds: odds && (home === 'A' ? odds : [...odds].reverse()) }));
+  const seen = (odds, p) => { const out = []; run(list(odds), { k: 10, hfa: 60, ...p }, { divs: ['X1'], implied: imp, each: (m, { dr }) => out.push(dr) }); return out; };
+  const plain = seen(null, { w: 0.5 }), fav = seen([1.3, 5, 10], { w: 0.5 }), off = seen([1.3, 5, 10], { w: 0 });
+  assert.equal(fav[0], plain[0], "a match's own prices don't touch its prediction");
+  assert.ok(fav[1] < plain[1] && fav[2] > plain[2], 'later matches see them: A, the favourite, rated higher');
+  assert.deepEqual(off, plain, 'w = 0 is plain Elo');
+  const xg = (w) => { const out = []; runAttack(list([1.3, 5, 10]), { k: 0.05, w }, { divs: ['X1'], ratio: (o) => 2 * imp(o) / 525, each: (m, x) => out.push(x) }); return out; };
+  const a0 = xg(0), a1 = xg(0.5);
+  assert.deepEqual(a1[0], a0[0]);
+  assert.ok(a1[2][0] / a1[2][1] > a0[2][0] / a0[2][1]);
 });
 
 test("two models' score grids blend into one consistent set of markets", () => {

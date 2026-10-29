@@ -1,7 +1,7 @@
 {
   "pl": {
     "elo": {
-      "k": 14,
+      "k": 7,
       "hfa": 100,
       "margin": "log",
       "regress": 0.1,
@@ -11,7 +11,9 @@
       },
       "hfaEmpty": 0,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "w": 0.2,
+      "wH": 0
     },
     "goals": {
       "mu": 2.627,
@@ -22,15 +24,16 @@
       "k": 0.02,
       "r": 0,
       "kb": 0.002,
-      "shots": 0.3,
-      "conv": 0.32,
-      "draw": 0.3
+      "shots": 0.7,
+      "conv": 0.25,
+      "w": 0.2,
+      "draw": 0.25
     },
-    "blend": 0.5
+    "blend": 0.6
   },
   "laliga": {
     "elo": {
-      "k": 8,
+      "k": 2,
       "hfa": 100,
       "margin": "log",
       "regress": 0,
@@ -40,7 +43,9 @@
       },
       "hfaEmpty": 0,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "w": 0.35,
+      "wH": 0
     },
     "goals": {
       "mu": 2.673,
@@ -49,17 +54,18 @@
     },
     "attack": {
       "k": 0.01,
-      "r": 0,
+      "r": 0.1,
       "kb": 0.002,
-      "shots": 0,
-      "conv": 0.3,
-      "draw": 0.05
+      "shots": 0.7,
+      "conv": 0.32,
+      "w": 0.2,
+      "draw": 0.1
     },
-    "blend": 0.5
+    "blend": 0.6
   },
   "bundesliga": {
     "elo": {
-      "k": 10,
+      "k": 36,
       "hfa": 90,
       "margin": "log",
       "regress": 0.1,
@@ -68,27 +74,31 @@
         "second": 1395
       },
       "hfaEmpty": 0,
-      "kH": 0.3,
-      "q": 0
+      "kH": 0.5,
+      "q": 0.01,
+      "w": 0.7,
+      "wH": 0.003,
+      "rNew": 3
     },
     "goals": {
       "mu": 2.859,
       "c": 525,
-      "draw": 0.15
+      "draw": 0.2
     },
     "attack": {
-      "k": 0.015,
-      "r": 0,
+      "k": 0.02,
+      "r": 0.2,
       "kb": 0.002,
       "shots": 0.5,
       "conv": 0.32,
+      "w": 0.4,
       "draw": 0.2
     },
-    "blend": 0.1
+    "blend": 0.4
   },
   "seriea": {
     "elo": {
-      "k": 16,
+      "k": 48,
       "hfa": 100,
       "margin": "log",
       "regress": 0.1,
@@ -98,7 +108,10 @@
       },
       "hfaEmpty": 0,
       "kH": 0,
-      "q": 0
+      "q": 0.006,
+      "w": 0.5,
+      "wH": 0,
+      "rNew": 3
     },
     "goals": {
       "mu": 2.592,
@@ -106,18 +119,19 @@
       "draw": 0.35
     },
     "attack": {
-      "k": 0.03,
+      "k": 0.01,
       "r": 0,
       "kb": 0.002,
       "shots": 0.3,
       "conv": 0.32,
-      "draw": 0.3
+      "w": 0.2,
+      "draw": 0.35
     },
-    "blend": 0.8
+    "blend": 0.9
   },
   "ligue1": {
     "elo": {
-      "k": 42,
+      "k": 36,
       "hfa": 100,
       "margin": "log",
       "regress": 0.1,
@@ -126,9 +140,11 @@
         "second": 1395
       },
       "hfaEmpty": 0,
-      "kH": 0.05,
+      "kH": 0,
       "q": 0.006,
-      "rNew": 1
+      "rNew": 3,
+      "w": 0.2,
+      "wH": 0.003
     },
     "goals": {
       "mu": 2.308,
@@ -137,13 +153,14 @@
     },
     "attack": {
       "k": 0.02,
-      "r": 0.1,
+      "r": 0.2,
       "kb": 0.002,
       "shots": 0.3,
-      "conv": 0.32,
-      "draw": 0.2
+      "conv": 0.25,
+      "w": 0.2,
+      "draw": 0.15
     },
-    "blend": 0.4
+    "blend": 0.5
   },
   "common": {
     "c": 525
@@ -157,7 +174,7 @@
   },
   "primeira": {
     "elo": {
-      "k": 40,
+      "k": 36,
       "hfa": 100,
       "margin": "log",
       "regress": 0,
@@ -166,9 +183,11 @@
         "second": 1395
       },
       "hfaEmpty": 0,
-      "kH": 0.5,
-      "q": 0.003,
-      "rNew": 1
+      "kH": 0,
+      "q": 0.006,
+      "rNew": 2,
+      "w": 0.5,
+      "wH": 0.003
     },
     "goals": {
       "mu": 2.451,
@@ -176,77 +195,20 @@
       "draw": 0.2
     },
     "attack": {
-      "k": 0.015,
+      "k": 0.01,
       "r": 0,
       "kb": 0.002,
       "shots": 0,
       "conv": 0.3,
-      "draw": 0.05
+      "w": 0.2,
+      "draw": 0.1
     },
-    "blend": 0.7
+    "blend": 0.8
   },
   "eredivisie": {
     "elo": {
-      "k": 14,
+      "k": 72,
       "hfa": 100,
-      "margin": "log",
-      "regress": 0.1,
-      "start": {
-        "top": 1545,
-        "second": 1395
-      },
-      "hfaEmpty": 0,
-      "kH": 0,
-      "q": 0
-    },
-    "goals": {
-      "mu": 3.018,
-      "c": 525,
-      "draw": 0.3
-    },
-    "attack": {
-      "k": 0.015,
-      "r": 0,
-      "kb": 0.002,
-      "shots": 0,
-      "conv": 0.3,
-      "draw": 0.1
-    },
-    "blend": 0.4
-  },
-  "proleague": {
-    "elo": {
-      "k": 14,
-      "hfa": 100,
-      "margin": "log",
-      "regress": 0.1,
-      "start": {
-        "top": 1545,
-        "second": 1395
-      },
-      "hfaEmpty": 0,
-      "kH": 0,
-      "q": 0
-    },
-    "goals": {
-      "mu": 2.824,
-      "c": 525,
-      "draw": 0.3
-    },
-    "attack": {
-      "k": 0.02,
-      "r": 0,
-      "kb": 0.002,
-      "shots": 0,
-      "conv": 0.3,
-      "draw": 0.15
-    },
-    "blend": 0.7
-  },
-  "superlig": {
-    "elo": {
-      "k": 14,
-      "hfa": 90,
       "margin": "log",
       "regress": 0.1,
       "start": {
@@ -255,7 +217,76 @@
       },
       "hfaEmpty": 0,
       "kH": 0.05,
-      "q": 0
+      "q": 0.006,
+      "w": 0.7,
+      "wH": 0,
+      "rNew": 1
+    },
+    "goals": {
+      "mu": 3.018,
+      "c": 525,
+      "draw": 0.25
+    },
+    "attack": {
+      "k": 0.015,
+      "r": 0,
+      "kb": 0.002,
+      "shots": 0,
+      "conv": 0.3,
+      "w": 0.4,
+      "draw": 0.1
+    },
+    "blend": 0.7
+  },
+  "proleague": {
+    "elo": {
+      "k": 84,
+      "hfa": 100,
+      "margin": "log",
+      "regress": 0.1,
+      "start": {
+        "top": 1545,
+        "second": 1395
+      },
+      "hfaEmpty": 0,
+      "kH": 0,
+      "q": 0.006,
+      "w": 0.5,
+      "wH": 0,
+      "rNew": 2
+    },
+    "goals": {
+      "mu": 2.824,
+      "c": 525,
+      "draw": 0.25
+    },
+    "attack": {
+      "k": 0.02,
+      "r": 0,
+      "kb": 0.002,
+      "shots": 0,
+      "conv": 0.3,
+      "w": 0.2,
+      "draw": 0.1
+    },
+    "blend": 0.7
+  },
+  "superlig": {
+    "elo": {
+      "k": 84,
+      "hfa": 90,
+      "margin": "log",
+      "regress": 0.1,
+      "start": {
+        "top": 1545,
+        "second": 1395
+      },
+      "hfaEmpty": 0,
+      "kH": 0,
+      "q": 0.006,
+      "w": 0.5,
+      "wH": 0.003,
+      "rNew": 2
     },
     "goals": {
       "mu": 2.758,
@@ -264,17 +295,18 @@
     },
     "attack": {
       "k": 0.02,
-      "r": 0,
+      "r": 0.1,
       "kb": 0.002,
       "shots": 0,
       "conv": 0.3,
+      "w": 0.2,
       "draw": 0.05
     },
-    "blend": 0.6
+    "blend": 0.8
   },
   "scotland": {
     "elo": {
-      "k": 40,
+      "k": 5,
       "hfa": 60,
       "margin": "log",
       "regress": 0,
@@ -284,27 +316,30 @@
       },
       "hfaEmpty": 0,
       "kH": 0.05,
-      "q": 0.006,
-      "rNew": 1
+      "q": 0,
+      "rNew": 1,
+      "w": 0.2,
+      "wH": 0
     },
     "goals": {
       "mu": 2.65,
       "c": 525,
-      "draw": 0.15
+      "draw": 0.1
     },
     "attack": {
       "k": 0.015,
       "r": 0,
       "kb": 0.002,
-      "shots": 0,
-      "conv": 0.3,
-      "draw": 0
+      "shots": 0.5,
+      "conv": 0.32,
+      "w": 0.2,
+      "draw": 0.1
     },
-    "blend": 0.4
+    "blend": 0.3
   },
   "superleague": {
     "elo": {
-      "k": 20,
+      "k": 12,
       "hfa": 100,
       "margin": "wfe",
       "regress": 0,
@@ -313,23 +348,27 @@
         "second": 1395
       },
       "hfaEmpty": 0,
-      "kH": 0.5,
-      "q": 0
+      "kH": 0.3,
+      "q": 0.006,
+      "w": 0.5,
+      "wH": 0.003,
+      "rNew": 3
     },
     "goals": {
       "mu": 2.274,
       "c": 525,
-      "draw": 0.1
+      "draw": 0.05
     },
     "attack": {
-      "k": 0.02,
-      "r": 0,
+      "k": 0.01,
+      "r": 0.1,
       "kb": 0.002,
       "shots": 0,
       "conv": 0.3,
+      "w": 0.4,
       "draw": 0
     },
-    "blend": 0.7
+    "blend": 1
   },
   "austria": {
     "elo": {
