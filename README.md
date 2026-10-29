@@ -1,7 +1,8 @@
 # premelo
 
 Elo ratings for the clubs of twenty European leagues on one scale, and the chances for each coming match, computed
-from every result since 1993-94 and tested out of sample against the bookmakers' closing prices. A static site on
+from every result since 1993-94 (and, once each match is played, what the bookmakers' closing prices said about it)
+and tested out of sample against those prices. A static site on
 GitHub Pages; everything it shows is plain JSON in `data/`.
 
 **Site:** https://football-schema.github.io/premelo/ (mirror: https://melvin.me/public/premelo/, copied by `scripts/deploy.sh`)
@@ -64,22 +65,37 @@ which nothing was tuned on, against Pinnacle's closing prices with the margin ta
 
 | League | Matches | premelo log loss | Elo alone | Closing odds | premelo RPS | Closing odds |
 |---|---|---|---|---|---|---|
-| Premier League | 5,390 | 0.971 | 0.977 | 0.956 | 0.1984 | 0.1937 |
-| La Liga | 5,409 | 0.968 | 0.972 | 0.953 | 0.1951 | 0.1903 |
-| Bundesliga | 4,338 | 0.990 | 0.992 | 0.977 | 0.2032 | 0.1994 |
-| Serie A | 5,390 | 0.975 | 0.979 | 0.952 | 0.1958 | 0.1887 |
-| Ligue 1 | 5,060 | 1.002 | 1.005 | 0.985 | 0.2048 | 0.1996 |
-| Primeira Liga | 4,224 | 0.931 | 0.932 | 0.919 | 0.1854 | 0.1818 |
-| Eredivisie | 4,291 | 0.958 | 0.961 | 0.944 | 0.1939 | 0.1894 |
-| Pro League | 3,837 | 1.004 | 1.007 | 0.985 | 0.2081 | 0.2020 |
-| Süper Lig | 4,661 | 1.002 | 1.003 | 0.982 | 0.2046 | 0.1984 |
-| Scottish Premiership | 3,197 | 0.972 | 0.974 | 0.955 | 0.1992 | 0.1937 |
-| Super League (Greece) | 3,504 | 0.947 | 0.949 | 0.916 | 0.1867 | 0.1778 |
-| **All** | **49,301** | **0.9754** | **0.9782** | **0.9576** | **0.1979** | **0.1925** |
+| Premier League | 5,400 | 0.964 | 0.964 | 0.956 | 0.1958 | 0.1937 |
+| La Liga | 5,419 | 0.961 | 0.962 | 0.953 | 0.1924 | 0.1903 |
+| Bundesliga | 4,347 | 0.983 | 0.984 | 0.977 | 0.2011 | 0.1994 |
+| Serie A | 5,400 | 0.961 | 0.963 | 0.951 | 0.1916 | 0.1886 |
+| Ligue 1 | 5,069 | 0.992 | 0.994 | 0.985 | 0.2015 | 0.1995 |
+| Primeira Liga | 4,233 | 0.924 | 0.926 | 0.920 | 0.1832 | 0.1821 |
+| Eredivisie | 4,300 | 0.951 | 0.953 | 0.944 | 0.1916 | 0.1894 |
+| Pro League | 3,845 | 0.990 | 0.994 | 0.985 | 0.2037 | 0.2020 |
+| Süper Lig | 4,670 | 0.993 | 0.995 | 0.982 | 0.2017 | 0.1984 |
+| Scottish Premiership | 3,203 | 0.961 | 0.961 | 0.954 | 0.1958 | 0.1936 |
+| Super League (Greece) | 3,511 | 0.934 | 0.936 | 0.916 | 0.1828 | 0.1777 |
+| **All** | **49,397** | **0.9657** | **0.9672** | **0.9576** | **0.1948** | **0.1924** |
 
 A baseline that knows only how often home sides, draws and away sides win scores about 1.07. premelo is about
-0.018 behind the closing line, which is where the literature puts results-only models; nothing
-published reliably beats closing odds. The published model (`params.json`) is the same method tuned on all the
+0.008 behind the closing line; on results alone it was 0.018 behind, which is where the literature puts results-only
+models. Nothing published reliably beats closing odds.
+
+**What closed half the gap** (October 2026, each part tuned on 2000-2011 and judged on the holdout, 0.9753 before):
+- **The market's view, learnt from** (0.9670 on its own): after each match, before its result counts, both clubs'
+  ratings move part of the way (`w`, 0.2 to 0.7 by league) to the gap that match's closing prices meant, the prices'
+  margin taken out by the power method; the attack/defence model likewise. A match's own prices never touch its own
+  prediction (a test checks it): they were public before kick-off, and they teach the ratings for the next match.
+- **Fixture context** (`lib/context.mjs`): the table on the day. A club already relegated, already champion, or safe
+  with nothing left to reach plays below its rating; one within three points of the drop late on plays above it; home
+  advantage is smaller in the first rounds. The model's gap to the market had been twice as wide in the last rounds.
+- **Elo dynamics**: promoted clubs arrive 40 points above the relegated clubs' average, K is higher in a season's
+  first matches, and each club learns its own home advantage.
+- **Attack/defence**: each club's own home advantage, and its predictions stretched a little (ratings learnt online
+  sit too close to the average).
+- Tried and dropped: Dixon-Coles and other draw corrections, recalibration, other ways of mixing the two models (the
+  probabilities were already calibrated); rest days, European midweek trips and congestion (no signal). The published model (`params.json`) is the same method tuned on all the
 seasons; its in-sample scores (`all` in each backtest file) flatter it and are not the claim. The nine leagues from
 2012 have nothing before the holdout to be tuned on, so they have no holdout score: their in-sample scores are on the
 method page, marked as such.

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:01:14.482Z",
+ "updated": "2026-10-29T13:05:46.377Z",
  "leagues": [
   {
    "id": "pl",
@@ -12,15 +12,15 @@
    "top": [
     [
      "Arsenal",
-     2104
+     2170
     ],
     [
      "Manchester City",
-     2034
+     2156
     ],
     [
      "Liverpool",
-     1970
+     2068
     ]
    ]
   },
@@ -34,16 +34,16 @@
    "through": "2026-10-26",
    "top": [
     [
-     "Real Madrid",
-     2021
+     "Barcelona",
+     2167
     ],
     [
-     "Barcelona",
-     2020
+     "Real Madrid",
+     2108
     ],
     [
      "Atlético Madrid",
-     1916
+     1982
     ]
    ]
   },
@@ -58,15 +58,15 @@
    "top": [
     [
      "Bayern Munich",
-     2040
-    ],
-    [
-     "Borussia Dortmund",
-     1880
+     2167
     ],
     [
      "Bayer Leverkusen",
-     1859
+     1962
+    ],
+    [
+     "Borussia Dortmund",
+     1947
     ]
    ]
   },
@@ -81,15 +81,15 @@
    "top": [
     [
      "Inter",
-     1940
-    ],
-    [
-     "AS Roma",
-     1858
+     2040
     ],
     [
      "Como",
-     1808
+     1946
+    ],
+    [
+     "AC Milan",
+     1940
     ]
    ]
   },
@@ -104,15 +104,15 @@
    "top": [
     [
      "Paris Saint-Germain",
-     2052
+     2117
     ],
     [
      "Monaco",
-     1780
+     1886
     ],
     [
      "Olympique Lyonnais",
-     1755
+     1829
     ]
    ]
   },
@@ -126,15 +126,15 @@
    "top": [
     [
      "Benfica",
-     1873
-    ],
-    [
-     "Sporting CP",
-     1862
+     2016
     ],
     [
      "Porto",
-     1829
+     1924
+    ],
+    [
+     "Sporting CP",
+     1920
     ]
    ]
   },
@@ -147,16 +147,16 @@
    "through": "2026-10-25",
    "top": [
     [
-     "PSV",
-     1792
+     "Feyenoord",
+     1859
     ],
     [
-     "Feyenoord",
-     1692
+     "PSV",
+     1845
     ],
     [
      "Ajax",
-     1685
+     1827
     ]
    ]
   },
@@ -170,15 +170,15 @@
    "top": [
     [
      "Club Brugge",
-     1838
+     1919
     ],
     [
      "Union Saint-Gilloise",
-     1806
+     1845
     ],
     [
      "Genk",
-     1635
+     1744
     ]
    ]
   },
@@ -192,15 +192,15 @@
    "top": [
     [
      "Galatasaray",
-     1733
-    ],
-    [
-     "Fenerbahçe",
-     1717
+     1846
     ],
     [
      "Beşiktaş",
-     1636
+     1827
+    ],
+    [
+     "Fenerbahçe",
+     1808
     ]
    ]
   },
@@ -214,16 +214,16 @@
    "through": "2026-10-25",
    "top": [
     [
-     "Celtic",
-     1583
+     "Rangers",
+     1691
     ],
     [
-     "Rangers",
-     1539
+     "Celtic",
+     1683
     ],
     [
      "Hearts",
-     1469
+     1559
     ]
    ]
   },
@@ -236,16 +236,16 @@
    "through": "2026-10-25",
    "top": [
     [
-     "Olympiacos",
-     1720
+     "AEK Athens",
+     1776
     ],
     [
-     "AEK Athens",
-     1676
+     "Olympiacos",
+     1770
     ],
     [
      "Panathinaikos",
-     1622
+     1764
     ]
    ]
   },
@@ -259,15 +259,15 @@
    "top": [
     [
      "Salzburg",
-     1603
-    ],
-    [
-     "Sturm Graz",
-     1579
+     1724
     ],
     [
      "LASK",
-     1560
+     1712
+    ],
+    [
+     "SK Rapid",
+     1708
     ]
    ]
   },
@@ -280,16 +280,16 @@
    "through": "2026-10-25",
    "top": [
     [
-     "Lugano",
-     1629
+     "Young Boys",
+     1709
     ],
     [
-     "Young Boys",
-     1560
+     "Lugano",
+     1676
     ],
     [
      "Sion",
-     1518
+     1648
     ]
    ]
   },
@@ -302,16 +302,16 @@
    "through": "2026-10-26",
    "top": [
     [
-     "Midtjylland",
-     1684
+     "FC Copenhagen",
+     1790
     ],
     [
-     "FC Copenhagen",
-     1651
+     "Midtjylland",
+     1708
     ],
     [
      "Nordsjaelland",
-     1575
+     1698
     ]
    ]
   },
@@ -325,15 +325,15 @@
    "top": [
     [
      "Bodo/Glimt",
-     1737
+     1844
     ],
     [
      "Viking",
-     1689
+     1726
     ],
     [
      "Rosenborg",
-     1552
+     1682
     ]
    ]
   },
@@ -346,16 +346,16 @@
    "through": "2026-10-25",
    "top": [
     [
-     "Djurgarden",
-     1537
-    ],
-    [
      "Hammarby",
-     1532
+     1734
     ],
     [
-     "Sirius",
-     1495
+     "Djurgarden",
+     1666
+    ],
+    [
+     "Hacken",
+     1596
     ]
    ]
   },
@@ -369,15 +369,15 @@
    "top": [
     [
      "Lech Poznan",
-     1612
+     1704
+    ],
+    [
+     "Gornik Zabrze",
+     1662
     ],
     [
      "Legia",
-     1543
-    ],
-    [
-     "Rakow",
-     1531
+     1641
     ]
    ]
   },
@@ -391,15 +391,15 @@
    "top": [
     [
      "Univ. Craiova",
-     1549
+     1703
     ],
     [
      "Dinamo Bucuresti",
-     1503
+     1651
     ],
     [
-     "U. Cluj",
-     1477
+     "FCSB",
+     1612
     ]
    ]
   },
@@ -412,16 +412,16 @@
    "through": "2026-10-23",
    "top": [
     [
-     "Shamrock Rovers",
-     1328
+     "St. Patricks",
+     1466
     ],
     [
      "Bohemians",
-     1321
+     1444
     ],
     [
-     "St. Patricks",
-     1314
+     "Shamrock Rovers",
+     1430
     ]
    ]
   },
@@ -434,16 +434,16 @@
    "through": "2026-10-25",
    "top": [
     [
-     "Inter Turku",
-     1374
+     "HJK",
+     1503
     ],
     [
-     "HJK",
-     1335
+     "Inter Turku",
+     1500
     ],
     [
      "KuPS",
-     1327
+     1431
     ]
    ]
   }

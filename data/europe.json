@@ -3,9 +3,9 @@
  "matches": 20252,
  "from": "1993-08-18",
  "model": {
-  "logloss": 0.9518,
-  "rps": 0.194,
-  "brier": 0.5634
+  "logloss": 0.9508,
+  "rps": 0.1937,
+  "brier": 0.5627
  },
  "baseline": {
   "logloss": 1.0486,

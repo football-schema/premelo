@@ -1,60 +1,76 @@
 {
- "updated": "2026-10-29T07:01:14.429Z",
+ "updated": "2026-10-29T13:05:46.334Z",
  "up": [
+  {
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "pk-35-vantaa",
+   "name": "PK-35 Vantaa",
+   "elo": 1173,
+   "change": 214
+  },
+  {
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "jaro",
+   "name": "Jaro",
+   "elo": 1274,
+   "change": 93
+  },
   {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
    "slug": "nijmegen",
    "name": "NEC",
-   "elo": 1555,
-   "change": 34
+   "elo": 1636,
+   "change": 54
   },
   {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "ajax",
-   "name": "Ajax",
-   "elo": 1685,
-   "change": 33
+   "league": "pl",
+   "leagueName": "Premier League",
+   "slug": "bournemouth",
+   "name": "AFC Bournemouth",
+   "elo": 1987,
+   "change": 46
   },
   {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "hoffenheim",
-   "name": "Hoffenheim",
-   "elo": 1713,
-   "change": 32
-  },
-  {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "cambuur",
-   "name": "Cambuur",
-   "elo": 1392,
-   "change": 32
-  },
-  {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "twente",
-   "name": "Twente",
-   "elo": 1638,
-   "change": 31
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "waterford",
+   "name": "Waterford",
+   "elo": 1325,
+   "change": 39
   },
   {
    "league": "superlig",
    "leagueName": "Süper Lig",
-   "slug": "galatasaray",
-   "name": "Galatasaray",
-   "elo": 1733,
+   "slug": "kasimpasa",
+   "name": "Kasımpaşa",
+   "elo": 1557,
+   "change": 35
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "raal-la-louviere",
+   "name": "RAAL La Louviere",
+   "elo": 1543,
+   "change": 33
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "kocaelispor",
+   "name": "Kocaelispor",
+   "elo": 1506,
    "change": 31
   },
   {
-   "league": "switzerland",
-   "leagueName": "Swiss Super League",
-   "slug": "lugano",
-   "name": "Lugano",
-   "elo": 1629,
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "excelsior",
+   "name": "Excelsior",
+   "elo": 1529,
    "change": 30
   },
   {
@@ -62,24 +78,8 @@
    "leagueName": "Pro League",
    "slug": "antwerp",
    "name": "Antwerp",
-   "elo": 1526,
-   "change": 28
-  },
-  {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "raal-la-louviere",
-   "name": "RAAL La Louviere",
-   "elo": 1422,
-   "change": 28
-  },
-  {
-   "league": "ireland",
-   "leagueName": "League of Ireland",
-   "slug": "waterford",
-   "name": "Waterford",
-   "elo": 1236,
-   "change": 25
+   "elo": 1588,
+   "change": 30
   }
  ],
  "down": [
@@ -88,80 +88,80 @@
    "leagueName": "Premier League",
    "slug": "man-united",
    "name": "Manchester United",
-   "elo": 1873,
-   "change": -38
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "cagliari",
-   "name": "Cagliari",
-   "elo": 1597,
-   "change": -36
+   "elo": 1965,
+   "change": -47
   },
   {
    "league": "primeira",
    "leagueName": "Primeira Liga",
    "slug": "sp-lisbon",
    "name": "Sporting CP",
-   "elo": 1862,
-   "change": -33
+   "elo": 1920,
+   "change": -43
   },
   {
-   "league": "laliga",
-   "leagueName": "La Liga",
-   "slug": "getafe",
-   "name": "Getafe",
-   "elo": 1625,
+   "league": "norway",
+   "leagueName": "Eliteserien",
+   "slug": "fredrikstad",
+   "name": "Fredrikstad",
+   "elo": 1492,
    "change": -32
   },
   {
-   "league": "ligue1",
-   "leagueName": "Ligue 1",
-   "slug": "lyon",
-   "name": "Olympique Lyonnais",
-   "elo": 1755,
-   "change": -27
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "cagliari",
+   "name": "Cagliari",
+   "elo": 1664,
+   "change": -31
   },
   {
-   "league": "ligue1",
-   "leagueName": "Ligue 1",
-   "slug": "lille",
-   "name": "Lille",
-   "elo": 1732,
-   "change": -24
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "milan",
+   "name": "AC Milan",
+   "elo": 1940,
+   "change": -31
+  },
+  {
+   "league": "norway",
+   "leagueName": "Eliteserien",
+   "slug": "hamkam",
+   "name": "HamKam",
+   "elo": 1393,
+   "change": -30
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "eyupspor",
+   "name": "Eyüpspor",
+   "elo": 1327,
+   "change": -28
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "atalanta",
+   "name": "Atalanta",
+   "elo": 1799,
+   "change": -28
+  },
+  {
+   "league": "romania",
+   "leagueName": "Liga I",
+   "slug": "fc-rapid-bucuresti",
+   "name": "FC Rapid Bucuresti",
+   "elo": 1590,
+   "change": -27
   },
   {
    "league": "seriea",
    "leagueName": "Serie A",
    "slug": "parma",
    "name": "Parma",
-   "elo": 1565,
-   "change": -24
-  },
-  {
-   "league": "norway",
-   "leagueName": "Eliteserien",
-   "slug": "bodo-glimt",
-   "name": "Bodo/Glimt",
-   "elo": 1737,
-   "change": -23
-  },
-  {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "degerfors",
-   "name": "Degerfors",
-   "elo": 1252,
-   "change": -21
-  },
-  {
-   "league": "poland",
-   "leagueName": "Ekstraklasa",
-   "slug": "jagiellonia",
-   "name": "Jagiellonia",
-   "elo": 1524,
-   "change": -20
+   "elo": 1585,
+   "change": -26
   }
  ]
 }
