@@ -19,7 +19,7 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { label } from '../lib/seasons.mjs';
 import { fromCsv } from '../lib/results.mjs';
 import { run, runAll } from '../lib/elo.mjs';
-import { run as runAttack } from '../lib/attack.mjs';
+import { run as runAttack, SHOTS } from '../lib/attack.mjs';
 import { table, x12 } from '../lib/goals.mjs';
 import { LEAGUES, IDS, load, leagueOf } from '../lib/leagues.mjs';
 import { display, slug } from '../lib/teams.mjs';
@@ -90,6 +90,17 @@ if (argv.includes('--tune')) {
         const ll = logloss(eloRows, (row) => x12(xg.get(row.m), draw));
         if (!att || ll < att.ll) att = { ll, a: { k, r, kb, shots, conv, draw }, xg };
       }
+    }
+    // with no shots on target in the seasons tuned on, the shots setting couldn't be chosen: take the other leagues'
+    if (!lists[id].some((m) => pick(m) && m.sot)) att.a = { ...att.a, ...SHOTS };
+    // then each club's own home advantage, then the stretch, one at a time
+    for (const [key, values] of [['kh', [0, 0.001, 0.002, 0.005]], ['st', [0, 0.05, 0.1, 0.2]]]) {
+      let b = null;
+      for (const v of values) {
+        const a = { ...att.a, [key]: v }, xg = attackGoals(id, a);
+        for (const draw of DRAWS) { const ll = logloss(eloRows, (row) => x12(xg.get(row.m), draw)); if (!b || ll < b.ll) b = { ll, a: { ...a, draw }, xg }; }
+      }
+      att = b;
     }
     console.log(`${id} attack/defence ${att.ll.toFixed(4)}  ${JSON.stringify(att.a)}`);
     // 5. the blend
