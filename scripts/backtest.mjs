@@ -11,6 +11,7 @@
 //   node scripts/backtest.mjs                               score -> data/<league>/backtest.json, data/europe.json
 //   node scripts/backtest.mjs --tune [league…] [--holdout]  search a league's settings first
 //   node scripts/backtest.mjs --tune-europe [--holdout]     search the European settings, judged on every match
+//   node scripts/backtest.mjs --tune-context [--holdout]    search the fixture context's weights (lib/context.mjs), all leagues together
 // (side by side: TUNED=cache/tuned node scripts/backtest.mjs --tune laliga & … then merge cache/tuned/*.json)
 // Every gap means the same in every league: the Elo goals model's c is params.common.c for all of them.
 // Needs cache/ (node scripts/fetch.mjs): the odds are football-data's, so they're read here and not published.
@@ -20,8 +21,9 @@ import { fromCsv } from '../lib/results.mjs';
 import { run, runAll } from '../lib/elo.mjs';
 import { run as runAttack } from '../lib/attack.mjs';
 import { table, x12 } from '../lib/goals.mjs';
-import { LEAGUES, IDS, load } from '../lib/leagues.mjs';
+import { LEAGUES, IDS, load, leagueOf } from '../lib/leagues.mjs';
 import { display, slug } from '../lib/teams.mjs';
+import { features, shift, DEFAULTS as CONTEXT } from '../lib/context.mjs';
 
 const FROM = 2000, HOLD = 2012; // first season scored; first season of the holdout, by the year each starts
 const year = (code) => { const y = Number(code.slice(0, 2)); return y >= 90 ? 1900 + y : 2000 + y; };
@@ -133,10 +135,31 @@ function predict(p) {
   const rows = Object.fromEntries([...IDS, 'EU'].map((id) => [id, []]));
   runAll(leaguesFor(p), { list: europe, params: p.europe }, { each: (m, { dr, league }) => { if (league === 'EU' || top(league)(m)) rows[league].push({ m, dr, o: outcome(m) }); } });
   for (const id of IDS) {
-    const t = table(p[id].goals), xg = p[id].attack ? attackGoals(id, p[id].attack) : null, w = p[id].blend ?? 1;
-    for (const r of rows[id]) { r.elo = t(r.dr); r.model = xg ? blend(w, r.elo, x12(xg.get(r.m), p[id].attack.draw)) : r.elo; }
+    const t = table(p[id].goals), xg = p[id].attack ? attackGoals(id, p[id].attack) : null, w = p[id].blend ?? 1, ctx = contexts[id];
+    for (const r of rows[id]) { r.t = t; r.p = p[id]; r.xg = xg?.get(r.m); r.ctx = ctx.get(r.m); price(r, shift(r.ctx, p.context)); }
   }
   return rows;
+}
+// a match's chances with its gap shifted by adj points (the fixture's context): the Elo's from the shifted gap, the attack
+// and defence model's expected goals moved the way the Elo goal model moves them, e^(±adj/c)
+function price(r, adj) {
+  r.elo = r.t(r.dr + adj);
+  const f = Math.exp(adj / C);
+  r.model = r.xg ? blend(r.p.blend ?? 1, r.elo, x12([r.xg[0] * f, r.xg[1] / f], r.p.attack.draw)) : r.elo;
+}
+const contexts = Object.fromEntries(IDS.map((id) => [id, features(lists[id], LEAGUES[id].divs[0])]));
+if (argv.includes('--tune-context')) {
+  // each weight in turn, a few passes, on the matches --tune may look at that have some context
+  const rs = Object.values(predict({ ...params, context: CONTEXT })).flat().filter((r) => r.ctx && r.m.div !== 'EU' && tuning(leagueOf(r.m.div))(r.m) && Object.values(r.ctx).some((x) => x));
+  const ll = (w) => logloss(rs, (r) => { price(r, shift(r.ctx, w)); return r.model; });
+  const w = { ...CONTEXT };
+  for (let pass = 0; pass < 3; pass++) for (const k of Object.keys(w)) {
+    let best = null;
+    for (let x = -40; x <= 160; x += 5) { const l = ll({ ...w, [k]: x }); if (!best || l < best.l) best = { x, l }; }
+    w[k] = best.x; console.log(`context ${best.l.toFixed(5)}  ${JSON.stringify(w)}`);
+  }
+  save('context', w);
+  process.exit(0);
 }
 const rows = predict(params), held = existsSync('params-holdout.json') ? predict(JSON.parse(readFileSync('params-holdout.json', 'utf8'))) : null;
 const model = (r) => r.model, elo = (r) => r.elo, market = (r) => devig(r.m.odds);
