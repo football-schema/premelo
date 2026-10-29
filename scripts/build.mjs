@@ -10,7 +10,7 @@
 import { readFileSync, writeFileSync, mkdirSync, rmSync, readdirSync, existsSync } from 'node:fs';
 import { fromCsv, byDate, parseCsv, isoDate } from '../lib/results.mjs';
 import { runAll } from '../lib/elo.mjs';
-import { goals, grid, gridOf, blended, markets } from '../lib/goals.mjs';
+import { goals, grid, gridOf, blended, markets, implied } from '../lib/goals.mjs';
 import { run as runAttack } from '../lib/attack.mjs';
 import { display, slug, canonical } from '../lib/teams.mjs';
 import { currentSeason, label, ukToUtc, startOf } from '../lib/seasons.mjs';
@@ -18,6 +18,7 @@ import { clubOf } from '../lib/uefa.mjs';
 import { fetchSeason } from '../lib/matchday.mjs';
 import { LEAGUES, PLACES, SCENARIOS, load } from '../lib/leagues.mjs';
 import { standings, remaining, simulate } from '../lib/table.mjs';
+import { features, shift } from '../lib/context.mjs';
 import { writeCard } from './card.mjs';
 
 const params = JSON.parse(readFileSync('params.json', 'utf8'));
@@ -36,8 +37,9 @@ const europe = existsSync('data/europe.csv') ? fromCsv(readFileSync('data/europe
 const index = [], leagues = {}, upcomingBy = {};
 for (const [id, league] of Object.entries(LEAGUES)) {
   // the season files in cache/ where they're here (they carry shots on target, which the attack/defence model learns
-  // from and which aren't published), else the published results
-  const cached = load(id), top = league.divs[0], list = cached.length ? cached : fromCsv(readFileSync(`data/${id}/results.csv`, 'utf8'));
+  // from, and the bookmakers' closing prices, which both models learn from after each match; neither is published),
+  // else the published results
+  const cached = load(id, { odds: true }), top = league.divs[0], list = cached.length ? cached : fromCsv(readFileSync(`data/${id}/results.csv`, 'utf8'));
   let fixtures = [];
   if (!offline && id === 'pl') {
     // matchday's results that football-data hasn't got yet (each pairing is played once a season)
@@ -56,12 +58,12 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   }
   // a match more than two hours past kick-off is played, whether or not its result is in yet
   fixtures = fixtures.filter((f) => Date.parse(f.kickoff) > Date.now() - 2 * 3600_000).sort((a, b) => a.kickoff.localeCompare(b.kickoff));
-  leagues[id] = { list, params: params[id].elo, divs: league.divs }; upcomingBy[id] = fixtures;
+  leagues[id] = { list, params: params[id].elo, divs: league.divs, implied: implied(params[id].goals) }; upcomingBy[id] = fixtures;
 }
 
 // every league and the European cups in one run: one scale, countries set against each other by their clubs' European results
-const { ratings, history, divisions: byLeague, hfa: hfaNow } = runAll(leagues, { list: europe, params: params.europe }, { history: true });
-const attack = Object.fromEntries(Object.entries(leagues).map(([id, l]) => [id, runAttack(l.list, params[id].attack ?? {}, { divs: l.divs })]));
+const { ratings, history, home: clubHome, divisions: byLeague, hfa: hfaNow } = runAll(leagues, { list: europe, params: params.europe }, { history: true });
+const attack = Object.fromEntries(Object.entries(leagues).map(([id, l]) => [id, runAttack(l.list, params[id].attack ?? {}, { divs: l.divs, ratio: (o) => 2 * l.implied(o) / params[id].goals.c })]));
 const leagueOfClub = new Map(Object.entries(leagues).flatMap(([id, l]) => l.list.flatMap((m) => [[m.home, id], [m.away, id]])));
 const where = (div, top) => (div === 'EU' ? 'europe' : div === top ? 'top' : 'second');
 for (const [id, league] of Object.entries(LEAGUES)) {
@@ -84,15 +86,20 @@ for (const [id, league] of Object.entries(LEAGUES)) {
   const mine = new Set(list.flatMap((m) => [m.home, m.away]));
   for (const club of mine) writeFileSync(`data/${id}/clubs/${slug(club)}.json`, JSON.stringify({ club, name: display(club), history: history.get(club).map((x) => x[6] === 'EU' ? [...x.slice(0, 6), 'europe', leagueOfClub.get(x[2]) ?? null] : [...x.slice(0, 6), where(x[6], top)]) }) + '\n');
 
-  // a match's chances: the Elo's grid and the attack/defence model's, blended as tuned (lib/attack.mjs)
-  const price = (home, away, div = top) => {
+  // a match's chances: the Elo's grid and the attack/defence model's, blended as tuned (lib/attack.mjs). adj: the fixture's
+  // context in points (lib/context.mjs), added to the Elo's gap and moving the attack model's goals as the Elo's would
+  const price = (home, away, div = top, adj = 0) => {
     const eh = ratings.get(home), ea = ratings.get(away);
     if (eh == null || ea == null) return null;
-    const dr = eh + hfaNow[id] - ea, elo = { grid: grid(dr, p.goals), xg: goals(dr, p.goals) }, xa = attack[id].expect(home, away, div);
-    return { eh, ea, dr, m: xa && p.attack ? blended(elo, { grid: gridOf(xa, p.attack.draw), xg: xa }, p.blend ?? 1) : blended(elo, elo, 1) };
+    const dr = eh + hfaNow[id] + (clubHome.get(home) ?? 0) - ea + adj, elo = { grid: grid(dr, p.goals), xg: goals(dr, p.goals) };
+    const xa = attack[id].expect(home, away, div), f = Math.exp(adj / p.goals.c), xs = xa && [xa[0] * f, xa[1] / f];
+    return { eh, ea, dr, m: xa && p.attack ? blended(elo, { grid: gridOf(xs, p.attack.draw), xg: xs }, p.blend ?? 1) : blended(elo, elo, 1) };
   };
+  // the coming fixtures' context, from the table as it stands
+  const ctx = features([...list, ...fixtures.map((f) => ({ date: f.kickoff.slice(0, 10), season, div: top, home: f.home, away: f.away }))], top);
+  const ctxOf = new Map([...ctx].filter(([m]) => m.hg == null).map(([m, x]) => [pair(m), shift(x, params.context)]));
   const preds = fixtures.map((f) => {
-    const q = price(f.home, f.away);
+    const q = price(f.home, f.away, top, ctxOf.get(pair(f)) ?? 0);
     if (!q) { console.log(`${league.name}: no rating for ${ratings.get(f.home) == null ? f.home : f.away}, fixture left out`); return null; }
     const { eh, ea, dr, m } = q;
     return { kickoff: f.kickoff, gw: f.gw, tbc: f.tbc || undefined, home: f.home, away: f.away, homeSlug: slug(f.home), awaySlug: slug(f.away), homeName: display(f.home), awayName: display(f.away),
