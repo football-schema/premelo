@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:01:10.167Z",
+ "updated": "2026-10-29T07:01:13.860Z",
  "league": "sweden",
  "name": "Allsvenskan",
  "through": "2026-10-25",
@@ -120,14 +120,6 @@
     1537
    ],
    "rank": 1,
-   "next": {
-    "opp": "Goteborg",
-    "oppSlug": "goteborg",
-    "ha": "a",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.48,
-    "draw": 0.265
-   },
    "table": {
     "pos": 3,
     "p": 25,
@@ -483,14 +475,6 @@
     1457
    ],
    "rank": 4,
-   "next": {
-    "opp": "Brommapojkarna",
-    "oppSlug": "brommapojkarna",
-    "ha": "a",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.438,
-    "draw": 0.27
-   },
    "table": {
     "pos": 4,
     "p": 25,
@@ -717,14 +701,6 @@
     1414
    ],
    "rank": 6,
-   "next": {
-    "opp": "Halmstad",
-    "oppSlug": "halmstad",
-    "ha": "a",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.538,
-    "draw": 0.254
-   },
    "table": {
     "pos": 7,
     "p": 25,
@@ -959,14 +935,6 @@
     1397
    ],
    "rank": 8,
-   "next": {
-    "opp": "Djurgarden",
-    "oppSlug": "djurgarden",
-    "ha": "h",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.255,
-    "draw": 0.265
-   },
    "table": {
     "pos": 9,
     "p": 25,
@@ -1193,14 +1161,6 @@
     1367
    ],
    "rank": 10,
-   "next": {
-    "opp": "Degerfors",
-    "oppSlug": "degerfors",
-    "ha": "a",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.439,
-    "draw": 0.274
-   },
    "table": {
     "pos": 6,
     "p": 25,
@@ -1435,14 +1395,6 @@
     1348
    ],
    "rank": 12,
-   "next": {
-    "opp": "Hacken",
-    "oppSlug": "hacken",
-    "ha": "h",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.292,
-    "draw": 0.27
-   },
    "table": {
     "pos": 10,
     "p": 25,
@@ -1677,14 +1629,6 @@
     1252
    ],
    "rank": 14,
-   "next": {
-    "opp": "Vasteras SK",
-    "oppSlug": "vasteras-sk",
-    "ha": "h",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.287,
-    "draw": 0.274
-   },
    "table": {
     "pos": 14,
     "p": 25,
@@ -1919,14 +1863,6 @@
     1221
    ],
    "rank": 16,
-   "next": {
-    "opp": "Malmo FF",
-    "oppSlug": "malmo-ff",
-    "ha": "h",
-    "kickoff": "2026-10-28T18:00:00.000Z",
-    "win": 0.207,
-    "draw": 0.254
-   },
    "table": {
     "pos": 16,
     "p": 25,

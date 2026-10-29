@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:01:10.715Z",
+ "updated": "2026-10-29T07:01:14.384Z",
  "league": "finland",
  "name": "Veikkausliiga",
  "through": "2026-10-25",
@@ -768,14 +768,6 @@
     1176
    ],
    "rank": 8,
-   "next": {
-    "opp": "VPS",
-    "oppSlug": "vps",
-    "ha": "h",
-    "kickoff": "2026-10-28T16:00:00.000Z",
-    "win": 0.422,
-    "draw": 0.274
-   },
    "table": {
     "pos": 4,
     "p": 29,
@@ -865,14 +857,6 @@
     1175
    ],
    "rank": 9,
-   "next": {
-    "opp": "AC Oulu",
-    "oppSlug": "ac-oulu",
-    "ha": "a",
-    "kickoff": "2026-10-28T16:00:00.000Z",
-    "win": 0.305,
-    "draw": 0.274
-   },
    "table": {
     "pos": 7,
     "p": 29,

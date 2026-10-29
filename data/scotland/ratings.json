@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:01:09.894Z",
+ "updated": "2026-10-29T07:01:13.567Z",
  "league": "scotland",
  "name": "Scottish Premiership",
  "through": "2026-10-25",
@@ -113,14 +113,6 @@
     1583
    ],
    "rank": 1,
-   "next": {
-    "opp": "Dundee United",
-    "oppSlug": "dundee-united",
-    "ha": "h",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.767,
-    "draw": 0.149
-   },
    "table": {
     "pos": 1,
     "p": 10,
@@ -210,14 +202,6 @@
     1539
    ],
    "rank": 2,
-   "next": {
-    "opp": "Hearts",
-    "oppSlug": "hearts",
-    "ha": "a",
-    "kickoff": "2026-10-28T20:00:00.000Z",
-    "win": 0.369,
-    "draw": 0.259
-   },
    "table": {
     "pos": 2,
     "p": 10,
@@ -307,14 +291,6 @@
     1469
    ],
    "rank": 3,
-   "next": {
-    "opp": "Rangers",
-    "oppSlug": "rangers",
-    "ha": "h",
-    "kickoff": "2026-10-28T20:00:00.000Z",
-    "win": 0.371,
-    "draw": 0.259
-   },
    "table": {
     "pos": 3,
     "p": 10,
@@ -404,14 +380,6 @@
     1366
    ],
    "rank": 4,
-   "next": {
-    "opp": "St Mirren",
-    "oppSlug": "st-mirren",
-    "ha": "a",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.407,
-    "draw": 0.277
-   },
    "table": {
     "pos": 12,
     "p": 10,
@@ -501,14 +469,6 @@
     1362
    ],
    "rank": 5,
-   "next": {
-    "opp": "St Johnstone",
-    "oppSlug": "st-johnstone",
-    "ha": "a",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.379,
-    "draw": 0.277
-   },
    "table": {
     "pos": 10,
     "p": 10,
@@ -598,14 +558,6 @@
     1334
    ],
    "rank": 6,
-   "next": {
-    "opp": "Celtic",
-    "oppSlug": "celtic",
-    "ha": "a",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.084,
-    "draw": 0.149
-   },
    "table": {
     "pos": 4,
     "p": 10,
@@ -695,14 +647,6 @@
     1309
    ],
    "rank": 7,
-   "next": {
-    "opp": "Kilmarnock",
-    "oppSlug": "kilmarnock",
-    "ha": "h",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.493,
-    "draw": 0.243
-   },
    "table": {
     "pos": 5,
     "p": 10,
@@ -792,14 +736,6 @@
     1299
    ],
    "rank": 8,
-   "next": {
-    "opp": "Aberdeen",
-    "oppSlug": "aberdeen",
-    "ha": "a",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.303,
-    "draw": 0.267
-   },
    "table": {
     "pos": 7,
     "p": 10,
@@ -889,14 +825,6 @@
     1298
    ],
    "rank": 9,
-   "next": {
-    "opp": "Falkirk",
-    "oppSlug": "falkirk",
-    "ha": "h",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.43,
-    "draw": 0.267
-   },
    "table": {
     "pos": 9,
     "p": 10,
@@ -986,14 +914,6 @@
     1293
    ],
    "rank": 10,
-   "next": {
-    "opp": "Motherwell",
-    "oppSlug": "motherwell",
-    "ha": "h",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.344,
-    "draw": 0.277
-   },
    "table": {
     "pos": 8,
     "p": 10,
@@ -1083,14 +1003,6 @@
     1283
    ],
    "rank": 11,
-   "next": {
-    "opp": "Dundee",
-    "oppSlug": "dundee",
-    "ha": "a",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.264,
-    "draw": 0.243
-   },
    "table": {
     "pos": 11,
     "p": 10,
@@ -1180,14 +1092,6 @@
     1268
    ],
    "rank": 12,
-   "next": {
-    "opp": "Hibernian",
-    "oppSlug": "hibernian",
-    "ha": "h",
-    "kickoff": "2026-10-28T19:45:00.000Z",
-    "win": 0.316,
-    "draw": 0.277
-   },
    "table": {
     "pos": 6,
     "p": 10,
