@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:00:49.039Z",
+ "updated": "2026-10-29T11:22:48.113Z",
  "frozen": "2011-12",
  "leagues": [
   {
@@ -8,11 +8,11 @@
    "extra": false,
    "season": "2026-27",
    "matches": 80,
-   "called": 36,
+   "called": 37,
    "model": {
-    "logloss": 1.034,
-    "rps": 0.2103,
-    "brier": 0.6231
+    "logloss": 1.0317,
+    "rps": 0.2095,
+    "brier": 0.6212
    },
    "market": {
     "logloss": 1.0159,
@@ -21,9 +21,9 @@
    },
    "withOdds": 80,
    "modelOnOdds": {
-    "logloss": 1.034,
-    "rps": 0.2103,
-    "brier": 0.6231
+    "logloss": 1.0317,
+    "rps": 0.2095,
+    "brier": 0.6212
    }
   },
   {
@@ -34,9 +34,9 @@
    "matches": 99,
    "called": 54,
    "model": {
-    "logloss": 0.9272,
-    "rps": 0.1785,
-    "brier": 0.5477
+    "logloss": 0.9267,
+    "rps": 0.1783,
+    "brier": 0.5471
    },
    "market": {
     "logloss": 0.9166,
@@ -45,9 +45,9 @@
    },
    "withOdds": 99,
    "modelOnOdds": {
-    "logloss": 0.9272,
-    "rps": 0.1785,
-    "brier": 0.5477
+    "logloss": 0.9267,
+    "rps": 0.1783,
+    "brier": 0.5471
    }
   },
   {
@@ -56,11 +56,11 @@
    "extra": false,
    "season": "2026-27",
    "matches": 63,
-   "called": 31,
+   "called": 32,
    "model": {
-    "logloss": 0.9815,
-    "rps": 0.2115,
-    "brier": 0.5873
+    "logloss": 0.9828,
+    "rps": 0.2118,
+    "brier": 0.5883
    },
    "market": {
     "logloss": 0.997,
@@ -69,9 +69,9 @@
    },
    "withOdds": 63,
    "modelOnOdds": {
-    "logloss": 0.9815,
-    "rps": 0.2115,
-    "brier": 0.5873
+    "logloss": 0.9828,
+    "rps": 0.2118,
+    "brier": 0.5883
    }
   },
   {
@@ -82,9 +82,9 @@
    "matches": 80,
    "called": 48,
    "model": {
-    "logloss": 0.9187,
-    "rps": 0.1938,
-    "brier": 0.536
+    "logloss": 0.9162,
+    "rps": 0.1929,
+    "brier": 0.5343
    },
    "market": {
     "logloss": 0.9047,
@@ -93,9 +93,9 @@
    },
    "withOdds": 80,
    "modelOnOdds": {
-    "logloss": 0.9187,
-    "rps": 0.1938,
-    "brier": 0.536
+    "logloss": 0.9162,
+    "rps": 0.1929,
+    "brier": 0.5343
    }
   },
   {
@@ -104,11 +104,11 @@
    "extra": false,
    "season": "2026-27",
    "matches": 72,
-   "called": 38,
+   "called": 39,
    "model": {
-    "logloss": 0.9943,
-    "rps": 0.2012,
-    "brier": 0.5941
+    "logloss": 0.989,
+    "rps": 0.1995,
+    "brier": 0.5908
    },
    "market": {
     "logloss": 0.9764,
@@ -117,9 +117,9 @@
    },
    "withOdds": 72,
    "modelOnOdds": {
-    "logloss": 0.9943,
-    "rps": 0.2012,
-    "brier": 0.5941
+    "logloss": 0.989,
+    "rps": 0.1995,
+    "brier": 0.5908
    }
   },
   {
@@ -128,11 +128,11 @@
    "extra": false,
    "season": "2026-27",
    "matches": 81,
-   "called": 42,
+   "called": 41,
    "model": {
-    "logloss": 1.0003,
+    "logloss": 0.9993,
     "rps": 0.2092,
-    "brier": 0.5906
+    "brier": 0.5908
    },
    "market": {
     "logloss": 0.9635,
@@ -141,9 +141,9 @@
    },
    "withOdds": 81,
    "modelOnOdds": {
-    "logloss": 1.0003,
+    "logloss": 0.9993,
     "rps": 0.2092,
-    "brier": 0.5906
+    "brier": 0.5908
    }
   },
   {
@@ -152,11 +152,11 @@
    "extra": false,
    "season": "2026-27",
    "matches": 90,
-   "called": 45,
+   "called": 44,
    "model": {
-    "logloss": 1.0322,
-    "rps": 0.2029,
-    "brier": 0.6217
+    "logloss": 1.0295,
+    "rps": 0.2024,
+    "brier": 0.6202
    },
    "market": {
     "logloss": 1.0089,
@@ -165,9 +165,9 @@
    },
    "withOdds": 90,
    "modelOnOdds": {
-    "logloss": 1.0322,
-    "rps": 0.2029,
-    "brier": 0.6217
+    "logloss": 1.0295,
+    "rps": 0.2024,
+    "brier": 0.6202
    }
   },
   {
@@ -178,9 +178,9 @@
    "matches": 80,
    "called": 49,
    "model": {
-    "logloss": 0.8851,
-    "rps": 0.1816,
-    "brier": 0.5199
+    "logloss": 0.8877,
+    "rps": 0.1824,
+    "brier": 0.5214
    },
    "market": {
     "logloss": 0.9011,
@@ -189,9 +189,9 @@
    },
    "withOdds": 80,
    "modelOnOdds": {
-    "logloss": 0.8851,
-    "rps": 0.1816,
-    "brier": 0.5199
+    "logloss": 0.8877,
+    "rps": 0.1824,
+    "brier": 0.5214
    }
   },
   {
@@ -200,11 +200,11 @@
    "extra": false,
    "season": "2026-27",
    "matches": 81,
-   "called": 38,
+   "called": 39,
    "model": {
-    "logloss": 1.0112,
-    "rps": 0.2282,
-    "brier": 0.6055
+    "logloss": 1.0075,
+    "rps": 0.227,
+    "brier": 0.6028
    },
    "market": {
     "logloss": 0.9321,
@@ -213,9 +213,9 @@
    },
    "withOdds": 81,
    "modelOnOdds": {
-    "logloss": 1.0112,
-    "rps": 0.2282,
-    "brier": 0.6055
+    "logloss": 1.0075,
+    "rps": 0.227,
+    "brier": 0.6028
    }
   },
   {
@@ -226,9 +226,9 @@
    "matches": 60,
    "called": 29,
    "model": {
-    "logloss": 0.9704,
-    "rps": 0.2144,
-    "brier": 0.5779
+    "logloss": 0.9695,
+    "rps": 0.214,
+    "brier": 0.5774
    },
    "market": {
     "logloss": 0.9575,
@@ -237,9 +237,9 @@
    },
    "withOdds": 60,
    "modelOnOdds": {
-    "logloss": 0.9704,
-    "rps": 0.2144,
-    "brier": 0.5779
+    "logloss": 0.9695,
+    "rps": 0.214,
+    "brier": 0.5774
    }
   },
   {
@@ -250,8 +250,8 @@
    "matches": 55,
    "called": 34,
    "model": {
-    "logloss": 0.9118,
-    "rps": 0.1843,
+    "logloss": 0.9125,
+    "rps": 0.1842,
     "brier": 0.5292
    },
    "market": {
@@ -261,8 +261,8 @@
    },
    "withOdds": 55,
    "modelOnOdds": {
-    "logloss": 0.9118,
-    "rps": 0.1843,
+    "logloss": 0.9125,
+    "rps": 0.1842,
     "brier": 0.5292
    }
   },
@@ -272,11 +272,11 @@
    "extra": true,
    "season": "2026-27",
    "matches": 60,
-   "called": 32,
+   "called": 33,
    "model": {
-    "logloss": 0.965,
-    "rps": 0.205,
-    "brier": 0.5754
+    "logloss": 0.9688,
+    "rps": 0.2063,
+    "brier": 0.5782
    },
    "market": {
     "logloss": 0.8943,
@@ -285,9 +285,9 @@
    },
    "withOdds": 60,
    "modelOnOdds": {
-    "logloss": 0.965,
-    "rps": 0.205,
-    "brier": 0.5754
+    "logloss": 0.9688,
+    "rps": 0.2063,
+    "brier": 0.5782
    }
   },
   {
@@ -296,11 +296,11 @@
    "extra": true,
    "season": "2026-27",
    "matches": 66,
-   "called": 35,
+   "called": 36,
    "model": {
-    "logloss": 0.96,
-    "rps": 0.2117,
-    "brier": 0.5698
+    "logloss": 0.9614,
+    "rps": 0.212,
+    "brier": 0.5707
    },
    "market": {
     "logloss": 0.9615,
@@ -309,9 +309,9 @@
    },
    "withOdds": 66,
    "modelOnOdds": {
-    "logloss": 0.96,
-    "rps": 0.2117,
-    "brier": 0.5698
+    "logloss": 0.9614,
+    "rps": 0.212,
+    "brier": 0.5707
    }
   },
   {
@@ -320,11 +320,11 @@
    "extra": true,
    "season": "2026-27",
    "matches": 72,
-   "called": 39,
+   "called": 38,
    "model": {
-    "logloss": 0.9911,
-    "rps": 0.1903,
-    "brier": 0.5988
+    "logloss": 0.9936,
+    "rps": 0.1911,
+    "brier": 0.6003
    },
    "market": {
     "logloss": 1.0032,
@@ -333,9 +333,9 @@
    },
    "withOdds": 72,
    "modelOnOdds": {
-    "logloss": 0.9911,
-    "rps": 0.1903,
-    "brier": 0.5988
+    "logloss": 0.9936,
+    "rps": 0.1911,
+    "brier": 0.6003
    }
   },
   {
@@ -344,11 +344,11 @@
    "extra": true,
    "season": "2026",
    "matches": 192,
-   "called": 107,
+   "called": 108,
    "model": {
-    "logloss": 0.9639,
-    "rps": 0.2067,
-    "brier": 0.5689
+    "logloss": 0.9629,
+    "rps": 0.2064,
+    "brier": 0.5683
    },
    "market": {
     "logloss": 0.9354,
@@ -357,9 +357,9 @@
    },
    "withOdds": 192,
    "modelOnOdds": {
-    "logloss": 0.9639,
-    "rps": 0.2067,
-    "brier": 0.5689
+    "logloss": 0.9629,
+    "rps": 0.2064,
+    "brier": 0.5683
    }
   },
   {
@@ -370,9 +370,9 @@
    "matches": 200,
    "called": 93,
    "model": {
-    "logloss": 1.041,
-    "rps": 0.2225,
-    "brier": 0.6235
+    "logloss": 1.04,
+    "rps": 0.2223,
+    "brier": 0.6231
    },
    "market": {
     "logloss": 1.007,
@@ -381,9 +381,9 @@
    },
    "withOdds": 200,
    "modelOnOdds": {
-    "logloss": 1.041,
-    "rps": 0.2225,
-    "brier": 0.6235
+    "logloss": 1.04,
+    "rps": 0.2223,
+    "brier": 0.6231
    }
   },
   {
@@ -394,9 +394,9 @@
    "matches": 106,
    "called": 50,
    "model": {
-    "logloss": 1.0268,
-    "rps": 0.2196,
-    "brier": 0.6149
+    "logloss": 1.0281,
+    "rps": 0.22,
+    "brier": 0.6161
    },
    "market": {
     "logloss": 1.0013,
@@ -405,9 +405,9 @@
    },
    "withOdds": 106,
    "modelOnOdds": {
-    "logloss": 1.0268,
-    "rps": 0.2196,
-    "brier": 0.6149
+    "logloss": 1.0281,
+    "rps": 0.22,
+    "brier": 0.6161
    }
   },
   {
@@ -416,11 +416,11 @@
    "extra": true,
    "season": "2026-27",
    "matches": 104,
-   "called": 56,
+   "called": 55,
    "model": {
-    "logloss": 0.9558,
-    "rps": 0.192,
-    "brier": 0.5638
+    "logloss": 0.9607,
+    "rps": 0.1936,
+    "brier": 0.567
    },
    "market": {
     "logloss": 0.9307,
@@ -429,9 +429,9 @@
    },
    "withOdds": 104,
    "modelOnOdds": {
-    "logloss": 0.9558,
-    "rps": 0.192,
-    "brier": 0.5638
+    "logloss": 0.9607,
+    "rps": 0.1936,
+    "brier": 0.567
    }
   },
   {
@@ -442,9 +442,9 @@
    "matches": 175,
    "called": 78,
    "model": {
-    "logloss": 1.0548,
-    "rps": 0.2107,
-    "brier": 0.6367
+    "logloss": 1.0541,
+    "rps": 0.2105,
+    "brier": 0.6361
    },
    "market": {
     "logloss": 1.0262,
@@ -453,9 +453,9 @@
    },
    "withOdds": 175,
    "modelOnOdds": {
-    "logloss": 1.0548,
-    "rps": 0.2107,
-    "brier": 0.6367
+    "logloss": 1.0541,
+    "rps": 0.2105,
+    "brier": 0.6361
    }
   },
   {
@@ -464,11 +464,11 @@
    "extra": true,
    "season": "2026",
    "matches": 170,
-   "called": 83,
+   "called": 82,
    "model": {
-    "logloss": 1.043,
+    "logloss": 1.0431,
     "rps": 0.2144,
-    "brier": 0.6249
+    "brier": 0.625
    },
    "market": {
     "logloss": 1.0019,
@@ -477,9 +477,9 @@
    },
    "withOdds": 170,
    "modelOnOdds": {
-    "logloss": 1.043,
+    "logloss": 1.0431,
     "rps": 0.2144,
-    "brier": 0.6249
+    "brier": 0.625
    }
   }
  ],
@@ -1940,12 +1940,12 @@
    "hg": 2,
    "ag": 2,
    "p": [
-    0.777,
-    0.149,
-    0.074
+    0.746,
+    0.166,
+    0.088
    ],
    "result": "draw",
-   "chance": 0.149
+   "chance": 0.166
   },
   {
    "date": "2026-10-24",
@@ -2823,6 +2823,25 @@
   },
   {
    "date": "2026-10-24",
+   "league": "sweden",
+   "home": "Hacken",
+   "away": "Degerfors",
+   "homeName": "Hacken",
+   "awayName": "Degerfors",
+   "homeSlug": "hacken",
+   "awaySlug": "degerfors",
+   "hg": 4,
+   "ag": 0,
+   "p": [
+    0.607,
+    0.23,
+    0.163
+   ],
+   "result": "home win",
+   "chance": 0.607
+  },
+  {
+   "date": "2026-10-24",
    "league": "switzerland",
    "home": "Servette",
    "away": "Vaduz",
@@ -2896,25 +2915,6 @@
    ],
    "result": "home win",
    "chance": 0.629
-  },
-  {
-   "date": "2026-10-24",
-   "league": "sweden",
-   "home": "Hacken",
-   "away": "Degerfors",
-   "homeName": "Hacken",
-   "awayName": "Degerfors",
-   "homeSlug": "hacken",
-   "awaySlug": "degerfors",
-   "hg": 4,
-   "ag": 0,
-   "p": [
-    0.643,
-    0.215,
-    0.141
-   ],
-   "result": "home win",
-   "chance": 0.643
   },
   {
    "date": "2026-10-24",
@@ -3080,12 +3080,12 @@
    "hg": 1,
    "ag": 2,
    "p": [
-    0.635,
-    0.22,
-    0.145
+    0.598,
+    0.234,
+    0.168
    ],
    "result": "away win",
-   "chance": 0.145
+   "chance": 0.168
   },
   {
    "date": "2026-10-23",
@@ -3793,44 +3793,6 @@
    "chance": 0.139
   },
   {
-   "date": "2026-10-23",
-   "league": "sweden",
-   "home": "Vasteras SK",
-   "away": "Halmstad",
-   "homeName": "Vasteras SK",
-   "awayName": "Halmstad",
-   "homeSlug": "vasteras-sk",
-   "awaySlug": "halmstad",
-   "hg": 1,
-   "ag": 2,
-   "p": [
-    0.635,
-    0.22,
-    0.145
-   ],
-   "result": "away win",
-   "chance": 0.145
-  },
-  {
-   "date": "2026-10-24",
-   "league": "sweden",
-   "home": "Djurgarden",
-   "away": "Orgryte",
-   "homeName": "Djurgarden",
-   "awayName": "Orgryte",
-   "homeSlug": "djurgarden",
-   "awaySlug": "orgryte",
-   "hg": 2,
-   "ag": 2,
-   "p": [
-    0.777,
-    0.149,
-    0.074
-   ],
-   "result": "draw",
-   "chance": 0.149
-  },
-  {
    "date": "2026-10-19",
    "league": "primeira",
    "home": "Sp Braga",
@@ -3867,6 +3829,44 @@
    ],
    "result": "home win",
    "chance": 0.152
+  },
+  {
+   "date": "2026-10-24",
+   "league": "sweden",
+   "home": "Djurgarden",
+   "away": "Orgryte",
+   "homeName": "Djurgarden",
+   "awayName": "Orgryte",
+   "homeSlug": "djurgarden",
+   "awaySlug": "orgryte",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.746,
+    0.166,
+    0.088
+   ],
+   "result": "draw",
+   "chance": 0.166
+  },
+  {
+   "date": "2026-10-23",
+   "league": "sweden",
+   "home": "Vasteras SK",
+   "away": "Halmstad",
+   "homeName": "Vasteras SK",
+   "awayName": "Halmstad",
+   "homeSlug": "vasteras-sk",
+   "awaySlug": "halmstad",
+   "hg": 1,
+   "ag": 2,
+   "p": [
+    0.598,
+    0.234,
+    0.168
+   ],
+   "result": "away win",
+   "chance": 0.168
   },
   {
    "date": "2026-10-26",

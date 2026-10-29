@@ -199,3 +199,23 @@ test('simulate, hot: a simulated result moves the later chances, and places stil
   assert.ok(Math.abs([...s.values()].reduce((x, c) => x + c.pos[0], 0) - 1) < 1e-9);
   assert.ok([...s.values()].every((c) => c.pos[0] > 0.2 && c.pos[0] < 0.47));
 });
+
+test('fixture context: dead rubbers, promoted clubs and the first rounds, from what was known before each match', async () => {
+  const { features, shift } = await import('../lib/context.mjs');
+  // a 10-club double round-robin (as E0: top 4, 3 down), the better club always winning: H, I and J are relegated well
+  // before the end
+  const clubs = 'ABCDEFGHIJ'.split(''), list = [];
+  let day = 0;
+  for (const leg of [0, 1]) for (let i = 0; i < 10; i++) for (let j = 0; j < 10; j++) if (i !== j && (i < j) === !leg) {
+    const d = new Date(Date.UTC(2020, 7, 1) + day++ * 86400000).toISOString().slice(0, 10);
+    list.push({ date: d, season: '2021', div: 'E0', home: clubs[i], away: clubs[j], hg: i < j ? 2 : 0, ag: i < j ? 0 : 2 });
+  }
+  list.sort((a, b) => a.date.localeCompare(b.date));
+  const f = features(list, 'E0'), first = f.get(list[0]), last = f.get(list.at(-1));
+  assert.equal(first.early, 1); assert.equal(first.relegated, 0); assert.equal(first.promoted, 0); // no season before it: nobody counts as promoted
+  const lastJ = list.filter((m) => (m.home === 'J' || m.away === 'J') && !'HI'.includes(m.home) && !'HI'.includes(m.away)).at(-1), fj = f.get(lastJ);
+  assert.equal(fj.relegated, lastJ.home === 'J' ? -1 : 1);
+  assert.equal(last.early, 0);
+  assert.equal(shift(fj, { relegated: 100 }), fj.relegated * 100);
+  assert.equal(shift(null, { relegated: 100 }), 0);
+});

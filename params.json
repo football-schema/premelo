@@ -595,5 +595,13 @@
     "mu": 2.8,
     "c": 525,
     "draw": 0.15
+  },
+  "context": {
+    "relegated": 90,
+    "mid": 40,
+    "champ": 95,
+    "danger": 30,
+    "promoted": 30,
+    "early": -10
   }
 }
