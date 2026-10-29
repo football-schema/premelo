@@ -14,13 +14,14 @@
 //   node scripts/backtest.mjs --tune-context [--holdout]    search the fixture context's weights (lib/context.mjs), all leagues together
 // (side by side: TUNED=cache/tuned node scripts/backtest.mjs --tune laliga & … then merge cache/tuned/*.json)
 // Every gap means the same in every league: the Elo goals model's c is params.common.c for all of them.
+// The bookmakers' prices also teach both models after each match (lib/elo.mjs w, lib/attack.mjs w): never a match its own.
 // Needs cache/ (node scripts/fetch.mjs): the odds are football-data's, so they're read here and not published.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { label } from '../lib/seasons.mjs';
 import { fromCsv } from '../lib/results.mjs';
 import { run, runAll } from '../lib/elo.mjs';
 import { run as runAttack, SHOTS } from '../lib/attack.mjs';
-import { table, x12 } from '../lib/goals.mjs';
+import { table, x12, implied } from '../lib/goals.mjs';
 import { LEAGUES, IDS, load, leagueOf } from '../lib/leagues.mjs';
 import { display, slug } from '../lib/teams.mjs';
 import { features, shift, DEFAULTS as CONTEXT } from '../lib/context.mjs';
@@ -45,7 +46,7 @@ const lists = Object.fromEntries(IDS.map((id) => [id, load(id, { odds: true })])
 const europe = fromCsv(readFileSync('data/europe.csv', 'utf8')).map((m) => ({ ...m, neutral: m.div === 'EUN', div: 'EU' })); // scripts/import.mjs makes it from UEFA's data
 const top = (id) => (m) => m.div === LEAGUES[id].divs[0] && year(m.season) >= FROM;
 const tuning = (id) => (m) => top(id)(m) && (!holdout || year(m.season) < HOLD); // what --tune may look at
-const leaguesFor = (p) => Object.fromEntries(IDS.map((id) => [id, { list: lists[id], params: p[id].elo, divs: LEAGUES[id].divs }]));
+const leaguesFor = (p) => Object.fromEntries(IDS.map((id) => [id, { list: lists[id], params: p[id].elo, divs: LEAGUES[id].divs, implied: implied(p[id].goals) }]));
 const DRAWS = [0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35];
 
 // the Elo goal model's settings for one league's ratings: mu from its matches, the draw boost searched, c common
@@ -59,18 +60,32 @@ function fitGoals(rows) {
   return best;
 }
 // the attack/defence model's expected goals for every match of a league, keyed by the match
-function attackGoals(id, a) { const out = new Map(); runAttack(lists[id], a, { divs: LEAGUES[id].divs, each: (m, xg) => out.set(m, xg) }); return out; }
+// (with the market's log ratio of goals, by the league's Elo goal model, for its market weight w)
+function attackGoals(id, a, goals = params[id].goals) {
+  const out = new Map(), imp = implied(goals);
+  runAttack(lists[id], a, { divs: LEAGUES[id].divs, ratio: (o) => 2 * imp(o) / goals.c, each: (m, xg) => out.set(m, xg) });
+  return out;
+}
 
 if (argv.includes('--tune')) {
   for (const id of named.length ? named : IDS) {
     const divs = LEAGUES[id].divs, pick = tuning(id);
-    const gaps = (elo) => { const out = []; run(lists[id], elo, { divs, each: (m, { dr }) => { if (pick(m)) out.push({ m, dr, o: outcome(m) }); } }); return out; };
+    let imp = implied(params[id].goals); // the market's gaps, by the goal model as it stands
+    const gaps = (elo) => { const out = []; run(lists[id], elo, { divs, implied: imp, each: (m, { dr }) => { if (pick(m)) out.push({ m, dr, o: outcome(m) }); } }); return out; };
     // 1. the Elo
     let best = null;
     for (const margin of ['wfe', 'log']) for (const k of [8, 10, 12, 14, 16, 20, 24]) for (const hfa of [50, 60, 70, 80, 90, 100]) for (const regress of [0, 0.1, 0.2]) for (const hfaEmpty of [0, 30]) {
-      const elo = { ...params[id].elo, k, hfa, hfaEmpty, margin, regress, kH: 0, q: 0 }, f = fitGoals(gaps(elo));
+      const elo = { ...params[id].elo, k, hfa, hfaEmpty, margin, regress, kH: 0, q: 0, w: 0, wH: 0 }, f = fitGoals(gaps(elo));
       if (!best || f.ll < best.ll) { best = { ...f, elo }; console.log(`${id} elo ${f.ll.toFixed(4)}  k ${k} hfa ${hfa}/${hfaEmpty} ${margin} regress ${regress}  draw ${f.goals.draw}`); }
     }
+    // 1b. the market's view learnt from (w, and wH for home advantage), with K searched again since the market now
+    // carries some of what the results did
+    imp = implied(best.goals);
+    for (const w of [0.2, 0.35, 0.5, 0.7]) for (const wH of [0, 0.001, 0.003]) for (const m of [0.5, 0.75, 1]) {
+      const elo = { ...best.elo, w, wH, k: Math.round(best.elo.k * m) }, f = fitGoals(gaps(elo));
+      if (f.ll < best.ll) { best = { ...f, elo }; console.log(`${id} elo ${f.ll.toFixed(4)}  w ${w} wH ${wH} k ${elo.k}`); }
+    }
+    imp = implied(best.goals);
     // 2. home advantage learnt as it goes
     for (const kH of [0.05, 0.1, 0.2, 0.3, 0.5]) {
       const elo = { ...best.elo, kH }, f = fitGoals(gaps(elo));
@@ -84,11 +99,11 @@ if (argv.includes('--tune')) {
     // 4. the attack/defence model, learning from goals and, where there are shots on target, the chances
     const eloRows = gaps(best.elo), t = table(best.goals);
     let att = null;
-    for (const k of [0.01, 0.015, 0.02, 0.03]) for (const r of [0, 0.1, 0.2]) for (const kb of [0.002, 0.005]) for (const shots of [0, 0.3, 0.5, 0.7]) for (const conv of shots ? [0.25, 0.32] : [0.3]) {
-      const xg = attackGoals(id, { k, r, kb, shots, conv });
+    for (const k of [0.01, 0.015, 0.02, 0.03]) for (const r of [0, 0.1, 0.2]) for (const kb of [0.002, 0.005]) for (const shots of [0, 0.3, 0.5, 0.7]) for (const conv of shots ? [0.25, 0.32] : [0.3]) for (const w of [0, 0.2, 0.4]) {
+      const xg = attackGoals(id, { k, r, kb, shots, conv, w }, best.goals);
       for (const draw of DRAWS) {
         const ll = logloss(eloRows, (row) => x12(xg.get(row.m), draw));
-        if (!att || ll < att.ll) att = { ll, a: { k, r, kb, shots, conv, draw }, xg };
+        if (!att || ll < att.ll) att = { ll, a: { k, r, kb, shots, conv, w, draw }, xg };
       }
     }
     // with no shots on target in the seasons tuned on, the shots setting couldn't be chosen: take the other leagues'
@@ -97,7 +112,7 @@ if (argv.includes('--tune')) {
     for (const [key, values] of [['kh', [0, 0.001, 0.002, 0.005]], ['st', [0, 0.05, 0.1, 0.2]]]) {
       let b = null;
       for (const v of values) {
-        const a = { ...att.a, [key]: v }, xg = attackGoals(id, a);
+        const a = { ...att.a, [key]: v }, xg = attackGoals(id, a, best.goals);
         for (const draw of DRAWS) { const ll = logloss(eloRows, (row) => x12(xg.get(row.m), draw)); if (!b || ll < b.ll) b = { ll, a: { ...a, draw }, xg }; }
       }
       att = b;
@@ -146,7 +161,7 @@ function predict(p) {
   const rows = Object.fromEntries([...IDS, 'EU'].map((id) => [id, []]));
   runAll(leaguesFor(p), { list: europe, params: p.europe }, { each: (m, { dr, league }) => { if (league === 'EU' || top(league)(m)) rows[league].push({ m, dr, o: outcome(m) }); } });
   for (const id of IDS) {
-    const t = table(p[id].goals), xg = p[id].attack ? attackGoals(id, p[id].attack) : null, w = p[id].blend ?? 1, ctx = contexts[id];
+    const t = table(p[id].goals), xg = p[id].attack ? attackGoals(id, p[id].attack, p[id].goals) : null, w = p[id].blend ?? 1, ctx = contexts[id];
     for (const r of rows[id]) { r.t = t; r.p = p[id]; r.xg = xg?.get(r.m); r.ctx = ctx.get(r.m); price(r, shift(r.ctx, p.context)); }
   }
   return rows;
