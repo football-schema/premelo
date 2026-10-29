@@ -11,7 +11,11 @@
       },
       "hfaEmpty": 0,
       "kH": 0.05,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.721,
@@ -40,7 +44,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.668,
@@ -69,7 +77,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0.2,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.964,
@@ -98,7 +110,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0.3,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.665,
@@ -127,7 +143,11 @@
       },
       "hfaEmpty": 0,
       "kH": 0.2,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.499,
@@ -167,7 +187,11 @@
       "hfaEmpty": 30,
       "kH": 0.5,
       "q": 0.006,
-      "rNew": 1
+      "rNew": 1,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.533,
@@ -196,7 +220,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0.5,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 3.066,
@@ -225,7 +253,11 @@
       },
       "hfaEmpty": 0,
       "kH": 0.5,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.838,
@@ -254,7 +286,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0.1,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.776,
@@ -283,7 +319,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.68,
@@ -312,7 +352,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0.5,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.36,
@@ -341,7 +385,11 @@
       },
       "hfaEmpty": 0,
       "kH": 0.5,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.911,
@@ -370,7 +418,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 3.02,
@@ -399,7 +451,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.803,
@@ -428,7 +484,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 3.003,
@@ -457,7 +517,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0.3,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.803,
@@ -486,7 +550,11 @@
       },
       "hfaEmpty": 30,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.654,
@@ -516,7 +584,11 @@
       "hfaEmpty": 0,
       "kH": 0,
       "q": 0.01,
-      "rNew": 3
+      "rNew": 3,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.415,
@@ -545,7 +617,11 @@
       },
       "hfaEmpty": 0,
       "kH": 0,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.581,
@@ -574,7 +650,11 @@
       },
       "hfaEmpty": 0,
       "kH": 0.5,
-      "q": 0
+      "q": 0,
+      "promo": 40,
+      "kEarly": 0.5,
+      "nEarly": 10,
+      "kHc": 2
     },
     "goals": {
       "mu": 2.634,
