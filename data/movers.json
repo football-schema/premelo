@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:05:46.334Z",
+ "updated": "2026-10-30T07:01:13.037Z",
  "up": [
   {
    "league": "finland",
@@ -108,22 +108,6 @@
    "change": -32
   },
   {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "cagliari",
-   "name": "Cagliari",
-   "elo": 1664,
-   "change": -31
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "milan",
-   "name": "AC Milan",
-   "elo": 1940,
-   "change": -31
-  },
-  {
    "league": "norway",
    "leagueName": "Eliteserien",
    "slug": "hamkam",
@@ -140,14 +124,6 @@
    "change": -28
   },
   {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "atalanta",
-   "name": "Atalanta",
-   "elo": 1799,
-   "change": -28
-  },
-  {
    "league": "romania",
    "leagueName": "Liga I",
    "slug": "fc-rapid-bucuresti",
@@ -158,10 +134,34 @@
   {
    "league": "seriea",
    "leagueName": "Serie A",
-   "slug": "parma",
-   "name": "Parma",
-   "elo": 1585,
-   "change": -26
+   "slug": "milan",
+   "name": "AC Milan",
+   "elo": 1930,
+   "change": -27
+  },
+  {
+   "league": "denmark",
+   "leagueName": "Danish Superliga",
+   "slug": "randers-fc",
+   "name": "Randers FC",
+   "elo": 1505,
+   "change": -25
+  },
+  {
+   "league": "pl",
+   "leagueName": "Premier League",
+   "slug": "coventry",
+   "name": "Coventry City",
+   "elo": 1769,
+   "change": -25
+  },
+  {
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "galway",
+   "name": "Galway",
+   "elo": 1226,
+   "change": -24
   }
  ]
 }

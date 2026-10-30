@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:05:23.900Z",
+ "updated": "2026-10-30T07:00:50.965Z",
  "frozen": "2011-12",
  "leagues": [
   {
@@ -79,23 +79,23 @@
    "name": "Serie A",
    "extra": false,
    "season": "2026-27",
-   "matches": 80,
-   "called": 49,
+   "matches": 90,
+   "called": 55,
    "model": {
-    "logloss": 0.9075,
-    "rps": 0.1903,
-    "brier": 0.5285
+    "logloss": 0.912,
+    "rps": 0.1911,
+    "brier": 0.5302
    },
    "market": {
-    "logloss": 0.9047,
-    "rps": 0.1907,
-    "brier": 0.5273
+    "logloss": 0.9067,
+    "rps": 0.1904,
+    "brier": 0.527
    },
-   "withOdds": 80,
+   "withOdds": 90,
    "modelOnOdds": {
-    "logloss": 0.9075,
-    "rps": 0.1903,
-    "brier": 0.5285
+    "logloss": 0.912,
+    "rps": 0.1911,
+    "brier": 0.5302
    }
   },
   {
@@ -223,23 +223,23 @@
    "name": "Scottish Premiership",
    "extra": false,
    "season": "2026-27",
-   "matches": 60,
-   "called": 29,
+   "matches": 66,
+   "called": 30,
    "model": {
-    "logloss": 0.9536,
-    "rps": 0.2081,
-    "brier": 0.5662
+    "logloss": 0.9847,
+    "rps": 0.2078,
+    "brier": 0.5891
    },
    "market": {
-    "logloss": 0.9575,
-    "rps": 0.2101,
-    "brier": 0.5678
+    "logloss": 0.9918,
+    "rps": 0.2104,
+    "brier": 0.5924
    },
-   "withOdds": 60,
+   "withOdds": 66,
    "modelOnOdds": {
-    "logloss": 0.9536,
-    "rps": 0.2081,
-    "brier": 0.5662
+    "logloss": 0.9847,
+    "rps": 0.2078,
+    "brier": 0.5891
    }
   },
   {
@@ -484,6 +484,310 @@
   }
  ],
  "recent": [
+  {
+   "date": "2026-10-29",
+   "league": "seriea",
+   "home": "Fiorentina",
+   "away": "Atalanta",
+   "homeName": "Fiorentina",
+   "awayName": "Atalanta",
+   "homeSlug": "fiorentina",
+   "awaySlug": "atalanta",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.366,
+    0.306,
+    0.328
+   ],
+   "result": "draw",
+   "chance": 0.306
+  },
+  {
+   "date": "2026-10-29",
+   "league": "seriea",
+   "home": "Frosinone",
+   "away": "Lecce",
+   "homeName": "Frosinone",
+   "awayName": "Lecce",
+   "homeSlug": "frosinone",
+   "awaySlug": "lecce",
+   "hg": 5,
+   "ag": 1,
+   "p": [
+    0.539,
+    0.274,
+    0.186
+   ],
+   "result": "home win",
+   "chance": 0.539
+  },
+  {
+   "date": "2026-10-28",
+   "league": "scotland",
+   "home": "Celtic",
+   "away": "Dundee United",
+   "homeName": "Celtic",
+   "awayName": "Dundee United",
+   "homeSlug": "celtic",
+   "awaySlug": "dundee-united",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.795,
+    0.137,
+    0.069
+   ],
+   "result": "draw",
+   "chance": 0.137
+  },
+  {
+   "date": "2026-10-28",
+   "league": "seriea",
+   "home": "Milan",
+   "away": "Bologna",
+   "homeName": "AC Milan",
+   "awayName": "Bologna",
+   "homeSlug": "milan",
+   "awaySlug": "bologna",
+   "hg": 2,
+   "ag": 4,
+   "p": [
+    0.595,
+    0.254,
+    0.15
+   ],
+   "result": "away win",
+   "chance": 0.15
+  },
+  {
+   "date": "2026-10-28",
+   "league": "seriea",
+   "home": "Genoa",
+   "away": "Juventus",
+   "homeName": "Genoa",
+   "awayName": "Juventus",
+   "homeSlug": "genoa",
+   "awaySlug": "juventus",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.179,
+    0.28,
+    0.541
+   ],
+   "result": "home win",
+   "chance": 0.179
+  },
+  {
+   "date": "2026-10-28",
+   "league": "scotland",
+   "home": "Hearts",
+   "away": "Rangers",
+   "homeName": "Hearts",
+   "awayName": "Rangers",
+   "homeSlug": "hearts",
+   "awaySlug": "rangers",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.293,
+    0.263,
+    0.444
+   ],
+   "result": "draw",
+   "chance": 0.263
+  },
+  {
+   "date": "2026-10-28",
+   "league": "scotland",
+   "home": "St Mirren",
+   "away": "Hibernian",
+   "homeName": "St Mirren",
+   "awayName": "Hibernian",
+   "homeSlug": "st-mirren",
+   "awaySlug": "hibernian",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.286,
+    0.286,
+    0.428
+   ],
+   "result": "draw",
+   "chance": 0.286
+  },
+  {
+   "date": "2026-10-28",
+   "league": "scotland",
+   "home": "St Johnstone",
+   "away": "Motherwell",
+   "homeName": "St Johnstone",
+   "awayName": "Motherwell",
+   "homeSlug": "st-johnstone",
+   "awaySlug": "motherwell",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.345,
+    0.291,
+    0.364
+   ],
+   "result": "draw",
+   "chance": 0.291
+  },
+  {
+   "date": "2026-10-28",
+   "league": "scotland",
+   "home": "Aberdeen",
+   "away": "Falkirk",
+   "homeName": "Aberdeen",
+   "awayName": "Falkirk",
+   "homeSlug": "aberdeen",
+   "awaySlug": "falkirk",
+   "hg": 0,
+   "ag": 1,
+   "p": [
+    0.428,
+    0.277,
+    0.295
+   ],
+   "result": "away win",
+   "chance": 0.295
+  },
+  {
+   "date": "2026-10-28",
+   "league": "seriea",
+   "home": "Parma",
+   "away": "Udinese",
+   "homeName": "Parma",
+   "awayName": "Udinese",
+   "homeSlug": "parma",
+   "awaySlug": "udinese",
+   "hg": 0,
+   "ag": 0,
+   "p": [
+    0.323,
+    0.316,
+    0.361
+   ],
+   "result": "draw",
+   "chance": 0.316
+  },
+  {
+   "date": "2026-10-28",
+   "league": "scotland",
+   "home": "Dundee",
+   "away": "Kilmarnock",
+   "homeName": "Dundee",
+   "awayName": "Kilmarnock",
+   "homeSlug": "dundee",
+   "awaySlug": "kilmarnock",
+   "hg": 3,
+   "ag": 1,
+   "p": [
+    0.477,
+    0.252,
+    0.272
+   ],
+   "result": "home win",
+   "chance": 0.477
+  },
+  {
+   "date": "2026-10-28",
+   "league": "seriea",
+   "home": "Monza",
+   "away": "Napoli",
+   "homeName": "Monza",
+   "awayName": "Napoli",
+   "homeSlug": "monza",
+   "awaySlug": "napoli",
+   "hg": 1,
+   "ag": 4,
+   "p": [
+    0.209,
+    0.283,
+    0.508
+   ],
+   "result": "away win",
+   "chance": 0.508
+  },
+  {
+   "date": "2026-10-28",
+   "league": "seriea",
+   "home": "Venezia",
+   "away": "Inter",
+   "homeName": "Venezia",
+   "awayName": "Inter",
+   "homeSlug": "venezia",
+   "awaySlug": "inter",
+   "hg": 0,
+   "ag": 2,
+   "p": [
+    0.097,
+    0.2,
+    0.703
+   ],
+   "result": "away win",
+   "chance": 0.703
+  },
+  {
+   "date": "2026-10-27",
+   "league": "seriea",
+   "home": "Sassuolo",
+   "away": "Lazio",
+   "homeName": "Sassuolo",
+   "awayName": "Lazio",
+   "homeSlug": "sassuolo",
+   "awaySlug": "lazio",
+   "hg": 2,
+   "ag": 6,
+   "p": [
+    0.328,
+    0.308,
+    0.364
+   ],
+   "result": "away win",
+   "chance": 0.364
+  },
+  {
+   "date": "2026-10-27",
+   "league": "seriea",
+   "home": "Torino",
+   "away": "Como",
+   "homeName": "Torino",
+   "awayName": "Como",
+   "homeSlug": "torino",
+   "awaySlug": "como",
+   "hg": 1,
+   "ag": 3,
+   "p": [
+    0.176,
+    0.272,
+    0.552
+   ],
+   "result": "away win",
+   "chance": 0.552
+  },
+  {
+   "date": "2026-10-27",
+   "league": "seriea",
+   "home": "Roma",
+   "away": "Cagliari",
+   "homeName": "AS Roma",
+   "awayName": "Cagliari",
+   "homeSlug": "roma",
+   "awaySlug": "cagliari",
+   "hg": 4,
+   "ag": 2,
+   "p": [
+    0.762,
+    0.17,
+    0.068
+   ],
+   "result": "home win",
+   "chance": 0.762
+  },
   {
    "date": "2026-10-26",
    "league": "denmark",
@@ -3793,6 +4097,25 @@
    "chance": 0.119
   },
   {
+   "date": "2026-10-28",
+   "league": "scotland",
+   "home": "Celtic",
+   "away": "Dundee United",
+   "homeName": "Celtic",
+   "awayName": "Dundee United",
+   "homeSlug": "celtic",
+   "awaySlug": "dundee-united",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.795,
+    0.137,
+    0.069
+   ],
+   "result": "draw",
+   "chance": 0.137
+  },
+  {
    "date": "2026-10-19",
    "league": "primeira",
    "home": "Sp Braga",
@@ -3829,6 +4152,25 @@
    ],
    "result": "home win",
    "chance": 0.148
+  },
+  {
+   "date": "2026-10-28",
+   "league": "seriea",
+   "home": "Milan",
+   "away": "Bologna",
+   "homeName": "AC Milan",
+   "awayName": "Bologna",
+   "homeSlug": "milan",
+   "awaySlug": "bologna",
+   "hg": 2,
+   "ag": 4,
+   "p": [
+    0.595,
+    0.254,
+    0.15
+   ],
+   "result": "away win",
+   "chance": 0.15
   },
   {
    "date": "2026-10-26",
@@ -3886,44 +4228,6 @@
    ],
    "result": "draw",
    "chance": 0.172
-  },
-  {
-   "date": "2026-10-24",
-   "league": "laliga",
-   "home": "Vallecano",
-   "away": "Elche",
-   "homeName": "Rayo Vallecano",
-   "awayName": "Elche",
-   "homeSlug": "vallecano",
-   "awaySlug": "elche",
-   "hg": 0,
-   "ag": 3,
-   "p": [
-    0.569,
-    0.241,
-    0.19
-   ],
-   "result": "away win",
-   "chance": 0.19
-  },
-  {
-   "date": "2026-10-25",
-   "league": "superleague",
-   "home": "OFI Crete",
-   "away": "PAOK",
-   "homeName": "OFI",
-   "awayName": "PAOK",
-   "homeSlug": "ofi-crete",
-   "awaySlug": "paok",
-   "hg": 2,
-   "ag": 1,
-   "p": [
-    0.194,
-    0.253,
-    0.553
-   ],
-   "result": "home win",
-   "chance": 0.194
   }
  ],
  "week": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:05:46.377Z",
+ "updated": "2026-10-30T07:01:13.090Z",
  "leagues": [
   {
    "id": "pl",
@@ -77,19 +77,19 @@
    "country": "Italy",
    "second": "Serie B",
    "extra": false,
-   "through": "2026-10-25",
+   "through": "2026-10-29",
    "top": [
     [
      "Inter",
-     2040
+     2033
     ],
     [
      "Como",
      1946
     ],
     [
-     "AC Milan",
-     1940
+     "Juventus",
+     1934
     ]
    ]
   },
@@ -211,19 +211,19 @@
    "country": "Scotland",
    "second": "Championship",
    "extra": false,
-   "through": "2026-10-25",
+   "through": "2026-10-28",
    "top": [
     [
      "Rangers",
-     1691
+     1704
     ],
     [
      "Celtic",
-     1683
+     1691
     ],
     [
      "Hearts",
-     1559
+     1545
     ]
    ]
   },
