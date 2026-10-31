@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:01:13.090Z",
+ "updated": "2026-10-31T07:01:13.035Z",
  "leagues": [
   {
    "id": "pl",
@@ -343,19 +343,19 @@
    "short": "Sweden",
    "country": "Sweden",
    "extra": true,
-   "through": "2026-10-25",
+   "through": "2026-10-29",
    "top": [
     [
      "Hammarby",
-     1734
+     1738
     ],
     [
      "Djurgarden",
-     1666
+     1663
     ],
     [
      "Hacken",
-     1596
+     1602
     ]
    ]
   },
@@ -431,19 +431,19 @@
    "short": "Finland",
    "country": "Finland",
    "extra": true,
-   "through": "2026-10-25",
+   "through": "2026-10-29",
    "top": [
     [
      "HJK",
-     1503
+     1509
     ],
     [
      "Inter Turku",
-     1500
+     1494
     ],
     [
      "KuPS",
-     1431
+     1440
     ]
    ]
   }

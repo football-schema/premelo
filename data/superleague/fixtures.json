@@ -1,6 +1,350 @@
 {
- "updated": "2026-10-30T07:01:12.103Z",
+ "updated": "2026-10-31T07:01:12.075Z",
  "league": "superleague",
  "season": "2026-27",
- "fixtures": []
+ "fixtures": [
+  {
+   "kickoff": "2026-10-31T17:00:00.000Z",
+   "home": "Kifisia",
+   "away": "Olympiakos",
+   "homeSlug": "kifisia",
+   "awaySlug": "olympiakos",
+   "homeName": "Kifisia",
+   "awayName": "Olympiacos",
+   "elo": [
+    1420,
+    1770
+   ],
+   "dr": -284,
+   "H": 0.102,
+   "D": 0.209,
+   "A": 0.689,
+   "xg": [
+    0.6,
+    2
+   ],
+   "O25": 0.491,
+   "btts": 0.413,
+   "scores": [
+    [
+     "0-2",
+     0.14
+    ],
+    [
+     "0-1",
+     0.137
+    ],
+    [
+     "1-1",
+     0.1
+    ],
+    [
+     "0-3",
+     0.096
+    ],
+    [
+     "1-2",
+     0.089
+    ],
+    [
+     "0-0",
+     0.077
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-01T15:00:00.000Z",
+   "home": "Levadiakos",
+   "away": "Aris",
+   "homeSlug": "levadiakos",
+   "awaySlug": "aris",
+   "homeName": "Levadiakos",
+   "awayName": "Aris Thessaloniki",
+   "elo": [
+    1358,
+    1537
+   ],
+   "dr": -100,
+   "H": 0.246,
+   "D": 0.286,
+   "A": 0.468,
+   "xg": [
+    1,
+    1.5
+   ],
+   "O25": 0.43,
+   "btts": 0.485,
+   "scores": [
+    [
+     "1-1",
+     0.139
+    ],
+    [
+     "0-1",
+     0.123
+    ],
+    [
+     "0-0",
+     0.096
+    ],
+    [
+     "0-2",
+     0.09
+    ],
+    [
+     "1-2",
+     0.088
+    ],
+    [
+     "1-0",
+     0.082
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-01T16:00:00.000Z",
+   "home": "Panetolikos",
+   "away": "OFI Crete",
+   "homeSlug": "panetolikos",
+   "awaySlug": "ofi-crete",
+   "homeName": "Panetolikos",
+   "awayName": "OFI",
+   "elo": [
+    1340,
+    1432
+   ],
+   "dr": -34,
+   "H": 0.314,
+   "D": 0.294,
+   "A": 0.392,
+   "xg": [
+    1.1,
+    1.3
+   ],
+   "O25": 0.433,
+   "btts": 0.503,
+   "scores": [
+    [
+     "1-1",
+     0.143
+    ],
+    [
+     "0-1",
+     0.108
+    ],
+    [
+     "0-0",
+     0.095
+    ],
+    [
+     "1-0",
+     0.095
+    ],
+    [
+     "1-2",
+     0.082
+    ],
+    [
+     "2-1",
+     0.071
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-01T17:00:00.000Z",
+   "home": "PAOK",
+   "away": "Asteras Tripolis",
+   "homeSlug": "paok",
+   "awaySlug": "asteras-tripolis",
+   "homeName": "PAOK",
+   "awayName": "Asteras Tripolis",
+   "elo": [
+    1662,
+    1410
+   ],
+   "dr": 331,
+   "H": 0.725,
+   "D": 0.187,
+   "A": 0.088,
+   "xg": [
+    2.2,
+    0.6
+   ],
+   "O25": 0.536,
+   "btts": 0.422,
+   "scores": [
+    [
+     "2-0",
+     0.139
+    ],
+    [
+     "1-0",
+     0.124
+    ],
+    [
+     "3-0",
+     0.104
+    ],
+    [
+     "1-1",
+     0.091
+    ],
+    [
+     "2-1",
+     0.088
+    ],
+    [
+     "3-1",
+     0.066
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-01T17:30:00.000Z",
+   "home": "Panathinaikos",
+   "away": "AEK",
+   "homeSlug": "panathinaikos",
+   "awaySlug": "aek",
+   "homeName": "Panathinaikos",
+   "awayName": "AEK Athens",
+   "elo": [
+    1764,
+    1776
+   ],
+   "dr": 63,
+   "H": 0.392,
+   "D": 0.304,
+   "A": 0.304,
+   "xg": [
+    1.3,
+    1.1
+   ],
+   "O25": 0.397,
+   "btts": 0.473,
+   "scores": [
+    [
+     "1-1",
+     0.146
+    ],
+    [
+     "1-0",
+     0.119
+    ],
+    [
+     "0-0",
+     0.109
+    ],
+    [
+     "0-1",
+     0.101
+    ],
+    [
+     "2-1",
+     0.08
+    ],
+    [
+     "2-0",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-02T16:00:00.000Z",
+   "home": "Atromitos",
+   "away": "Volos NFC",
+   "homeSlug": "atromitos",
+   "awaySlug": "volos-nfc",
+   "homeName": "Atromitos",
+   "awayName": "Volos NFC",
+   "elo": [
+    1413,
+    1341
+   ],
+   "dr": 129,
+   "H": 0.493,
+   "D": 0.283,
+   "A": 0.224,
+   "xg": [
+    1.5,
+    0.9
+   ],
+   "O25": 0.422,
+   "btts": 0.471,
+   "scores": [
+    [
+     "1-1",
+     0.137
+    ],
+    [
+     "1-0",
+     0.129
+    ],
+    [
+     "0-0",
+     0.099
+    ],
+    [
+     "2-0",
+     0.097
+    ],
+    [
+     "2-1",
+     0.089
+    ],
+    [
+     "0-1",
+     0.079
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-02T17:30:00.000Z",
+   "home": "Kalamata",
+   "away": "Iraklis",
+   "homeSlug": "kalamata",
+   "awaySlug": "iraklis",
+   "homeName": "Kalamata",
+   "awayName": "Iraklis",
+   "elo": [
+    1361,
+    1365
+   ],
+   "dr": 76,
+   "H": 0.406,
+   "D": 0.294,
+   "A": 0.3,
+   "xg": [
+    1.3,
+    1.1
+   ],
+   "O25": 0.429,
+   "btts": 0.496,
+   "scores": [
+    [
+     "1-1",
+     0.143
+    ],
+    [
+     "1-0",
+     0.112
+    ],
+    [
+     "0-0",
+     0.097
+    ],
+    [
+     "0-1",
+     0.093
+    ],
+    [
+     "2-1",
+     0.083
+    ],
+    [
+     "2-0",
+     0.075
+    ]
+   ]
+  }
+ ]
 }

@@ -1,22 +1,6 @@
 {
- "updated": "2026-10-30T07:01:13.037Z",
+ "updated": "2026-10-31T07:01:12.973Z",
  "up": [
-  {
-   "league": "finland",
-   "leagueName": "Veikkausliiga",
-   "slug": "pk-35-vantaa",
-   "name": "PK-35 Vantaa",
-   "elo": 1173,
-   "change": 214
-  },
-  {
-   "league": "finland",
-   "leagueName": "Veikkausliiga",
-   "slug": "jaro",
-   "name": "Jaro",
-   "elo": 1274,
-   "change": 93
-  },
   {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
@@ -80,6 +64,22 @@
    "name": "Antwerp",
    "elo": 1588,
    "change": 30
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "galatasaray",
+   "name": "Galatasaray",
+   "elo": 1846,
+   "change": 30
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "kalmar",
+   "name": "Kalmar",
+   "elo": 1484,
+   "change": 30
   }
  ],
  "down": [
@@ -98,6 +98,22 @@
    "name": "Sporting CP",
    "elo": 1920,
    "change": -43
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "gais",
+   "name": "GAIS",
+   "elo": 1495,
+   "change": -34
+  },
+  {
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "pk-35-vantaa",
+   "name": "PK-35 Vantaa",
+   "elo": 1173,
+   "change": -33
   },
   {
    "league": "norway",
@@ -140,28 +156,12 @@
    "change": -27
   },
   {
-   "league": "denmark",
-   "leagueName": "Danish Superliga",
-   "slug": "randers-fc",
-   "name": "Randers FC",
-   "elo": 1505,
-   "change": -25
-  },
-  {
-   "league": "pl",
-   "leagueName": "Premier League",
-   "slug": "coventry",
-   "name": "Coventry City",
-   "elo": 1769,
-   "change": -25
-  },
-  {
-   "league": "ireland",
-   "leagueName": "League of Ireland",
-   "slug": "galway",
-   "name": "Galway",
-   "elo": 1226,
-   "change": -24
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "brommapojkarna",
+   "name": "Brommapojkarna",
+   "elo": 1373,
+   "change": -26
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T07:01:12.988Z",
+ "updated": "2026-10-31T07:01:12.907Z",
  "league": "finland",
  "name": "Veikkausliiga",
- "through": "2026-10-25",
+ "through": "2026-10-29",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -50,19 +50,10 @@
    "name": "HJK",
    "slug": "hjk",
    "div": "top",
-   "elo": 1503,
-   "change30": 45,
-   "played": 19,
+   "elo": 1509,
+   "change30": 51,
+   "played": 20,
    "form": [
-    {
-     "r": "D",
-     "opp": "Gnistan",
-     "oppSlug": "gnistan",
-     "gf": 1,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
     {
      "r": "W",
      "opp": "VPS",
@@ -98,10 +89,18 @@
      "ga": 2,
      "ha": "h",
      "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-29"
     }
    ],
    "spark": [
-    1443,
     1412,
     1424,
     1431,
@@ -120,18 +119,27 @@
     1477,
     1500,
     1508,
-    1503
+    1503,
+    1509
    ],
    "rank": 1,
+   "next": {
+    "opp": "VPS",
+    "oppSlug": "vps",
+    "ha": "a",
+    "kickoff": "2026-11-02T16:00:00.000Z",
+    "win": 0.604,
+    "draw": 0.228
+   },
    "table": {
-    "pos": 2,
-    "p": 29,
-    "w": 15,
+    "pos": 1,
+    "p": 30,
+    "w": 16,
     "d": 7,
     "l": 7,
-    "gf": 55,
-    "ga": 34,
-    "pts": 52
+    "gf": 59,
+    "ga": 36,
+    "pts": 55
    }
   },
   {
@@ -139,19 +147,10 @@
    "name": "Inter Turku",
    "slug": "inter-turku",
    "div": "top",
-   "elo": 1500,
-   "change30": 15,
-   "played": 22,
+   "elo": 1494,
+   "change30": 9,
+   "played": 23,
    "form": [
-    {
-     "r": "W",
-     "opp": "AC Oulu",
-     "oppSlug": "ac-oulu",
-     "gf": 1,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
     {
      "r": "D",
      "opp": "Gnistan",
@@ -187,10 +186,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "HJK",
+     "oppSlug": "hjk",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-29"
     }
    ],
    "spark": [
-    1427,
     1434,
     1428,
     1452,
@@ -209,17 +216,26 @@
     1485,
     1488,
     1506,
-    1500
+    1500,
+    1494
    ],
    "rank": 2,
+   "next": {
+    "opp": "Gnistan",
+    "oppSlug": "gnistan",
+    "ha": "h",
+    "kickoff": "2026-11-02T16:00:00.000Z",
+    "win": 0.658,
+    "draw": 0.21
+   },
    "table": {
-    "pos": 1,
-    "p": 29,
+    "pos": 2,
+    "p": 30,
     "w": 15,
     "d": 10,
-    "l": 4,
-    "gf": 35,
-    "ga": 20,
+    "l": 5,
+    "gf": 37,
+    "ga": 24,
     "pts": 55
    }
   },
@@ -228,19 +244,10 @@
    "name": "KuPS",
    "slug": "kups",
    "div": "top",
-   "elo": 1431,
-   "change30": -15,
-   "played": 24,
+   "elo": 1440,
+   "change30": -6,
+   "played": 25,
    "form": [
-    {
-     "r": "W",
-     "opp": "VPS",
-     "oppSlug": "vps",
-     "gf": 2,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-19"
-    },
     {
      "r": "L",
      "opp": "AC Oulu",
@@ -276,10 +283,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-25"
+    },
+    {
+     "r": "D",
+     "opp": "Gnistan",
+     "oppSlug": "gnistan",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-29"
     }
    ],
    "spark": [
-    1400,
     1381,
     1426,
     1429,
@@ -298,18 +313,27 @@
     1438,
     1443,
     1429,
-    1431
+    1431,
+    1440
    ],
    "rank": 3,
+   "next": {
+    "opp": "AC Oulu",
+    "oppSlug": "ac-oulu",
+    "ha": "a",
+    "kickoff": "2026-11-01T13:00:00.000Z",
+    "win": 0.55,
+    "draw": 0.251
+   },
    "table": {
     "pos": 3,
-    "p": 29,
+    "p": 30,
     "w": 14,
-    "d": 10,
+    "d": 11,
     "l": 5,
-    "gf": 45,
-    "ga": 28,
-    "pts": 52
+    "gf": 46,
+    "ga": 29,
+    "pts": 53
    }
   },
   {
@@ -480,7 +504,7 @@
    ],
    "rank": 5,
    "table": {
-    "pos": 6,
+    "pos": 7,
     "p": 27,
     "w": 11,
     "d": 6,
@@ -495,19 +519,10 @@
    "name": "VPS",
    "slug": "vps",
    "div": "top",
-   "elo": 1279,
-   "change30": -30,
-   "played": 16,
+   "elo": 1285,
+   "change30": -24,
+   "played": 17,
    "form": [
-    {
-     "r": "L",
-     "opp": "KuPS",
-     "oppSlug": "kups",
-     "gf": 0,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-19"
-    },
     {
      "r": "L",
      "opp": "HJK",
@@ -543,10 +558,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-24"
+    },
+    {
+     "r": "D",
+     "opp": "AC Oulu",
+     "oppSlug": "ac-oulu",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-28"
     }
    ],
    "spark": [
-    1316,
     1323,
     1357,
     1351,
@@ -565,18 +588,27 @@
     1290,
     1285,
     1279,
-    1279
+    1279,
+    1285
    ],
    "rank": 6,
+   "next": {
+    "opp": "HJK",
+    "oppSlug": "hjk",
+    "ha": "h",
+    "kickoff": "2026-11-02T16:00:00.000Z",
+    "win": 0.167,
+    "draw": 0.228
+   },
    "table": {
-    "pos": 7,
-    "p": 29,
+    "pos": 6,
+    "p": 30,
     "w": 11,
-    "d": 6,
+    "d": 7,
     "l": 12,
     "gf": 31,
     "ga": 34,
-    "pts": 39
+    "pts": 40
    }
   },
   {
@@ -669,95 +701,6 @@
    }
   },
   {
-   "club": "Gnistan",
-   "name": "Gnistan",
-   "slug": "gnistan",
-   "div": "top",
-   "elo": 1269,
-   "change30": -1,
-   "played": 16,
-   "form": [
-    {
-     "r": "D",
-     "opp": "HJK",
-     "oppSlug": "hjk",
-     "gf": 1,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-18"
-    },
-    {
-     "r": "D",
-     "opp": "Inter Turku",
-     "oppSlug": "inter-turku",
-     "gf": 0,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-07"
-    },
-    {
-     "r": "L",
-     "opp": "VPS",
-     "oppSlug": "vps",
-     "gf": 0,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-10-12"
-    },
-    {
-     "r": "L",
-     "opp": "HJK",
-     "oppSlug": "hjk",
-     "gf": 0,
-     "ga": 4,
-     "ha": "a",
-     "date": "2026-10-17"
-    },
-    {
-     "r": "L",
-     "opp": "AC Oulu",
-     "oppSlug": "ac-oulu",
-     "gf": 3,
-     "ga": 4,
-     "ha": "h",
-     "date": "2026-10-24"
-    }
-   ],
-   "spark": [
-    1276,
-    1269,
-    1289,
-    1296,
-    1290,
-    1310,
-    1315,
-    1320,
-    1288,
-    1292,
-    1276,
-    1288,
-    1287,
-    1261,
-    1286,
-    1270,
-    1271,
-    1275,
-    1262,
-    1269
-   ],
-   "rank": 8,
-   "table": {
-    "pos": 5,
-    "p": 29,
-    "w": 11,
-    "d": 9,
-    "l": 9,
-    "gf": 43,
-    "ga": 41,
-    "pts": 42
-   }
-  },
-  {
    "club": "SJK",
    "name": "SJK",
    "slug": "sjk",
@@ -834,7 +777,7 @@
     1285,
     1268
    ],
-   "rank": 9,
+   "rank": 8,
    "table": {
     "pos": 10,
     "p": 27,
@@ -847,23 +790,111 @@
    }
   },
   {
+   "club": "Gnistan",
+   "name": "Gnistan",
+   "slug": "gnistan",
+   "div": "top",
+   "elo": 1260,
+   "change30": -10,
+   "played": 17,
+   "form": [
+    {
+     "r": "D",
+     "opp": "Inter Turku",
+     "oppSlug": "inter-turku",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-07"
+    },
+    {
+     "r": "L",
+     "opp": "VPS",
+     "oppSlug": "vps",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-12"
+    },
+    {
+     "r": "L",
+     "opp": "HJK",
+     "oppSlug": "hjk",
+     "gf": 0,
+     "ga": 4,
+     "ha": "a",
+     "date": "2026-10-17"
+    },
+    {
+     "r": "L",
+     "opp": "AC Oulu",
+     "oppSlug": "ac-oulu",
+     "gf": 3,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-10-24"
+    },
+    {
+     "r": "D",
+     "opp": "KuPS",
+     "oppSlug": "kups",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-29"
+    }
+   ],
+   "spark": [
+    1269,
+    1289,
+    1296,
+    1290,
+    1310,
+    1315,
+    1320,
+    1288,
+    1292,
+    1276,
+    1288,
+    1287,
+    1261,
+    1286,
+    1270,
+    1271,
+    1275,
+    1262,
+    1269,
+    1260
+   ],
+   "rank": 9,
+   "next": {
+    "opp": "Inter Turku",
+    "oppSlug": "inter-turku",
+    "ha": "a",
+    "kickoff": "2026-11-02T16:00:00.000Z",
+    "win": 0.132,
+    "draw": 0.21
+   },
+   "table": {
+    "pos": 5,
+    "p": 30,
+    "w": 11,
+    "d": 10,
+    "l": 9,
+    "gf": 44,
+    "ga": 42,
+    "pts": 43
+   }
+  },
+  {
    "club": "AC Oulu",
    "name": "AC Oulu",
    "slug": "ac-oulu",
    "div": "top",
-   "elo": 1243,
-   "change30": -61,
-   "played": 15,
+   "elo": 1237,
+   "change30": -67,
+   "played": 16,
    "form": [
-    {
-     "r": "L",
-     "opp": "Inter Turku",
-     "oppSlug": "inter-turku",
-     "gf": 0,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-18"
-    },
     {
      "r": "W",
      "opp": "KuPS",
@@ -899,10 +930,18 @@
      "ga": 3,
      "ha": "a",
      "date": "2026-10-24"
+    },
+    {
+     "r": "D",
+     "opp": "VPS",
+     "oppSlug": "vps",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-28"
     }
    ],
    "spark": [
-    1360,
     1345,
     1328,
     1293,
@@ -921,18 +960,27 @@
     1300,
     1277,
     1255,
-    1243
+    1243,
+    1237
    ],
    "rank": 10,
+   "next": {
+    "opp": "KuPS",
+    "oppSlug": "kups",
+    "ha": "h",
+    "kickoff": "2026-11-01T13:00:00.000Z",
+    "win": 0.199,
+    "draw": 0.251
+   },
    "table": {
     "pos": 4,
-    "p": 29,
+    "p": 30,
     "w": 13,
-    "d": 4,
+    "d": 5,
     "l": 12,
     "gf": 36,
     "ga": 37,
-    "pts": 43
+    "pts": 44
    }
   },
   {

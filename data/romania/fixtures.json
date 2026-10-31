@@ -1,6 +1,350 @@
 {
- "updated": "2026-10-30T07:01:12.982Z",
+ "updated": "2026-10-31T07:01:12.901Z",
  "league": "romania",
  "season": "2026-27",
- "fixtures": []
+ "fixtures": [
+  {
+   "kickoff": "2026-10-31T14:00:00.000Z",
+   "home": "Corvinul",
+   "away": "FC Arges",
+   "homeSlug": "corvinul",
+   "awaySlug": "fc-arges",
+   "homeName": "Corvinul",
+   "awayName": "FC Arges",
+   "elo": [
+    1422,
+    1374
+   ],
+   "dr": 124,
+   "H": 0.48,
+   "D": 0.294,
+   "A": 0.225,
+   "xg": [
+    1.5,
+    0.9
+   ],
+   "O25": 0.423,
+   "btts": 0.481,
+   "scores": [
+    [
+     "1-1",
+     0.144
+    ],
+    [
+     "1-0",
+     0.124
+    ],
+    [
+     "0-0",
+     0.102
+    ],
+    [
+     "2-0",
+     0.093
+    ],
+    [
+     "2-1",
+     0.088
+    ],
+    [
+     "0-1",
+     0.078
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-10-31T17:00:00.000Z",
+   "home": "Petrolul",
+   "away": "CFR Cluj",
+   "homeSlug": "petrolul",
+   "awaySlug": "cfr-cluj",
+   "homeName": "Petrolul",
+   "awayName": "CFR Cluj",
+   "elo": [
+    1410,
+    1435
+   ],
+   "dr": 40,
+   "H": 0.389,
+   "D": 0.308,
+   "A": 0.303,
+   "xg": [
+    1.3,
+    1.1
+   ],
+   "O25": 0.417,
+   "btts": 0.497,
+   "scores": [
+    [
+     "1-1",
+     0.152
+    ],
+    [
+     "1-0",
+     0.109
+    ],
+    [
+     "0-0",
+     0.103
+    ],
+    [
+     "0-1",
+     0.094
+    ],
+    [
+     "2-1",
+     0.08
+    ],
+    [
+     "2-0",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-01T13:00:00.000Z",
+   "home": "Otelul",
+   "away": "Sepsi Sf. Gheorghe",
+   "homeSlug": "otelul",
+   "awaySlug": "sepsi-sf-gheorghe",
+   "homeName": "Otelul",
+   "awayName": "Sepsi Sf. Gheorghe",
+   "elo": [
+    1352,
+    1368
+   ],
+   "dr": 51,
+   "H": 0.406,
+   "D": 0.306,
+   "A": 0.287,
+   "xg": [
+    1.3,
+    1.1
+   ],
+   "O25": 0.419,
+   "btts": 0.496,
+   "scores": [
+    [
+     "1-1",
+     0.151
+    ],
+    [
+     "1-0",
+     0.112
+    ],
+    [
+     "0-0",
+     0.103
+    ],
+    [
+     "0-1",
+     0.091
+    ],
+    [
+     "2-1",
+     0.082
+    ],
+    [
+     "2-0",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-01T15:30:00.000Z",
+   "home": "Univ. Craiova",
+   "away": "FC Botosani",
+   "homeSlug": "univ-craiova",
+   "awaySlug": "fc-botosani",
+   "homeName": "Univ. Craiova",
+   "awayName": "FC Botosani",
+   "elo": [
+    1703,
+    1418
+   ],
+   "dr": 361,
+   "H": 0.753,
+   "D": 0.174,
+   "A": 0.073,
+   "xg": [
+    2.4,
+    0.6
+   ],
+   "O25": 0.568,
+   "btts": 0.422,
+   "scores": [
+    [
+     "2-0",
+     0.137
+    ],
+    [
+     "1-0",
+     0.114
+    ],
+    [
+     "3-0",
+     0.111
+    ],
+    [
+     "1-1",
+     0.086
+    ],
+    [
+     "2-1",
+     0.084
+    ],
+    [
+     "3-1",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-01T18:30:00.000Z",
+   "home": "Dinamo Bucuresti",
+   "away": "UTA Arad",
+   "homeSlug": "dinamo-bucuresti",
+   "awaySlug": "uta-arad",
+   "homeName": "Dinamo Bucuresti",
+   "awayName": "UTA Arad",
+   "elo": [
+    1651,
+    1456
+   ],
+   "dr": 271,
+   "H": 0.654,
+   "D": 0.227,
+   "A": 0.119,
+   "xg": [
+    2,
+    0.7
+   ],
+   "O25": 0.501,
+   "btts": 0.454,
+   "scores": [
+    [
+     "2-0",
+     0.126
+    ],
+    [
+     "1-0",
+     0.124
+    ],
+    [
+     "1-1",
+     0.112
+    ],
+    [
+     "2-1",
+     0.092
+    ],
+    [
+     "3-0",
+     0.085
+    ],
+    [
+     "0-0",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-02T15:30:00.000Z",
+   "home": "FC Voluntari",
+   "away": "Farul Constanta",
+   "homeSlug": "fc-voluntari",
+   "awaySlug": "farul-constanta",
+   "homeName": "FC Voluntari",
+   "awayName": "Farul Constanta",
+   "elo": [
+    1302,
+    1447
+   ],
+   "dr": -76,
+   "H": 0.273,
+   "D": 0.301,
+   "A": 0.426,
+   "xg": [
+    1.1,
+    1.4
+   ],
+   "O25": 0.43,
+   "btts": 0.501,
+   "scores": [
+    [
+     "1-1",
+     0.148
+    ],
+    [
+     "0-1",
+     0.113
+    ],
+    [
+     "0-0",
+     0.099
+    ],
+    [
+     "1-0",
+     0.085
+    ],
+    [
+     "1-2",
+     0.085
+    ],
+    [
+     "0-2",
+     0.079
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-02T18:30:00.000Z",
+   "home": "U. Cluj",
+   "away": "FCSB",
+   "homeSlug": "u-cluj",
+   "awaySlug": "fcsb",
+   "homeName": "U. Cluj",
+   "awayName": "FCSB",
+   "elo": [
+    1532,
+    1612
+   ],
+   "dr": -9,
+   "H": 0.342,
+   "D": 0.308,
+   "A": 0.351,
+   "xg": [
+    1.2,
+    1.2
+   ],
+   "O25": 0.426,
+   "btts": 0.506,
+   "scores": [
+    [
+     "1-1",
+     0.151
+    ],
+    [
+     "0-0",
+     0.101
+    ],
+    [
+     "0-1",
+     0.101
+    ],
+    [
+     "1-0",
+     0.099
+    ],
+    [
+     "1-2",
+     0.076
+    ],
+    [
+     "2-1",
+     0.075
+    ]
+   ]
+  }
+ ]
 }

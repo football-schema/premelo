@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "league": "Veikkausliiga",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 2714,
+  "matches": 2717,
   "model": {
-   "logloss": 1.0073,
+   "logloss": 1.0076,
    "rps": 0.2067,
-   "brier": 0.6022
+   "brier": 0.6024
   },
   "elo": {
-   "logloss": 1.0078,
+   "logloss": 1.0081,
    "rps": 0.2068,
-   "brier": 0.6025
+   "brier": 0.6028
   },
   "market": {
-   "logloss": 1.0017,
+   "logloss": 1.0021,
    "rps": 0.205,
-   "brier": 0.5983
+   "brier": 0.5985
   }
  },
  "params": {
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026",
-   "matches": 170,
-   "withOdds": 170,
+   "matches": 173,
+   "withOdds": 173,
    "model": {
-    "logloss": 1.02,
-    "rps": 0.2071,
-    "brier": 0.6103
+    "logloss": 1.0248,
+    "rps": 0.2072,
+    "brier": 0.614
    },
    "market": {
-    "logloss": 1.0019,
-    "rps": 0.202,
-    "brier": 0.5992
+    "logloss": 1.0075,
+    "rps": 0.2023,
+    "brier": 0.6034
    },
    "baseline": {
-    "logloss": 1.0703,
-    "rps": 0.2245,
-    "brier": 0.6467
+    "logloss": 1.0744,
+    "rps": 0.2242,
+    "brier": 0.6495
    }
   }
  ],
@@ -393,9 +393,9 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 583,
+   "matches": 585,
    "predicted": 0.353,
-   "actual": 0.345
+   "actual": 0.344
   },
   {
    "bucket": "40-50%",
@@ -411,9 +411,9 @@
   },
   {
    "bucket": "60-70%",
-   "matches": 245,
+   "matches": 246,
    "predicted": 0.645,
-   "actual": 0.682
+   "actual": 0.679
   },
   {
    "bucket": "70-80%",

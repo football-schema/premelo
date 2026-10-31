@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:01:11.453Z",
+ "updated": "2026-10-31T07:01:11.291Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-10-25",
@@ -212,6 +212,14 @@
     1845
    ],
    "rank": 2,
+   "next": {
+    "opp": "Beveren",
+    "oppSlug": "beveren",
+    "ha": "a",
+    "kickoff": "2026-10-31T19:45:00.000Z",
+    "win": 0.644,
+    "draw": 0.216
+   },
    "table": {
     "pos": 3,
     "p": 9,
@@ -301,6 +309,14 @@
     1744
    ],
    "rank": 3,
+   "next": {
+    "opp": "Mechelen",
+    "oppSlug": "mechelen",
+    "ha": "a",
+    "kickoff": "2026-10-31T15:00:00.000Z",
+    "win": 0.506,
+    "draw": 0.256
+   },
    "table": {
     "pos": 6,
     "p": 9,
@@ -390,6 +406,14 @@
     1734
    ],
    "rank": 4,
+   "next": {
+    "opp": "Lommel SK",
+    "oppSlug": "lommel-sk",
+    "ha": "a",
+    "kickoff": "2026-11-01T17:30:00.000Z",
+    "win": 0.545,
+    "draw": 0.25
+   },
    "table": {
     "pos": 1,
     "p": 9,
@@ -479,6 +503,14 @@
     1723
    ],
    "rank": 5,
+   "next": {
+    "opp": "Westerlo",
+    "oppSlug": "westerlo",
+    "ha": "h",
+    "kickoff": "2026-10-31T19:45:00.000Z",
+    "win": 0.587,
+    "draw": 0.23
+   },
    "table": {
     "pos": 5,
     "p": 9,
@@ -568,6 +600,14 @@
     1694
    ],
    "rank": 6,
+   "next": {
+    "opp": "RAAL La Louviere",
+    "oppSlug": "raal-la-louviere",
+    "ha": "h",
+    "kickoff": "2026-11-01T18:15:00.000Z",
+    "win": 0.617,
+    "draw": 0.228
+   },
    "table": {
     "pos": 4,
     "p": 9,
@@ -657,6 +697,14 @@
     1667
    ],
    "rank": 7,
+   "next": {
+    "opp": "OH Leuven",
+    "oppSlug": "oud-heverlee-leuven",
+    "ha": "h",
+    "kickoff": "2026-11-01T15:00:00.000Z",
+    "win": 0.569,
+    "draw": 0.244
+   },
    "table": {
     "pos": 13,
     "p": 9,
@@ -746,6 +794,14 @@
     1630
    ],
    "rank": 8,
+   "next": {
+    "opp": "Anderlecht",
+    "oppSlug": "anderlecht",
+    "ha": "a",
+    "kickoff": "2026-10-31T19:45:00.000Z",
+    "win": 0.183,
+    "draw": 0.23
+   },
    "table": {
     "pos": 7,
     "p": 9,
@@ -835,6 +891,14 @@
     1626
    ],
    "rank": 9,
+   "next": {
+    "opp": "Kortrijk",
+    "oppSlug": "kortrijk",
+    "ha": "h",
+    "kickoff": "2026-10-31T17:15:00.000Z",
+    "win": 0.542,
+    "draw": 0.255
+   },
    "table": {
     "pos": 9,
     "p": 9,
@@ -1013,6 +1077,14 @@
     1595
    ],
    "rank": 11,
+   "next": {
+    "opp": "Antwerp",
+    "oppSlug": "antwerp",
+    "ha": "h",
+    "kickoff": "2026-11-01T12:30:00.000Z",
+    "win": 0.426,
+    "draw": 0.269
+   },
    "table": {
     "pos": 17,
     "p": 9,
@@ -1102,6 +1174,14 @@
     1588
    ],
    "rank": 12,
+   "next": {
+    "opp": "Cercle Brugge",
+    "oppSlug": "cercle-brugge",
+    "ha": "a",
+    "kickoff": "2026-11-01T12:30:00.000Z",
+    "win": 0.304,
+    "draw": 0.269
+   },
    "table": {
     "pos": 11,
     "p": 9,
@@ -1191,6 +1271,14 @@
     1573
    ],
    "rank": 13,
+   "next": {
+    "opp": "Union Saint-Gilloise",
+    "oppSlug": "st-gilloise",
+    "ha": "h",
+    "kickoff": "2026-10-31T19:45:00.000Z",
+    "win": 0.14,
+    "draw": 0.216
+   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -1280,6 +1368,14 @@
     1562
    ],
    "rank": 14,
+   "next": {
+    "opp": "Sint-Truiden",
+    "oppSlug": "st-truiden",
+    "ha": "a",
+    "kickoff": "2026-11-01T15:00:00.000Z",
+    "win": 0.187,
+    "draw": 0.244
+   },
    "table": {
     "pos": 16,
     "p": 9,
@@ -1369,6 +1465,14 @@
     1546
    ],
    "rank": 15,
+   "next": {
+    "opp": "Genk",
+    "oppSlug": "genk",
+    "ha": "h",
+    "kickoff": "2026-10-31T15:00:00.000Z",
+    "win": 0.238,
+    "draw": 0.256
+   },
    "table": {
     "pos": 15,
     "p": 8,
@@ -1458,6 +1562,14 @@
     1543
    ],
    "rank": 16,
+   "next": {
+    "opp": "Charleroi",
+    "oppSlug": "charleroi",
+    "ha": "a",
+    "kickoff": "2026-11-01T18:15:00.000Z",
+    "win": 0.155,
+    "draw": 0.228
+   },
    "table": {
     "pos": 14,
     "p": 9,
@@ -1536,6 +1648,14 @@
     1524
    ],
    "rank": 17,
+   "next": {
+    "opp": "Gent",
+    "oppSlug": "gent",
+    "ha": "h",
+    "kickoff": "2026-11-01T17:30:00.000Z",
+    "win": 0.205,
+    "draw": 0.25
+   },
    "table": {
     "pos": 8,
     "p": 9,
@@ -1625,6 +1745,14 @@
     1505
    ],
    "rank": 18,
+   "next": {
+    "opp": "Standard Liège",
+    "oppSlug": "standard",
+    "ha": "a",
+    "kickoff": "2026-10-31T17:15:00.000Z",
+    "win": 0.202,
+    "draw": 0.255
+   },
    "table": {
     "pos": 18,
     "p": 8,

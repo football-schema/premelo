@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:00:50.965Z",
+ "updated": "2026-10-31T07:00:50.920Z",
  "frozen": "2011-12",
  "leagues": [
   {
@@ -367,23 +367,23 @@
    "name": "Allsvenskan",
    "extra": true,
    "season": "2026",
-   "matches": 200,
-   "called": 98,
+   "matches": 208,
+   "called": 102,
    "model": {
-    "logloss": 1.0316,
-    "rps": 0.2196,
-    "brier": 0.618
+    "logloss": 1.0311,
+    "rps": 0.2179,
+    "brier": 0.6175
    },
    "market": {
-    "logloss": 1.007,
-    "rps": 0.2114,
-    "brier": 0.6004
+    "logloss": 1.0079,
+    "rps": 0.2103,
+    "brier": 0.601
    },
-   "withOdds": 200,
+   "withOdds": 208,
    "modelOnOdds": {
-    "logloss": 1.0316,
-    "rps": 0.2196,
-    "brier": 0.618
+    "logloss": 1.0311,
+    "rps": 0.2179,
+    "brier": 0.6175
    }
   },
   {
@@ -463,27 +463,46 @@
    "name": "Veikkausliiga",
    "extra": true,
    "season": "2026",
-   "matches": 170,
-   "called": 80,
+   "matches": 173,
+   "called": 81,
    "model": {
-    "logloss": 1.0457,
-    "rps": 0.2153,
-    "brier": 0.6265
+    "logloss": 1.0497,
+    "rps": 0.2151,
+    "brier": 0.6296
    },
    "market": {
-    "logloss": 1.0019,
-    "rps": 0.202,
-    "brier": 0.5992
+    "logloss": 1.0075,
+    "rps": 0.2023,
+    "brier": 0.6034
    },
-   "withOdds": 170,
+   "withOdds": 173,
    "modelOnOdds": {
-    "logloss": 1.0457,
-    "rps": 0.2153,
-    "brier": 0.6265
+    "logloss": 1.0497,
+    "rps": 0.2151,
+    "brier": 0.6296
    }
   }
  ],
  "recent": [
+  {
+   "date": "2026-10-29",
+   "league": "finland",
+   "home": "KuPS",
+   "away": "Gnistan",
+   "homeName": "KuPS",
+   "awayName": "Gnistan",
+   "homeSlug": "kups",
+   "awaySlug": "gnistan",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.622,
+    0.216,
+    0.163
+   ],
+   "result": "draw",
+   "chance": 0.216
+  },
   {
    "date": "2026-10-29",
    "league": "seriea",
@@ -505,6 +524,63 @@
   },
   {
    "date": "2026-10-29",
+   "league": "finland",
+   "home": "Inter Turku",
+   "away": "HJK",
+   "homeName": "Inter Turku",
+   "awayName": "HJK",
+   "homeSlug": "inter-turku",
+   "awaySlug": "hjk",
+   "hg": 2,
+   "ag": 4,
+   "p": [
+    0.358,
+    0.265,
+    0.377
+   ],
+   "result": "away win",
+   "chance": 0.377
+  },
+  {
+   "date": "2026-10-29",
+   "league": "sweden",
+   "home": "Kalmar",
+   "away": "GAIS",
+   "homeName": "Kalmar",
+   "awayName": "GAIS",
+   "homeSlug": "kalmar",
+   "awaySlug": "gais",
+   "hg": 0,
+   "ag": 1,
+   "p": [
+    0.331,
+    0.275,
+    0.394
+   ],
+   "result": "away win",
+   "chance": 0.394
+  },
+  {
+   "date": "2026-10-29",
+   "league": "sweden",
+   "home": "Orgryte",
+   "away": "Mjallby",
+   "homeName": "Orgryte",
+   "awayName": "Mjallby",
+   "homeSlug": "orgryte",
+   "awaySlug": "mjallby",
+   "hg": 1,
+   "ag": 2,
+   "p": [
+    0.29,
+    0.253,
+    0.457
+   ],
+   "result": "away win",
+   "chance": 0.457
+  },
+  {
+   "date": "2026-10-29",
    "league": "seriea",
    "home": "Frosinone",
    "away": "Lecce",
@@ -521,6 +597,25 @@
    ],
    "result": "home win",
    "chance": 0.539
+  },
+  {
+   "date": "2026-10-29",
+   "league": "sweden",
+   "home": "Hammarby",
+   "away": "Sirius",
+   "homeName": "Hammarby",
+   "awayName": "Sirius",
+   "homeSlug": "hammarby",
+   "awaySlug": "sirius",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.582,
+    0.205,
+    0.214
+   ],
+   "result": "home win",
+   "chance": 0.582
   },
   {
    "date": "2026-10-28",
@@ -581,6 +676,44 @@
   },
   {
    "date": "2026-10-28",
+   "league": "sweden",
+   "home": "Brommapojkarna",
+   "away": "Hacken",
+   "homeName": "Brommapojkarna",
+   "awayName": "Hacken",
+   "homeSlug": "brommapojkarna",
+   "awaySlug": "hacken",
+   "hg": 0,
+   "ag": 0,
+   "p": [
+    0.294,
+    0.22,
+    0.486
+   ],
+   "result": "draw",
+   "chance": 0.22
+  },
+  {
+   "date": "2026-10-28",
+   "league": "sweden",
+   "home": "Goteborg",
+   "away": "Djurgarden",
+   "homeName": "Goteborg",
+   "awayName": "Djurgarden",
+   "homeSlug": "goteborg",
+   "awaySlug": "djurgarden",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.248,
+    0.25,
+    0.502
+   ],
+   "result": "draw",
+   "chance": 0.25
+  },
+  {
+   "date": "2026-10-28",
    "league": "scotland",
    "home": "Hearts",
    "away": "Rangers",
@@ -597,6 +730,25 @@
    ],
    "result": "draw",
    "chance": 0.263
+  },
+  {
+   "date": "2026-10-28",
+   "league": "finland",
+   "home": "AC Oulu",
+   "away": "VPS",
+   "homeName": "AC Oulu",
+   "awayName": "VPS",
+   "homeSlug": "ac-oulu",
+   "awaySlug": "vps",
+   "hg": 0,
+   "ag": 0,
+   "p": [
+    0.374,
+    0.264,
+    0.361
+   ],
+   "result": "draw",
+   "chance": 0.264
   },
   {
    "date": "2026-10-28",
@@ -676,6 +828,25 @@
   },
   {
    "date": "2026-10-28",
+   "league": "sweden",
+   "home": "Degerfors",
+   "away": "Vasteras SK",
+   "homeName": "Degerfors",
+   "awayName": "Vasteras SK",
+   "homeSlug": "degerfors",
+   "awaySlug": "vasteras-sk",
+   "hg": 0,
+   "ag": 3,
+   "p": [
+    0.396,
+    0.262,
+    0.343
+   ],
+   "result": "away win",
+   "chance": 0.343
+  },
+  {
+   "date": "2026-10-28",
    "league": "scotland",
    "home": "Dundee",
    "away": "Kilmarnock",
@@ -714,6 +885,25 @@
   },
   {
    "date": "2026-10-28",
+   "league": "sweden",
+   "home": "Halmstad",
+   "away": "Malmo FF",
+   "homeName": "Halmstad",
+   "awayName": "Malmo FF",
+   "homeSlug": "halmstad",
+   "awaySlug": "malmo-ff",
+   "hg": 0,
+   "ag": 3,
+   "p": [
+    0.182,
+    0.242,
+    0.576
+   ],
+   "result": "away win",
+   "chance": 0.576
+  },
+  {
+   "date": "2026-10-28",
    "league": "seriea",
    "home": "Venezia",
    "away": "Inter",
@@ -730,6 +920,25 @@
    ],
    "result": "away win",
    "chance": 0.703
+  },
+  {
+   "date": "2026-10-27",
+   "league": "sweden",
+   "home": "AIK",
+   "away": "Elfsborg",
+   "homeName": "AIK",
+   "awayName": "Elfsborg",
+   "homeSlug": "aik",
+   "awaySlug": "elfsborg",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.399,
+    0.255,
+    0.347
+   ],
+   "result": "draw",
+   "chance": 0.255
   },
   {
    "date": "2026-10-27",

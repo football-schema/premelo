@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:01:12.982Z",
+ "updated": "2026-10-31T07:01:12.901Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-26",
@@ -123,6 +123,14 @@
     1703
    ],
    "rank": 1,
+   "next": {
+    "opp": "FC Botosani",
+    "oppSlug": "fc-botosani",
+    "ha": "h",
+    "kickoff": "2026-11-01T15:30:00.000Z",
+    "win": 0.753,
+    "draw": 0.174
+   },
    "table": {
     "pos": 2,
     "p": 13,
@@ -212,6 +220,14 @@
     1651
    ],
    "rank": 2,
+   "next": {
+    "opp": "UTA Arad",
+    "oppSlug": "uta-arad",
+    "ha": "h",
+    "kickoff": "2026-11-01T18:30:00.000Z",
+    "win": 0.654,
+    "draw": 0.227
+   },
    "table": {
     "pos": 1,
     "p": 13,
@@ -301,6 +317,14 @@
     1612
    ],
    "rank": 3,
+   "next": {
+    "opp": "U. Cluj",
+    "oppSlug": "u-cluj",
+    "ha": "a",
+    "kickoff": "2026-11-02T18:30:00.000Z",
+    "win": 0.351,
+    "draw": 0.308
+   },
    "table": {
     "pos": 6,
     "p": 13,
@@ -479,6 +503,14 @@
     1532
    ],
    "rank": 5,
+   "next": {
+    "opp": "FCSB",
+    "oppSlug": "fcsb",
+    "ha": "h",
+    "kickoff": "2026-11-02T18:30:00.000Z",
+    "win": 0.342,
+    "draw": 0.308
+   },
    "table": {
     "pos": 5,
     "p": 13,
@@ -568,6 +600,14 @@
     1456
    ],
    "rank": 6,
+   "next": {
+    "opp": "Dinamo Bucuresti",
+    "oppSlug": "dinamo-bucuresti",
+    "ha": "a",
+    "kickoff": "2026-11-01T18:30:00.000Z",
+    "win": 0.119,
+    "draw": 0.227
+   },
    "table": {
     "pos": 8,
     "p": 13,
@@ -657,6 +697,14 @@
     1447
    ],
    "rank": 7,
+   "next": {
+    "opp": "FC Voluntari",
+    "oppSlug": "fc-voluntari",
+    "ha": "a",
+    "kickoff": "2026-11-02T15:30:00.000Z",
+    "win": 0.426,
+    "draw": 0.301
+   },
    "table": {
     "pos": 7,
     "p": 13,
@@ -746,6 +794,14 @@
     1435
    ],
    "rank": 8,
+   "next": {
+    "opp": "Petrolul",
+    "oppSlug": "petrolul",
+    "ha": "a",
+    "kickoff": "2026-10-31T17:00:00.000Z",
+    "win": 0.303,
+    "draw": 0.308
+   },
    "table": {
     "pos": 9,
     "p": 13,
@@ -834,6 +890,14 @@
     1422
    ],
    "rank": 9,
+   "next": {
+    "opp": "FC Arges",
+    "oppSlug": "fc-arges",
+    "ha": "h",
+    "kickoff": "2026-10-31T14:00:00.000Z",
+    "win": 0.48,
+    "draw": 0.294
+   },
    "table": {
     "pos": 10,
     "p": 13,
@@ -923,6 +987,14 @@
     1418
    ],
    "rank": 10,
+   "next": {
+    "opp": "Univ. Craiova",
+    "oppSlug": "univ-craiova",
+    "ha": "a",
+    "kickoff": "2026-11-01T15:30:00.000Z",
+    "win": 0.073,
+    "draw": 0.174
+   },
    "table": {
     "pos": 11,
     "p": 13,
@@ -1012,6 +1084,14 @@
     1410
    ],
    "rank": 11,
+   "next": {
+    "opp": "CFR Cluj",
+    "oppSlug": "cfr-cluj",
+    "ha": "h",
+    "kickoff": "2026-10-31T17:00:00.000Z",
+    "win": 0.389,
+    "draw": 0.308
+   },
    "table": {
     "pos": 4,
     "p": 13,
@@ -1101,6 +1181,14 @@
     1374
    ],
    "rank": 12,
+   "next": {
+    "opp": "Corvinul",
+    "oppSlug": "corvinul",
+    "ha": "a",
+    "kickoff": "2026-10-31T14:00:00.000Z",
+    "win": 0.225,
+    "draw": 0.294
+   },
    "table": {
     "pos": 13,
     "p": 13,
@@ -1190,6 +1278,14 @@
     1368
    ],
    "rank": 13,
+   "next": {
+    "opp": "Otelul",
+    "oppSlug": "otelul",
+    "ha": "a",
+    "kickoff": "2026-11-01T13:00:00.000Z",
+    "win": 0.287,
+    "draw": 0.306
+   },
    "table": {
     "pos": 12,
     "p": 13,
@@ -1279,6 +1375,14 @@
     1352
    ],
    "rank": 14,
+   "next": {
+    "opp": "Sepsi Sf. Gheorghe",
+    "oppSlug": "sepsi-sf-gheorghe",
+    "ha": "h",
+    "kickoff": "2026-11-01T13:00:00.000Z",
+    "win": 0.406,
+    "draw": 0.306
+   },
    "table": {
     "pos": 14,
     "p": 13,
@@ -1368,6 +1472,14 @@
     1302
    ],
    "rank": 15,
+   "next": {
+    "opp": "Farul Constanta",
+    "oppSlug": "farul-constanta",
+    "ha": "h",
+    "kickoff": "2026-11-02T15:30:00.000Z",
+    "win": 0.273,
+    "draw": 0.301
+   },
    "table": {
     "pos": 15,
     "p": 13,

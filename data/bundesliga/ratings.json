@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:01:07.283Z",
+ "updated": "2026-10-31T07:01:07.215Z",
  "league": "bundesliga",
  "name": "Bundesliga",
  "through": "2026-10-25",
@@ -136,6 +136,14 @@
     2167
    ],
    "rank": 1,
+   "next": {
+    "opp": "Borussia Dortmund",
+    "oppSlug": "dortmund",
+    "ha": "h",
+    "kickoff": "2026-10-31T17:30:00.000Z",
+    "win": 0.715,
+    "draw": 0.177
+   },
    "table": {
     "pos": 1,
     "p": 7,
@@ -251,6 +259,14 @@
     1962
    ],
    "rank": 2,
+   "next": {
+    "opp": "VfB Stuttgart",
+    "oppSlug": "stuttgart",
+    "ha": "h",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.505,
+    "draw": 0.247
+   },
    "table": {
     "pos": 4,
     "p": 7,
@@ -366,6 +382,14 @@
     1947
    ],
    "rank": 3,
+   "next": {
+    "opp": "Bayern Munich",
+    "oppSlug": "bayern-munich",
+    "ha": "a",
+    "kickoff": "2026-10-31T17:30:00.000Z",
+    "win": 0.108,
+    "draw": 0.177
+   },
    "table": {
     "pos": 2,
     "p": 7,
@@ -481,6 +505,14 @@
     1890
    ],
    "rank": 4,
+   "next": {
+    "opp": "Bayer Leverkusen",
+    "oppSlug": "leverkusen",
+    "ha": "a",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.249,
+    "draw": 0.247
+   },
    "table": {
     "pos": 15,
     "p": 7,
@@ -596,6 +628,14 @@
     1861
    ],
    "rank": 5,
+   "next": {
+    "opp": "Schalke 04",
+    "oppSlug": "schalke-04",
+    "ha": "a",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.485,
+    "draw": 0.261
+   },
    "table": {
     "pos": 5,
     "p": 7,
@@ -711,6 +751,14 @@
     1858
    ],
    "rank": 6,
+   "next": {
+    "opp": "Werder Bremen",
+    "oppSlug": "werder-bremen",
+    "ha": "a",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.434,
+    "draw": 0.261
+   },
    "table": {
     "pos": 10,
     "p": 7,
@@ -941,6 +989,14 @@
     1810
    ],
    "rank": 8,
+   "next": {
+    "opp": "FC Augsburg",
+    "oppSlug": "augsburg",
+    "ha": "a",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.387,
+    "draw": 0.27
+   },
    "table": {
     "pos": 3,
     "p": 7,
@@ -1056,6 +1112,14 @@
     1767
    ],
    "rank": 9,
+   "next": {
+    "opp": "Hamburger SV",
+    "oppSlug": "hamburg",
+    "ha": "h",
+    "kickoff": "2026-11-01T16:30:00.000Z",
+    "win": 0.566,
+    "draw": 0.234
+   },
    "table": {
     "pos": 14,
     "p": 7,
@@ -1171,6 +1235,14 @@
     1763
    ],
    "rank": 10,
+   "next": {
+    "opp": "Hoffenheim",
+    "oppSlug": "hoffenheim",
+    "ha": "h",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.305,
+    "draw": 0.261
+   },
    "table": {
     "pos": 6,
     "p": 7,
@@ -1286,6 +1358,14 @@
     1723
    ],
    "rank": 11,
+   "next": {
+    "opp": "Union Berlin",
+    "oppSlug": "union-berlin",
+    "ha": "a",
+    "kickoff": "2026-11-01T14:30:00.000Z",
+    "win": 0.361,
+    "draw": 0.279
+   },
    "table": {
     "pos": 12,
     "p": 7,
@@ -1401,6 +1481,14 @@
     1714
    ],
    "rank": 12,
+   "next": {
+    "opp": "SC Freiburg",
+    "oppSlug": "freiburg",
+    "ha": "h",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.343,
+    "draw": 0.27
+   },
    "table": {
     "pos": 9,
     "p": 7,
@@ -1516,6 +1604,14 @@
     1711
    ],
    "rank": 13,
+   "next": {
+    "opp": "RB Leipzig",
+    "oppSlug": "rb-leipzig",
+    "ha": "h",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.254,
+    "draw": 0.261
+   },
    "table": {
     "pos": 16,
     "p": 7,
@@ -1861,6 +1957,14 @@
     1676
    ],
    "rank": 15,
+   "next": {
+    "opp": "Paderborn",
+    "oppSlug": "paderborn",
+    "ha": "h",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.502,
+    "draw": 0.253
+   },
    "table": {
     "pos": 18,
     "p": 7,
@@ -2091,6 +2195,14 @@
     1671
    ],
    "rank": 16,
+   "next": {
+    "opp": "Borussia M'gladbach",
+    "oppSlug": "m-gladbach",
+    "ha": "a",
+    "kickoff": "2026-10-31T14:30:00.000Z",
+    "win": 0.246,
+    "draw": 0.253
+   },
    "table": {
     "pos": 13,
     "p": 7,
@@ -2206,6 +2318,14 @@
     1669
    ],
    "rank": 17,
+   "next": {
+    "opp": "Eintracht Frankfurt",
+    "oppSlug": "ein-frankfurt",
+    "ha": "a",
+    "kickoff": "2026-11-01T16:30:00.000Z",
+    "win": 0.199,
+    "draw": 0.234
+   },
    "table": {
     "pos": 11,
     "p": 7,
@@ -2321,6 +2441,14 @@
     1637
    ],
    "rank": 18,
+   "next": {
+    "opp": "1. FC Köln",
+    "oppSlug": "fc-koln",
+    "ha": "h",
+    "kickoff": "2026-11-01T14:30:00.000Z",
+    "win": 0.359,
+    "draw": 0.279
+   },
    "table": {
     "pos": 17,
     "p": 7,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:01:10.822Z",
+ "updated": "2026-10-31T07:01:10.655Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-10-26",
@@ -130,6 +130,14 @@
     2016
    ],
    "rank": 1,
+   "next": {
+    "opp": "Alverca",
+    "oppSlug": "alverca",
+    "ha": "h",
+    "kickoff": "2026-11-02T20:15:00.000Z",
+    "win": 0.85,
+    "draw": 0.11
+   },
    "table": {
     "pos": 2,
     "p": 9,
@@ -245,6 +253,14 @@
     1924
    ],
    "rank": 2,
+   "next": {
+    "opp": "Estoril",
+    "oppSlug": "estoril",
+    "ha": "h",
+    "kickoff": "2026-10-31T20:30:00.000Z",
+    "win": 0.85,
+    "draw": 0.111
+   },
    "table": {
     "pos": 1,
     "p": 9,
@@ -475,6 +491,14 @@
     1757
    ],
    "rank": 4,
+   "next": {
+    "opp": "Famalicão",
+    "oppSlug": "famalicao",
+    "ha": "h",
+    "kickoff": "2026-11-01T20:30:00.000Z",
+    "win": 0.514,
+    "draw": 0.269
+   },
    "table": {
     "pos": 9,
     "p": 9,
@@ -590,6 +614,14 @@
     1673
    ],
    "rank": 5,
+   "next": {
+    "opp": "Braga",
+    "oppSlug": "sp-braga",
+    "ha": "a",
+    "kickoff": "2026-11-01T20:30:00.000Z",
+    "win": 0.217,
+    "draw": 0.269
+   },
    "table": {
     "pos": 11,
     "p": 9,
@@ -705,6 +737,14 @@
     1668
    ],
    "rank": 6,
+   "next": {
+    "opp": "Gil Vicente",
+    "oppSlug": "gil-vicente",
+    "ha": "a",
+    "kickoff": "2026-11-02T20:15:00.000Z",
+    "win": 0.362,
+    "draw": 0.301
+   },
    "table": {
     "pos": 13,
     "p": 9,
@@ -820,6 +860,14 @@
     1634
    ],
    "rank": 7,
+   "next": {
+    "opp": "Marítimo",
+    "oppSlug": "maritimo",
+    "ha": "a",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "win": 0.41,
+    "draw": 0.299
+   },
    "table": {
     "pos": 4,
     "p": 9,
@@ -935,6 +983,14 @@
     1608
    ],
    "rank": 8,
+   "next": {
+    "opp": "Vitória SC",
+    "oppSlug": "guimaraes",
+    "ha": "h",
+    "kickoff": "2026-11-02T20:15:00.000Z",
+    "win": 0.337,
+    "draw": 0.301
+   },
    "table": {
     "pos": 7,
     "p": 9,
@@ -1050,6 +1106,14 @@
     1599
    ],
    "rank": 9,
+   "next": {
+    "opp": "Benfica",
+    "oppSlug": "benfica",
+    "ha": "a",
+    "kickoff": "2026-11-02T20:15:00.000Z",
+    "win": 0.04,
+    "draw": 0.11
+   },
    "table": {
     "pos": 8,
     "p": 9,
@@ -1165,6 +1229,14 @@
     1588
    ],
    "rank": 10,
+   "next": {
+    "opp": "Nacional",
+    "oppSlug": "nacional",
+    "ha": "h",
+    "kickoff": "2026-11-01T15:30:00.000Z",
+    "win": 0.531,
+    "draw": 0.261
+   },
    "table": {
     "pos": 5,
     "p": 9,
@@ -1269,6 +1341,14 @@
     1585
    ],
    "rank": 11,
+   "next": {
+    "opp": "Rio Ave",
+    "oppSlug": "rio-ave",
+    "ha": "h",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "win": 0.483,
+    "draw": 0.276
+   },
    "table": {
     "pos": 6,
     "p": 9,
@@ -1384,6 +1464,14 @@
     1544
    ],
    "rank": 12,
+   "next": {
+    "opp": "Moreirense",
+    "oppSlug": "moreirense",
+    "ha": "a",
+    "kickoff": "2026-10-31T15:30:00.000Z",
+    "win": 0.383,
+    "draw": 0.296
+   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -1499,6 +1587,14 @@
     1535
    ],
    "rank": 13,
+   "next": {
+    "opp": "Porto",
+    "oppSlug": "porto",
+    "ha": "a",
+    "kickoff": "2026-10-31T20:30:00.000Z",
+    "win": 0.039,
+    "draw": 0.111
+   },
    "table": {
     "pos": 18,
     "p": 9,
@@ -1614,6 +1710,14 @@
     1513
    ],
    "rank": 14,
+   "next": {
+    "opp": "Santa Clara",
+    "oppSlug": "santa-clara",
+    "ha": "h",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "win": 0.291,
+    "draw": 0.299
+   },
    "table": {
     "pos": 14,
     "p": 9,
@@ -1729,6 +1833,14 @@
     1504
    ],
    "rank": 15,
+   "next": {
+    "opp": "Academico Viseu",
+    "oppSlug": "academico-viseu",
+    "ha": "a",
+    "kickoff": "2026-11-01T18:00:00.000Z",
+    "win": 0.241,
+    "draw": 0.276
+   },
    "table": {
     "pos": 17,
     "p": 9,
@@ -1844,6 +1956,14 @@
     1482
    ],
    "rank": 16,
+   "next": {
+    "opp": "Arouca",
+    "oppSlug": "arouca",
+    "ha": "a",
+    "kickoff": "2026-11-01T15:30:00.000Z",
+    "win": 0.208,
+    "draw": 0.261
+   },
    "table": {
     "pos": 15,
     "p": 9,
@@ -1959,6 +2079,14 @@
     1478
    ],
    "rank": 17,
+   "next": {
+    "opp": "Estrela da Amadora",
+    "oppSlug": "estrela",
+    "ha": "h",
+    "kickoff": "2026-10-31T15:30:00.000Z",
+    "win": 0.322,
+    "draw": 0.296
+   },
    "table": {
     "pos": 10,
     "p": 9,
