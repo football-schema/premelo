@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:12.895Z",
+ "updated": "2026-11-01T07:01:15.154Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-25",
@@ -129,14 +129,6 @@
     1704
    ],
    "rank": 1,
-   "next": {
-    "opp": "Wisla",
-    "oppSlug": "wisla",
-    "ha": "h",
-    "kickoff": "2026-10-31T16:30:00.000Z",
-    "win": 0.561,
-    "draw": 0.24
-   },
    "table": {
     "pos": 1,
     "p": 11,
@@ -482,14 +474,6 @@
     1625
    ],
    "rank": 4,
-   "next": {
-    "opp": "Lech Poznan",
-    "oppSlug": "lech-poznan",
-    "ha": "a",
-    "kickoff": "2026-10-31T16:30:00.000Z",
-    "win": 0.199,
-    "draw": 0.24
-   },
    "table": {
     "pos": 5,
     "p": 12,
@@ -597,14 +581,6 @@
     1572
    ],
    "rank": 5,
-   "next": {
-    "opp": "Jagiellonia",
-    "oppSlug": "jagiellonia",
-    "ha": "h",
-    "kickoff": "2026-10-31T13:45:00.000Z",
-    "win": 0.457,
-    "draw": 0.265
-   },
    "table": {
     "pos": 16,
     "p": 12,
@@ -720,14 +696,6 @@
     1568
    ],
    "rank": 6,
-   "next": {
-    "opp": "GKS Katowice",
-    "oppSlug": "gks-katowice",
-    "ha": "a",
-    "kickoff": "2026-10-31T19:15:00.000Z",
-    "win": 0.286,
-    "draw": 0.279
-   },
    "table": {
     "pos": 14,
     "p": 12,
@@ -966,14 +934,6 @@
     1558
    ],
    "rank": 8,
-   "next": {
-    "opp": "Widzew Lodz",
-    "oppSlug": "widzew-lodz",
-    "ha": "h",
-    "kickoff": "2026-10-31T19:15:00.000Z",
-    "win": 0.435,
-    "draw": 0.279
-   },
    "table": {
     "pos": 8,
     "p": 12,
@@ -1204,14 +1164,6 @@
     1553
    ],
    "rank": 10,
-   "next": {
-    "opp": "Wieczysta Krakow",
-    "oppSlug": "wieczysta-krakow",
-    "ha": "a",
-    "kickoff": "2026-10-31T13:45:00.000Z",
-    "win": 0.278,
-    "draw": 0.265
-   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -1688,14 +1640,6 @@
     1518
    ],
    "rank": 14,
-   "next": {
-    "opp": "Piast Gliwice",
-    "oppSlug": "piast-gliwice",
-    "ha": "h",
-    "kickoff": "2026-10-31T11:15:00.000Z",
-    "win": 0.444,
-    "draw": 0.285
-   },
    "table": {
     "pos": 11,
     "p": 11,
@@ -1934,14 +1878,6 @@
     1502
    ],
    "rank": 16,
-   "next": {
-    "opp": "Wisla Plock",
-    "oppSlug": "wisla-plock",
-    "ha": "a",
-    "kickoff": "2026-10-31T11:15:00.000Z",
-    "win": 0.271,
-    "draw": 0.285
-   },
    "table": {
     "pos": 6,
     "p": 12,

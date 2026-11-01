@@ -1,57 +1,8 @@
 {
- "updated": "2026-10-31T07:01:12.075Z",
+ "updated": "2026-11-01T07:01:14.336Z",
  "league": "superleague",
  "season": "2026-27",
  "fixtures": [
-  {
-   "kickoff": "2026-10-31T17:00:00.000Z",
-   "home": "Kifisia",
-   "away": "Olympiakos",
-   "homeSlug": "kifisia",
-   "awaySlug": "olympiakos",
-   "homeName": "Kifisia",
-   "awayName": "Olympiacos",
-   "elo": [
-    1420,
-    1770
-   ],
-   "dr": -284,
-   "H": 0.102,
-   "D": 0.209,
-   "A": 0.689,
-   "xg": [
-    0.6,
-    2
-   ],
-   "O25": 0.491,
-   "btts": 0.413,
-   "scores": [
-    [
-     "0-2",
-     0.14
-    ],
-    [
-     "0-1",
-     0.137
-    ],
-    [
-     "1-1",
-     0.1
-    ],
-    [
-     "0-3",
-     0.096
-    ],
-    [
-     "1-2",
-     0.089
-    ],
-    [
-     "0-0",
-     0.077
-    ]
-   ]
-  },
   {
    "kickoff": "2026-11-01T15:00:00.000Z",
    "home": "Levadiakos",

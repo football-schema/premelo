@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:10.031Z",
+ "updated": "2026-11-01T07:01:12.377Z",
  "league": "ligue1",
  "name": "Ligue 1",
  "through": "2026-10-26",
@@ -2170,14 +2170,6 @@
     1603
    ],
    "rank": 17,
-   "next": {
-    "opp": "Troyes",
-    "oppSlug": "troyes",
-    "ha": "a",
-    "kickoff": "2026-10-31T19:45:00.000Z",
-    "win": 0.288,
-    "draw": 0.295
-   },
    "table": {
     "pos": 15,
     "p": 8,
@@ -2293,14 +2285,6 @@
     1594
    ],
    "rank": 18,
-   "next": {
-    "opp": "Le Mans",
-    "oppSlug": "le-mans",
-    "ha": "h",
-    "kickoff": "2026-10-31T19:45:00.000Z",
-    "win": 0.418,
-    "draw": 0.295
-   },
    "table": {
     "pos": 17,
     "p": 8,

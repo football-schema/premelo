@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:12.065Z",
+ "updated": "2026-11-01T07:01:14.328Z",
  "league": "scotland",
  "name": "Scottish Premiership",
  "through": "2026-10-28",
@@ -664,14 +664,6 @@
     1400
    ],
    "rank": 7,
-   "next": {
-    "opp": "St Mirren",
-    "oppSlug": "st-mirren",
-    "ha": "h",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.507,
-    "draw": 0.261
-   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -858,14 +850,6 @@
     1366
    ],
    "rank": 9,
-   "next": {
-    "opp": "Kilmarnock",
-    "oppSlug": "kilmarnock",
-    "ha": "a",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.35,
-    "draw": 0.281
-   },
    "table": {
     "pos": 8,
     "p": 11,
@@ -1044,14 +1028,6 @@
     1351
    ],
    "rank": 11,
-   "next": {
-    "opp": "Motherwell",
-    "oppSlug": "motherwell",
-    "ha": "a",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.232,
-    "draw": 0.261
-   },
    "table": {
     "pos": 7,
     "p": 11,
@@ -1319,14 +1295,6 @@
     1296
    ],
    "rank": 12,
-   "next": {
-    "opp": "St Johnstone",
-    "oppSlug": "st-johnstone",
-    "ha": "h",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.369,
-    "draw": 0.281
-   },
    "table": {
     "pos": 12,
     "p": 11,

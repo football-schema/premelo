@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:12.075Z",
+ "updated": "2026-11-01T07:01:14.336Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-10-25",
@@ -220,14 +220,6 @@
     1770
    ],
    "rank": 2,
-   "next": {
-    "opp": "Kifisia",
-    "oppSlug": "kifisia",
-    "ha": "a",
-    "kickoff": "2026-10-31T17:00:00.000Z",
-    "win": 0.689,
-    "draw": 0.209
-   },
    "table": {
     "pos": 2,
     "p": 8,
@@ -705,14 +697,6 @@
     1420
    ],
    "rank": 7,
-   "next": {
-    "opp": "Olympiacos",
-    "oppSlug": "olympiakos",
-    "ha": "h",
-    "kickoff": "2026-10-31T17:00:00.000Z",
-    "win": 0.102,
-    "draw": 0.209
-   },
    "table": {
     "pos": 7,
     "p": 8,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:12.052Z",
+ "updated": "2026-11-01T07:01:14.314Z",
  "league": "superlig",
  "name": "Süper Lig",
  "through": "2026-10-26",
@@ -368,14 +368,6 @@
     1808
    ],
    "rank": 3,
-   "next": {
-    "opp": "Göztepe",
-    "oppSlug": "goztep",
-    "ha": "h",
-    "kickoff": "2026-10-31T16:00:00.000Z",
-    "win": 0.695,
-    "draw": 0.19
-   },
    "table": {
     "pos": 5,
     "p": 9,
@@ -726,14 +718,6 @@
     1627
    ],
    "rank": 6,
-   "next": {
-    "opp": "Fenerbahçe",
-    "oppSlug": "fenerbahce",
-    "ha": "a",
-    "kickoff": "2026-10-31T16:00:00.000Z",
-    "win": 0.115,
-    "draw": 0.19
-   },
    "table": {
     "pos": 10,
     "p": 9,
@@ -838,14 +822,6 @@
     1606
    ],
    "rank": 7,
-   "next": {
-    "opp": "Erzurumspor",
-    "oppSlug": "erzurumspor",
-    "ha": "a",
-    "kickoff": "2026-10-31T10:30:00.000Z",
-    "win": 0.359,
-    "draw": 0.284
-   },
    "table": {
     "pos": 9,
     "p": 9,
@@ -1084,14 +1060,6 @@
     1564
    ],
    "rank": 9,
-   "next": {
-    "opp": "Kocaelispor",
-    "oppSlug": "kocaelispor",
-    "ha": "a",
-    "kickoff": "2026-10-31T13:00:00.000Z",
-    "win": 0.338,
-    "draw": 0.287
-   },
    "table": {
     "pos": 13,
     "p": 9,
@@ -1445,14 +1413,6 @@
     1537
    ],
    "rank": 12,
-   "next": {
-    "opp": "Corum",
-    "oppSlug": "corum",
-    "ha": "h",
-    "kickoff": "2026-10-31T10:30:00.000Z",
-    "win": 0.358,
-    "draw": 0.284
-   },
    "table": {
     "pos": 8,
     "p": 9,
@@ -1814,14 +1774,6 @@
     1506
    ],
    "rank": 15,
-   "next": {
-    "opp": "Rizespor",
-    "oppSlug": "rizespor",
-    "ha": "h",
-    "kickoff": "2026-10-31T13:00:00.000Z",
-    "win": 0.375,
-    "draw": 0.287
-   },
    "table": {
     "pos": 7,
     "p": 9,

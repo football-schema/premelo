@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:11.291Z",
+ "updated": "2026-11-01T07:01:13.658Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-10-25",
@@ -212,14 +212,6 @@
     1845
    ],
    "rank": 2,
-   "next": {
-    "opp": "Beveren",
-    "oppSlug": "beveren",
-    "ha": "a",
-    "kickoff": "2026-10-31T19:45:00.000Z",
-    "win": 0.644,
-    "draw": 0.216
-   },
    "table": {
     "pos": 3,
     "p": 9,
@@ -309,14 +301,6 @@
     1744
    ],
    "rank": 3,
-   "next": {
-    "opp": "Mechelen",
-    "oppSlug": "mechelen",
-    "ha": "a",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.506,
-    "draw": 0.256
-   },
    "table": {
     "pos": 6,
     "p": 9,
@@ -503,14 +487,6 @@
     1723
    ],
    "rank": 5,
-   "next": {
-    "opp": "Westerlo",
-    "oppSlug": "westerlo",
-    "ha": "h",
-    "kickoff": "2026-10-31T19:45:00.000Z",
-    "win": 0.587,
-    "draw": 0.23
-   },
    "table": {
     "pos": 5,
     "p": 9,
@@ -794,14 +770,6 @@
     1630
    ],
    "rank": 8,
-   "next": {
-    "opp": "Anderlecht",
-    "oppSlug": "anderlecht",
-    "ha": "a",
-    "kickoff": "2026-10-31T19:45:00.000Z",
-    "win": 0.183,
-    "draw": 0.23
-   },
    "table": {
     "pos": 7,
     "p": 9,
@@ -891,14 +859,6 @@
     1626
    ],
    "rank": 9,
-   "next": {
-    "opp": "Kortrijk",
-    "oppSlug": "kortrijk",
-    "ha": "h",
-    "kickoff": "2026-10-31T17:15:00.000Z",
-    "win": 0.542,
-    "draw": 0.255
-   },
    "table": {
     "pos": 9,
     "p": 9,
@@ -1271,14 +1231,6 @@
     1573
    ],
    "rank": 13,
-   "next": {
-    "opp": "Union Saint-Gilloise",
-    "oppSlug": "st-gilloise",
-    "ha": "h",
-    "kickoff": "2026-10-31T19:45:00.000Z",
-    "win": 0.14,
-    "draw": 0.216
-   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -1465,14 +1417,6 @@
     1546
    ],
    "rank": 15,
-   "next": {
-    "opp": "Genk",
-    "oppSlug": "genk",
-    "ha": "h",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.238,
-    "draw": 0.256
-   },
    "table": {
     "pos": 15,
     "p": 8,
@@ -1745,14 +1689,6 @@
     1505
    ],
    "rank": 18,
-   "next": {
-    "opp": "Standard Liège",
-    "oppSlug": "standard",
-    "ha": "a",
-    "kickoff": "2026-10-31T17:15:00.000Z",
-    "win": 0.202,
-    "draw": 0.255
-   },
    "table": {
     "pos": 18,
     "p": 8,

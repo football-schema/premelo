@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:12.263Z",
+ "updated": "2026-11-01T07:01:14.522Z",
  "league": "norway",
  "name": "Eliteserien",
  "through": "2026-10-25",
@@ -356,14 +356,6 @@
     1682
    ],
    "rank": 3,
-   "next": {
-    "opp": "Fredrikstad",
-    "oppSlug": "fredrikstad",
-    "ha": "a",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.534,
-    "draw": 0.245
-   },
    "table": {
     "pos": 4,
     "p": 24,
@@ -1203,14 +1195,6 @@
     1496
    ],
    "rank": 10,
-   "next": {
-    "opp": "Sandefjord",
-    "oppSlug": "sandefjord",
-    "ha": "h",
-    "kickoff": "2026-10-31T17:00:00.000Z",
-    "win": 0.484,
-    "draw": 0.253
-   },
    "table": {
     "pos": 14,
     "p": 24,
@@ -1324,14 +1308,6 @@
     1492
    ],
    "rank": 11,
-   "next": {
-    "opp": "Rosenborg",
-    "oppSlug": "rosenborg",
-    "ha": "h",
-    "kickoff": "2026-10-31T15:00:00.000Z",
-    "win": 0.222,
-    "draw": 0.245
-   },
    "table": {
     "pos": 11,
     "p": 24,
@@ -1445,14 +1421,6 @@
     1468
    ],
    "rank": 12,
-   "next": {
-    "opp": "Aalesund",
-    "oppSlug": "aalesund",
-    "ha": "a",
-    "kickoff": "2026-10-31T17:00:00.000Z",
-    "win": 0.263,
-    "draw": 0.253
-   },
    "table": {
     "pos": 13,
     "p": 24,

@@ -26,9 +26,9 @@
   <polyline points="820.0,377.5 835.3,378.1 850.5,377.4 865.8,377.4 881.1,383.4 896.3,384.2 911.6,389.9 926.8,390.0 942.1,389.1 957.4,383.8 972.6,376.6 987.9,377.5 1003.2,376.5 1018.4,373.7 1033.7,371.0 1048.9,368.0 1064.2,368.8 1079.5,369.5 1094.7,369.7 1110.0,370.8" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="370.8" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="412" y2="412" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="443" fill="#617067">4</text><text x="122" y="443" fill="#17251e" font-weight="600">Manchester City <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2156</text>
-  <text x="760" y="443" fill="#b54439" text-anchor="end">−12</text>
-  <polyline points="820.0,439.0 835.3,432.0 850.5,427.0 865.8,422.4 881.1,418.3 896.3,418.1 911.6,421.1 926.8,417.0 942.1,417.4 957.4,421.1 972.6,422.0 987.9,425.7 1003.2,423.3 1018.4,422.9 1033.7,423.1 1048.9,418.3 1064.2,423.3 1079.5,425.7 1094.7,425.1 1110.0,425.7" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="425.7" r="5" fill="#167451"/>
+  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2150</text>
+  <text x="760" y="443" fill="#b54439" text-anchor="end">−18</text>
+  <polyline points="820.0,439.0 835.3,431.7 850.5,425.0 865.8,418.9 881.1,418.6 896.3,423.1 911.6,417.0 926.8,417.6 942.1,423.1 957.4,424.3 972.6,429.8 987.9,426.2 1003.2,425.6 1018.4,425.9 1033.7,418.9 1048.9,426.2 1064.2,429.8 1079.5,428.8 1094.7,429.8 1110.0,431.7" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="431.7" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="461" y2="461" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="492" fill="#617067">5</text><text x="122" y="492" fill="#17251e" font-weight="600">Paris Saint-Germain <tspan fill="#617067" font-size="20" font-weight="normal">Ligue 1</tspan></text>
   <text x="640" y="492" fill="#17251e" font-weight="bold" text-anchor="end">2117</text>
@@ -41,5 +41,5 @@
   <polyline points="820.0,535.2 835.3,535.4 850.5,535.2 865.8,535.5 881.1,535.9 896.3,536.8 911.6,537.0 926.8,532.4 942.1,528.9 957.4,526.0 972.6,523.1 987.9,521.6 1003.2,519.8 1018.4,517.2 1033.7,517.9 1048.9,519.0 1064.2,515.5 1079.5,515.5 1094.7,515.0 1110.0,515.9" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="515.9" r="5" fill="#167451"/>
   
   </g>
-  <text x="80" y="606" font-size="19" fill="#617067">Through 29 October 2026 · chances for every coming match · tested against the bookmakers</text>
+  <text x="80" y="606" font-size="19" fill="#617067">Through 31 October 2026 · chances for every coming match · tested against the bookmakers</text>
 </svg>

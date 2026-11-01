@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:10.655Z",
+ "updated": "2026-11-01T07:01:13.009Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-10-26",
@@ -253,14 +253,6 @@
     1924
    ],
    "rank": 2,
-   "next": {
-    "opp": "Estoril",
-    "oppSlug": "estoril",
-    "ha": "h",
-    "kickoff": "2026-10-31T20:30:00.000Z",
-    "win": 0.85,
-    "draw": 0.111
-   },
    "table": {
     "pos": 1,
     "p": 9,
@@ -1464,14 +1456,6 @@
     1544
    ],
    "rank": 12,
-   "next": {
-    "opp": "Moreirense",
-    "oppSlug": "moreirense",
-    "ha": "a",
-    "kickoff": "2026-10-31T15:30:00.000Z",
-    "win": 0.383,
-    "draw": 0.296
-   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -1587,14 +1571,6 @@
     1535
    ],
    "rank": 13,
-   "next": {
-    "opp": "Porto",
-    "oppSlug": "porto",
-    "ha": "a",
-    "kickoff": "2026-10-31T20:30:00.000Z",
-    "win": 0.039,
-    "draw": 0.111
-   },
    "table": {
     "pos": 18,
     "p": 9,
@@ -2079,14 +2055,6 @@
     1478
    ],
    "rank": 17,
-   "next": {
-    "opp": "Estrela da Amadora",
-    "oppSlug": "estrela",
-    "ha": "h",
-    "kickoff": "2026-10-31T15:30:00.000Z",
-    "win": 0.322,
-    "draw": 0.296
-   },
    "table": {
     "pos": 10,
     "p": 9,

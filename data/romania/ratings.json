@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:12.901Z",
+ "updated": "2026-11-01T07:01:15.160Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-26",
@@ -794,14 +794,6 @@
     1435
    ],
    "rank": 8,
-   "next": {
-    "opp": "Petrolul",
-    "oppSlug": "petrolul",
-    "ha": "a",
-    "kickoff": "2026-10-31T17:00:00.000Z",
-    "win": 0.303,
-    "draw": 0.308
-   },
    "table": {
     "pos": 9,
     "p": 13,
@@ -890,14 +882,6 @@
     1422
    ],
    "rank": 9,
-   "next": {
-    "opp": "FC Arges",
-    "oppSlug": "fc-arges",
-    "ha": "h",
-    "kickoff": "2026-10-31T14:00:00.000Z",
-    "win": 0.48,
-    "draw": 0.294
-   },
    "table": {
     "pos": 10,
     "p": 13,
@@ -1084,14 +1068,6 @@
     1410
    ],
    "rank": 11,
-   "next": {
-    "opp": "CFR Cluj",
-    "oppSlug": "cfr-cluj",
-    "ha": "h",
-    "kickoff": "2026-10-31T17:00:00.000Z",
-    "win": 0.389,
-    "draw": 0.308
-   },
    "table": {
     "pos": 4,
     "p": 13,
@@ -1181,14 +1157,6 @@
     1374
    ],
    "rank": 12,
-   "next": {
-    "opp": "Corvinul",
-    "oppSlug": "corvinul",
-    "ha": "a",
-    "kickoff": "2026-10-31T14:00:00.000Z",
-    "win": 0.225,
-    "draw": 0.294
-   },
    "table": {
     "pos": 13,
     "p": 13,

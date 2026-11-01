@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:01:12.973Z",
+ "updated": "2026-11-01T07:01:15.216Z",
  "up": [
   {
    "league": "eredivisie",
@@ -8,14 +8,6 @@
    "name": "NEC",
    "elo": 1636,
    "change": 54
-  },
-  {
-   "league": "pl",
-   "leagueName": "Premier League",
-   "slug": "bournemouth",
-   "name": "AFC Bournemouth",
-   "elo": 1987,
-   "change": 46
   },
   {
    "league": "ireland",
@@ -32,6 +24,14 @@
    "name": "Kasımpaşa",
    "elo": 1557,
    "change": 35
+  },
+  {
+   "league": "pl",
+   "leagueName": "Premier League",
+   "slug": "bournemouth",
+   "name": "AFC Bournemouth",
+   "elo": 1991,
+   "change": 33
   },
   {
    "league": "proleague",
@@ -84,14 +84,6 @@
  ],
  "down": [
   {
-   "league": "pl",
-   "leagueName": "Premier League",
-   "slug": "man-united",
-   "name": "Manchester United",
-   "elo": 1965,
-   "change": -47
-  },
-  {
    "league": "primeira",
    "leagueName": "Primeira Liga",
    "slug": "sp-lisbon",
@@ -113,6 +105,14 @@
    "slug": "pk-35-vantaa",
    "name": "PK-35 Vantaa",
    "elo": 1173,
+   "change": -33
+  },
+  {
+   "league": "pl",
+   "leagueName": "Premier League",
+   "slug": "man-united",
+   "name": "Manchester United",
+   "elo": 1961,
    "change": -33
   },
   {
