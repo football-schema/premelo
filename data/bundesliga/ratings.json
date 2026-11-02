@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:01:09.378Z",
+ "updated": "2026-11-02T07:01:15.779Z",
  "league": "bundesliga",
  "name": "Bundesliga",
  "through": "2026-10-25",
@@ -1056,14 +1056,6 @@
     1767
    ],
    "rank": 9,
-   "next": {
-    "opp": "Hamburger SV",
-    "oppSlug": "hamburg",
-    "ha": "h",
-    "kickoff": "2026-11-01T16:30:00.000Z",
-    "win": 0.566,
-    "draw": 0.234
-   },
    "table": {
     "pos": 14,
     "p": 7,
@@ -1294,14 +1286,6 @@
     1723
    ],
    "rank": 11,
-   "next": {
-    "opp": "Union Berlin",
-    "oppSlug": "union-berlin",
-    "ha": "a",
-    "kickoff": "2026-11-01T14:30:00.000Z",
-    "win": 0.361,
-    "draw": 0.279
-   },
    "table": {
     "pos": 12,
     "p": 7,
@@ -2222,14 +2206,6 @@
     1669
    ],
    "rank": 17,
-   "next": {
-    "opp": "Eintracht Frankfurt",
-    "oppSlug": "ein-frankfurt",
-    "ha": "a",
-    "kickoff": "2026-11-01T16:30:00.000Z",
-    "win": 0.199,
-    "draw": 0.234
-   },
    "table": {
     "pos": 11,
     "p": 7,
@@ -2345,14 +2321,6 @@
     1637
    ],
    "rank": 18,
-   "next": {
-    "opp": "1. FC Köln",
-    "oppSlug": "fc-koln",
-    "ha": "h",
-    "kickoff": "2026-11-01T14:30:00.000Z",
-    "win": 0.359,
-    "draw": 0.279
-   },
    "table": {
     "pos": 17,
     "p": 7,

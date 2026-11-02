@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:01:14.347Z",
+ "updated": "2026-11-02T07:01:20.589Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-10-26",
@@ -220,14 +220,6 @@
     1708
    ],
    "rank": 2,
-   "next": {
-    "opp": "Nordsjaelland",
-    "oppSlug": "nordsjaelland",
-    "ha": "a",
-    "kickoff": "2026-11-01T15:00:00.000Z",
-    "win": 0.286,
-    "draw": 0.279
-   },
    "table": {
     "pos": 1,
     "p": 12,
@@ -317,14 +309,6 @@
     1698
    ],
    "rank": 3,
-   "next": {
-    "opp": "Midtjylland",
-    "oppSlug": "midtjylland",
-    "ha": "h",
-    "kickoff": "2026-11-01T15:00:00.000Z",
-    "win": 0.435,
-    "draw": 0.279
-   },
    "table": {
     "pos": 4,
     "p": 12,
@@ -414,14 +398,6 @@
     1690
    ],
    "rank": 4,
-   "next": {
-    "opp": "Aarhus",
-    "oppSlug": "aarhus",
-    "ha": "h",
-    "kickoff": "2026-11-01T17:00:00.000Z",
-    "win": 0.446,
-    "draw": 0.277
-   },
    "table": {
     "pos": 5,
     "p": 12,
@@ -511,14 +487,6 @@
     1647
    ],
    "rank": 5,
-   "next": {
-    "opp": "Brondby",
-    "oppSlug": "brondby",
-    "ha": "a",
-    "kickoff": "2026-11-01T17:00:00.000Z",
-    "win": 0.277,
-    "draw": 0.277
-   },
    "table": {
     "pos": 8,
     "p": 12,
@@ -608,14 +576,6 @@
     1645
    ],
    "rank": 6,
-   "next": {
-    "opp": "Horsens",
-    "oppSlug": "horsens",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.657,
-    "draw": 0.212
-   },
    "table": {
     "pos": 3,
     "p": 12,
@@ -705,14 +665,6 @@
     1584
    ],
    "rank": 7,
-   "next": {
-    "opp": "Silkeborg",
-    "oppSlug": "silkeborg",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.535,
-    "draw": 0.257
-   },
    "table": {
     "pos": 7,
     "p": 12,
@@ -1077,14 +1029,6 @@
     1467
    ],
    "rank": 11,
-   "next": {
-    "opp": "Odense",
-    "oppSlug": "odense",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.208,
-    "draw": 0.257
-   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -1174,14 +1118,6 @@
     1445
    ],
    "rank": 12,
-   "next": {
-    "opp": "Viborg",
-    "oppSlug": "viborg",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.131,
-    "draw": 0.212
-   },
    "table": {
     "pos": 6,
     "p": 12,

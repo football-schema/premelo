@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:01:14.314Z",
+ "updated": "2026-11-02T07:01:20.558Z",
  "league": "superlig",
  "name": "Süper Lig",
  "through": "2026-10-26",
@@ -245,14 +245,6 @@
     1827
    ],
    "rank": 2,
-   "next": {
-    "opp": "Kasımpaşa",
-    "oppSlug": "kasimpasa",
-    "ha": "a",
-    "kickoff": "2026-11-01T16:00:00.000Z",
-    "win": 0.626,
-    "draw": 0.224
-   },
    "table": {
     "pos": 4,
     "p": 9,
@@ -483,14 +475,6 @@
     1778
    ],
    "rank": 4,
-   "next": {
-    "opp": "Gaziantep",
-    "oppSlug": "gaziantep",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.765,
-    "draw": 0.155
-   },
    "table": {
     "pos": 3,
     "p": 9,
@@ -595,14 +579,6 @@
     1629
    ],
    "rank": 5,
-   "next": {
-    "opp": "Eyüpspor",
-    "oppSlug": "eyupspor",
-    "ha": "h",
-    "kickoff": "2026-11-01T10:30:00.000Z",
-    "win": 0.789,
-    "draw": 0.145
-   },
    "table": {
     "pos": 2,
     "p": 9,
@@ -937,14 +913,6 @@
     1570
    ],
    "rank": 8,
-   "next": {
-    "opp": "Samsunspor",
-    "oppSlug": "samsunspor",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.544,
-    "draw": 0.25
-   },
    "table": {
     "pos": 12,
     "p": 9,
@@ -1175,14 +1143,6 @@
     1557
    ],
    "rank": 10,
-   "next": {
-    "opp": "Beşiktaş",
-    "oppSlug": "besiktas",
-    "ha": "h",
-    "kickoff": "2026-11-01T16:00:00.000Z",
-    "win": 0.151,
-    "draw": 0.224
-   },
    "table": {
     "pos": 6,
     "p": 9,
@@ -1651,14 +1611,6 @@
     1507
    ],
    "rank": 14,
-   "next": {
-    "opp": "İstanbul Başakşehir",
-    "oppSlug": "buyuksehyr",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.206,
-    "draw": 0.25
-   },
    "table": {
     "pos": 17,
     "p": 9,
@@ -1889,14 +1841,6 @@
     1494
    ],
    "rank": 16,
-   "next": {
-    "opp": "Trabzonspor",
-    "oppSlug": "trabzonspor",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.08,
-    "draw": 0.155
-   },
    "table": {
     "pos": 15,
     "p": 9,
@@ -2135,14 +2079,6 @@
     1327
    ],
    "rank": 18,
-   "next": {
-    "opp": "Amedspor",
-    "oppSlug": "amedspor",
-    "ha": "a",
-    "kickoff": "2026-11-01T10:30:00.000Z",
-    "win": 0.066,
-    "draw": 0.145
-   },
    "table": {
     "pos": 18,
     "p": 9,

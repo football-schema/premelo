@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:01:14.343Z",
+ "updated": "2026-11-02T07:01:20.586Z",
  "league": "switzerland",
  "name": "Swiss Super League",
  "through": "2026-10-25",
@@ -123,14 +123,6 @@
     1709
    ],
    "rank": 1,
-   "next": {
-    "opp": "Zurich",
-    "oppSlug": "zurich",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.753,
-    "draw": 0.159
-   },
    "table": {
     "pos": 2,
     "p": 11,
@@ -220,14 +212,6 @@
     1676
    ],
    "rank": 2,
-   "next": {
-    "opp": "Basel",
-    "oppSlug": "basel",
-    "ha": "h",
-    "kickoff": "2026-11-01T15:30:00.000Z",
-    "win": 0.639,
-    "draw": 0.214
-   },
    "table": {
     "pos": 1,
     "p": 11,
@@ -673,14 +657,6 @@
     1516
    ],
    "rank": 7,
-   "next": {
-    "opp": "Lugano",
-    "oppSlug": "lugano",
-    "ha": "a",
-    "kickoff": "2026-11-01T15:30:00.000Z",
-    "win": 0.147,
-    "draw": 0.214
-   },
    "table": {
     "pos": 7,
     "p": 11,
@@ -770,14 +746,6 @@
     1500
    ],
    "rank": 8,
-   "next": {
-    "opp": "Lausanne",
-    "oppSlug": "lausanne",
-    "ha": "a",
-    "kickoff": "2026-11-01T15:30:00.000Z",
-    "win": 0.379,
-    "draw": 0.272
-   },
    "table": {
     "pos": 9,
     "p": 11,
@@ -956,14 +924,6 @@
     1485
    ],
    "rank": 10,
-   "next": {
-    "opp": "Young Boys",
-    "oppSlug": "young-boys",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:00:00.000Z",
-    "win": 0.088,
-    "draw": 0.159
-   },
    "table": {
     "pos": 4,
     "p": 11,
@@ -1053,14 +1013,6 @@
     1462
    ],
    "rank": 11,
-   "next": {
-    "opp": "Thun",
-    "oppSlug": "thun",
-    "ha": "h",
-    "kickoff": "2026-11-01T15:30:00.000Z",
-    "win": 0.348,
-    "draw": 0.272
-   },
    "table": {
     "pos": 12,
     "p": 11,

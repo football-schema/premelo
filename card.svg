@@ -11,9 +11,9 @@
   <g font-size="16" fill="#617067" font-weight="bold" letter-spacing="1.5"><text x="122" y="240">CLUB</text><text x="640" y="240" text-anchor="end">ELO</text><text x="760" y="240" text-anchor="end">30 DAYS</text><text x="820" y="240">LAST 20 MATCHES</text></g>
   <g font-size="27">
   <text x="80" y="296" fill="#617067">1</text><text x="122" y="296" fill="#17251e" font-weight="600">Arsenal <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="296" fill="#17251e" font-weight="bold" text-anchor="end">2170</text>
-  <text x="760" y="296" fill="#b54439" text-anchor="end">−4</text>
-  <polyline points="820.0,287.4 835.3,285.3 850.5,286.4 865.8,286.9 881.1,286.4 896.3,281.5 911.6,283.4 926.8,287.4 942.1,287.4 957.4,292.0 972.6,279.7 987.9,277.5 1003.2,274.6 1018.4,274.3 1033.7,271.6 1048.9,272.7 1064.2,271.6 1079.5,271.3 1094.7,270.0 1110.0,272.7" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="272.7" r="5" fill="#167451"/>
+  <text x="640" y="296" fill="#17251e" font-weight="bold" text-anchor="end">2174</text>
+  <text x="760" y="296" fill="#617067" text-anchor="end">0</text>
+  <polyline points="820.0,285.3 835.3,286.4 850.5,286.9 865.8,286.4 881.1,281.5 896.3,283.4 911.6,287.4 926.8,287.4 942.1,292.0 957.4,279.7 972.6,277.5 987.9,274.6 1003.2,274.3 1018.4,271.6 1033.7,272.7 1048.9,271.6 1064.2,271.3 1079.5,270.0 1094.7,272.7 1110.0,271.6" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="271.6" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="314" y2="314" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="345" fill="#617067">2</text><text x="122" y="345" fill="#17251e" font-weight="600">Barcelona <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
   <text x="640" y="345" fill="#17251e" font-weight="bold" text-anchor="end">2167</text>
@@ -41,5 +41,5 @@
   <polyline points="820.0,535.2 835.3,535.4 850.5,535.2 865.8,535.5 881.1,535.9 896.3,536.8 911.6,537.0 926.8,532.4 942.1,528.9 957.4,526.0 972.6,523.1 987.9,521.6 1003.2,519.8 1018.4,517.2 1033.7,517.9 1048.9,519.0 1064.2,515.5 1079.5,515.5 1094.7,515.0 1110.0,515.9" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="515.9" r="5" fill="#167451"/>
   
   </g>
-  <text x="80" y="606" font-size="19" fill="#617067">Through 31 October 2026 · chances for every coming match · tested against the bookmakers</text>
+  <text x="80" y="606" font-size="19" fill="#617067">Through 1 November 2026 · chances for every coming match · tested against the bookmakers</text>
 </svg>

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:01:14.340Z",
+ "updated": "2026-11-02T07:01:20.583Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-10-25",
@@ -123,14 +123,6 @@
     1724
    ],
    "rank": 1,
-   "next": {
-    "opp": "A. Lustenau",
-    "oppSlug": "a-lustenau",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.818,
-    "draw": 0.128
-   },
    "table": {
     "pos": 2,
     "p": 10,
@@ -309,14 +301,6 @@
     1708
    ],
    "rank": 3,
-   "next": {
-    "opp": "Austria Vienna",
-    "oppSlug": "austria-vienna",
-    "ha": "a",
-    "kickoff": "2026-11-01T16:00:00.000Z",
-    "win": 0.593,
-    "draw": 0.237
-   },
    "table": {
     "pos": 1,
     "p": 10,
@@ -406,14 +390,6 @@
     1616
    ],
    "rank": 4,
-   "next": {
-    "opp": "Wolfsberger AC",
-    "oppSlug": "wolfsberger-ac",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.573,
-    "draw": 0.244
-   },
    "table": {
     "pos": 4,
     "p": 10,
@@ -592,14 +568,6 @@
     1486
    ],
    "rank": 6,
-   "next": {
-    "opp": "SK Rapid",
-    "oppSlug": "sk-rapid",
-    "ha": "h",
-    "kickoff": "2026-11-01T16:00:00.000Z",
-    "win": 0.17,
-    "draw": 0.237
-   },
    "table": {
     "pos": 11,
     "p": 10,
@@ -956,14 +924,6 @@
     1398
    ],
    "rank": 10,
-   "next": {
-    "opp": "Sturm Graz",
-    "oppSlug": "sturm-graz",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.183,
-    "draw": 0.244
-   },
    "table": {
     "pos": 12,
     "p": 10,
@@ -1142,14 +1102,6 @@
     1379
    ],
    "rank": 12,
-   "next": {
-    "opp": "Salzburg",
-    "oppSlug": "salzburg",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.054,
-    "draw": 0.128
-   },
    "table": {
     "pos": 10,
     "p": 10,

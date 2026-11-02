@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:01:12.377Z",
+ "updated": "2026-11-02T07:01:18.567Z",
  "league": "ligue1",
  "name": "Ligue 1",
  "through": "2026-10-26",
@@ -250,14 +250,6 @@
     1886
    ],
    "rank": 2,
-   "next": {
-    "opp": "Paris FC",
-    "oppSlug": "paris-fc",
-    "ha": "a",
-    "kickoff": "2026-11-01T16:15:00.000Z",
-    "win": 0.383,
-    "draw": 0.291
-   },
    "table": {
     "pos": 4,
     "p": 8,
@@ -373,14 +365,6 @@
     1829
    ],
    "rank": 3,
-   "next": {
-    "opp": "Angers",
-    "oppSlug": "angers",
-    "ha": "h",
-    "kickoff": "2026-11-01T16:15:00.000Z",
-    "win": 0.663,
-    "draw": 0.217
-   },
    "table": {
     "pos": 5,
     "p": 8,
@@ -726,14 +710,6 @@
     1794
    ],
    "rank": 6,
-   "next": {
-    "opp": "Toulouse",
-    "oppSlug": "toulouse",
-    "ha": "h",
-    "kickoff": "2026-11-01T19:45:00.000Z",
-    "win": 0.479,
-    "draw": 0.273
-   },
    "table": {
     "pos": 8,
     "p": 8,
@@ -849,14 +825,6 @@
     1791
    ],
    "rank": 7,
-   "next": {
-    "opp": "Monaco",
-    "oppSlug": "monaco",
-    "ha": "h",
-    "kickoff": "2026-11-01T16:15:00.000Z",
-    "win": 0.326,
-    "draw": 0.291
-   },
    "table": {
     "pos": 6,
     "p": 8,
@@ -1087,14 +1055,6 @@
     1755
    ],
    "rank": 9,
-   "next": {
-    "opp": "Olympique de Marseille",
-    "oppSlug": "marseille",
-    "ha": "a",
-    "kickoff": "2026-11-01T19:45:00.000Z",
-    "win": 0.248,
-    "draw": 0.273
-   },
    "table": {
     "pos": 11,
     "p": 8,
@@ -1325,14 +1285,6 @@
     1719
    ],
    "rank": 11,
-   "next": {
-    "opp": "Auxerre",
-    "oppSlug": "auxerre",
-    "ha": "h",
-    "kickoff": "2026-11-01T14:00:00.000Z",
-    "win": 0.534,
-    "draw": 0.259
-   },
    "table": {
     "pos": 16,
     "p": 8,
@@ -1809,14 +1761,6 @@
     1625
    ],
    "rank": 14,
-   "next": {
-    "opp": "Strasbourg",
-    "oppSlug": "strasbourg",
-    "ha": "a",
-    "kickoff": "2026-11-01T14:00:00.000Z",
-    "win": 0.207,
-    "draw": 0.259
-   },
    "table": {
     "pos": 12,
     "p": 8,
@@ -2047,14 +1991,6 @@
     1607
    ],
    "rank": 16,
-   "next": {
-    "opp": "Olympique Lyonnais",
-    "oppSlug": "lyon",
-    "ha": "a",
-    "kickoff": "2026-11-01T16:15:00.000Z",
-    "win": 0.12,
-    "draw": 0.217
-   },
    "table": {
     "pos": 14,
     "p": 8,

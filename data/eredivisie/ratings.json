@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:01:13.647Z",
+ "updated": "2026-11-02T07:01:19.802Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-10-25",
@@ -475,14 +475,6 @@
     1778
    ],
    "rank": 4,
-   "next": {
-    "opp": "Excelsior",
-    "oppSlug": "excelsior",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.614,
-    "draw": 0.225
-   },
    "table": {
     "pos": 4,
     "p": 10,
@@ -1058,14 +1050,6 @@
     1613
    ],
    "rank": 9,
-   "next": {
-    "opp": "Sparta Rotterdam",
-    "oppSlug": "sparta-rotterdam",
-    "ha": "h",
-    "kickoff": "2026-11-01T15:45:00.000Z",
-    "win": 0.526,
-    "draw": 0.248
-   },
    "table": {
     "pos": 8,
     "p": 10,
@@ -1181,14 +1165,6 @@
     1567
    ],
    "rank": 10,
-   "next": {
-    "opp": "Telstar",
-    "oppSlug": "telstar",
-    "ha": "a",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.411,
-    "draw": 0.269
-   },
    "table": {
     "pos": 11,
     "p": 10,
@@ -1304,14 +1280,6 @@
     1545
    ],
    "rank": 11,
-   "next": {
-    "opp": "Groningen",
-    "oppSlug": "groningen",
-    "ha": "a",
-    "kickoff": "2026-11-01T15:45:00.000Z",
-    "win": 0.226,
-    "draw": 0.248
-   },
    "table": {
     "pos": 14,
     "p": 10,
@@ -1427,14 +1395,6 @@
     1529
    ],
    "rank": 12,
-   "next": {
-    "opp": "Twente",
-    "oppSlug": "twente",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.161,
-    "draw": 0.225
-   },
    "table": {
     "pos": 13,
     "p": 10,
@@ -1550,14 +1510,6 @@
     1503
    ],
    "rank": 13,
-   "next": {
-    "opp": "Zwolle",
-    "oppSlug": "zwolle",
-    "ha": "a",
-    "kickoff": "2026-11-01T11:15:00.000Z",
-    "win": 0.331,
-    "draw": 0.273
-   },
    "table": {
     "pos": 17,
     "p": 10,
@@ -1788,14 +1740,6 @@
     1479
    ],
    "rank": 15,
-   "next": {
-    "opp": "Utrecht",
-    "oppSlug": "utrecht",
-    "ha": "h",
-    "kickoff": "2026-11-01T13:30:00.000Z",
-    "win": 0.321,
-    "draw": 0.269
-   },
    "table": {
     "pos": 16,
     "p": 10,
@@ -1911,14 +1855,6 @@
     1478
    ],
    "rank": 16,
-   "next": {
-    "opp": "Den Haag",
-    "oppSlug": "den-haag",
-    "ha": "h",
-    "kickoff": "2026-11-01T11:15:00.000Z",
-    "win": 0.396,
-    "draw": 0.273
-   },
    "table": {
     "pos": 15,
     "p": 10,
