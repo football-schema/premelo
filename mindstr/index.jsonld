@@ -21,8 +21,8 @@
     {
       "@id": "#452y5w",
       "name": "Live site",
-      "x": 219,
-      "y": -59,
+      "x": 236,
+      "y": -69,
       "link": "https://football-schema.github.io/premelo/",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#yyjnxk",
       "name": "Elo ratings for the clubs of twenty European leagues on…",
-      "x": 331,
-      "y": -233,
+      "x": 381,
+      "y": -275,
       "link": "https://football-schema.github.io/premelo/",
       "bgColor": "#daeeff",
       "parent": "#452y5w"
@@ -39,8 +39,8 @@
     {
       "@id": "#hrvxpy",
       "name": "football-schema.github.io/premelo",
-      "x": 477,
-      "y": -129,
+      "x": 558,
+      "y": -163,
       "link": "https://football-schema.github.io/premelo/",
       "bgColor": "#daeeff",
       "parent": "#452y5w"
@@ -48,8 +48,8 @@
     {
       "@id": "#hzsqn4",
       "name": "since Oct 2026 · last 3 Nov 2026",
-      "x": 430,
-      "y": -6,
+      "x": 499,
+      "y": -20,
       "link": "https://github.com/football-schema/premelo/commits/gh-pages",
       "bgColor": "#ececec",
       "parent": "#452y5w"
@@ -57,8 +57,8 @@
     {
       "@id": "#dttxwc",
       "name": "README",
-      "x": 488,
-      "y": 93,
+      "x": 580,
+      "y": 91,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#premelo",
       "bgColor": "#ececec",
       "parent": "#452y5w"
@@ -66,8 +66,8 @@
     {
       "@id": "#p8ysyk",
       "name": "How it works",
-      "x": 155,
-      "y": 145,
+      "x": 179,
+      "y": 149,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
       "bgColor": "#d9c6fb",
       "parent": "#this"
@@ -75,8 +75,8 @@
     {
       "@id": "#9c2qhr",
       "name": "Ratings",
-      "x": 360,
-      "y": 200,
+      "x": 432,
+      "y": 214,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
       "bgColor": "#efe6ff",
       "parent": "#p8ysyk"
@@ -84,8 +84,8 @@
     {
       "@id": "#h59t8f",
       "name": "One scale",
-      "x": 374,
-      "y": 288,
+      "x": 455,
+      "y": 319,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
       "bgColor": "#efe6ff",
       "parent": "#p8ysyk"
@@ -93,8 +93,8 @@
     {
       "@id": "#rfby2g",
       "name": "Predictions",
-      "x": 259,
-      "y": 289,
+      "x": 329,
+      "y": 320,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
       "bgColor": "#efe6ff",
       "parent": "#p8ysyk"
@@ -102,8 +102,8 @@
     {
       "@id": "#arxjt8",
       "name": "Table and projection",
-      "x": 253,
-      "y": 376,
+      "x": 312,
+      "y": 427,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
       "bgColor": "#efe6ff",
       "parent": "#p8ysyk"
@@ -111,8 +111,8 @@
     {
       "@id": "#jtyjdw",
       "name": "How good it is · 3 ›",
-      "x": -6,
-      "y": 195,
+      "x": 14,
+      "y": 212,
       "link": "./kb-how-good-it-is.jsonld",
       "bgColor": "#f9bdd5",
       "parent": "#this"
@@ -120,8 +120,8 @@
     {
       "@id": "#dtqx4z",
       "name": "All · 11 leagues ›",
-      "x": 69,
-      "y": 341,
+      "x": 128,
+      "y": 411,
       "link": "./kb-how-good-it-is.jsonld",
       "bgColor": "#ffe2ed",
       "parent": "#jtyjdw"
@@ -129,8 +129,8 @@
     {
       "@id": "#u2s2vv",
       "name": "What closed half the gap ›",
-      "x": -12,
-      "y": 408,
+      "x": 32,
+      "y": 501,
       "link": "./kb-how-good-it-is.jsonld",
       "bgColor": "#ffe2ed",
       "parent": "#jtyjdw"
@@ -138,17 +138,17 @@
     {
       "@id": "#vx2z65",
       "name": "Against ClubElo ›",
-      "x": -103,
-      "y": 364,
+      "x": -59,
+      "y": 420,
       "link": "./kb-how-good-it-is.jsonld",
       "bgColor": "#ffe2ed",
       "parent": "#jtyjdw"
     },
     {
       "@id": "#xwei9g",
-      "name": "Data · 3 ›",
-      "x": -151,
-      "y": 147,
+      "name": "Data · 4 ›",
+      "x": -163,
+      "y": 161,
       "link": "./kb-data.jsonld",
       "bgColor": "#fcc2a9",
       "parent": "#this"
@@ -156,128 +156,137 @@
     {
       "@id": "#6bzs4i",
       "name": "Sources · 3 ›",
-      "x": -216,
-      "y": 318,
+      "x": -213,
+      "y": 384,
       "link": "./kb-data.jsonld",
       "bgColor": "#ffe4d9",
       "parent": "#xwei9g"
     },
     {
       "@id": "#fkywkd",
-      "name": "Files · 11 ›",
-      "x": -276,
-      "y": 274,
+      "name": "Files · 6 ›",
+      "x": -344,
+      "y": 411,
       "link": "./kb-data.jsonld",
       "bgColor": "#ffe4d9",
       "parent": "#xwei9g"
     },
     {
       "@id": "#j8deiz",
-      "name": "In the Football Schema ›",
-      "x": -333,
-      "y": 230,
+      "name": "Running it · 5 ›",
+      "x": -313,
+      "y": 304,
       "link": "./kb-data.jsonld",
       "bgColor": "#ffe4d9",
       "parent": "#xwei9g"
     },
     {
       "@id": "#aya9s9",
+      "name": "In the Football Schema ›",
+      "x": -503,
+      "y": 289,
+      "link": "./kb-data.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#xwei9g"
+    },
+    {
+      "@id": "#vn2imx",
       "name": "Running it · 2 ›",
-      "x": -223,
-      "y": 47,
+      "x": -246,
+      "y": 36,
       "link": "./kb-run.jsonld",
       "bgColor": "#e0d199",
       "parent": "#this"
     },
     {
-      "@id": "#vn2imx",
-      "name": "Pipeline · 8 ›",
-      "x": -402,
-      "y": 130,
-      "link": "./kb-run.jsonld",
-      "bgColor": "#f2ecd2",
-      "parent": "#aya9s9"
-    },
-    {
       "@id": "#2tznvh",
-      "name": "Other scripts · 4 ›",
-      "x": -427,
-      "y": 46,
+      "name": "Pipeline · 8 ›",
+      "x": -479,
+      "y": 121,
       "link": "./kb-run.jsonld",
       "bgColor": "#f2ecd2",
-      "parent": "#aya9s9"
+      "parent": "#vn2imx"
     },
     {
       "@id": "#cnh2fk",
+      "name": "Other scripts · 5 ›",
+      "x": -589,
+      "y": 29,
+      "link": "./kb-run.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#vn2imx"
+    },
+    {
+      "@id": "#dk76uz",
       "name": "Source · lib/ · 11 files ›",
-      "x": -218,
-      "y": -62,
+      "x": -233,
+      "y": -78,
       "link": "./src.jsonld",
       "bgColor": "#b1dfb5",
       "parent": "#this"
     },
     {
-      "@id": "#dk76uz",
+      "@id": "#5aggpq",
       "name": "Next: What's not done",
-      "x": -51,
-      "y": -191,
+      "x": -49,
+      "y": -208,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
       "bgColor": "#95e1e3",
       "parent": "#this"
     },
     {
-      "@id": "#5aggpq",
-      "name": "Shots on target",
-      "x": -296,
-      "y": -265,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
-      "bgColor": "#d1f3f4",
-      "parent": "#dk76uz"
-    },
-    {
       "@id": "#eqmaaw",
-      "name": "Uncertainty per club",
-      "x": -296,
-      "y": -356,
+      "name": "Shots on target",
+      "x": -330,
+      "y": -319,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
       "bgColor": "#d1f3f4",
-      "parent": "#dk76uz"
+      "parent": "#5aggpq"
     },
     {
       "@id": "#pjbq25",
-      "name": "Real xG",
-      "x": -153,
-      "y": -337,
+      "name": "Uncertainty per club",
+      "x": -316,
+      "y": -429,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
       "bgColor": "#d1f3f4",
-      "parent": "#dk76uz"
+      "parent": "#5aggpq"
     },
     {
       "@id": "#tz98k5",
-      "name": "The small cross-country bias",
-      "x": -126,
-      "y": -418,
+      "name": "Real xG",
+      "x": -173,
+      "y": -397,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
       "bgColor": "#d1f3f4",
-      "parent": "#dk76uz"
+      "parent": "#5aggpq"
     },
     {
       "@id": "#437yyk",
-      "name": "Domestic cups",
-      "x": 11,
-      "y": -365,
+      "name": "The small cross-country bias",
+      "x": -110,
+      "y": -495,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
       "bgColor": "#d1f3f4",
-      "parent": "#dk76uz"
+      "parent": "#5aggpq"
     },
     {
       "@id": "#j3k2bu",
-      "name": "Older history for the 2012 leagues",
-      "x": 147,
-      "y": -411,
+      "name": "Domestic cups",
+      "x": 21,
+      "y": -425,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
       "bgColor": "#d1f3f4",
-      "parent": "#dk76uz"
+      "parent": "#5aggpq"
+    },
+    {
+      "@id": "#uhqx6j",
+      "name": "Older history for the 2012 leagues",
+      "x": 163,
+      "y": -484,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#d1f3f4",
+      "parent": "#5aggpq"
     }
   ],
   "connections": [
@@ -354,19 +363,19 @@
       "end": 18
     },
     {
-      "start": 0,
+      "start": 15,
       "end": 19
     },
     {
-      "start": 19,
+      "start": 0,
       "end": 20
     },
     {
-      "start": 19,
+      "start": 20,
       "end": 21
     },
     {
-      "start": 0,
+      "start": 20,
       "end": 22
     },
     {
@@ -374,28 +383,32 @@
       "end": 23
     },
     {
-      "start": 23,
+      "start": 0,
       "end": 24
     },
     {
-      "start": 23,
+      "start": 24,
       "end": 25
     },
     {
-      "start": 23,
+      "start": 24,
       "end": 26
     },
     {
-      "start": 23,
+      "start": 24,
       "end": 27
     },
     {
-      "start": 23,
+      "start": 24,
       "end": 28
     },
     {
-      "start": 23,
+      "start": 24,
       "end": 29
+    },
+    {
+      "start": 24,
+      "end": 30
     }
   ],
   "selectedNode": 0
