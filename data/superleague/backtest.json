@@ -1,42 +1,42 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "league": "Super League",
  "from": "2000-01",
  "test": {
   "from": "2012-13",
-  "matches": 3511,
+  "matches": 3516,
   "model": {
-   "logloss": 0.934,
+   "logloss": 0.9337,
    "rps": 0.1828,
-   "brier": 0.5532
+   "brier": 0.5531
   },
   "elo": {
-   "logloss": 0.9361,
+   "logloss": 0.9359,
    "rps": 0.1833,
-   "brier": 0.5545
+   "brier": 0.5544
   },
   "market": {
-   "logloss": 0.916,
+   "logloss": 0.9158,
    "rps": 0.1777,
-   "brier": 0.5416
+   "brier": 0.5414
   }
  },
  "all": {
-  "matches": 5191,
+  "matches": 5196,
   "model": {
-   "logloss": 0.9344,
+   "logloss": 0.9343,
    "rps": 0.1836,
-   "brier": 0.5533
+   "brier": 0.5532
   },
   "elo": {
-   "logloss": 0.9354,
+   "logloss": 0.9352,
    "rps": 0.1838,
-   "brier": 0.5537
+   "brier": 0.5536
   },
   "market": {
-   "logloss": 0.9212,
+   "logloss": 0.921,
    "rps": 0.1796,
-   "brier": 0.5443
+   "brier": 0.5442
   }
  },
  "params": {
@@ -511,22 +511,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 55,
-   "withOdds": 55,
+   "matches": 60,
+   "withOdds": 60,
    "model": {
-    "logloss": 0.8955,
-    "rps": 0.1791,
-    "brier": 0.5138
+    "logloss": 0.887,
+    "rps": 0.18,
+    "brier": 0.5084
    },
    "market": {
-    "logloss": 0.8599,
-    "rps": 0.1713,
-    "brier": 0.4969
+    "logloss": 0.8491,
+    "rps": 0.1711,
+    "brier": 0.4891
    },
    "baseline": {
-    "logloss": 1.0442,
-    "rps": 0.2326,
-    "brier": 0.6288
+    "logloss": 1.0384,
+    "rps": 0.2347,
+    "brier": 0.6247
    }
   }
  ],
@@ -539,19 +539,19 @@
   },
   {
    "bucket": "10-20%",
-   "matches": 477,
+   "matches": 478,
    "predicted": 0.15,
    "actual": 0.151
   },
   {
    "bucket": "20-30%",
-   "matches": 564,
+   "matches": 565,
    "predicted": 0.254,
-   "actual": 0.277
+   "actual": 0.278
   },
   {
    "bucket": "30-40%",
-   "matches": 873,
+   "matches": 875,
    "predicted": 0.356,
    "actual": 0.36
   },
@@ -575,9 +575,9 @@
   },
   {
    "bucket": "70-80%",
-   "matches": 360,
+   "matches": 361,
    "predicted": 0.75,
-   "actual": 0.764
+   "actual": 0.765
   },
   {
    "bucket": "80-90%",

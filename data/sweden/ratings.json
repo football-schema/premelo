@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:01:20.858Z",
+ "updated": "2026-11-03T07:01:16.341Z",
  "league": "sweden",
  "name": "Allsvenskan",
  "through": "2026-10-29",
@@ -929,14 +929,6 @@
     1495
    ],
    "rank": 8,
-   "next": {
-    "opp": "AIK",
-    "oppSlug": "aik",
-    "ha": "h",
-    "kickoff": "2026-11-02T18:00:00.000Z",
-    "win": 0.512,
-    "draw": 0.262
-   },
    "table": {
     "pos": 10,
     "p": 26,
@@ -1050,14 +1042,6 @@
     1484
    ],
    "rank": 9,
-   "next": {
-    "opp": "Mjallby",
-    "oppSlug": "mjallby",
-    "ha": "a",
-    "kickoff": "2026-11-02T18:00:00.000Z",
-    "win": 0.394,
-    "draw": 0.282
-   },
    "table": {
     "pos": 13,
     "p": 26,
@@ -1284,14 +1268,6 @@
     1409
    ],
    "rank": 11,
-   "next": {
-    "opp": "Kalmar",
-    "oppSlug": "kalmar",
-    "ha": "h",
-    "kickoff": "2026-11-02T18:00:00.000Z",
-    "win": 0.323,
-    "draw": 0.282
-   },
    "table": {
     "pos": 12,
     "p": 26,
@@ -1405,14 +1381,6 @@
     1397
    ],
    "rank": 12,
-   "next": {
-    "opp": "GAIS",
-    "oppSlug": "gais",
-    "ha": "a",
-    "kickoff": "2026-11-02T18:00:00.000Z",
-    "win": 0.226,
-    "draw": 0.262
-   },
    "table": {
     "pos": 8,
     "p": 26,

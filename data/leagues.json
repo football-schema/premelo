@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:01:21.499Z",
+ "updated": "2026-11-03T07:01:17.002Z",
  "leagues": [
   {
    "id": "pl",
@@ -8,19 +8,19 @@
    "country": "England",
    "second": "Championship",
    "extra": false,
-   "through": "2026-11-01",
+   "through": "2026-11-02",
    "top": [
     [
      "Arsenal",
-     2174
+     2171
     ],
     [
      "Manchester City",
-     2150
+     2142
     ],
     [
      "Liverpool",
-     2065
+     2068
     ]
    ]
   },
@@ -31,19 +31,19 @@
    "country": "Spain",
    "second": "Segunda División",
    "extra": false,
-   "through": "2026-10-26",
+   "through": "2026-11-01",
    "top": [
     [
      "Barcelona",
-     2167
+     2168
     ],
     [
      "Real Madrid",
-     2108
+     2119
     ],
     [
      "Atlético Madrid",
-     1982
+     1999
     ]
    ]
   },
@@ -54,19 +54,19 @@
    "country": "Germany",
    "second": "2. Bundesliga",
    "extra": false,
-   "through": "2026-10-25",
+   "through": "2026-11-01",
    "top": [
     [
      "Bayern Munich",
-     2167
+     2166
     ],
     [
      "Bayer Leverkusen",
-     1962
+     1969
     ],
     [
      "Borussia Dortmund",
-     1947
+     1948
     ]
    ]
   },
@@ -77,18 +77,18 @@
    "country": "Italy",
    "second": "Serie B",
    "extra": false,
-   "through": "2026-10-29",
+   "through": "2026-11-01",
    "top": [
     [
      "Inter",
-     2033
+     2029
     ],
     [
      "Como",
-     1946
+     1951
     ],
     [
-     "Juventus",
+     "AC Milan",
      1934
     ]
    ]
@@ -100,19 +100,19 @@
    "country": "France",
    "second": "Ligue 2",
    "extra": false,
-   "through": "2026-10-26",
+   "through": "2026-11-01",
    "top": [
     [
      "Paris Saint-Germain",
-     2117
+     2099
     ],
     [
      "Monaco",
-     1886
+     1876
     ],
     [
      "Olympique Lyonnais",
-     1829
+     1832
     ]
    ]
   },
@@ -122,7 +122,7 @@
    "short": "Primeira Liga",
    "country": "Portugal",
    "extra": false,
-   "through": "2026-10-26",
+   "through": "2026-11-01",
    "top": [
     [
      "Benfica",
@@ -130,11 +130,11 @@
     ],
     [
      "Porto",
-     1924
+     1929
     ],
     [
      "Sporting CP",
-     1920
+     1903
     ]
    ]
   },
@@ -144,15 +144,15 @@
    "short": "Eredivisie",
    "country": "Netherlands",
    "extra": false,
-   "through": "2026-10-25",
+   "through": "2026-11-01",
    "top": [
     [
      "Feyenoord",
-     1859
+     1842
     ],
     [
      "PSV",
-     1845
+     1839
     ],
     [
      "Ajax",
@@ -166,19 +166,19 @@
    "short": "Pro League",
    "country": "Belgium",
    "extra": false,
-   "through": "2026-10-25",
+   "through": "2026-11-01",
    "top": [
     [
      "Club Brugge",
-     1919
+     1922
     ],
     [
      "Union Saint-Gilloise",
-     1845
+     1856
     ],
     [
-     "Genk",
-     1744
+     "Anderlecht",
+     1740
     ]
    ]
   },
@@ -188,19 +188,19 @@
    "short": "Süper Lig",
    "country": "Turkey",
    "extra": false,
-   "through": "2026-10-26",
+   "through": "2026-11-01",
    "top": [
     [
      "Galatasaray",
-     1846
+     1852
     ],
     [
      "Beşiktaş",
-     1827
+     1820
     ],
     [
-     "Fenerbahçe",
-     1808
+     "Trabzonspor",
+     1786
     ]
    ]
   },
@@ -211,7 +211,7 @@
    "country": "Scotland",
    "second": "Championship",
    "extra": false,
-   "through": "2026-10-28",
+   "through": "2026-11-01",
    "top": [
     [
      "Rangers",
@@ -219,7 +219,7 @@
     ],
     [
      "Celtic",
-     1691
+     1683
     ],
     [
      "Hearts",
@@ -233,18 +233,18 @@
    "short": "Super League",
    "country": "Greece",
    "extra": false,
-   "through": "2026-10-25",
+   "through": "2026-11-01",
    "top": [
     [
-     "AEK Athens",
+     "Panathinaikos",
      1776
     ],
     [
      "Olympiacos",
-     1770
+     1773
     ],
     [
-     "Panathinaikos",
+     "AEK Athens",
      1764
     ]
    ]

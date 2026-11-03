@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-02T07:01:20.579Z",
+ "updated": "2026-11-03T07:01:16.077Z",
  "league": "superleague",
  "name": "Super League",
- "through": "2026-10-25",
+ "through": "2026-11-01",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -46,92 +46,92 @@
  "projected": {},
  "clubs": [
   {
-   "club": "AEK",
-   "name": "AEK Athens",
-   "slug": "aek",
+   "club": "Panathinaikos",
+   "name": "Panathinaikos",
+   "slug": "panathinaikos",
    "div": "top",
    "elo": 1776,
-   "change30": -3,
-   "played": 12,
+   "change30": 43,
+   "played": 17,
    "form": [
     {
      "r": "W",
-     "opp": "Aris Thessaloniki",
-     "oppSlug": "aris",
-     "gf": 5,
+     "opp": "Kalamata",
+     "oppSlug": "kalamata",
+     "gf": 1,
      "ga": 0,
-     "ha": "h",
-     "date": "2026-09-05"
+     "ha": "a",
+     "date": "2026-09-20"
     },
     {
-     "r": "D",
-     "opp": "Asteras Tripolis",
-     "oppSlug": "asteras-tripolis",
-     "gf": 1,
+     "r": "L",
+     "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
+     "gf": 0,
      "ga": 1,
      "ha": "a",
-     "date": "2026-09-13"
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-18"
     },
     {
      "r": "W",
      "opp": "Volos NFC",
      "oppSlug": "volos-nfc",
-     "gf": 2,
-     "ga": 1,
+     "gf": 1,
+     "ga": 0,
      "ha": "a",
-     "date": "2026-09-20"
+     "date": "2026-10-25"
     },
     {
      "r": "W",
-     "opp": "OFI",
-     "oppSlug": "ofi-crete",
-     "gf": 3,
+     "opp": "AEK Athens",
+     "oppSlug": "aek",
+     "gf": 2,
      "ga": 0,
      "ha": "h",
-     "date": "2026-10-10"
-    },
-    {
-     "r": "W",
-     "opp": "Panetolikos",
-     "oppSlug": "panetolikos",
-     "gf": 5,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-24"
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1742,
-    1729,
-    1744,
-    1759,
-    1770,
-    1784,
-    1753,
-    1748,
+    1580,
+    1577,
+    1570,
+    1581,
+    1576,
+    1570,
+    1565,
+    1562,
+    1565,
+    1635,
+    1682,
+    1682,
+    1695,
+    1733,
+    1740,
     1741,
-    1738,
-    1747,
     1750,
-    1768,
-    1775,
-    1762,
-    1779,
-    1777,
-    1763,
-    1763,
+    1759,
+    1764,
     1776
    ],
    "rank": 1,
    "table": {
-    "pos": 3,
-    "p": 7,
-    "w": 5,
-    "d": 2,
-    "l": 0,
-    "gf": 21,
-    "ga": 3,
-    "pts": 17
+    "pos": 1,
+    "p": 9,
+    "w": 8,
+    "d": 0,
+    "l": 1,
+    "gf": 20,
+    "ga": 4,
+    "pts": 24
    }
   },
   {
@@ -139,19 +139,10 @@
    "name": "Olympiacos",
    "slug": "olympiakos",
    "div": "top",
-   "elo": 1770,
-   "change30": -6,
-   "played": 13,
+   "elo": 1773,
+   "change30": -3,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "OFI",
-     "oppSlug": "ofi-crete",
-     "gf": 0,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-12"
-    },
     {
      "r": "W",
      "opp": "Levadiakos",
@@ -187,10 +178,18 @@
      "ga": 0,
      "ha": "h",
      "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "Kifisia",
+     "oppSlug": "kifisia",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-31"
     }
    ],
    "spark": [
-    1799,
     1810,
     1812,
     1805,
@@ -209,107 +208,108 @@
     1780,
     1775,
     1781,
-    1770
+    1770,
+    1773
    ],
    "rank": 2,
    "table": {
     "pos": 2,
-    "p": 8,
-    "w": 6,
+    "p": 9,
+    "w": 7,
     "d": 1,
     "l": 1,
-    "gf": 12,
-    "ga": 2,
-    "pts": 19
+    "gf": 15,
+    "ga": 4,
+    "pts": 22
    }
   },
   {
-   "club": "Panathinaikos",
-   "name": "Panathinaikos",
-   "slug": "panathinaikos",
+   "club": "AEK",
+   "name": "AEK Athens",
+   "slug": "aek",
    "div": "top",
    "elo": 1764,
-   "change30": 31,
-   "played": 16,
+   "change30": -15,
+   "played": 13,
    "form": [
     {
-     "r": "W",
-     "opp": "Panetolikos",
-     "oppSlug": "panetolikos",
-     "gf": 3,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
-    {
-     "r": "W",
-     "opp": "Kalamata",
-     "oppSlug": "kalamata",
-     "gf": 1,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-20"
-    },
-    {
-     "r": "L",
-     "opp": "Olympiacos",
-     "oppSlug": "olympiakos",
-     "gf": 0,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "W",
+     "r": "D",
      "opp": "Asteras Tripolis",
      "oppSlug": "asteras-tripolis",
-     "gf": 5,
+     "gf": 1,
      "ga": 1,
-     "ha": "h",
-     "date": "2026-10-18"
+     "ha": "a",
+     "date": "2026-09-13"
     },
     {
      "r": "W",
      "opp": "Volos NFC",
      "oppSlug": "volos-nfc",
-     "gf": 1,
-     "ga": 0,
+     "gf": 2,
+     "ga": 1,
      "ha": "a",
-     "date": "2026-10-25"
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "OFI",
+     "oppSlug": "ofi-crete",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Panetolikos",
+     "oppSlug": "panetolikos",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "Panathinaikos",
+     "oppSlug": "panathinaikos",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1594,
-    1580,
-    1577,
-    1570,
-    1581,
-    1576,
-    1570,
-    1565,
-    1562,
-    1565,
-    1635,
-    1682,
-    1682,
-    1695,
-    1733,
-    1740,
-    1741,
-    1750,
+    1729,
+    1744,
     1759,
+    1770,
+    1784,
+    1753,
+    1748,
+    1741,
+    1738,
+    1747,
+    1750,
+    1768,
+    1775,
+    1762,
+    1779,
+    1777,
+    1763,
+    1763,
+    1776,
     1764
    ],
    "rank": 3,
    "table": {
-    "pos": 1,
+    "pos": 4,
     "p": 8,
-    "w": 7,
-    "d": 0,
+    "w": 5,
+    "d": 2,
     "l": 1,
-    "gf": 18,
-    "ga": 4,
-    "pts": 21
+    "gf": 21,
+    "ga": 5,
+    "pts": 17
    }
   },
   {
@@ -317,19 +317,10 @@
    "name": "PAOK",
    "slug": "paok",
    "div": "top",
-   "elo": 1662,
-   "change30": -40,
-   "played": 14,
+   "elo": 1668,
+   "change30": -34,
+   "played": 15,
    "form": [
-    {
-     "r": "W",
-     "opp": "Aris Thessaloniki",
-     "oppSlug": "aris",
-     "gf": 2,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "W",
      "opp": "Panetolikos",
@@ -365,10 +356,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1733,
     1719,
     1726,
     1718,
@@ -387,18 +386,19 @@
     1702,
     1666,
     1657,
-    1662
+    1662,
+    1668
    ],
    "rank": 4,
    "table": {
-    "pos": 5,
-    "p": 8,
-    "w": 5,
+    "pos": 3,
+    "p": 9,
+    "w": 6,
     "d": 0,
     "l": 3,
-    "gf": 16,
-    "ga": 11,
-    "pts": 15
+    "gf": 18,
+    "ga": 12,
+    "pts": 18
    }
   },
   {
@@ -406,19 +406,10 @@
    "name": "Aris Thessaloniki",
    "slug": "aris",
    "div": "top",
-   "elo": 1537,
-   "change30": 42,
-   "played": 8,
+   "elo": 1515,
+   "change30": 20,
+   "played": 9,
    "form": [
-    {
-     "r": "L",
-     "opp": "PAOK",
-     "oppSlug": "paok",
-     "gf": 0,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-13"
-    },
     {
      "r": "D",
      "opp": "Iraklis",
@@ -454,10 +445,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-25"
+    },
+    {
+     "r": "L",
+     "opp": "Levadiakos",
+     "oppSlug": "levadiakos",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1506,
     1494,
     1491,
     1497,
@@ -476,17 +475,18 @@
     1495,
     1513,
     1521,
-    1537
+    1537,
+    1515
    ],
    "rank": 5,
    "table": {
-    "pos": 4,
-    "p": 8,
+    "pos": 6,
+    "p": 9,
     "w": 5,
     "d": 1,
-    "l": 2,
+    "l": 3,
     "gf": 13,
-    "ga": 14,
+    "ga": 17,
     "pts": 16
    }
   },
@@ -495,19 +495,10 @@
    "name": "OFI",
    "slug": "ofi-crete",
    "div": "top",
-   "elo": 1432,
-   "change30": -11,
-   "played": 13,
+   "elo": 1443,
+   "change30": 0,
+   "played": 14,
    "form": [
-    {
-     "r": "W",
-     "opp": "Olympiacos",
-     "oppSlug": "olympiakos",
-     "gf": 1,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-12"
-    },
     {
      "r": "D",
      "opp": "Asteras Tripolis",
@@ -543,10 +534,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "Panetolikos",
+     "oppSlug": "panetolikos",
+     "gf": 1,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1359,
     1355,
     1364,
     1358,
@@ -565,18 +564,19 @@
     1445,
     1435,
     1434,
-    1432
+    1432,
+    1443
    ],
    "rank": 6,
    "table": {
-    "pos": 6,
-    "p": 8,
-    "w": 4,
+    "pos": 5,
+    "p": 9,
+    "w": 5,
     "d": 1,
     "l": 3,
-    "gf": 13,
+    "gf": 14,
     "ga": 12,
-    "pts": 13
+    "pts": 16
    }
   },
   {
@@ -584,19 +584,10 @@
    "name": "Kifisia",
    "slug": "kifisia",
    "div": "top",
-   "elo": 1420,
-   "change30": 18,
-   "played": 8,
+   "elo": 1417,
+   "change30": 15,
+   "played": 9,
    "form": [
-    {
-     "r": "D",
-     "opp": "Levadiakos",
-     "oppSlug": "levadiakos",
-     "gf": 0,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "W",
      "opp": "Atromitos",
@@ -632,10 +623,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-31"
     }
    ],
    "spark": [
-    1392,
     1377,
     1378,
     1391,
@@ -654,17 +653,18 @@
     1402,
     1415,
     1408,
-    1420
+    1420,
+    1417
    ],
    "rank": 7,
    "table": {
     "pos": 7,
-    "p": 8,
+    "p": 9,
     "w": 3,
     "d": 2,
-    "l": 3,
-    "gf": 10,
-    "ga": 11,
+    "l": 4,
+    "gf": 12,
+    "ga": 14,
     "pts": 11
    }
   },
@@ -746,14 +746,6 @@
     1413
    ],
    "rank": 8,
-   "next": {
-    "opp": "Volos NFC",
-    "oppSlug": "volos-nfc",
-    "ha": "h",
-    "kickoff": "2026-11-02T16:00:00.000Z",
-    "win": 0.493,
-    "draw": 0.283
-   },
    "table": {
     "pos": 14,
     "p": 7,
@@ -770,19 +762,10 @@
    "name": "Asteras Tripolis",
    "slug": "asteras-tripolis",
    "div": "top",
-   "elo": 1410,
-   "change30": -12,
-   "played": 8,
+   "elo": 1404,
+   "change30": -18,
+   "played": 9,
    "form": [
-    {
-     "r": "D",
-     "opp": "AEK Athens",
-     "oppSlug": "aek",
-     "gf": 1,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "D",
      "opp": "OFI",
@@ -818,10 +801,18 @@
      "ga": 0,
      "ha": "h",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "PAOK",
+     "oppSlug": "paok",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1365,
     1346,
     1361,
     1356,
@@ -840,17 +831,107 @@
     1422,
     1423,
     1414,
-    1410
+    1410,
+    1404
    ],
    "rank": 9,
    "table": {
-    "pos": 11,
-    "p": 8,
+    "pos": 12,
+    "p": 9,
     "w": 1,
     "d": 3,
-    "l": 4,
-    "gf": 7,
-    "ga": 15,
+    "l": 5,
+    "gf": 8,
+    "ga": 17,
+    "pts": 6
+   }
+  },
+  {
+   "club": "Levadiakos",
+   "name": "Levadiakos",
+   "slug": "levadiakos",
+   "div": "top",
+   "elo": 1379,
+   "change30": 12,
+   "played": 9,
+   "form": [
+    {
+     "r": "L",
+     "opp": "Olympiacos",
+     "oppSlug": "olympiakos",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "L",
+     "opp": "Iraklis",
+     "oppSlug": "iraklis",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Volos NFC",
+     "oppSlug": "volos-nfc",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-17"
+    },
+    {
+     "r": "D",
+     "opp": "Asteras Tripolis",
+     "oppSlug": "asteras-tripolis",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-24"
+    },
+    {
+     "r": "W",
+     "opp": "Aris Thessaloniki",
+     "oppSlug": "aris",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-01"
+    }
+   ],
+   "spark": [
+    1501,
+    1485,
+    1476,
+    1469,
+    1464,
+    1460,
+    1453,
+    1464,
+    1469,
+    1463,
+    1456,
+    1455,
+    1390,
+    1377,
+    1364,
+    1367,
+    1363,
+    1349,
+    1358,
+    1379
+   ],
+   "rank": 10,
+   "table": {
+    "pos": 11,
+    "p": 9,
+    "w": 1,
+    "d": 3,
+    "l": 5,
+    "gf": 3,
+    "ga": 11,
     "pts": 6
    }
   },
@@ -931,15 +1012,7 @@
     1374,
     1365
    ],
-   "rank": 10,
-   "next": {
-    "opp": "Kalamata",
-    "oppSlug": "kalamata",
-    "ha": "a",
-    "kickoff": "2026-11-02T17:30:00.000Z",
-    "win": 0.3,
-    "draw": 0.294
-   },
+   "rank": 11,
    "table": {
     "pos": 9,
     "p": 8,
@@ -1028,15 +1101,7 @@
     1347,
     1361
    ],
-   "rank": 11,
-   "next": {
-    "opp": "Iraklis",
-    "oppSlug": "iraklis",
-    "ha": "h",
-    "kickoff": "2026-11-02T17:30:00.000Z",
-    "win": 0.406,
-    "draw": 0.294
-   },
+   "rank": 12,
    "table": {
     "pos": 8,
     "p": 8,
@@ -1046,95 +1111,6 @@
     "gf": 13,
     "ga": 17,
     "pts": 10
-   }
-  },
-  {
-   "club": "Levadiakos",
-   "name": "Levadiakos",
-   "slug": "levadiakos",
-   "div": "top",
-   "elo": 1358,
-   "change30": -9,
-   "played": 8,
-   "form": [
-    {
-     "r": "D",
-     "opp": "Kifisia",
-     "oppSlug": "kifisia",
-     "gf": 0,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-13"
-    },
-    {
-     "r": "L",
-     "opp": "Olympiacos",
-     "oppSlug": "olympiakos",
-     "gf": 0,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-20"
-    },
-    {
-     "r": "L",
-     "opp": "Iraklis",
-     "oppSlug": "iraklis",
-     "gf": 0,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "D",
-     "opp": "Volos NFC",
-     "oppSlug": "volos-nfc",
-     "gf": 0,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-17"
-    },
-    {
-     "r": "D",
-     "opp": "Asteras Tripolis",
-     "oppSlug": "asteras-tripolis",
-     "gf": 0,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-10-24"
-    }
-   ],
-   "spark": [
-    1508,
-    1501,
-    1485,
-    1476,
-    1469,
-    1464,
-    1460,
-    1453,
-    1464,
-    1469,
-    1463,
-    1456,
-    1455,
-    1390,
-    1377,
-    1364,
-    1367,
-    1363,
-    1349,
-    1358
-   ],
-   "rank": 12,
-   "table": {
-    "pos": 13,
-    "p": 8,
-    "w": 0,
-    "d": 3,
-    "l": 5,
-    "gf": 0,
-    "ga": 11,
-    "pts": 3
    }
   },
   {
@@ -1215,16 +1191,8 @@
     1341
    ],
    "rank": 13,
-   "next": {
-    "opp": "Atromitos",
-    "oppSlug": "atromitos",
-    "ha": "a",
-    "kickoff": "2026-11-02T16:00:00.000Z",
-    "win": 0.224,
-    "draw": 0.283
-   },
    "table": {
-    "pos": 12,
+    "pos": 13,
     "p": 8,
     "w": 0,
     "d": 3,
@@ -1239,19 +1207,10 @@
    "name": "Panetolikos",
    "slug": "panetolikos",
    "div": "top",
-   "elo": 1340,
-   "change30": -17,
-   "played": 8,
+   "elo": 1329,
+   "change30": -28,
+   "played": 9,
    "form": [
-    {
-     "r": "L",
-     "opp": "Panathinaikos",
-     "oppSlug": "panathinaikos",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-13"
-    },
     {
      "r": "L",
      "opp": "PAOK",
@@ -1287,10 +1246,18 @@
      "ga": 5,
      "ha": "a",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "OFI",
+     "oppSlug": "ofi-crete",
+     "gf": 0,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1355,
     1341,
     1351,
     1363,
@@ -1309,17 +1276,18 @@
     1357,
     1343,
     1349,
-    1340
+    1340,
+    1329
    ],
    "rank": 14,
    "table": {
     "pos": 10,
-    "p": 8,
+    "p": 9,
     "w": 3,
     "d": 0,
-    "l": 5,
+    "l": 6,
     "gf": 8,
-    "ga": 16,
+    "ga": 17,
     "pts": 9
    }
   }

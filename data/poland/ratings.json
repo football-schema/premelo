@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:01:21.386Z",
+ "updated": "2026-11-03T07:01:16.891Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-10-25",
@@ -811,14 +811,6 @@
     1560
    ],
    "rank": 7,
-   "next": {
-    "opp": "Rakow",
-    "oppSlug": "rakow",
-    "ha": "a",
-    "kickoff": "2026-11-02T19:30:00.000Z",
-    "win": 0.303,
-    "draw": 0.278
-   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -1279,14 +1271,6 @@
     1548
    ],
    "rank": 11,
-   "next": {
-    "opp": "Zaglebie",
-    "oppSlug": "zaglebie",
-    "ha": "a",
-    "kickoff": "2026-11-02T17:00:00.000Z",
-    "win": 0.345,
-    "draw": 0.294
-   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -1402,14 +1386,6 @@
     1545
    ],
    "rank": 12,
-   "next": {
-    "opp": "Pogon Szczecin",
-    "oppSlug": "pogon-szczecin",
-    "ha": "h",
-    "kickoff": "2026-11-02T19:30:00.000Z",
-    "win": 0.419,
-    "draw": 0.278
-   },
    "table": {
     "pos": 18,
     "p": 12,
@@ -1755,14 +1731,6 @@
     1506
    ],
    "rank": 15,
-   "next": {
-    "opp": "Korona Kielce",
-    "oppSlug": "korona-kielce",
-    "ha": "h",
-    "kickoff": "2026-11-02T17:00:00.000Z",
-    "win": 0.361,
-    "draw": 0.294
-   },
    "table": {
     "pos": 7,
     "p": 12,
@@ -1993,14 +1961,6 @@
     1453
    ],
    "rank": 17,
-   "next": {
-    "opp": "Radomiak Radom",
-    "oppSlug": "radomiak-radom",
-    "ha": "a",
-    "kickoff": "2026-11-02T17:00:00.000Z",
-    "win": 0.298,
-    "draw": 0.266
-   },
    "table": {
     "pos": 15,
     "p": 12,
@@ -2116,14 +2076,6 @@
     1444
    ],
    "rank": 18,
-   "next": {
-    "opp": "Slask Wroclaw",
-    "oppSlug": "slask-wroclaw",
-    "ha": "h",
-    "kickoff": "2026-11-02T17:00:00.000Z",
-    "win": 0.435,
-    "draw": 0.266
-   },
    "table": {
     "pos": 17,
     "p": 12,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:01:20.589Z",
+ "updated": "2026-11-03T07:01:16.088Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-10-26",
@@ -123,14 +123,6 @@
     1790
    ],
    "rank": 1,
-   "next": {
-    "opp": "Sonderjyske",
-    "oppSlug": "sonderjyske",
-    "ha": "a",
-    "kickoff": "2026-11-02T18:00:00.000Z",
-    "win": 0.689,
-    "draw": 0.198
-   },
    "table": {
     "pos": 2,
     "p": 12,
@@ -932,14 +924,6 @@
     1474
    ],
    "rank": 10,
-   "next": {
-    "opp": "FC Copenhagen",
-    "oppSlug": "fc-copenhagen",
-    "ha": "h",
-    "kickoff": "2026-11-02T18:00:00.000Z",
-    "win": 0.114,
-    "draw": 0.198
-   },
    "table": {
     "pos": 12,
     "p": 12,

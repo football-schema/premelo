@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:01:21.398Z",
+ "updated": "2026-11-03T07:01:16.903Z",
  "league": "finland",
  "name": "Veikkausliiga",
  "through": "2026-10-29",
@@ -123,14 +123,6 @@
     1509
    ],
    "rank": 1,
-   "next": {
-    "opp": "VPS",
-    "oppSlug": "vps",
-    "ha": "a",
-    "kickoff": "2026-11-02T16:00:00.000Z",
-    "win": 0.604,
-    "draw": 0.228
-   },
    "table": {
     "pos": 1,
     "p": 30,
@@ -220,14 +212,6 @@
     1494
    ],
    "rank": 2,
-   "next": {
-    "opp": "Gnistan",
-    "oppSlug": "gnistan",
-    "ha": "h",
-    "kickoff": "2026-11-02T16:00:00.000Z",
-    "win": 0.658,
-    "draw": 0.21
-   },
    "table": {
     "pos": 2,
     "p": 30,
@@ -584,14 +568,6 @@
     1285
    ],
    "rank": 6,
-   "next": {
-    "opp": "HJK",
-    "oppSlug": "hjk",
-    "ha": "h",
-    "kickoff": "2026-11-02T16:00:00.000Z",
-    "win": 0.167,
-    "draw": 0.228
-   },
    "table": {
     "pos": 6,
     "p": 30,
@@ -859,14 +835,6 @@
     1260
    ],
    "rank": 9,
-   "next": {
-    "opp": "Inter Turku",
-    "oppSlug": "inter-turku",
-    "ha": "a",
-    "kickoff": "2026-11-02T16:00:00.000Z",
-    "win": 0.132,
-    "draw": 0.21
-   },
    "table": {
     "pos": 5,
     "p": 30,

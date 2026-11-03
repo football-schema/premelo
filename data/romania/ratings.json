@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:01:21.391Z",
+ "updated": "2026-11-03T07:01:16.897Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-10-26",
@@ -301,14 +301,6 @@
     1612
    ],
    "rank": 3,
-   "next": {
-    "opp": "U. Cluj",
-    "oppSlug": "u-cluj",
-    "ha": "a",
-    "kickoff": "2026-11-02T18:30:00.000Z",
-    "win": 0.351,
-    "draw": 0.308
-   },
    "table": {
     "pos": 6,
     "p": 13,
@@ -487,14 +479,6 @@
     1532
    ],
    "rank": 5,
-   "next": {
-    "opp": "FCSB",
-    "oppSlug": "fcsb",
-    "ha": "h",
-    "kickoff": "2026-11-02T18:30:00.000Z",
-    "win": 0.342,
-    "draw": 0.308
-   },
    "table": {
     "pos": 5,
     "p": 13,
@@ -673,14 +657,6 @@
     1447
    ],
    "rank": 7,
-   "next": {
-    "opp": "FC Voluntari",
-    "oppSlug": "fc-voluntari",
-    "ha": "a",
-    "kickoff": "2026-11-02T15:30:00.000Z",
-    "win": 0.426,
-    "draw": 0.301
-   },
    "table": {
     "pos": 7,
     "p": 13,
@@ -1392,14 +1368,6 @@
     1302
    ],
    "rank": 15,
-   "next": {
-    "opp": "Farul Constanta",
-    "oppSlug": "farul-constanta",
-    "ha": "h",
-    "kickoff": "2026-11-02T15:30:00.000Z",
-    "win": 0.273,
-    "draw": 0.301
-   },
    "table": {
     "pos": 15,
     "p": 13,

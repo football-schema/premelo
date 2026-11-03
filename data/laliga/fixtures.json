@@ -1,56 +1,6 @@
 {
- "updated": "2026-11-02T07:01:14.500Z",
+ "updated": "2026-11-03T07:01:09.978Z",
  "league": "laliga",
  "season": "2026-27",
- "fixtures": [
-  {
-   "kickoff": "2026-11-02T20:00:00.000Z",
-   "home": "La Coruna",
-   "away": "Osasuna",
-   "homeSlug": "la-coruna",
-   "awaySlug": "osasuna",
-   "homeName": "Deportivo La Coruña",
-   "awayName": "Osasuna",
-   "elo": [
-    1722,
-    1730
-   ],
-   "dr": 61,
-   "H": 0.419,
-   "D": 0.28,
-   "A": 0.301,
-   "xg": [
-    1.5,
-    1.2
-   ],
-   "O25": 0.479,
-   "btts": 0.537,
-   "scores": [
-    [
-     "1-1",
-     0.138
-    ],
-    [
-     "1-0",
-     0.1
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "0-1",
-     0.082
-    ],
-    [
-     "0-0",
-     0.079
-    ],
-    [
-     "2-0",
-     0.073
-    ]
-   ]
-  }
- ]
+ "fixtures": []
 }
