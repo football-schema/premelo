@@ -1,5 +1,7 @@
 # premelo
 
+[![Mind map](https://mindstr.org/badge.svg)](https://mindstr.org/?uri=https://football-schema.github.io/premelo/mindstr/index.jsonld)
+
 Elo ratings for the clubs of twenty European leagues on one scale, and the chances for each coming match, computed
 from every result since 1993-94 (and, once each match is played, what the bookmakers' closing prices said about it)
 and tested out of sample against those prices. A static site on

@@ -1,0 +1,154 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "elo.mjs",
+      "x": 0,
+      "y": 0,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#v88t4a",
+      "name": "exports",
+      "x": 247,
+      "y": 159,
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#skzt29",
+      "name": "DEFAULTS()",
+      "x": 420,
+      "y": -230,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L13",
+      "bgColor": "#daeeff",
+      "parent": "#v88t4a"
+    },
+    {
+      "@id": "#t4pwzt",
+      "name": "EUROPE()",
+      "x": 582,
+      "y": -83,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L35",
+      "bgColor": "#daeeff",
+      "parent": "#v88t4a"
+    },
+    {
+      "@id": "#jhaa84",
+      "name": "empty()",
+      "x": 486,
+      "y": 101,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L39",
+      "bgColor": "#daeeff",
+      "parent": "#v88t4a"
+    },
+    {
+      "@id": "#wavvy9",
+      "name": "expectedScore()",
+      "x": 471,
+      "y": 302,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L41",
+      "bgColor": "#daeeff",
+      "parent": "#v88t4a"
+    },
+    {
+      "@id": "#i9w3v4",
+      "name": "marginFactor()",
+      "x": 248,
+      "y": 369,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L44",
+      "bgColor": "#daeeff",
+      "parent": "#v88t4a"
+    },
+    {
+      "@id": "#e9sufn",
+      "name": "runAll()",
+      "x": 66,
+      "y": 498,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L63",
+      "bgColor": "#daeeff",
+      "parent": "#v88t4a"
+    },
+    {
+      "@id": "#g45zx9",
+      "name": "run()",
+      "x": -145,
+      "y": 407,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L183",
+      "bgColor": "#daeeff",
+      "parent": "#v88t4a"
+    },
+    {
+      "@id": "#vz8rhu",
+      "name": "187 lines",
+      "x": -249,
+      "y": 17,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    },
+    {
+      "@id": "#35gtrs",
+      "name": "← lib/",
+      "x": -50,
+      "y": -208,
+      "link": "./src.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 1,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}
