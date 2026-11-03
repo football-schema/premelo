@@ -19,148 +19,265 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#ab9ysn",
-      "name": "README",
-      "x": 249,
-      "y": 20,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#premelo",
+      "@id": "#452y5w",
+      "name": "Live site",
+      "x": 238,
+      "y": -64,
+      "link": "https://football-schema.github.io/premelo/",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#qhtzie",
-      "name": "In the Football Schema",
-      "x": 380,
-      "y": -276,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#in-the-football-schema",
+      "@id": "#yyjnxk",
+      "name": "Elo ratings for the clubs of twenty European leagues on…",
+      "x": 385,
+      "y": -271,
+      "link": "https://football-schema.github.io/premelo/",
       "bgColor": "#daeeff",
-      "parent": "#ab9ysn"
+      "parent": "#452y5w"
     },
     {
-      "@id": "#2sgmjt",
-      "name": "How it works",
-      "x": 542,
-      "y": -199,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
+      "@id": "#hrvxpy",
+      "name": "football-schema.github.io/premelo",
+      "x": 562,
+      "y": -152,
+      "link": "https://football-schema.github.io/premelo/",
       "bgColor": "#daeeff",
-      "parent": "#ab9ysn"
+      "parent": "#452y5w"
     },
     {
-      "@id": "#j9h6ge",
-      "name": "How good it is",
-      "x": 496,
-      "y": -55,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
-      "bgColor": "#daeeff",
-      "parent": "#ab9ysn"
-    },
-    {
-      "@id": "#ejt2c7",
-      "name": "What's not done, and what would help",
-      "x": 572,
-      "y": 124,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
-      "bgColor": "#daeeff",
-      "parent": "#ab9ysn"
-    },
-    {
-      "@id": "#tvx8v7",
-      "name": "Data",
-      "x": 404,
-      "y": 251,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#data",
-      "bgColor": "#daeeff",
-      "parent": "#ab9ysn"
-    },
-    {
-      "@id": "#4bfmpa",
-      "name": "Running it",
-      "x": 362,
-      "y": 396,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#running-it",
-      "bgColor": "#daeeff",
-      "parent": "#ab9ysn"
-    },
-    {
-      "@id": "#c2mpq8",
-      "name": "Scripts · 4",
-      "x": -70,
-      "y": 204,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/package.json",
-      "bgColor": "#e9c1ef",
-      "parent": "#this"
-    },
-    {
-      "@id": "#yykmee",
-      "name": "npm run fetch",
-      "x": 54,
-      "y": 422,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/fetch.mjs",
-      "bgColor": "#f7e4f9",
-      "parent": "#c2mpq8"
-    },
-    {
-      "@id": "#7kgwkb",
-      "name": "npm run build",
-      "x": -90,
-      "y": 496,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/build.mjs",
-      "bgColor": "#f7e4f9",
-      "parent": "#c2mpq8"
-    },
-    {
-      "@id": "#x7t4w7",
-      "name": "npm run backtest",
-      "x": -201,
-      "y": 389,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/backtest.mjs",
-      "bgColor": "#f7e4f9",
-      "parent": "#c2mpq8"
-    },
-    {
-      "@id": "#dsw684",
-      "name": "npm run test",
-      "x": -369,
-      "y": 391,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/package.json",
-      "bgColor": "#f7e4f9",
-      "parent": "#c2mpq8"
-    },
-    {
-      "@id": "#v88t4a",
-      "name": "Source · lib/ · 11 files ›",
-      "x": -245,
-      "y": 43,
-      "link": "./src.jsonld",
-      "bgColor": "#fec0b1",
-      "parent": "#this"
-    },
-    {
-      "@id": "#skzt29",
-      "name": "Next: What's not done",
-      "x": -189,
-      "y": -139,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
-      "bgColor": "#d7d59b",
-      "parent": "#this"
-    },
-    {
-      "@id": "#t4pwzt",
-      "name": "Premier League Elo ratings and match predictions, from…",
-      "x": 16,
-      "y": -212,
-      "link": "https://github.com/football-schema/premelo",
-      "bgColor": "#ececec",
-      "parent": "#this"
-    },
-    {
-      "@id": "#jhaa84",
+      "@id": "#hzsqn4",
       "name": "since Oct 2026 · last 3 Nov 2026",
-      "x": 32,
-      "y": -424,
+      "x": 500,
+      "y": -7,
       "link": "https://github.com/football-schema/premelo/commits/gh-pages",
       "bgColor": "#ececec",
-      "parent": "#t4pwzt"
+      "parent": "#452y5w"
+    },
+    {
+      "@id": "#dttxwc",
+      "name": "README",
+      "x": 576,
+      "y": 110,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#premelo",
+      "bgColor": "#ececec",
+      "parent": "#452y5w"
+    },
+    {
+      "@id": "#p8ysyk",
+      "name": "How it works",
+      "x": 168,
+      "y": 157,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9c2qhr",
+      "name": "Ratings",
+      "x": 418,
+      "y": 233,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
+      "bgColor": "#efe6ff",
+      "parent": "#p8ysyk"
+    },
+    {
+      "@id": "#h59t8f",
+      "name": "One scale",
+      "x": 433,
+      "y": 340,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
+      "bgColor": "#efe6ff",
+      "parent": "#p8ysyk"
+    },
+    {
+      "@id": "#rfby2g",
+      "name": "Predictions",
+      "x": 306,
+      "y": 336,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
+      "bgColor": "#efe6ff",
+      "parent": "#p8ysyk"
+    },
+    {
+      "@id": "#arxjt8",
+      "name": "Table and projection",
+      "x": 276,
+      "y": 443,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-it-works",
+      "bgColor": "#efe6ff",
+      "parent": "#p8ysyk"
+    },
+    {
+      "@id": "#jtyjdw",
+      "name": "How good it is · 3 ›",
+      "x": -7,
+      "y": 212,
+      "link": "./kb-how-good-it-is.jsonld",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtqx4z",
+      "name": "All · 11 leagues ›",
+      "x": 92,
+      "y": 418,
+      "link": "./kb-how-good-it-is.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#jtyjdw"
+    },
+    {
+      "@id": "#u2s2vv",
+      "name": "What closed half the gap ›",
+      "x": -16,
+      "y": 501,
+      "link": "./kb-how-good-it-is.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#jtyjdw"
+    },
+    {
+      "@id": "#vx2z65",
+      "name": "Against ClubElo ›",
+      "x": -119,
+      "y": 413,
+      "link": "./kb-how-good-it-is.jsonld",
+      "bgColor": "#ffe2ed",
+      "parent": "#jtyjdw"
+    },
+    {
+      "@id": "#xwei9g",
+      "name": "Data · 3 ›",
+      "x": -164,
+      "y": 160,
+      "link": "./kb-data.jsonld",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "Sources · 3 ›",
+      "x": -247,
+      "y": 367,
+      "link": "./kb-data.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#xwei9g"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "Files · 11 ›",
+      "x": -382,
+      "y": 384,
+      "link": "./kb-data.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#xwei9g"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "In the Football Schema ›",
+      "x": -388,
+      "y": 268,
+      "link": "./kb-data.jsonld",
+      "bgColor": "#ffe4d9",
+      "parent": "#xwei9g"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "Running it · 2 ›",
+      "x": -243,
+      "y": 52,
+      "link": "./kb-run.jsonld",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vn2imx",
+      "name": "Pipeline · 8 ›",
+      "x": -467,
+      "y": 151,
+      "link": "./kb-run.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#aya9s9"
+    },
+    {
+      "@id": "#2tznvh",
+      "name": "Other scripts · 4 ›",
+      "x": -585,
+      "y": 64,
+      "link": "./kb-run.jsonld",
+      "bgColor": "#f2ecd2",
+      "parent": "#aya9s9"
+    },
+    {
+      "@id": "#cnh2fk",
+      "name": "Source · lib/ · 11 files ›",
+      "x": -237,
+      "y": -67,
+      "link": "./src.jsonld",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dk76uz",
+      "name": "Next: What's not done",
+      "x": -55,
+      "y": -207,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5aggpq",
+      "name": "Shots on target",
+      "x": -345,
+      "y": -308,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#d1f3f4",
+      "parent": "#dk76uz"
+    },
+    {
+      "@id": "#eqmaaw",
+      "name": "Uncertainty per club",
+      "x": -331,
+      "y": -420,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#d1f3f4",
+      "parent": "#dk76uz"
+    },
+    {
+      "@id": "#pjbq25",
+      "name": "Real xG",
+      "x": -188,
+      "y": -392,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#d1f3f4",
+      "parent": "#dk76uz"
+    },
+    {
+      "@id": "#tz98k5",
+      "name": "The small cross-country bias",
+      "x": -118,
+      "y": -493,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#d1f3f4",
+      "parent": "#dk76uz"
+    },
+    {
+      "@id": "#437yyk",
+      "name": "Domestic cups",
+      "x": 13,
+      "y": -425,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#d1f3f4",
+      "parent": "#dk76uz"
+    },
+    {
+      "@id": "#j3k2bu",
+      "name": "Older history for the 2012 leagues",
+      "x": 156,
+      "y": -485,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#whats-not-done-and-what-would-help",
+      "bgColor": "#d1f3f4",
+      "parent": "#dk76uz"
     }
   ],
   "connections": [
@@ -185,39 +302,39 @@
       "end": 5
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 6
     },
     {
-      "start": 1,
+      "start": 6,
       "end": 7
     },
     {
-      "start": 0,
+      "start": 6,
       "end": 8
     },
     {
-      "start": 8,
+      "start": 6,
       "end": 9
     },
     {
-      "start": 8,
+      "start": 6,
       "end": 10
     },
     {
-      "start": 8,
+      "start": 0,
       "end": 11
     },
     {
-      "start": 8,
+      "start": 11,
       "end": 12
     },
     {
-      "start": 0,
+      "start": 11,
       "end": 13
     },
     {
-      "start": 0,
+      "start": 11,
       "end": 14
     },
     {
@@ -227,6 +344,58 @@
     {
       "start": 15,
       "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 23,
+      "end": 28
+    },
+    {
+      "start": 23,
+      "end": 29
     }
   ],
   "selectedNode": 0

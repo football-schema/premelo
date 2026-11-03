@@ -19,90 +19,99 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#v88t4a",
-      "name": "exports",
-      "x": 247,
-      "y": 159,
+      "@id": "#t4pwzt",
+      "name": "Elo for Europe's big five leagues, World Football…",
+      "x": 224,
+      "y": -94,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#skzt29",
-      "name": "DEFAULTS()",
-      "x": 420,
-      "y": -230,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L13",
-      "bgColor": "#daeeff",
-      "parent": "#v88t4a"
-    },
-    {
-      "@id": "#t4pwzt",
-      "name": "EUROPE()",
-      "x": 582,
-      "y": -83,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L35",
-      "bgColor": "#daeeff",
-      "parent": "#v88t4a"
-    },
-    {
       "@id": "#jhaa84",
-      "name": "empty()",
-      "x": 486,
-      "y": 101,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L39",
-      "bgColor": "#daeeff",
-      "parent": "#v88t4a"
+      "name": "exports",
+      "x": 20,
+      "y": 263,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
     },
     {
       "@id": "#wavvy9",
-      "name": "expectedScore()",
-      "x": 471,
-      "y": 302,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L41",
-      "bgColor": "#daeeff",
-      "parent": "#v88t4a"
+      "name": "DEFAULTS",
+      "x": 435,
+      "y": 209,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L13",
+      "bgColor": "#fce3f3",
+      "parent": "#jhaa84"
     },
     {
       "@id": "#i9w3v4",
-      "name": "marginFactor()",
-      "x": 248,
-      "y": 369,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L44",
-      "bgColor": "#daeeff",
-      "parent": "#v88t4a"
+      "name": "EUROPE",
+      "x": 391,
+      "y": 375,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L35",
+      "bgColor": "#fce3f3",
+      "parent": "#jhaa84"
     },
     {
       "@id": "#e9sufn",
-      "name": "runAll()",
-      "x": 66,
-      "y": 498,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L63",
-      "bgColor": "#daeeff",
-      "parent": "#v88t4a"
+      "name": "empty()",
+      "x": 192,
+      "y": 392,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L39",
+      "bgColor": "#fce3f3",
+      "parent": "#jhaa84"
     },
     {
       "@id": "#g45zx9",
-      "name": "run()",
-      "x": -145,
-      "y": 407,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L183",
-      "bgColor": "#daeeff",
-      "parent": "#v88t4a"
+      "name": "expectedScore()",
+      "x": 38,
+      "y": 500,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L41",
+      "bgColor": "#fce3f3",
+      "parent": "#jhaa84"
     },
     {
       "@id": "#vz8rhu",
+      "name": "marginFactor()",
+      "x": -131,
+      "y": 410,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L44",
+      "bgColor": "#fce3f3",
+      "parent": "#jhaa84"
+    },
+    {
+      "@id": "#35gtrs",
+      "name": "runAll()",
+      "x": -331,
+      "y": 415,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L63",
+      "bgColor": "#fce3f3",
+      "parent": "#jhaa84"
+    },
+    {
+      "@id": "#fiqrfa",
+      "name": "run()",
+      "x": -400,
+      "y": 255,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs#L183",
+      "bgColor": "#fce3f3",
+      "parent": "#jhaa84"
+    },
+    {
+      "@id": "#fad69b",
       "name": "187 lines",
-      "x": -249,
-      "y": 17,
+      "x": -237,
+      "y": -69,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/elo.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#35gtrs",
+      "@id": "#fnrzmm",
       "name": "← lib/",
-      "x": -50,
-      "y": -208,
+      "x": -16,
+      "y": -212,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -114,40 +123,44 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 4
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 5
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 6
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 7
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 8
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 9
     },
     {
       "start": 0,
       "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
     }
   ],
   "selectedNode": 0

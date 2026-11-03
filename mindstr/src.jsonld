@@ -19,7 +19,7 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#rmckuv",
+      "@id": "#374kep",
       "name": "around leagues.mjs · 4",
       "x": 245,
       "y": -43,
@@ -27,43 +27,43 @@
       "parent": "#this"
     },
     {
-      "@id": "#6cicry",
+      "@id": "#ba2cgp",
       "name": "leagues.mjs · 6 ›",
       "x": 371,
       "y": -285,
       "link": "./src-leagues-mjs.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#rmckuv"
+      "parent": "#374kep"
     },
     {
-      "@id": "#7c28q6",
+      "@id": "#h7ym9k",
       "name": "context.mjs · 3 ›",
       "x": 548,
       "y": -186,
       "link": "./src-context-mjs.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#rmckuv"
+      "parent": "#374kep"
     },
     {
-      "@id": "#4qbh3e",
+      "@id": "#ius84b",
       "name": "seasons.mjs · 7 ›",
       "x": 500,
       "y": -11,
       "link": "./src-seasons-mjs.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#rmckuv"
+      "parent": "#374kep"
     },
     {
-      "@id": "#m3xps2",
+      "@id": "#583aqh",
       "name": "results.mjs · 10 ›",
       "x": 559,
       "y": 162,
       "link": "./src-results-mjs.jsonld",
       "bgColor": "#daeeff",
-      "parent": "#rmckuv"
+      "parent": "#374kep"
     },
     {
-      "@id": "#yxjf84",
+      "@id": "#sbf4ee",
       "name": "around elo.mjs · 2",
       "x": 90,
       "y": 198,
@@ -71,25 +71,25 @@
       "parent": "#this"
     },
     {
-      "@id": "#mrv4db",
+      "@id": "#t6q67m",
       "name": "elo.mjs · 7 ›",
       "x": 285,
       "y": 349,
       "link": "./src-elo-mjs.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#yxjf84"
+      "parent": "#sbf4ee"
     },
     {
-      "@id": "#i6483q",
+      "@id": "#abq85r",
       "name": "table.mjs · 4 ›",
       "x": 79,
       "y": 497,
       "link": "./src-table-mjs.jsonld",
       "bgColor": "#f7e4f9",
-      "parent": "#yxjf84"
+      "parent": "#sbf4ee"
     },
     {
-      "@id": "#kmcrgd",
+      "@id": "#sy2ncx",
       "name": "around teams.mjs · 2",
       "x": -171,
       "y": 155,
@@ -97,60 +97,60 @@
       "parent": "#this"
     },
     {
-      "@id": "#ktiw89",
+      "@id": "#fertai",
       "name": "teams.mjs · 6 ›",
       "x": -246,
       "y": 370,
       "link": "./src-teams-mjs.jsonld",
       "bgColor": "#ffe3dc",
-      "parent": "#kmcrgd"
+      "parent": "#sy2ncx"
     },
     {
-      "@id": "#c74y5q",
+      "@id": "#9u36xp",
       "name": "uefa.mjs · 2 ›",
       "x": -492,
       "y": 277,
       "link": "./src-uefa-mjs.jsonld",
       "bgColor": "#ffe3dc",
-      "parent": "#kmcrgd"
+      "parent": "#sy2ncx"
     },
     {
-      "@id": "#374kep",
-      "name": "other · 3",
+      "@id": "#5q2nc4",
+      "name": "standalone · 3",
       "x": -234,
       "y": -74,
       "bgColor": "#d7d59b",
       "parent": "#this"
     },
     {
-      "@id": "#ba2cgp",
+      "@id": "#eegh3a",
       "name": "attack.mjs · 3 ›",
       "x": -500,
       "y": -5,
       "link": "./src-attack-mjs.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#374kep"
+      "parent": "#5q2nc4"
     },
     {
-      "@id": "#h7ym9k",
+      "@id": "#tmtdcb",
       "name": "goals.mjs · 12 ›",
       "x": -553,
       "y": -175,
       "link": "./src-goals-mjs.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#374kep"
+      "parent": "#5q2nc4"
     },
     {
-      "@id": "#ius84b",
+      "@id": "#ziixui",
       "name": "matchday.mjs · 4 ›",
       "x": -382,
       "y": -275,
       "link": "./src-matchday-mjs.jsonld",
       "bgColor": "#eeedd3",
-      "parent": "#374kep"
+      "parent": "#5q2nc4"
     },
     {
-      "@id": "#583aqh",
+      "@id": "#qnf7j2",
       "name": "← premelo",
       "x": -9,
       "y": -212,

@@ -19,142 +19,151 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#fiqrfa",
-      "name": "exports 1/2",
-      "x": 250,
-      "y": 0,
+      "@id": "#3y3s3p",
+      "name": "From a rating gap to a match",
+      "x": 207,
+      "y": -120,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#fad69b",
-      "name": "DEFAULTS()",
-      "x": 372,
-      "y": -284,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L9",
-      "bgColor": "#daeeff",
-      "parent": "#fiqrfa"
-    },
-    {
-      "@id": "#fnrzmm",
-      "name": "goals()",
-      "x": 534,
-      "y": -214,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L11",
-      "bgColor": "#daeeff",
-      "parent": "#fiqrfa"
-    },
-    {
-      "@id": "#3y3s3p",
-      "name": "grid()",
-      "x": 495,
-      "y": -62,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L16",
-      "bgColor": "#daeeff",
-      "parent": "#fiqrfa"
-    },
-    {
       "@id": "#ujs2ci",
-      "name": "gridOf()",
-      "x": 584,
-      "y": 73,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L17",
-      "bgColor": "#daeeff",
-      "parent": "#fiqrfa"
-    },
-    {
-      "@id": "#442pm7",
-      "name": "markets()",
-      "x": 452,
-      "y": 181,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L27",
-      "bgColor": "#daeeff",
-      "parent": "#fiqrfa"
-    },
-    {
-      "@id": "#imr4n9",
-      "name": "marketsOf()",
-      "x": 438,
-      "y": 336,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L29",
-      "bgColor": "#daeeff",
-      "parent": "#fiqrfa"
-    },
-    {
-      "@id": "#tpktj6",
-      "name": "exports 2/2",
-      "x": -125,
-      "y": 184,
-      "bgColor": "#f3bee1",
+      "name": "exports 1/2",
+      "x": 183,
+      "y": 145,
+      "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
+      "@id": "#442pm7",
+      "name": "DEFAULTS",
+      "x": 496,
+      "y": 51,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L9",
+      "bgColor": "#f7e4f9",
+      "parent": "#ujs2ci"
+    },
+    {
+      "@id": "#imr4n9",
+      "name": "goals()",
+      "x": 550,
+      "y": 182,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L11",
+      "bgColor": "#f7e4f9",
+      "parent": "#ujs2ci"
+    },
+    {
+      "@id": "#tpktj6",
+      "name": "grid",
+      "x": 406,
+      "y": 248,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L16",
+      "bgColor": "#f7e4f9",
+      "parent": "#ujs2ci"
+    },
+    {
       "@id": "#u94rpy",
-      "name": "blended()",
-      "x": 104,
-      "y": 416,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L31",
-      "bgColor": "#fce3f3",
-      "parent": "#tpktj6"
+      "name": "gridOf()",
+      "x": 379,
+      "y": 384,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L17",
+      "bgColor": "#f7e4f9",
+      "parent": "#ujs2ci"
     },
     {
       "@id": "#7txfyn",
-      "name": "fromGrid()",
-      "x": -49,
-      "y": 500,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L32",
-      "bgColor": "#fce3f3",
-      "parent": "#tpktj6"
+      "name": "markets",
+      "x": 216,
+      "y": 383,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L27",
+      "bgColor": "#f7e4f9",
+      "parent": "#ujs2ci"
     },
     {
       "@id": "#v5njcx",
-      "name": "table()",
-      "x": -184,
-      "y": 395,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L47",
-      "bgColor": "#fce3f3",
-      "parent": "#tpktj6"
+      "name": "marketsOf()",
+      "x": 114,
+      "y": 492,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L29",
+      "bgColor": "#f7e4f9",
+      "parent": "#ujs2ci"
     },
     {
       "@id": "#z8kicz",
-      "name": "x12()",
-      "x": -366,
-      "y": 393,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L53",
-      "bgColor": "#fce3f3",
-      "parent": "#tpktj6"
+      "name": "exports 2/2",
+      "x": -207,
+      "y": 120,
+      "bgColor": "#fec0b1",
+      "parent": "#this"
     },
     {
       "@id": "#7348h9",
-      "name": "fair()",
-      "x": -411,
-      "y": 243,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L58",
-      "bgColor": "#fce3f3",
-      "parent": "#tpktj6"
+      "name": "blended()",
+      "x": -169,
+      "y": 400,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L31",
+      "bgColor": "#ffe3dc",
+      "parent": "#z8kicz"
     },
     {
       "@id": "#jtny2v",
-      "name": "implied()",
-      "x": -561,
-      "y": 155,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L64",
-      "bgColor": "#fce3f3",
-      "parent": "#tpktj6"
+      "name": "fromGrid()",
+      "x": -331,
+      "y": 415,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L32",
+      "bgColor": "#ffe3dc",
+      "parent": "#z8kicz"
     },
     {
       "@id": "#zvvi4r",
+      "name": "table()",
+      "x": -375,
+      "y": 282,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L47",
+      "bgColor": "#ffe3dc",
+      "parent": "#z8kicz"
+    },
+    {
+      "@id": "#ezqtt6",
+      "name": "x12()",
+      "x": -525,
+      "y": 228,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L53",
+      "bgColor": "#ffe3dc",
+      "parent": "#z8kicz"
+    },
+    {
+      "@id": "#8edjsn",
+      "name": "fair()",
+      "x": -488,
+      "y": 93,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L58",
+      "bgColor": "#ffe3dc",
+      "parent": "#z8kicz"
+    },
+    {
+      "@id": "#75s7ir",
+      "name": "implied()",
+      "x": -590,
+      "y": -15,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L64",
+      "bgColor": "#ffe3dc",
+      "parent": "#z8kicz"
+    },
+    {
+      "@id": "#7x3k79",
       "name": "74 lines",
-      "x": -217,
-      "y": -106,
+      "x": -183,
+      "y": -145,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#ezqtt6",
+      "@id": "#4af2dc",
       "name": "← lib/",
-      "x": 0,
+      "x": 19,
       "y": -212,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
@@ -167,64 +176,68 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 4
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 5
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 6
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 7
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 8
     },
     {
-      "start": 8,
+      "start": 0,
       "end": 9
     },
     {
-      "start": 8,
+      "start": 9,
       "end": 10
     },
     {
-      "start": 8,
+      "start": 9,
       "end": 11
     },
     {
-      "start": 8,
+      "start": 9,
       "end": 12
     },
     {
-      "start": 8,
+      "start": 9,
       "end": 13
     },
     {
-      "start": 8,
+      "start": 9,
       "end": 14
     },
     {
-      "start": 0,
+      "start": 9,
       "end": 15
     },
     {
       "start": 0,
       "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
     }
   ],
   "selectedNode": 0

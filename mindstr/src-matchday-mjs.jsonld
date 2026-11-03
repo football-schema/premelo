@@ -19,63 +19,72 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#4wkdd9",
-      "name": "exports",
-      "x": 245,
-      "y": 44,
+      "@id": "#z5cumb",
+      "name": "This season's Premier League fixtures and latest…",
+      "x": 237,
+      "y": -67,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/matchday.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#yiscsp",
-      "name": "DATASET()",
-      "x": 418,
-      "y": -234,
+      "@id": "#7iejm3",
+      "name": "exports",
+      "x": 50,
+      "y": 208,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#452y5w",
+      "name": "DATASET",
+      "x": 362,
+      "y": 293,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/matchday.mjs#L8",
-      "bgColor": "#daeeff",
-      "parent": "#4wkdd9"
+      "bgColor": "#fce3f3",
+      "parent": "#7iejm3"
     },
     {
-      "@id": "#2fzfhg",
+      "@id": "#yyjnxk",
       "name": "nameFor()",
-      "x": 589,
-      "y": -27,
+      "x": 232,
+      "y": 461,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/matchday.mjs#L13",
-      "bgColor": "#daeeff",
-      "parent": "#4wkdd9"
+      "bgColor": "#fce3f3",
+      "parent": "#7iejm3"
     },
     {
-      "@id": "#6ab87r",
+      "@id": "#hrvxpy",
       "name": "parseMatch()",
-      "x": 445,
-      "y": 194,
+      "x": -1,
+      "y": 425,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/matchday.mjs#L16",
-      "bgColor": "#daeeff",
-      "parent": "#4wkdd9"
+      "bgColor": "#fce3f3",
+      "parent": "#7iejm3"
     },
     {
-      "@id": "#uyfscv",
+      "@id": "#hzsqn4",
       "name": "fetchSeason()",
-      "x": 318,
-      "y": 422,
+      "x": -234,
+      "y": 460,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/matchday.mjs#L21",
-      "bgColor": "#daeeff",
-      "parent": "#4wkdd9"
+      "bgColor": "#fce3f3",
+      "parent": "#7iejm3"
     },
     {
-      "@id": "#z5cumb",
+      "@id": "#dttxwc",
       "name": "30 lines",
-      "x": -186,
-      "y": 142,
+      "x": -249,
+      "y": 17,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/matchday.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#7iejm3",
+      "@id": "#p8ysyk",
       "name": "← lib/",
-      "x": -102,
-      "y": -194,
+      "x": -50,
+      "y": -208,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -87,28 +96,32 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 4
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 5
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 6
     },
     {
       "start": 0,
       "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
     }
   ],
   "selectedNode": 0

@@ -19,81 +19,90 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#8edjsn",
-      "name": "exports",
-      "x": 217,
-      "y": 106,
+      "@id": "#7iui3z",
+      "name": "The leagues premelo rates, in football-data's codes",
+      "x": 228,
+      "y": -86,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#75s7ir",
-      "name": "LEAGUES()",
-      "x": 419,
-      "y": -231,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L3",
-      "bgColor": "#daeeff",
-      "parent": "#8edjsn"
-    },
-    {
-      "@id": "#7x3k79",
-      "name": "IDS()",
-      "x": 585,
-      "y": -68,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L27",
-      "bgColor": "#daeeff",
-      "parent": "#8edjsn"
-    },
-    {
-      "@id": "#4af2dc",
-      "name": "SCENARIOS()",
-      "x": 477,
-      "y": 127,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L32",
-      "bgColor": "#daeeff",
-      "parent": "#8edjsn"
-    },
-    {
-      "@id": "#7iui3z",
-      "name": "PLACES()",
-      "x": 434,
-      "y": 339,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L47",
-      "bgColor": "#daeeff",
-      "parent": "#8edjsn"
-    },
-    {
       "@id": "#bq9ccn",
-      "name": "leagueOf()",
-      "x": 189,
-      "y": 393,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L53",
-      "bgColor": "#daeeff",
-      "parent": "#8edjsn"
+      "name": "exports",
+      "x": 26,
+      "y": 211,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
     },
     {
       "@id": "#3yirdr",
-      "name": "load()",
-      "x": -31,
-      "y": 501,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L59",
-      "bgColor": "#daeeff",
-      "parent": "#8edjsn"
+      "name": "LEAGUES",
+      "x": 416,
+      "y": 235,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L3",
+      "bgColor": "#fce3f3",
+      "parent": "#bq9ccn"
     },
     {
       "@id": "#ptf2jy",
+      "name": "IDS",
+      "x": 349,
+      "y": 404,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L27",
+      "bgColor": "#fce3f3",
+      "parent": "#bq9ccn"
+    },
+    {
+      "@id": "#4bfy6j",
+      "name": "SCENARIOS",
+      "x": 138,
+      "y": 408,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L32",
+      "bgColor": "#fce3f3",
+      "parent": "#bq9ccn"
+    },
+    {
+      "@id": "#4wkdd9",
+      "name": "PLACES",
+      "x": -42,
+      "y": 500,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L47",
+      "bgColor": "#fce3f3",
+      "parent": "#bq9ccn"
+    },
+    {
+      "@id": "#yiscsp",
+      "name": "leagueOf()",
+      "x": -205,
+      "y": 388,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L53",
+      "bgColor": "#fce3f3",
+      "parent": "#bq9ccn"
+    },
+    {
+      "@id": "#2fzfhg",
+      "name": "load()",
+      "x": -413,
+      "y": 358,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs#L59",
+      "bgColor": "#fce3f3",
+      "parent": "#bq9ccn"
+    },
+    {
+      "@id": "#6ab87r",
       "name": "64 lines",
-      "x": -241,
-      "y": 55,
+      "x": -245,
+      "y": -44,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/leagues.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#4bfy6j",
+      "@id": "#uyfscv",
       "name": "← lib/",
-      "x": -65,
-      "y": -205,
+      "x": -26,
+      "y": -211,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -105,36 +114,40 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 4
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 5
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 6
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 7
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 8
     },
     {
       "start": 0,
       "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
     }
   ],
   "selectedNode": 0

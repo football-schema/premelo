@@ -19,81 +19,90 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#fxz322",
-      "name": "exports",
-      "x": 217,
-      "y": 106,
+      "@id": "#kwm3he",
+      "name": "Clubs",
+      "x": 228,
+      "y": -86,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#s77s87",
-      "name": "NAMES()",
-      "x": 419,
-      "y": -231,
+      "@id": "#qvd9cw",
+      "name": "exports",
+      "x": 26,
+      "y": 211,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sf37xb",
+      "name": "NAMES",
+      "x": 416,
+      "y": 235,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs#L3",
-      "bgColor": "#daeeff",
-      "parent": "#fxz322"
+      "bgColor": "#fce3f3",
+      "parent": "#qvd9cw"
     },
     {
-      "@id": "#k73rni",
+      "@id": "#fuhjpf",
       "name": "display()",
-      "x": 585,
-      "y": -68,
+      "x": 349,
+      "y": 404,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs#L41",
-      "bgColor": "#daeeff",
-      "parent": "#fxz322"
+      "bgColor": "#fce3f3",
+      "parent": "#qvd9cw"
     },
     {
-      "@id": "#r8zm2z",
-      "name": "ALIASES()",
-      "x": 477,
-      "y": 127,
+      "@id": "#dry8wx",
+      "name": "ALIASES",
+      "x": 138,
+      "y": 408,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs#L44",
-      "bgColor": "#daeeff",
-      "parent": "#fxz322"
+      "bgColor": "#fce3f3",
+      "parent": "#qvd9cw"
     },
     {
-      "@id": "#wzv4c3",
+      "@id": "#rmckuv",
       "name": "canonical()",
-      "x": 434,
-      "y": 339,
+      "x": -42,
+      "y": 500,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs#L50",
-      "bgColor": "#daeeff",
-      "parent": "#fxz322"
+      "bgColor": "#fce3f3",
+      "parent": "#qvd9cw"
     },
     {
-      "@id": "#7fnz2s",
+      "@id": "#6cicry",
       "name": "slug()",
-      "x": 189,
-      "y": 393,
+      "x": -205,
+      "y": 388,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs#L53",
-      "bgColor": "#daeeff",
-      "parent": "#fxz322"
+      "bgColor": "#fce3f3",
+      "parent": "#qvd9cw"
     },
     {
-      "@id": "#p89exh",
-      "name": "UEFA()",
-      "x": -31,
-      "y": 501,
+      "@id": "#7c28q6",
+      "name": "UEFA",
+      "x": -413,
+      "y": 358,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs#L56",
-      "bgColor": "#daeeff",
-      "parent": "#fxz322"
+      "bgColor": "#fce3f3",
+      "parent": "#qvd9cw"
     },
     {
-      "@id": "#urtpxv",
+      "@id": "#4qbh3e",
       "name": "438 lines",
-      "x": -241,
-      "y": 55,
+      "x": -245,
+      "y": -44,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/teams.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#4dg5c4",
+      "@id": "#m3xps2",
       "name": "← lib/",
-      "x": -65,
-      "y": -205,
+      "x": -26,
+      "y": -211,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -105,36 +114,40 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 4
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 5
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 6
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 7
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 8
     },
     {
       "start": 0,
       "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
     }
   ],
   "selectedNode": 0

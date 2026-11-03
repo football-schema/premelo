@@ -19,45 +19,54 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#kwm3he",
-      "name": "exports",
-      "x": 250,
-      "y": 0,
+      "@id": "#yxjf84",
+      "name": "European cup results from UEFA's own match data…",
+      "x": 241,
+      "y": -64,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#qvd9cw",
+      "@id": "#mrv4db",
+      "name": "exports",
+      "x": 65,
+      "y": 205,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i6483q",
       "name": "clubOf()",
-      "x": 452,
-      "y": -181,
+      "x": 279,
+      "y": 353,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs#L8",
-      "bgColor": "#daeeff",
-      "parent": "#kwm3he"
+      "bgColor": "#fce3f3",
+      "parent": "#mrv4db"
     },
     {
-      "@id": "#sf37xb",
+      "@id": "#kmcrgd",
       "name": "parse()",
-      "x": 534,
-      "y": 214,
+      "x": -40,
+      "y": 500,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs#L16",
-      "bgColor": "#daeeff",
-      "parent": "#kwm3he"
+      "bgColor": "#fce3f3",
+      "parent": "#mrv4db"
     },
     {
-      "@id": "#fuhjpf",
+      "@id": "#ktiw89",
       "name": "25 lines",
-      "x": -125,
-      "y": 184,
+      "x": -241,
+      "y": 55,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#dry8wx",
+      "@id": "#c74y5q",
       "name": "← lib/",
-      "x": -125,
-      "y": -184,
+      "x": -65,
+      "y": -205,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -69,20 +78,24 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 4
     },
     {
       "start": 0,
       "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
     }
   ],
   "selectedNode": 0

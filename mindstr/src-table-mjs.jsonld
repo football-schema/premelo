@@ -19,63 +19,72 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#eqmaaw",
-      "name": "exports",
-      "x": 245,
-      "y": 44,
+      "@id": "#s77s87",
+      "name": "The league table from a season's results, and…",
+      "x": 237,
+      "y": -67,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/table.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#pjbq25",
+      "@id": "#k73rni",
+      "name": "exports",
+      "x": 50,
+      "y": 208,
+      "bgColor": "#f3bee1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8zm2z",
       "name": "standings()",
-      "x": 418,
-      "y": -234,
+      "x": 362,
+      "y": 293,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/table.mjs#L11",
-      "bgColor": "#daeeff",
-      "parent": "#eqmaaw"
+      "bgColor": "#fce3f3",
+      "parent": "#k73rni"
     },
     {
-      "@id": "#tz98k5",
+      "@id": "#wzv4c3",
       "name": "remaining()",
-      "x": 589,
-      "y": -27,
+      "x": 232,
+      "y": 461,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/table.mjs#L26",
-      "bgColor": "#daeeff",
-      "parent": "#eqmaaw"
+      "bgColor": "#fce3f3",
+      "parent": "#k73rni"
     },
     {
-      "@id": "#437yyk",
+      "@id": "#7fnz2s",
       "name": "rng()",
-      "x": 445,
-      "y": 194,
+      "x": -1,
+      "y": 425,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/table.mjs#L33",
-      "bgColor": "#daeeff",
-      "parent": "#eqmaaw"
+      "bgColor": "#fce3f3",
+      "parent": "#k73rni"
     },
     {
-      "@id": "#j3k2bu",
+      "@id": "#p89exh",
       "name": "simulate()",
-      "x": 318,
-      "y": 422,
+      "x": -234,
+      "y": 460,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/table.mjs#L46",
-      "bgColor": "#daeeff",
-      "parent": "#eqmaaw"
+      "bgColor": "#fce3f3",
+      "parent": "#k73rni"
     },
     {
-      "@id": "#uhqx6j",
+      "@id": "#urtpxv",
       "name": "77 lines",
-      "x": -186,
-      "y": 142,
+      "x": -249,
+      "y": 17,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/table.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#aurbbn",
+      "@id": "#4dg5c4",
       "name": "← lib/",
-      "x": -102,
-      "y": -194,
+      "x": -50,
+      "y": -208,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -87,28 +96,32 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 4
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 5
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 6
     },
     {
       "start": 0,
       "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
     }
   ],
   "selectedNode": 0

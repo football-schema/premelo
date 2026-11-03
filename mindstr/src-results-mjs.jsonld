@@ -19,124 +19,133 @@
       "bgColor": "#ebc573"
     },
     {
-      "@id": "#452y5w",
-      "name": "exports 1/2",
-      "x": 249,
-      "y": -14,
+      "@id": "#9c2qhr",
+      "name": "Results from football-data's season files, in one…",
+      "x": 213,
+      "y": -111,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
     },
     {
-      "@id": "#yyjnxk",
-      "name": "fields()",
-      "x": 374,
-      "y": -282,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L9",
-      "bgColor": "#daeeff",
-      "parent": "#452y5w"
-    },
-    {
-      "@id": "#hrvxpy",
-      "name": "parseCsv()",
-      "x": 544,
-      "y": -193,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L10",
-      "bgColor": "#daeeff",
-      "parent": "#452y5w"
-    },
-    {
-      "@id": "#hzsqn4",
-      "name": "isoDate()",
-      "x": 499,
-      "y": -28,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L17",
-      "bgColor": "#daeeff",
-      "parent": "#452y5w"
-    },
-    {
-      "@id": "#dttxwc",
-      "name": "oddsOf()",
-      "x": 569,
-      "y": 131,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L30",
-      "bgColor": "#daeeff",
-      "parent": "#452y5w"
-    },
-    {
-      "@id": "#p8ysyk",
-      "name": "matches()",
-      "x": 414,
-      "y": 238,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L36",
-      "bgColor": "#daeeff",
-      "parent": "#452y5w"
-    },
-    {
-      "@id": "#9c2qhr",
-      "name": "exports 2/2",
-      "x": -80,
-      "y": 201,
-      "bgColor": "#f3bee1",
+      "@id": "#h59t8f",
+      "name": "exports 1/2",
+      "x": 179,
+      "y": 148,
+      "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
-      "@id": "#h59t8f",
-      "name": "matchesExtra()",
-      "x": 163,
-      "y": 402,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L54",
-      "bgColor": "#fce3f3",
-      "parent": "#9c2qhr"
-    },
-    {
       "@id": "#rfby2g",
-      "name": "HEAD()",
-      "x": 2,
-      "y": 501,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L69",
-      "bgColor": "#fce3f3",
-      "parent": "#9c2qhr"
+      "name": "fields()",
+      "x": 488,
+      "y": 91,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L9",
+      "bgColor": "#f7e4f9",
+      "parent": "#h59t8f"
     },
     {
       "@id": "#arxjt8",
-      "name": "toCsv()",
-      "x": -161,
-      "y": 402,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L70",
-      "bgColor": "#fce3f3",
-      "parent": "#9c2qhr"
+      "name": "parseCsv()",
+      "x": 520,
+      "y": 238,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L10",
+      "bgColor": "#f7e4f9",
+      "parent": "#h59t8f"
     },
     {
       "@id": "#jtyjdw",
-      "name": "fromCsv()",
-      "x": -360,
-      "y": 397,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L71",
-      "bgColor": "#fce3f3",
-      "parent": "#9c2qhr"
+      "name": "isoDate()",
+      "x": 358,
+      "y": 296,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L17",
+      "bgColor": "#f7e4f9",
+      "parent": "#h59t8f"
     },
     {
       "@id": "#dtqx4z",
-      "name": "byDate()",
-      "x": -417,
-      "y": 234,
-      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L72",
-      "bgColor": "#fce3f3",
-      "parent": "#9c2qhr"
+      "name": "oddsOf()",
+      "x": 294,
+      "y": 435,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L30",
+      "bgColor": "#f7e4f9",
+      "parent": "#h59t8f"
     },
     {
       "@id": "#u2s2vv",
+      "name": "matches()",
+      "x": 121,
+      "y": 412,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L36",
+      "bgColor": "#f7e4f9",
+      "parent": "#h59t8f"
+    },
+    {
+      "@id": "#vx2z65",
+      "name": "exports 2/2",
+      "x": -189,
+      "y": 140,
+      "bgColor": "#fec0b1",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xwei9g",
+      "name": "matchesExtra()",
+      "x": -147,
+      "y": 406,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L54",
+      "bgColor": "#ffe3dc",
+      "parent": "#vx2z65"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "HEAD",
+      "x": -322,
+      "y": 420,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L69",
+      "bgColor": "#ffe3dc",
+      "parent": "#vx2z65"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "toCsv()",
+      "x": -377,
+      "y": 279,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L70",
+      "bgColor": "#ffe3dc",
+      "parent": "#vx2z65"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "fromCsv()",
+      "x": -534,
+      "y": 213,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L71",
+      "bgColor": "#ffe3dc",
+      "parent": "#vx2z65"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "byDate()",
+      "x": -494,
+      "y": 68,
+      "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L72",
+      "bgColor": "#ffe3dc",
+      "parent": "#vx2z65"
+    },
+    {
+      "@id": "#vn2imx",
       "name": "73 lines",
-      "x": -237,
-      "y": -68,
+      "x": -205,
+      "y": -121,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
     },
     {
-      "@id": "#vx2z65",
+      "@id": "#2tznvh",
       "name": "← lib/",
-      "x": -16,
+      "x": 7,
       "y": -212,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
@@ -149,56 +158,60 @@
       "end": 1
     },
     {
-      "start": 1,
+      "start": 0,
       "end": 2
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 3
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 4
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 5
     },
     {
-      "start": 1,
+      "start": 2,
       "end": 6
     },
     {
-      "start": 0,
+      "start": 2,
       "end": 7
     },
     {
-      "start": 7,
+      "start": 0,
       "end": 8
     },
     {
-      "start": 7,
+      "start": 8,
       "end": 9
     },
     {
-      "start": 7,
+      "start": 8,
       "end": 10
     },
     {
-      "start": 7,
+      "start": 8,
       "end": 11
     },
     {
-      "start": 7,
+      "start": 8,
       "end": 12
     },
     {
-      "start": 0,
+      "start": 8,
       "end": 13
     },
     {
       "start": 0,
       "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
     }
   ],
   "selectedNode": 0
