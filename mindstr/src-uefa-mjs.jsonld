@@ -21,8 +21,8 @@
     {
       "@id": "#yxjf84",
       "name": "European cup results from UEFA's own match data…",
-      "x": 241,
-      "y": -64,
+      "x": 222,
+      "y": -65,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,16 +30,16 @@
     {
       "@id": "#mrv4db",
       "name": "exports",
-      "x": 65,
-      "y": 205,
+      "x": 60,
+      "y": 189,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#i6483q",
       "name": "clubOf()",
-      "x": 279,
-      "y": 353,
+      "x": 240,
+      "y": 303,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs#L8",
       "bgColor": "#fce3f3",
       "parent": "#mrv4db"
@@ -47,8 +47,8 @@
     {
       "@id": "#kmcrgd",
       "name": "parse()",
-      "x": -40,
-      "y": 500,
+      "x": -29,
+      "y": 365,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs#L16",
       "bgColor": "#fce3f3",
       "parent": "#mrv4db"
@@ -56,8 +56,8 @@
     {
       "@id": "#ktiw89",
       "name": "25 lines",
-      "x": -241,
-      "y": 55,
+      "x": -222,
+      "y": 51,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/uefa.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -65,8 +65,8 @@
     {
       "@id": "#c74y5q",
       "name": "← lib/",
-      "x": -65,
-      "y": -205,
+      "x": -60,
+      "y": -189,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

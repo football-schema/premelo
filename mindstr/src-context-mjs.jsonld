@@ -21,8 +21,8 @@
     {
       "@id": "#c2mpq8",
       "name": "What a fixture's context says beyond the two…",
-      "x": 241,
-      "y": -64,
+      "x": 222,
+      "y": -65,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/context.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,16 +30,16 @@
     {
       "@id": "#yykmee",
       "name": "exports",
-      "x": 65,
-      "y": 205,
+      "x": 60,
+      "y": 189,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#7kgwkb",
       "name": "DEFAULTS",
-      "x": 323,
-      "y": 325,
+      "x": 278,
+      "y": 279,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/context.mjs#L16",
       "bgColor": "#fce3f3",
       "parent": "#yykmee"
@@ -47,8 +47,8 @@
     {
       "@id": "#x7t4w7",
       "name": "features()",
-      "x": 153,
-      "y": 484,
+      "x": 111,
+      "y": 353,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/context.mjs#L21",
       "bgColor": "#fce3f3",
       "parent": "#yykmee"
@@ -56,8 +56,8 @@
     {
       "@id": "#dsw684",
       "name": "shift",
-      "x": -89,
-      "y": 418,
+      "x": -76,
+      "y": 360,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/context.mjs#L58",
       "bgColor": "#fce3f3",
       "parent": "#yykmee"
@@ -65,8 +65,8 @@
     {
       "@id": "#v88t4a",
       "name": "59 lines",
-      "x": -241,
-      "y": 55,
+      "x": -222,
+      "y": 51,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/context.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -74,8 +74,8 @@
     {
       "@id": "#skzt29",
       "name": "← lib/",
-      "x": -65,
-      "y": -205,
+      "x": -60,
+      "y": -189,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

@@ -21,8 +21,8 @@
     {
       "@id": "#ab9ysn",
       "name": "A second model to blend with the Elo",
-      "x": 245,
-      "y": -55,
+      "x": 246,
+      "y": -51,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/attack.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,16 +30,16 @@
     {
       "@id": "#qhtzie",
       "name": "exports",
-      "x": 65,
-      "y": 205,
+      "x": 60,
+      "y": 189,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#2sgmjt",
       "name": "DEFAULTS",
-      "x": 323,
-      "y": 325,
+      "x": 278,
+      "y": 279,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/attack.mjs#L10",
       "bgColor": "#fce3f3",
       "parent": "#qhtzie"
@@ -47,8 +47,8 @@
     {
       "@id": "#j9h6ge",
       "name": "SHOTS",
-      "x": 153,
-      "y": 484,
+      "x": 111,
+      "y": 353,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/attack.mjs#L18",
       "bgColor": "#fce3f3",
       "parent": "#qhtzie"
@@ -56,8 +56,8 @@
     {
       "@id": "#ejt2c7",
       "name": "run()",
-      "x": -89,
-      "y": 418,
+      "x": -76,
+      "y": 360,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/attack.mjs#L25",
       "bgColor": "#fce3f3",
       "parent": "#qhtzie"
@@ -65,8 +65,8 @@
     {
       "@id": "#tvx8v7",
       "name": "68 lines",
-      "x": -241,
-      "y": 55,
+      "x": -222,
+      "y": 51,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/attack.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -74,8 +74,8 @@
     {
       "@id": "#4bfmpa",
       "name": "← lib/",
-      "x": -65,
-      "y": -205,
+      "x": -60,
+      "y": -189,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

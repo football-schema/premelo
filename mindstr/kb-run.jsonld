@@ -21,8 +21,8 @@
     {
       "@id": "#ezqtt6",
       "name": "Pipeline · 8",
-      "x": 114,
-      "y": 189,
+      "x": 105,
+      "y": 174,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#running-it",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,96 +30,96 @@
     {
       "@id": "#8edjsn",
       "name": "steps 1/2",
-      "x": 472,
-      "y": 140,
-      "bgColor": "#daeeff",
+      "x": 406,
+      "y": 120,
+      "bgColor": "#97deef",
       "parent": "#ezqtt6"
     },
     {
       "@id": "#75s7ir",
       "name": "fetch: league seasons into cache/, one…",
-      "x": 712,
-      "y": -200,
+      "x": 598,
+      "y": -168,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/fetch.mjs",
-      "bgColor": "#daeeff",
+      "bgColor": "#d2f2fa",
       "parent": "#8edjsn"
     },
     {
       "@id": "#7x3k79",
       "name": "fetch-uefa: European cups into cache/uefa/",
-      "x": 832,
-      "y": 96,
+      "x": 694,
+      "y": 80,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/fetch-uefa.mjs",
-      "bgColor": "#daeeff",
+      "bgColor": "#d2f2fa",
       "parent": "#8edjsn"
     },
     {
       "@id": "#4af2dc",
       "name": "import: → data/<league>/results.csv,…",
-      "x": 628,
-      "y": 349,
+      "x": 527,
+      "y": 293,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/import.mjs",
-      "bgColor": "#daeeff",
+      "bgColor": "#d2f2fa",
       "parent": "#8edjsn"
     },
     {
       "@id": "#7iui3z",
       "name": "backtest: tune on 2000-01..2011-12 →…",
-      "x": 455,
-      "y": 600,
+      "x": 379,
+      "y": 500,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/backtest.mjs",
-      "bgColor": "#daeeff",
+      "bgColor": "#d2f2fa",
       "parent": "#8edjsn"
     },
     {
       "@id": "#bq9ccn",
       "name": "steps 2/2",
-      "x": -316,
-      "y": 424,
-      "bgColor": "#daeeff",
+      "x": -230,
+      "y": 309,
+      "bgColor": "#cccbff",
       "parent": "#ezqtt6"
     },
     {
       "@id": "#3yirdr",
       "name": "backtest: tune on everything → params.json",
-      "x": -113,
-      "y": 630,
+      "x": -76,
+      "y": 529,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/backtest.mjs",
-      "bgColor": "#daeeff",
+      "bgColor": "#e9e8ff",
       "parent": "#bq9ccn"
     },
     {
       "@id": "#ptf2jy",
       "name": "backtest: score →…",
-      "x": -397,
-      "y": 629,
+      "x": -341,
+      "y": 524,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/backtest.mjs",
-      "bgColor": "#daeeff",
+      "bgColor": "#e9e8ff",
       "parent": "#bq9ccn"
     },
     {
       "@id": "#4bfy6j",
       "name": "build: → ratings, fixtures, club…",
-      "x": -533,
-      "y": 449,
+      "x": -448,
+      "y": 377,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/build.mjs",
-      "bgColor": "#daeeff",
+      "bgColor": "#e9e8ff",
       "parent": "#bq9ccn"
     },
     {
       "@id": "#4wkdd9",
       "name": "npm test",
-      "x": -744,
-      "y": 331,
+      "x": -620,
+      "y": 276,
       "link": "https://github.com/football-schema/premelo/tree/gh-pages/test",
-      "bgColor": "#daeeff",
+      "bgColor": "#e9e8ff",
       "parent": "#bq9ccn"
     },
     {
       "@id": "#yiscsp",
       "name": "Other scripts · 4",
-      "x": -195,
-      "y": -133,
+      "x": -180,
+      "y": -122,
       "link": "https://github.com/football-schema/premelo/tree/gh-pages/scripts",
       "bgColor": "#febdc6",
       "parent": "#this"
@@ -127,8 +127,8 @@
     {
       "@id": "#2fzfhg",
       "name": "card.mjs",
-      "x": -476,
-      "y": -130,
+      "x": -409,
+      "y": -112,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/card.mjs",
       "bgColor": "#ffe2e6",
       "parent": "#yiscsp"
@@ -136,8 +136,8 @@
     {
       "@id": "#6ab87r",
       "name": "deploy.sh",
-      "x": -502,
-      "y": -263,
+      "x": -425,
+      "y": -218,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/deploy.sh",
       "bgColor": "#ffe2e6",
       "parent": "#yiscsp"
@@ -145,8 +145,8 @@
     {
       "@id": "#uyfscv",
       "name": "export-schema.mjs",
-      "x": -350,
-      "y": -304,
+      "x": -301,
+      "y": -264,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/export-schema.mjs",
       "bgColor": "#ffe2e6",
       "parent": "#yiscsp"
@@ -154,8 +154,8 @@
     {
       "@id": "#z5cumb",
       "name": "update.sh",
-      "x": -299,
-      "y": -432,
+      "x": -254,
+      "y": -366,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/scripts/update.sh",
       "bgColor": "#ffe2e6",
       "parent": "#yiscsp"
@@ -163,8 +163,8 @@
     {
       "@id": "#7iejm3",
       "name": "← premelo",
-      "x": 26,
-      "y": -211,
+      "x": 24,
+      "y": -194,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

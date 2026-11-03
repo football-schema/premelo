@@ -21,8 +21,8 @@
     {
       "@id": "#3y3s3p",
       "name": "From a rating gap to a match",
-      "x": 207,
-      "y": -120,
+      "x": 190,
+      "y": -110,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,16 +30,16 @@
     {
       "@id": "#ujs2ci",
       "name": "exports 1/2",
-      "x": 183,
-      "y": 145,
+      "x": 169,
+      "y": 133,
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#442pm7",
       "name": "DEFAULTS",
-      "x": 496,
-      "y": 51,
+      "x": 427,
+      "y": 44,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L9",
       "bgColor": "#f7e4f9",
       "parent": "#ujs2ci"
@@ -47,8 +47,8 @@
     {
       "@id": "#imr4n9",
       "name": "goals()",
-      "x": 550,
-      "y": 182,
+      "x": 466,
+      "y": 154,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L11",
       "bgColor": "#f7e4f9",
       "parent": "#ujs2ci"
@@ -56,8 +56,8 @@
     {
       "@id": "#tpktj6",
       "name": "grid",
-      "x": 406,
-      "y": 248,
+      "x": 349,
+      "y": 213,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L16",
       "bgColor": "#f7e4f9",
       "parent": "#ujs2ci"
@@ -65,8 +65,8 @@
     {
       "@id": "#u94rpy",
       "name": "gridOf()",
-      "x": 379,
-      "y": 384,
+      "x": 321,
+      "y": 326,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L17",
       "bgColor": "#f7e4f9",
       "parent": "#ujs2ci"
@@ -74,8 +74,8 @@
     {
       "@id": "#7txfyn",
       "name": "markets",
-      "x": 216,
-      "y": 383,
+      "x": 185,
+      "y": 330,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L27",
       "bgColor": "#f7e4f9",
       "parent": "#ujs2ci"
@@ -83,8 +83,8 @@
     {
       "@id": "#v5njcx",
       "name": "marketsOf()",
-      "x": 114,
-      "y": 492,
+      "x": 97,
+      "y": 417,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L29",
       "bgColor": "#f7e4f9",
       "parent": "#ujs2ci"
@@ -92,16 +92,16 @@
     {
       "@id": "#z8kicz",
       "name": "exports 2/2",
-      "x": -207,
-      "y": 120,
+      "x": -190,
+      "y": 110,
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
       "@id": "#7348h9",
       "name": "blended()",
-      "x": -169,
-      "y": 400,
+      "x": -145,
+      "y": 344,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L31",
       "bgColor": "#ffe3dc",
       "parent": "#z8kicz"
@@ -109,8 +109,8 @@
     {
       "@id": "#jtny2v",
       "name": "fromGrid()",
-      "x": -331,
-      "y": 415,
+      "x": -280,
+      "y": 352,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L32",
       "bgColor": "#ffe3dc",
       "parent": "#z8kicz"
@@ -118,8 +118,8 @@
     {
       "@id": "#zvvi4r",
       "name": "table()",
-      "x": -375,
-      "y": 282,
+      "x": -322,
+      "y": 242,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L47",
       "bgColor": "#ffe3dc",
       "parent": "#z8kicz"
@@ -127,8 +127,8 @@
     {
       "@id": "#ezqtt6",
       "name": "x12()",
-      "x": -525,
-      "y": 228,
+      "x": -445,
+      "y": 194,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L53",
       "bgColor": "#ffe3dc",
       "parent": "#z8kicz"
@@ -136,8 +136,8 @@
     {
       "@id": "#8edjsn",
       "name": "fair()",
-      "x": -488,
-      "y": 93,
+      "x": -420,
+      "y": 80,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L58",
       "bgColor": "#ffe3dc",
       "parent": "#z8kicz"
@@ -145,8 +145,8 @@
     {
       "@id": "#75s7ir",
       "name": "implied()",
-      "x": -590,
-      "y": -15,
+      "x": -500,
+      "y": -13,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs#L64",
       "bgColor": "#ffe3dc",
       "parent": "#z8kicz"
@@ -154,8 +154,8 @@
     {
       "@id": "#7x3k79",
       "name": "74 lines",
-      "x": -183,
-      "y": -145,
+      "x": -169,
+      "y": -133,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/goals.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -163,8 +163,8 @@
     {
       "@id": "#4af2dc",
       "name": "← lib/",
-      "x": 19,
-      "y": -212,
+      "x": 17,
+      "y": -195,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

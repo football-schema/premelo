@@ -21,8 +21,8 @@
     {
       "@id": "#cnh2fk",
       "name": "Seasons as football-data names them",
-      "x": 224,
-      "y": -94,
+      "x": 206,
+      "y": -87,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,16 +30,16 @@
     {
       "@id": "#dk76uz",
       "name": "exports",
-      "x": 20,
-      "y": 263,
+      "x": 19,
+      "y": 246,
       "bgColor": "#f3bee1",
       "parent": "#this"
     },
     {
       "@id": "#5aggpq",
       "name": "FIRST",
-      "x": 435,
-      "y": 209,
+      "x": 374,
+      "y": 180,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L2",
       "bgColor": "#fce3f3",
       "parent": "#dk76uz"
@@ -47,8 +47,8 @@
     {
       "@id": "#eqmaaw",
       "name": "code()",
-      "x": 391,
-      "y": 375,
+      "x": 332,
+      "y": 318,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L3",
       "bgColor": "#fce3f3",
       "parent": "#dk76uz"
@@ -56,8 +56,8 @@
     {
       "@id": "#pjbq25",
       "name": "startOf",
-      "x": 192,
-      "y": 392,
+      "x": 166,
+      "y": 337,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L4",
       "bgColor": "#fce3f3",
       "parent": "#dk76uz"
@@ -65,8 +65,8 @@
     {
       "@id": "#tz98k5",
       "name": "currentSeason()",
-      "x": 38,
-      "y": 500,
+      "x": 32,
+      "y": 424,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L5",
       "bgColor": "#fce3f3",
       "parent": "#dk76uz"
@@ -74,8 +74,8 @@
     {
       "@id": "#437yyk",
       "name": "seasons()",
-      "x": -131,
-      "y": 410,
+      "x": -113,
+      "y": 353,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L6",
       "bgColor": "#fce3f3",
       "parent": "#dk76uz"
@@ -83,8 +83,8 @@
     {
       "@id": "#j3k2bu",
       "name": "label()",
-      "x": -331,
-      "y": 415,
+      "x": -281,
+      "y": 352,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L8",
       "bgColor": "#fce3f3",
       "parent": "#dk76uz"
@@ -92,8 +92,8 @@
     {
       "@id": "#uhqx6j",
       "name": "ukToUtc()",
-      "x": -400,
-      "y": 255,
+      "x": -344,
+      "y": 220,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs#L11",
       "bgColor": "#fce3f3",
       "parent": "#dk76uz"
@@ -101,8 +101,8 @@
     {
       "@id": "#aurbbn",
       "name": "16 lines",
-      "x": -237,
-      "y": -69,
+      "x": -218,
+      "y": -63,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/seasons.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -110,8 +110,8 @@
     {
       "@id": "#fxz322",
       "name": "← lib/",
-      "x": -16,
-      "y": -212,
+      "x": -15,
+      "y": -195,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

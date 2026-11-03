@@ -21,8 +21,8 @@
     {
       "@id": "#skzt29",
       "name": "Sources · 3",
-      "x": 199,
-      "y": -128,
+      "x": 183,
+      "y": -118,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#data",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#t4pwzt",
       "name": "League results, 1993 on",
-      "x": 286,
-      "y": -330,
+      "x": 271,
+      "y": -284,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#data",
       "bgColor": "#daeeff",
       "parent": "#skzt29"
@@ -39,8 +39,8 @@
     {
       "@id": "#jhaa84",
       "name": "European cups",
-      "x": 462,
-      "y": -328,
+      "x": 325,
+      "y": -239,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#data",
       "bgColor": "#daeeff",
       "parent": "#skzt29"
@@ -48,8 +48,8 @@
     {
       "@id": "#wavvy9",
       "name": "This season's Premier League fixtures and…",
-      "x": 445,
-      "y": -193,
+      "x": 383,
+      "y": -166,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#data",
       "bgColor": "#daeeff",
       "parent": "#skzt29"
@@ -57,8 +57,8 @@
     {
       "@id": "#i9w3v4",
       "name": "Files · 11",
-      "x": -69,
-      "y": 204,
+      "x": -64,
+      "y": 188,
       "link": "https://github.com/football-schema/premelo/tree/gh-pages",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -66,123 +66,123 @@
     {
       "@id": "#e9sufn",
       "name": "files 1/2",
-      "x": 243,
-      "y": 372,
-      "bgColor": "#fce3f3",
+      "x": 209,
+      "y": 320,
+      "bgColor": "#e2c3f5",
       "parent": "#i9w3v4"
     },
     {
       "@id": "#g45zx9",
       "name": "leagues.json: leagues, with each one's top…",
-      "x": 695,
-      "y": 240,
+      "x": 584,
+      "y": 201,
       "link": "https://football-schema.github.io/premelo/data/leagues.json",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f4e5fc",
       "parent": "#e9sufn"
     },
     {
       "@id": "#vz8rhu",
       "name": "europe.csv: every European cup match:…",
-      "x": 666,
-      "y": 435,
+      "x": 555,
+      "y": 363,
       "link": "https://football-schema.github.io/premelo/data/europe.csv",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f4e5fc",
       "parent": "#e9sufn"
     },
     {
       "@id": "#35gtrs",
       "name": "europe.json: how well the European matches…",
-      "x": 451,
-      "y": 509,
+      "x": 379,
+      "y": 428,
       "link": "https://football-schema.github.io/premelo/data/europe.json",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f4e5fc",
       "parent": "#e9sufn"
     },
     {
       "@id": "#fiqrfa",
       "name": "<league>/ratings.json: every club of the…",
-      "x": 302,
-      "y": 675,
+      "x": 251,
+      "y": 569,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#running-it",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f4e5fc",
       "parent": "#e9sufn"
     },
     {
       "@id": "#fad69b",
       "name": "<league>/clubs/<club>.json: club's rating…",
-      "x": 69,
-      "y": 631,
+      "x": 58,
+      "y": 525,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#running-it",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f4e5fc",
       "parent": "#e9sufn"
     },
     {
       "@id": "#fnrzmm",
       "name": "<league>/fixtures.json: coming matches:…",
-      "x": -151,
-      "y": 702,
+      "x": -126,
+      "y": 585,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#running-it",
-      "bgColor": "#fce3f3",
+      "bgColor": "#f4e5fc",
       "parent": "#e9sufn"
     },
     {
       "@id": "#3y3s3p",
       "name": "files 2/2",
-      "x": -561,
-      "y": 154,
-      "bgColor": "#fce3f3",
+      "x": -409,
+      "y": 113,
+      "bgColor": "#fdbdc8",
       "parent": "#i9w3v4"
     },
     {
       "@id": "#ujs2ci",
       "name": "<league>/backtest.json: test: the holdout…",
-      "x": -503,
-      "y": 473,
+      "x": -423,
+      "y": 397,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#running-it",
-      "bgColor": "#fce3f3",
+      "bgColor": "#ffe2e7",
       "parent": "#3y3s3p"
     },
     {
       "@id": "#442pm7",
       "name": "<league>/results.csv: every match:…",
-      "x": -704,
-      "y": 389,
+      "x": -587,
+      "y": 325,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#running-it",
-      "bgColor": "#fce3f3",
+      "bgColor": "#ffe2e7",
       "parent": "#3y3s3p"
     },
     {
       "@id": "#imr4n9",
       "name": "scorecard.json: this season so far, per…",
-      "x": -711,
-      "y": 203,
+      "x": -597,
+      "y": 171,
       "link": "https://football-schema.github.io/premelo/data/scorecard.json",
-      "bgColor": "#fce3f3",
+      "bgColor": "#ffe2e7",
       "parent": "#3y3s3p"
     },
     {
       "@id": "#tpktj6",
       "name": "movers.json: week's biggest rating changes",
-      "x": -839,
-      "y": 37,
+      "x": -699,
+      "y": 31,
       "link": "https://football-schema.github.io/premelo/data/movers.json",
-      "bgColor": "#fce3f3",
+      "bgColor": "#ffe2e7",
       "parent": "#3y3s3p"
     },
     {
       "@id": "#u94rpy",
       "name": "europe-fixtures.json: coming Champions…",
-      "x": -732,
-      "y": -138,
+      "x": -615,
+      "y": -116,
       "link": "https://football-schema.github.io/premelo/data/europe-fixtures.json",
-      "bgColor": "#fce3f3",
+      "bgColor": "#ffe2e7",
       "parent": "#3y3s3p"
     },
     {
       "@id": "#7txfyn",
       "name": "In the Football Schema",
-      "x": -90,
-      "y": -198,
+      "x": -91,
+      "y": -182,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#in-the-football-schema",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -190,8 +190,8 @@
     {
       "@id": "#v5njcx",
       "name": "Football Schema",
-      "x": -291,
-      "y": -346,
+      "x": -250,
+      "y": -297,
       "link": "https://football-schema.github.io/schema/",
       "bgColor": "#fbe8d3",
       "parent": "#7txfyn"
@@ -199,8 +199,8 @@
     {
       "@id": "#z8kicz",
       "name": "data/dataset.jsonld",
-      "x": -264,
-      "y": -451,
+      "x": -224,
+      "y": -389,
       "link": "https://football-schema.github.io/premelo/data/dataset.jsonld",
       "bgColor": "#fbe8d3",
       "parent": "#7txfyn"
@@ -208,8 +208,8 @@
     {
       "@id": "#7348h9",
       "name": "data/pl/forecasts.jsonld",
-      "x": -143,
-      "y": -406,
+      "x": -123,
+      "y": -345,
       "link": "https://football-schema.github.io/premelo/data/pl/forecasts.jsonld",
       "bgColor": "#fbe8d3",
       "parent": "#7txfyn"
@@ -217,8 +217,8 @@
     {
       "@id": "#jtny2v",
       "name": "matchday",
-      "x": -69,
-      "y": -498,
+      "x": -59,
+      "y": -422,
       "link": "https://melvin.me/public/matchday/",
       "bgColor": "#fbe8d3",
       "parent": "#7txfyn"
@@ -227,7 +227,7 @@
       "@id": "#zvvi4r",
       "name": "← premelo",
       "x": 67,
-      "y": -205,
+      "y": -188,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

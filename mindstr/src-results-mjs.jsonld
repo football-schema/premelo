@@ -21,8 +21,8 @@
     {
       "@id": "#9c2qhr",
       "name": "Results from football-data's season files, in one…",
-      "x": 213,
-      "y": -111,
+      "x": 196,
+      "y": -102,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L1",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,16 +30,16 @@
     {
       "@id": "#h59t8f",
       "name": "exports 1/2",
-      "x": 179,
-      "y": 148,
+      "x": 165,
+      "y": 136,
       "bgColor": "#e9c1ef",
       "parent": "#this"
     },
     {
       "@id": "#rfby2g",
       "name": "fields()",
-      "x": 488,
-      "y": 91,
+      "x": 420,
+      "y": 78,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L9",
       "bgColor": "#f7e4f9",
       "parent": "#h59t8f"
@@ -47,8 +47,8 @@
     {
       "@id": "#arxjt8",
       "name": "parseCsv()",
-      "x": 520,
-      "y": 238,
+      "x": 440,
+      "y": 201,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L10",
       "bgColor": "#f7e4f9",
       "parent": "#h59t8f"
@@ -56,8 +56,8 @@
     {
       "@id": "#jtyjdw",
       "name": "isoDate()",
-      "x": 358,
-      "y": 296,
+      "x": 308,
+      "y": 255,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L17",
       "bgColor": "#f7e4f9",
       "parent": "#h59t8f"
@@ -65,8 +65,8 @@
     {
       "@id": "#dtqx4z",
       "name": "oddsOf()",
-      "x": 294,
-      "y": 435,
+      "x": 249,
+      "y": 369,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L30",
       "bgColor": "#f7e4f9",
       "parent": "#h59t8f"
@@ -74,8 +74,8 @@
     {
       "@id": "#u2s2vv",
       "name": "matches()",
-      "x": 121,
-      "y": 412,
+      "x": 104,
+      "y": 355,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L36",
       "bgColor": "#f7e4f9",
       "parent": "#h59t8f"
@@ -83,16 +83,16 @@
     {
       "@id": "#vx2z65",
       "name": "exports 2/2",
-      "x": -189,
-      "y": 140,
+      "x": -173,
+      "y": 128,
       "bgColor": "#fec0b1",
       "parent": "#this"
     },
     {
       "@id": "#xwei9g",
       "name": "matchesExtra()",
-      "x": -147,
-      "y": 406,
+      "x": -127,
+      "y": 349,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L54",
       "bgColor": "#ffe3dc",
       "parent": "#vx2z65"
@@ -100,8 +100,8 @@
     {
       "@id": "#6bzs4i",
       "name": "HEAD",
-      "x": -322,
-      "y": 420,
+      "x": -273,
+      "y": 356,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L69",
       "bgColor": "#ffe3dc",
       "parent": "#vx2z65"
@@ -109,8 +109,8 @@
     {
       "@id": "#fkywkd",
       "name": "toCsv()",
-      "x": -377,
-      "y": 279,
+      "x": -324,
+      "y": 240,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L70",
       "bgColor": "#ffe3dc",
       "parent": "#vx2z65"
@@ -118,8 +118,8 @@
     {
       "@id": "#j8deiz",
       "name": "fromCsv()",
-      "x": -534,
-      "y": 213,
+      "x": -453,
+      "y": 181,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L71",
       "bgColor": "#ffe3dc",
       "parent": "#vx2z65"
@@ -127,8 +127,8 @@
     {
       "@id": "#aya9s9",
       "name": "byDate()",
-      "x": -494,
-      "y": 68,
+      "x": -424,
+      "y": 59,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs#L72",
       "bgColor": "#ffe3dc",
       "parent": "#vx2z65"
@@ -136,8 +136,8 @@
     {
       "@id": "#vn2imx",
       "name": "73 lines",
-      "x": -205,
-      "y": -121,
+      "x": -189,
+      "y": -111,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/lib/results.mjs",
       "bgColor": "#ececec",
       "parent": "#this"
@@ -145,8 +145,8 @@
     {
       "@id": "#2tznvh",
       "name": "← lib/",
-      "x": 7,
-      "y": -212,
+      "x": 6,
+      "y": -195,
       "link": "./src.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"

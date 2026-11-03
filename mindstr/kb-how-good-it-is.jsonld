@@ -21,8 +21,8 @@
     {
       "@id": "#ab9ysn",
       "name": "All · 11 leagues",
-      "x": 250,
-      "y": 13,
+      "x": 235,
+      "y": 12,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#acd5ff",
       "parent": "#this"
@@ -30,8 +30,8 @@
     {
       "@id": "#qhtzie",
       "name": "Matches 49,397",
-      "x": 385,
-      "y": -271,
+      "x": 331,
+      "y": -233,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -39,8 +39,8 @@
     {
       "@id": "#2sgmjt",
       "name": "premelo log loss 0.9657",
-      "x": 564,
-      "y": -149,
+      "x": 478,
+      "y": -126,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -48,8 +48,8 @@
     {
       "@id": "#j9h6ge",
       "name": "Elo alone 0.9672",
-      "x": 498,
-      "y": 38,
+      "x": 428,
+      "y": 33,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -57,8 +57,8 @@
     {
       "@id": "#ejt2c7",
       "name": "Closing odds 0.9576",
-      "x": 531,
-      "y": 218,
+      "x": 450,
+      "y": 185,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -66,8 +66,8 @@
     {
       "@id": "#tvx8v7",
       "name": "premelo RPS 0.1948",
-      "x": 345,
-      "y": 308,
+      "x": 296,
+      "y": 265,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#daeeff",
       "parent": "#ab9ysn"
@@ -75,8 +75,8 @@
     {
       "@id": "#4bfmpa",
       "name": "What closed half the gap",
-      "x": -120,
-      "y": 187,
+      "x": -110,
+      "y": 172,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#f3bee1",
       "parent": "#this"
@@ -84,8 +84,8 @@
     {
       "@id": "#c2mpq8",
       "name": "The market's view, learnt from",
-      "x": 5,
-      "y": 425,
+      "x": 9,
+      "y": 365,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#fce3f3",
       "parent": "#4bfmpa"
@@ -93,8 +93,8 @@
     {
       "@id": "#yykmee",
       "name": "Fixture context",
-      "x": -235,
-      "y": 460,
+      "x": -202,
+      "y": 390,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#fce3f3",
       "parent": "#4bfmpa"
@@ -102,8 +102,8 @@
     {
       "@id": "#7kgwkb",
       "name": "Elo dynamics",
-      "x": -340,
-      "y": 312,
+      "x": -292,
+      "y": 268,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#fce3f3",
       "parent": "#4bfmpa"
@@ -111,8 +111,8 @@
     {
       "@id": "#x7t4w7",
       "name": "Attack/defence",
-      "x": -522,
-      "y": 233,
+      "x": -443,
+      "y": 198,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#fce3f3",
       "parent": "#4bfmpa"
@@ -120,8 +120,8 @@
     {
       "@id": "#dsw684",
       "name": "Against ClubElo",
-      "x": -231,
-      "y": -82,
+      "x": -212,
+      "y": -75,
       "link": "https://github.com/football-schema/premelo/blob/gh-pages/README.md#how-good-it-is",
       "bgColor": "#f1c99c",
       "parent": "#this"
@@ -129,8 +129,8 @@
     {
       "@id": "#v88t4a",
       "name": "← premelo",
-      "x": -11,
-      "y": -212,
+      "x": -10,
+      "y": -195,
       "link": "./index.jsonld",
       "bgColor": "#ececec",
       "parent": "#this"
