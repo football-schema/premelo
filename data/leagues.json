@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:01:17.002Z",
+ "updated": "2026-11-04T07:01:14.808Z",
  "leagues": [
   {
    "id": "pl",
@@ -31,19 +31,19 @@
    "country": "Spain",
    "second": "Segunda División",
    "extra": false,
-   "through": "2026-11-01",
+   "through": "2026-11-02",
    "top": [
     [
      "Barcelona",
-     2168
+     2164
     ],
     [
      "Real Madrid",
-     2119
+     2111
     ],
     [
      "Atlético Madrid",
-     1999
+     1980
     ]
    ]
   },
@@ -58,15 +58,15 @@
    "top": [
     [
      "Bayern Munich",
-     2166
+     2179
     ],
     [
      "Bayer Leverkusen",
-     1969
+     1972
     ],
     [
      "Borussia Dortmund",
-     1948
+     1950
     ]
    ]
   },
@@ -77,19 +77,19 @@
    "country": "Italy",
    "second": "Serie B",
    "extra": false,
-   "through": "2026-11-01",
+   "through": "2026-11-02",
    "top": [
     [
      "Inter",
-     2029
+     2046
     ],
     [
      "Como",
-     1951
+     1956
     ],
     [
-     "AC Milan",
-     1934
+     "Juventus",
+     1941
     ]
    ]
   },
@@ -100,19 +100,19 @@
    "country": "France",
    "second": "Ligue 2",
    "extra": false,
-   "through": "2026-11-01",
+   "through": "2026-11-02",
    "top": [
     [
      "Paris Saint-Germain",
-     2099
+     2117
     ],
     [
      "Monaco",
-     1876
+     1880
     ],
     [
      "Olympique Lyonnais",
-     1832
+     1837
     ]
    ]
   },
@@ -122,19 +122,19 @@
    "short": "Primeira Liga",
    "country": "Portugal",
    "extra": false,
-   "through": "2026-11-01",
+   "through": "2026-11-02",
    "top": [
     [
      "Benfica",
-     2016
+     2023
     ],
     [
      "Porto",
-     1929
+     1931
     ],
     [
      "Sporting CP",
-     1903
+     1911
     ]
    ]
   },
@@ -147,16 +147,16 @@
    "through": "2026-11-01",
    "top": [
     [
-     "Feyenoord",
-     1842
+     "PSV",
+     1836
     ],
     [
-     "PSV",
-     1839
+     "Feyenoord",
+     1827
     ],
     [
      "Ajax",
-     1827
+     1824
     ]
    ]
   },
@@ -188,19 +188,19 @@
    "short": "Süper Lig",
    "country": "Turkey",
    "extra": false,
-   "through": "2026-11-01",
+   "through": "2026-11-02",
    "top": [
     [
      "Galatasaray",
-     1852
+     1866
     ],
     [
      "Beşiktaş",
-     1820
+     1823
     ],
     [
      "Trabzonspor",
-     1786
+     1789
     ]
    ]
   },
@@ -233,7 +233,7 @@
    "short": "Super League",
    "country": "Greece",
    "extra": false,
-   "through": "2026-11-01",
+   "through": "2026-11-02",
    "top": [
     [
      "Panathinaikos",
@@ -255,19 +255,19 @@
    "short": "Austria",
    "country": "Austria",
    "extra": true,
-   "through": "2026-10-25",
+   "through": "2026-11-01",
    "top": [
     [
      "Salzburg",
-     1724
+     1737
     ],
     [
      "LASK",
-     1712
+     1718
     ],
     [
      "SK Rapid",
-     1708
+     1709
     ]
    ]
   },
@@ -277,19 +277,19 @@
    "short": "Switzerland",
    "country": "Switzerland",
    "extra": true,
-   "through": "2026-10-25",
+   "through": "2026-11-01",
    "top": [
     [
      "Young Boys",
-     1709
+     1701
     ],
     [
      "Lugano",
-     1676
+     1678
     ],
     [
-     "Sion",
-     1648
+     "St. Gallen",
+     1634
     ]
    ]
   },
@@ -299,19 +299,19 @@
    "short": "Denmark",
    "country": "Denmark",
    "extra": true,
-   "through": "2026-10-26",
+   "through": "2026-11-02",
    "top": [
     [
      "FC Copenhagen",
-     1790
+     1792
     ],
     [
      "Midtjylland",
-     1708
+     1712
     ],
     [
-     "Nordsjaelland",
-     1698
+     "Brondby",
+     1700
     ]
    ]
   },
@@ -321,19 +321,19 @@
    "short": "Norway",
    "country": "Norway",
    "extra": true,
-   "through": "2026-10-25",
+   "through": "2026-11-01",
    "top": [
     [
      "Bodo/Glimt",
-     1844
+     1856
     ],
     [
      "Viking",
-     1726
+     1709
     ],
     [
      "Rosenborg",
-     1682
+     1690
     ]
    ]
   },
@@ -343,19 +343,19 @@
    "short": "Sweden",
    "country": "Sweden",
    "extra": true,
-   "through": "2026-10-29",
+   "through": "2026-11-02",
    "top": [
     [
      "Hammarby",
-     1738
+     1734
     ],
     [
      "Djurgarden",
-     1663
+     1652
     ],
     [
      "Hacken",
-     1602
+     1611
     ]
    ]
   },
@@ -365,19 +365,19 @@
    "short": "Poland",
    "country": "Poland",
    "extra": true,
-   "through": "2026-10-25",
+   "through": "2026-11-02",
    "top": [
     [
      "Lech Poznan",
-     1704
+     1702
     ],
     [
      "Gornik Zabrze",
-     1662
+     1666
     ],
     [
      "Legia",
-     1641
+     1637
     ]
    ]
   },
@@ -387,19 +387,19 @@
    "short": "Romania",
    "country": "Romania",
    "extra": true,
-   "through": "2026-10-26",
+   "through": "2026-11-02",
    "top": [
     [
      "Univ. Craiova",
-     1703
+     1718
     ],
     [
      "Dinamo Bucuresti",
-     1651
+     1650
     ],
     [
      "FCSB",
-     1612
+     1606
     ]
    ]
   },
@@ -409,19 +409,19 @@
    "short": "Ireland",
    "country": "Ireland",
    "extra": true,
-   "through": "2026-10-23",
+   "through": "2026-10-30",
    "top": [
     [
      "St. Patricks",
-     1466
+     1480
     ],
     [
      "Bohemians",
-     1444
+     1430
     ],
     [
      "Shamrock Rovers",
-     1430
+     1421
     ]
    ]
   },
@@ -431,11 +431,11 @@
    "short": "Finland",
    "country": "Finland",
    "extra": true,
-   "through": "2026-10-29",
+   "through": "2026-11-02",
    "top": [
     [
      "HJK",
-     1509
+     1532
     ],
     [
      "Inter Turku",
@@ -443,7 +443,7 @@
     ],
     [
      "KuPS",
-     1440
+     1432
     ]
    ]
   }

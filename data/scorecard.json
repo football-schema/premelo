@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:00:54.754Z",
+ "updated": "2026-11-04T07:00:53.037Z",
  "frozen": "2011-12",
  "leagues": [
   {
@@ -7,23 +7,23 @@
    "name": "Premier League",
    "extra": false,
    "season": "2026-27",
-   "matches": 89,
+   "matches": 90,
    "called": 45,
    "model": {
-    "logloss": 1.0275,
-    "rps": 0.2078,
-    "brier": 0.6163
+    "logloss": 1.0315,
+    "rps": 0.2098,
+    "brier": 0.619
    },
    "market": {
-    "logloss": 1.0166,
-    "rps": 0.2042,
-    "brier": 0.6091
+    "logloss": 1.0191,
+    "rps": 0.2058,
+    "brier": 0.611
    },
-   "withOdds": 89,
+   "withOdds": 90,
    "modelOnOdds": {
-    "logloss": 1.0275,
-    "rps": 0.2078,
-    "brier": 0.6163
+    "logloss": 1.0315,
+    "rps": 0.2098,
+    "brier": 0.619
    }
   },
   {
@@ -31,23 +31,23 @@
    "name": "La Liga",
    "extra": false,
    "season": "2026-27",
-   "matches": 108,
-   "called": 61,
+   "matches": 109,
+   "called": 62,
    "model": {
-    "logloss": 0.9282,
-    "rps": 0.1836,
-    "brier": 0.5466
+    "logloss": 0.9275,
+    "rps": 0.1838,
+    "brier": 0.5461
    },
    "market": {
-    "logloss": 0.9083,
+    "logloss": 0.9072,
     "rps": 0.1805,
-    "brier": 0.5349
+    "brier": 0.5341
    },
-   "withOdds": 108,
+   "withOdds": 109,
    "modelOnOdds": {
-    "logloss": 0.9282,
-    "rps": 0.1836,
-    "brier": 0.5466
+    "logloss": 0.9275,
+    "rps": 0.1838,
+    "brier": 0.5461
    }
   },
   {
@@ -58,9 +58,9 @@
    "matches": 72,
    "called": 38,
    "model": {
-    "logloss": 1.0355,
-    "rps": 0.2246,
-    "brier": 0.6248
+    "logloss": 1.0358,
+    "rps": 0.2247,
+    "brier": 0.625
    },
    "market": {
     "logloss": 1.0155,
@@ -69,9 +69,9 @@
    },
    "withOdds": 72,
    "modelOnOdds": {
-    "logloss": 1.0355,
-    "rps": 0.2246,
-    "brier": 0.6248
+    "logloss": 1.0358,
+    "rps": 0.2247,
+    "brier": 0.625
    }
   },
   {
@@ -79,23 +79,23 @@
    "name": "Serie A",
    "extra": false,
    "season": "2026-27",
-   "matches": 98,
+   "matches": 100,
    "called": 61,
    "model": {
-    "logloss": 0.8966,
-    "rps": 0.1889,
-    "brier": 0.5196
+    "logloss": 0.9123,
+    "rps": 0.1943,
+    "brier": 0.529
    },
    "market": {
-    "logloss": 0.891,
-    "rps": 0.1884,
-    "brier": 0.5159
+    "logloss": 0.9023,
+    "rps": 0.1929,
+    "brier": 0.5233
    },
-   "withOdds": 98,
+   "withOdds": 100,
    "modelOnOdds": {
-    "logloss": 0.8966,
-    "rps": 0.1889,
-    "brier": 0.5196
+    "logloss": 0.9123,
+    "rps": 0.1943,
+    "brier": 0.529
    }
   },
   {
@@ -103,23 +103,23 @@
    "name": "Ligue 1",
    "extra": false,
    "season": "2026-27",
-   "matches": 80,
+   "matches": 81,
    "called": 46,
    "model": {
-    "logloss": 0.9525,
-    "rps": 0.1932,
-    "brier": 0.5655
+    "logloss": 0.957,
+    "rps": 0.1953,
+    "brier": 0.5685
    },
    "market": {
-    "logloss": 0.9526,
-    "rps": 0.1926,
-    "brier": 0.5632
+    "logloss": 0.9552,
+    "rps": 0.1941,
+    "brier": 0.5651
    },
-   "withOdds": 80,
+   "withOdds": 81,
    "modelOnOdds": {
-    "logloss": 0.9525,
-    "rps": 0.1932,
-    "brier": 0.5655
+    "logloss": 0.957,
+    "rps": 0.1953,
+    "brier": 0.5685
    }
   },
   {
@@ -127,23 +127,23 @@
    "name": "Primeira Liga",
    "extra": false,
    "season": "2026-27",
-   "matches": 88,
-   "called": 47,
+   "matches": 90,
+   "called": 48,
    "model": {
-    "logloss": 0.9497,
-    "rps": 0.1992,
-    "brier": 0.5615
+    "logloss": 0.9435,
+    "rps": 0.1962,
+    "brier": 0.5575
    },
    "market": {
-    "logloss": 0.9367,
-    "rps": 0.1961,
-    "brier": 0.5556
+    "logloss": 0.9314,
+    "rps": 0.1933,
+    "brier": 0.552
    },
-   "withOdds": 88,
+   "withOdds": 90,
    "modelOnOdds": {
-    "logloss": 0.9497,
-    "rps": 0.1992,
-    "brier": 0.5615
+    "logloss": 0.9435,
+    "rps": 0.1962,
+    "brier": 0.5575
    }
   },
   {
@@ -199,23 +199,23 @@
    "name": "Süper Lig",
    "extra": false,
    "season": "2026-27",
-   "matches": 89,
-   "called": 46,
+   "matches": 90,
+   "called": 47,
    "model": {
-    "logloss": 0.9643,
-    "rps": 0.2112,
-    "brier": 0.5727
+    "logloss": 0.9647,
+    "rps": 0.2118,
+    "brier": 0.5731
    },
    "market": {
-    "logloss": 0.9311,
-    "rps": 0.2003,
-    "brier": 0.5481
+    "logloss": 0.9323,
+    "rps": 0.2011,
+    "brier": 0.5491
    },
-   "withOdds": 89,
+   "withOdds": 90,
    "modelOnOdds": {
-    "logloss": 0.9643,
-    "rps": 0.2112,
-    "brier": 0.5727
+    "logloss": 0.9647,
+    "rps": 0.2118,
+    "brier": 0.5731
    }
   },
   {
@@ -226,7 +226,7 @@
    "matches": 69,
    "called": 31,
    "model": {
-    "logloss": 1.0007,
+    "logloss": 1.0008,
     "rps": 0.2118,
     "brier": 0.5984
    },
@@ -237,7 +237,7 @@
    },
    "withOdds": 69,
    "modelOnOdds": {
-    "logloss": 1.0007,
+    "logloss": 1.0008,
     "rps": 0.2118,
     "brier": 0.5984
    }
@@ -247,23 +247,23 @@
    "name": "Super League",
    "extra": false,
    "season": "2026-27",
-   "matches": 60,
-   "called": 38,
+   "matches": 62,
+   "called": 39,
    "model": {
-    "logloss": 0.8865,
-    "rps": 0.1794,
-    "brier": 0.507
+    "logloss": 0.8888,
+    "rps": 0.178,
+    "brier": 0.5089
    },
    "market": {
-    "logloss": 0.8491,
-    "rps": 0.1711,
-    "brier": 0.4891
+    "logloss": 0.852,
+    "rps": 0.17,
+    "brier": 0.4914
    },
-   "withOdds": 60,
+   "withOdds": 62,
    "modelOnOdds": {
-    "logloss": 0.8865,
-    "rps": 0.1794,
-    "brier": 0.507
+    "logloss": 0.8888,
+    "rps": 0.178,
+    "brier": 0.5089
    }
   },
   {
@@ -271,23 +271,23 @@
    "name": "Austrian Bundesliga",
    "extra": true,
    "season": "2026-27",
-   "matches": 60,
-   "called": 35,
+   "matches": 66,
+   "called": 39,
    "model": {
-    "logloss": 0.9633,
-    "rps": 0.2035,
-    "brier": 0.5752
+    "logloss": 0.953,
+    "rps": 0.1974,
+    "brier": 0.5675
    },
    "market": {
-    "logloss": 0.8943,
-    "rps": 0.1823,
-    "brier": 0.5251
+    "logloss": 0.8887,
+    "rps": 0.1779,
+    "brier": 0.5216
    },
-   "withOdds": 60,
+   "withOdds": 66,
    "modelOnOdds": {
-    "logloss": 0.9633,
-    "rps": 0.2035,
-    "brier": 0.5752
+    "logloss": 0.953,
+    "rps": 0.1974,
+    "brier": 0.5675
    }
   },
   {
@@ -295,23 +295,23 @@
    "name": "Swiss Super League",
    "extra": true,
    "season": "2026-27",
-   "matches": 66,
-   "called": 37,
+   "matches": 72,
+   "called": 39,
    "model": {
-    "logloss": 0.9458,
-    "rps": 0.2088,
-    "brier": 0.56
+    "logloss": 0.9692,
+    "rps": 0.2128,
+    "brier": 0.5755
    },
    "market": {
-    "logloss": 0.9615,
-    "rps": 0.2125,
-    "brier": 0.5717
+    "logloss": 0.9811,
+    "rps": 0.2152,
+    "brier": 0.5835
    },
-   "withOdds": 66,
+   "withOdds": 72,
    "modelOnOdds": {
-    "logloss": 0.9458,
-    "rps": 0.2088,
-    "brier": 0.56
+    "logloss": 0.9692,
+    "rps": 0.2128,
+    "brier": 0.5755
    }
   },
   {
@@ -319,23 +319,23 @@
    "name": "Danish Superliga",
    "extra": true,
    "season": "2026-27",
-   "matches": 72,
-   "called": 38,
+   "matches": 78,
+   "called": 43,
    "model": {
-    "logloss": 1.0181,
-    "rps": 0.1954,
-    "brier": 0.6119
+    "logloss": 1.0001,
+    "rps": 0.1955,
+    "brier": 0.5992
    },
    "market": {
-    "logloss": 1.0032,
-    "rps": 0.1921,
-    "brier": 0.6028
+    "logloss": 0.9822,
+    "rps": 0.1908,
+    "brier": 0.5875
    },
-   "withOdds": 72,
+   "withOdds": 78,
    "modelOnOdds": {
-    "logloss": 1.0181,
-    "rps": 0.1954,
-    "brier": 0.6119
+    "logloss": 1.0001,
+    "rps": 0.1955,
+    "brier": 0.5992
    }
   },
   {
@@ -343,23 +343,23 @@
    "name": "Eliteserien",
    "extra": true,
    "season": "2026",
-   "matches": 192,
-   "called": 108,
+   "matches": 200,
+   "called": 111,
    "model": {
-    "logloss": 0.9498,
-    "rps": 0.2033,
-    "brier": 0.5603
+    "logloss": 0.9528,
+    "rps": 0.2053,
+    "brier": 0.5628
    },
    "market": {
-    "logloss": 0.9354,
-    "rps": 0.1979,
-    "brier": 0.5497
+    "logloss": 0.9394,
+    "rps": 0.2002,
+    "brier": 0.5527
    },
-   "withOdds": 192,
+   "withOdds": 200,
    "modelOnOdds": {
-    "logloss": 0.9498,
-    "rps": 0.2033,
-    "brier": 0.5603
+    "logloss": 0.9528,
+    "rps": 0.2053,
+    "brier": 0.5628
    }
   },
   {
@@ -367,23 +367,23 @@
    "name": "Allsvenskan",
    "extra": true,
    "season": "2026",
-   "matches": 208,
-   "called": 102,
+   "matches": 215,
+   "called": 108,
    "model": {
-    "logloss": 1.0311,
-    "rps": 0.2179,
-    "brier": 0.6175
+    "logloss": 1.0245,
+    "rps": 0.2165,
+    "brier": 0.6129
    },
    "market": {
-    "logloss": 1.0079,
-    "rps": 0.2103,
-    "brier": 0.601
+    "logloss": 0.9957,
+    "rps": 0.207,
+    "brier": 0.5923
    },
-   "withOdds": 208,
+   "withOdds": 215,
    "modelOnOdds": {
-    "logloss": 1.0311,
-    "rps": 0.2179,
-    "brier": 0.6175
+    "logloss": 1.0245,
+    "rps": 0.2165,
+    "brier": 0.6129
    }
   },
   {
@@ -391,23 +391,23 @@
    "name": "Ekstraklasa",
    "extra": true,
    "season": "2026-27",
-   "matches": 106,
-   "called": 50,
+   "matches": 115,
+   "called": 56,
    "model": {
-    "logloss": 1.0056,
-    "rps": 0.2134,
-    "brier": 0.6006
+    "logloss": 0.9968,
+    "rps": 0.2108,
+    "brier": 0.5943
    },
    "market": {
-    "logloss": 1.0013,
-    "rps": 0.2121,
-    "brier": 0.5994
+    "logloss": 0.9996,
+    "rps": 0.2116,
+    "brier": 0.5982
    },
-   "withOdds": 106,
+   "withOdds": 115,
    "modelOnOdds": {
-    "logloss": 1.0056,
-    "rps": 0.2134,
-    "brier": 0.6006
+    "logloss": 0.9968,
+    "rps": 0.2108,
+    "brier": 0.5943
    }
   },
   {
@@ -415,23 +415,23 @@
    "name": "Liga I",
    "extra": true,
    "season": "2026-27",
-   "matches": 104,
-   "called": 59,
+   "matches": 112,
+   "called": 65,
    "model": {
-    "logloss": 0.9742,
-    "rps": 0.1977,
-    "brier": 0.5756
+    "logloss": 0.9639,
+    "rps": 0.1944,
+    "brier": 0.5688
    },
    "market": {
-    "logloss": 0.9307,
-    "rps": 0.184,
-    "brier": 0.5468
+    "logloss": 0.9204,
+    "rps": 0.1808,
+    "brier": 0.5398
    },
-   "withOdds": 104,
+   "withOdds": 112,
    "modelOnOdds": {
-    "logloss": 0.9742,
-    "rps": 0.1977,
-    "brier": 0.5756
+    "logloss": 0.9639,
+    "rps": 0.1944,
+    "brier": 0.5688
    }
   },
   {
@@ -439,23 +439,23 @@
    "name": "League of Ireland",
    "extra": true,
    "season": "2026",
-   "matches": 175,
-   "called": 81,
+   "matches": 180,
+   "called": 82,
    "model": {
-    "logloss": 1.0502,
-    "rps": 0.209,
-    "brier": 0.6327
+    "logloss": 1.0583,
+    "rps": 0.2126,
+    "brier": 0.6384
    },
    "market": {
-    "logloss": 1.0262,
-    "rps": 0.2018,
-    "brier": 0.6168
+    "logloss": 1.0325,
+    "rps": 0.2047,
+    "brier": 0.6213
    },
-   "withOdds": 175,
+   "withOdds": 180,
    "modelOnOdds": {
-    "logloss": 1.0502,
-    "rps": 0.209,
-    "brier": 0.6327
+    "logloss": 1.0583,
+    "rps": 0.2126,
+    "brier": 0.6384
    }
   },
   {
@@ -463,27 +463,407 @@
    "name": "Veikkausliiga",
    "extra": true,
    "season": "2026",
-   "matches": 173,
-   "called": 81,
+   "matches": 176,
+   "called": 83,
    "model": {
-    "logloss": 1.0497,
-    "rps": 0.2151,
-    "brier": 0.6296
+    "logloss": 1.048,
+    "rps": 0.2156,
+    "brier": 0.6283
    },
    "market": {
-    "logloss": 1.0075,
-    "rps": 0.2023,
-    "brier": 0.6034
+    "logloss": 1.0038,
+    "rps": 0.2022,
+    "brier": 0.6006
    },
-   "withOdds": 173,
+   "withOdds": 176,
    "modelOnOdds": {
-    "logloss": 1.0497,
-    "rps": 0.2151,
-    "brier": 0.6296
+    "logloss": 1.048,
+    "rps": 0.2156,
+    "brier": 0.6283
    }
   }
  ],
  "recent": [
+  {
+   "date": "2026-11-02",
+   "league": "seriea",
+   "home": "Atalanta",
+   "away": "Parma",
+   "homeName": "Atalanta",
+   "awayName": "Parma",
+   "homeSlug": "atalanta",
+   "awaySlug": "parma",
+   "hg": 0,
+   "ag": 3,
+   "p": [
+    0.664,
+    0.223,
+    0.113
+   ],
+   "result": "away win",
+   "chance": 0.113
+  },
+  {
+   "date": "2026-11-02",
+   "league": "pl",
+   "home": "Newcastle",
+   "away": "Everton",
+   "homeName": "Newcastle United",
+   "awayName": "Everton",
+   "homeSlug": "newcastle",
+   "awaySlug": "everton",
+   "hg": 0,
+   "ag": 1,
+   "p": [
+    0.452,
+    0.299,
+    0.249
+   ],
+   "result": "away win",
+   "chance": 0.249
+  },
+  {
+   "date": "2026-11-02",
+   "league": "sweden",
+   "home": "Mjallby",
+   "away": "Kalmar",
+   "homeName": "Mjallby",
+   "awayName": "Kalmar",
+   "homeSlug": "mjallby",
+   "awaySlug": "kalmar",
+   "hg": 0,
+   "ag": 0,
+   "p": [
+    0.533,
+    0.251,
+    0.216
+   ],
+   "result": "draw",
+   "chance": 0.251
+  },
+  {
+   "date": "2026-11-02",
+   "league": "ligue1",
+   "home": "Lorient",
+   "away": "Brest",
+   "homeName": "Lorient",
+   "awayName": "Brest",
+   "homeSlug": "lorient",
+   "awaySlug": "brest",
+   "hg": 0,
+   "ag": 2,
+   "p": [
+    0.434,
+    0.298,
+    0.267
+   ],
+   "result": "away win",
+   "chance": 0.267
+  },
+  {
+   "date": "2026-11-02",
+   "league": "superleague",
+   "home": "Kalamata",
+   "away": "Iraklis",
+   "homeName": "Kalamata",
+   "awayName": "Iraklis",
+   "homeSlug": "kalamata",
+   "awaySlug": "iraklis",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.435,
+    0.284,
+    0.28
+   ],
+   "result": "draw",
+   "chance": 0.284
+  },
+  {
+   "date": "2026-11-02",
+   "league": "primeira",
+   "home": "Gil Vicente",
+   "away": "Guimaraes",
+   "homeName": "Gil Vicente",
+   "awayName": "Vitória SC",
+   "homeSlug": "gil-vicente",
+   "awaySlug": "guimaraes",
+   "hg": 0,
+   "ag": 0,
+   "p": [
+    0.345,
+    0.304,
+    0.351
+   ],
+   "result": "draw",
+   "chance": 0.304
+  },
+  {
+   "date": "2026-11-02",
+   "league": "seriea",
+   "home": "Sassuolo",
+   "away": "Fiorentina",
+   "homeName": "Sassuolo",
+   "awayName": "Fiorentina",
+   "homeSlug": "sassuolo",
+   "awaySlug": "fiorentina",
+   "hg": 2,
+   "ag": 4,
+   "p": [
+    0.371,
+    0.304,
+    0.325
+   ],
+   "result": "away win",
+   "chance": 0.325
+  },
+  {
+   "date": "2026-11-02",
+   "league": "superlig",
+   "home": "Genclerbirligi",
+   "away": "Alanyaspor",
+   "homeName": "Gençlerbirliği",
+   "awayName": "Alanyaspor",
+   "homeSlug": "genclerbirligi",
+   "awaySlug": "alanyaspor",
+   "hg": 5,
+   "ag": 0,
+   "p": [
+    0.367,
+    0.281,
+    0.352
+   ],
+   "result": "home win",
+   "chance": 0.367
+  },
+  {
+   "date": "2026-11-02",
+   "league": "sweden",
+   "home": "GAIS",
+   "away": "AIK",
+   "homeName": "GAIS",
+   "awayName": "AIK",
+   "homeSlug": "gais",
+   "awaySlug": "aik",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.369,
+    0.278,
+    0.354
+   ],
+   "result": "home win",
+   "chance": 0.369
+  },
+  {
+   "date": "2026-11-02",
+   "league": "romania",
+   "home": "FC Voluntari",
+   "away": "Farul Constanta",
+   "homeName": "FC Voluntari",
+   "awayName": "Farul Constanta",
+   "homeSlug": "fc-voluntari",
+   "awaySlug": "farul-constanta",
+   "hg": 1,
+   "ag": 2,
+   "p": [
+    0.366,
+    0.255,
+    0.38
+   ],
+   "result": "away win",
+   "chance": 0.38
+  },
+  {
+   "date": "2026-11-02",
+   "league": "laliga",
+   "home": "La Coruna",
+   "away": "Osasuna",
+   "homeName": "Deportivo La Coruña",
+   "awayName": "Osasuna",
+   "homeSlug": "la-coruna",
+   "awaySlug": "osasuna",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.428,
+    0.275,
+    0.298
+   ],
+   "result": "home win",
+   "chance": 0.428
+  },
+  {
+   "date": "2026-11-02",
+   "league": "poland",
+   "home": "Rakow",
+   "away": "Pogon Szczecin",
+   "homeName": "Rakow",
+   "awayName": "Pogon Szczecin",
+   "homeSlug": "rakow",
+   "awaySlug": "pogon-szczecin",
+   "hg": 3,
+   "ag": 1,
+   "p": [
+    0.45,
+    0.25,
+    0.299
+   ],
+   "result": "home win",
+   "chance": 0.45
+  },
+  {
+   "date": "2026-11-02",
+   "league": "romania",
+   "home": "U. Cluj",
+   "away": "FCSB",
+   "homeName": "U. Cluj",
+   "awayName": "FCSB",
+   "homeSlug": "u-cluj",
+   "awaySlug": "fcsb",
+   "hg": 1,
+   "ag": 0,
+   "p": [
+    0.458,
+    0.245,
+    0.297
+   ],
+   "result": "home win",
+   "chance": 0.458
+  },
+  {
+   "date": "2026-11-02",
+   "league": "poland",
+   "home": "Zaglebie",
+   "away": "Korona Kielce",
+   "homeName": "Zaglebie",
+   "awayName": "Korona Kielce",
+   "homeSlug": "zaglebie",
+   "awaySlug": "korona-kielce",
+   "hg": 1,
+   "ag": 0,
+   "p": [
+    0.46,
+    0.27,
+    0.27
+   ],
+   "result": "home win",
+   "chance": 0.46
+  },
+  {
+   "date": "2026-11-02",
+   "league": "poland",
+   "home": "Radomiak Radom",
+   "away": "Slask Wroclaw",
+   "homeName": "Radomiak Radom",
+   "awayName": "Slask Wroclaw",
+   "homeSlug": "radomiak-radom",
+   "awaySlug": "slask-wroclaw",
+   "hg": 3,
+   "ag": 1,
+   "p": [
+    0.486,
+    0.224,
+    0.289
+   ],
+   "result": "home win",
+   "chance": 0.486
+  },
+  {
+   "date": "2026-11-02",
+   "league": "superleague",
+   "home": "Atromitos",
+   "away": "Volos NFC",
+   "homeName": "Atromitos",
+   "awayName": "Volos NFC",
+   "homeSlug": "atromitos",
+   "awaySlug": "volos-nfc",
+   "hg": 3,
+   "ag": 0,
+   "p": [
+    0.516,
+    0.27,
+    0.214
+   ],
+   "result": "home win",
+   "chance": 0.516
+  },
+  {
+   "date": "2026-11-02",
+   "league": "finland",
+   "home": "VPS",
+   "away": "HJK",
+   "homeName": "VPS",
+   "awayName": "HJK",
+   "homeSlug": "vps",
+   "awaySlug": "hjk",
+   "hg": 0,
+   "ag": 4,
+   "p": [
+    0.242,
+    0.235,
+    0.522
+   ],
+   "result": "away win",
+   "chance": 0.522
+  },
+  {
+   "date": "2026-11-02",
+   "league": "finland",
+   "home": "Inter Turku",
+   "away": "Gnistan",
+   "homeName": "Inter Turku",
+   "awayName": "Gnistan",
+   "homeSlug": "inter-turku",
+   "awaySlug": "gnistan",
+   "hg": 4,
+   "ag": 3,
+   "p": [
+    0.541,
+    0.241,
+    0.218
+   ],
+   "result": "home win",
+   "chance": 0.541
+  },
+  {
+   "date": "2026-11-02",
+   "league": "denmark",
+   "home": "Sonderjyske",
+   "away": "FC Copenhagen",
+   "homeName": "Sonderjyske",
+   "awayName": "FC Copenhagen",
+   "homeSlug": "sonderjyske",
+   "awaySlug": "fc-copenhagen",
+   "hg": 0,
+   "ag": 2,
+   "p": [
+    0.187,
+    0.194,
+    0.618
+   ],
+   "result": "away win",
+   "chance": 0.618
+  },
+  {
+   "date": "2026-11-02",
+   "league": "primeira",
+   "home": "Benfica",
+   "away": "Alverca",
+   "homeName": "Benfica",
+   "awayName": "Alverca",
+   "homeSlug": "benfica",
+   "awaySlug": "alverca",
+   "hg": 1,
+   "ag": 0,
+   "p": [
+    0.856,
+    0.107,
+    0.037
+   ],
+   "result": "home win",
+   "chance": 0.856
+  },
   {
    "date": "2026-11-01",
    "league": "scotland",
@@ -502,6 +882,25 @@
    ],
    "result": "home win",
    "chance": 0.117
+  },
+  {
+   "date": "2026-11-01",
+   "league": "switzerland",
+   "home": "Young Boys",
+   "away": "Zurich",
+   "homeName": "Young Boys",
+   "awayName": "Zurich",
+   "homeSlug": "young-boys",
+   "awaySlug": "zurich",
+   "hg": 3,
+   "ag": 5,
+   "p": [
+    0.692,
+    0.16,
+    0.148
+   ],
+   "result": "away win",
+   "chance": 0.148
   },
   {
    "date": "2026-11-01",
@@ -543,6 +942,25 @@
   },
   {
    "date": "2026-11-01",
+   "league": "finland",
+   "home": "AC Oulu",
+   "away": "KuPS",
+   "homeName": "AC Oulu",
+   "awayName": "KuPS",
+   "homeSlug": "ac-oulu",
+   "awaySlug": "kups",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.207,
+    0.248,
+    0.545
+   ],
+   "result": "home win",
+   "chance": 0.207
+  },
+  {
+   "date": "2026-11-01",
    "league": "proleague",
    "home": "Lommel SK",
    "away": "Gent",
@@ -574,10 +992,86 @@
    "p": [
     0.163,
     0.224,
-    0.612
+    0.613
    ],
    "result": "draw",
    "chance": 0.224
+  },
+  {
+   "date": "2026-11-01",
+   "league": "austria",
+   "home": "Wolfsberger AC",
+   "away": "Sturm Graz",
+   "homeName": "Wolfsberger AC",
+   "awayName": "Sturm Graz",
+   "homeSlug": "wolfsberger-ac",
+   "awaySlug": "sturm-graz",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.254,
+    0.236,
+    0.511
+   ],
+   "result": "draw",
+   "chance": 0.236
+  },
+  {
+   "date": "2026-11-01",
+   "league": "norway",
+   "home": "Sarpsborg 08",
+   "away": "Kristiansund",
+   "homeName": "Sarpsborg 08",
+   "awayName": "Kristiansund",
+   "homeSlug": "sarpsborg-08",
+   "awaySlug": "kristiansund",
+   "hg": 2,
+   "ag": 4,
+   "p": [
+    0.541,
+    0.218,
+    0.241
+   ],
+   "result": "away win",
+   "chance": 0.241
+  },
+  {
+   "date": "2026-11-01",
+   "league": "norway",
+   "home": "KFUM Oslo",
+   "away": "HamKam",
+   "homeName": "KFUM Oslo",
+   "awayName": "HamKam",
+   "homeSlug": "kfum-oslo",
+   "awaySlug": "hamkam",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.487,
+    0.245,
+    0.268
+   ],
+   "result": "draw",
+   "chance": 0.245
+  },
+  {
+   "date": "2026-11-01",
+   "league": "romania",
+   "home": "Otelul",
+   "away": "Sepsi Sf. Gheorghe",
+   "homeName": "Otelul",
+   "awayName": "Sepsi Sf. Gheorghe",
+   "homeSlug": "otelul",
+   "awaySlug": "sepsi-sf-gheorghe",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.54,
+    0.25,
+    0.21
+   ],
+   "result": "draw",
+   "chance": 0.25
   },
   {
    "date": "2026-11-01",
@@ -648,12 +1142,12 @@
    "hg": 3,
    "ag": 1,
    "p": [
-    0.316,
+    0.315,
     0.302,
     0.383
    ],
    "result": "home win",
-   "chance": 0.316
+   "chance": 0.315
   },
   {
    "date": "2026-11-01",
@@ -673,6 +1167,25 @@
    ],
    "result": "home win",
    "chance": 0.326
+  },
+  {
+   "date": "2026-11-01",
+   "league": "norway",
+   "home": "Start",
+   "away": "Lillestrom",
+   "homeName": "Start",
+   "awayName": "Lillestrom",
+   "homeSlug": "start",
+   "awaySlug": "lillestrom",
+   "hg": 0,
+   "ag": 1,
+   "p": [
+    0.424,
+    0.243,
+    0.333
+   ],
+   "result": "away win",
+   "chance": 0.333
   },
   {
    "date": "2026-11-01",
@@ -714,6 +1227,63 @@
   },
   {
    "date": "2026-11-01",
+   "league": "switzerland",
+   "home": "Lausanne",
+   "away": "Thun",
+   "homeName": "Lausanne",
+   "awayName": "Thun",
+   "homeSlug": "lausanne",
+   "awaySlug": "thun",
+   "hg": 4,
+   "ag": 5,
+   "p": [
+    0.409,
+    0.229,
+    0.363
+   ],
+   "result": "away win",
+   "chance": 0.363
+  },
+  {
+   "date": "2026-11-01",
+   "league": "norway",
+   "home": "Valerenga",
+   "away": "Tromso",
+   "homeName": "Valerenga",
+   "awayName": "Tromso",
+   "homeSlug": "valerenga",
+   "awaySlug": "tromso",
+   "hg": 4,
+   "ag": 0,
+   "p": [
+    0.368,
+    0.235,
+    0.397
+   ],
+   "result": "home win",
+   "chance": 0.368
+  },
+  {
+   "date": "2026-11-01",
+   "league": "sweden",
+   "home": "Malmo FF",
+   "away": "Hammarby",
+   "homeName": "Malmo FF",
+   "awayName": "Hammarby",
+   "homeSlug": "malmo-ff",
+   "awaySlug": "hammarby",
+   "hg": 1,
+   "ag": 2,
+   "p": [
+    0.363,
+    0.263,
+    0.373
+   ],
+   "result": "away win",
+   "chance": 0.373
+  },
+  {
+   "date": "2026-11-01",
    "league": "pl",
    "home": "Liverpool",
    "away": "Arsenal",
@@ -733,6 +1303,25 @@
   },
   {
    "date": "2026-11-01",
+   "league": "norway",
+   "home": "Brann",
+   "away": "Molde",
+   "homeName": "Brann",
+   "awayName": "Molde",
+   "homeSlug": "brann",
+   "awaySlug": "molde",
+   "hg": 3,
+   "ag": 2,
+   "p": [
+    0.376,
+    0.22,
+    0.404
+   ],
+   "result": "home win",
+   "chance": 0.376
+  },
+  {
+   "date": "2026-11-01",
    "league": "superleague",
    "home": "Panetolikos",
    "away": "OFI Crete",
@@ -749,6 +1338,63 @@
    ],
    "result": "away win",
    "chance": 0.379
+  },
+  {
+   "date": "2026-11-01",
+   "league": "denmark",
+   "home": "Odense",
+   "away": "Silkeborg",
+   "homeName": "Odense",
+   "awayName": "Silkeborg",
+   "homeSlug": "odense",
+   "awaySlug": "silkeborg",
+   "hg": 4,
+   "ag": 1,
+   "p": [
+    0.402,
+    0.244,
+    0.355
+   ],
+   "result": "home win",
+   "chance": 0.402
+  },
+  {
+   "date": "2026-11-01",
+   "league": "austria",
+   "home": "Austria Vienna",
+   "away": "SK Rapid",
+   "homeName": "Austria Vienna",
+   "awayName": "SK Rapid",
+   "homeSlug": "austria-vienna",
+   "awaySlug": "sk-rapid",
+   "hg": 0,
+   "ag": 2,
+   "p": [
+    0.344,
+    0.251,
+    0.405
+   ],
+   "result": "away win",
+   "chance": 0.405
+  },
+  {
+   "date": "2026-11-01",
+   "league": "denmark",
+   "home": "Brondby",
+   "away": "Aarhus",
+   "homeName": "Brondby",
+   "awayName": "Aarhus",
+   "homeSlug": "brondby",
+   "awaySlug": "aarhus",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.42,
+    0.25,
+    0.33
+   ],
+   "result": "home win",
+   "chance": 0.42
   },
   {
    "date": "2026-11-01",
@@ -790,6 +1436,25 @@
   },
   {
    "date": "2026-11-01",
+   "league": "sweden",
+   "home": "Vasteras SK",
+   "away": "Brommapojkarna",
+   "homeName": "Vasteras SK",
+   "awayName": "Brommapojkarna",
+   "homeSlug": "vasteras-sk",
+   "awaySlug": "brommapojkarna",
+   "hg": 1,
+   "ag": 0,
+   "p": [
+    0.423,
+    0.242,
+    0.335
+   ],
+   "result": "home win",
+   "chance": 0.423
+  },
+  {
+   "date": "2026-11-01",
    "league": "proleague",
    "home": "Cercle Brugge",
    "away": "Antwerp",
@@ -828,6 +1493,25 @@
   },
   {
    "date": "2026-11-01",
+   "league": "denmark",
+   "home": "Nordsjaelland",
+   "away": "Midtjylland",
+   "homeName": "Nordsjaelland",
+   "awayName": "Midtjylland",
+   "homeSlug": "nordsjaelland",
+   "awaySlug": "midtjylland",
+   "hg": 2,
+   "ag": 3,
+   "p": [
+    0.319,
+    0.231,
+    0.449
+   ],
+   "result": "away win",
+   "chance": 0.449
+  },
+  {
+   "date": "2026-11-01",
    "league": "seriea",
    "home": "Frosinone",
    "away": "Torino",
@@ -847,25 +1531,6 @@
   },
   {
    "date": "2026-11-01",
-   "league": "seriea",
-   "home": "Juventus",
-   "away": "Napoli",
-   "homeName": "Juventus",
-   "awayName": "Napoli",
-   "homeSlug": "juventus",
-   "awaySlug": "napoli",
-   "hg": 2,
-   "ag": 0,
-   "p": [
-    0.47,
-    0.299,
-    0.231
-   ],
-   "result": "home win",
-   "chance": 0.47
-  },
-  {
-   "date": "2026-11-01",
    "league": "ligue1",
    "home": "Marseille",
    "away": "Toulouse",
@@ -882,6 +1547,25 @@
    ],
    "result": "home win",
    "chance": 0.472
+  },
+  {
+   "date": "2026-11-01",
+   "league": "seriea",
+   "home": "Juventus",
+   "away": "Napoli",
+   "homeName": "Juventus",
+   "awayName": "Napoli",
+   "homeSlug": "juventus",
+   "awaySlug": "napoli",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.478,
+    0.297,
+    0.225
+   ],
+   "result": "home win",
+   "chance": 0.478
   },
   {
    "date": "2026-11-01",
@@ -942,6 +1626,25 @@
   },
   {
    "date": "2026-11-01",
+   "league": "sweden",
+   "home": "Hacken",
+   "away": "Goteborg",
+   "homeName": "Hacken",
+   "awayName": "Goteborg",
+   "homeSlug": "hacken",
+   "awaySlug": "goteborg",
+   "hg": 1,
+   "ag": 0,
+   "p": [
+    0.514,
+    0.232,
+    0.254
+   ],
+   "result": "home win",
+   "chance": 0.514
+  },
+  {
+   "date": "2026-11-01",
    "league": "ligue1",
    "home": "Strasbourg",
    "away": "Auxerre",
@@ -977,6 +1680,25 @@
    ],
    "result": "home win",
    "chance": 0.528
+  },
+  {
+   "date": "2026-11-01",
+   "league": "switzerland",
+   "home": "Lugano",
+   "away": "Basel",
+   "homeName": "Lugano",
+   "awayName": "Basel",
+   "homeSlug": "lugano",
+   "awaySlug": "basel",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.539,
+    0.222,
+    0.239
+   ],
+   "result": "home win",
+   "chance": 0.539
   },
   {
    "date": "2026-11-01",
@@ -1018,6 +1740,63 @@
   },
   {
    "date": "2026-11-01",
+   "league": "denmark",
+   "home": "Viborg",
+   "away": "Horsens",
+   "homeName": "Viborg",
+   "awayName": "Horsens",
+   "homeSlug": "viborg",
+   "awaySlug": "horsens",
+   "hg": 1,
+   "ag": 0,
+   "p": [
+    0.569,
+    0.216,
+    0.215
+   ],
+   "result": "home win",
+   "chance": 0.569
+  },
+  {
+   "date": "2026-11-01",
+   "league": "romania",
+   "home": "Dinamo Bucuresti",
+   "away": "UTA Arad",
+   "homeName": "Dinamo Bucuresti",
+   "awayName": "UTA Arad",
+   "homeSlug": "dinamo-bucuresti",
+   "awaySlug": "uta-arad",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.576,
+    0.235,
+    0.189
+   ],
+   "result": "home win",
+   "chance": 0.576
+  },
+  {
+   "date": "2026-11-01",
+   "league": "sweden",
+   "home": "Elfsborg",
+   "away": "Orgryte",
+   "homeName": "Elfsborg",
+   "awayName": "Orgryte",
+   "homeSlug": "elfsborg",
+   "awaySlug": "orgryte",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.596,
+    0.207,
+    0.197
+   ],
+   "result": "home win",
+   "chance": 0.596
+  },
+  {
+   "date": "2026-11-01",
    "league": "eredivisie",
    "home": "Excelsior",
    "away": "Twente",
@@ -1047,12 +1826,12 @@
    "hg": 2,
    "ag": 1,
    "p": [
-    0.62,
-    0.244,
-    0.136
+    0.622,
+    0.243,
+    0.135
    ],
    "result": "home win",
-   "chance": 0.62
+   "chance": 0.622
   },
   {
    "date": "2026-11-01",
@@ -1091,6 +1870,44 @@
    ],
    "result": "home win",
    "chance": 0.664
+  },
+  {
+   "date": "2026-11-01",
+   "league": "sweden",
+   "home": "Djurgarden",
+   "away": "Degerfors",
+   "homeName": "Djurgarden",
+   "awayName": "Degerfors",
+   "homeSlug": "djurgarden",
+   "awaySlug": "degerfors",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.677,
+    0.196,
+    0.127
+   ],
+   "result": "home win",
+   "chance": 0.677
+  },
+  {
+   "date": "2026-11-01",
+   "league": "romania",
+   "home": "Univ. Craiova",
+   "away": "FC Botosani",
+   "homeName": "Univ. Craiova",
+   "awayName": "FC Botosani",
+   "homeSlug": "univ-craiova",
+   "awaySlug": "fc-botosani",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.702,
+    0.182,
+    0.116
+   ],
+   "result": "home win",
+   "chance": 0.702
   },
   {
    "date": "2026-11-01",
@@ -1188,6 +2005,25 @@
    "chance": 0.776
   },
   {
+   "date": "2026-11-01",
+   "league": "austria",
+   "home": "Salzburg",
+   "away": "A. Lustenau",
+   "homeName": "Salzburg",
+   "awayName": "A. Lustenau",
+   "homeSlug": "salzburg",
+   "awaySlug": "a-lustenau",
+   "hg": 5,
+   "ag": 1,
+   "p": [
+    0.78,
+    0.141,
+    0.079
+   ],
+   "result": "home win",
+   "chance": 0.78
+  },
+  {
    "date": "2026-10-31",
    "league": "eredivisie",
    "home": "Feyenoord",
@@ -1256,12 +2092,50 @@
    "hg": 2,
    "ag": 2,
    "p": [
-    0.71,
+    0.711,
     0.178,
     0.112
    ],
    "result": "draw",
    "chance": 0.178
+  },
+  {
+   "date": "2026-10-31",
+   "league": "switzerland",
+   "home": "Grasshoppers",
+   "away": "Vaduz",
+   "homeName": "Grasshoppers",
+   "awayName": "Vaduz",
+   "homeSlug": "grasshoppers",
+   "awaySlug": "vaduz",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.488,
+    0.22,
+    0.291
+   ],
+   "result": "draw",
+   "chance": 0.22
+  },
+  {
+   "date": "2026-10-31",
+   "league": "switzerland",
+   "home": "Luzern",
+   "away": "Sion",
+   "homeName": "Luzern",
+   "awayName": "Sion",
+   "homeSlug": "luzern",
+   "awaySlug": "sion",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.427,
+    0.225,
+    0.349
+   ],
+   "result": "draw",
+   "chance": 0.225
   },
   {
    "date": "2026-10-31",
@@ -1303,6 +2177,25 @@
   },
   {
    "date": "2026-10-31",
+   "league": "bundesliga",
+   "home": "Leverkusen",
+   "away": "Stuttgart",
+   "homeName": "Bayer Leverkusen",
+   "awayName": "VfB Stuttgart",
+   "homeSlug": "leverkusen",
+   "awaySlug": "stuttgart",
+   "hg": 2,
+   "ag": 4,
+   "p": [
+    0.511,
+    0.239,
+    0.249
+   ],
+   "result": "away win",
+   "chance": 0.249
+  },
+  {
+   "date": "2026-10-31",
    "league": "proleague",
    "home": "Standard",
    "away": "Kortrijk",
@@ -1322,25 +2215,6 @@
   },
   {
    "date": "2026-10-31",
-   "league": "bundesliga",
-   "home": "Leverkusen",
-   "away": "Stuttgart",
-   "homeName": "Bayer Leverkusen",
-   "awayName": "VfB Stuttgart",
-   "homeSlug": "leverkusen",
-   "awaySlug": "stuttgart",
-   "hg": 2,
-   "ag": 4,
-   "p": [
-    0.51,
-    0.239,
-    0.25
-   ],
-   "result": "away win",
-   "chance": 0.25
-  },
-  {
-   "date": "2026-10-31",
    "league": "seriea",
    "home": "Milan",
    "away": "Inter",
@@ -1357,6 +2231,44 @@
    ],
    "result": "home win",
    "chance": 0.258
+  },
+  {
+   "date": "2026-10-31",
+   "league": "austria",
+   "home": "Altach",
+   "away": "Ried",
+   "homeName": "Altach",
+   "awayName": "Ried",
+   "homeSlug": "altach",
+   "awaySlug": "ried",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.386,
+    0.269,
+    0.345
+   ],
+   "result": "draw",
+   "chance": 0.269
+  },
+  {
+   "date": "2026-10-31",
+   "league": "romania",
+   "home": "Petrolul",
+   "away": "CFR Cluj",
+   "homeName": "Petrolul",
+   "awayName": "CFR Cluj",
+   "homeSlug": "petrolul",
+   "awaySlug": "cfr-cluj",
+   "hg": 1,
+   "ag": 1,
+   "p": [
+    0.273,
+    0.27,
+    0.456
+   ],
+   "result": "draw",
+   "chance": 0.27
   },
   {
    "date": "2026-10-31",
@@ -1395,6 +2307,25 @@
    ],
    "result": "draw",
    "chance": 0.281
+  },
+  {
+   "date": "2026-10-31",
+   "league": "poland",
+   "home": "Wisla Plock",
+   "away": "Piast Gliwice",
+   "homeName": "Wisla Plock",
+   "awayName": "Piast Gliwice",
+   "homeSlug": "wisla-plock",
+   "awaySlug": "piast-gliwice",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.345,
+    0.286,
+    0.369
+   ],
+   "result": "draw",
+   "chance": 0.286
   },
   {
    "date": "2026-10-31",
@@ -1484,12 +2415,12 @@
    "hg": 2,
    "ag": 0,
    "p": [
-    0.305,
+    0.304,
     0.255,
-    0.44
+    0.441
    ],
    "result": "home win",
-   "chance": 0.305
+   "chance": 0.304
   },
   {
    "date": "2026-10-31",
@@ -1541,12 +2472,50 @@
    "hg": 1,
    "ag": 2,
    "p": [
-    0.355,
+    0.353,
     0.264,
-    0.381
+    0.382
    ],
    "result": "away win",
-   "chance": 0.381
+   "chance": 0.382
+  },
+  {
+   "date": "2026-10-31",
+   "league": "norway",
+   "home": "Aalesund",
+   "away": "Sandefjord",
+   "homeName": "Aalesund",
+   "awayName": "Sandefjord",
+   "homeSlug": "aalesund",
+   "awaySlug": "sandefjord",
+   "hg": 3,
+   "ag": 4,
+   "p": [
+    0.362,
+    0.241,
+    0.397
+   ],
+   "result": "away win",
+   "chance": 0.397
+  },
+  {
+   "date": "2026-10-31",
+   "league": "romania",
+   "home": "Corvinul",
+   "away": "FC Arges",
+   "homeName": "Corvinul",
+   "awayName": "FC Arges",
+   "homeSlug": "corvinul",
+   "awaySlug": "fc-arges",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.397,
+    0.29,
+    0.313
+   ],
+   "result": "home win",
+   "chance": 0.397
   },
   {
    "date": "2026-10-31",
@@ -1560,12 +2529,12 @@
    "hg": 3,
    "ag": 0,
    "p": [
-    0.404,
+    0.412,
     0.275,
-    0.321
+    0.313
    ],
    "result": "home win",
-   "chance": 0.404
+   "chance": 0.412
   },
   {
    "date": "2026-10-31",
@@ -1588,6 +2557,25 @@
   },
   {
    "date": "2026-10-31",
+   "league": "norway",
+   "home": "Fredrikstad",
+   "away": "Rosenborg",
+   "homeName": "Fredrikstad",
+   "awayName": "Rosenborg",
+   "homeSlug": "fredrikstad",
+   "awaySlug": "rosenborg",
+   "hg": 0,
+   "ag": 3,
+   "p": [
+    0.316,
+    0.25,
+    0.434
+   ],
+   "result": "away win",
+   "chance": 0.434
+  },
+  {
+   "date": "2026-10-31",
    "league": "pl",
    "home": "Chelsea",
    "away": "Man United",
@@ -1607,6 +2595,44 @@
   },
   {
    "date": "2026-10-31",
+   "league": "switzerland",
+   "home": "St. Gallen",
+   "away": "Servette",
+   "homeName": "St. Gallen",
+   "awayName": "Servette",
+   "homeSlug": "st-gallen",
+   "awaySlug": "servette",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.445,
+    0.231,
+    0.324
+   ],
+   "result": "home win",
+   "chance": 0.445
+  },
+  {
+   "date": "2026-10-31",
+   "league": "poland",
+   "home": "Wieczysta Krakow",
+   "away": "Jagiellonia",
+   "homeName": "Wieczysta Krakow",
+   "awayName": "Jagiellonia",
+   "homeSlug": "wieczysta-krakow",
+   "awaySlug": "jagiellonia",
+   "hg": 1,
+   "ag": 3,
+   "p": [
+    0.316,
+    0.23,
+    0.455
+   ],
+   "result": "away win",
+   "chance": 0.455
+  },
+  {
+   "date": "2026-10-31",
    "league": "pl",
    "home": "Bournemouth",
    "away": "Leeds",
@@ -1617,12 +2643,12 @@
    "hg": 2,
    "ag": 0,
    "p": [
-    0.468,
+    0.469,
     0.296,
     0.236
    ],
    "result": "home win",
-   "chance": 0.468
+   "chance": 0.469
   },
   {
    "date": "2026-10-31",
@@ -1702,6 +2728,25 @@
   },
   {
    "date": "2026-10-31",
+   "league": "poland",
+   "home": "GKS Katowice",
+   "away": "Widzew Lodz",
+   "homeName": "GKS Katowice",
+   "awayName": "Widzew Lodz",
+   "homeSlug": "gks-katowice",
+   "awaySlug": "widzew-lodz",
+   "hg": 3,
+   "ag": 2,
+   "p": [
+    0.506,
+    0.246,
+    0.248
+   ],
+   "result": "home win",
+   "chance": 0.506
+  },
+  {
+   "date": "2026-10-31",
    "league": "scotland",
    "home": "Motherwell",
    "away": "St Mirren",
@@ -1752,7 +2797,7 @@
    "p": [
     0.549,
     0.236,
-    0.216
+    0.215
    ],
    "result": "home win",
    "chance": 0.549
@@ -1771,10 +2816,10 @@
    "p": [
     0.165,
     0.263,
-    0.572
+    0.571
    ],
    "result": "away win",
-   "chance": 0.572
+   "chance": 0.571
   },
   {
    "date": "2026-10-31",
@@ -1828,10 +2873,10 @@
    "p": [
     0.142,
     0.216,
-    0.643
+    0.642
    ],
    "result": "away win",
-   "chance": 0.643
+   "chance": 0.642
   },
   {
    "date": "2026-10-31",
@@ -1864,12 +2909,50 @@
    "hg": 2,
    "ag": 1,
    "p": [
-    0.705,
-    0.182,
+    0.704,
+    0.183,
     0.113
    ],
    "result": "home win",
-   "chance": 0.705
+   "chance": 0.704
+  },
+  {
+   "date": "2026-10-31",
+   "league": "austria",
+   "home": "LASK",
+   "away": "Tirol",
+   "homeName": "LASK",
+   "awayName": "Tirol",
+   "homeSlug": "lask",
+   "awaySlug": "tirol",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.707,
+    0.169,
+    0.124
+   ],
+   "result": "home win",
+   "chance": 0.707
+  },
+  {
+   "date": "2026-10-31",
+   "league": "poland",
+   "home": "Lech Poznan",
+   "away": "Wisla",
+   "homeName": "Lech Poznan",
+   "awayName": "Wisla",
+   "homeSlug": "lech-poznan",
+   "awaySlug": "wisla",
+   "hg": 3,
+   "ag": 1,
+   "p": [
+    0.74,
+    0.153,
+    0.107
+   ],
+   "result": "home win",
+   "chance": 0.74
   },
   {
    "date": "2026-10-31",
@@ -1902,12 +2985,12 @@
    "hg": 6,
    "ag": 1,
    "p": [
-    0.865,
+    0.866,
     0.096,
     0.038
    ],
    "result": "home win",
-   "chance": 0.865
+   "chance": 0.866
   },
   {
    "date": "2026-10-31",
@@ -1949,6 +3032,120 @@
   },
   {
    "date": "2026-10-30",
+   "league": "ireland",
+   "home": "Dundalk",
+   "away": "Shamrock Rovers",
+   "homeName": "Dundalk",
+   "awayName": "Shamrock Rovers",
+   "homeSlug": "dundalk",
+   "awaySlug": "shamrock-rovers",
+   "hg": 3,
+   "ag": 1,
+   "p": [
+    0.197,
+    0.227,
+    0.576
+   ],
+   "result": "home win",
+   "chance": 0.197
+  },
+  {
+   "date": "2026-10-30",
+   "league": "ireland",
+   "home": "Shelbourne",
+   "away": "Waterford",
+   "homeName": "Shelbourne",
+   "awayName": "Waterford",
+   "homeSlug": "shelbourne",
+   "awaySlug": "waterford",
+   "hg": 2,
+   "ag": 3,
+   "p": [
+    0.556,
+    0.228,
+    0.217
+   ],
+   "result": "away win",
+   "chance": 0.217
+  },
+  {
+   "date": "2026-10-30",
+   "league": "poland",
+   "home": "Cracovia",
+   "away": "Motor Lublin",
+   "homeName": "Cracovia",
+   "awayName": "Motor Lublin",
+   "homeSlug": "cracovia",
+   "awaySlug": "motor-lublin",
+   "hg": 1,
+   "ag": 2,
+   "p": [
+    0.521,
+    0.233,
+    0.247
+   ],
+   "result": "away win",
+   "chance": 0.247
+  },
+  {
+   "date": "2026-10-30",
+   "league": "ireland",
+   "home": "Sligo Rovers",
+   "away": "Derry City",
+   "homeName": "Sligo Rovers",
+   "awayName": "Derry City",
+   "homeSlug": "sligo-rovers",
+   "awaySlug": "derry-city",
+   "hg": 2,
+   "ag": 2,
+   "p": [
+    0.245,
+    0.252,
+    0.502
+   ],
+   "result": "draw",
+   "chance": 0.252
+  },
+  {
+   "date": "2026-10-30",
+   "league": "ireland",
+   "home": "St. Patricks",
+   "away": "Bohemians",
+   "homeName": "St. Patricks",
+   "awayName": "Bohemians",
+   "homeSlug": "st-patricks",
+   "awaySlug": "bohemians",
+   "hg": 2,
+   "ag": 3,
+   "p": [
+    0.489,
+    0.257,
+    0.254
+   ],
+   "result": "away win",
+   "chance": 0.254
+  },
+  {
+   "date": "2026-10-30",
+   "league": "poland",
+   "home": "Gornik Zabrze",
+   "away": "Legia",
+   "homeName": "Gornik Zabrze",
+   "awayName": "Legia",
+   "homeSlug": "gornik-zabrze",
+   "awaySlug": "legia",
+   "hg": 0,
+   "ag": 0,
+   "p": [
+    0.417,
+    0.265,
+    0.318
+   ],
+   "result": "draw",
+   "chance": 0.265
+  },
+  {
+   "date": "2026-10-30",
    "league": "bundesliga",
    "home": "Elversberg",
    "away": "Mainz",
@@ -1987,6 +3184,25 @@
   },
   {
    "date": "2026-10-30",
+   "league": "denmark",
+   "home": "Lyngby",
+   "away": "Randers FC",
+   "homeName": "Lyngby",
+   "awayName": "Randers FC",
+   "homeSlug": "lyngby",
+   "awaySlug": "randers-fc",
+   "hg": 2,
+   "ag": 1,
+   "p": [
+    0.338,
+    0.25,
+    0.412
+   ],
+   "result": "home win",
+   "chance": 0.338
+  },
+  {
+   "date": "2026-10-30",
    "league": "ligue1",
    "home": "Lille",
    "away": "Lens",
@@ -2003,6 +3219,63 @@
    ],
    "result": "home win",
    "chance": 0.381
+  },
+  {
+   "date": "2026-10-30",
+   "league": "austria",
+   "home": "Grazer AK",
+   "away": "Hartberg",
+   "homeName": "Grazer AK",
+   "awayName": "Hartberg",
+   "homeSlug": "grazer-ak",
+   "awaySlug": "hartberg",
+   "hg": 0,
+   "ag": 4,
+   "p": [
+    0.319,
+    0.251,
+    0.431
+   ],
+   "result": "away win",
+   "chance": 0.431
+  },
+  {
+   "date": "2026-10-30",
+   "league": "ireland",
+   "home": "Drogheda",
+   "away": "Galway",
+   "homeName": "Drogheda",
+   "awayName": "Galway",
+   "homeSlug": "drogheda",
+   "awaySlug": "galway",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.451,
+    0.262,
+    0.288
+   ],
+   "result": "home win",
+   "chance": 0.451
+  },
+  {
+   "date": "2026-10-30",
+   "league": "norway",
+   "home": "Bodo/Glimt",
+   "away": "Viking",
+   "homeName": "Bodo/Glimt",
+   "awayName": "Viking",
+   "homeSlug": "bodo-glimt",
+   "awaySlug": "viking",
+   "hg": 3,
+   "ag": 2,
+   "p": [
+    0.588,
+    0.186,
+    0.226
+   ],
+   "result": "home win",
+   "chance": 0.588
   },
   {
    "date": "2026-10-30",
@@ -2041,6 +3314,25 @@
    ],
    "result": "away win",
    "chance": 0.681
+  },
+  {
+   "date": "2026-10-30",
+   "league": "romania",
+   "home": "FC Rapid Bucuresti",
+   "away": "Csikszereda M. Ciuc",
+   "homeName": "FC Rapid Bucuresti",
+   "awayName": "Csikszereda M. Ciuc",
+   "homeSlug": "fc-rapid-bucuresti",
+   "awaySlug": "csikszereda-m-ciuc",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.691,
+    0.186,
+    0.124
+   ],
+   "result": "home win",
+   "chance": 0.691
   },
   {
    "date": "2026-10-30",
@@ -2187,12 +3479,12 @@
    "hg": 5,
    "ag": 1,
    "p": [
-    0.539,
-    0.274,
-    0.186
+    0.537,
+    0.275,
+    0.187
    ],
    "result": "home win",
-   "chance": 0.539
+   "chance": 0.537
   },
   {
    "date": "2026-10-29",
@@ -2263,12 +3555,12 @@
    "hg": 2,
    "ag": 0,
    "p": [
-    0.179,
-    0.28,
-    0.541
+    0.173,
+    0.277,
+    0.551
    ],
    "result": "home win",
-   "chance": 0.179
+   "chance": 0.173
   },
   {
    "date": "2026-10-28",
@@ -2415,9 +3707,9 @@
    "hg": 0,
    "ag": 0,
    "p": [
-    0.323,
+    0.324,
     0.316,
-    0.361
+    0.36
    ],
    "result": "draw",
    "chance": 0.316
@@ -2548,12 +3840,12 @@
    "hg": 2,
    "ag": 6,
    "p": [
-    0.328,
+    0.326,
     0.308,
-    0.364
+    0.366
    ],
    "result": "away win",
-   "chance": 0.364
+   "chance": 0.366
   },
   {
    "date": "2026-10-27",
@@ -2567,12 +3859,12 @@
    "hg": 1,
    "ag": 3,
    "p": [
-    0.176,
+    0.177,
     0.272,
-    0.552
+    0.551
    ],
    "result": "away win",
-   "chance": 0.552
+   "chance": 0.551
   },
   {
    "date": "2026-10-27",
@@ -2592,158 +3884,6 @@
    ],
    "result": "home win",
    "chance": 0.762
-  },
-  {
-   "date": "2026-10-26",
-   "league": "denmark",
-   "home": "FC Copenhagen",
-   "away": "Odense",
-   "homeName": "FC Copenhagen",
-   "awayName": "Odense",
-   "homeSlug": "fc-copenhagen",
-   "awaySlug": "odense",
-   "hg": 1,
-   "ag": 1,
-   "p": [
-    0.729,
-    0.16,
-    0.111
-   ],
-   "result": "draw",
-   "chance": 0.16
-  },
-  {
-   "date": "2026-10-26",
-   "league": "superlig",
-   "home": "Galatasaray",
-   "away": "Fenerbahce",
-   "homeName": "Galatasaray",
-   "awayName": "Fenerbahçe",
-   "homeSlug": "galatasaray",
-   "awaySlug": "fenerbahce",
-   "hg": 2,
-   "ag": 1,
-   "p": [
-    0.442,
-    0.261,
-    0.296
-   ],
-   "result": "home win",
-   "chance": 0.442
-  },
-  {
-   "date": "2026-10-26",
-   "league": "superlig",
-   "home": "Rizespor",
-   "away": "Trabzonspor",
-   "homeName": "Rizespor",
-   "awayName": "Trabzonspor",
-   "homeSlug": "rizespor",
-   "awaySlug": "trabzonspor",
-   "hg": 3,
-   "ag": 4,
-   "p": [
-    0.246,
-    0.253,
-    0.5
-   ],
-   "result": "away win",
-   "chance": 0.5
-  },
-  {
-   "date": "2026-10-26",
-   "league": "laliga",
-   "home": "Sevilla",
-   "away": "Osasuna",
-   "homeName": "Sevilla",
-   "awayName": "Osasuna",
-   "homeSlug": "sevilla",
-   "awaySlug": "osasuna",
-   "hg": 2,
-   "ag": 0,
-   "p": [
-    0.528,
-    0.254,
-    0.218
-   ],
-   "result": "home win",
-   "chance": 0.528
-  },
-  {
-   "date": "2026-10-26",
-   "league": "romania",
-   "home": "Sepsi Sf. Gheorghe",
-   "away": "Univ. Craiova",
-   "homeName": "Sepsi Sf. Gheorghe",
-   "awayName": "Univ. Craiova",
-   "homeSlug": "sepsi-sf-gheorghe",
-   "awaySlug": "univ-craiova",
-   "hg": 0,
-   "ag": 5,
-   "p": [
-    0.216,
-    0.246,
-    0.538
-   ],
-   "result": "away win",
-   "chance": 0.538
-  },
-  {
-   "date": "2026-10-26",
-   "league": "ligue1",
-   "home": "Paris SG",
-   "away": "Lyon",
-   "homeName": "Paris Saint-Germain",
-   "awayName": "Olympique Lyonnais",
-   "homeSlug": "paris-sg",
-   "awaySlug": "lyon",
-   "hg": 2,
-   "ag": 0,
-   "p": [
-    0.626,
-    0.234,
-    0.14
-   ],
-   "result": "home win",
-   "chance": 0.626
-  },
-  {
-   "date": "2026-10-26",
-   "league": "superlig",
-   "home": "Besiktas",
-   "away": "Buyuksehyr",
-   "homeName": "Beşiktaş",
-   "awayName": "İstanbul Başakşehir",
-   "homeSlug": "besiktas",
-   "awaySlug": "buyuksehyr",
-   "hg": 2,
-   "ag": 0,
-   "p": [
-    0.653,
-    0.206,
-    0.141
-   ],
-   "result": "home win",
-   "chance": 0.653
-  },
-  {
-   "date": "2026-10-26",
-   "league": "primeira",
-   "home": "Santa Clara",
-   "away": "Benfica",
-   "homeName": "Santa Clara",
-   "awayName": "Benfica",
-   "homeSlug": "santa-clara",
-   "awaySlug": "benfica",
-   "hg": 1,
-   "ag": 2,
-   "p": [
-    0.079,
-    0.178,
-    0.743
-   ],
-   "result": "away win",
-   "chance": 0.743
   }
  ],
  "upsets": [
@@ -2765,6 +3905,25 @@
    ],
    "result": "draw",
    "chance": 0.085
+  },
+  {
+   "date": "2026-11-02",
+   "league": "seriea",
+   "home": "Atalanta",
+   "away": "Parma",
+   "homeName": "Atalanta",
+   "awayName": "Parma",
+   "homeSlug": "atalanta",
+   "awaySlug": "parma",
+   "hg": 0,
+   "ag": 3,
+   "p": [
+    0.664,
+    0.223,
+    0.113
+   ],
+   "result": "away win",
+   "chance": 0.113
   },
   {
    "date": "2026-11-01",
@@ -2824,6 +3983,25 @@
    "chance": 0.137
   },
   {
+   "date": "2026-11-01",
+   "league": "switzerland",
+   "home": "Young Boys",
+   "away": "Zurich",
+   "homeName": "Young Boys",
+   "awayName": "Zurich",
+   "homeSlug": "young-boys",
+   "awaySlug": "zurich",
+   "hg": 3,
+   "ag": 5,
+   "p": [
+    0.692,
+    0.16,
+    0.148
+   ],
+   "result": "away win",
+   "chance": 0.148
+  },
+  {
    "date": "2026-10-28",
    "league": "seriea",
    "home": "Milan",
@@ -2881,25 +4059,6 @@
    "chance": 0.159
   },
   {
-   "date": "2026-10-26",
-   "league": "denmark",
-   "home": "FC Copenhagen",
-   "away": "Odense",
-   "homeName": "FC Copenhagen",
-   "awayName": "Odense",
-   "homeSlug": "fc-copenhagen",
-   "awaySlug": "odense",
-   "hg": 1,
-   "ag": 1,
-   "p": [
-    0.729,
-    0.16,
-    0.111
-   ],
-   "result": "draw",
-   "chance": 0.16
-  },
-  {
    "date": "2026-11-01",
    "league": "proleague",
    "home": "St Truiden",
@@ -2917,29 +4076,10 @@
    ],
    "result": "away win",
    "chance": 0.173
-  },
-  {
-   "date": "2026-10-31",
-   "league": "bundesliga",
-   "home": "Bayern Munich",
-   "away": "Dortmund",
-   "homeName": "Bayern Munich",
-   "awayName": "Borussia Dortmund",
-   "homeSlug": "bayern-munich",
-   "awaySlug": "dortmund",
-   "hg": 2,
-   "ag": 2,
-   "p": [
-    0.71,
-    0.178,
-    0.112
-   ],
-   "result": "draw",
-   "chance": 0.178
   }
  ],
  "week": {
-  "from": "2026-10-25",
-  "to": "2026-11-01"
+  "from": "2026-10-26",
+  "to": "2026-11-02"
  }
 }

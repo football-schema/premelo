@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "league": "Danish Superliga",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 3024,
+  "matches": 3030,
   "model": {
-   "logloss": 1.0183,
-   "rps": 0.209,
-   "brier": 0.6101
+   "logloss": 1.0177,
+   "rps": 0.2089,
+   "brier": 0.6097
   },
   "elo": {
-   "logloss": 1.0183,
-   "rps": 0.209,
-   "brier": 0.6101
+   "logloss": 1.0177,
+   "rps": 0.2089,
+   "brier": 0.6097
   },
   "market": {
-   "logloss": 1.01,
-   "rps": 0.2064,
-   "brier": 0.6045
+   "logloss": 1.0095,
+   "rps": 0.2063,
+   "brier": 0.6041
   }
  },
  "params": {
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 72,
-   "withOdds": 72,
+   "matches": 78,
+   "withOdds": 78,
    "model": {
-    "logloss": 0.9911,
-    "rps": 0.1914,
-    "brier": 0.5986
+    "logloss": 0.9699,
+    "rps": 0.1893,
+    "brier": 0.5828
    },
    "market": {
-    "logloss": 1.0032,
-    "rps": 0.1921,
-    "brier": 0.6028
+    "logloss": 0.9822,
+    "rps": 0.1908,
+    "brier": 0.5875
    },
    "baseline": {
-    "logloss": 1.0792,
-    "rps": 0.2191,
-    "brier": 0.6523
+    "logloss": 1.0696,
+    "rps": 0.2215,
+    "brier": 0.6459
    }
   }
  ],
@@ -381,9 +381,9 @@
   },
   {
    "bucket": "10-20%",
-   "matches": 188,
+   "matches": 189,
    "predicted": 0.163,
-   "actual": 0.17
+   "actual": 0.169
   },
   {
    "bucket": "20-30%",
@@ -399,21 +399,21 @@
   },
   {
    "bucket": "40-50%",
-   "matches": 703,
+   "matches": 706,
    "predicted": 0.449,
-   "actual": 0.441
+   "actual": 0.442
   },
   {
    "bucket": "50-60%",
-   "matches": 521,
+   "matches": 522,
    "predicted": 0.548,
-   "actual": 0.589
+   "actual": 0.59
   },
   {
    "bucket": "60-70%",
-   "matches": 284,
+   "matches": 285,
    "predicted": 0.644,
-   "actual": 0.616
+   "actual": 0.618
   },
   {
    "bucket": "70-80%",

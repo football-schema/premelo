@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "league": "Süper Lig",
  "from": "2000-01",
  "test": {
   "from": "2012-13",
-  "matches": 4678,
+  "matches": 4679,
   "model": {
    "logloss": 0.9928,
    "rps": 0.2017,
@@ -22,10 +22,10 @@
   }
  },
  "all": {
-  "matches": 8307,
+  "matches": 8308,
   "model": {
    "logloss": 0.9863,
-   "rps": 0.2004,
+   "rps": 0.2005,
    "brier": 0.5874
   },
   "elo": {
@@ -611,22 +611,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 89,
-   "withOdds": 89,
+   "matches": 90,
+   "withOdds": 90,
    "model": {
-    "logloss": 0.9516,
-    "rps": 0.2068,
-    "brier": 0.563
+    "logloss": 0.9526,
+    "rps": 0.2075,
+    "brier": 0.5637
    },
    "market": {
-    "logloss": 0.9311,
-    "rps": 0.2003,
-    "brier": 0.5481
+    "logloss": 0.9323,
+    "rps": 0.2011,
+    "brier": 0.5491
    },
    "baseline": {
-    "logloss": 1.0483,
-    "rps": 0.2401,
-    "brier": 0.6329
+    "logloss": 1.0453,
+    "rps": 0.2395,
+    "brier": 0.6307
    }
   }
  ],
@@ -651,9 +651,9 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 1591,
+   "matches": 1592,
    "predicted": 0.355,
-   "actual": 0.37
+   "actual": 0.371
   },
   {
    "bucket": "40-50%",

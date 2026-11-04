@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "league": "Scottish Premiership",
  "from": "2000-01",
  "test": {
@@ -613,7 +613,7 @@
    "matches": 69,
    "withOdds": 69,
    "model": {
-    "logloss": 0.9956,
+    "logloss": 0.9955,
     "rps": 0.2105,
     "brier": 0.5955
    },

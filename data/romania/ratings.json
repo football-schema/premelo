@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T07:01:16.897Z",
+ "updated": "2026-11-04T07:01:14.707Z",
  "league": "romania",
  "name": "Liga I",
- "through": "2026-10-26",
+ "through": "2026-11-02",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -50,19 +50,10 @@
    "name": "Univ. Craiova",
    "slug": "univ-craiova",
    "div": "top",
-   "elo": 1703,
-   "change30": 21,
-   "played": 23,
+   "elo": 1718,
+   "change30": 36,
+   "played": 24,
    "form": [
-    {
-     "r": "W",
-     "opp": "Corvinul",
-     "oppSlug": "corvinul",
-     "gf": 1,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-13"
-    },
     {
      "r": "W",
      "opp": "FCSB",
@@ -98,10 +89,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-26"
+    },
+    {
+     "r": "W",
+     "opp": "FC Botosani",
+     "oppSlug": "fc-botosani",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1633,
     1592,
     1589,
     1626,
@@ -120,18 +119,19 @@
     1690,
     1699,
     1704,
-    1703
+    1703,
+    1718
    ],
    "rank": 1,
    "table": {
     "pos": 2,
-    "p": 13,
-    "w": 9,
+    "p": 14,
+    "w": 10,
     "d": 2,
     "l": 2,
-    "gf": 32,
-    "ga": 9,
-    "pts": 29
+    "gf": 34,
+    "ga": 10,
+    "pts": 32
    }
   },
   {
@@ -139,19 +139,10 @@
    "name": "Dinamo Bucuresti",
    "slug": "dinamo-bucuresti",
    "div": "top",
-   "elo": 1651,
-   "change30": 61,
-   "played": 13,
+   "elo": 1650,
+   "change30": 60,
+   "played": 14,
    "form": [
-    {
-     "r": "W",
-     "opp": "Csikszereda M. Ciuc",
-     "oppSlug": "csikszereda-m-ciuc",
-     "gf": 3,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-11"
-    },
     {
      "r": "W",
      "opp": "Farul Constanta",
@@ -187,10 +178,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "UTA Arad",
+     "oppSlug": "uta-arad",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1597,
     1572,
     1554,
     1562,
@@ -209,18 +208,19 @@
     1590,
     1621,
     1639,
-    1651
+    1651,
+    1650
    ],
    "rank": 2,
    "table": {
     "pos": 1,
-    "p": 13,
-    "w": 9,
+    "p": 14,
+    "w": 10,
     "d": 3,
     "l": 1,
-    "gf": 29,
+    "gf": 31,
     "ga": 9,
-    "pts": 30
+    "pts": 33
    }
   },
   {
@@ -228,19 +228,10 @@
    "name": "FCSB",
    "slug": "fcsb",
    "div": "top",
-   "elo": 1612,
-   "change30": 45,
-   "played": 15,
+   "elo": 1606,
+   "change30": 39,
+   "played": 16,
    "form": [
-    {
-     "r": "D",
-     "opp": "Petrolul",
-     "oppSlug": "petrolul",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-14"
-    },
     {
      "r": "L",
      "opp": "Univ. Craiova",
@@ -276,10 +267,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "U. Cluj",
+     "oppSlug": "u-cluj",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-11-02"
     }
    ],
    "spark": [
-    1556,
     1601,
     1513,
     1548,
@@ -298,17 +297,18 @@
     1567,
     1567,
     1583,
-    1612
+    1612,
+    1606
    ],
    "rank": 3,
    "table": {
-    "pos": 6,
-    "p": 13,
+    "pos": 7,
+    "p": 14,
     "w": 6,
     "d": 3,
-    "l": 4,
+    "l": 5,
     "gf": 20,
-    "ga": 19,
+    "ga": 20,
     "pts": 21
    }
   },
@@ -317,19 +317,10 @@
    "name": "FC Rapid Bucuresti",
    "slug": "fc-rapid-bucuresti",
    "div": "top",
-   "elo": 1590,
-   "change30": 7,
-   "played": 13,
+   "elo": 1575,
+   "change30": -8,
+   "played": 14,
    "form": [
-    {
-     "r": "W",
-     "opp": "FC Voluntari",
-     "oppSlug": "fc-voluntari",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-12"
-    },
     {
      "r": "W",
      "opp": "FC Arges",
@@ -365,10 +356,18 @@
      "ga": 4,
      "ha": "a",
      "date": "2026-10-24"
+    },
+    {
+     "r": "W",
+     "opp": "Csikszereda M. Ciuc",
+     "oppSlug": "csikszereda-m-ciuc",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1566,
     1560,
     1585,
     1568,
@@ -387,18 +386,19 @@
     1583,
     1614,
     1617,
-    1590
+    1590,
+    1575
    ],
    "rank": 4,
    "table": {
     "pos": 3,
-    "p": 13,
-    "w": 8,
+    "p": 14,
+    "w": 9,
     "d": 3,
     "l": 2,
-    "gf": 21,
+    "gf": 23,
     "ga": 13,
-    "pts": 27
+    "pts": 30
    }
   },
   {
@@ -406,19 +406,10 @@
    "name": "U. Cluj",
    "slug": "u-cluj",
    "div": "top",
-   "elo": 1532,
-   "change30": 14,
-   "played": 17,
+   "elo": 1538,
+   "change30": 20,
+   "played": 18,
    "form": [
-    {
-     "r": "W",
-     "opp": "FC Voluntari",
-     "oppSlug": "fc-voluntari",
-     "gf": 2,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-20"
-    },
     {
      "r": "W",
      "opp": "CFR Cluj",
@@ -454,10 +445,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-23"
+    },
+    {
+     "r": "W",
+     "opp": "FCSB",
+     "oppSlug": "fcsb",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-02"
     }
    ],
    "spark": [
-    1624,
     1620,
     1590,
     1583,
@@ -476,18 +475,19 @@
     1551,
     1519,
     1509,
-    1532
+    1532,
+    1538
    ],
    "rank": 5,
    "table": {
-    "pos": 5,
-    "p": 13,
-    "w": 7,
+    "pos": 4,
+    "p": 14,
+    "w": 8,
     "d": 1,
     "l": 5,
-    "gf": 25,
+    "gf": 26,
     "ga": 20,
-    "pts": 22
+    "pts": 25
    }
   },
   {
@@ -495,19 +495,10 @@
    "name": "UTA Arad",
    "slug": "uta-arad",
    "div": "top",
-   "elo": 1456,
-   "change30": -14,
-   "played": 13,
+   "elo": 1458,
+   "change30": -12,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "Farul Constanta",
-     "oppSlug": "farul-constanta",
-     "gf": 2,
-     "ga": 4,
-     "ha": "a",
-     "date": "2026-09-11"
-    },
     {
      "r": "W",
      "opp": "Sepsi Sf. Gheorghe",
@@ -543,10 +534,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "Dinamo Bucuresti",
+     "oppSlug": "dinamo-bucuresti",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1429,
     1439,
     1429,
     1405,
@@ -564,18 +563,19 @@
     1444,
     1470,
     1445,
-    1457,
-    1456
+    1456,
+    1456,
+    1458
    ],
    "rank": 6,
    "table": {
-    "pos": 8,
-    "p": 13,
+    "pos": 10,
+    "p": 14,
     "w": 5,
     "d": 3,
-    "l": 5,
+    "l": 6,
     "gf": 16,
-    "ga": 17,
+    "ga": 19,
     "pts": 18
    }
   },
@@ -584,19 +584,10 @@
    "name": "Farul Constanta",
    "slug": "farul-constanta",
    "div": "top",
-   "elo": 1447,
-   "change30": -9,
-   "played": 13,
+   "elo": 1458,
+   "change30": 2,
+   "played": 14,
    "form": [
-    {
-     "r": "W",
-     "opp": "UTA Arad",
-     "oppSlug": "uta-arad",
-     "gf": 4,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-11"
-    },
     {
      "r": "L",
      "opp": "Dinamo Bucuresti",
@@ -632,10 +623,18 @@
      "ga": 3,
      "ha": "h",
      "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "FC Voluntari",
+     "oppSlug": "fc-voluntari",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-11-02"
     }
    ],
    "spark": [
-    1413,
     1437,
     1468,
     1450,
@@ -654,18 +653,108 @@
     1456,
     1474,
     1465,
-    1447
+    1447,
+    1458
    ],
    "rank": 7,
    "table": {
-    "pos": 7,
-    "p": 13,
-    "w": 5,
+    "pos": 6,
+    "p": 14,
+    "w": 6,
     "d": 5,
     "l": 3,
-    "gf": 21,
-    "ga": 20,
-    "pts": 20
+    "gf": 23,
+    "ga": 21,
+    "pts": 23
+   }
+  },
+  {
+   "club": "Petrolul",
+   "name": "Petrolul",
+   "slug": "petrolul",
+   "div": "top",
+   "elo": 1425,
+   "change30": 20,
+   "played": 14,
+   "form": [
+    {
+     "r": "W",
+     "opp": "Csikszereda M. Ciuc",
+     "oppSlug": "csikszereda-m-ciuc",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-21"
+    },
+    {
+     "r": "L",
+     "opp": "Farul Constanta",
+     "oppSlug": "farul-constanta",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "D",
+     "opp": "Sepsi Sf. Gheorghe",
+     "oppSlug": "sepsi-sf-gheorghe",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-17"
+    },
+    {
+     "r": "W",
+     "opp": "FC Botosani",
+     "oppSlug": "fc-botosani",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-23"
+    },
+    {
+     "r": "D",
+     "opp": "CFR Cluj",
+     "oppSlug": "cfr-cluj",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-31"
+    }
+   ],
+   "spark": [
+    1435,
+    1447,
+    1460,
+    1474,
+    1475,
+    1477,
+    1472,
+    1414,
+    1367,
+    1384,
+    1393,
+    1371,
+    1381,
+    1406,
+    1379,
+    1405,
+    1388,
+    1392,
+    1410,
+    1425
+   ],
+   "rank": 8,
+   "table": {
+    "pos": 5,
+    "p": 14,
+    "w": 7,
+    "d": 3,
+    "l": 4,
+    "gf": 19,
+    "ga": 18,
+    "pts": 24
    }
   },
   {
@@ -673,19 +762,10 @@
    "name": "CFR Cluj",
    "slug": "cfr-cluj",
    "div": "top",
-   "elo": 1435,
-   "change30": -22,
-   "played": 17,
+   "elo": 1420,
+   "change30": -37,
+   "played": 18,
    "form": [
-    {
-     "r": "W",
-     "opp": "FC Botosani",
-     "oppSlug": "fc-botosani",
-     "gf": 3,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-19"
-    },
     {
      "r": "L",
      "opp": "U. Cluj",
@@ -721,10 +801,18 @@
      "ga": 2,
      "ha": "h",
      "date": "2026-10-25"
+    },
+    {
+     "r": "D",
+     "opp": "Petrolul",
+     "oppSlug": "petrolul",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-31"
     }
    ],
    "spark": [
-    1588,
     1574,
     1551,
     1517,
@@ -743,18 +831,19 @@
     1424,
     1457,
     1445,
-    1435
+    1435,
+    1420
    ],
-   "rank": 8,
+   "rank": 9,
    "table": {
     "pos": 9,
-    "p": 13,
+    "p": 14,
     "w": 5,
-    "d": 2,
+    "d": 3,
     "l": 6,
-    "gf": 19,
-    "ga": 20,
-    "pts": 17
+    "gf": 20,
+    "ga": 21,
+    "pts": 18
    }
   },
   {
@@ -762,19 +851,10 @@
    "name": "Corvinul",
    "slug": "corvinul",
    "div": "top",
-   "elo": 1422,
-   "change30": -5,
-   "played": 13,
+   "elo": 1420,
+   "change30": -7,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "Univ. Craiova",
-     "oppSlug": "univ-craiova",
-     "gf": 0,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "W",
      "opp": "Otelul",
@@ -810,6 +890,15 @@
      "ga": 3,
      "ha": "h",
      "date": "2026-10-23"
+    },
+    {
+     "r": "W",
+     "opp": "FC Arges",
+     "oppSlug": "fc-arges",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-31"
     }
    ],
    "spark": [
@@ -831,18 +920,19 @@
     1427,
     1445,
     1442,
-    1422
+    1422,
+    1420
    ],
-   "rank": 9,
+   "rank": 10,
    "table": {
-    "pos": 10,
-    "p": 13,
-    "w": 4,
+    "pos": 8,
+    "p": 14,
+    "w": 5,
     "d": 4,
     "l": 5,
-    "gf": 14,
+    "gf": 16,
     "ga": 16,
-    "pts": 16
+    "pts": 19
    }
   },
   {
@@ -850,19 +940,10 @@
    "name": "FC Botosani",
    "slug": "fc-botosani",
    "div": "top",
-   "elo": 1418,
-   "change30": -9,
-   "played": 13,
+   "elo": 1403,
+   "change30": -24,
+   "played": 14,
    "form": [
-    {
-     "r": "D",
-     "opp": "FC Arges",
-     "oppSlug": "fc-arges",
-     "gf": 1,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-13"
-    },
     {
      "r": "L",
      "opp": "CFR Cluj",
@@ -898,10 +979,18 @@
      "ga": 3,
      "ha": "h",
      "date": "2026-10-23"
+    },
+    {
+     "r": "L",
+     "opp": "Univ. Craiova",
+     "oppSlug": "univ-craiova",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1436,
     1426,
     1441,
     1409,
@@ -920,107 +1009,19 @@
     1427,
     1452,
     1433,
-    1418
-   ],
-   "rank": 10,
-   "table": {
-    "pos": 11,
-    "p": 13,
-    "w": 3,
-    "d": 5,
-    "l": 5,
-    "gf": 17,
-    "ga": 17,
-    "pts": 14
-   }
-  },
-  {
-   "club": "Petrolul",
-   "name": "Petrolul",
-   "slug": "petrolul",
-   "div": "top",
-   "elo": 1410,
-   "change30": 5,
-   "played": 13,
-   "form": [
-    {
-     "r": "D",
-     "opp": "FCSB",
-     "oppSlug": "fcsb",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-14"
-    },
-    {
-     "r": "W",
-     "opp": "Csikszereda M. Ciuc",
-     "oppSlug": "csikszereda-m-ciuc",
-     "gf": 2,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-21"
-    },
-    {
-     "r": "L",
-     "opp": "Farul Constanta",
-     "oppSlug": "farul-constanta",
-     "gf": 1,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "D",
-     "opp": "Sepsi Sf. Gheorghe",
-     "oppSlug": "sepsi-sf-gheorghe",
-     "gf": 1,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-17"
-    },
-    {
-     "r": "W",
-     "opp": "FC Botosani",
-     "oppSlug": "fc-botosani",
-     "gf": 3,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-10-23"
-    }
-   ],
-   "spark": [
     1418,
-    1435,
-    1447,
-    1460,
-    1474,
-    1475,
-    1477,
-    1472,
-    1414,
-    1367,
-    1384,
-    1393,
-    1371,
-    1381,
-    1406,
-    1379,
-    1405,
-    1388,
-    1392,
-    1410
+    1403
    ],
    "rank": 11,
    "table": {
-    "pos": 4,
-    "p": 13,
-    "w": 7,
-    "d": 2,
-    "l": 4,
+    "pos": 12,
+    "p": 14,
+    "w": 3,
+    "d": 5,
+    "l": 6,
     "gf": 18,
-    "ga": 17,
-    "pts": 23
+    "ga": 19,
+    "pts": 14
    }
   },
   {
@@ -1028,19 +1029,10 @@
    "name": "FC Arges",
    "slug": "fc-arges",
    "div": "top",
-   "elo": 1374,
-   "change30": -21,
-   "played": 13,
+   "elo": 1376,
+   "change30": -19,
+   "played": 14,
    "form": [
-    {
-     "r": "D",
-     "opp": "FC Botosani",
-     "oppSlug": "fc-botosani",
-     "gf": 1,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "L",
      "opp": "FC Rapid Bucuresti",
@@ -1076,10 +1068,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "Corvinul",
+     "oppSlug": "corvinul",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-31"
     }
    ],
    "spark": [
-    1469,
     1453,
     1426,
     1423,
@@ -1098,107 +1098,19 @@
     1395,
     1362,
     1371,
-    1374
+    1374,
+    1376
    ],
    "rank": 12,
    "table": {
-    "pos": 13,
-    "p": 13,
+    "pos": 14,
+    "p": 14,
     "w": 3,
     "d": 3,
-    "l": 7,
+    "l": 8,
     "gf": 8,
-    "ga": 14,
+    "ga": 16,
     "pts": 12
-   }
-  },
-  {
-   "club": "Sepsi Sf. Gheorghe",
-   "name": "Sepsi Sf. Gheorghe",
-   "slug": "sepsi-sf-gheorghe",
-   "div": "top",
-   "elo": 1368,
-   "change30": -33,
-   "played": 13,
-   "form": [
-    {
-     "r": "W",
-     "opp": "CFR Cluj",
-     "oppSlug": "cfr-cluj",
-     "gf": 3,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-12"
-    },
-    {
-     "r": "L",
-     "opp": "UTA Arad",
-     "oppSlug": "uta-arad",
-     "gf": 0,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
-    {
-     "r": "L",
-     "opp": "Dinamo Bucuresti",
-     "oppSlug": "dinamo-bucuresti",
-     "gf": 0,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-10-09"
-    },
-    {
-     "r": "D",
-     "opp": "Petrolul",
-     "oppSlug": "petrolul",
-     "gf": 1,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-10-17"
-    },
-    {
-     "r": "L",
-     "opp": "Univ. Craiova",
-     "oppSlug": "univ-craiova",
-     "gf": 0,
-     "ga": 5,
-     "ha": "h",
-     "date": "2026-10-26"
-    }
-   ],
-   "spark": [
-    1467,
-    1453,
-    1472,
-    1484,
-    1482,
-    1499,
-    1519,
-    1358,
-    1442,
-    1435,
-    1414,
-    1419,
-    1418,
-    1443,
-    1414,
-    1427,
-    1401,
-    1371,
-    1366,
-    1368
-   ],
-   "rank": 13,
-   "table": {
-    "pos": 12,
-    "p": 13,
-    "w": 3,
-    "d": 5,
-    "l": 5,
-    "gf": 8,
-    "ga": 18,
-    "pts": 14
    }
   },
   {
@@ -1206,19 +1118,10 @@
    "name": "Otelul",
    "slug": "otelul",
    "div": "top",
-   "elo": 1352,
-   "change30": 19,
-   "played": 13,
+   "elo": 1368,
+   "change30": 35,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "U. Cluj",
-     "oppSlug": "u-cluj",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-14"
-    },
     {
      "r": "L",
      "opp": "Corvinul",
@@ -1254,10 +1157,18 @@
      "ga": 4,
      "ha": "a",
      "date": "2026-10-25"
+    },
+    {
+     "r": "D",
+     "opp": "Sepsi Sf. Gheorghe",
+     "oppSlug": "sepsi-sf-gheorghe",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-01"
     }
    ],
    "spark": [
-    1405,
     1408,
     1418,
     1403,
@@ -1276,18 +1187,108 @@
     1333,
     1333,
     1332,
+    1352,
+    1368
+   ],
+   "rank": 13,
+   "table": {
+    "pos": 13,
+    "p": 14,
+    "w": 2,
+    "d": 6,
+    "l": 6,
+    "gf": 16,
+    "ga": 22,
+    "pts": 12
+   }
+  },
+  {
+   "club": "Sepsi Sf. Gheorghe",
+   "name": "Sepsi Sf. Gheorghe",
+   "slug": "sepsi-sf-gheorghe",
+   "div": "top",
+   "elo": 1352,
+   "change30": -49,
+   "played": 14,
+   "form": [
+    {
+     "r": "L",
+     "opp": "UTA Arad",
+     "oppSlug": "uta-arad",
+     "gf": 0,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Dinamo Bucuresti",
+     "oppSlug": "dinamo-bucuresti",
+     "gf": 0,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-09"
+    },
+    {
+     "r": "D",
+     "opp": "Petrolul",
+     "oppSlug": "petrolul",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-17"
+    },
+    {
+     "r": "L",
+     "opp": "Univ. Craiova",
+     "oppSlug": "univ-craiova",
+     "gf": 0,
+     "ga": 5,
+     "ha": "h",
+     "date": "2026-10-26"
+    },
+    {
+     "r": "D",
+     "opp": "Otelul",
+     "oppSlug": "otelul",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-11-01"
+    }
+   ],
+   "spark": [
+    1453,
+    1472,
+    1484,
+    1482,
+    1499,
+    1519,
+    1358,
+    1442,
+    1435,
+    1414,
+    1419,
+    1418,
+    1443,
+    1414,
+    1427,
+    1401,
+    1371,
+    1366,
+    1368,
     1352
    ],
    "rank": 14,
    "table": {
-    "pos": 14,
-    "p": 13,
-    "w": 2,
-    "d": 5,
-    "l": 6,
-    "gf": 15,
-    "ga": 21,
-    "pts": 11
+    "pos": 11,
+    "p": 14,
+    "w": 3,
+    "d": 6,
+    "l": 5,
+    "gf": 9,
+    "ga": 19,
+    "pts": 15
    }
   },
   {
@@ -1295,19 +1296,10 @@
    "name": "FC Voluntari",
    "slug": "fc-voluntari",
    "div": "top",
-   "elo": 1302,
-   "change30": -33,
-   "played": 13,
+   "elo": 1291,
+   "change30": -44,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "FC Rapid Bucuresti",
-     "oppSlug": "fc-rapid-bucuresti",
-     "gf": 1,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-12"
-    },
     {
      "r": "L",
      "opp": "U. Cluj",
@@ -1343,10 +1335,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "Farul Constanta",
+     "oppSlug": "farul-constanta",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-11-02"
     }
    ],
    "spark": [
-    1381,
     1373,
     1379,
     1400,
@@ -1365,17 +1365,18 @@
     1335,
     1317,
     1300,
-    1302
+    1302,
+    1291
    ],
    "rank": 15,
    "table": {
     "pos": 15,
-    "p": 13,
+    "p": 14,
     "w": 2,
     "d": 2,
-    "l": 9,
-    "gf": 13,
-    "ga": 29,
+    "l": 10,
+    "gf": 14,
+    "ga": 31,
     "pts": 8
    }
   },
@@ -1384,19 +1385,10 @@
    "name": "Csikszereda M. Ciuc",
    "slug": "csikszereda-m-ciuc",
    "div": "top",
-   "elo": 1213,
-   "change30": -8,
-   "played": 13,
+   "elo": 1229,
+   "change30": 8,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "Dinamo Bucuresti",
-     "oppSlug": "dinamo-bucuresti",
-     "gf": 1,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-09-11"
-    },
     {
      "r": "L",
      "opp": "Petrolul",
@@ -1432,10 +1424,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-24"
+    },
+    {
+     "r": "L",
+     "opp": "FC Rapid Bucuresti",
+     "oppSlug": "fc-rapid-bucuresti",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1319,
     1336,
     1333,
     1334,
@@ -1454,17 +1454,18 @@
     1221,
     1212,
     1212,
-    1213
+    1213,
+    1229
    ],
    "rank": 16,
    "table": {
     "pos": 16,
-    "p": 13,
+    "p": 14,
     "w": 1,
     "d": 2,
-    "l": 10,
+    "l": 11,
     "gf": 9,
-    "ga": 26,
+    "ga": 28,
     "pts": 5
    }
   }

@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03T07:01:16.900Z",
+ "updated": "2026-11-04T07:01:14.710Z",
  "league": "ireland",
  "name": "League of Ireland",
- "through": "2026-10-23",
+ "through": "2026-10-30",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -50,19 +50,10 @@
    "name": "St. Patricks",
    "slug": "st-patricks",
    "div": "top",
-   "elo": 1466,
-   "change30": -14,
-   "played": 13,
+   "elo": 1480,
+   "change30": 0,
+   "played": 14,
    "form": [
-    {
-     "r": "W",
-     "opp": "Dundalk",
-     "oppSlug": "dundalk",
-     "gf": 4,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-09-14"
-    },
     {
      "r": "W",
      "opp": "Sligo Rovers",
@@ -98,10 +89,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-23"
+    },
+    {
+     "r": "L",
+     "opp": "Bohemians",
+     "oppSlug": "bohemians",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1447,
     1452,
     1447,
     1453,
@@ -120,17 +119,18 @@
     1480,
     1479,
     1477,
-    1466
+    1466,
+    1480
    ],
    "rank": 1,
    "table": {
     "pos": 3,
-    "p": 35,
+    "p": 36,
     "w": 17,
     "d": 9,
-    "l": 9,
-    "gf": 53,
-    "ga": 28,
+    "l": 10,
+    "gf": 55,
+    "ga": 31,
     "pts": 60
    }
   },
@@ -139,19 +139,10 @@
    "name": "Bohemians",
    "slug": "bohemians",
    "div": "top",
-   "elo": 1444,
-   "change30": -15,
-   "played": 17,
+   "elo": 1430,
+   "change30": -29,
+   "played": 18,
    "form": [
-    {
-     "r": "W",
-     "opp": "Drogheda",
-     "oppSlug": "drogheda",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-18"
-    },
     {
      "r": "W",
      "opp": "Dundalk",
@@ -187,10 +178,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-23"
+    },
+    {
+     "r": "W",
+     "opp": "St. Patricks",
+     "oppSlug": "st-patricks",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1427,
     1445,
     1457,
     1455,
@@ -209,18 +208,19 @@
     1477,
     1462,
     1437,
-    1444
+    1444,
+    1430
    ],
    "rank": 2,
    "table": {
     "pos": 2,
-    "p": 35,
-    "w": 18,
+    "p": 36,
+    "w": 19,
     "d": 8,
     "l": 9,
-    "gf": 60,
-    "ga": 42,
-    "pts": 62
+    "gf": 63,
+    "ga": 44,
+    "pts": 65
    }
   },
   {
@@ -228,19 +228,10 @@
    "name": "Shamrock Rovers",
    "slug": "shamrock-rovers",
    "div": "top",
-   "elo": 1430,
-   "change30": 2,
-   "played": 19,
+   "elo": 1421,
+   "change30": -7,
+   "played": 20,
    "form": [
-    {
-     "r": "W",
-     "opp": "Waterford",
-     "oppSlug": "waterford",
-     "gf": 3,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-18"
-    },
     {
      "r": "W",
      "opp": "Drogheda",
@@ -276,10 +267,18 @@
      "ga": 0,
      "ha": "h",
      "date": "2026-10-23"
+    },
+    {
+     "r": "L",
+     "opp": "Dundalk",
+     "oppSlug": "dundalk",
+     "gf": 1,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1454,
     1447,
     1425,
     1433,
@@ -298,107 +297,19 @@
     1439,
     1454,
     1435,
-    1430
+    1430,
+    1421
    ],
    "rank": 3,
    "table": {
     "pos": 1,
-    "p": 35,
+    "p": 36,
     "w": 20,
     "d": 8,
-    "l": 7,
-    "gf": 58,
-    "ga": 35,
+    "l": 8,
+    "gf": 59,
+    "ga": 38,
     "pts": 68
-   }
-  },
-  {
-   "club": "Derry City",
-   "name": "Derry City",
-   "slug": "derry-city",
-   "div": "top",
-   "elo": 1363,
-   "change30": -22,
-   "played": 15,
-   "form": [
-    {
-     "r": "D",
-     "opp": "Waterford",
-     "oppSlug": "waterford",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-14"
-    },
-    {
-     "r": "W",
-     "opp": "Galway",
-     "oppSlug": "galway",
-     "gf": 1,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-18"
-    },
-    {
-     "r": "L",
-     "opp": "Drogheda",
-     "oppSlug": "drogheda",
-     "gf": 0,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-10-16"
-    },
-    {
-     "r": "W",
-     "opp": "St. Patricks",
-     "oppSlug": "st-patricks",
-     "gf": 1,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-19"
-    },
-    {
-     "r": "W",
-     "opp": "Dundalk",
-     "oppSlug": "dundalk",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-23"
-    }
-   ],
-   "spark": [
-    1357,
-    1392,
-    1384,
-    1380,
-    1394,
-    1389,
-    1381,
-    1373,
-    1369,
-    1364,
-    1358,
-    1383,
-    1343,
-    1338,
-    1335,
-    1341,
-    1385,
-    1343,
-    1344,
-    1363
-   ],
-   "rank": 4,
-   "table": {
-    "pos": 5,
-    "p": 35,
-    "w": 11,
-    "d": 14,
-    "l": 10,
-    "gf": 48,
-    "ga": 45,
-    "pts": 47
    }
   },
   {
@@ -406,19 +317,10 @@
    "name": "Shelbourne",
    "slug": "shelbourne",
    "div": "top",
-   "elo": 1343,
-   "change30": 23,
-   "played": 16,
+   "elo": 1344,
+   "change30": 28,
+   "played": 17,
    "form": [
-    {
-     "r": "W",
-     "opp": "Dundalk",
-     "oppSlug": "dundalk",
-     "gf": 3,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
     {
      "r": "D",
      "opp": "Galway",
@@ -454,10 +356,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-23"
+    },
+    {
+     "r": "L",
+     "opp": "Waterford",
+     "oppSlug": "waterford",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1396,
     1397,
     1378,
     1370,
@@ -476,17 +386,18 @@
     1316,
     1349,
     1350,
-    1343
+    1343,
+    1344
    ],
-   "rank": 5,
+   "rank": 4,
    "table": {
     "pos": 4,
-    "p": 35,
+    "p": 36,
     "w": 12,
     "d": 13,
-    "l": 10,
-    "gf": 50,
-    "ga": 47,
+    "l": 11,
+    "gf": 52,
+    "ga": 50,
     "pts": 49
    }
   },
@@ -495,19 +406,10 @@
    "name": "Waterford",
    "slug": "waterford",
    "div": "top",
-   "elo": 1325,
-   "change30": 64,
-   "played": 13,
+   "elo": 1324,
+   "change30": 63,
+   "played": 14,
    "form": [
-    {
-     "r": "D",
-     "opp": "Derry City",
-     "oppSlug": "derry-city",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-14"
-    },
     {
      "r": "L",
      "opp": "Shamrock Rovers",
@@ -543,10 +445,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-23"
+    },
+    {
+     "r": "W",
+     "opp": "Shelbourne",
+     "oppSlug": "shelbourne",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1137,
     1165,
     1161,
     1176,
@@ -565,18 +475,108 @@
     1261,
     1286,
     1321,
-    1325
+    1325,
+    1324
+   ],
+   "rank": 5,
+   "table": {
+    "pos": 7,
+    "p": 36,
+    "w": 10,
+    "d": 13,
+    "l": 13,
+    "gf": 54,
+    "ga": 61,
+    "pts": 43
+   }
+  },
+  {
+   "club": "Derry City",
+   "name": "Derry City",
+   "slug": "derry-city",
+   "div": "top",
+   "elo": 1317,
+   "change30": -68,
+   "played": 16,
+   "form": [
+    {
+     "r": "W",
+     "opp": "Galway",
+     "oppSlug": "galway",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-09-18"
+    },
+    {
+     "r": "L",
+     "opp": "Drogheda",
+     "oppSlug": "drogheda",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-16"
+    },
+    {
+     "r": "W",
+     "opp": "St. Patricks",
+     "oppSlug": "st-patricks",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-19"
+    },
+    {
+     "r": "W",
+     "opp": "Dundalk",
+     "oppSlug": "dundalk",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-23"
+    },
+    {
+     "r": "D",
+     "opp": "Sligo Rovers",
+     "oppSlug": "sligo-rovers",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-30"
+    }
+   ],
+   "spark": [
+    1392,
+    1384,
+    1380,
+    1394,
+    1389,
+    1381,
+    1373,
+    1369,
+    1364,
+    1358,
+    1383,
+    1343,
+    1338,
+    1335,
+    1341,
+    1385,
+    1343,
+    1344,
+    1363,
+    1317
    ],
    "rank": 6,
    "table": {
-    "pos": 8,
-    "p": 35,
-    "w": 9,
-    "d": 13,
-    "l": 13,
-    "gf": 51,
-    "ga": 59,
-    "pts": 40
+    "pos": 5,
+    "p": 36,
+    "w": 11,
+    "d": 15,
+    "l": 10,
+    "gf": 50,
+    "ga": 47,
+    "pts": 48
    }
   },
   {
@@ -584,19 +584,10 @@
    "name": "Dundalk",
    "slug": "dundalk",
    "div": "top",
-   "elo": 1237,
-   "change30": -18,
-   "played": 13,
+   "elo": 1246,
+   "change30": -9,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "St. Patricks",
-     "oppSlug": "st-patricks",
-     "gf": 0,
-     "ga": 4,
-     "ha": "h",
-     "date": "2026-09-14"
-    },
     {
      "r": "L",
      "opp": "Shelbourne",
@@ -632,10 +623,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-23"
+    },
+    {
+     "r": "W",
+     "opp": "Shamrock Rovers",
+     "oppSlug": "shamrock-rovers",
+     "gf": 3,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1338,
     1345,
     1336,
     1345,
@@ -654,18 +653,19 @@
     1255,
     1238,
     1255,
-    1237
+    1237,
+    1246
    ],
    "rank": 7,
    "table": {
-    "pos": 7,
-    "p": 35,
-    "w": 10,
+    "pos": 6,
+    "p": 36,
+    "w": 11,
     "d": 12,
     "l": 13,
-    "gf": 52,
-    "ga": 58,
-    "pts": 42
+    "gf": 55,
+    "ga": 59,
+    "pts": 45
    }
   },
   {
@@ -673,19 +673,10 @@
    "name": "Drogheda",
    "slug": "drogheda",
    "div": "top",
-   "elo": 1229,
-   "change30": 27,
-   "played": 13,
+   "elo": 1243,
+   "change30": 41,
+   "played": 14,
    "form": [
-    {
-     "r": "W",
-     "opp": "Shelbourne",
-     "oppSlug": "shelbourne",
-     "gf": 2,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-14"
-    },
     {
      "r": "L",
      "opp": "Bohemians",
@@ -721,10 +712,18 @@
      "ga": 3,
      "ha": "a",
      "date": "2026-10-23"
+    },
+    {
+     "r": "W",
+     "opp": "Galway",
+     "oppSlug": "galway",
+     "gf": 2,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1254,
     1227,
     1236,
     1221,
@@ -743,18 +742,19 @@
     1202,
     1191,
     1233,
-    1229
+    1229,
+    1243
    ],
    "rank": 8,
    "table": {
     "pos": 9,
-    "p": 35,
-    "w": 9,
+    "p": 36,
+    "w": 10,
     "d": 10,
     "l": 16,
-    "gf": 42,
+    "gf": 44,
     "ga": 57,
-    "pts": 37
+    "pts": 40
    }
   },
   {
@@ -762,19 +762,10 @@
    "name": "Galway",
    "slug": "galway",
    "div": "top",
-   "elo": 1226,
-   "change30": -2,
-   "played": 14,
+   "elo": 1213,
+   "change30": -19,
+   "played": 15,
    "form": [
-    {
-     "r": "L",
-     "opp": "Derry City",
-     "oppSlug": "derry-city",
-     "gf": 0,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
     {
      "r": "D",
      "opp": "Shelbourne",
@@ -810,10 +801,18 @@
      "ga": 0,
      "ha": "h",
      "date": "2026-10-23"
+    },
+    {
+     "r": "L",
+     "opp": "Drogheda",
+     "oppSlug": "drogheda",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1272,
     1266,
     1267,
     1260,
@@ -832,17 +831,18 @@
     1232,
     1250,
     1216,
-    1226
+    1226,
+    1213
    ],
    "rank": 9,
    "table": {
-    "pos": 6,
-    "p": 35,
+    "pos": 8,
+    "p": 36,
     "w": 10,
     "d": 12,
-    "l": 13,
+    "l": 14,
     "gf": 46,
-    "ga": 51,
+    "ga": 53,
     "pts": 42
    }
   },
@@ -851,19 +851,10 @@
    "name": "Sligo Rovers",
    "slug": "sligo-rovers",
    "div": "top",
-   "elo": 1032,
-   "change30": -46,
-   "played": 13,
+   "elo": 1078,
+   "change30": 0,
+   "played": 14,
    "form": [
-    {
-     "r": "L",
-     "opp": "Galway",
-     "oppSlug": "galway",
-     "gf": 1,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-09-14"
-    },
     {
      "r": "L",
      "opp": "St. Patricks",
@@ -899,10 +890,18 @@
      "ga": 4,
      "ha": "a",
      "date": "2026-10-23"
+    },
+    {
+     "r": "D",
+     "opp": "Derry City",
+     "oppSlug": "derry-city",
+     "gf": 2,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-30"
     }
    ],
    "spark": [
-    1177,
     1166,
     1174,
     1153,
@@ -921,18 +920,19 @@
     1078,
     1045,
     1027,
-    1032
+    1032,
+    1078
    ],
    "rank": 10,
    "table": {
     "pos": 10,
-    "p": 35,
+    "p": 36,
     "w": 5,
-    "d": 9,
+    "d": 10,
     "l": 21,
-    "gf": 26,
-    "ga": 64,
-    "pts": 24
+    "gf": 28,
+    "ga": 66,
+    "pts": 25
    }
   }
  ]

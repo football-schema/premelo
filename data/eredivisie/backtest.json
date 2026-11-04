@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "league": "Eredivisie",
  "from": "2000-01",
  "test": {
@@ -614,7 +614,7 @@
    "matches": 99,
    "withOdds": 99,
    "model": {
-    "logloss": 1.0099,
+    "logloss": 1.0098,
     "rps": 0.2013,
     "brier": 0.6084
    },

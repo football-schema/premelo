@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-03",
- "matches": 20252,
+ "updated": "2026-11-04",
+ "matches": 20261,
  "from": "1993-08-18",
  "model": {
-  "logloss": 0.9508,
-  "rps": 0.1937,
-  "brier": 0.5627
+  "logloss": 0.9506,
+  "rps": 0.1936,
+  "brier": 0.5626
  },
  "baseline": {
   "logloss": 1.0486,
-  "rps": 0.2273,
-  "brier": 0.6321
+  "rps": 0.2274,
+  "brier": 0.632
  },
  "params": {
   "k": 16,

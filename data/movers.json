@@ -1,28 +1,36 @@
 {
- "updated": "2026-11-03T07:01:16.959Z",
+ "updated": "2026-11-04T07:01:14.765Z",
  "up": [
+  {
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "sligo-rovers",
+   "name": "Sligo Rovers",
+   "elo": 1078,
+   "change": 46
+  },
   {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
    "slug": "cambuur",
    "name": "Cambuur",
-   "elo": 1529,
-   "change": 44
+   "elo": 1526,
+   "change": 41
   },
   {
-   "league": "ireland",
-   "leagueName": "League of Ireland",
-   "slug": "waterford",
-   "name": "Waterford",
-   "elo": 1325,
-   "change": 39
+   "league": "austria",
+   "leagueName": "Austrian Bundesliga",
+   "slug": "hartberg",
+   "name": "Hartberg",
+   "elo": 1432,
+   "change": 36
   },
   {
    "league": "bundesliga",
    "leagueName": "Bundesliga",
    "slug": "werder-bremen",
    "name": "Werder Bremen",
-   "elo": 1797,
+   "elo": 1799,
    "change": 34
   },
   {
@@ -30,56 +38,48 @@
    "leagueName": "Serie A",
    "slug": "lazio",
    "name": "Lazio",
-   "elo": 1856,
-   "change": 30
-  },
-  {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "kalmar",
-   "name": "Kalmar",
-   "elo": 1484,
-   "change": 30
-  },
-  {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "vasteras-sk",
-   "name": "Vasteras SK",
-   "elo": 1411,
-   "change": 29
-  },
-  {
-   "league": "romania",
-   "leagueName": "Liga I",
-   "slug": "fcsb",
-   "name": "FCSB",
-   "elo": 1612,
-   "change": 29
+   "elo": 1864,
+   "change": 31
   },
   {
    "league": "finland",
    "leagueName": "Veikkausliiga",
-   "slug": "jaro",
-   "name": "Jaro",
-   "elo": 1274,
-   "change": 27
+   "slug": "hjk",
+   "name": "HJK",
+   "elo": 1532,
+   "change": 29
   },
   {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "goteborg",
-   "name": "Goteborg",
-   "elo": 1509,
-   "change": 26
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "goztep",
+   "name": "Göztepe",
+   "elo": 1654,
+   "change": 27
   },
   {
    "league": "bundesliga",
    "leagueName": "Bundesliga",
    "slug": "ein-frankfurt",
    "name": "Eintracht Frankfurt",
-   "elo": 1792,
-   "change": 25
+   "elo": 1794,
+   "change": 26
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "napoli",
+   "name": "Napoli",
+   "elo": 1903,
+   "change": 26
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "lommel-sk",
+   "name": "Lommel SK",
+   "elo": 1547,
+   "change": 23
   }
  ],
  "down": [
@@ -88,80 +88,80 @@
    "leagueName": "Eredivisie",
    "slug": "go-ahead-eagles",
    "name": "Go Ahead Eagles",
-   "elo": 1571,
-   "change": -44
+   "elo": 1568,
+   "change": -47
   },
   {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "gais",
-   "name": "GAIS",
-   "elo": 1495,
-   "change": -34
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "derry-city",
+   "name": "Derry City",
+   "elo": 1317,
+   "change": -46
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "sassuolo",
+   "name": "Sassuolo",
+   "elo": 1698,
+   "change": -35
   },
   {
    "league": "bundesliga",
    "leagueName": "Bundesliga",
    "slug": "hoffenheim",
    "name": "Hoffenheim",
-   "elo": 1824,
-   "change": -34
+   "elo": 1826,
+   "change": -35
   },
   {
-   "league": "finland",
-   "leagueName": "Veikkausliiga",
-   "slug": "pk-35-vantaa",
-   "name": "PK-35 Vantaa",
-   "elo": 1173,
+   "league": "austria",
+   "leagueName": "Austrian Bundesliga",
+   "slug": "grazer-ak",
+   "name": "Grazer AK",
+   "elo": 1431,
    "change": -33
   },
   {
-   "league": "norway",
-   "leagueName": "Eliteserien",
-   "slug": "fredrikstad",
-   "name": "Fredrikstad",
-   "elo": 1492,
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "feyenoord",
+   "name": "Feyenoord",
+   "elo": 1827,
    "change": -32
   },
   {
-   "league": "norway",
-   "leagueName": "Eliteserien",
-   "slug": "hamkam",
-   "name": "HamKam",
-   "elo": 1393,
-   "change": -30
-  },
-  {
-   "league": "superlig",
-   "leagueName": "Süper Lig",
-   "slug": "fenerbahce",
-   "name": "Fenerbahçe",
-   "elo": 1784,
-   "change": -29
-  },
-  {
-   "league": "romania",
-   "leagueName": "Liga I",
-   "slug": "fc-rapid-bucuresti",
-   "name": "FC Rapid Bucuresti",
-   "elo": 1590,
-   "change": -27
-  },
-  {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "brommapojkarna",
-   "name": "Brommapojkarna",
-   "elo": 1373,
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "hamburg",
+   "name": "Hamburger SV",
+   "elo": 1645,
    "change": -26
   },
   {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "degerfors",
-   "name": "Degerfors",
-   "elo": 1334,
-   "change": -25
+   "league": "norway",
+   "leagueName": "Eliteserien",
+   "slug": "sarpsborg-08",
+   "name": "Sarpsborg 08",
+   "elo": 1524,
+   "change": -24
+  },
+  {
+   "league": "poland",
+   "leagueName": "Ekstraklasa",
+   "slug": "pogon-szczecin",
+   "name": "Pogon Szczecin",
+   "elo": 1537,
+   "change": -23
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "gent",
+   "name": "Gent",
+   "elo": 1711,
+   "change": -23
   }
  ]
 }

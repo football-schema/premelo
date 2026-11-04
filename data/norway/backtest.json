@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "league": "Eliteserien",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 3574,
+  "matches": 3582,
   "model": {
-   "logloss": 0.9898,
-   "rps": 0.2045,
-   "brier": 0.59
+   "logloss": 0.9901,
+   "rps": 0.2047,
+   "brier": 0.5902
   },
   "elo": {
-   "logloss": 0.9905,
-   "rps": 0.2046,
-   "brier": 0.5904
+   "logloss": 0.9908,
+   "rps": 0.2048,
+   "brier": 0.5906
   },
   "market": {
-   "logloss": 0.9825,
-   "rps": 0.2023,
-   "brier": 0.5849
+   "logloss": 0.9826,
+   "rps": 0.2024,
+   "brier": 0.585
   }
  },
  "params": {
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026",
-   "matches": 192,
-   "withOdds": 192,
+   "matches": 200,
+   "withOdds": 200,
    "model": {
-    "logloss": 0.9431,
-    "rps": 0.2004,
-    "brier": 0.5552
+    "logloss": 0.9498,
+    "rps": 0.2033,
+    "brier": 0.5599
    },
    "market": {
-    "logloss": 0.9354,
-    "rps": 0.1979,
-    "brier": 0.5497
+    "logloss": 0.9394,
+    "rps": 0.2002,
+    "brier": 0.5527
    },
    "baseline": {
-    "logloss": 1.0344,
-    "rps": 0.2309,
-    "brier": 0.6226
+    "logloss": 1.0364,
+    "rps": 0.2325,
+    "brier": 0.6242
    }
   }
  ],
@@ -387,31 +387,31 @@
   },
   {
    "bucket": "20-30%",
-   "matches": 397,
+   "matches": 398,
    "predicted": 0.256,
-   "actual": 0.262
+   "actual": 0.261
   },
   {
    "bucket": "30-40%",
-   "matches": 731,
+   "matches": 734,
    "predicted": 0.354,
-   "actual": 0.363
+   "actual": 0.364
   },
   {
    "bucket": "40-50%",
-   "matches": 845,
+   "matches": 846,
    "predicted": 0.45,
    "actual": 0.466
   },
   {
    "bucket": "50-60%",
-   "matches": 737,
+   "matches": 738,
    "predicted": 0.547,
-   "actual": 0.566
+   "actual": 0.565
   },
   {
    "bucket": "60-70%",
-   "matches": 441,
+   "matches": 443,
    "predicted": 0.643,
    "actual": 0.637
   },
