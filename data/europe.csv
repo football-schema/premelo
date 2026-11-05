@@ -20161,10 +20161,10 @@ date,season,div,home,away,hg,ag
 2026-10-14,2627,EU,Roma,Real Madrid,3,4
 2026-10-14,2627,EU,S. Bratislava (SVK),Stuttgart,0,3
 2026-10-14,2627,EU,Shakhtar (UKR),AEK,3,1
-2026-10-15,2627,EU,Atalanta,Pafos (CYP),3,0
+2026-10-15,2627,EU,Atalanta,Pafos (CYP),3,1
 2026-10-15,2627,EU,AZ Alkmaar,H. Beer-Sheva (ISR),2,1
 2026-10-15,2627,EU,Benfica,Celtic,4,1
-2026-10-15,2627,EU,Bournemouth,Sturm Graz,1,0
+2026-10-15,2627,EU,Bournemouth,Sturm Graz,3,0
 2026-10-15,2627,EU,Brann,L. Red Imps (GIB),2,1
 2026-10-15,2627,EU,Brighton,Kauno Žalgiris (LTU),4,0
 2026-10-15,2627,EU,Celje (SVN),Omonia (CYP),0,3
@@ -20260,3 +20260,13 @@ date,season,div,home,away,hg,ag
 2026-11-03,2627,EU,Man United,Roma,3,2
 2026-11-03,2627,EU,Shakhtar (UKR),Sp Lisbon,0,1
 2026-11-03,2627,EU,Villarreal,Paris SG,0,6
+2026-11-04,2627,EU,AEK,Real Madrid,2,3
+2026-11-04,2627,EU,Dortmund,Betis,2,1
+2026-11-04,2627,EU,Fenerbahce,Liverpool,3,2
+2026-11-04,2627,EU,Lens,Como,1,9
+2026-11-04,2627,EU,Porto,Napoli,4,1
+2026-11-04,2627,EU,PSV Eindhoven,Club Brugge,1,2
+2026-11-04,2627,EU,RB Leipzig,Man City,2,3
+2026-11-04,2627,EU,Rennes,Olympiakos,0,0
+2026-11-04,2627,EU,Slavia Praha (CZE),Arsenal,1,2
+2026-11-04,2627,EU,Viking,Sabah (AZE),4,1

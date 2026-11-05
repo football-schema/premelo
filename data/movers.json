@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:01:14.765Z",
+ "updated": "2026-11-05T07:01:27.151Z",
  "up": [
   {
    "league": "ireland",
@@ -14,8 +14,8 @@
    "leagueName": "Eredivisie",
    "slug": "cambuur",
    "name": "Cambuur",
-   "elo": 1526,
-   "change": 41
+   "elo": 1524,
+   "change": 39
   },
   {
    "league": "austria",
@@ -23,7 +23,7 @@
    "slug": "hartberg",
    "name": "Hartberg",
    "elo": 1432,
-   "change": 36
+   "change": 37
   },
   {
    "league": "bundesliga",
@@ -38,8 +38,24 @@
    "leagueName": "Serie A",
    "slug": "lazio",
    "name": "Lazio",
-   "elo": 1864,
+   "elo": 1866,
+   "change": 33
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "como",
+   "name": "Como",
+   "elo": 1981,
    "change": 31
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "goztep",
+   "name": "Göztepe",
+   "elo": 1657,
+   "change": 30
   },
   {
    "league": "finland",
@@ -50,14 +66,6 @@
    "change": 29
   },
   {
-   "league": "superlig",
-   "leagueName": "Süper Lig",
-   "slug": "goztep",
-   "name": "Göztepe",
-   "elo": 1654,
-   "change": 27
-  },
-  {
    "league": "bundesliga",
    "leagueName": "Bundesliga",
    "slug": "ein-frankfurt",
@@ -66,20 +74,12 @@
    "change": 26
   },
   {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "napoli",
-   "name": "Napoli",
-   "elo": 1903,
-   "change": 26
-  },
-  {
    "league": "proleague",
    "leagueName": "Pro League",
    "slug": "lommel-sk",
    "name": "Lommel SK",
-   "elo": 1547,
-   "change": 23
+   "elo": 1549,
+   "change": 25
   }
  ],
  "down": [
@@ -88,8 +88,8 @@
    "leagueName": "Eredivisie",
    "slug": "go-ahead-eagles",
    "name": "Go Ahead Eagles",
-   "elo": 1568,
-   "change": -47
+   "elo": 1566,
+   "change": -49
   },
   {
    "league": "ireland",
@@ -100,12 +100,12 @@
    "change": -46
   },
   {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "sassuolo",
-   "name": "Sassuolo",
-   "elo": 1698,
-   "change": -35
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "kortrijk",
+   "name": "Kortrijk",
+   "elo": 1460,
+   "change": -44
   },
   {
    "league": "bundesliga",
@@ -116,6 +116,14 @@
    "change": -35
   },
   {
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "feyenoord",
+   "name": "Feyenoord",
+   "elo": 1825,
+   "change": -34
+  },
+  {
    "league": "austria",
    "leagueName": "Austrian Bundesliga",
    "slug": "grazer-ak",
@@ -124,12 +132,12 @@
    "change": -33
   },
   {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "feyenoord",
-   "name": "Feyenoord",
-   "elo": 1827,
-   "change": -32
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "sassuolo",
+   "name": "Sassuolo",
+   "elo": 1700,
+   "change": -33
   },
   {
    "league": "bundesliga",
@@ -140,12 +148,12 @@
    "change": -26
   },
   {
-   "league": "norway",
-   "leagueName": "Eliteserien",
-   "slug": "sarpsborg-08",
-   "name": "Sarpsborg 08",
-   "elo": 1524,
-   "change": -24
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "excelsior",
+   "name": "Excelsior",
+   "elo": 1504,
+   "change": -25
   },
   {
    "league": "poland",
@@ -153,14 +161,6 @@
    "slug": "pogon-szczecin",
    "name": "Pogon Szczecin",
    "elo": 1537,
-   "change": -23
-  },
-  {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "gent",
-   "name": "Gent",
-   "elo": 1711,
    "change": -23
   }
  ]

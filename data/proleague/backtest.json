@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "league": "Pro League",
  "from": "2000-01",
  "test": {
   "from": "2012-13",
-  "matches": 3854,
+  "matches": 3855,
   "model": {
-   "logloss": 0.9903,
+   "logloss": 0.9904,
    "rps": 0.2037,
-   "brier": 0.5902
+   "brier": 0.5903
   },
   "elo": {
    "logloss": 0.9937,
@@ -17,12 +17,12 @@
   },
   "market": {
    "logloss": 0.9851,
-   "rps": 0.202,
+   "rps": 0.2021,
    "brier": 0.5865
   }
  },
  "all": {
-  "matches": 7245,
+  "matches": 7246,
   "model": {
    "logloss": 0.9779,
    "rps": 0.1994,
@@ -611,22 +611,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 89,
-   "withOdds": 89,
+   "matches": 90,
+   "withOdds": 90,
    "model": {
-    "logloss": 0.8968,
-    "rps": 0.1875,
-    "brier": 0.5242
+    "logloss": 0.899,
+    "rps": 0.1887,
+    "brier": 0.5259
    },
    "market": {
-    "logloss": 0.9052,
-    "rps": 0.1903,
-    "brier": 0.5303
+    "logloss": 0.9073,
+    "rps": 0.1915,
+    "brier": 0.5319
    },
    "baseline": {
-    "logloss": 1.0248,
-    "rps": 0.2321,
-    "brier": 0.6161
+    "logloss": 1.027,
+    "rps": 0.2335,
+    "brier": 0.6179
    }
   }
  ],
@@ -651,7 +651,7 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 1368,
+   "matches": 1369,
    "predicted": 0.353,
    "actual": 0.334
   },

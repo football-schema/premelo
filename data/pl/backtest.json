@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "league": "Premier League",
  "from": "2000-01",
  "test": {
@@ -614,7 +614,7 @@
    "matches": 90,
    "withOdds": 90,
    "model": {
-    "logloss": 1.0231,
+    "logloss": 1.023,
     "rps": 0.2076,
     "brier": 0.6144
    },

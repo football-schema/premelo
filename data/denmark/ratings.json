@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:01:13.997Z",
+ "updated": "2026-11-05T07:01:26.344Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-11-02",
@@ -402,95 +402,6 @@
    }
   },
   {
-   "club": "Viborg",
-   "name": "Viborg",
-   "slug": "viborg",
-   "div": "top",
-   "elo": 1636,
-   "change30": -6,
-   "played": 13,
-   "form": [
-    {
-     "r": "W",
-     "opp": "Nordsjaelland",
-     "oppSlug": "nordsjaelland",
-     "gf": 4,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-20"
-    },
-    {
-     "r": "W",
-     "opp": "Randers FC",
-     "oppSlug": "randers-fc",
-     "gf": 2,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "L",
-     "opp": "Midtjylland",
-     "oppSlug": "midtjylland",
-     "gf": 1,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-10-19"
-    },
-    {
-     "r": "L",
-     "opp": "Aarhus",
-     "oppSlug": "aarhus",
-     "gf": 1,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-10-25"
-    },
-    {
-     "r": "W",
-     "opp": "Horsens",
-     "oppSlug": "horsens",
-     "gf": 1,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-11-01"
-    }
-   ],
-   "spark": [
-    1654,
-    1648,
-    1644,
-    1637,
-    1629,
-    1636,
-    1672,
-    1667,
-    1642,
-    1653,
-    1666,
-    1682,
-    1682,
-    1657,
-    1641,
-    1642,
-    1656,
-    1652,
-    1645,
-    1636
-   ],
-   "rank": 5,
-   "table": {
-    "pos": 3,
-    "p": 13,
-    "w": 7,
-    "d": 2,
-    "l": 4,
-    "gf": 20,
-    "ga": 12,
-    "pts": 23
-   }
-  },
-  {
    "club": "Aarhus",
    "name": "Aarhus",
    "slug": "aarhus",
@@ -567,7 +478,7 @@
     1647,
     1636
    ],
-   "rank": 6,
+   "rank": 5,
    "table": {
     "pos": 8,
     "p": 13,
@@ -577,6 +488,95 @@
     "gf": 17,
     "ga": 21,
     "pts": 12
+   }
+  },
+  {
+   "club": "Viborg",
+   "name": "Viborg",
+   "slug": "viborg",
+   "div": "top",
+   "elo": 1635,
+   "change30": -7,
+   "played": 13,
+   "form": [
+    {
+     "r": "W",
+     "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
+     "gf": 4,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Randers FC",
+     "oppSlug": "randers-fc",
+     "gf": 2,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Midtjylland",
+     "oppSlug": "midtjylland",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-19"
+    },
+    {
+     "r": "L",
+     "opp": "Aarhus",
+     "oppSlug": "aarhus",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "Horsens",
+     "oppSlug": "horsens",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-01"
+    }
+   ],
+   "spark": [
+    1654,
+    1648,
+    1644,
+    1637,
+    1629,
+    1636,
+    1672,
+    1667,
+    1642,
+    1653,
+    1666,
+    1682,
+    1682,
+    1657,
+    1641,
+    1642,
+    1656,
+    1652,
+    1645,
+    1635
+   ],
+   "rank": 6,
+   "table": {
+    "pos": 3,
+    "p": 13,
+    "w": 7,
+    "d": 2,
+    "l": 4,
+    "gf": 20,
+    "ga": 12,
+    "pts": 23
    }
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "league": "Serie A",
  "from": "2000-01",
  "test": {
@@ -615,7 +615,7 @@
    "withOdds": 100,
    "model": {
     "logloss": 0.9095,
-    "rps": 0.1935,
+    "rps": 0.1936,
     "brier": 0.5285
    },
    "market": {
