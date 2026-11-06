@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:01:27.101Z",
+ "updated": "2026-11-06T07:01:15.386Z",
  "league": "finland",
  "name": "Veikkausliiga",
  "through": "2026-11-02",
@@ -50,8 +50,8 @@
    "name": "HJK",
    "slug": "hjk",
    "div": "top",
-   "elo": 1532,
-   "change30": 74,
+   "elo": 1533,
+   "change30": 75,
    "played": 21,
    "form": [
     {
@@ -139,8 +139,8 @@
    "name": "Inter Turku",
    "slug": "inter-turku",
    "div": "top",
-   "elo": 1494,
-   "change30": 9,
+   "elo": 1495,
+   "change30": 10,
    "played": 24,
    "form": [
     {
@@ -228,9 +228,9 @@
    "name": "KuPS",
    "slug": "kups",
    "div": "top",
-   "elo": 1432,
-   "change30": -14,
-   "played": 26,
+   "elo": 1437,
+   "change30": -9,
+   "played": 27,
    "form": [
     {
      "r": "L",
@@ -279,7 +279,6 @@
     }
    ],
    "spark": [
-    1426,
     1429,
     1399,
     1395,
@@ -298,7 +297,8 @@
     1429,
     1431,
     1440,
-    1432
+    1432,
+    1437
    ],
    "rank": 3,
    "table": {
@@ -317,8 +317,8 @@
    "name": "Ilves",
    "slug": "ilves",
    "div": "top",
-   "elo": 1316,
-   "change30": 1,
+   "elo": 1317,
+   "change30": 2,
    "played": 19,
    "form": [
     {
@@ -406,8 +406,8 @@
    "name": "Lahti",
    "slug": "lahti",
    "div": "top",
-   "elo": 1315,
-   "change30": 3,
+   "elo": 1316,
+   "change30": 4,
    "played": 14,
    "form": [
     {
@@ -495,8 +495,8 @@
    "name": "Jaro",
    "slug": "jaro",
    "div": "top",
-   "elo": 1274,
-   "change30": 105,
+   "elo": 1275,
+   "change30": 106,
    "played": 15,
    "form": [
     {
@@ -584,8 +584,8 @@
    "name": "SJK",
    "slug": "sjk",
    "div": "top",
-   "elo": 1265,
-   "change30": -27,
+   "elo": 1266,
+   "change30": -26,
    "played": 14,
    "form": [
     {
@@ -673,8 +673,8 @@
    "name": "VPS",
    "slug": "vps",
    "div": "top",
-   "elo": 1262,
-   "change30": -47,
+   "elo": 1263,
+   "change30": -46,
    "played": 18,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "Gnistan",
    "slug": "gnistan",
    "div": "top",
-   "elo": 1260,
-   "change30": -10,
+   "elo": 1261,
+   "change30": -9,
    "played": 18,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "AC Oulu",
    "slug": "ac-oulu",
    "div": "top",
-   "elo": 1245,
-   "change30": -59,
+   "elo": 1246,
+   "change30": -58,
    "played": 17,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "TPS",
    "slug": "tps",
    "div": "top",
-   "elo": 1193,
-   "change30": -28,
+   "elo": 1194,
+   "change30": -27,
    "played": 14,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "Mariehamn",
    "slug": "mariehamn",
    "div": "top",
-   "elo": 1179,
-   "change30": 12,
+   "elo": 1180,
+   "change30": 13,
    "played": 14,
    "form": [
     {
@@ -1118,8 +1118,8 @@
    "name": "PK-35 Vantaa",
    "slug": "pk-35-vantaa",
    "div": "top",
-   "elo": 1173,
-   "change30": 214,
+   "elo": 1174,
+   "change30": 215,
    "played": 2,
    "form": [
     {

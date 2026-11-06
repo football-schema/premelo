@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:01:26.325Z",
+ "updated": "2026-11-06T07:01:14.605Z",
  "league": "scotland",
  "name": "Scottish Premiership",
  "through": "2026-11-01",
@@ -138,9 +138,9 @@
    "name": "Celtic",
    "slug": "celtic",
    "div": "top",
-   "elo": 1683,
-   "change30": 4,
-   "played": 17,
+   "elo": 1691,
+   "change30": 12,
+   "played": 18,
    "form": [
     {
      "r": "W",
@@ -189,7 +189,6 @@
     }
    ],
    "spark": [
-    1714,
     1733,
     1758,
     1739,
@@ -208,7 +207,8 @@
     1671,
     1682,
     1691,
-    1683
+    1683,
+    1694
    ],
    "rank": 2,
    "table": {
@@ -227,9 +227,9 @@
    "name": "Hearts",
    "slug": "hearts",
    "div": "top",
-   "elo": 1545,
-   "change30": 17,
-   "played": 19,
+   "elo": 1533,
+   "change30": 5,
+   "played": 20,
    "form": [
     {
      "r": "D",
@@ -278,7 +278,6 @@
     }
    ],
    "spark": [
-    1585,
     1564,
     1540,
     1523,
@@ -297,7 +296,8 @@
     1547,
     1540,
     1559,
-    1545
+    1545,
+    1533
    ],
    "rank": 3,
    "table": {
@@ -316,8 +316,8 @@
    "name": "Hibernian",
    "slug": "hibernian",
    "div": "top",
-   "elo": 1478,
-   "change30": -20,
+   "elo": 1477,
+   "change30": -21,
    "played": 17,
    "form": [
     {
@@ -405,8 +405,8 @@
    "name": "Dundee United",
    "slug": "dundee-united",
    "div": "top",
-   "elo": 1453,
-   "change30": 24,
+   "elo": 1452,
+   "change30": 23,
    "played": 11,
    "form": [
     {
@@ -583,8 +583,8 @@
    "name": "Motherwell",
    "slug": "motherwell",
    "div": "top",
-   "elo": 1403,
-   "change30": -33,
+   "elo": 1402,
+   "change30": -34,
    "played": 18,
    "form": [
     {
@@ -939,8 +939,8 @@
    "name": "St Mirren",
    "slug": "st-mirren",
    "div": "top",
-   "elo": 1348,
-   "change30": -38,
+   "elo": 1347,
+   "change30": -39,
    "played": 12,
    "form": [
     {
@@ -1028,8 +1028,8 @@
    "name": "Partick Thistle",
    "slug": "partick",
    "div": "second",
-   "elo": 1328,
-   "change30": 11,
+   "elo": 1327,
+   "change30": 10,
    "played": 13,
    "form": [
     {
@@ -1090,7 +1090,7 @@
     1285,
     1288,
     1295,
-    1309,
+    1310,
     1323,
     1317,
     1326,
@@ -1117,8 +1117,8 @@
    "name": "Livingston",
    "slug": "livingston",
    "div": "second",
-   "elo": 1322,
-   "change30": 12,
+   "elo": 1321,
+   "change30": 11,
    "played": 13,
    "form": [
     {
@@ -1295,8 +1295,8 @@
    "name": "Dunfermline",
    "slug": "dunfermline",
    "div": "second",
-   "elo": 1295,
-   "change30": 39,
+   "elo": 1294,
+   "change30": 38,
    "played": 13,
    "form": [
     {
@@ -1473,8 +1473,8 @@
    "name": "Raith Rvs",
    "slug": "raith-rvs",
    "div": "second",
-   "elo": 1241,
-   "change30": 2,
+   "elo": 1240,
+   "change30": 1,
    "played": 13,
    "form": [
     {
@@ -1733,8 +1733,8 @@
    "name": "Arbroath",
    "slug": "arbroath",
    "div": "second",
-   "elo": 1054,
-   "change30": -48,
+   "elo": 1053,
+   "change30": -49,
    "played": 13,
    "form": [
     {
@@ -1822,8 +1822,8 @@
    "name": "Queens Park",
    "slug": "queens-park",
    "div": "second",
-   "elo": 1009,
-   "change30": -15,
+   "elo": 1008,
+   "change30": -16,
    "played": 13,
    "form": [
     {
@@ -1911,8 +1911,8 @@
    "name": "Morton",
    "slug": "morton",
    "div": "second",
-   "elo": 1002,
-   "change30": 7,
+   "elo": 1001,
+   "change30": 6,
    "played": 12,
    "form": [
     {

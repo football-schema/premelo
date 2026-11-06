@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:01:26.344Z",
+ "updated": "2026-11-06T07:01:14.625Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-11-02",
@@ -50,9 +50,9 @@
    "name": "FC Copenhagen",
    "slug": "fc-copenhagen",
    "div": "top",
-   "elo": 1792,
-   "change30": 45,
-   "played": 21,
+   "elo": 1786,
+   "change30": 39,
+   "played": 22,
    "form": [
     {
      "r": "W",
@@ -101,7 +101,6 @@
     }
    ],
    "spark": [
-    1714,
     1716,
     1730,
     1742,
@@ -120,7 +119,8 @@
     1790,
     1787,
     1790,
-    1792
+    1792,
+    1793
    ],
    "rank": 1,
    "table": {
@@ -135,101 +135,12 @@
    }
   },
   {
-   "club": "Midtjylland",
-   "name": "Midtjylland",
-   "slug": "midtjylland",
-   "div": "top",
-   "elo": 1712,
-   "change30": -41,
-   "played": 21,
-   "form": [
-    {
-     "r": "D",
-     "opp": "Odense",
-     "oppSlug": "odense",
-     "gf": 1,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-19"
-    },
-    {
-     "r": "W",
-     "opp": "FC Copenhagen",
-     "oppSlug": "fc-copenhagen",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "W",
-     "opp": "Viborg",
-     "oppSlug": "viborg",
-     "gf": 2,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-10-19"
-    },
-    {
-     "r": "W",
-     "opp": "Lyngby",
-     "oppSlug": "lyngby",
-     "gf": 3,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-10-25"
-    },
-    {
-     "r": "W",
-     "opp": "Nordsjaelland",
-     "oppSlug": "nordsjaelland",
-     "gf": 3,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-11-01"
-    }
-   ],
-   "spark": [
-    1725,
-    1709,
-    1724,
-    1732,
-    1732,
-    1728,
-    1733,
-    1731,
-    1749,
-    1772,
-    1755,
-    1753,
-    1755,
-    1753,
-    1722,
-    1718,
-    1724,
-    1708,
-    1708,
-    1712
-   ],
-   "rank": 2,
-   "table": {
-    "pos": 1,
-    "p": 13,
-    "w": 9,
-    "d": 4,
-    "l": 0,
-    "gf": 27,
-    "ga": 15,
-    "pts": 31
-   }
-  },
-  {
    "club": "Brondby",
    "name": "Brondby",
    "slug": "brondby",
    "div": "top",
-   "elo": 1700,
-   "change30": 31,
+   "elo": 1695,
+   "change30": 26,
    "played": 13,
    "form": [
     {
@@ -300,7 +211,7 @@
     1690,
     1700
    ],
-   "rank": 3,
+   "rank": 2,
    "table": {
     "pos": 4,
     "p": 13,
@@ -313,13 +224,102 @@
    }
   },
   {
+   "club": "Midtjylland",
+   "name": "Midtjylland",
+   "slug": "midtjylland",
+   "div": "top",
+   "elo": 1687,
+   "change30": -66,
+   "played": 22,
+   "form": [
+    {
+     "r": "D",
+     "opp": "Odense",
+     "oppSlug": "odense",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-19"
+    },
+    {
+     "r": "W",
+     "opp": "FC Copenhagen",
+     "oppSlug": "fc-copenhagen",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "W",
+     "opp": "Viborg",
+     "oppSlug": "viborg",
+     "gf": 2,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-19"
+    },
+    {
+     "r": "W",
+     "opp": "Lyngby",
+     "oppSlug": "lyngby",
+     "gf": 3,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "Nordsjaelland",
+     "oppSlug": "nordsjaelland",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-01"
+    }
+   ],
+   "spark": [
+    1709,
+    1724,
+    1732,
+    1732,
+    1728,
+    1733,
+    1731,
+    1749,
+    1772,
+    1755,
+    1753,
+    1755,
+    1753,
+    1722,
+    1718,
+    1724,
+    1708,
+    1708,
+    1712,
+    1688
+   ],
+   "rank": 3,
+   "table": {
+    "pos": 1,
+    "p": 13,
+    "w": 9,
+    "d": 4,
+    "l": 0,
+    "gf": 27,
+    "ga": 15,
+    "pts": 31
+   }
+  },
+  {
    "club": "Nordsjaelland",
    "name": "Nordsjaelland",
    "slug": "nordsjaelland",
    "div": "top",
-   "elo": 1694,
-   "change30": -27,
-   "played": 21,
+   "elo": 1684,
+   "change30": -37,
+   "played": 22,
    "form": [
     {
      "r": "L",
@@ -368,7 +368,6 @@
     }
    ],
    "spark": [
-    1627,
     1643,
     1656,
     1667,
@@ -387,7 +386,8 @@
     1706,
     1694,
     1698,
-    1694
+    1694,
+    1684
    ],
    "rank": 4,
    "table": {
@@ -406,9 +406,9 @@
    "name": "Aarhus",
    "slug": "aarhus",
    "div": "top",
-   "elo": 1636,
-   "change30": -10,
-   "played": 21,
+   "elo": 1632,
+   "change30": -14,
+   "played": 22,
    "form": [
     {
      "r": "D",
@@ -457,7 +457,6 @@
     }
    ],
    "spark": [
-    1702,
     1731,
     1670,
     1673,
@@ -476,7 +475,8 @@
     1657,
     1650,
     1647,
-    1636
+    1636,
+    1638
    ],
    "rank": 5,
    "table": {
@@ -495,8 +495,8 @@
    "name": "Viborg",
    "slug": "viborg",
    "div": "top",
-   "elo": 1635,
-   "change30": -7,
+   "elo": 1630,
+   "change30": -12,
    "played": 13,
    "form": [
     {
@@ -565,7 +565,7 @@
     1656,
     1652,
     1645,
-    1635
+    1636
    ],
    "rank": 6,
    "table": {
@@ -584,8 +584,8 @@
    "name": "Odense",
    "slug": "odense",
    "div": "top",
-   "elo": 1581,
-   "change30": 21,
+   "elo": 1575,
+   "change30": 15,
    "played": 13,
    "form": [
     {
@@ -673,8 +673,8 @@
    "name": "Lyngby",
    "slug": "lyngby",
    "div": "top",
-   "elo": 1512,
-   "change30": -36,
+   "elo": 1507,
+   "change30": -41,
    "played": 13,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "Randers FC",
    "slug": "randers-fc",
    "div": "top",
-   "elo": 1505,
-   "change30": -30,
+   "elo": 1499,
+   "change30": -36,
    "played": 13,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Sonderjyske",
    "slug": "sonderjyske",
    "div": "top",
-   "elo": 1472,
-   "change30": 1,
+   "elo": 1466,
+   "change30": -5,
    "played": 13,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "Silkeborg",
    "slug": "silkeborg",
    "div": "top",
-   "elo": 1471,
-   "change30": -24,
+   "elo": 1465,
+   "change30": -30,
    "played": 13,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "Horsens",
    "slug": "horsens",
    "div": "top",
-   "elo": 1454,
-   "change30": -5,
+   "elo": 1448,
+   "change30": -11,
    "played": 13,
    "form": [
     {

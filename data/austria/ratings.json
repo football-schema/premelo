@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:01:26.337Z",
+ "updated": "2026-11-06T07:01:14.618Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-11-01",
@@ -50,9 +50,9 @@
    "name": "Salzburg",
    "slug": "salzburg",
    "div": "top",
-   "elo": 1736,
-   "change30": -10,
-   "played": 18,
+   "elo": 1721,
+   "change30": -25,
+   "played": 19,
    "form": [
     {
      "r": "W",
@@ -101,7 +101,6 @@
     }
    ],
    "spark": [
-    1635,
     1633,
     1647,
     1656,
@@ -120,7 +119,8 @@
     1716,
     1717,
     1724,
-    1735
+    1735,
+    1724
    ],
    "rank": 1,
    "table": {
@@ -139,8 +139,8 @@
    "name": "LASK",
    "slug": "lask",
    "div": "top",
-   "elo": 1718,
-   "change30": 0,
+   "elo": 1712,
+   "change30": -6,
    "played": 17,
    "form": [
     {
@@ -228,8 +228,8 @@
    "name": "SK Rapid",
    "slug": "sk-rapid",
    "div": "top",
-   "elo": 1709,
-   "change30": 38,
+   "elo": 1703,
+   "change30": 32,
    "played": 17,
    "form": [
     {
@@ -317,9 +317,9 @@
    "name": "Sturm Graz",
    "slug": "sturm-graz",
    "div": "top",
-   "elo": 1616,
-   "change30": 21,
-   "played": 18,
+   "elo": 1599,
+   "change30": 4,
+   "played": 19,
    "form": [
     {
      "r": "L",
@@ -368,7 +368,6 @@
     }
    ],
    "spark": [
-    1535,
     1549,
     1564,
     1589,
@@ -387,7 +386,8 @@
     1594,
     1610,
     1615,
-    1615
+    1615,
+    1599
    ],
    "rank": 4,
    "table": {
@@ -406,8 +406,8 @@
    "name": "Altach",
    "slug": "altach",
    "div": "top",
-   "elo": 1495,
-   "change30": 34,
+   "elo": 1489,
+   "change30": 28,
    "played": 11,
    "form": [
     {
@@ -495,8 +495,8 @@
    "name": "Austria Vienna",
    "slug": "austria-vienna",
    "div": "top",
-   "elo": 1488,
-   "change30": -9,
+   "elo": 1483,
+   "change30": -14,
    "played": 17,
    "form": [
     {
@@ -584,8 +584,8 @@
    "name": "Ried",
    "slug": "ried",
    "div": "top",
-   "elo": 1480,
-   "change30": -12,
+   "elo": 1475,
+   "change30": -17,
    "played": 11,
    "form": [
     {
@@ -673,8 +673,8 @@
    "name": "Tirol",
    "slug": "tirol",
    "div": "top",
-   "elo": 1456,
-   "change30": 38,
+   "elo": 1451,
+   "change30": 33,
    "played": 11,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "Hartberg",
    "slug": "hartberg",
    "div": "top",
-   "elo": 1432,
-   "change30": 41,
+   "elo": 1426,
+   "change30": 35,
    "played": 11,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Grazer AK",
    "slug": "grazer-ak",
    "div": "top",
-   "elo": 1431,
-   "change30": -25,
+   "elo": 1425,
+   "change30": -31,
    "played": 11,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "Wolfsberger AC",
    "slug": "wolfsberger-ac",
    "div": "top",
-   "elo": 1400,
-   "change30": -56,
+   "elo": 1394,
+   "change30": -62,
    "played": 11,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "A. Lustenau",
    "slug": "a-lustenau",
    "div": "top",
-   "elo": 1369,
-   "change30": -35,
+   "elo": 1364,
+   "change30": -40,
    "played": 11,
    "form": [
     {

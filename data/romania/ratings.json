@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:01:27.095Z",
+ "updated": "2026-11-06T07:01:15.380Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-11-02",
@@ -50,9 +50,9 @@
    "name": "Univ. Craiova",
    "slug": "univ-craiova",
    "div": "top",
-   "elo": 1718,
-   "change30": 36,
-   "played": 24,
+   "elo": 1722,
+   "change30": 40,
+   "played": 25,
    "form": [
     {
      "r": "W",
@@ -101,10 +101,9 @@
     }
    ],
    "spark": [
-    1592,
     1589,
     1626,
-    1618,
+    1619,
     1601,
     1603,
     1607,
@@ -120,7 +119,8 @@
     1699,
     1704,
     1703,
-    1718
+    1718,
+    1722
    ],
    "rank": 1,
    "table": {
@@ -406,8 +406,8 @@
    "name": "U. Cluj",
    "slug": "u-cluj",
    "div": "top",
-   "elo": 1538,
-   "change30": 20,
+   "elo": 1539,
+   "change30": 21,
    "played": 18,
    "form": [
     {
@@ -495,8 +495,8 @@
    "name": "UTA Arad",
    "slug": "uta-arad",
    "div": "top",
-   "elo": 1458,
-   "change30": -12,
+   "elo": 1459,
+   "change30": -11,
    "played": 14,
    "form": [
     {
@@ -584,8 +584,8 @@
    "name": "Farul Constanta",
    "slug": "farul-constanta",
    "div": "top",
-   "elo": 1458,
-   "change30": 2,
+   "elo": 1459,
+   "change30": 3,
    "played": 14,
    "form": [
     {
@@ -673,8 +673,8 @@
    "name": "Petrolul",
    "slug": "petrolul",
    "div": "top",
-   "elo": 1425,
-   "change30": 20,
+   "elo": 1426,
+   "change30": 21,
    "played": 14,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "CFR Cluj",
    "slug": "cfr-cluj",
    "div": "top",
-   "elo": 1420,
-   "change30": -37,
+   "elo": 1421,
+   "change30": -36,
    "played": 18,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Corvinul",
    "slug": "corvinul",
    "div": "top",
-   "elo": 1420,
-   "change30": -7,
+   "elo": 1421,
+   "change30": -6,
    "played": 14,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "FC Botosani",
    "slug": "fc-botosani",
    "div": "top",
-   "elo": 1403,
-   "change30": -24,
+   "elo": 1404,
+   "change30": -23,
    "played": 14,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "FC Arges",
    "slug": "fc-arges",
    "div": "top",
-   "elo": 1376,
-   "change30": -19,
+   "elo": 1377,
+   "change30": -18,
    "played": 14,
    "form": [
     {
@@ -1118,8 +1118,8 @@
    "name": "Otelul",
    "slug": "otelul",
    "div": "top",
-   "elo": 1368,
-   "change30": 35,
+   "elo": 1369,
+   "change30": 36,
    "played": 14,
    "form": [
     {
@@ -1296,8 +1296,8 @@
    "name": "FC Voluntari",
    "slug": "fc-voluntari",
    "div": "top",
-   "elo": 1291,
-   "change30": -44,
+   "elo": 1292,
+   "change30": -43,
    "played": 14,
    "form": [
     {
@@ -1385,8 +1385,8 @@
    "name": "Csikszereda M. Ciuc",
    "slug": "csikszereda-m-ciuc",
    "div": "top",
-   "elo": 1229,
-   "change30": 8,
+   "elo": 1230,
+   "change30": 9,
    "played": 14,
    "form": [
     {

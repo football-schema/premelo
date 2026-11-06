@@ -16,29 +16,29 @@
   <polyline points="820.0,279.4 835.3,279.4 850.5,285.4 865.8,286.2 881.1,291.9 896.3,292.0 911.6,291.1 926.8,285.8 942.1,278.6 957.4,279.5 972.6,278.5 987.9,275.7 1003.2,273.0 1018.4,270.0 1033.7,270.8 1048.9,271.2 1064.2,271.5 1079.5,272.3 1094.7,272.5 1110.0,270.8" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="270.8" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="314" y2="314" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="345" fill="#617067">2</text><text x="122" y="345" fill="#17251e" font-weight="600">Arsenal <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="345" fill="#17251e" font-weight="bold" text-anchor="end">2171</text>
-  <text x="760" y="345" fill="#b54439" text-anchor="end">−3</text>
+  <text x="640" y="345" fill="#17251e" font-weight="bold" text-anchor="end">2167</text>
+  <text x="760" y="345" fill="#b54439" text-anchor="end">−7</text>
   <polyline points="820.0,335.4 835.3,335.9 850.5,335.4 865.8,330.5 881.1,332.4 896.3,336.4 911.6,336.4 926.8,341.0 942.1,328.7 957.4,326.5 972.6,323.6 987.9,323.3 1003.2,320.6 1018.4,321.7 1033.7,320.6 1048.9,320.3 1064.2,319.0 1079.5,321.4 1094.7,321.4 1110.0,321.4" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="321.4" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="363" y2="363" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="394" fill="#617067">3</text><text x="122" y="394" fill="#17251e" font-weight="600">Barcelona <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
-  <text x="640" y="394" fill="#17251e" font-weight="bold" text-anchor="end">2163</text>
-  <text x="760" y="394" fill="#167450" text-anchor="end">+5</text>
+  <text x="640" y="394" fill="#17251e" font-weight="bold" text-anchor="end">2160</text>
+  <text x="760" y="394" fill="#167450" text-anchor="end">+2</text>
   <polyline points="820.0,384.2 835.3,383.3 850.5,388.5 865.8,388.2 881.1,390.0 896.3,387.1 911.6,384.7 926.8,381.5 942.1,377.6 957.4,376.3 972.6,372.6 987.9,370.7 1003.2,370.4 1018.4,372.2 1033.7,370.6 1048.9,368.0 1064.2,370.6 1079.5,369.7 1094.7,369.5 1110.0,369.1" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="369.1" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="412" y2="412" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="443" fill="#617067">4</text><text x="122" y="443" fill="#17251e" font-weight="600">Manchester City <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2145</text>
-  <text x="760" y="443" fill="#b54439" text-anchor="end">−23</text>
+  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2141</text>
+  <text x="760" y="443" fill="#b54439" text-anchor="end">−27</text>
   <polyline points="820.0,435.7 835.3,427.2 850.5,419.4 865.8,419.0 881.1,424.7 896.3,417.0 911.6,417.8 926.8,424.7 942.1,426.4 957.4,433.3 972.6,428.8 987.9,428.0 1003.2,428.4 1018.4,419.4 1033.7,428.8 1048.9,433.3 1064.2,431.7 1079.5,433.3 1094.7,439.0 1110.0,437.8" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="437.8" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="461" y2="461" stroke="#dfe5dc" stroke-width="2"/>
-  <text x="80" y="492" fill="#617067">5</text><text x="122" y="492" fill="#17251e" font-weight="600">Real Madrid <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
-  <text x="640" y="492" fill="#17251e" font-weight="bold" text-anchor="end">2113</text>
-  <text x="760" y="492" fill="#167450" text-anchor="end">+16</text>
-  <polyline points="820.0,486.2 835.3,486.6 850.5,486.9 865.8,487.8 881.1,488.0 896.3,483.5 911.6,480.1 926.8,477.3 942.1,474.4 957.4,473.0 972.6,471.2 987.9,468.7 1003.2,469.4 1018.4,470.5 1033.7,467.1 1048.9,467.8 1064.2,467.1 1079.5,468.0 1094.7,466.0 1110.0,466.4" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="466.4" r="5" fill="#167451"/>
+  <text x="80" y="492" fill="#617067">5</text><text x="122" y="492" fill="#17251e" font-weight="600">Paris Saint-Germain <tspan fill="#617067" font-size="20" font-weight="normal">Ligue 1</tspan></text>
+  <text x="640" y="492" fill="#17251e" font-weight="bold" text-anchor="end">2116</text>
+  <text x="760" y="492" fill="#167450" text-anchor="end">+1</text>
+  <polyline points="820.0,469.1 835.3,479.1 850.5,478.7 865.8,482.2 881.1,482.6 896.3,488.0 911.6,487.6 926.8,481.8 942.1,480.3 957.4,474.1 972.6,474.5 987.9,471.0 1003.2,468.3 1018.4,475.3 1033.7,467.2 1048.9,472.2 1064.2,466.0 1079.5,467.5 1094.7,474.5 1110.0,467.5" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="467.5" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="510" y2="510" stroke="#dfe5dc" stroke-width="2"/>
-  <text x="80" y="541" fill="#617067">6</text><text x="122" y="541" fill="#17251e" font-weight="600">Paris Saint-Germain <tspan fill="#617067" font-size="20" font-weight="normal">Ligue 1</tspan></text>
-  <text x="640" y="541" fill="#17251e" font-weight="bold" text-anchor="end">2111</text>
-  <text x="760" y="541" fill="#b54439" text-anchor="end">−4</text>
-  <polyline points="820.0,518.1 835.3,528.1 850.5,527.7 865.8,531.2 881.1,531.6 896.3,537.0 911.6,536.6 926.8,530.8 942.1,529.3 957.4,523.1 972.6,523.5 987.9,520.0 1003.2,517.3 1018.4,524.3 1033.7,516.2 1048.9,521.2 1064.2,515.0 1079.5,516.5 1094.7,523.5 1110.0,516.5" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="516.5" r="5" fill="#167451"/>
+  <text x="80" y="541" fill="#617067">6</text><text x="122" y="541" fill="#17251e" font-weight="600">Real Madrid <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
+  <text x="640" y="541" fill="#17251e" font-weight="bold" text-anchor="end">2110</text>
+  <text x="760" y="541" fill="#167450" text-anchor="end">+13</text>
+  <polyline points="820.0,535.2 835.3,535.6 850.5,535.9 865.8,536.8 881.1,537.0 896.3,532.5 911.6,529.1 926.8,526.3 942.1,523.4 957.4,522.0 972.6,520.2 987.9,517.7 1003.2,518.4 1018.4,519.5 1033.7,516.1 1048.9,516.8 1064.2,516.1 1079.5,517.0 1094.7,515.0 1110.0,515.4" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="515.4" r="5" fill="#167451"/>
   
   </g>
   <text x="80" y="606" font-size="19" fill="#617067">Through 4 November 2026 · chances for every coming match · tested against the bookmakers</text>

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:00:57.779Z",
+ "updated": "2026-11-06T07:00:54.262Z",
  "frozen": "2011-12",
  "leagues": [
   {
@@ -178,9 +178,9 @@
    "matches": 90,
    "called": 56,
    "model": {
-    "logloss": 0.888,
-    "rps": 0.1855,
-    "brier": 0.5195
+    "logloss": 0.8868,
+    "rps": 0.1851,
+    "brier": 0.5187
    },
    "market": {
     "logloss": 0.9073,
@@ -189,9 +189,9 @@
    },
    "withOdds": 90,
    "modelOnOdds": {
-    "logloss": 0.888,
-    "rps": 0.1855,
-    "brier": 0.5195
+    "logloss": 0.8868,
+    "rps": 0.1851,
+    "brier": 0.5187
    }
   },
   {
@@ -488,20 +488,20 @@
    "date": "2026-11-04",
    "league": "proleague",
    "home": "Kortrijk",
-   "away": "KV Mechelen",
+   "away": "Mechelen",
    "homeName": "Kortrijk",
-   "awayName": "KV Mechelen",
+   "awayName": "Mechelen",
    "homeSlug": "kortrijk",
-   "awaySlug": "kv-mechelen",
+   "awaySlug": "mechelen",
    "hg": 1,
    "ag": 3,
    "p": [
-    0.434,
-    0.273,
-    0.293
+    0.399,
+    0.276,
+    0.325
    ],
    "result": "away win",
-   "chance": 0.293
+   "chance": 0.325
   },
   {
    "date": "2026-11-02",

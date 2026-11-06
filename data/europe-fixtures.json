@@ -1,1966 +1,6 @@
 {
- "updated": "2026-11-05T07:01:27.122Z",
+ "updated": "2026-11-06T07:01:15.414Z",
  "fixtures": [
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Milan",
-   "away": "Ferencváros (HUN)",
-   "homeName": "AC Milan",
-   "awayName": "Ferencváros",
-   "homeLeague": "seriea",
-   "awayLeague": null,
-   "homeSlug": "milan",
-   "awaySlug": null,
-   "homeCountry": "ITA",
-   "awayCountry": "HUN",
-   "elo": [
-    1941,
-    1767
-   ],
-   "dr": 265,
-   "H": 0.691,
-   "D": 0.191,
-   "A": 0.118,
-   "xg": [
-    2.3,
-    0.8
-   ],
-   "O25": 0.601,
-   "btts": 0.517,
-   "scores": [
-    [
-     "2-0",
-     0.111
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.094
-    ],
-    [
-     "3-0",
-     0.086
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sociedad",
-   "away": "Lyon",
-   "homeName": "Real Sociedad",
-   "awayName": "Olympique Lyonnais",
-   "homeLeague": "laliga",
-   "awayLeague": "ligue1",
-   "homeSlug": "sociedad",
-   "awaySlug": "lyon",
-   "homeCountry": "ESP",
-   "awayCountry": "FRA",
-   "elo": [
-    1822,
-    1831
-   ],
-   "dr": 81,
-   "H": 0.463,
-   "D": 0.264,
-   "A": 0.273,
-   "xg": [
-    1.6,
-    1.2
-   ],
-   "O25": 0.525,
-   "btts": 0.565,
-   "scores": [
-    [
-     "1-1",
-     0.129
-    ],
-    [
-     "1-0",
-     0.094
-    ],
-    [
-     "2-1",
-     0.092
-    ],
-    [
-     "2-0",
-     0.077
-    ],
-    [
-     "0-1",
-     0.069
-    ],
-    [
-     "1-2",
-     0.067
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sparta Praha (CZE)",
-   "away": "Bournemouth",
-   "homeName": "Sparta Praha",
-   "awayName": "AFC Bournemouth",
-   "homeLeague": null,
-   "awayLeague": "pl",
-   "homeSlug": null,
-   "awaySlug": "bournemouth",
-   "homeCountry": "CZE",
-   "awayCountry": "ENG",
-   "elo": [
-    1667,
-    1989
-   ],
-   "dr": -232,
-   "H": 0.14,
-   "D": 0.208,
-   "A": 0.652,
-   "xg": [
-    0.9,
-    2.2
-   ],
-   "O25": 0.582,
-   "btts": 0.529,
-   "scores": [
-    [
-     "0-2",
-     0.107
-    ],
-    [
-     "1-1",
-     0.102
-    ],
-    [
-     "0-1",
-     0.098
-    ],
-    [
-     "1-2",
-     0.096
-    ],
-    [
-     "0-3",
-     0.078
-    ],
-    [
-     "1-3",
-     0.07
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Anderlecht",
-   "away": "Salzburg",
-   "homeName": "Anderlecht",
-   "awayName": "Salzburg",
-   "homeLeague": "proleague",
-   "awayLeague": "austria",
-   "homeSlug": "anderlecht",
-   "awaySlug": "salzburg",
-   "homeCountry": "BEL",
-   "awayCountry": "AUT",
-   "elo": [
-    1741,
-    1736
-   ],
-   "dr": 95,
-   "H": 0.48,
-   "D": 0.261,
-   "A": 0.259,
-   "xg": [
-    1.7,
-    1.2
-   ],
-   "O25": 0.528,
-   "btts": 0.563,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "2-0",
-     0.08
-    ],
-    [
-     "0-1",
-     0.066
-    ],
-    [
-     "0-0",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Crystal Palace",
-   "away": "Hoffenheim",
-   "homeName": "Crystal Palace",
-   "awayName": "Hoffenheim",
-   "homeLeague": "pl",
-   "awayLeague": "bundesliga",
-   "homeSlug": "crystal-palace",
-   "awaySlug": "hoffenheim",
-   "homeCountry": "ENG",
-   "awayCountry": "GER",
-   "elo": [
-    1829,
-    1826
-   ],
-   "dr": 93,
-   "H": 0.477,
-   "D": 0.261,
-   "A": 0.262,
-   "xg": [
-    1.7,
-    1.2
-   ],
-   "O25": 0.527,
-   "btts": 0.563,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "2-0",
-     0.079
-    ],
-    [
-     "0-1",
-     0.067
-    ],
-    [
-     "1-2",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Nijmegen",
-   "away": "Omonia (CYP)",
-   "homeName": "NEC",
-   "awayName": "Omonia",
-   "homeLeague": "eredivisie",
-   "awayLeague": null,
-   "homeSlug": "nijmegen",
-   "awaySlug": null,
-   "homeCountry": "NED",
-   "awayCountry": "CYP",
-   "elo": [
-    1633,
-    1609
-   ],
-   "dr": 114,
-   "H": 0.505,
-   "D": 0.255,
-   "A": 0.24,
-   "xg": [
-    1.7,
-    1.1
-   ],
-   "O25": 0.533,
-   "btts": 0.56,
-   "scores": [
-    [
-     "1-1",
-     0.125
-    ],
-    [
-     "1-0",
-     0.097
-    ],
-    [
-     "2-1",
-     0.095
-    ],
-    [
-     "2-0",
-     0.084
-    ],
-    [
-     "0-0",
-     0.064
-    ],
-    [
-     "0-1",
-     0.062
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Lillestrom",
-   "away": "Viktoria Plzeň (CZE)",
-   "homeName": "Lillestrom",
-   "awayName": "Viktoria Plzeň",
-   "homeLeague": "norway",
-   "awayLeague": null,
-   "homeSlug": "lillestrom",
-   "awaySlug": null,
-   "homeCountry": "NOR",
-   "awayCountry": "CZE",
-   "elo": [
-    1534,
-    1703
-   ],
-   "dr": -79,
-   "H": 0.276,
-   "D": 0.264,
-   "A": 0.46,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.524,
-   "btts": 0.565,
-   "scores": [
-    [
-     "1-1",
-     0.129
-    ],
-    [
-     "0-1",
-     0.093
-    ],
-    [
-     "1-2",
-     0.092
-    ],
-    [
-     "0-2",
-     0.076
-    ],
-    [
-     "1-0",
-     0.069
-    ],
-    [
-     "2-1",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Levski Sofia (BUL)",
-   "away": "Jagiellonia",
-   "homeName": "Levski Sofia",
-   "awayName": "Jagiellonia",
-   "homeLeague": null,
-   "awayLeague": "poland",
-   "homeSlug": null,
-   "awaySlug": "jagiellonia",
-   "homeCountry": "BUL",
-   "awayCountry": "POL",
-   "elo": [
-    1575,
-    1575
-   ],
-   "dr": 91,
-   "H": 0.475,
-   "D": 0.262,
-   "A": 0.263,
-   "xg": [
-    1.7,
-    1.2
-   ],
-   "O25": 0.527,
-   "btts": 0.564,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "2-0",
-     0.079
-    ],
-    [
-     "0-1",
-     0.067
-    ],
-    [
-     "1-2",
-     0.066
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Atalanta",
-   "away": "Kairat Almaty (KAZ)",
-   "homeName": "Atalanta",
-   "awayName": "Kairat Almaty",
-   "homeLeague": "seriea",
-   "awayLeague": null,
-   "homeSlug": "atalanta",
-   "awaySlug": null,
-   "homeCountry": "ITA",
-   "awayCountry": "KAZ",
-   "elo": [
-    1806,
-    1421
-   ],
-   "dr": 475,
-   "H": 0.889,
-   "D": 0.081,
-   "A": 0.03,
-   "xg": [
-    3.5,
-    0.6
-   ],
-   "O25": 0.76,
-   "btts": 0.421,
-   "scores": [
-    [
-     "3-0",
-     0.122
-    ],
-    [
-     "2-0",
-     0.106
-    ],
-    [
-     "4-0",
-     0.106
-    ],
-    [
-     "5-0",
-     0.073
-    ],
-    [
-     "3-1",
-     0.069
-    ],
-    [
-     "1-0",
-     0.061
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Midtjylland",
-   "away": "Ajax",
-   "homeName": "Midtjylland",
-   "awayName": "Ajax",
-   "homeLeague": "denmark",
-   "awayLeague": "eredivisie",
-   "homeSlug": "midtjylland",
-   "awaySlug": "ajax",
-   "homeCountry": "DEN",
-   "awayCountry": "NED",
-   "elo": [
-    1712,
-    1822
-   ],
-   "dr": -20,
-   "H": 0.341,
-   "D": 0.272,
-   "A": 0.387,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.086
-    ],
-    [
-     "1-2",
-     0.084
-    ],
-    [
-     "1-0",
-     0.08
-    ],
-    [
-     "2-1",
-     0.078
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Crvena Zvezda (SRB)",
-   "away": "Inter Escaldes (AND)",
-   "homeName": "Crvena Zvezda",
-   "awayName": "Inter Escaldes",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "SRB",
-   "awayCountry": "AND",
-   "elo": [
-    1665,
-    1332
-   ],
-   "dr": 422,
-   "H": 0.849,
-   "D": 0.107,
-   "A": 0.044,
-   "xg": [
-    3.1,
-    0.6
-   ],
-   "O25": 0.716,
-   "btts": 0.447,
-   "scores": [
-    [
-     "3-0",
-     0.118
-    ],
-    [
-     "2-0",
-     0.113
-    ],
-    [
-     "4-0",
-     0.093
-    ],
-    [
-     "3-1",
-     0.074
-    ],
-    [
-     "1-0",
-     0.072
-    ],
-    [
-     "2-1",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "KuPS",
-   "away": "Gent",
-   "homeName": "KuPS",
-   "awayName": "Gent",
-   "homeLeague": "finland",
-   "awayLeague": "proleague",
-   "homeSlug": "kups",
-   "awaySlug": "gent",
-   "homeCountry": "FIN",
-   "awayCountry": "BEL",
-   "elo": [
-    1432,
-    1712
-   ],
-   "dr": -190,
-   "H": 0.172,
-   "D": 0.227,
-   "A": 0.601,
-   "xg": [
-    1,
-    2
-   ],
-   "O25": 0.561,
-   "btts": 0.542,
-   "scores": [
-    [
-     "1-1",
-     0.111
-    ],
-    [
-     "0-2",
-     0.1
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.067
-    ],
-    [
-     "1-3",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "L. Red Imps (GIB)",
-   "away": "Hajduk Split (CRO)",
-   "homeName": "L. Red Imps",
-   "awayName": "Hajduk Split",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "GIB",
-   "awayCountry": "CRO",
-   "elo": [
-    1259,
-    1565
-   ],
-   "dr": -217,
-   "H": 0.151,
-   "D": 0.215,
-   "A": 0.633,
-   "xg": [
-    0.9,
-    2.1
-   ],
-   "O25": 0.574,
-   "btts": 0.534,
-   "scores": [
-    [
-     "1-1",
-     0.105
-    ],
-    [
-     "0-2",
-     0.105
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.074
-    ],
-    [
-     "1-3",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Trabzonspor",
-   "away": "Freiburg",
-   "homeName": "Trabzonspor",
-   "awayName": "SC Freiburg",
-   "homeLeague": "superlig",
-   "awayLeague": "bundesliga",
-   "homeSlug": "trabzonspor",
-   "awaySlug": "freiburg",
-   "homeCountry": "TUR",
-   "awayCountry": "GER",
-   "elo": [
-    1792,
-    1814
-   ],
-   "dr": 68,
-   "H": 0.446,
-   "D": 0.266,
-   "A": 0.287,
-   "xg": [
-    1.6,
-    1.2
-   ],
-   "O25": 0.522,
-   "btts": 0.566,
-   "scores": [
-    [
-     "1-1",
-     0.13
-    ],
-    [
-     "1-0",
-     0.092
-    ],
-    [
-     "2-1",
-     0.09
-    ],
-    [
-     "2-0",
-     0.073
-    ],
-    [
-     "0-1",
-     0.071
-    ],
-    [
-     "1-2",
-     0.07
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Aarhus",
-   "away": "Sp Braga",
-   "homeName": "Aarhus",
-   "awayName": "Braga",
-   "homeLeague": "denmark",
-   "awayLeague": "primeira",
-   "homeSlug": "aarhus",
-   "awaySlug": "sp-braga",
-   "homeCountry": "DEN",
-   "awayCountry": "POR",
-   "elo": [
-    1636,
-    1773
-   ],
-   "dr": -47,
-   "H": 0.311,
-   "D": 0.27,
-   "A": 0.42,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.519,
-   "btts": 0.568,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "0-1",
-     0.09
-    ],
-    [
-     "1-2",
-     0.088
-    ],
-    [
-     "1-0",
-     0.075
-    ],
-    [
-     "2-1",
-     0.074
-    ],
-    [
-     "0-2",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Thun",
-   "away": "Hearts",
-   "homeName": "Thun",
-   "awayName": "Hearts",
-   "homeLeague": "switzerland",
-   "awayLeague": "scotland",
-   "homeSlug": "thun",
-   "awaySlug": "hearts",
-   "homeCountry": "SUI",
-   "awayCountry": "SCO",
-   "elo": [
-    1500,
-    1545
-   ],
-   "dr": 45,
-   "H": 0.418,
-   "D": 0.27,
-   "A": 0.312,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.519,
-   "btts": 0.568,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "1-0",
-     0.089
-    ],
-    [
-     "2-1",
-     0.088
-    ],
-    [
-     "0-1",
-     0.075
-    ],
-    [
-     "1-2",
-     0.074
-    ],
-    [
-     "2-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Mjallby",
-   "away": "Borac (BIH)",
-   "homeName": "Mjallby",
-   "awayName": "Borac",
-   "homeLeague": "sweden",
-   "awayLeague": null,
-   "homeSlug": "mjallby",
-   "awaySlug": null,
-   "homeCountry": "SWE",
-   "awayCountry": "BIH",
-   "elo": [
-    1419,
-    1425
-   ],
-   "dr": 84,
-   "H": 0.466,
-   "D": 0.263,
-   "A": 0.27,
-   "xg": [
-    1.6,
-    1.2
-   ],
-   "O25": 0.525,
-   "btts": 0.564,
-   "scores": [
-    [
-     "1-1",
-     0.129
-    ],
-    [
-     "1-0",
-     0.094
-    ],
-    [
-     "2-1",
-     0.092
-    ],
-    [
-     "2-0",
-     0.077
-    ],
-    [
-     "0-1",
-     0.068
-    ],
-    [
-     "1-2",
-     0.067
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Leverkusen",
-   "away": "Marseille",
-   "homeName": "Bayer Leverkusen",
-   "awayName": "Olympique de Marseille",
-   "homeLeague": "bundesliga",
-   "awayLeague": "ligue1",
-   "homeSlug": "leverkusen",
-   "awaySlug": "marseille",
-   "homeCountry": "GER",
-   "awayCountry": "FRA",
-   "elo": [
-    1972,
-    1799
-   ],
-   "dr": 263,
-   "H": 0.688,
-   "D": 0.192,
-   "A": 0.12,
-   "xg": [
-    2.3,
-    0.8
-   ],
-   "O25": 0.6,
-   "btts": 0.518,
-   "scores": [
-    [
-     "2-0",
-     0.111
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.094
-    ],
-    [
-     "3-0",
-     0.086
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Benfica",
-   "away": "Lech Poznan",
-   "homeName": "Benfica",
-   "awayName": "Lech Poznan",
-   "homeLeague": "primeira",
-   "awayLeague": "poland",
-   "homeSlug": "benfica",
-   "awaySlug": "lech-poznan",
-   "homeCountry": "POR",
-   "awayCountry": "POL",
-   "elo": [
-    2026,
-    1702
-   ],
-   "dr": 414,
-   "H": 0.843,
-   "D": 0.111,
-   "A": 0.047,
-   "xg": [
-    3.1,
-    0.6
-   ],
-   "O25": 0.71,
-   "btts": 0.451,
-   "scores": [
-    [
-     "3-0",
-     0.117
-    ],
-    [
-     "2-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.09
-    ],
-    [
-     "3-1",
-     0.075
-    ],
-    [
-     "1-0",
-     0.074
-    ],
-    [
-     "2-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "AZ Alkmaar",
-   "away": "Juventus",
-   "homeName": "AZ",
-   "awayName": "Juventus",
-   "homeLeague": "eredivisie",
-   "awayLeague": "seriea",
-   "homeSlug": "az-alkmaar",
-   "awaySlug": "juventus",
-   "homeCountry": "NED",
-   "awayCountry": "ITA",
-   "elo": [
-    1750,
-    1943
-   ],
-   "dr": -103,
-   "H": 0.251,
-   "D": 0.258,
-   "A": 0.491,
-   "xg": [
-    1.2,
-    1.7
-   ],
-   "O25": 0.53,
-   "btts": 0.562,
-   "scores": [
-    [
-     "1-1",
-     0.127
-    ],
-    [
-     "0-1",
-     0.096
-    ],
-    [
-     "1-2",
-     0.094
-    ],
-    [
-     "0-2",
-     0.082
-    ],
-    [
-     "1-0",
-     0.065
-    ],
-    [
-     "0-0",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Celtic",
-   "away": "Besiktas",
-   "homeName": "Celtic",
-   "awayName": "Beşiktaş",
-   "homeLeague": "scotland",
-   "awayLeague": "superlig",
-   "homeSlug": "celtic",
-   "awaySlug": "besiktas",
-   "homeCountry": "SCO",
-   "awayCountry": "TUR",
-   "elo": [
-    1683,
-    1826
-   ],
-   "dr": -53,
-   "H": 0.303,
-   "D": 0.269,
-   "A": 0.428,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.52,
-   "btts": 0.568,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "0-1",
-     0.09
-    ],
-    [
-     "1-2",
-     0.089
-    ],
-    [
-     "1-0",
-     0.074
-    ],
-    [
-     "2-1",
-     0.072
-    ],
-    [
-     "0-2",
-     0.07
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sturm Graz",
-   "away": "Celje (SVN)",
-   "homeName": "Sturm Graz",
-   "awayName": "Celje",
-   "homeLeague": "austria",
-   "awayLeague": null,
-   "homeSlug": "sturm-graz",
-   "awaySlug": null,
-   "homeCountry": "AUT",
-   "awayCountry": "SVN",
-   "elo": [
-    1616,
-    1516
-   ],
-   "dr": 190,
-   "H": 0.6,
-   "D": 0.228,
-   "A": 0.172,
-   "xg": [
-    2,
-    1
-   ],
-   "O25": 0.561,
-   "btts": 0.542,
-   "scores": [
-    [
-     "1-1",
-     0.111
-    ],
-    [
-     "2-0",
-     0.1
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.067
-    ],
-    [
-     "3-1",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sunderland",
-   "away": "GNK Dinamo (CRO)",
-   "homeName": "Sunderland",
-   "awayName": "GNK Dinamo",
-   "homeLeague": "pl",
-   "awayLeague": null,
-   "homeSlug": "sunderland",
-   "awaySlug": null,
-   "homeCountry": "ENG",
-   "awayCountry": "CRO",
-   "elo": [
-    1880,
-    1704
-   ],
-   "dr": 265,
-   "H": 0.692,
-   "D": 0.191,
-   "A": 0.118,
-   "xg": [
-    2.3,
-    0.8
-   ],
-   "O25": 0.602,
-   "btts": 0.517,
-   "scores": [
-    [
-     "2-0",
-     0.112
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.093
-    ],
-    [
-     "3-0",
-     0.086
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Celta",
-   "away": "St. Gilloise",
-   "homeName": "Celta Vigo",
-   "awayName": "Union Saint-Gilloise",
-   "homeLeague": "laliga",
-   "awayLeague": "proleague",
-   "homeSlug": "celta",
-   "awaySlug": "st-gilloise",
-   "homeCountry": "ESP",
-   "awayCountry": "BEL",
-   "elo": [
-    1803,
-    1858
-   ],
-   "dr": 35,
-   "H": 0.406,
-   "D": 0.271,
-   "A": 0.323,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.088
-    ],
-    [
-     "2-1",
-     0.086
-    ],
-    [
-     "0-1",
-     0.077
-    ],
-    [
-     "1-2",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Torreense (POR)",
-   "away": "Ararat-Armenia (ARM)",
-   "homeName": "Torreense",
-   "awayName": "Ararat-Armenia",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "POR",
-   "awayCountry": "ARM",
-   "elo": [
-    1426,
-    1427
-   ],
-   "dr": 89,
-   "H": 0.473,
-   "D": 0.262,
-   "A": 0.265,
-   "xg": [
-    1.7,
-    1.2
-   ],
-   "O25": 0.527,
-   "btts": 0.564,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "1-0",
-     0.094
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "2-0",
-     0.078
-    ],
-    [
-     "0-1",
-     0.067
-    ],
-    [
-     "1-2",
-     0.066
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "H. Beer-Sheva (ISR)",
-   "away": "OFI Crete",
-   "homeName": "H. Beer-Sheva",
-   "awayName": "OFI",
-   "homeLeague": null,
-   "awayLeague": "superleague",
-   "homeSlug": null,
-   "awaySlug": "ofi-crete",
-   "homeCountry": "ISR",
-   "awayCountry": "GRE",
-   "elo": [
-    1589,
-    1443
-   ],
-   "dr": 236,
-   "H": 0.657,
-   "D": 0.206,
-   "A": 0.137,
-   "xg": [
-    2.2,
-    0.9
-   ],
-   "O25": 0.584,
-   "btts": 0.528,
-   "scores": [
-    [
-     "2-0",
-     0.108
-    ],
-    [
-     "1-1",
-     0.101
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "3-0",
-     0.079
-    ],
-    [
-     "3-1",
-     0.07
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Monaco",
-   "away": "Nordsjaelland",
-   "homeName": "Monaco",
-   "awayName": "Nordsjaelland",
-   "homeLeague": "ligue1",
-   "awayLeague": "denmark",
-   "homeSlug": "monaco",
-   "awaySlug": "nordsjaelland",
-   "homeCountry": "FRA",
-   "awayCountry": "DEN",
-   "elo": [
-    1874,
-    1694
-   ],
-   "dr": 270,
-   "H": 0.697,
-   "D": 0.188,
-   "A": 0.115,
-   "xg": [
-    2.3,
-    0.8
-   ],
-   "O25": 0.605,
-   "btts": 0.515,
-   "scores": [
-    [
-     "2-0",
-     0.112
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.092
-    ],
-    [
-     "3-0",
-     0.088
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "FC Copenhagen",
-   "away": "Iberia Tbilisi (GEO)",
-   "homeName": "FC Copenhagen",
-   "awayName": "Iberia Tbilisi",
-   "homeLeague": "denmark",
-   "awayLeague": null,
-   "homeSlug": "fc-copenhagen",
-   "awaySlug": null,
-   "homeCountry": "DEN",
-   "awayCountry": "GEO",
-   "elo": [
-    1792,
-    1299
-   ],
-   "dr": 583,
-   "H": 0.947,
-   "D": 0.041,
-   "A": 0.012,
-   "xg": [
-    4.2,
-    0.5
-   ],
-   "O25": 0.845,
-   "btts": 0.365,
-   "scores": [
-    [
-     "4-0",
-     0.122
-    ],
-    [
-     "3-0",
-     0.115
-    ],
-    [
-     "5-0",
-     0.104
-    ],
-    [
-     "2-0",
-     0.081
-    ],
-    [
-     "4-1",
-     0.056
-    ],
-    [
-     "3-1",
-     0.053
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Panathinaikos",
-   "away": "CSKA Sofia (BUL)",
-   "homeName": "Panathinaikos",
-   "awayName": "CSKA Sofia",
-   "homeLeague": "superleague",
-   "awayLeague": null,
-   "homeSlug": "panathinaikos",
-   "awaySlug": null,
-   "homeCountry": "GRE",
-   "awayCountry": "BUL",
-   "elo": [
-    1776,
-    1487
-   ],
-   "dr": 379,
-   "H": 0.811,
-   "D": 0.129,
-   "A": 0.06,
-   "xg": [
-    2.9,
-    0.7
-   ],
-   "O25": 0.682,
-   "btts": 0.468,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.112
-    ],
-    [
-     "1-0",
-     0.081
-    ],
-    [
-     "4-0",
-     0.081
-    ],
-    [
-     "2-1",
-     0.079
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Lugano",
-   "away": "Kauno Žalgiris (LTU)",
-   "homeName": "Lugano",
-   "awayName": "Kauno Žalgiris",
-   "homeLeague": "switzerland",
-   "awayLeague": null,
-   "homeSlug": "lugano",
-   "awaySlug": null,
-   "homeCountry": "SUI",
-   "awayCountry": "LTU",
-   "elo": [
-    1678,
-    1289
-   ],
-   "dr": 480,
-   "H": 0.892,
-   "D": 0.079,
-   "A": 0.029,
-   "xg": [
-    3.5,
-    0.6
-   ],
-   "O25": 0.764,
-   "btts": 0.418,
-   "scores": [
-    [
-     "3-0",
-     0.122
-    ],
-    [
-     "4-0",
-     0.107
-    ],
-    [
-     "2-0",
-     0.105
-    ],
-    [
-     "5-0",
-     0.075
-    ],
-    [
-     "3-1",
-     0.069
-    ],
-    [
-     "1-0",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Getafe",
-   "away": "Brighton",
-   "homeName": "Getafe",
-   "awayName": "Brighton & Hove Albion",
-   "homeLeague": "laliga",
-   "awayLeague": "pl",
-   "homeSlug": "getafe",
-   "awaySlug": "brighton",
-   "homeCountry": "ESP",
-   "awayCountry": "ENG",
-   "elo": [
-    1680,
-    2027
-   ],
-   "dr": -256,
-   "H": 0.124,
-   "D": 0.195,
-   "A": 0.681,
-   "xg": [
-    0.9,
-    2.3
-   ],
-   "O25": 0.596,
-   "btts": 0.52,
-   "scores": [
-    [
-     "0-2",
-     0.11
-    ],
-    [
-     "0-1",
-     0.097
-    ],
-    [
-     "1-1",
-     0.096
-    ],
-    [
-     "1-2",
-     0.095
-    ],
-    [
-     "0-3",
-     0.084
-    ],
-    [
-     "1-3",
-     0.072
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Twente",
-   "away": "Pafos (CYP)",
-   "homeName": "Twente",
-   "awayName": "Pafos",
-   "homeLeague": "eredivisie",
-   "awayLeague": null,
-   "homeSlug": "twente",
-   "awaySlug": null,
-   "homeCountry": "NED",
-   "awayCountry": "CYP",
-   "elo": [
-    1793,
-    1559
-   ],
-   "dr": 323,
-   "H": 0.756,
-   "D": 0.159,
-   "A": 0.085,
-   "xg": [
-    2.6,
-    0.8
-   ],
-   "O25": 0.64,
-   "btts": 0.493,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.1
-    ],
-    [
-     "1-0",
-     0.09
-    ],
-    [
-     "2-1",
-     0.088
-    ],
-    [
-     "1-1",
-     0.078
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "St Truiden",
-   "away": "Brann",
-   "homeName": "Sint-Truiden",
-   "awayName": "Brann",
-   "homeLeague": "proleague",
-   "awayLeague": "norway",
-   "homeSlug": "st-truiden",
-   "awaySlug": "brann",
-   "homeCountry": "BEL",
-   "awayCountry": "NOR",
-   "elo": [
-    1656,
-    1577
-   ],
-   "dr": 169,
-   "H": 0.574,
-   "D": 0.236,
-   "A": 0.19,
-   "xg": [
-    1.9,
-    1
-   ],
-   "O25": 0.552,
-   "btts": 0.548,
-   "scores": [
-    [
-     "1-1",
-     0.116
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "2-0",
-     0.096
-    ],
-    [
-     "3-1",
-     0.063
-    ],
-    [
-     "3-0",
-     0.062
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Univ. Craiova",
-   "away": "Egnatia (ALB)",
-   "homeName": "Univ. Craiova",
-   "awayName": "Egnatia",
-   "homeLeague": "romania",
-   "awayLeague": null,
-   "homeSlug": "univ-craiova",
-   "awaySlug": null,
-   "homeCountry": "ROU",
-   "awayCountry": "ALB",
-   "elo": [
-    1718,
-    1464
-   ],
-   "dr": 344,
-   "H": 0.778,
-   "D": 0.148,
-   "A": 0.074,
-   "xg": [
-    2.7,
-    0.7
-   ],
-   "O25": 0.655,
-   "btts": 0.484,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.105
-    ],
-    [
-     "1-0",
-     0.087
-    ],
-    [
-     "2-1",
-     0.085
-    ],
-    [
-     "3-1",
-     0.076
-    ],
-    [
-     "1-1",
-     0.072
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-05T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Riga (LVA)",
-   "away": "Jablonec (CZE)",
-   "homeName": "Riga",
-   "awayName": "Jablonec",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "LVA",
-   "awayCountry": "CZE",
-   "elo": [
-    1457,
-    1584
-   ],
-   "dr": -37,
-   "H": 0.321,
-   "D": 0.271,
-   "A": 0.409,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.088
-    ],
-    [
-     "1-2",
-     0.087
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
   {
    "kickoff": "2026-11-24T17:45:00Z",
    "comp": "cl",
@@ -1977,19 +17,19 @@
    "homeCountry": "NOR",
    "awayCountry": "AUT",
    "elo": [
-    1857,
-    1718
+    1856,
+    1712
    ],
-   "dr": 229,
-   "H": 0.649,
-   "D": 0.209,
-   "A": 0.142,
+   "dr": 234,
+   "H": 0.654,
+   "D": 0.207,
+   "A": 0.139,
    "xg": [
     2.2,
     0.9
    ],
-   "O25": 0.581,
-   "btts": 0.53,
+   "O25": 0.583,
+   "btts": 0.528,
    "scores": [
     [
      "2-0",
@@ -1997,7 +37,7 @@
     ],
     [
      "1-1",
-     0.102
+     0.101
     ],
     [
      "1-0",
@@ -2009,7 +49,7 @@
     ],
     [
      "3-0",
-     0.077
+     0.078
     ],
     [
      "3-1",
@@ -2033,13 +73,13 @@
    "homeCountry": "TUR",
    "awayCountry": "ENG",
    "elo": [
-    1869,
-    1927
+    1865,
+    1923
    ],
-   "dr": 32,
-   "H": 0.402,
+   "dr": 31,
+   "H": 0.401,
    "D": 0.271,
-   "A": 0.327,
+   "A": 0.328,
    "xg": [
     1.5,
     1.3
@@ -2089,39 +129,39 @@
    "homeCountry": "ESP",
    "awayCountry": "NED",
    "elo": [
-    2113,
-    1826
+    2110,
+    1833
    ],
-   "dr": 377,
-   "H": 0.81,
-   "D": 0.13,
-   "A": 0.06,
+   "dr": 367,
+   "H": 0.8,
+   "D": 0.135,
+   "A": 0.064,
    "xg": [
-    2.9,
+    2.8,
     0.7
    ],
-   "O25": 0.68,
-   "btts": 0.469,
+   "O25": 0.673,
+   "btts": 0.474,
    "scores": [
     [
      "2-0",
-     0.116
+     0.117
     ],
     [
      "3-0",
-     0.112
+     0.11
     ],
     [
      "1-0",
+     0.083
+    ],
+    [
+     "2-1",
      0.081
     ],
     [
      "4-0",
-     0.08
-    ],
-    [
-     "2-1",
-     0.079
+     0.077
     ],
     [
      "3-1",
@@ -2145,19 +185,19 @@
    "homeCountry": "ENG",
    "awayCountry": "ITA",
    "elo": [
-    2145,
-    1894
+    2141,
+    1888
    ],
-   "dr": 341,
-   "H": 0.775,
-   "D": 0.15,
-   "A": 0.076,
+   "dr": 343,
+   "H": 0.776,
+   "D": 0.148,
+   "A": 0.075,
    "xg": [
     2.7,
     0.7
    ],
-   "O25": 0.653,
-   "btts": 0.486,
+   "O25": 0.654,
+   "btts": 0.485,
    "scores": [
     [
      "2-0",
@@ -2165,7 +205,7 @@
     ],
     [
      "3-0",
-     0.104
+     0.105
     ],
     [
      "1-0",
@@ -2201,19 +241,19 @@
    "homeCountry": "ENG",
    "awayCountry": "GER",
    "elo": [
-    2171,
-    1955
+    2167,
+    1954
    ],
-   "dr": 306,
-   "H": 0.738,
-   "D": 0.169,
-   "A": 0.094,
+   "dr": 303,
+   "H": 0.734,
+   "D": 0.171,
+   "A": 0.096,
    "xg": [
     2.5,
     0.8
    ],
-   "O25": 0.628,
-   "btts": 0.501,
+   "O25": 0.626,
+   "btts": 0.502,
    "scores": [
     [
      "2-0",
@@ -2229,11 +269,11 @@
     ],
     [
      "2-1",
-     0.09
+     0.091
     ],
     [
      "1-1",
-     0.083
+     0.084
     ],
     [
      "3-1",
@@ -2257,19 +297,19 @@
    "homeCountry": "NED",
    "awayCountry": "POR",
    "elo": [
-    1825,
-    1945
+    1832,
+    1946
    ],
-   "dr": -31,
-   "H": 0.328,
-   "D": 0.271,
-   "A": 0.4,
+   "dr": -24,
+   "H": 0.336,
+   "D": 0.272,
+   "A": 0.393,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.518,
-   "btts": 0.569,
+   "O25": 0.517,
+   "btts": 0.57,
    "scores": [
     [
      "1-1",
@@ -2281,15 +321,15 @@
     ],
     [
      "1-2",
-     0.086
+     0.085
     ],
     [
      "1-0",
-     0.078
+     0.079
     ],
     [
      "2-1",
-     0.076
+     0.077
     ],
     [
      "0-0",
@@ -2313,23 +353,23 @@
    "homeCountry": "GER",
    "awayCountry": "FRA",
    "elo": [
-    1876,
-    1796
+    1875,
+    1801
    ],
-   "dr": 169,
-   "H": 0.575,
-   "D": 0.236,
-   "A": 0.189,
+   "dr": 164,
+   "H": 0.568,
+   "D": 0.238,
+   "A": 0.194,
    "xg": [
     1.9,
     1
    ],
-   "O25": 0.552,
-   "btts": 0.548,
+   "O25": 0.55,
+   "btts": 0.549,
    "scores": [
     [
      "1-1",
-     0.116
+     0.117
     ],
     [
      "1-0",
@@ -2341,15 +381,15 @@
     ],
     [
      "2-0",
-     0.096
+     0.095
     ],
     [
      "3-1",
-     0.063
+     0.062
     ],
     [
      "3-0",
-     0.062
+     0.06
     ]
    ]
   },
@@ -2370,18 +410,18 @@
    "awayCountry": "ESP",
    "elo": [
     1507,
-    1867
+    1863
    ],
-   "dr": -269,
-   "H": 0.115,
-   "D": 0.189,
-   "A": 0.696,
+   "dr": -266,
+   "H": 0.117,
+   "D": 0.19,
+   "A": 0.692,
    "xg": [
     0.8,
     2.3
    ],
-   "O25": 0.604,
-   "btts": 0.516,
+   "O25": 0.602,
+   "btts": 0.517,
    "scores": [
     [
      "0-2",
@@ -2397,11 +437,11 @@
     ],
     [
      "1-1",
-     0.092
+     0.093
     ],
     [
      "0-3",
-     0.087
+     0.086
     ],
     [
      "1-3",
@@ -2425,43 +465,43 @@
    "homeCountry": "ITA",
    "awayCountry": "GRE",
    "elo": [
-    1981,
-    1761
+    1975,
+    1766
    ],
-   "dr": 310,
-   "H": 0.742,
-   "D": 0.167,
-   "A": 0.092,
+   "dr": 298,
+   "H": 0.729,
+   "D": 0.173,
+   "A": 0.098,
    "xg": [
     2.5,
     0.8
    ],
-   "O25": 0.631,
-   "btts": 0.499,
+   "O25": 0.623,
+   "btts": 0.504,
    "scores": [
     [
      "2-0",
-     0.116
+     0.115
     ],
     [
      "3-0",
-     0.097
+     0.095
     ],
     [
      "1-0",
-     0.091
+     0.093
     ],
     [
      "2-1",
-     0.09
+     0.091
     ],
     [
      "1-1",
-     0.082
+     0.085
     ],
     [
      "3-1",
-     0.076
+     0.075
     ]
    ]
   },
@@ -2482,12 +522,908 @@
    "awayCountry": "ESP",
    "elo": [
     1653,
-    1852
+    1848
    ],
-   "dr": -108,
-   "H": 0.246,
+   "dr": -105,
+   "H": 0.249,
+   "D": 0.258,
+   "A": 0.493,
+   "xg": [
+    1.1,
+    1.7
+   ],
+   "O25": 0.53,
+   "btts": 0.561,
+   "scores": [
+    [
+     "1-1",
+     0.126
+    ],
+    [
+     "0-1",
+     0.096
+    ],
+    [
+     "1-2",
+     0.094
+    ],
+    [
+     "0-2",
+     0.082
+    ],
+    [
+     "0-0",
+     0.064
+    ],
+    [
+     "1-0",
+     0.064
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T17:45:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Sabah (AZE)",
+   "away": "Barcelona",
+   "homeName": "Sabah",
+   "awayName": "Barcelona",
+   "homeLeague": null,
+   "awayLeague": "laliga",
+   "homeSlug": null,
+   "awaySlug": "barcelona",
+   "homeCountry": "AZE",
+   "awayCountry": "ESP",
+   "elo": [
+    1513,
+    2160
+   ],
+   "dr": -557,
+   "H": 0.015,
+   "D": 0.05,
+   "A": 0.935,
+   "xg": [
+    0.5,
+    4
+   ],
+   "O25": 0.825,
+   "btts": 0.379,
+   "scores": [
+    [
+     "0-4",
+     0.12
+    ],
+    [
+     "0-3",
+     0.119
+    ],
+    [
+     "0-5",
+     0.097
+    ],
+    [
+     "0-2",
+     0.088
+    ],
+    [
+     "1-4",
+     0.058
+    ],
+    [
+     "1-3",
+     0.058
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Paris SG",
+   "away": "Roma",
+   "homeName": "Paris Saint-Germain",
+   "awayName": "AS Roma",
+   "homeLeague": "ligue1",
+   "awayLeague": "seriea",
+   "homeSlug": "paris-sg",
+   "awaySlug": "roma",
+   "homeCountry": "FRA",
+   "awayCountry": "ITA",
+   "elo": [
+    2116,
+    1929
+   ],
+   "dr": 277,
+   "H": 0.706,
+   "D": 0.184,
+   "A": 0.11,
+   "xg": [
+    2.4,
+    0.8
+   ],
+   "O25": 0.609,
+   "btts": 0.512,
+   "scores": [
+    [
+     "2-0",
+     0.113
+    ],
+    [
+     "1-0",
+     0.095
+    ],
+    [
+     "2-1",
+     0.093
+    ],
+    [
+     "1-1",
+     0.09
+    ],
+    [
+     "3-0",
+     0.089
+    ],
+    [
+     "3-1",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Inter",
+   "away": "Stuttgart",
+   "homeName": "Inter",
+   "awayName": "VfB Stuttgart",
+   "homeLeague": "seriea",
+   "awayLeague": "bundesliga",
+   "homeSlug": "inter",
+   "awaySlug": "stuttgart",
+   "homeCountry": "ITA",
+   "awayCountry": "GER",
+   "elo": [
+    2043,
+    1874
+   ],
+   "dr": 259,
+   "H": 0.684,
+   "D": 0.194,
+   "A": 0.122,
+   "xg": [
+    2.3,
+    0.9
+   ],
+   "O25": 0.598,
+   "btts": 0.519,
+   "scores": [
+    [
+     "2-0",
+     0.111
+    ],
+    [
+     "1-0",
+     0.097
+    ],
+    [
+     "1-1",
+     0.095
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "3-0",
+     0.085
+    ],
+    [
+     "3-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Ath Madrid",
+   "away": "Viking",
+   "homeName": "Atlético Madrid",
+   "awayName": "Viking",
+   "homeLeague": "laliga",
+   "awayLeague": "norway",
+   "homeSlug": "ath-madrid",
+   "awaySlug": "viking",
+   "homeCountry": "ESP",
+   "awayCountry": "NOR",
+   "elo": [
+    1976,
+    1715
+   ],
+   "dr": 351,
+   "H": 0.784,
+   "D": 0.144,
+   "A": 0.071,
+   "xg": [
+    2.7,
+    0.7
+   ],
+   "O25": 0.66,
+   "btts": 0.481,
+   "scores": [
+    [
+     "2-0",
+     0.117
+    ],
+    [
+     "3-0",
+     0.106
+    ],
+    [
+     "1-0",
+     0.086
+    ],
+    [
+     "2-1",
+     0.084
+    ],
+    [
+     "3-1",
+     0.076
+    ],
+    [
+     "4-0",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Sp Lisbon",
+   "away": "Man United",
+   "homeName": "Sporting CP",
+   "awayName": "Manchester United",
+   "homeLeague": "primeira",
+   "awayLeague": "pl",
+   "homeSlug": "sp-lisbon",
+   "awaySlug": "man-united",
+   "homeCountry": "POR",
+   "awayCountry": "ENG",
+   "elo": [
+    1915,
+    1974
+   ],
+   "dr": 30,
+   "H": 0.4,
+   "D": 0.271,
+   "A": 0.329,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.518,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "1-0",
+     0.087
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.078
+    ],
+    [
+     "1-2",
+     0.076
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Club Brugge",
+   "away": "Liverpool",
+   "homeName": "Club Brugge",
+   "awayName": "Liverpool",
+   "homeLeague": "proleague",
+   "awayLeague": "pl",
+   "homeSlug": "club-brugge",
+   "awaySlug": "liverpool",
+   "homeCountry": "BEL",
+   "awayCountry": "ENG",
+   "elo": [
+    1935,
+    2051
+   ],
+   "dr": -26,
+   "H": 0.334,
+   "D": 0.272,
+   "A": 0.394,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.087
+    ],
+    [
+     "1-2",
+     0.085
+    ],
+    [
+     "1-0",
+     0.079
+    ],
+    [
+     "2-1",
+     0.077
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Lille",
+   "away": "Bayern Munich",
+   "homeName": "Lille",
+   "awayName": "Bayern Munich",
+   "homeLeague": "ligue1",
+   "awayLeague": "bundesliga",
+   "homeSlug": "lille",
+   "awaySlug": "bayern-munich",
+   "homeCountry": "FRA",
+   "awayCountry": "GER",
+   "elo": [
+    1788,
+    2179
+   ],
+   "dr": -301,
+   "H": 0.097,
+   "D": 0.171,
+   "A": 0.732,
+   "xg": [
+    0.8,
+    2.5
+   ],
+   "O25": 0.625,
+   "btts": 0.503,
+   "scores": [
+    [
+     "0-2",
+     0.115
+    ],
+    [
+     "0-3",
+     0.095
+    ],
+    [
+     "0-1",
+     0.093
+    ],
+    [
+     "1-2",
+     0.091
+    ],
+    [
+     "1-1",
+     0.084
+    ],
+    [
+     "1-3",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-25T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Shakhtar (UKR)",
+   "away": "Fenerbahce",
+   "homeName": "Shakhtar",
+   "awayName": "Fenerbahçe",
+   "homeLeague": null,
+   "awayLeague": "superlig",
+   "homeSlug": null,
+   "awaySlug": "fenerbahce",
+   "homeCountry": "UKR",
+   "awayCountry": "TUR",
+   "elo": [
+    1750,
+    1798
+   ],
+   "dr": 42,
+   "H": 0.414,
+   "D": 0.27,
+   "A": 0.316,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.519,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "1-0",
+     0.089
+    ],
+    [
+     "2-1",
+     0.087
+    ],
+    [
+     "0-1",
+     0.076
+    ],
+    [
+     "1-2",
+     0.074
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T15:30:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Kairat Almaty (KAZ)",
+   "away": "Mjallby",
+   "homeName": "Kairat Almaty",
+   "awayName": "Mjallby",
+   "homeLeague": null,
+   "awayLeague": "sweden",
+   "homeSlug": null,
+   "awaySlug": "mjallby",
+   "homeCountry": "KAZ",
+   "awayCountry": "SWE",
+   "elo": [
+    1430,
+    1432
+   ],
+   "dr": 88,
+   "H": 0.472,
+   "D": 0.262,
+   "A": 0.266,
+   "xg": [
+    1.7,
+    1.2
+   ],
+   "O25": 0.526,
+   "btts": 0.564,
+   "scores": [
+    [
+     "1-1",
+     0.128
+    ],
+    [
+     "1-0",
+     0.094
+    ],
+    [
+     "2-1",
+     0.092
+    ],
+    [
+     "2-0",
+     0.078
+    ],
+    [
+     "0-1",
+     0.067
+    ],
+    [
+     "1-2",
+     0.066
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Olympiakos",
+   "away": "Milan",
+   "homeName": "Olympiacos",
+   "awayName": "AC Milan",
+   "homeLeague": "superleague",
+   "awayLeague": "seriea",
+   "homeSlug": "olympiakos",
+   "awaySlug": "milan",
+   "homeCountry": "GRE",
+   "awayCountry": "ITA",
+   "elo": [
+    1781,
+    1913
+   ],
+   "dr": -42,
+   "H": 0.315,
+   "D": 0.27,
+   "A": 0.415,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.519,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "0-1",
+     0.089
+    ],
+    [
+     "1-2",
+     0.087
+    ],
+    [
+     "1-0",
+     0.076
+    ],
+    [
+     "2-1",
+     0.074
+    ],
+    [
+     "0-2",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Marseille",
+   "away": "Levski Sofia (BUL)",
+   "homeName": "Olympique de Marseille",
+   "awayName": "Levski Sofia",
+   "homeLeague": "ligue1",
+   "awayLeague": null,
+   "homeSlug": "marseille",
+   "awaySlug": null,
+   "homeCountry": "FRA",
+   "awayCountry": "BUL",
+   "elo": [
+    1817,
+    1582
+   ],
+   "dr": 325,
+   "H": 0.757,
+   "D": 0.159,
+   "A": 0.084,
+   "xg": [
+    2.6,
+    0.8
+   ],
+   "O25": 0.641,
+   "btts": 0.493,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.101
+    ],
+    [
+     "1-0",
+     0.09
+    ],
+    [
+     "2-1",
+     0.088
+    ],
+    [
+     "1-1",
+     0.078
+    ],
+    [
+     "3-1",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Viktoria Plzeň (CZE)",
+   "away": "Benfica",
+   "homeName": "Viktoria Plzeň",
+   "awayName": "Benfica",
+   "homeLeague": null,
+   "awayLeague": "primeira",
+   "homeSlug": null,
+   "awaySlug": "benfica",
+   "homeCountry": "CZE",
+   "awayCountry": "POR",
+   "elo": [
+    1709,
+    2029
+   ],
+   "dr": -230,
+   "H": 0.142,
+   "D": 0.209,
+   "A": 0.65,
+   "xg": [
+    0.9,
+    2.2
+   ],
+   "O25": 0.581,
+   "btts": 0.53,
+   "scores": [
+    [
+     "0-2",
+     0.107
+    ],
+    [
+     "1-1",
+     0.102
+    ],
+    [
+     "0-1",
+     0.098
+    ],
+    [
+     "1-2",
+     0.096
+    ],
+    [
+     "0-3",
+     0.077
+    ],
+    [
+     "1-3",
+     0.07
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "St. Gilloise",
+   "away": "Lech Poznan",
+   "homeName": "Union Saint-Gilloise",
+   "awayName": "Lech Poznan",
+   "homeLeague": "proleague",
+   "awayLeague": "poland",
+   "homeSlug": "st-gilloise",
+   "awaySlug": "lech-poznan",
+   "homeCountry": "BEL",
+   "awayCountry": "POL",
+   "elo": [
+    1870,
+    1697
+   ],
+   "dr": 262,
+   "H": 0.688,
+   "D": 0.192,
+   "A": 0.12,
+   "xg": [
+    2.3,
+    0.8
+   ],
+   "O25": 0.6,
+   "btts": 0.518,
+   "scores": [
+    [
+     "2-0",
+     0.111
+    ],
+    [
+     "1-0",
+     0.096
+    ],
+    [
+     "2-1",
+     0.094
+    ],
+    [
+     "1-1",
+     0.094
+    ],
+    [
+     "3-0",
+     0.085
+    ],
+    [
+     "3-1",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "GNK Dinamo (CRO)",
+   "away": "Leverkusen",
+   "homeName": "GNK Dinamo",
+   "awayName": "Bayer Leverkusen",
+   "homeLeague": null,
+   "awayLeague": "bundesliga",
+   "homeSlug": null,
+   "awaySlug": "leverkusen",
+   "homeCountry": "CRO",
+   "awayCountry": "GER",
+   "elo": [
+    1729,
+    1958
+   ],
+   "dr": -139,
+   "H": 0.216,
+   "D": 0.247,
+   "A": 0.536,
+   "xg": [
+    1.1,
+    1.8
+   ],
+   "O25": 0.541,
+   "btts": 0.555,
+   "scores": [
+    [
+     "1-1",
+     0.121
+    ],
+    [
+     "0-1",
+     0.098
+    ],
+    [
+     "1-2",
+     0.096
+    ],
+    [
+     "0-2",
+     0.09
+    ],
+    [
+     "0-0",
+     0.062
+    ],
+    [
+     "1-3",
+     0.058
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Salzburg",
+   "away": "Ararat-Armenia (ARM)",
+   "homeName": "Salzburg",
+   "awayName": "Ararat-Armenia",
+   "homeLeague": "austria",
+   "awayLeague": null,
+   "homeSlug": "salzburg",
+   "awaySlug": null,
+   "homeCountry": "AUT",
+   "awayCountry": "ARM",
+   "elo": [
+    1721,
+    1419
+   ],
+   "dr": 392,
+   "H": 0.823,
+   "D": 0.122,
+   "A": 0.055,
+   "xg": [
+    3,
+    0.7
+   ],
+   "O25": 0.692,
+   "btts": 0.462,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.114
+    ],
+    [
+     "4-0",
+     0.084
+    ],
+    [
+     "1-0",
+     0.078
+    ],
+    [
+     "2-1",
+     0.077
+    ],
+    [
+     "3-1",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Celta",
+   "away": "Bournemouth",
+   "homeName": "Celta Vigo",
+   "awayName": "AFC Bournemouth",
+   "homeLeague": "laliga",
+   "awayLeague": "pl",
+   "homeSlug": "celta",
+   "awaySlug": "bournemouth",
+   "homeCountry": "ESP",
+   "awayCountry": "ENG",
+   "elo": [
+    1791,
+    1990
+   ],
+   "dr": -109,
+   "H": 0.245,
    "D": 0.257,
-   "A": 0.497,
+   "A": 0.499,
    "xg": [
     1.1,
     1.7
@@ -2517,903 +1453,7 @@
     ],
     [
      "1-0",
-     0.064
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T17:45:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Sabah (AZE)",
-   "away": "Barcelona",
-   "homeName": "Sabah",
-   "awayName": "Barcelona",
-   "homeLeague": null,
-   "awayLeague": "laliga",
-   "homeSlug": null,
-   "awaySlug": "barcelona",
-   "homeCountry": "AZE",
-   "awayCountry": "ESP",
-   "elo": [
-    1513,
-    2163
-   ],
-   "dr": -560,
-   "H": 0.015,
-   "D": 0.048,
-   "A": 0.937,
-   "xg": [
-    0.5,
-    4.1
-   ],
-   "O25": 0.828,
-   "btts": 0.377,
-   "scores": [
-    [
-     "0-4",
-     0.12
-    ],
-    [
-     "0-3",
-     0.118
-    ],
-    [
-     "0-5",
-     0.098
-    ],
-    [
-     "0-2",
-     0.087
-    ],
-    [
-     "1-4",
-     0.058
-    ],
-    [
-     "1-3",
-     0.057
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Paris SG",
-   "away": "Roma",
-   "homeName": "Paris Saint-Germain",
-   "awayName": "AS Roma",
-   "homeLeague": "ligue1",
-   "awayLeague": "seriea",
-   "homeSlug": "paris-sg",
-   "awaySlug": "roma",
-   "homeCountry": "FRA",
-   "awayCountry": "ITA",
-   "elo": [
-    2111,
-    1934
-   ],
-   "dr": 267,
-   "H": 0.693,
-   "D": 0.19,
-   "A": 0.117,
-   "xg": [
-    2.3,
-    0.8
-   ],
-   "O25": 0.602,
-   "btts": 0.516,
-   "scores": [
-    [
-     "2-0",
-     0.112
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.093
-    ],
-    [
-     "3-0",
-     0.087
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Inter",
-   "away": "Stuttgart",
-   "homeName": "Inter",
-   "awayName": "VfB Stuttgart",
-   "homeLeague": "seriea",
-   "awayLeague": "bundesliga",
-   "homeSlug": "inter",
-   "awaySlug": "stuttgart",
-   "homeCountry": "ITA",
-   "awayCountry": "GER",
-   "elo": [
-    2048,
-    1874
-   ],
-   "dr": 265,
-   "H": 0.691,
-   "D": 0.191,
-   "A": 0.118,
-   "xg": [
-    2.3,
-    0.8
-   ],
-   "O25": 0.601,
-   "btts": 0.517,
-   "scores": [
-    [
-     "2-0",
-     0.111
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.094
-    ],
-    [
-     "3-0",
-     0.086
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Ath Madrid",
-   "away": "Viking",
-   "homeName": "Atlético Madrid",
-   "awayName": "Viking",
-   "homeLeague": "laliga",
-   "awayLeague": "norway",
-   "homeSlug": "ath-madrid",
-   "awaySlug": "viking",
-   "homeCountry": "ESP",
-   "awayCountry": "NOR",
-   "elo": [
-    1979,
-    1716
-   ],
-   "dr": 354,
-   "H": 0.787,
-   "D": 0.143,
-   "A": 0.07,
-   "xg": [
-    2.7,
-    0.7
-   ],
-   "O25": 0.662,
-   "btts": 0.48,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.107
-    ],
-    [
-     "1-0",
-     0.085
-    ],
-    [
-     "2-1",
-     0.083
-    ],
-    [
-     "3-1",
-     0.076
-    ],
-    [
-     "4-0",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Sp Lisbon",
-   "away": "Man United",
-   "homeName": "Sporting CP",
-   "awayName": "Manchester United",
-   "homeLeague": "primeira",
-   "awayLeague": "pl",
-   "homeSlug": "sp-lisbon",
-   "awaySlug": "man-united",
-   "homeCountry": "POR",
-   "awayCountry": "ENG",
-   "elo": [
-    1914,
-    1978
-   ],
-   "dr": 26,
-   "H": 0.395,
-   "D": 0.272,
-   "A": 0.333,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.087
-    ],
-    [
-     "2-1",
-     0.085
-    ],
-    [
-     "0-1",
-     0.079
-    ],
-    [
-     "1-2",
-     0.077
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Club Brugge",
-   "away": "Liverpool",
-   "homeName": "Club Brugge",
-   "awayName": "Liverpool",
-   "homeLeague": "proleague",
-   "awayLeague": "pl",
-   "homeSlug": "club-brugge",
-   "awaySlug": "liverpool",
-   "homeCountry": "BEL",
-   "awayCountry": "ENG",
-   "elo": [
-    1932,
-    2055
-   ],
-   "dr": -33,
-   "H": 0.326,
-   "D": 0.271,
-   "A": 0.403,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.088
-    ],
-    [
-     "1-2",
-     0.086
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.076
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Lille",
-   "away": "Bayern Munich",
-   "homeName": "Lille",
-   "awayName": "Bayern Munich",
-   "homeLeague": "ligue1",
-   "awayLeague": "bundesliga",
-   "homeSlug": "lille",
-   "awaySlug": "bayern-munich",
-   "homeCountry": "FRA",
-   "awayCountry": "GER",
-   "elo": [
-    1783,
-    2179
-   ],
-   "dr": -306,
-   "H": 0.094,
-   "D": 0.169,
-   "A": 0.738,
-   "xg": [
-    0.8,
-    2.5
-   ],
-   "O25": 0.628,
-   "btts": 0.501,
-   "scores": [
-    [
-     "0-2",
-     0.115
-    ],
-    [
-     "0-3",
-     0.096
-    ],
-    [
-     "0-1",
-     0.092
-    ],
-    [
-     "1-2",
-     0.09
-    ],
-    [
-     "1-1",
-     0.083
-    ],
-    [
-     "1-3",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-25T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Shakhtar (UKR)",
-   "away": "Fenerbahce",
-   "homeName": "Shakhtar",
-   "awayName": "Fenerbahçe",
-   "homeLeague": null,
-   "awayLeague": "superlig",
-   "homeSlug": null,
-   "awaySlug": "fenerbahce",
-   "homeCountry": "UKR",
-   "awayCountry": "TUR",
-   "elo": [
-    1750,
-    1802
-   ],
-   "dr": 37,
-   "H": 0.409,
-   "D": 0.271,
-   "A": 0.321,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.088
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "0-1",
-     0.077
-    ],
-    [
-     "1-2",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T15:30:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Kairat Almaty (KAZ)",
-   "away": "Mjallby",
-   "homeName": "Kairat Almaty",
-   "awayName": "Mjallby",
-   "homeLeague": null,
-   "awayLeague": "sweden",
-   "homeSlug": null,
-   "awaySlug": "mjallby",
-   "homeCountry": "KAZ",
-   "awayCountry": "SWE",
-   "elo": [
-    1421,
-    1419
-   ],
-   "dr": 92,
-   "H": 0.477,
-   "D": 0.261,
-   "A": 0.262,
-   "xg": [
-    1.7,
-    1.2
-   ],
-   "O25": 0.527,
-   "btts": 0.563,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "2-0",
-     0.079
-    ],
-    [
-     "0-1",
-     0.067
-    ],
-    [
-     "1-2",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Olympiakos",
-   "away": "Milan",
-   "homeName": "Olympiacos",
-   "awayName": "AC Milan",
-   "homeLeague": "superleague",
-   "awayLeague": "seriea",
-   "homeSlug": "olympiakos",
-   "awaySlug": "milan",
-   "homeCountry": "GRE",
-   "awayCountry": "ITA",
-   "elo": [
-    1775,
-    1941
-   ],
-   "dr": -76,
-   "H": 0.279,
-   "D": 0.265,
-   "A": 0.457,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.524,
-   "btts": 0.565,
-   "scores": [
-    [
-     "1-1",
-     0.13
-    ],
-    [
-     "0-1",
-     0.093
-    ],
-    [
-     "1-2",
-     0.091
-    ],
-    [
-     "0-2",
-     0.075
-    ],
-    [
-     "1-0",
-     0.07
-    ],
-    [
-     "2-1",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Marseille",
-   "away": "Levski Sofia (BUL)",
-   "homeName": "Olympique de Marseille",
-   "awayName": "Levski Sofia",
-   "homeLeague": "ligue1",
-   "awayLeague": null,
-   "homeSlug": "marseille",
-   "awaySlug": null,
-   "homeCountry": "FRA",
-   "awayCountry": "BUL",
-   "elo": [
-    1799,
-    1575
-   ],
-   "dr": 314,
-   "H": 0.746,
-   "D": 0.165,
-   "A": 0.09,
-   "xg": [
-    2.5,
-    0.8
-   ],
-   "O25": 0.633,
-   "btts": 0.498,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.098
-    ],
-    [
-     "1-0",
-     0.091
-    ],
-    [
-     "2-1",
-     0.089
-    ],
-    [
-     "1-1",
-     0.081
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Viktoria Plzeň (CZE)",
-   "away": "Benfica",
-   "homeName": "Viktoria Plzeň",
-   "awayName": "Benfica",
-   "homeLeague": null,
-   "awayLeague": "primeira",
-   "homeSlug": null,
-   "awaySlug": "benfica",
-   "homeCountry": "CZE",
-   "awayCountry": "POR",
-   "elo": [
-    1703,
-    2026
-   ],
-   "dr": -233,
-   "H": 0.139,
-   "D": 0.207,
-   "A": 0.654,
-   "xg": [
-    0.9,
-    2.2
-   ],
-   "O25": 0.583,
-   "btts": 0.528,
-   "scores": [
-    [
-     "0-2",
-     0.107
-    ],
-    [
-     "1-1",
-     0.101
-    ],
-    [
-     "0-1",
-     0.098
-    ],
-    [
-     "1-2",
-     0.096
-    ],
-    [
-     "0-3",
-     0.078
-    ],
-    [
-     "1-3",
-     0.07
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "St. Gilloise",
-   "away": "Lech Poznan",
-   "homeName": "Union Saint-Gilloise",
-   "awayName": "Lech Poznan",
-   "homeLeague": "proleague",
-   "awayLeague": "poland",
-   "homeSlug": "st-gilloise",
-   "awaySlug": "lech-poznan",
-   "homeCountry": "BEL",
-   "awayCountry": "POL",
-   "elo": [
-    1858,
-    1702
-   ],
-   "dr": 246,
-   "H": 0.669,
-   "D": 0.201,
-   "A": 0.131,
-   "xg": [
-    2.2,
-    0.9
-   ],
-   "O25": 0.59,
-   "btts": 0.524,
-   "scores": [
-    [
-     "2-0",
-     0.109
-    ],
-    [
-     "1-1",
-     0.098
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "3-0",
-     0.081
-    ],
-    [
-     "3-1",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "GNK Dinamo (CRO)",
-   "away": "Leverkusen",
-   "homeName": "GNK Dinamo",
-   "awayName": "Bayer Leverkusen",
-   "homeLeague": null,
-   "awayLeague": "bundesliga",
-   "homeSlug": null,
-   "awaySlug": "leverkusen",
-   "homeCountry": "CRO",
-   "awayCountry": "GER",
-   "elo": [
-    1704,
-    1972
-   ],
-   "dr": -177,
-   "H": 0.183,
-   "D": 0.233,
-   "A": 0.585,
-   "xg": [
-    1,
-    2
-   ],
-   "O25": 0.555,
-   "btts": 0.546,
-   "scores": [
-    [
-     "1-1",
-     0.114
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "0-2",
-     0.097
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.064
-    ],
-    [
-     "1-3",
-     0.064
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Salzburg",
-   "away": "Ararat-Armenia (ARM)",
-   "homeName": "Salzburg",
-   "awayName": "Ararat-Armenia",
-   "homeLeague": "austria",
-   "awayLeague": null,
-   "homeSlug": "salzburg",
-   "awaySlug": null,
-   "homeCountry": "AUT",
-   "awayCountry": "ARM",
-   "elo": [
-    1736,
-    1427
-   ],
-   "dr": 399,
-   "H": 0.83,
-   "D": 0.118,
-   "A": 0.052,
-   "xg": [
-    3,
-    0.7
-   ],
-   "O25": 0.698,
-   "btts": 0.458,
-   "scores": [
-    [
-     "2-0",
-     0.115
-    ],
-    [
-     "3-0",
-     0.115
-    ],
-    [
-     "4-0",
-     0.086
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.075
-    ],
-    [
-     "3-1",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Celta",
-   "away": "Bournemouth",
-   "homeName": "Celta Vigo",
-   "awayName": "AFC Bournemouth",
-   "homeLeague": "laliga",
-   "awayLeague": "pl",
-   "homeSlug": "celta",
-   "awaySlug": "bournemouth",
-   "homeCountry": "ESP",
-   "awayCountry": "ENG",
-   "elo": [
-    1803,
-    1989
-   ],
-   "dr": -96,
-   "H": 0.259,
-   "D": 0.26,
-   "A": 0.481,
-   "xg": [
-    1.2,
-    1.7
-   ],
-   "O25": 0.528,
-   "btts": 0.563,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "0-1",
-     0.095
-    ],
-    [
-     "1-2",
-     0.093
-    ],
-    [
-     "0-2",
-     0.08
-    ],
-    [
-     "1-0",
-     0.066
-    ],
-    [
-     "0-0",
-     0.065
+     0.063
     ]
    ]
   },
@@ -3433,43 +1473,43 @@
    "homeCountry": "TUR",
    "awayCountry": "ISR",
    "elo": [
-    1826,
-    1589
+    1812,
+    1562
    ],
-   "dr": 327,
-   "H": 0.76,
-   "D": 0.157,
-   "A": 0.083,
+   "dr": 340,
+   "H": 0.773,
+   "D": 0.15,
+   "A": 0.076,
    "xg": [
-    2.6,
-    0.8
+    2.7,
+    0.7
    ],
-   "O25": 0.643,
-   "btts": 0.492,
+   "O25": 0.652,
+   "btts": 0.486,
    "scores": [
     [
      "2-0",
-     0.116
+     0.117
     ],
     [
      "3-0",
-     0.101
+     0.104
     ],
     [
      "1-0",
-     0.089
-    ],
-    [
-     "2-1",
      0.087
     ],
     [
-     "1-1",
-     0.077
+     "2-1",
+     0.086
     ],
     [
      "3-1",
      0.076
+    ],
+    [
+     "1-1",
+     0.074
     ]
    ]
   },
@@ -3489,523 +1529,19 @@
    "homeCountry": "NED",
    "awayCountry": "SUI",
    "elo": [
-    1822,
-    1500
+    1848,
+    1516
    ],
-   "dr": 411,
-   "H": 0.84,
-   "D": 0.112,
-   "A": 0.048,
-   "xg": [
-    3.1,
-    0.6
-   ],
-   "O25": 0.708,
-   "btts": 0.453,
-   "scores": [
-    [
-     "3-0",
-     0.117
-    ],
-    [
-     "2-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.09
-    ],
-    [
-     "3-1",
-     0.075
-    ],
-    [
-     "1-0",
-     0.075
-    ],
-    [
-     "2-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Pafos (CYP)",
-   "away": "Midtjylland",
-   "homeName": "Pafos",
-   "awayName": "Midtjylland",
-   "homeLeague": null,
-   "awayLeague": "denmark",
-   "homeSlug": null,
-   "awaySlug": "midtjylland",
-   "homeCountry": "CYP",
-   "awayCountry": "DEN",
-   "elo": [
-    1559,
-    1712
-   ],
-   "dr": -63,
-   "H": 0.293,
-   "D": 0.267,
-   "A": 0.44,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.522,
-   "btts": 0.567,
-   "scores": [
-    [
-     "1-1",
-     0.131
-    ],
-    [
-     "0-1",
-     0.092
-    ],
-    [
-     "1-2",
-     0.09
-    ],
-    [
-     "0-2",
-     0.072
-    ],
-    [
-     "1-0",
-     0.072
-    ],
-    [
-     "2-1",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Brighton",
-   "away": "Univ. Craiova",
-   "homeName": "Brighton & Hove Albion",
-   "awayName": "Univ. Craiova",
-   "homeLeague": "pl",
-   "awayLeague": "romania",
-   "homeSlug": "brighton",
-   "awaySlug": "univ-craiova",
-   "homeCountry": "ENG",
-   "awayCountry": "ROU",
-   "elo": [
-    2027,
-    1718
-   ],
-   "dr": 398,
-   "H": 0.829,
-   "D": 0.119,
-   "A": 0.052,
-   "xg": [
-    3,
-    0.7
-   ],
-   "O25": 0.697,
-   "btts": 0.459,
-   "scores": [
-    [
-     "2-0",
-     0.115
-    ],
-    [
-     "3-0",
-     0.115
-    ],
-    [
-     "4-0",
-     0.086
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.076
-    ],
-    [
-     "3-1",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Brann",
-   "away": "Aarhus",
-   "homeName": "Brann",
-   "awayName": "Aarhus",
-   "homeLeague": "norway",
-   "awayLeague": "denmark",
-   "homeSlug": "brann",
-   "awaySlug": "aarhus",
-   "homeCountry": "NOR",
-   "awayCountry": "DEN",
-   "elo": [
-    1577,
-    1636
-   ],
-   "dr": 31,
-   "H": 0.401,
-   "D": 0.271,
-   "A": 0.328,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.088
-    ],
-    [
-     "2-1",
-     0.086
-    ],
-    [
-     "0-1",
-     0.078
-    ],
-    [
-     "1-2",
-     0.076
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Hearts",
-   "away": "Monaco",
-   "homeName": "Hearts",
-   "awayName": "Monaco",
-   "homeLeague": "scotland",
-   "awayLeague": "ligue1",
-   "homeSlug": "hearts",
-   "awaySlug": "monaco",
-   "homeCountry": "SCO",
-   "awayCountry": "FRA",
-   "elo": [
-    1545,
-    1874
-   ],
-   "dr": -239,
-   "H": 0.135,
-   "D": 0.204,
-   "A": 0.661,
-   "xg": [
-    0.9,
-    2.2
-   ],
-   "O25": 0.586,
-   "btts": 0.527,
-   "scores": [
-    [
-     "0-2",
-     0.108
-    ],
-    [
-     "1-1",
-     0.1
-    ],
-    [
-     "0-1",
-     0.098
-    ],
-    [
-     "1-2",
-     0.096
-    ],
-    [
-     "0-3",
-     0.08
-    ],
-    [
-     "1-3",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Jablonec (CZE)",
-   "away": "Lugano",
-   "homeName": "Jablonec",
-   "awayName": "Lugano",
-   "homeLeague": null,
-   "awayLeague": "switzerland",
-   "homeSlug": null,
-   "awaySlug": "lugano",
-   "homeCountry": "CZE",
-   "awayCountry": "SUI",
-   "elo": [
-    1584,
-    1678
-   ],
-   "dr": -4,
-   "H": 0.359,
-   "D": 0.272,
-   "A": 0.369,
-   "xg": [
-    1.4,
-    1.4
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.084
-    ],
-    [
-     "1-0",
-     0.082
-    ],
-    [
-     "1-2",
-     0.082
-    ],
-    [
-     "2-1",
-     0.081
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Kauno Žalgiris (LTU)",
-   "away": "Riga (LVA)",
-   "homeName": "Kauno Žalgiris",
-   "awayName": "Riga",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "LTU",
-   "awayCountry": "LVA",
-   "elo": [
-    1289,
-    1457
-   ],
-   "dr": -78,
-   "H": 0.276,
-   "D": 0.264,
-   "A": 0.459,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.524,
-   "btts": 0.565,
-   "scores": [
-    [
-     "1-1",
-     0.129
-    ],
-    [
-     "0-1",
-     0.093
-    ],
-    [
-     "1-2",
-     0.091
-    ],
-    [
-     "0-2",
-     0.076
-    ],
-    [
-     "1-0",
-     0.069
-    ],
-    [
-     "2-1",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Iberia Tbilisi (GEO)",
-   "away": "Getafe",
-   "homeName": "Iberia Tbilisi",
-   "awayName": "Getafe",
-   "homeLeague": null,
-   "awayLeague": "laliga",
-   "homeSlug": null,
-   "awaySlug": "getafe",
-   "homeCountry": "GEO",
-   "awayCountry": "ESP",
-   "elo": [
-    1299,
-    1680
-   ],
-   "dr": -292,
-   "H": 0.102,
-   "D": 0.176,
-   "A": 0.722,
-   "xg": [
-    0.8,
-    2.4
-   ],
-   "O25": 0.618,
-   "btts": 0.507,
-   "scores": [
-    [
-     "0-2",
-     0.114
-    ],
-    [
-     "0-1",
-     0.094
-    ],
-    [
-     "0-3",
-     0.093
-    ],
-    [
-     "1-2",
-     0.092
-    ],
-    [
-     "1-1",
-     0.086
-    ],
-    [
-     "1-3",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Egnatia (ALB)",
-   "away": "L. Red Imps (GIB)",
-   "homeName": "Egnatia",
-   "awayName": "L. Red Imps",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "ALB",
-   "awayCountry": "GIB",
-   "elo": [
-    1464,
-    1259
-   ],
-   "dr": 295,
-   "H": 0.725,
-   "D": 0.175,
-   "A": 0.1,
-   "xg": [
-    2.5,
-    0.8
-   ],
-   "O25": 0.62,
-   "btts": 0.505,
-   "scores": [
-    [
-     "2-0",
-     0.114
-    ],
-    [
-     "3-0",
-     0.094
-    ],
-    [
-     "1-0",
-     0.093
-    ],
-    [
-     "2-1",
-     0.091
-    ],
-    [
-     "1-1",
-     0.086
-    ],
-    [
-     "3-1",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Juventus",
-   "away": "Omonia (CYP)",
-   "homeName": "Juventus",
-   "awayName": "Omonia",
-   "homeLeague": "seriea",
-   "awayLeague": null,
-   "homeSlug": "juventus",
-   "awaySlug": null,
-   "homeCountry": "ITA",
-   "awayCountry": "CYP",
-   "elo": [
-    1943,
-    1609
-   ],
-   "dr": 424,
-   "H": 0.851,
+   "dr": 423,
+   "H": 0.849,
    "D": 0.106,
    "A": 0.044,
    "xg": [
     3.1,
     0.6
    ],
-   "O25": 0.718,
-   "btts": 0.446,
+   "O25": 0.717,
+   "btts": 0.447,
    "scores": [
     [
      "3-0",
@@ -4034,6 +1570,510 @@
    ]
   },
   {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Pafos (CYP)",
+   "away": "Midtjylland",
+   "homeName": "Pafos",
+   "awayName": "Midtjylland",
+   "homeLeague": null,
+   "awayLeague": "denmark",
+   "homeSlug": null,
+   "awaySlug": "midtjylland",
+   "homeCountry": "CYP",
+   "awayCountry": "DEN",
+   "elo": [
+    1553,
+    1687
+   ],
+   "dr": -44,
+   "H": 0.313,
+   "D": 0.27,
+   "A": 0.417,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.519,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "0-1",
+     0.089
+    ],
+    [
+     "1-2",
+     0.087
+    ],
+    [
+     "1-0",
+     0.076
+    ],
+    [
+     "2-1",
+     0.074
+    ],
+    [
+     "0-2",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Brighton",
+   "away": "Univ. Craiova",
+   "homeName": "Brighton & Hove Albion",
+   "awayName": "Univ. Craiova",
+   "homeLeague": "pl",
+   "awayLeague": "romania",
+   "homeSlug": "brighton",
+   "awaySlug": "univ-craiova",
+   "homeCountry": "ENG",
+   "awayCountry": "ROU",
+   "elo": [
+    2026,
+    1722
+   ],
+   "dr": 393,
+   "H": 0.824,
+   "D": 0.121,
+   "A": 0.054,
+   "xg": [
+    3,
+    0.7
+   ],
+   "O25": 0.693,
+   "btts": 0.461,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.114
+    ],
+    [
+     "4-0",
+     0.085
+    ],
+    [
+     "1-0",
+     0.078
+    ],
+    [
+     "2-1",
+     0.077
+    ],
+    [
+     "3-1",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Brann",
+   "away": "Aarhus",
+   "homeName": "Brann",
+   "awayName": "Aarhus",
+   "homeLeague": "norway",
+   "awayLeague": "denmark",
+   "homeSlug": "brann",
+   "awaySlug": "aarhus",
+   "homeCountry": "NOR",
+   "awayCountry": "DEN",
+   "elo": [
+    1581,
+    1632
+   ],
+   "dr": 39,
+   "H": 0.411,
+   "D": 0.27,
+   "A": 0.319,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.518,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "1-0",
+     0.089
+    ],
+    [
+     "2-1",
+     0.087
+    ],
+    [
+     "0-1",
+     0.076
+    ],
+    [
+     "1-2",
+     0.075
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Hearts",
+   "away": "Monaco",
+   "homeName": "Hearts",
+   "awayName": "Monaco",
+   "homeLeague": "scotland",
+   "awayLeague": "ligue1",
+   "homeSlug": "hearts",
+   "awaySlug": "monaco",
+   "homeCountry": "SCO",
+   "awayCountry": "FRA",
+   "elo": [
+    1533,
+    1884
+   ],
+   "dr": -261,
+   "H": 0.121,
+   "D": 0.193,
+   "A": 0.686,
+   "xg": [
+    0.9,
+    2.3
+   ],
+   "O25": 0.599,
+   "btts": 0.519,
+   "scores": [
+    [
+     "0-2",
+     0.111
+    ],
+    [
+     "0-1",
+     0.096
+    ],
+    [
+     "1-2",
+     0.095
+    ],
+    [
+     "1-1",
+     0.095
+    ],
+    [
+     "0-3",
+     0.085
+    ],
+    [
+     "1-3",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Jablonec (CZE)",
+   "away": "Lugano",
+   "homeName": "Jablonec",
+   "awayName": "Lugano",
+   "homeLeague": null,
+   "awayLeague": "switzerland",
+   "homeSlug": null,
+   "awaySlug": "lugano",
+   "homeCountry": "CZE",
+   "awayCountry": "SUI",
+   "elo": [
+    1583,
+    1684
+   ],
+   "dr": -11,
+   "H": 0.351,
+   "D": 0.272,
+   "A": 0.377,
+   "xg": [
+    1.4,
+    1.4
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.085
+    ],
+    [
+     "1-2",
+     0.083
+    ],
+    [
+     "1-0",
+     0.081
+    ],
+    [
+     "2-1",
+     0.08
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Kauno Žalgiris (LTU)",
+   "away": "Riga (LVA)",
+   "homeName": "Kauno Žalgiris",
+   "awayName": "Riga",
+   "homeLeague": null,
+   "awayLeague": null,
+   "homeSlug": null,
+   "awaySlug": null,
+   "homeCountry": "LTU",
+   "awayCountry": "LVA",
+   "elo": [
+    1286,
+    1458
+   ],
+   "dr": -82,
+   "H": 0.273,
+   "D": 0.264,
+   "A": 0.464,
+   "xg": [
+    1.2,
+    1.6
+   ],
+   "O25": 0.525,
+   "btts": 0.565,
+   "scores": [
+    [
+     "1-1",
+     0.129
+    ],
+    [
+     "0-1",
+     0.094
+    ],
+    [
+     "1-2",
+     0.092
+    ],
+    [
+     "0-2",
+     0.077
+    ],
+    [
+     "1-0",
+     0.069
+    ],
+    [
+     "2-1",
+     0.067
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Iberia Tbilisi (GEO)",
+   "away": "Getafe",
+   "homeName": "Iberia Tbilisi",
+   "awayName": "Getafe",
+   "homeLeague": null,
+   "awayLeague": "laliga",
+   "homeSlug": null,
+   "awaySlug": "getafe",
+   "homeCountry": "GEO",
+   "awayCountry": "ESP",
+   "elo": [
+    1298,
+    1674
+   ],
+   "dr": -286,
+   "H": 0.105,
+   "D": 0.18,
+   "A": 0.715,
+   "xg": [
+    0.8,
+    2.4
+   ],
+   "O25": 0.615,
+   "btts": 0.509,
+   "scores": [
+    [
+     "0-2",
+     0.114
+    ],
+    [
+     "0-1",
+     0.094
+    ],
+    [
+     "1-2",
+     0.092
+    ],
+    [
+     "0-3",
+     0.092
+    ],
+    [
+     "1-1",
+     0.088
+    ],
+    [
+     "1-3",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T17:45:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Egnatia (ALB)",
+   "away": "L. Red Imps (GIB)",
+   "homeName": "Egnatia",
+   "awayName": "L. Red Imps",
+   "homeLeague": null,
+   "awayLeague": null,
+   "homeSlug": null,
+   "awaySlug": null,
+   "homeCountry": "ALB",
+   "awayCountry": "GIB",
+   "elo": [
+    1460,
+    1274
+   ],
+   "dr": 275,
+   "H": 0.703,
+   "D": 0.185,
+   "A": 0.112,
+   "xg": [
+    2.4,
+    0.8
+   ],
+   "O25": 0.608,
+   "btts": 0.513,
+   "scores": [
+    [
+     "2-0",
+     0.113
+    ],
+    [
+     "1-0",
+     0.095
+    ],
+    [
+     "2-1",
+     0.093
+    ],
+    [
+     "1-1",
+     0.091
+    ],
+    [
+     "3-0",
+     0.089
+    ],
+    [
+     "3-1",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-26T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Juventus",
+   "away": "Omonia (CYP)",
+   "homeName": "Juventus",
+   "awayName": "Omonia",
+   "homeLeague": "seriea",
+   "awayLeague": null,
+   "homeSlug": "juventus",
+   "awaySlug": null,
+   "homeCountry": "ITA",
+   "awayCountry": "CYP",
+   "elo": [
+    1943,
+    1597
+   ],
+   "dr": 436,
+   "H": 0.86,
+   "D": 0.1,
+   "A": 0.04,
+   "xg": [
+    3.2,
+    0.6
+   ],
+   "O25": 0.728,
+   "btts": 0.44,
+   "scores": [
+    [
+     "3-0",
+     0.12
+    ],
+    [
+     "2-0",
+     0.112
+    ],
+    [
+     "4-0",
+     0.096
+    ],
+    [
+     "3-1",
+     0.073
+    ],
+    [
+     "1-0",
+     0.07
+    ],
+    [
+     "2-1",
+     0.068
+    ]
+   ]
+  },
+  {
    "kickoff": "2026-11-26T20:00:00Z",
    "comp": "el",
    "compName": "Europa League",
@@ -4049,43 +2089,43 @@
    "homeCountry": "FRA",
    "awayCountry": "NOR",
    "elo": [
-    1831,
-    1534
+    1837,
+    1527
    ],
-   "dr": 387,
-   "H": 0.819,
-   "D": 0.125,
-   "A": 0.057,
+   "dr": 400,
+   "H": 0.831,
+   "D": 0.118,
+   "A": 0.052,
    "xg": [
-    2.9,
+    3,
     0.7
    ],
-   "O25": 0.688,
-   "btts": 0.464,
+   "O25": 0.699,
+   "btts": 0.458,
    "scores": [
     [
-     "2-0",
-     0.116
+     "3-0",
+     0.115
     ],
     [
-     "3-0",
-     0.113
+     "2-0",
+     0.115
     ],
     [
      "4-0",
-     0.083
+     0.087
     ],
     [
      "1-0",
-     0.079
-    ],
-    [
-     "2-1",
-     0.078
+     0.077
     ],
     [
      "3-1",
-     0.076
+     0.075
+    ],
+    [
+     "2-1",
+     0.075
     ]
    ]
   },
@@ -4105,19 +2145,19 @@
    "homeCountry": "HUN",
    "awayCountry": "SVN",
    "elo": [
-    1767,
-    1516
+    1795,
+    1531
    ],
-   "dr": 340,
-   "H": 0.774,
-   "D": 0.15,
-   "A": 0.076,
+   "dr": 353,
+   "H": 0.787,
+   "D": 0.143,
+   "A": 0.07,
    "xg": [
     2.7,
     0.7
    ],
-   "O25": 0.652,
-   "btts": 0.486,
+   "O25": 0.662,
+   "btts": 0.48,
    "scores": [
     [
      "2-0",
@@ -4125,22 +2165,22 @@
     ],
     [
      "3-0",
-     0.104
+     0.107
     ],
     [
      "1-0",
-     0.087
+     0.085
     ],
     [
      "2-1",
-     0.085
+     0.084
     ],
     [
      "3-1",
      0.076
     ],
     [
-     "1-1",
+     "4-0",
      0.073
     ]
    ]
@@ -4161,13 +2201,13 @@
    "homeCountry": "CZE",
    "awayCountry": "NED",
    "elo": [
-    1667,
-    1750
+    1661,
+    1751
    ],
-   "dr": 7,
-   "H": 0.372,
+   "dr": 0,
+   "H": 0.364,
    "D": 0.272,
-   "A": 0.355,
+   "A": 0.363,
    "xg": [
     1.4,
     1.4
@@ -4181,19 +2221,19 @@
     ],
     [
      "1-0",
-     0.084
-    ],
-    [
-     "2-1",
-     0.082
+     0.083
     ],
     [
      "0-1",
-     0.082
+     0.083
+    ],
+    [
+     "2-1",
+     0.081
     ],
     [
      "1-2",
-     0.08
+     0.081
     ],
     [
      "0-0",
@@ -4217,13 +2257,13 @@
    "homeCountry": "ENG",
    "awayCountry": "ESP",
    "elo": [
-    1829,
-    1822
+    1823,
+    1817
    ],
-   "dr": 97,
-   "H": 0.483,
+   "dr": 96,
+   "H": 0.482,
    "D": 0.26,
-   "A": 0.257,
+   "A": 0.258,
    "xg": [
     1.7,
     1.2
@@ -4233,7 +2273,7 @@
    "scores": [
     [
      "1-1",
-     0.127
+     0.128
     ],
     [
      "1-0",
@@ -4273,39 +2313,39 @@
    "homeCountry": "ENG",
    "awayCountry": "POL",
    "elo": [
-    1880,
-    1575
+    1853,
+    1567
    ],
-   "dr": 395,
-   "H": 0.826,
-   "D": 0.121,
-   "A": 0.054,
+   "dr": 377,
+   "H": 0.809,
+   "D": 0.13,
+   "A": 0.061,
    "xg": [
-    3,
+    2.9,
     0.7
    ],
-   "O25": 0.694,
-   "btts": 0.461,
+   "O25": 0.68,
+   "btts": 0.469,
    "scores": [
     [
      "2-0",
-     0.116
+     0.117
     ],
     [
      "3-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.085
+     0.111
     ],
     [
      "1-0",
-     0.078
+     0.081
+    ],
+    [
+     "4-0",
+     0.08
     ],
     [
      "2-1",
-     0.076
+     0.08
     ],
     [
      "3-1",
@@ -4329,43 +2369,43 @@
    "homeCountry": "GER",
    "awayCountry": "AUT",
    "elo": [
-    1826,
-    1616
+    1828,
+    1599
    ],
-   "dr": 300,
-   "H": 0.731,
-   "D": 0.172,
-   "A": 0.097,
+   "dr": 319,
+   "H": 0.752,
+   "D": 0.162,
+   "A": 0.087,
    "xg": [
-    2.5,
+    2.6,
     0.8
    ],
-   "O25": 0.624,
-   "btts": 0.503,
+   "O25": 0.637,
+   "btts": 0.495,
    "scores": [
     [
      "2-0",
-     0.115
+     0.116
     ],
     [
      "3-0",
-     0.095
+     0.1
     ],
     [
      "1-0",
-     0.093
+     0.09
     ],
     [
      "2-1",
-     0.091
+     0.088
     ],
     [
      "1-1",
-     0.084
+     0.079
     ],
     [
      "3-1",
-     0.075
+     0.076
     ]
    ]
   },
@@ -4385,13 +2425,13 @@
    "homeCountry": "POR",
    "awayCountry": "SCO",
    "elo": [
-    1426,
-    1683
+    1434,
+    1691
    ],
-   "dr": -167,
-   "H": 0.192,
+   "dr": -168,
+   "H": 0.191,
    "D": 0.237,
-   "A": 0.571,
+   "A": 0.572,
    "xg": [
     1,
     1.9
@@ -4441,43 +2481,43 @@
    "homeCountry": "NED",
    "awayCountry": "FRA",
    "elo": [
-    1633,
-    1805
+    1649,
+    1809
    ],
-   "dr": -81,
-   "H": 0.273,
-   "D": 0.264,
-   "A": 0.463,
+   "dr": -70,
+   "H": 0.285,
+   "D": 0.266,
+   "A": 0.449,
    "xg": [
     1.2,
     1.6
    ],
-   "O25": 0.525,
-   "btts": 0.565,
+   "O25": 0.523,
+   "btts": 0.566,
    "scores": [
     [
      "1-1",
-     0.129
+     0.13
     ],
     [
      "0-1",
-     0.094
-    ],
-    [
-     "1-2",
      0.092
     ],
     [
+     "1-2",
+     0.091
+    ],
+    [
      "0-2",
-     0.077
+     0.074
     ],
     [
      "1-0",
-     0.069
+     0.071
     ],
     [
      "2-1",
-     0.067
+     0.069
     ]
    ]
   },
@@ -4497,27 +2537,27 @@
    "homeCountry": "GRE",
    "awayCountry": "BEL",
    "elo": [
-    1443,
-    1741
+    1470,
+    1754
    ],
-   "dr": -208,
-   "H": 0.158,
-   "D": 0.219,
-   "A": 0.623,
+   "dr": -194,
+   "H": 0.169,
+   "D": 0.226,
+   "A": 0.605,
    "xg": [
-    0.9,
-    2.1
+    1,
+    2
    ],
-   "O25": 0.57,
-   "btts": 0.537,
+   "O25": 0.563,
+   "btts": 0.541,
    "scores": [
     [
      "1-1",
-     0.107
+     0.111
     ],
     [
      "0-2",
-     0.103
+     0.101
     ],
     [
      "0-1",
@@ -4529,11 +2569,11 @@
     ],
     [
      "0-3",
-     0.072
+     0.068
     ],
     [
      "1-3",
-     0.067
+     0.066
     ]
    ]
   },
@@ -4553,19 +2593,19 @@
    "homeCountry": "POR",
    "awayCountry": "FIN",
    "elo": [
-    1773,
-    1432
+    1772,
+    1437
    ],
-   "dr": 431,
-   "H": 0.856,
-   "D": 0.102,
-   "A": 0.042,
+   "dr": 425,
+   "H": 0.851,
+   "D": 0.105,
+   "A": 0.043,
    "xg": [
-    3.2,
+    3.1,
     0.6
    ],
-   "O25": 0.723,
-   "btts": 0.443,
+   "O25": 0.718,
+   "btts": 0.446,
    "scores": [
     [
      "3-0",
@@ -4573,23 +2613,23 @@
     ],
     [
      "2-0",
-     0.112
+     0.113
     ],
     [
      "4-0",
-     0.095
+     0.093
     ],
     [
      "3-1",
-     0.073
+     0.074
     ],
     [
      "1-0",
-     0.071
+     0.072
     ],
     [
      "2-1",
-     0.069
+     0.07
     ]
    ]
   },
@@ -4609,13 +2649,13 @@
    "homeCountry": "GER",
    "awayCountry": "NED",
    "elo": [
-    1814,
-    1793
+    1823,
+    1803
    ],
-   "dr": 111,
-   "H": 0.501,
+   "dr": 110,
+   "H": 0.5,
    "D": 0.256,
-   "A": 0.243,
+   "A": 0.244,
    "xg": [
     1.7,
     1.1
@@ -4625,7 +2665,7 @@
    "scores": [
     [
      "1-1",
-     0.125
+     0.126
     ],
     [
      "1-0",
@@ -4666,22 +2706,22 @@
    "awayCountry": "SRB",
    "elo": [
     1712,
-    1665
+    1666
    ],
-   "dr": 138,
-   "H": 0.535,
-   "D": 0.248,
-   "A": 0.217,
+   "dr": 135,
+   "H": 0.531,
+   "D": 0.249,
+   "A": 0.22,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.54,
-   "btts": 0.555,
+   "O25": 0.539,
+   "btts": 0.556,
    "scores": [
     [
      "1-1",
-     0.121
+     0.122
     ],
     [
      "1-0",
@@ -4700,7 +2740,7 @@
      0.062
     ],
     [
-     "3-1",
+     "0-1",
      0.058
     ]
    ]
@@ -4721,8 +2761,8 @@
    "homeCountry": "BIH",
    "awayCountry": "ITA",
    "elo": [
-    1425,
-    1806
+    1412,
+    1793
    ],
    "dr": -292,
    "H": 0.102,
@@ -4777,13 +2817,13 @@
    "homeCountry": "CRO",
    "awayCountry": "BEL",
    "elo": [
-    1565,
+    1556,
     1656
    ],
-   "dr": -1,
-   "H": 0.363,
+   "dr": -10,
+   "H": 0.352,
    "D": 0.272,
-   "A": 0.365,
+   "A": 0.376,
    "xg": [
     1.4,
     1.4
@@ -4797,19 +2837,19 @@
     ],
     [
      "0-1",
+     0.084
+    ],
+    [
+     "1-2",
      0.083
     ],
     [
      "1-0",
-     0.083
-    ],
-    [
-     "1-2",
      0.081
     ],
     [
      "2-1",
-     0.081
+     0.08
     ],
     [
      "0-0",
@@ -4833,13 +2873,13 @@
    "homeCountry": "DEN",
    "awayCountry": "GRE",
    "elo": [
-    1694,
-    1776
+    1684,
+    1783
    ],
-   "dr": 8,
-   "H": 0.373,
+   "dr": -10,
+   "H": 0.352,
    "D": 0.272,
-   "A": 0.355,
+   "A": 0.375,
    "xg": [
     1.4,
     1.4
@@ -4852,19 +2892,19 @@
      0.133
     ],
     [
-     "1-0",
+     "0-1",
      0.084
     ],
     [
-     "2-1",
-     0.082
-    ],
-    [
-     "0-1",
-     0.082
-    ],
-    [
      "1-2",
+     0.083
+    ],
+    [
+     "1-0",
+     0.081
+    ],
+    [
+     "2-1",
      0.08
     ],
     [
@@ -4889,19 +2929,19 @@
    "homeCountry": "AND",
    "awayCountry": "DEN",
    "elo": [
-    1332,
-    1792
+    1331,
+    1786
    ],
-   "dr": -369,
-   "H": 0.064,
-   "D": 0.134,
-   "A": 0.802,
+   "dr": -366,
+   "H": 0.065,
+   "D": 0.136,
+   "A": 0.799,
    "xg": [
     0.7,
     2.8
    ],
-   "O25": 0.674,
-   "btts": 0.473,
+   "O25": 0.672,
+   "btts": 0.474,
    "scores": [
     [
      "0-2",
@@ -4909,7 +2949,7 @@
     ],
     [
      "0-3",
-     0.11
+     0.109
     ],
     [
      "0-1",
@@ -4921,7 +2961,7 @@
     ],
     [
      "0-4",
-     0.078
+     0.077
     ],
     [
      "1-3",
@@ -4946,26 +2986,26 @@
    "awayCountry": "TUR",
    "elo": [
     1487,
-    1792
+    1778
    ],
-   "dr": -215,
-   "H": 0.153,
-   "D": 0.216,
-   "A": 0.631,
+   "dr": -201,
+   "H": 0.163,
+   "D": 0.222,
+   "A": 0.614,
    "xg": [
-    0.9,
+    1,
     2.1
    ],
-   "O25": 0.573,
-   "btts": 0.535,
+   "O25": 0.566,
+   "btts": 0.539,
    "scores": [
     [
      "1-1",
-     0.106
+     0.109
     ],
     [
      "0-2",
-     0.104
+     0.102
     ],
     [
      "0-1",
@@ -4977,11 +3017,11 @@
     ],
     [
      "0-3",
-     0.073
+     0.07
     ],
     [
      "1-3",
-     0.068
+     0.067
     ]
    ]
   },
@@ -5001,19 +3041,19 @@
    "homeCountry": "ESP",
    "awayCountry": "AZE",
    "elo": [
-    1852,
+    1848,
     1513
    ],
-   "dr": 429,
-   "H": 0.854,
-   "D": 0.103,
-   "A": 0.042,
+   "dr": 425,
+   "H": 0.852,
+   "D": 0.105,
+   "A": 0.043,
    "xg": [
-    3.2,
+    3.1,
     0.6
    ],
-   "O25": 0.722,
-   "btts": 0.444,
+   "O25": 0.719,
+   "btts": 0.446,
    "scores": [
     [
      "3-0",
@@ -5025,7 +3065,7 @@
     ],
     [
      "4-0",
-     0.094
+     0.093
     ],
     [
      "3-1",
@@ -5033,7 +3073,7 @@
     ],
     [
      "1-0",
-     0.071
+     0.072
     ],
     [
      "2-1",
@@ -5057,13 +3097,13 @@
    "homeCountry": "NOR",
    "awayCountry": "NED",
    "elo": [
-    1716,
-    1825
+    1715,
+    1832
    ],
-   "dr": -19,
-   "H": 0.342,
+   "dr": -26,
+   "H": 0.333,
    "D": 0.272,
-   "A": 0.387,
+   "A": 0.395,
    "xg": [
     1.3,
     1.5
@@ -5077,19 +3117,19 @@
     ],
     [
      "0-1",
-     0.086
+     0.087
     ],
     [
      "1-2",
-     0.084
+     0.085
     ],
     [
      "1-0",
-     0.08
+     0.079
     ],
     [
      "2-1",
-     0.078
+     0.077
     ],
     [
      "0-0",
@@ -5118,7 +3158,7 @@
    ],
    "dr": 616,
    "H": 0.959,
-   "D": 0.032,
+   "D": 0.033,
    "A": 0.009,
    "xg": [
     4.5,
@@ -5169,13 +3209,13 @@
    "homeCountry": "ESP",
    "awayCountry": "ENG",
    "elo": [
-    2163,
-    2145
+    2160,
+    2141
    ],
-   "dr": 108,
-   "H": 0.497,
+   "dr": 109,
+   "H": 0.498,
    "D": 0.257,
-   "A": 0.246,
+   "A": 0.245,
    "xg": [
     1.7,
     1.1
@@ -5225,19 +3265,19 @@
    "homeCountry": "ITA",
    "awayCountry": "POR",
    "elo": [
-    1934,
-    1914
+    1929,
+    1915
    ],
-   "dr": 110,
-   "H": 0.5,
-   "D": 0.256,
-   "A": 0.244,
+   "dr": 104,
+   "H": 0.492,
+   "D": 0.258,
+   "A": 0.25,
    "xg": [
     1.7,
     1.1
    ],
-   "O25": 0.532,
-   "btts": 0.56,
+   "O25": 0.53,
+   "btts": 0.562,
    "scores": [
     [
      "1-1",
@@ -5253,15 +3293,15 @@
     ],
     [
      "2-0",
-     0.083
+     0.082
     ],
     [
      "0-0",
-     0.064
+     0.065
     ],
     [
      "0-1",
-     0.063
+     0.064
     ]
    ]
   },
@@ -5281,39 +3321,39 @@
    "homeCountry": "ENG",
    "awayCountry": "FRA",
    "elo": [
-    1927,
-    2111
+    1923,
+    2116
    ],
-   "dr": -94,
-   "H": 0.26,
-   "D": 0.261,
-   "A": 0.479,
+   "dr": -103,
+   "H": 0.252,
+   "D": 0.259,
+   "A": 0.49,
    "xg": [
     1.2,
     1.7
    ],
-   "O25": 0.528,
-   "btts": 0.563,
+   "O25": 0.53,
+   "btts": 0.562,
    "scores": [
     [
      "1-1",
-     0.128
+     0.127
     ],
     [
      "0-1",
-     0.095
+     0.096
     ],
     [
      "1-2",
-     0.093
+     0.094
     ],
     [
      "0-2",
-     0.079
+     0.081
     ],
     [
      "1-0",
-     0.066
+     0.065
     ],
     [
      "0-0",
@@ -5337,23 +3377,23 @@
    "homeCountry": "ENG",
    "awayCountry": "GER",
    "elo": [
-    1978,
-    1876
+    1974,
+    1875
    ],
-   "dr": 192,
-   "H": 0.603,
-   "D": 0.226,
-   "A": 0.17,
+   "dr": 189,
+   "H": 0.599,
+   "D": 0.228,
+   "A": 0.173,
    "xg": [
     2,
     1
    ],
-   "O25": 0.562,
-   "btts": 0.541,
+   "O25": 0.56,
+   "btts": 0.542,
    "scores": [
     [
      "1-1",
-     0.111
+     0.112
     ],
     [
      "2-0",
@@ -5369,11 +3409,11 @@
     ],
     [
      "3-0",
-     0.068
+     0.067
     ],
     [
      "3-1",
-     0.066
+     0.065
     ]
    ]
   },
@@ -5393,19 +3433,19 @@
    "homeCountry": "ITA",
    "awayCountry": "BEL",
    "elo": [
-    1894,
-    1932
+    1888,
+    1935
    ],
-   "dr": 52,
-   "H": 0.427,
-   "D": 0.269,
-   "A": 0.304,
+   "dr": 43,
+   "H": 0.416,
+   "D": 0.27,
+   "A": 0.314,
    "xg": [
     1.5,
     1.3
    ],
-   "O25": 0.52,
-   "btts": 0.568,
+   "O25": 0.519,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
@@ -5413,23 +3453,23 @@
     ],
     [
      "1-0",
-     0.09
-    ],
-    [
-     "2-1",
      0.089
     ],
     [
+     "2-1",
+     0.087
+    ],
+    [
      "0-1",
-     0.074
+     0.076
     ],
     [
      "1-2",
-     0.073
+     0.074
     ],
     [
      "2-0",
-     0.07
+     0.068
     ]
    ]
   },
@@ -5449,16 +3489,16 @@
    "homeCountry": "GRE",
    "awayCountry": "TUR",
    "elo": [
-    1761,
-    1869
+    1766,
+    1865
    ],
-   "dr": -19,
-   "H": 0.342,
+   "dr": -8,
+   "H": 0.354,
    "D": 0.272,
-   "A": 0.386,
+   "A": 0.374,
    "xg": [
     1.4,
-    1.5
+    1.4
    ],
    "O25": 0.517,
    "btts": 0.57,
@@ -5469,19 +3509,19 @@
     ],
     [
      "0-1",
-     0.086
-    ],
-    [
-     "1-2",
      0.084
     ],
     [
+     "1-2",
+     0.083
+    ],
+    [
      "1-0",
-     0.08
+     0.082
     ],
     [
      "2-1",
-     0.078
+     0.08
     ],
     [
      "0-0",
@@ -5505,13 +3545,13 @@
    "homeCountry": "ESP",
    "awayCountry": "ITA",
    "elo": [
-    1867,
-    1981
+    1863,
+    1975
    ],
-   "dr": -24,
-   "H": 0.336,
+   "dr": -21,
+   "H": 0.339,
    "D": 0.272,
-   "A": 0.392,
+   "A": 0.389,
    "xg": [
     1.3,
     1.5
@@ -5525,11 +3565,11 @@
     ],
     [
      "0-1",
-     0.087
+     0.086
     ],
     [
      "1-2",
-     0.085
+     0.084
     ],
     [
      "1-0",
@@ -5537,7 +3577,7 @@
     ],
     [
      "2-1",
-     0.077
+     0.078
     ],
     [
      "0-0",
@@ -5617,27 +3657,27 @@
    "homeCountry": "ENG",
    "awayCountry": "POR",
    "elo": [
-    2055,
-    1945
+    2051,
+    1946
    ],
-   "dr": 199,
-   "H": 0.612,
-   "D": 0.223,
-   "A": 0.165,
+   "dr": 195,
+   "H": 0.606,
+   "D": 0.225,
+   "A": 0.168,
    "xg": [
     2,
     1
    ],
-   "O25": 0.565,
-   "btts": 0.539,
+   "O25": 0.563,
+   "btts": 0.541,
    "scores": [
     [
      "1-1",
-     0.109
+     0.11
     ],
     [
      "2-0",
-     0.102
+     0.101
     ],
     [
      "1-0",
@@ -5649,7 +3689,7 @@
     ],
     [
      "3-0",
-     0.069
+     0.068
     ],
     [
      "3-1",
@@ -5673,18 +3713,18 @@
    "homeCountry": "ENG",
    "awayCountry": "ESP",
    "elo": [
-    2171,
-    2113
+    2167,
+    2110
    ],
-   "dr": 148,
-   "H": 0.547,
-   "D": 0.244,
-   "A": 0.208,
+   "dr": 147,
+   "H": 0.546,
+   "D": 0.245,
+   "A": 0.209,
    "xg": [
     1.9,
     1.1
    ],
-   "O25": 0.544,
+   "O25": 0.543,
    "btts": 0.553,
    "scores": [
     [
@@ -5693,7 +3733,7 @@
     ],
     [
      "1-0",
-     0.099
+     0.098
     ],
     [
      "2-1",
@@ -5729,13 +3769,13 @@
    "homeCountry": "GER",
    "awayCountry": "ITA",
    "elo": [
-    1955,
-    2048
+    1954,
+    2043
    ],
-   "dr": -4,
-   "H": 0.359,
+   "dr": 2,
+   "H": 0.366,
    "D": 0.272,
-   "A": 0.368,
+   "A": 0.362,
    "xg": [
     1.4,
     1.4
@@ -5748,19 +3788,19 @@
      0.133
     ],
     [
+     "1-0",
+     0.083
+    ],
+    [
      "0-1",
      0.083
     ],
     [
-     "1-0",
+     "2-1",
      0.082
     ],
     [
      "1-2",
-     0.082
-    ],
-    [
-     "2-1",
      0.081
     ],
     [
@@ -5785,43 +3825,43 @@
    "homeCountry": "NED",
    "awayCountry": "ESP",
    "elo": [
-    1826,
-    1979
+    1833,
+    1976
    ],
-   "dr": -63,
-   "H": 0.292,
-   "D": 0.267,
-   "A": 0.441,
+   "dr": -53,
+   "H": 0.303,
+   "D": 0.269,
+   "A": 0.428,
    "xg": [
-    1.2,
-    1.6
+    1.3,
+    1.5
    ],
-   "O25": 0.522,
-   "btts": 0.567,
+   "O25": 0.52,
+   "btts": 0.568,
    "scores": [
     [
      "1-1",
-     0.131
+     0.132
     ],
     [
      "0-1",
-     0.092
-    ],
-    [
-     "1-2",
      0.09
     ],
     [
-     "0-2",
-     0.072
+     "1-2",
+     0.089
     ],
     [
      "1-0",
-     0.072
+     0.074
     ],
     [
      "2-1",
-     0.071
+     0.072
+    ],
+    [
+     "0-2",
+     0.07
     ]
    ]
   },
@@ -5842,42 +3882,42 @@
    "awayCountry": "FRA",
    "elo": [
     1874,
-    1783
+    1788
    ],
-   "dr": 181,
-   "H": 0.589,
-   "D": 0.231,
-   "A": 0.18,
+   "dr": 176,
+   "H": 0.583,
+   "D": 0.233,
+   "A": 0.184,
    "xg": [
     2,
     1
    ],
-   "O25": 0.557,
-   "btts": 0.545,
+   "O25": 0.555,
+   "btts": 0.546,
    "scores": [
     [
      "1-1",
-     0.113
+     0.114
     ],
     [
      "1-0",
      0.099
     ],
     [
-     "2-0",
-     0.098
-    ],
-    [
      "2-1",
      0.097
     ],
     [
-     "3-0",
-     0.065
+     "2-0",
+     0.097
     ],
     [
      "3-1",
-     0.064
+     0.063
+    ],
+    [
+     "3-0",
+     0.063
     ]
    ]
   },
@@ -5897,344 +3937,8 @@
    "homeCountry": "AUT",
    "awayCountry": "TUR",
    "elo": [
-    1718,
-    1802
-   ],
-   "dr": 6,
-   "H": 0.37,
-   "D": 0.272,
-   "A": 0.357,
-   "xg": [
-    1.4,
-    1.4
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.084
-    ],
-    [
-     "2-1",
-     0.082
-    ],
-    [
-     "0-1",
-     0.082
-    ],
-    [
-     "1-2",
-     0.08
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-09T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Lens",
-   "away": "Bodo/Glimt",
-   "homeName": "Lens",
-   "awayName": "Bodo/Glimt",
-   "homeLeague": "ligue1",
-   "awayLeague": "norway",
-   "homeSlug": "lens",
-   "awaySlug": "bodo-glimt",
-   "homeCountry": "FRA",
-   "awayCountry": "NOR",
-   "elo": [
-    1796,
-    1857
-   ],
-   "dr": 29,
-   "H": 0.399,
-   "D": 0.271,
-   "A": 0.33,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.087
-    ],
-    [
-     "2-1",
-     0.086
-    ],
-    [
-     "0-1",
-     0.078
-    ],
-    [
-     "1-2",
-     0.076
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T15:30:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Kairat Almaty (KAZ)",
-   "away": "Univ. Craiova",
-   "homeName": "Kairat Almaty",
-   "awayName": "Univ. Craiova",
-   "homeLeague": null,
-   "awayLeague": "romania",
-   "homeSlug": null,
-   "awaySlug": "univ-craiova",
-   "homeCountry": "KAZ",
-   "awayCountry": "ROU",
-   "elo": [
-    1421,
-    1718
-   ],
-   "dr": -207,
-   "H": 0.159,
-   "D": 0.22,
-   "A": 0.622,
-   "xg": [
-    0.9,
-    2.1
-   ],
-   "O25": 0.569,
-   "btts": 0.537,
-   "scores": [
-    [
-     "1-1",
-     0.108
-    ],
-    [
-     "0-2",
-     0.103
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.071
-    ],
-    [
-     "1-3",
-     0.067
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "AZ Alkmaar",
-   "away": "Sturm Graz",
-   "homeName": "AZ",
-   "awayName": "Sturm Graz",
-   "homeLeague": "eredivisie",
-   "awayLeague": "austria",
-   "homeSlug": "az-alkmaar",
-   "awaySlug": "sturm-graz",
-   "homeCountry": "NED",
-   "awayCountry": "AUT",
-   "elo": [
-    1750,
-    1616
-   ],
-   "dr": 224,
-   "H": 0.642,
-   "D": 0.212,
-   "A": 0.146,
-   "xg": [
-    2.1,
-    0.9
-   ],
-   "O25": 0.578,
-   "btts": 0.532,
-   "scores": [
-    [
-     "2-0",
-     0.106
-    ],
-    [
-     "1-1",
-     0.104
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.076
-    ],
-    [
-     "3-1",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Marseille",
-   "away": "Celta",
-   "homeName": "Olympique de Marseille",
-   "awayName": "Celta Vigo",
-   "homeLeague": "ligue1",
-   "awayLeague": "laliga",
-   "homeSlug": "marseille",
-   "awaySlug": "celta",
-   "homeCountry": "FRA",
-   "awayCountry": "ESP",
-   "elo": [
-    1799,
-    1803
-   ],
-   "dr": 86,
-   "H": 0.469,
-   "D": 0.263,
-   "A": 0.268,
-   "xg": [
-    1.6,
-    1.2
-   ],
-   "O25": 0.526,
-   "btts": 0.564,
-   "scores": [
-    [
-     "1-1",
-     0.129
-    ],
-    [
-     "1-0",
-     0.094
-    ],
-    [
-     "2-1",
-     0.092
-    ],
-    [
-     "2-0",
-     0.078
-    ],
-    [
-     "0-1",
-     0.068
-    ],
-    [
-     "1-2",
-     0.066
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Rennes",
-   "away": "GNK Dinamo (CRO)",
-   "homeName": "Rennes",
-   "awayName": "GNK Dinamo",
-   "homeLeague": "ligue1",
-   "awayLeague": null,
-   "homeSlug": "rennes",
-   "awaySlug": null,
-   "homeCountry": "FRA",
-   "awayCountry": "CRO",
-   "elo": [
-    1805,
-    1704
-   ],
-   "dr": 190,
-   "H": 0.601,
-   "D": 0.227,
-   "A": 0.172,
-   "xg": [
-    2,
-    1
-   ],
-   "O25": 0.561,
-   "btts": 0.542,
-   "scores": [
-    [
-     "1-1",
-     0.111
-    ],
-    [
-     "2-0",
-     0.1
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.067
-    ],
-    [
-     "3-1",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Anderlecht",
-   "away": "Hoffenheim",
-   "homeName": "Anderlecht",
-   "awayName": "Hoffenheim",
-   "homeLeague": "proleague",
-   "awayLeague": "bundesliga",
-   "homeSlug": "anderlecht",
-   "awaySlug": "hoffenheim",
-   "homeCountry": "BEL",
-   "awayCountry": "GER",
-   "elo": [
-    1741,
-    1826
+    1712,
+    1798
    ],
    "dr": 5,
    "H": 0.37,
@@ -6274,38 +3978,98 @@
    ]
   },
   {
-   "kickoff": "2026-12-10T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
+   "kickoff": "2026-12-09T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
    "round": "League Phase",
-   "home": "Celje (SVN)",
-   "away": "Olympiakos",
-   "homeName": "Celje",
-   "awayName": "Olympiacos",
-   "homeLeague": null,
-   "awayLeague": "superleague",
-   "homeSlug": null,
-   "awaySlug": "olympiakos",
-   "homeCountry": "SVN",
-   "awayCountry": "GRE",
+   "home": "Lens",
+   "away": "Bodo/Glimt",
+   "homeName": "Lens",
+   "awayName": "Bodo/Glimt",
+   "homeLeague": "ligue1",
+   "awayLeague": "norway",
+   "homeSlug": "lens",
+   "awaySlug": "bodo-glimt",
+   "homeCountry": "FRA",
+   "awayCountry": "NOR",
    "elo": [
-    1516,
-    1775
+    1801,
+    1856
    ],
-   "dr": -169,
-   "H": 0.19,
-   "D": 0.236,
-   "A": 0.574,
+   "dr": 35,
+   "H": 0.406,
+   "D": 0.271,
+   "A": 0.324,
    "xg": [
-    1,
-    1.9
+    1.5,
+    1.3
    ],
-   "O25": 0.552,
-   "btts": 0.548,
+   "O25": 0.518,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
-     0.116
+     0.133
+    ],
+    [
+     "1-0",
+     0.088
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.077
+    ],
+    [
+     "1-2",
+     0.076
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T15:30:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Kairat Almaty (KAZ)",
+   "away": "Univ. Craiova",
+   "homeName": "Kairat Almaty",
+   "awayName": "Univ. Craiova",
+   "homeLeague": null,
+   "awayLeague": "romania",
+   "homeSlug": null,
+   "awaySlug": "univ-craiova",
+   "homeCountry": "KAZ",
+   "awayCountry": "ROU",
+   "elo": [
+    1430,
+    1722
+   ],
+   "dr": -202,
+   "H": 0.162,
+   "D": 0.222,
+   "A": 0.616,
+   "xg": [
+    1,
+    2.1
+   ],
+   "O25": 0.567,
+   "btts": 0.538,
+   "scores": [
+    [
+     "1-1",
+     0.109
+    ],
+    [
+     "0-2",
+     0.102
     ],
     [
      "0-1",
@@ -6316,16 +4080,68 @@
      0.097
     ],
     [
-     "0-2",
+     "0-3",
+     0.07
+    ],
+    [
+     "1-3",
+     0.067
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "AZ Alkmaar",
+   "away": "Sturm Graz",
+   "homeName": "AZ",
+   "awayName": "Sturm Graz",
+   "homeLeague": "eredivisie",
+   "awayLeague": "austria",
+   "homeSlug": "az-alkmaar",
+   "awaySlug": "sturm-graz",
+   "homeCountry": "NED",
+   "awayCountry": "AUT",
+   "elo": [
+    1751,
+    1599
+   ],
+   "dr": 242,
+   "H": 0.664,
+   "D": 0.203,
+   "A": 0.133,
+   "xg": [
+    2.2,
+    0.9
+   ],
+   "O25": 0.588,
+   "btts": 0.525,
+   "scores": [
+    [
+     "2-0",
+     0.109
+    ],
+    [
+     "1-1",
+     0.099
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
      0.096
     ],
     [
-     "1-3",
-     0.063
+     "3-0",
+     0.08
     ],
     [
-     "0-3",
-     0.062
+     "3-1",
+     0.071
     ]
    ]
   },
@@ -6334,54 +4150,54 @@
    "comp": "el",
    "compName": "Europa League",
    "round": "League Phase",
-   "home": "Jagiellonia",
-   "away": "Crystal Palace",
-   "homeName": "Jagiellonia",
-   "awayName": "Crystal Palace",
-   "homeLeague": "poland",
-   "awayLeague": "pl",
-   "homeSlug": "jagiellonia",
-   "awaySlug": "crystal-palace",
-   "homeCountry": "POL",
-   "awayCountry": "ENG",
+   "home": "Marseille",
+   "away": "Celta",
+   "homeName": "Olympique de Marseille",
+   "awayName": "Celta Vigo",
+   "homeLeague": "ligue1",
+   "awayLeague": "laliga",
+   "homeSlug": "marseille",
+   "awaySlug": "celta",
+   "homeCountry": "FRA",
+   "awayCountry": "ESP",
    "elo": [
-    1575,
-    1829
+    1817,
+    1791
    ],
-   "dr": -164,
-   "H": 0.194,
-   "D": 0.238,
-   "A": 0.568,
+   "dr": 116,
+   "H": 0.507,
+   "D": 0.255,
+   "A": 0.238,
    "xg": [
-    1,
-    1.9
+    1.7,
+    1.1
    ],
-   "O25": 0.55,
-   "btts": 0.549,
+   "O25": 0.533,
+   "btts": 0.559,
    "scores": [
     [
      "1-1",
-     0.117
+     0.125
     ],
     [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
+     "1-0",
      0.097
     ],
     [
-     "0-2",
+     "2-1",
      0.095
     ],
     [
-     "1-3",
-     0.062
+     "2-0",
+     0.084
     ],
     [
-     "0-3",
-     0.06
+     "0-0",
+     0.064
+    ],
+    [
+     "0-1",
+     0.062
     ]
    ]
   },
@@ -6390,19 +4206,75 @@
    "comp": "el",
    "compName": "Europa League",
    "round": "League Phase",
-   "home": "Omonia (CYP)",
-   "away": "Celtic",
-   "homeName": "Omonia",
-   "awayName": "Celtic",
-   "homeLeague": null,
-   "awayLeague": "scotland",
-   "homeSlug": null,
-   "awaySlug": "celtic",
-   "homeCountry": "CYP",
-   "awayCountry": "SCO",
+   "home": "Rennes",
+   "away": "GNK Dinamo (CRO)",
+   "homeName": "Rennes",
+   "awayName": "GNK Dinamo",
+   "homeLeague": "ligue1",
+   "awayLeague": null,
+   "homeSlug": "rennes",
+   "awaySlug": null,
+   "homeCountry": "FRA",
+   "awayCountry": "CRO",
    "elo": [
-    1609,
-    1683
+    1809,
+    1729
+   ],
+   "dr": 170,
+   "H": 0.576,
+   "D": 0.236,
+   "A": 0.189,
+   "xg": [
+    1.9,
+    1
+   ],
+   "O25": 0.552,
+   "btts": 0.547,
+   "scores": [
+    [
+     "1-1",
+     0.115
+    ],
+    [
+     "1-0",
+     0.099
+    ],
+    [
+     "2-1",
+     0.097
+    ],
+    [
+     "2-0",
+     0.096
+    ],
+    [
+     "3-1",
+     0.063
+    ],
+    [
+     "3-0",
+     0.062
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Anderlecht",
+   "away": "Hoffenheim",
+   "homeName": "Anderlecht",
+   "awayName": "Hoffenheim",
+   "homeLeague": "proleague",
+   "awayLeague": "bundesliga",
+   "homeSlug": "anderlecht",
+   "awaySlug": "hoffenheim",
+   "homeCountry": "BEL",
+   "awayCountry": "GER",
+   "elo": [
+    1754,
+    1828
    ],
    "dr": 16,
    "H": 0.383,
@@ -6446,6 +4318,174 @@
    "comp": "el",
    "compName": "Europa League",
    "round": "League Phase",
+   "home": "Celje (SVN)",
+   "away": "Olympiakos",
+   "homeName": "Celje",
+   "awayName": "Olympiacos",
+   "homeLeague": null,
+   "awayLeague": "superleague",
+   "homeSlug": null,
+   "awaySlug": "olympiakos",
+   "homeCountry": "SVN",
+   "awayCountry": "GRE",
+   "elo": [
+    1531,
+    1781
+   ],
+   "dr": -160,
+   "H": 0.198,
+   "D": 0.24,
+   "A": 0.562,
+   "xg": [
+    1,
+    1.9
+   ],
+   "O25": 0.548,
+   "btts": 0.55,
+   "scores": [
+    [
+     "1-1",
+     0.117
+    ],
+    [
+     "0-1",
+     0.099
+    ],
+    [
+     "1-2",
+     0.097
+    ],
+    [
+     "0-2",
+     0.094
+    ],
+    [
+     "1-3",
+     0.061
+    ],
+    [
+     "0-0",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Jagiellonia",
+   "away": "Crystal Palace",
+   "homeName": "Jagiellonia",
+   "awayName": "Crystal Palace",
+   "homeLeague": "poland",
+   "awayLeague": "pl",
+   "homeSlug": "jagiellonia",
+   "awaySlug": "crystal-palace",
+   "homeCountry": "POL",
+   "awayCountry": "ENG",
+   "elo": [
+    1567,
+    1823
+   ],
+   "dr": -166,
+   "H": 0.192,
+   "D": 0.237,
+   "A": 0.571,
+   "xg": [
+    1,
+    1.9
+   ],
+   "O25": 0.551,
+   "btts": 0.548,
+   "scores": [
+    [
+     "1-1",
+     0.116
+    ],
+    [
+     "0-1",
+     0.099
+    ],
+    [
+     "1-2",
+     0.097
+    ],
+    [
+     "0-2",
+     0.095
+    ],
+    [
+     "1-3",
+     0.062
+    ],
+    [
+     "0-3",
+     0.061
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Omonia (CYP)",
+   "away": "Celtic",
+   "homeName": "Omonia",
+   "awayName": "Celtic",
+   "homeLeague": null,
+   "awayLeague": "scotland",
+   "homeSlug": null,
+   "awaySlug": "celtic",
+   "homeCountry": "CYP",
+   "awayCountry": "SCO",
+   "elo": [
+    1597,
+    1691
+   ],
+   "dr": -5,
+   "H": 0.358,
+   "D": 0.272,
+   "A": 0.369,
+   "xg": [
+    1.4,
+    1.4
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.084
+    ],
+    [
+     "1-0",
+     0.082
+    ],
+    [
+     "1-2",
+     0.082
+    ],
+    [
+     "2-1",
+     0.081
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
    "home": "H. Beer-Sheva (ISR)",
    "away": "Juventus",
    "homeName": "H. Beer-Sheva",
@@ -6457,43 +4497,43 @@
    "homeCountry": "ISR",
    "awayCountry": "ITA",
    "elo": [
-    1589,
+    1562,
     1943
    ],
-   "dr": -264,
-   "H": 0.119,
-   "D": 0.191,
-   "A": 0.69,
+   "dr": -291,
+   "H": 0.102,
+   "D": 0.177,
+   "A": 0.721,
    "xg": [
     0.8,
-    2.3
+    2.4
    ],
-   "O25": 0.601,
-   "btts": 0.517,
+   "O25": 0.618,
+   "btts": 0.507,
    "scores": [
     [
      "0-2",
-     0.111
+     0.114
     ],
     [
      "0-1",
-     0.096
-    ],
-    [
-     "1-2",
-     0.094
-    ],
-    [
-     "1-1",
      0.094
     ],
     [
      "0-3",
-     0.086
+     0.093
+    ],
+    [
+     "1-2",
+     0.092
+    ],
+    [
+     "1-1",
+     0.087
     ],
     [
      "1-3",
-     0.073
+     0.075
     ]
    ]
   },
@@ -6513,43 +4553,43 @@
    "homeCountry": "ARM",
    "awayCountry": "NED",
    "elo": [
-    1427,
-    1633
+    1419,
+    1649
    ],
-   "dr": -117,
-   "H": 0.238,
-   "D": 0.255,
-   "A": 0.508,
+   "dr": -140,
+   "H": 0.216,
+   "D": 0.247,
+   "A": 0.537,
    "xg": [
     1.1,
-    1.7
+    1.8
    ],
-   "O25": 0.533,
-   "btts": 0.559,
+   "O25": 0.541,
+   "btts": 0.555,
    "scores": [
     [
      "1-1",
-     0.125
+     0.121
     ],
     [
      "0-1",
-     0.097
+     0.098
     ],
     [
      "1-2",
-     0.095
+     0.096
     ],
     [
      "0-2",
-     0.085
+     0.09
     ],
     [
      "0-0",
-     0.064
+     0.062
     ],
     [
-     "1-0",
-     0.062
+     "1-3",
+     0.059
     ]
    ]
   },
@@ -6569,18 +4609,18 @@
    "homeCountry": "GER",
    "awayCountry": "GRE",
    "elo": [
-    1814,
-    1776
+    1823,
+    1783
    ],
-   "dr": 128,
-   "H": 0.522,
+   "dr": 130,
+   "H": 0.525,
    "D": 0.251,
-   "A": 0.227,
+   "A": 0.225,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.537,
+   "O25": 0.538,
    "btts": 0.557,
    "scores": [
     [
@@ -6597,7 +4637,7 @@
     ],
     [
      "2-0",
-     0.087
+     0.088
     ],
     [
      "0-0",
@@ -6625,27 +4665,27 @@
    "homeCountry": "DEN",
    "awayCountry": "SUI",
    "elo": [
-    1792,
-    1678
+    1786,
+    1684
    ],
-   "dr": 203,
-   "H": 0.617,
-   "D": 0.221,
-   "A": 0.162,
+   "dr": 193,
+   "H": 0.604,
+   "D": 0.226,
+   "A": 0.17,
    "xg": [
-    2.1,
+    2,
     1
    ],
-   "O25": 0.567,
-   "btts": 0.538,
+   "O25": 0.562,
+   "btts": 0.541,
    "scores": [
     [
      "1-1",
-     0.108
+     0.111
     ],
     [
      "2-0",
-     0.102
+     0.1
     ],
     [
      "1-0",
@@ -6657,11 +4697,11 @@
     ],
     [
      "3-0",
-     0.07
+     0.068
     ],
     [
      "3-1",
-     0.067
+     0.066
     ]
    ]
   },
@@ -6681,23 +4721,23 @@
    "homeCountry": "ESP",
    "awayCountry": "AND",
    "elo": [
-    1680,
-    1332
+    1674,
+    1331
    ],
-   "dr": 438,
-   "H": 0.862,
-   "D": 0.099,
-   "A": 0.04,
+   "dr": 433,
+   "H": 0.858,
+   "D": 0.101,
+   "A": 0.041,
    "xg": [
     3.2,
     0.6
    ],
-   "O25": 0.729,
-   "btts": 0.439,
+   "O25": 0.725,
+   "btts": 0.442,
    "scores": [
     [
      "3-0",
-     0.12
+     0.119
     ],
     [
      "2-0",
@@ -6705,7 +4745,7 @@
     ],
     [
      "4-0",
-     0.097
+     0.095
     ],
     [
      "3-1",
@@ -6713,11 +4753,11 @@
     ],
     [
      "1-0",
-     0.069
+     0.07
     ],
     [
      "2-1",
-     0.068
+     0.069
     ]
    ]
   },
@@ -6737,39 +4777,39 @@
    "homeCountry": "FIN",
    "awayCountry": "BUL",
    "elo": [
-    1432,
+    1437,
     1487
    ],
-   "dr": 35,
-   "H": 0.406,
-   "D": 0.271,
-   "A": 0.324,
+   "dr": 40,
+   "H": 0.412,
+   "D": 0.27,
+   "A": 0.317,
    "xg": [
     1.5,
     1.3
    ],
-   "O25": 0.518,
+   "O25": 0.519,
    "btts": 0.569,
    "scores": [
     [
      "1-1",
-     0.133
+     0.132
     ],
     [
      "1-0",
-     0.088
+     0.089
     ],
     [
      "2-1",
-     0.086
+     0.087
     ],
     [
      "0-1",
-     0.077
+     0.076
     ],
     [
      "1-2",
-     0.076
+     0.075
     ],
     [
      "0-0",
@@ -6793,42 +4833,42 @@
    "homeCountry": "GIB",
    "awayCountry": "DEN",
    "elo": [
-    1259,
-    1712
+    1274,
+    1687
    ],
-   "dr": -363,
-   "H": 0.066,
-   "D": 0.137,
-   "A": 0.797,
+   "dr": -322,
+   "H": 0.085,
+   "D": 0.16,
+   "A": 0.755,
    "xg": [
-    0.7,
-    2.8
+    0.8,
+    2.6
    ],
-   "O25": 0.67,
-   "btts": 0.476,
+   "O25": 0.639,
+   "btts": 0.494,
    "scores": [
     [
      "0-2",
-     0.117
+     0.116
     ],
     [
      "0-3",
-     0.109
+     0.1
     ],
     [
      "0-1",
-     0.084
+     0.09
     ],
     [
      "1-2",
-     0.082
+     0.088
+    ],
+    [
+     "1-1",
+     0.078
     ],
     [
      "1-3",
-     0.076
-    ],
-    [
-     "0-4",
      0.076
     ]
    ]
@@ -6849,23 +4889,23 @@
    "homeCountry": "NOR",
    "awayCountry": "POR",
    "elo": [
-    1577,
-    1773
+    1581,
+    1772
    ],
-   "dr": -105,
-   "H": 0.249,
-   "D": 0.258,
-   "A": 0.493,
+   "dr": -101,
+   "H": 0.253,
+   "D": 0.259,
+   "A": 0.489,
    "xg": [
-    1.1,
+    1.2,
     1.7
    ],
-   "O25": 0.53,
-   "btts": 0.561,
+   "O25": 0.529,
+   "btts": 0.562,
    "scores": [
     [
      "1-1",
-     0.126
+     0.127
     ],
     [
      "0-1",
@@ -6877,15 +4917,15 @@
     ],
     [
      "0-2",
-     0.082
-    ],
-    [
-     "0-0",
-     0.064
+     0.081
     ],
     [
      "1-0",
-     0.064
+     0.065
+    ],
+    [
+     "0-0",
+     0.065
     ]
    ]
   },
@@ -6905,43 +4945,43 @@
    "homeCountry": "TUR",
    "awayCountry": "CZE",
    "elo": [
-    1792,
-    1584
+    1778,
+    1583
    ],
-   "dr": 298,
-   "H": 0.728,
-   "D": 0.173,
-   "A": 0.098,
+   "dr": 285,
+   "H": 0.714,
+   "D": 0.18,
+   "A": 0.106,
    "xg": [
-    2.5,
+    2.4,
     0.8
    ],
-   "O25": 0.622,
-   "btts": 0.504,
+   "O25": 0.614,
+   "btts": 0.51,
    "scores": [
     [
      "2-0",
-     0.115
-    ],
-    [
-     "3-0",
-     0.094
+     0.114
     ],
     [
      "1-0",
-     0.093
+     0.094
     ],
     [
      "2-1",
+     0.092
+    ],
+    [
+     "3-0",
      0.091
     ],
     [
      "1-1",
-     0.085
+     0.088
     ],
     [
      "3-1",
-     0.075
+     0.074
     ]
    ]
   },
@@ -6961,43 +5001,43 @@
    "homeCountry": "LVA",
    "awayCountry": "ITA",
    "elo": [
-    1457,
-    1806
+    1458,
+    1793
    ],
-   "dr": -260,
-   "H": 0.122,
-   "D": 0.194,
-   "A": 0.685,
+   "dr": -245,
+   "H": 0.131,
+   "D": 0.201,
+   "A": 0.668,
    "xg": [
     0.9,
-    2.3
+    2.2
    ],
-   "O25": 0.598,
-   "btts": 0.519,
+   "O25": 0.59,
+   "btts": 0.524,
    "scores": [
     [
      "0-2",
-     0.111
-    ],
-    [
-     "0-1",
-     0.097
+     0.109
     ],
     [
      "1-1",
-     0.095
+     0.098
+    ],
+    [
+     "0-1",
+     0.098
     ],
     [
      "1-2",
-     0.095
+     0.096
     ],
     [
      "0-3",
-     0.085
+     0.081
     ],
     [
      "1-3",
-     0.072
+     0.071
     ]
    ]
   },
@@ -7017,19 +5057,19 @@
    "homeCountry": "GEO",
    "awayCountry": "SRB",
    "elo": [
-    1299,
-    1665
+    1298,
+    1666
    ],
-   "dr": -276,
-   "H": 0.111,
-   "D": 0.185,
-   "A": 0.704,
+   "dr": -278,
+   "H": 0.11,
+   "D": 0.184,
+   "A": 0.707,
    "xg": [
     0.8,
     2.4
    ],
-   "O25": 0.608,
-   "btts": 0.513,
+   "O25": 0.61,
+   "btts": 0.512,
    "scores": [
     [
      "0-2",
@@ -7045,11 +5085,11 @@
     ],
     [
      "1-1",
-     0.091
+     0.09
     ],
     [
      "0-3",
-     0.089
+     0.09
     ],
     [
      "1-3",
@@ -7073,11 +5113,11 @@
    "homeCountry": "GER",
    "awayCountry": "TUR",
    "elo": [
-    1972,
-    1826
+    1958,
+    1812
    ],
-   "dr": 235,
-   "H": 0.656,
+   "dr": 236,
+   "H": 0.657,
    "D": 0.206,
    "A": 0.138,
    "xg": [
@@ -7129,43 +5169,43 @@
    "homeCountry": "POR",
    "awayCountry": "GRE",
    "elo": [
-    2026,
-    1443
+    2029,
+    1470
    ],
-   "dr": 673,
-   "H": 0.975,
-   "D": 0.02,
-   "A": 0.005,
+   "dr": 648,
+   "H": 0.969,
+   "D": 0.025,
+   "A": 0.006,
    "xg": [
-    5,
+    4.8,
     0.4
    ],
-   "O25": 0.904,
-   "btts": 0.32,
+   "O25": 0.889,
+   "btts": 0.333,
    "scores": [
     [
-     "5-0",
-     0.12
+     "4-0",
+     0.122
     ],
     [
-     "4-0",
-     0.119
+     "5-0",
+     0.117
     ],
     [
      "3-0",
-     0.095
+     0.101
     ],
     [
      "2-0",
-     0.056
-    ],
-    [
-     "5-1",
-     0.047
+     0.063
     ],
     [
      "4-1",
-     0.046
+     0.05
+    ],
+    [
+     "5-1",
+     0.048
     ]
    ]
   },
@@ -7185,18 +5225,18 @@
    "homeCountry": "ITA",
    "awayCountry": "ENG",
    "elo": [
-    1941,
-    1880
+    1913,
+    1853
    ],
-   "dr": 152,
-   "H": 0.553,
+   "dr": 150,
+   "H": 0.55,
    "D": 0.243,
-   "A": 0.205,
+   "A": 0.206,
    "xg": [
     1.9,
-    1
+    1.1
    ],
-   "O25": 0.545,
+   "O25": 0.544,
    "btts": 0.552,
    "scores": [
     [
@@ -7241,18 +5281,18 @@
    "homeCountry": "FRA",
    "awayCountry": "BEL",
    "elo": [
-    1831,
-    1858
+    1837,
+    1870
    ],
-   "dr": 63,
-   "H": 0.44,
-   "D": 0.267,
-   "A": 0.293,
+   "dr": 57,
+   "H": 0.433,
+   "D": 0.268,
+   "A": 0.299,
    "xg": [
     1.6,
-    1.2
+    1.3
    ],
-   "O25": 0.522,
+   "O25": 0.521,
    "btts": 0.567,
    "scores": [
     [
@@ -7261,22 +5301,22 @@
     ],
     [
      "1-0",
-     0.092
+     0.091
     ],
     [
      "2-1",
-     0.09
-    ],
-    [
-     "2-0",
-     0.072
+     0.089
     ],
     [
      "0-1",
-     0.072
+     0.073
     ],
     [
      "1-2",
+     0.072
+    ],
+    [
+     "2-0",
      0.071
     ]
    ]
@@ -7297,43 +5337,43 @@
    "homeCountry": "ESP",
    "awayCountry": "POR",
    "elo": [
-    1822,
-    1426
+    1817,
+    1434
    ],
-   "dr": 486,
-   "H": 0.896,
-   "D": 0.077,
-   "A": 0.027,
+   "dr": 473,
+   "H": 0.887,
+   "D": 0.082,
+   "A": 0.03,
    "xg": [
-    3.5,
+    3.4,
     0.6
    ],
-   "O25": 0.768,
-   "btts": 0.415,
+   "O25": 0.758,
+   "btts": 0.422,
    "scores": [
     [
      "3-0",
-     0.123
-    ],
-    [
-     "4-0",
-     0.108
+     0.122
     ],
     [
      "2-0",
-     0.104
+     0.106
+    ],
+    [
+     "4-0",
+     0.105
     ],
     [
      "5-0",
-     0.076
+     0.073
     ],
     [
      "3-1",
-     0.068
+     0.069
     ],
     [
-     "4-1",
-     0.06
+     "1-0",
+     0.062
     ]
    ]
   },
@@ -7353,23 +5393,23 @@
    "homeCountry": "AUT",
    "awayCountry": "CZE",
    "elo": [
-    1736,
-    1667
+    1721,
+    1661
    ],
-   "dr": 159,
-   "H": 0.562,
-   "D": 0.24,
-   "A": 0.198,
+   "dr": 150,
+   "H": 0.55,
+   "D": 0.244,
+   "A": 0.207,
    "xg": [
     1.9,
-    1
+    1.1
    ],
-   "O25": 0.548,
-   "btts": 0.55,
+   "O25": 0.544,
+   "btts": 0.552,
    "scores": [
     [
      "1-1",
-     0.118
+     0.119
     ],
     [
      "1-0",
@@ -7381,14 +5421,14 @@
     ],
     [
      "2-0",
-     0.094
-    ],
-    [
-     "3-1",
-     0.061
+     0.092
     ],
     [
      "0-0",
+     0.061
+    ],
+    [
+     "3-1",
      0.06
     ]
    ]
@@ -7409,16 +5449,16 @@
    "homeCountry": "POL",
    "awayCountry": "HUN",
    "elo": [
-    1702,
-    1767
+    1697,
+    1795
    ],
-   "dr": 25,
-   "H": 0.394,
+   "dr": -7,
+   "H": 0.355,
    "D": 0.272,
-   "A": 0.335,
+   "A": 0.372,
    "xg": [
-    1.5,
-    1.3
+    1.4,
+    1.4
    ],
    "O25": 0.517,
    "btts": 0.57,
@@ -7428,20 +5468,20 @@
      0.133
     ],
     [
-     "1-0",
-     0.087
-    ],
-    [
-     "2-1",
-     0.085
-    ],
-    [
      "0-1",
-     0.079
+     0.084
     ],
     [
      "1-2",
-     0.077
+     0.082
+    ],
+    [
+     "1-0",
+     0.082
+    ],
+    [
+     "2-1",
+     0.08
     ],
     [
      "0-0",
@@ -7465,19 +5505,19 @@
    "homeCountry": "ENG",
    "awayCountry": "CZE",
    "elo": [
-    1989,
-    1703
+    1990,
+    1709
    ],
-   "dr": 376,
-   "H": 0.809,
-   "D": 0.131,
-   "A": 0.061,
+   "dr": 372,
+   "H": 0.804,
+   "D": 0.133,
+   "A": 0.063,
    "xg": [
-    2.9,
+    2.8,
     0.7
    ],
-   "O25": 0.679,
-   "btts": 0.47,
+   "O25": 0.676,
+   "btts": 0.472,
    "scores": [
     [
      "2-0",
@@ -7485,19 +5525,19 @@
     ],
     [
      "3-0",
-     0.111
+     0.11
     ],
     [
      "1-0",
-     0.081
-    ],
-    [
-     "4-0",
-     0.08
+     0.082
     ],
     [
      "2-1",
      0.08
+    ],
+    [
+     "4-0",
+     0.078
     ],
     [
      "3-1",
@@ -7521,23 +5561,23 @@
    "homeCountry": "BUL",
    "awayCountry": "NOR",
    "elo": [
-    1575,
-    1534
+    1582,
+    1527
    ],
-   "dr": 132,
-   "H": 0.527,
-   "D": 0.25,
-   "A": 0.223,
+   "dr": 146,
+   "H": 0.545,
+   "D": 0.245,
+   "A": 0.21,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.538,
-   "btts": 0.556,
+   "O25": 0.543,
+   "btts": 0.553,
    "scores": [
     [
      "1-1",
-     0.122
+     0.12
     ],
     [
      "1-0",
@@ -7549,14 +5589,14 @@
     ],
     [
      "2-0",
-     0.088
+     0.091
     ],
     [
      "0-0",
-     0.062
+     0.061
     ],
     [
-     "0-1",
+     "3-1",
      0.059
     ]
    ]
@@ -7577,27 +5617,27 @@
    "homeCountry": "ENG",
    "awayCountry": "FRA",
    "elo": [
-    2027,
-    1874
+    2026,
+    1884
    ],
-   "dr": 242,
-   "H": 0.664,
-   "D": 0.203,
-   "A": 0.133,
+   "dr": 232,
+   "H": 0.652,
+   "D": 0.208,
+   "A": 0.14,
    "xg": [
     2.2,
     0.9
    ],
-   "O25": 0.588,
-   "btts": 0.525,
+   "O25": 0.582,
+   "btts": 0.529,
    "scores": [
     [
      "2-0",
-     0.109
+     0.107
     ],
     [
      "1-1",
-     0.099
+     0.102
     ],
     [
      "1-0",
@@ -7609,11 +5649,11 @@
     ],
     [
      "3-0",
-     0.08
+     0.078
     ],
     [
      "3-1",
-     0.071
+     0.07
     ]
    ]
   },
@@ -7634,42 +5674,42 @@
    "awayCountry": "NED",
    "elo": [
     1656,
-    1822
+    1848
    ],
-   "dr": -75,
-   "H": 0.279,
-   "D": 0.265,
-   "A": 0.456,
+   "dr": -102,
+   "H": 0.252,
+   "D": 0.259,
+   "A": 0.49,
    "xg": [
     1.2,
-    1.6
+    1.7
    ],
-   "O25": 0.524,
-   "btts": 0.566,
+   "O25": 0.53,
+   "btts": 0.562,
    "scores": [
     [
      "1-1",
-     0.13
+     0.127
     ],
     [
      "0-1",
-     0.093
+     0.096
     ],
     [
      "1-2",
-     0.091
+     0.094
     ],
     [
      "0-2",
-     0.075
+     0.081
     ],
     [
      "1-0",
-     0.07
+     0.065
     ],
     [
-     "2-1",
-     0.068
+     "0-0",
+     0.065
     ]
    ]
   },
@@ -7689,10 +5729,10 @@
    "homeCountry": "SCO",
    "awayCountry": "BIH",
    "elo": [
-    1545,
-    1425
+    1533,
+    1412
    ],
-   "dr": 210,
+   "dr": 211,
    "H": 0.626,
    "D": 0.218,
    "A": 0.156,
@@ -7745,8 +5785,8 @@
    "homeCountry": "CRO",
    "awayCountry": "DEN",
    "elo": [
-    1565,
-    1694
+    1556,
+    1684
    ],
    "dr": -38,
    "H": 0.32,
@@ -7761,11 +5801,11 @@
    "scores": [
     [
      "1-1",
-     0.132
+     0.133
     ],
     [
      "0-1",
-     0.089
+     0.088
     ],
     [
      "1-2",
@@ -7773,7 +5813,7 @@
     ],
     [
      "1-0",
-     0.076
+     0.077
     ],
     [
      "2-1",
@@ -7801,43 +5841,43 @@
    "homeCountry": "DEN",
    "awayCountry": "NED",
    "elo": [
-    1636,
-    1793
+    1632,
+    1803
    ],
-   "dr": -67,
-   "H": 0.289,
-   "D": 0.267,
-   "A": 0.445,
+   "dr": -81,
+   "H": 0.273,
+   "D": 0.264,
+   "A": 0.463,
    "xg": [
     1.2,
     1.6
    ],
-   "O25": 0.522,
-   "btts": 0.567,
+   "O25": 0.525,
+   "btts": 0.565,
    "scores": [
     [
      "1-1",
-     0.131
+     0.129
     ],
     [
      "0-1",
-     0.092
+     0.094
     ],
     [
      "1-2",
-     0.09
+     0.092
     ],
     [
      "0-2",
-     0.073
+     0.077
     ],
     [
      "1-0",
-     0.071
+     0.069
     ],
     [
      "2-1",
-     0.07
+     0.067
     ]
    ]
   },
@@ -7857,43 +5897,43 @@
    "homeCountry": "SUI",
    "awayCountry": "BEL",
    "elo": [
-    1500,
+    1516,
     1712
    ],
-   "dr": -122,
-   "H": 0.232,
-   "D": 0.253,
-   "A": 0.515,
+   "dr": -106,
+   "H": 0.248,
+   "D": 0.258,
+   "A": 0.494,
    "xg": [
     1.1,
-    1.8
+    1.7
    ],
-   "O25": 0.535,
-   "btts": 0.558,
+   "O25": 0.531,
+   "btts": 0.561,
    "scores": [
     [
      "1-1",
-     0.124
+     0.126
     ],
     [
      "0-1",
-     0.097
+     0.096
     ],
     [
      "1-2",
-     0.095
+     0.094
     ],
     [
      "0-2",
-     0.086
+     0.082
     ],
     [
      "0-0",
-     0.063
+     0.064
     ],
     [
      "1-0",
-     0.061
+     0.064
     ]
    ]
   },
@@ -7913,43 +5953,43 @@
    "homeCountry": "SWE",
    "awayCountry": "CYP",
    "elo": [
-    1419,
-    1559
+    1432,
+    1553
    ],
-   "dr": -51,
-   "H": 0.306,
-   "D": 0.269,
-   "A": 0.425,
+   "dr": -31,
+   "H": 0.328,
+   "D": 0.271,
+   "A": 0.401,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.52,
-   "btts": 0.568,
+   "O25": 0.518,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
-     0.132
+     0.133
     ],
     [
      "0-1",
-     0.09
-    ],
-    [
-     "1-2",
      0.088
     ],
     [
+     "1-2",
+     0.086
+    ],
+    [
      "1-0",
-     0.074
+     0.078
     ],
     [
      "2-1",
-     0.073
+     0.076
     ],
     [
-     "0-2",
-     0.069
+     "0-0",
+     0.068
     ]
    ]
   },
@@ -7969,23 +6009,23 @@
    "homeCountry": "ALB",
    "awayCountry": "LTU",
    "elo": [
-    1464,
-    1289
+    1460,
+    1286
    ],
-   "dr": 265,
-   "H": 0.691,
-   "D": 0.191,
-   "A": 0.118,
+   "dr": 263,
+   "H": 0.689,
+   "D": 0.192,
+   "A": 0.119,
    "xg": [
     2.3,
     0.8
    ],
-   "O25": 0.601,
-   "btts": 0.517,
+   "O25": 0.6,
+   "btts": 0.518,
    "scores": [
     [
      "2-0",
-     0.112
+     0.111
     ],
     [
      "1-0",
@@ -7997,7 +6037,7 @@
     ],
     [
      "1-1",
-     0.093
+     0.094
     ],
     [
      "3-0",
@@ -8025,43 +6065,43 @@
    "homeCountry": "ITA",
    "awayCountry": "SWE",
    "elo": [
-    1806,
-    1419
+    1793,
+    1432
    ],
-   "dr": 478,
-   "H": 0.89,
-   "D": 0.08,
-   "A": 0.029,
+   "dr": 452,
+   "H": 0.872,
+   "D": 0.092,
+   "A": 0.036,
    "xg": [
-    3.5,
+    3.3,
     0.6
    ],
-   "O25": 0.762,
-   "btts": 0.419,
+   "O25": 0.74,
+   "btts": 0.433,
    "scores": [
     [
      "3-0",
-     0.122
-    ],
-    [
-     "4-0",
-     0.106
+     0.121
     ],
     [
      "2-0",
-     0.106
+     0.11
     ],
     [
-     "5-0",
-     0.074
+     "4-0",
+     0.1
     ],
     [
      "3-1",
-     0.069
+     0.072
+    ],
+    [
+     "5-0",
+     0.066
     ],
     [
      "1-0",
-     0.061
+     0.066
     ]
    ]
   },
@@ -8081,42 +6121,42 @@
    "homeCountry": "POR",
    "awayCountry": "ALB",
    "elo": [
-    1773,
-    1464
+    1772,
+    1460
    ],
-   "dr": 399,
-   "H": 0.83,
-   "D": 0.118,
-   "A": 0.052,
+   "dr": 403,
+   "H": 0.833,
+   "D": 0.117,
+   "A": 0.051,
    "xg": [
     3,
     0.7
    ],
-   "O25": 0.698,
-   "btts": 0.459,
+   "O25": 0.7,
+   "btts": 0.457,
    "scores": [
+    [
+     "3-0",
+     0.116
+    ],
     [
      "2-0",
      0.115
     ],
     [
-     "3-0",
-     0.115
-    ],
-    [
      "4-0",
-     0.086
+     0.087
     ],
     [
      "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.075
+     0.076
     ],
     [
      "3-1",
+     0.075
+    ],
+    [
+     "2-1",
      0.075
     ]
    ]
@@ -8137,43 +6177,43 @@
    "homeCountry": "NED",
    "awayCountry": "ESP",
    "elo": [
-    1822,
-    1680
+    1848,
+    1674
    ],
-   "dr": 231,
-   "H": 0.651,
-   "D": 0.208,
-   "A": 0.141,
+   "dr": 264,
+   "H": 0.69,
+   "D": 0.191,
+   "A": 0.119,
    "xg": [
-    2.2,
-    0.9
+    2.3,
+    0.8
    ],
-   "O25": 0.582,
-   "btts": 0.529,
+   "O25": 0.601,
+   "btts": 0.517,
    "scores": [
     [
      "2-0",
-     0.107
-    ],
-    [
-     "1-1",
-     0.102
+     0.111
     ],
     [
      "1-0",
-     0.098
-    ],
-    [
-     "2-1",
      0.096
     ],
     [
+     "2-1",
+     0.094
+    ],
+    [
+     "1-1",
+     0.094
+    ],
+    [
      "3-0",
-     0.078
+     0.086
     ],
     [
      "3-1",
-     0.07
+     0.073
     ]
    ]
   },
@@ -8193,35 +6233,35 @@
    "homeCountry": "FRA",
    "awayCountry": "GIB",
    "elo": [
-    1874,
-    1259
+    1884,
+    1274
    ],
-   "dr": 705,
-   "H": 0.981,
-   "D": 0.015,
-   "A": 0.003,
+   "dr": 699,
+   "H": 0.98,
+   "D": 0.016,
+   "A": 0.004,
    "xg": [
-    5.4,
+    5.3,
     0.4
    ],
-   "O25": 0.922,
-   "btts": 0.305,
+   "O25": 0.919,
+   "btts": 0.308,
    "scores": [
     [
      "5-0",
-     0.123
+     0.122
     ],
     [
      "4-0",
-     0.114
+     0.115
     ],
     [
      "3-0",
-     0.085
+     0.087
     ],
     [
      "2-0",
-     0.048
+     0.049
     ],
     [
      "5-1",
@@ -8229,7 +6269,7 @@
     ],
     [
      "4-1",
-     0.042
+     0.043
     ]
    ]
   },
@@ -8249,43 +6289,43 @@
    "homeCountry": "DEN",
    "awayCountry": "CRO",
    "elo": [
-    1712,
-    1565
+    1687,
+    1556
    ],
-   "dr": 237,
-   "H": 0.658,
-   "D": 0.205,
-   "A": 0.137,
+   "dr": 221,
+   "H": 0.639,
+   "D": 0.213,
+   "A": 0.148,
    "xg": [
-    2.2,
+    2.1,
     0.9
    ],
-   "O25": 0.585,
-   "btts": 0.527,
+   "O25": 0.576,
+   "btts": 0.533,
    "scores": [
     [
      "2-0",
-     0.108
+     0.105
     ],
     [
      "1-1",
-     0.101
+     0.104
     ],
     [
      "1-0",
-     0.098
+     0.099
     ],
     [
      "2-1",
-     0.096
+     0.097
     ],
     [
      "3-0",
-     0.079
+     0.075
     ],
     [
      "3-1",
-     0.07
+     0.069
     ]
    ]
   },
@@ -8305,19 +6345,19 @@
    "homeCountry": "SRB",
    "awayCountry": "TUR",
    "elo": [
-    1665,
-    1792
+    1666,
+    1778
    ],
-   "dr": -37,
-   "H": 0.321,
-   "D": 0.271,
-   "A": 0.409,
+   "dr": -21,
+   "H": 0.339,
+   "D": 0.272,
+   "A": 0.389,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.518,
-   "btts": 0.569,
+   "O25": 0.517,
+   "btts": 0.57,
    "scores": [
     [
      "1-1",
@@ -8325,19 +6365,19 @@
     ],
     [
      "0-1",
-     0.088
+     0.086
     ],
     [
      "1-2",
-     0.087
+     0.084
     ],
     [
      "1-0",
-     0.077
+     0.079
     ],
     [
      "2-1",
-     0.075
+     0.078
     ],
     [
      "0-0",
@@ -8362,26 +6402,26 @@
    "awayCountry": "NOR",
    "elo": [
     1712,
-    1577
+    1581
    ],
-   "dr": 225,
-   "H": 0.644,
-   "D": 0.211,
-   "A": 0.145,
+   "dr": 221,
+   "H": 0.639,
+   "D": 0.213,
+   "A": 0.148,
    "xg": [
     2.1,
     0.9
    ],
-   "O25": 0.578,
-   "btts": 0.531,
+   "O25": 0.576,
+   "btts": 0.533,
    "scores": [
     [
      "2-0",
-     0.106
+     0.105
     ],
     [
      "1-1",
-     0.103
+     0.104
     ],
     [
      "1-0",
@@ -8393,7 +6433,7 @@
     ],
     [
      "3-0",
-     0.076
+     0.075
     ],
     [
      "3-1",
@@ -8417,23 +6457,23 @@
    "homeCountry": "GRE",
    "awayCountry": "ENG",
    "elo": [
-    1776,
-    2027
+    1783,
+    2026
    ],
-   "dr": -160,
-   "H": 0.197,
-   "D": 0.24,
-   "A": 0.563,
+   "dr": -152,
+   "H": 0.205,
+   "D": 0.243,
+   "A": 0.553,
    "xg": [
     1,
     1.9
    ],
-   "O25": 0.548,
-   "btts": 0.55,
+   "O25": 0.545,
+   "btts": 0.552,
    "scores": [
     [
      "1-1",
-     0.117
+     0.119
     ],
     [
      "0-1",
@@ -8445,14 +6485,14 @@
     ],
     [
      "0-2",
-     0.094
-    ],
-    [
-     "1-3",
-     0.061
+     0.092
     ],
     [
      "0-0",
+     0.061
+    ],
+    [
+     "1-3",
      0.06
     ]
    ]
@@ -8473,19 +6513,19 @@
    "homeCountry": "CYP",
    "awayCountry": "SCO",
    "elo": [
-    1559,
-    1545
+    1553,
+    1533
    ],
-   "dr": 104,
-   "H": 0.492,
-   "D": 0.258,
-   "A": 0.25,
+   "dr": 110,
+   "H": 0.499,
+   "D": 0.257,
+   "A": 0.244,
    "xg": [
     1.7,
     1.1
    ],
-   "O25": 0.53,
-   "btts": 0.561,
+   "O25": 0.532,
+   "btts": 0.56,
    "scores": [
     [
      "1-1",
@@ -8501,15 +6541,15 @@
     ],
     [
      "2-0",
-     0.082
+     0.083
     ],
     [
      "0-0",
-     0.065
+     0.064
     ],
     [
      "0-1",
-     0.064
+     0.063
     ]
    ]
   },
@@ -8529,19 +6569,19 @@
    "homeCountry": "SUI",
    "awayCountry": "BEL",
    "elo": [
-    1678,
+    1684,
     1656
    ],
-   "dr": 112,
-   "H": 0.502,
-   "D": 0.256,
-   "A": 0.242,
+   "dr": 118,
+   "H": 0.51,
+   "D": 0.254,
+   "A": 0.236,
    "xg": [
-    1.7,
+    1.8,
     1.1
    ],
-   "O25": 0.532,
-   "btts": 0.56,
+   "O25": 0.534,
+   "btts": 0.559,
    "scores": [
     [
      "1-1",
@@ -8549,15 +6589,15 @@
     ],
     [
      "1-0",
-     0.096
+     0.097
     ],
     [
      "2-1",
-     0.094
+     0.095
     ],
     [
      "2-0",
-     0.084
+     0.085
     ],
     [
      "0-0",
@@ -8565,7 +6605,7 @@
     ],
     [
      "0-1",
-     0.063
+     0.062
     ]
    ]
   },
@@ -8585,10 +6625,10 @@
    "homeCountry": "NED",
    "awayCountry": "KAZ",
    "elo": [
-    1793,
-    1421
+    1803,
+    1430
    ],
-   "dr": 462,
+   "dr": 463,
    "H": 0.88,
    "D": 0.087,
    "A": 0.033,
@@ -8596,7 +6636,7 @@
     3.4,
     0.6
    ],
-   "O25": 0.749,
+   "O25": 0.75,
    "btts": 0.427,
    "scores": [
     [
@@ -8617,7 +6657,7 @@
     ],
     [
      "5-0",
-     0.069
+     0.07
     ],
     [
      "1-0",
@@ -8641,43 +6681,43 @@
    "homeCountry": "BIH",
    "awayCountry": "LVA",
    "elo": [
-    1425,
-    1457
+    1412,
+    1458
    ],
-   "dr": 58,
-   "H": 0.434,
-   "D": 0.268,
-   "A": 0.298,
+   "dr": 44,
+   "H": 0.417,
+   "D": 0.27,
+   "A": 0.313,
    "xg": [
-    1.6,
+    1.5,
     1.3
    ],
-   "O25": 0.521,
-   "btts": 0.567,
+   "O25": 0.519,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
-     0.131
+     0.132
     ],
     [
      "1-0",
-     0.091
-    ],
-    [
-     "2-1",
      0.089
     ],
     [
+     "2-1",
+     0.087
+    ],
+    [
      "0-1",
-     0.073
+     0.076
     ],
     [
      "1-2",
-     0.072
+     0.074
     ],
     [
      "2-0",
-     0.071
+     0.068
     ]
    ]
   },
@@ -8697,16 +6737,16 @@
    "homeCountry": "ROU",
    "awayCountry": "DEN",
    "elo": [
-    1718,
-    1792
+    1722,
+    1786
    ],
-   "dr": 16,
-   "H": 0.383,
+   "dr": 26,
+   "H": 0.394,
    "D": 0.272,
-   "A": 0.345,
+   "A": 0.334,
    "xg": [
-    1.4,
-    1.4
+    1.5,
+    1.3
    ],
    "O25": 0.517,
    "btts": 0.57,
@@ -8717,19 +6757,19 @@
     ],
     [
      "1-0",
-     0.085
+     0.087
     ],
     [
      "2-1",
-     0.084
+     0.085
     ],
     [
      "0-1",
-     0.08
+     0.079
     ],
     [
      "1-2",
-     0.079
+     0.077
     ],
     [
      "0-0",
@@ -8753,8 +6793,8 @@
    "homeCountry": "CZE",
    "awayCountry": "GEO",
    "elo": [
-    1584,
-    1299
+    1583,
+    1298
    ],
    "dr": 375,
    "H": 0.808,
@@ -8785,7 +6825,7 @@
     ],
     [
      "4-0",
-     0.08
+     0.079
     ],
     [
      "3-1",
@@ -8809,19 +6849,19 @@
    "homeCountry": "DEN",
    "awayCountry": "FIN",
    "elo": [
-    1694,
-    1432
+    1684,
+    1437
    ],
-   "dr": 352,
-   "H": 0.785,
-   "D": 0.144,
-   "A": 0.071,
+   "dr": 336,
+   "H": 0.77,
+   "D": 0.152,
+   "A": 0.078,
    "xg": [
     2.7,
     0.7
    ],
-   "O25": 0.661,
-   "btts": 0.481,
+   "O25": 0.65,
+   "btts": 0.488,
    "scores": [
     [
      "2-0",
@@ -8829,23 +6869,23 @@
     ],
     [
      "3-0",
-     0.107
+     0.103
     ],
     [
      "1-0",
-     0.085
+     0.088
     ],
     [
      "2-1",
-     0.084
+     0.086
     ],
     [
      "3-1",
      0.076
     ],
     [
-     "4-0",
-     0.073
+     "1-1",
+     0.075
     ]
    ]
   },
@@ -8865,23 +6905,23 @@
    "homeCountry": "AND",
    "awayCountry": "DEN",
    "elo": [
-    1332,
-    1636
+    1331,
+    1632
    ],
-   "dr": -214,
-   "H": 0.154,
-   "D": 0.216,
-   "A": 0.63,
+   "dr": -211,
+   "H": 0.156,
+   "D": 0.218,
+   "A": 0.626,
    "xg": [
     0.9,
     2.1
    ],
-   "O25": 0.573,
-   "btts": 0.535,
+   "O25": 0.571,
+   "btts": 0.536,
    "scores": [
     [
      "1-1",
-     0.106
+     0.107
     ],
     [
      "0-2",
@@ -8897,7 +6937,7 @@
     ],
     [
      "0-3",
-     0.073
+     0.072
     ],
     [
      "1-3",
@@ -8922,42 +6962,42 @@
    "awayCountry": "SUI",
    "elo": [
     1487,
-    1500
+    1516
    ],
-   "dr": 77,
-   "H": 0.458,
-   "D": 0.265,
-   "A": 0.278,
+   "dr": 61,
+   "H": 0.438,
+   "D": 0.267,
+   "A": 0.295,
    "xg": [
     1.6,
     1.2
    ],
-   "O25": 0.524,
-   "btts": 0.565,
+   "O25": 0.521,
+   "btts": 0.567,
    "scores": [
     [
      "1-1",
-     0.13
+     0.131
     ],
     [
      "1-0",
-     0.093
-    ],
-    [
-     "2-1",
      0.091
     ],
     [
-     "2-0",
-     0.076
+     "2-1",
+     0.09
     ],
     [
      "0-1",
-     0.07
+     0.072
+    ],
+    [
+     "2-0",
+     0.072
     ],
     [
      "1-2",
-     0.068
+     0.071
     ]
    ]
   },
@@ -8977,43 +7017,43 @@
    "homeCountry": "LTU",
    "awayCountry": "GER",
    "elo": [
-    1289,
-    1814
+    1286,
+    1823
    ],
-   "dr": -436,
-   "H": 0.04,
-   "D": 0.1,
-   "A": 0.86,
+   "dr": -447,
+   "H": 0.037,
+   "D": 0.094,
+   "A": 0.869,
    "xg": [
     0.6,
-    3.2
+    3.3
    ],
-   "O25": 0.727,
-   "btts": 0.441,
+   "O25": 0.737,
+   "btts": 0.435,
    "scores": [
     [
      "0-3",
-     0.12
+     0.121
     ],
     [
      "0-2",
-     0.112
+     0.11
     ],
     [
      "0-4",
-     0.096
+     0.099
     ],
     [
      "1-3",
-     0.073
+     0.072
     ],
     [
      "0-1",
-     0.07
+     0.067
     ],
     [
      "1-2",
-     0.068
+     0.066
     ]
    ]
   },
@@ -9033,13 +7073,13 @@
    "homeCountry": "NOR",
    "awayCountry": "ESP",
    "elo": [
-    1857,
-    1979
+    1856,
+    1976
    ],
-   "dr": -32,
-   "H": 0.326,
+   "dr": -30,
+   "H": 0.329,
    "D": 0.271,
-   "A": 0.403,
+   "A": 0.399,
    "xg": [
     1.3,
     1.5
@@ -9053,7 +7093,7 @@
     ],
     [
      "0-1",
-     0.088
+     0.087
     ],
     [
      "1-2",
@@ -9089,43 +7129,43 @@
    "homeCountry": "TUR",
    "awayCountry": "NED",
    "elo": [
-    1869,
-    1825
+    1865,
+    1832
    ],
-   "dr": 135,
-   "H": 0.531,
-   "D": 0.249,
-   "A": 0.22,
+   "dr": 123,
+   "H": 0.516,
+   "D": 0.253,
+   "A": 0.231,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.539,
-   "btts": 0.556,
+   "O25": 0.535,
+   "btts": 0.558,
    "scores": [
     [
      "1-1",
-     0.122
+     0.124
     ],
     [
      "1-0",
-     0.098
+     0.097
     ],
     [
      "2-1",
-     0.096
+     0.095
     ],
     [
      "2-0",
-     0.089
+     0.086
     ],
     [
      "0-0",
-     0.062
+     0.063
     ],
     [
      "0-1",
-     0.059
+     0.061
     ]
    ]
   },
@@ -9145,19 +7185,19 @@
    "homeCountry": "ESP",
    "awayCountry": "AUT",
    "elo": [
-    2113,
-    1718
+    2110,
+    1712
    ],
-   "dr": 485,
-   "H": 0.896,
-   "D": 0.077,
-   "A": 0.028,
+   "dr": 488,
+   "H": 0.897,
+   "D": 0.076,
+   "A": 0.027,
    "xg": [
     3.5,
     0.6
    ],
-   "O25": 0.768,
-   "btts": 0.415,
+   "O25": 0.77,
+   "btts": 0.414,
    "scores": [
     [
      "3-0",
@@ -9165,7 +7205,7 @@
     ],
     [
      "4-0",
-     0.108
+     0.109
     ],
     [
      "2-0",
@@ -9173,7 +7213,7 @@
     ],
     [
      "5-0",
-     0.076
+     0.077
     ],
     [
      "3-1",
@@ -9201,13 +7241,13 @@
    "homeCountry": "ITA",
    "awayCountry": "ENG",
    "elo": [
-    2048,
-    2055
+    2043,
+    2051
    ],
-   "dr": 84,
-   "H": 0.466,
-   "D": 0.263,
-   "A": 0.271,
+   "dr": 82,
+   "H": 0.464,
+   "D": 0.264,
+   "A": 0.273,
    "xg": [
     1.6,
     1.2
@@ -9233,7 +7273,7 @@
     ],
     [
      "0-1",
-     0.068
+     0.069
     ],
     [
      "1-2",
@@ -9257,16 +7297,16 @@
    "homeCountry": "ENG",
    "awayCountry": "GER",
    "elo": [
-    1927,
-    1955
+    1923,
+    1954
    ],
-   "dr": 63,
-   "H": 0.44,
-   "D": 0.267,
-   "A": 0.293,
+   "dr": 59,
+   "H": 0.435,
+   "D": 0.268,
+   "A": 0.297,
    "xg": [
     1.6,
-    1.2
+    1.3
    ],
    "O25": 0.521,
    "btts": 0.567,
@@ -9277,19 +7317,19 @@
     ],
     [
      "1-0",
-     0.092
+     0.091
     ],
     [
      "2-1",
-     0.09
-    ],
-    [
-     "2-0",
-     0.072
+     0.089
     ],
     [
      "0-1",
-     0.072
+     0.073
+    ],
+    [
+     "2-0",
+     0.071
     ],
     [
      "1-2",
@@ -9313,11 +7353,11 @@
    "homeCountry": "POR",
    "awayCountry": "CZE",
    "elo": [
-    1945,
+    1946,
     1653
    ],
    "dr": 382,
-   "H": 0.814,
+   "H": 0.815,
    "D": 0.127,
    "A": 0.058,
    "xg": [
@@ -9337,7 +7377,7 @@
     ],
     [
      "4-0",
-     0.081
+     0.082
     ],
     [
      "1-0",
@@ -9369,19 +7409,19 @@
    "homeCountry": "FRA",
    "awayCountry": "SVK",
    "elo": [
-    1783,
+    1788,
     1507
    ],
-   "dr": 365,
-   "H": 0.799,
-   "D": 0.136,
-   "A": 0.065,
+   "dr": 370,
+   "H": 0.803,
+   "D": 0.134,
+   "A": 0.063,
    "xg": [
     2.8,
     0.7
    ],
-   "O25": 0.671,
-   "btts": 0.475,
+   "O25": 0.675,
+   "btts": 0.472,
    "scores": [
     [
      "2-0",
@@ -9389,19 +7429,19 @@
     ],
     [
      "3-0",
-     0.109
+     0.11
     ],
     [
      "1-0",
-     0.083
-    ],
-    [
-     "2-1",
      0.082
     ],
     [
+     "2-1",
+     0.081
+    ],
+    [
      "4-0",
-     0.077
+     0.078
     ],
     [
      "3-1",
@@ -9426,12 +7466,12 @@
    "awayCountry": "BEL",
    "elo": [
     1874,
-    1932
+    1935
    ],
-   "dr": 32,
-   "H": 0.402,
+   "dr": 29,
+   "H": 0.398,
    "D": 0.271,
-   "A": 0.327,
+   "A": 0.331,
    "xg": [
     1.5,
     1.3
@@ -9445,11 +7485,11 @@
     ],
     [
      "1-0",
-     0.088
+     0.087
     ],
     [
      "2-1",
-     0.086
+     0.085
     ],
     [
      "0-1",
@@ -9457,7 +7497,7 @@
     ],
     [
      "1-2",
-     0.076
+     0.077
     ],
     [
      "0-0",
@@ -9481,43 +7521,43 @@
    "homeCountry": "GRE",
    "awayCountry": "ITA",
    "elo": [
-    1761,
-    1934
+    1766,
+    1929
    ],
-   "dr": -84,
-   "H": 0.271,
-   "D": 0.263,
-   "A": 0.466,
+   "dr": -72,
+   "H": 0.283,
+   "D": 0.265,
+   "A": 0.452,
    "xg": [
     1.2,
     1.6
    ],
-   "O25": 0.525,
-   "btts": 0.564,
+   "O25": 0.523,
+   "btts": 0.566,
    "scores": [
     [
      "1-1",
-     0.129
+     0.13
     ],
     [
      "0-1",
-     0.094
+     0.093
     ],
     [
      "1-2",
-     0.092
+     0.091
     ],
     [
      "0-2",
-     0.077
+     0.074
     ],
     [
      "1-0",
-     0.068
+     0.07
     ],
     [
      "2-1",
-     0.067
+     0.069
     ]
    ]
   },
@@ -9537,13 +7577,13 @@
    "homeCountry": "TUR",
    "awayCountry": "ESP",
    "elo": [
-    1802,
-    1852
+    1798,
+    1848
    ],
-   "dr": 41,
-   "H": 0.413,
+   "dr": 39,
+   "H": 0.411,
    "D": 0.27,
-   "A": 0.317,
+   "A": 0.319,
    "xg": [
     1.5,
     1.3
@@ -9594,18 +7634,18 @@
    "awayCountry": "ITA",
    "elo": [
     1513,
-    1894
+    1888
    ],
-   "dr": -291,
-   "H": 0.102,
-   "D": 0.177,
-   "A": 0.721,
+   "dr": -285,
+   "H": 0.106,
+   "D": 0.18,
+   "A": 0.714,
    "xg": [
     0.8,
     2.4
    ],
-   "O25": 0.618,
-   "btts": 0.507,
+   "O25": 0.614,
+   "btts": 0.509,
    "scores": [
     [
      "0-2",
@@ -9616,20 +7656,20 @@
      0.094
     ],
     [
-     "0-3",
-     0.093
-    ],
-    [
      "1-2",
      0.092
     ],
     [
+     "0-3",
+     0.091
+    ],
+    [
      "1-1",
-     0.087
+     0.088
     ],
     [
      "1-3",
-     0.075
+     0.074
     ]
    ]
   },
@@ -9649,19 +7689,19 @@
    "homeCountry": "POR",
    "awayCountry": "ESP",
    "elo": [
-    1914,
-    2163
+    1915,
+    2160
    ],
-   "dr": -159,
-   "H": 0.198,
-   "D": 0.24,
-   "A": 0.561,
+   "dr": -155,
+   "H": 0.202,
+   "D": 0.242,
+   "A": 0.557,
    "xg": [
     1,
     1.9
    ],
-   "O25": 0.548,
-   "btts": 0.55,
+   "O25": 0.546,
+   "btts": 0.551,
    "scores": [
     [
      "1-1",
@@ -9677,7 +7717,7 @@
     ],
     [
      "0-2",
-     0.094
+     0.093
     ],
     [
      "1-3",
@@ -9705,35 +7745,35 @@
    "homeCountry": "ENG",
    "awayCountry": "GER",
    "elo": [
-    1978,
+    1974,
     2179
    ],
-   "dr": -111,
-   "H": 0.243,
-   "D": 0.256,
-   "A": 0.501,
+   "dr": -115,
+   "H": 0.239,
+   "D": 0.255,
+   "A": 0.505,
    "xg": [
     1.1,
     1.7
    ],
-   "O25": 0.532,
+   "O25": 0.533,
    "btts": 0.56,
    "scores": [
     [
      "1-1",
-     0.126
+     0.125
     ],
     [
      "0-1",
-     0.096
+     0.097
     ],
     [
      "1-2",
-     0.094
+     0.095
     ],
     [
      "0-2",
-     0.083
+     0.084
     ],
     [
      "0-0",
@@ -9741,7 +7781,7 @@
     ],
     [
      "1-0",
-     0.063
+     0.062
     ]
    ]
   },
@@ -9761,18 +7801,18 @@
    "homeCountry": "ESP",
    "awayCountry": "ENG",
    "elo": [
-    1867,
-    2171
+    1863,
+    2167
    ],
    "dr": -214,
-   "H": 0.153,
-   "D": 0.216,
-   "A": 0.631,
+   "H": 0.154,
+   "D": 0.217,
+   "A": 0.63,
    "xg": [
     0.9,
     2.1
    ],
-   "O25": 0.573,
+   "O25": 0.572,
    "btts": 0.535,
    "scores": [
     [
@@ -9817,12 +7857,12 @@
    "homeCountry": "GER",
    "awayCountry": "UKR",
    "elo": [
-    1876,
+    1875,
     1750
    ],
    "dr": 216,
-   "H": 0.633,
-   "D": 0.215,
+   "H": 0.632,
+   "D": 0.216,
    "A": 0.152,
    "xg": [
     2.1,
@@ -9833,11 +7873,11 @@
    "scores": [
     [
      "1-1",
-     0.105
+     0.106
     ],
     [
      "2-0",
-     0.105
+     0.104
     ],
     [
      "1-0",
@@ -9873,19 +7913,19 @@
    "homeCountry": "ITA",
    "awayCountry": "FRA",
    "elo": [
-    1981,
-    2111
+    1975,
+    2116
    ],
-   "dr": -41,
-   "H": 0.317,
-   "D": 0.27,
-   "A": 0.413,
+   "dr": -51,
+   "H": 0.305,
+   "D": 0.269,
+   "A": 0.426,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.519,
-   "btts": 0.569,
+   "O25": 0.52,
+   "btts": 0.568,
    "scores": [
     [
      "1-1",
@@ -9893,23 +7933,23 @@
     ],
     [
      "0-1",
-     0.089
+     0.09
     ],
     [
      "1-2",
-     0.087
+     0.088
     ],
     [
      "1-0",
-     0.076
+     0.074
     ],
     [
      "2-1",
-     0.075
+     0.073
     ],
     [
-     "0-0",
-     0.068
+     "0-2",
+     0.07
     ]
    ]
   },
@@ -9929,31 +7969,31 @@
    "homeCountry": "FRA",
    "awayCountry": "ENG",
    "elo": [
-    1796,
-    2145
+    1801,
+    2141
    ],
-   "dr": -259,
-   "H": 0.122,
-   "D": 0.194,
-   "A": 0.684,
+   "dr": -250,
+   "H": 0.128,
+   "D": 0.199,
+   "A": 0.674,
    "xg": [
     0.9,
     2.3
    ],
-   "O25": 0.598,
-   "btts": 0.519,
+   "O25": 0.592,
+   "btts": 0.523,
    "scores": [
     [
      "0-2",
-     0.111
+     0.11
+    ],
+    [
+     "1-1",
+     0.097
     ],
     [
      "0-1",
      0.097
-    ],
-    [
-     "1-1",
-     0.095
     ],
     [
      "1-2",
@@ -9961,7 +8001,7 @@
     ],
     [
      "0-3",
-     0.085
+     0.082
     ],
     [
      "1-3",
@@ -9985,19 +8025,19 @@
    "homeCountry": "NOR",
    "awayCountry": "NED",
    "elo": [
-    1716,
-    1826
+    1715,
+    1833
    ],
-   "dr": -20,
-   "H": 0.34,
-   "D": 0.272,
-   "A": 0.388,
+   "dr": -28,
+   "H": 0.332,
+   "D": 0.271,
+   "A": 0.397,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.517,
-   "btts": 0.57,
+   "O25": 0.518,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
@@ -10005,19 +8045,19 @@
     ],
     [
      "0-1",
-     0.086
+     0.087
     ],
     [
      "1-2",
-     0.084
+     0.085
     ],
     [
      "1-0",
-     0.08
+     0.078
     ],
     [
      "2-1",
-     0.078
+     0.077
     ],
     [
      "0-0",
@@ -10041,13 +8081,13 @@
    "homeCountry": "GRE",
    "awayCountry": "GER",
    "elo": [
-    1775,
-    1826
+    1781,
+    1828
    ],
-   "dr": 39,
-   "H": 0.411,
+   "dr": 43,
+   "H": 0.416,
    "D": 0.27,
-   "A": 0.319,
+   "A": 0.314,
    "xg": [
     1.5,
     1.3
@@ -10073,10 +8113,10 @@
     ],
     [
      "1-2",
-     0.075
+     0.074
     ],
     [
-     "0-0",
+     "2-0",
      0.068
     ]
    ]
@@ -10097,27 +8137,27 @@
    "homeCountry": "ESP",
    "awayCountry": "CZE",
    "elo": [
-    1822,
-    1703
+    1817,
+    1709
    ],
-   "dr": 209,
-   "H": 0.624,
-   "D": 0.219,
-   "A": 0.157,
+   "dr": 198,
+   "H": 0.611,
+   "D": 0.224,
+   "A": 0.166,
    "xg": [
-    2.1,
-    0.9
+    2,
+    1
    ],
-   "O25": 0.57,
-   "btts": 0.536,
+   "O25": 0.565,
+   "btts": 0.54,
    "scores": [
     [
      "1-1",
-     0.107
+     0.11
     ],
     [
      "2-0",
-     0.103
+     0.101
     ],
     [
      "1-0",
@@ -10129,11 +8169,11 @@
     ],
     [
      "3-0",
-     0.072
+     0.069
     ],
     [
      "3-1",
-     0.068
+     0.066
     ]
    ]
   },
@@ -10153,43 +8193,43 @@
    "homeCountry": "HUN",
    "awayCountry": "ITA",
    "elo": [
-    1767,
+    1795,
     1943
    ],
-   "dr": -86,
-   "H": 0.268,
-   "D": 0.263,
-   "A": 0.469,
+   "dr": -58,
+   "H": 0.298,
+   "D": 0.268,
+   "A": 0.434,
    "xg": [
-    1.2,
+    1.3,
     1.6
    ],
-   "O25": 0.526,
-   "btts": 0.564,
+   "O25": 0.521,
+   "btts": 0.567,
    "scores": [
     [
      "1-1",
-     0.129
+     0.131
     ],
     [
      "0-1",
-     0.094
+     0.091
     ],
     [
      "1-2",
-     0.092
-    ],
-    [
-     "0-2",
-     0.078
+     0.089
     ],
     [
      "1-0",
-     0.068
+     0.073
     ],
     [
      "2-1",
-     0.066
+     0.071
+    ],
+    [
+     "0-2",
+     0.071
     ]
    ]
   },
@@ -10209,43 +8249,43 @@
    "homeCountry": "AUT",
    "awayCountry": "GRE",
    "elo": [
-    1616,
-    1443
+    1599,
+    1470
    ],
-   "dr": 263,
-   "H": 0.689,
-   "D": 0.192,
-   "A": 0.119,
+   "dr": 218,
+   "H": 0.635,
+   "D": 0.214,
+   "A": 0.15,
    "xg": [
-    2.3,
-    0.8
+    2.1,
+    0.9
    ],
-   "O25": 0.6,
-   "btts": 0.518,
+   "O25": 0.575,
+   "btts": 0.533,
    "scores": [
     [
+     "1-1",
+     0.105
+    ],
+    [
      "2-0",
-     0.111
+     0.105
     ],
     [
      "1-0",
-     0.096
+     0.099
     ],
     [
      "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.094
+     0.097
     ],
     [
      "3-0",
-     0.086
+     0.074
     ],
     [
      "3-1",
-     0.073
+     0.069
     ]
    ]
   },
@@ -10265,43 +8305,43 @@
    "homeCountry": "POL",
    "awayCountry": "FRA",
    "elo": [
-    1575,
-    1831
+    1567,
+    1837
    ],
-   "dr": -166,
-   "H": 0.192,
-   "D": 0.237,
-   "A": 0.57,
+   "dr": -181,
+   "H": 0.18,
+   "D": 0.231,
+   "A": 0.589,
    "xg": [
     1,
-    1.9
+    2
    ],
-   "O25": 0.551,
-   "btts": 0.549,
+   "O25": 0.557,
+   "btts": 0.545,
    "scores": [
     [
      "1-1",
-     0.116
+     0.113
     ],
     [
      "0-1",
      0.099
     ],
     [
+     "0-2",
+     0.098
+    ],
+    [
      "1-2",
      0.097
     ],
     [
-     "0-2",
-     0.095
+     "0-3",
+     0.065
     ],
     [
      "1-3",
-     0.062
-    ],
-    [
-     "0-3",
-     0.061
+     0.064
     ]
    ]
   },
@@ -10321,43 +8361,43 @@
    "homeCountry": "TUR",
    "awayCountry": "BEL",
    "elo": [
-    1826,
-    1858
+    1812,
+    1870
    ],
-   "dr": 58,
-   "H": 0.434,
-   "D": 0.268,
-   "A": 0.298,
+   "dr": 33,
+   "H": 0.403,
+   "D": 0.271,
+   "A": 0.326,
    "xg": [
-    1.6,
+    1.5,
     1.3
    ],
-   "O25": 0.521,
-   "btts": 0.567,
+   "O25": 0.518,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
-     0.131
+     0.133
     ],
     [
      "1-0",
-     0.091
+     0.088
     ],
     [
      "2-1",
-     0.089
+     0.086
     ],
     [
      "0-1",
-     0.073
+     0.078
     ],
     [
      "1-2",
-     0.071
+     0.076
     ],
     [
-     "2-0",
-     0.071
+     "0-0",
+     0.068
     ]
    ]
   },
@@ -10377,39 +8417,39 @@
    "homeCountry": "NED",
    "awayCountry": "POR",
    "elo": [
-    1633,
-    2026
+    1649,
+    2029
    ],
-   "dr": -303,
-   "H": 0.096,
-   "D": 0.171,
-   "A": 0.734,
+   "dr": -289,
+   "H": 0.103,
+   "D": 0.178,
+   "A": 0.719,
    "xg": [
     0.8,
-    2.5
+    2.4
    ],
-   "O25": 0.626,
-   "btts": 0.502,
+   "O25": 0.617,
+   "btts": 0.508,
    "scores": [
     [
      "0-2",
-     0.115
-    ],
-    [
-     "0-3",
-     0.096
+     0.114
     ],
     [
      "0-1",
+     0.094
+    ],
+    [
+     "0-3",
      0.092
     ],
     [
      "1-2",
-     0.091
+     0.092
     ],
     [
      "1-1",
-     0.084
+     0.087
     ],
     [
      "1-3",
@@ -10433,19 +8473,19 @@
    "homeCountry": "NOR",
    "awayCountry": "ENG",
    "elo": [
-    1534,
-    1989
+    1527,
+    1990
    ],
-   "dr": -365,
-   "H": 0.065,
-   "D": 0.137,
-   "A": 0.798,
+   "dr": -374,
+   "H": 0.062,
+   "D": 0.132,
+   "A": 0.806,
    "xg": [
     0.7,
-    2.8
+    2.9
    ],
-   "O25": 0.671,
-   "btts": 0.475,
+   "O25": 0.678,
+   "btts": 0.471,
    "scores": [
     [
      "0-2",
@@ -10453,19 +8493,19 @@
     ],
     [
      "0-3",
-     0.109
+     0.111
     ],
     [
      "0-1",
-     0.083
-    ],
-    [
-     "1-2",
      0.082
     ],
     [
+     "1-2",
+     0.08
+    ],
+    [
      "0-4",
-     0.077
+     0.079
     ],
     [
      "1-3",
@@ -10489,16 +8529,16 @@
    "homeCountry": "ARM",
    "awayCountry": "SVN",
    "elo": [
-    1427,
-    1516
+    1419,
+    1531
    ],
-   "dr": 0,
-   "H": 0.364,
+   "dr": -22,
+   "H": 0.338,
    "D": 0.272,
-   "A": 0.363,
+   "A": 0.39,
    "xg": [
-    1.4,
-    1.4
+    1.3,
+    1.5
    ],
    "O25": 0.517,
    "btts": 0.57,
@@ -10508,20 +8548,20 @@
      0.133
     ],
     [
-     "1-0",
-     0.083
-    ],
-    [
      "0-1",
-     0.083
-    ],
-    [
-     "2-1",
-     0.081
+     0.086
     ],
     [
      "1-2",
-     0.081
+     0.085
+    ],
+    [
+     "1-0",
+     0.079
+    ],
+    [
+     "2-1",
+     0.078
     ],
     [
      "0-0",
@@ -10545,19 +8585,19 @@
    "homeCountry": "GER",
    "awayCountry": "AUT",
    "elo": [
-    1972,
-    1736
+    1958,
+    1721
    ],
-   "dr": 325,
-   "H": 0.758,
-   "D": 0.158,
-   "A": 0.084,
+   "dr": 327,
+   "H": 0.76,
+   "D": 0.157,
+   "A": 0.083,
    "xg": [
     2.6,
     0.8
    ],
-   "O25": 0.641,
-   "btts": 0.493,
+   "O25": 0.643,
+   "btts": 0.492,
    "scores": [
     [
      "2-0",
@@ -10573,11 +8613,11 @@
     ],
     [
      "2-1",
-     0.088
+     0.087
     ],
     [
      "1-1",
-     0.078
+     0.077
     ],
     [
      "3-1",
@@ -10601,43 +8641,43 @@
    "homeCountry": "NED",
    "awayCountry": "CRO",
    "elo": [
-    1750,
-    1704
+    1751,
+    1729
    ],
-   "dr": 136,
-   "H": 0.532,
-   "D": 0.249,
-   "A": 0.219,
+   "dr": 112,
+   "H": 0.502,
+   "D": 0.256,
+   "A": 0.242,
    "xg": [
-    1.8,
+    1.7,
     1.1
    ],
-   "O25": 0.539,
-   "btts": 0.556,
+   "O25": 0.532,
+   "btts": 0.56,
    "scores": [
     [
      "1-1",
-     0.122
+     0.125
     ],
     [
      "1-0",
-     0.098
-    ],
-    [
-     "2-1",
      0.096
     ],
     [
+     "2-1",
+     0.094
+    ],
+    [
      "2-0",
-     0.089
+     0.083
     ],
     [
      "0-0",
-     0.062
+     0.064
     ],
     [
      "0-1",
-     0.058
+     0.063
     ]
    ]
   },
@@ -10657,19 +8697,19 @@
    "homeCountry": "SCO",
    "awayCountry": "FRA",
    "elo": [
-    1683,
-    1799
+    1691,
+    1817
    ],
-   "dr": -26,
-   "H": 0.333,
-   "D": 0.272,
-   "A": 0.395,
+   "dr": -36,
+   "H": 0.323,
+   "D": 0.271,
+   "A": 0.407,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.517,
-   "btts": 0.57,
+   "O25": 0.518,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
@@ -10677,19 +8717,19 @@
     ],
     [
      "0-1",
-     0.087
+     0.088
     ],
     [
      "1-2",
-     0.085
+     0.086
     ],
     [
      "1-0",
-     0.079
+     0.077
     ],
     [
      "2-1",
-     0.077
+     0.075
     ],
     [
      "0-0",
@@ -10713,43 +8753,43 @@
    "homeCountry": "FRA",
    "awayCountry": "CYP",
    "elo": [
-    1805,
-    1609
+    1809,
+    1597
    ],
-   "dr": 286,
-   "H": 0.715,
-   "D": 0.18,
-   "A": 0.105,
+   "dr": 303,
+   "H": 0.734,
+   "D": 0.171,
+   "A": 0.096,
    "xg": [
-    2.4,
+    2.5,
     0.8
    ],
-   "O25": 0.614,
-   "btts": 0.509,
+   "O25": 0.626,
+   "btts": 0.502,
    "scores": [
     [
      "2-0",
-     0.114
-    ],
-    [
-     "1-0",
-     0.094
-    ],
-    [
-     "2-1",
-     0.092
+     0.115
     ],
     [
      "3-0",
+     0.096
+    ],
+    [
+     "1-0",
+     0.092
+    ],
+    [
+     "2-1",
      0.091
     ],
     [
      "1-1",
-     0.088
+     0.084
     ],
     [
      "3-1",
-     0.074
+     0.075
     ]
    ]
   },
@@ -10769,43 +8809,43 @@
    "homeCountry": "BEL",
    "awayCountry": "ENG",
    "elo": [
-    1741,
-    1880
+    1754,
+    1853
    ],
-   "dr": -48,
-   "H": 0.309,
-   "D": 0.269,
-   "A": 0.422,
+   "dr": -9,
+   "H": 0.353,
+   "D": 0.272,
+   "A": 0.374,
    "xg": [
-    1.3,
-    1.5
+    1.4,
+    1.4
    ],
-   "O25": 0.52,
-   "btts": 0.568,
+   "O25": 0.517,
+   "btts": 0.57,
    "scores": [
     [
      "1-1",
-     0.132
+     0.133
     ],
     [
      "0-1",
-     0.09
+     0.084
     ],
     [
      "1-2",
-     0.088
+     0.083
     ],
     [
      "1-0",
-     0.075
+     0.081
     ],
     [
      "2-1",
-     0.073
+     0.08
     ],
     [
-     "0-2",
-     0.069
+     "0-0",
+     0.068
     ]
    ]
   },
@@ -10825,19 +8865,19 @@
    "homeCountry": "POL",
    "awayCountry": "POR",
    "elo": [
-    1702,
-    1426
+    1697,
+    1434
    ],
-   "dr": 366,
-   "H": 0.799,
-   "D": 0.136,
-   "A": 0.065,
+   "dr": 354,
+   "H": 0.787,
+   "D": 0.143,
+   "A": 0.07,
    "xg": [
-    2.8,
+    2.7,
     0.7
    ],
-   "O25": 0.671,
-   "btts": 0.474,
+   "O25": 0.662,
+   "btts": 0.48,
    "scores": [
     [
      "2-0",
@@ -10845,23 +8885,23 @@
     ],
     [
      "3-0",
-     0.109
+     0.107
     ],
     [
      "1-0",
-     0.083
+     0.085
     ],
     [
      "2-1",
-     0.081
-    ],
-    [
-     "4-0",
-     0.077
+     0.083
     ],
     [
      "3-1",
      0.076
+    ],
+    [
+     "4-0",
+     0.073
     ]
    ]
   },
@@ -10881,11 +8921,11 @@
    "homeCountry": "ENG",
    "awayCountry": "CZE",
    "elo": [
-    1829,
-    1667
+    1823,
+    1661
    ],
    "dr": 252,
-   "H": 0.676,
+   "H": 0.675,
    "D": 0.198,
    "A": 0.127,
    "xg": [
@@ -10937,43 +8977,43 @@
    "homeCountry": "ISR",
    "awayCountry": "ESP",
    "elo": [
-    1589,
-    1803
+    1562,
+    1791
    ],
-   "dr": -124,
-   "H": 0.23,
-   "D": 0.252,
-   "A": 0.517,
+   "dr": -139,
+   "H": 0.216,
+   "D": 0.247,
+   "A": 0.536,
    "xg": [
     1.1,
     1.8
    ],
-   "O25": 0.536,
-   "btts": 0.558,
+   "O25": 0.541,
+   "btts": 0.555,
    "scores": [
     [
      "1-1",
-     0.124
+     0.121
     ],
     [
      "0-1",
-     0.097
+     0.098
     ],
     [
      "1-2",
-     0.095
+     0.096
     ],
     [
      "0-2",
-     0.086
+     0.089
     ],
     [
      "0-0",
-     0.063
+     0.062
     ],
     [
-     "1-0",
-     0.061
+     "1-3",
+     0.058
     ]
    ]
   },
@@ -10993,43 +9033,43 @@
    "homeCountry": "BUL",
    "awayCountry": "ITA",
    "elo": [
-    1575,
-    1941
+    1582,
+    1913
    ],
-   "dr": -276,
-   "H": 0.111,
-   "D": 0.185,
-   "A": 0.704,
+   "dr": -241,
+   "H": 0.134,
+   "D": 0.203,
+   "A": 0.663,
    "xg": [
-    0.8,
-    2.4
+    0.9,
+    2.2
    ],
-   "O25": 0.608,
-   "btts": 0.513,
+   "O25": 0.587,
+   "btts": 0.526,
    "scores": [
     [
      "0-2",
-     0.113
-    ],
-    [
-     "0-1",
-     0.095
-    ],
-    [
-     "1-2",
-     0.093
+     0.108
     ],
     [
      "1-1",
-     0.091
+     0.1
+    ],
+    [
+     "0-1",
+     0.098
+    ],
+    [
+     "1-2",
+     0.096
     ],
     [
      "0-3",
-     0.089
+     0.08
     ],
     [
      "1-3",
-     0.074
+     0.071
     ]
    ]
   },
@@ -11049,19 +9089,19 @@
    "homeCountry": "FRA",
    "awayCountry": "TUR",
    "elo": [
-    2111,
-    1869
+    2116,
+    1865
    ],
-   "dr": 332,
-   "H": 0.765,
-   "D": 0.155,
-   "A": 0.081,
+   "dr": 341,
+   "H": 0.775,
+   "D": 0.149,
+   "A": 0.076,
    "xg": [
-    2.6,
+    2.7,
     0.7
    ],
-   "O25": 0.646,
-   "btts": 0.49,
+   "O25": 0.653,
+   "btts": 0.486,
    "scores": [
     [
      "2-0",
@@ -11069,15 +9109,15 @@
     ],
     [
      "3-0",
-     0.102
+     0.104
     ],
     [
      "1-0",
-     0.089
+     0.087
     ],
     [
      "2-1",
-     0.087
+     0.085
     ],
     [
      "3-1",
@@ -11085,7 +9125,7 @@
     ],
     [
      "1-1",
-     0.076
+     0.073
     ]
    ]
   },
@@ -11106,18 +9146,18 @@
    "awayCountry": "ESP",
    "elo": [
     2179,
-    1867
+    1863
    ],
-   "dr": 403,
-   "H": 0.833,
-   "D": 0.117,
-   "A": 0.051,
+   "dr": 406,
+   "H": 0.835,
+   "D": 0.115,
+   "A": 0.05,
    "xg": [
     3,
-    0.7
+    0.6
    ],
-   "O25": 0.7,
-   "btts": 0.457,
+   "O25": 0.703,
+   "btts": 0.456,
    "scores": [
     [
      "3-0",
@@ -11129,7 +9169,7 @@
     ],
     [
      "4-0",
-     0.087
+     0.088
     ],
     [
      "1-0",
@@ -11141,7 +9181,7 @@
     ],
     [
      "2-1",
-     0.075
+     0.074
     ]
    ]
   },
@@ -11161,19 +9201,19 @@
    "homeCountry": "ENG",
    "awayCountry": "FRA",
    "elo": [
-    2055,
-    1796
+    2051,
+    1801
    ],
-   "dr": 348,
-   "H": 0.782,
-   "D": 0.146,
-   "A": 0.073,
+   "dr": 339,
+   "H": 0.773,
+   "D": 0.151,
+   "A": 0.077,
    "xg": [
     2.7,
     0.7
    ],
-   "O25": 0.658,
-   "btts": 0.483,
+   "O25": 0.652,
+   "btts": 0.486,
    "scores": [
     [
      "2-0",
@@ -11181,23 +9221,23 @@
     ],
     [
      "3-0",
-     0.106
+     0.104
     ],
     [
      "1-0",
-     0.086
+     0.087
     ],
     [
      "2-1",
-     0.084
+     0.086
     ],
     [
      "3-1",
      0.076
     ],
     [
-     "4-0",
-     0.072
+     "1-1",
+     0.074
     ]
    ]
   },
@@ -11217,19 +9257,19 @@
    "homeCountry": "ENG",
    "awayCountry": "POR",
    "elo": [
-    2145,
-    1914
+    2141,
+    1915
    ],
-   "dr": 321,
-   "H": 0.753,
-   "D": 0.161,
-   "A": 0.086,
+   "dr": 317,
+   "H": 0.749,
+   "D": 0.163,
+   "A": 0.088,
    "xg": [
     2.6,
     0.8
    ],
-   "O25": 0.638,
-   "btts": 0.495,
+   "O25": 0.635,
+   "btts": 0.496,
    "scores": [
     [
      "2-0",
@@ -11237,19 +9277,19 @@
     ],
     [
      "3-0",
-     0.1
+     0.099
     ],
     [
      "1-0",
-     0.09
+     0.091
     ],
     [
      "2-1",
-     0.088
+     0.089
     ],
     [
      "1-1",
-     0.079
+     0.08
     ],
     [
      "3-1",
@@ -11273,19 +9313,19 @@
    "homeCountry": "ENG",
    "awayCountry": "AZE",
    "elo": [
-    2171,
+    2167,
     1513
    ],
-   "dr": 748,
-   "H": 0.988,
-   "D": 0.01,
+   "dr": 744,
+   "H": 0.987,
+   "D": 0.011,
    "A": 0.002,
    "xg": [
     5.8,
     0.3
    ],
-   "O25": 0.942,
-   "btts": 0.285,
+   "O25": 0.94,
+   "btts": 0.287,
    "scores": [
     [
      "5-0",
@@ -11293,23 +9333,23 @@
     ],
     [
      "4-0",
-     0.105
+     0.106
     ],
     [
      "3-0",
-     0.072
+     0.073
     ],
     [
      "5-1",
-     0.041
+     0.042
     ],
     [
      "2-0",
-     0.037
+     0.038
     ],
     [
      "4-1",
-     0.035
+     0.036
     ]
    ]
   },
@@ -11329,31 +9369,31 @@
    "homeCountry": "ESP",
    "awayCountry": "ITA",
    "elo": [
-    2163,
-    1981
+    2160,
+    1975
    ],
-   "dr": 273,
-   "H": 0.7,
-   "D": 0.187,
-   "A": 0.113,
+   "dr": 275,
+   "H": 0.703,
+   "D": 0.185,
+   "A": 0.112,
    "xg": [
     2.4,
     0.8
    ],
-   "O25": 0.606,
-   "btts": 0.514,
+   "O25": 0.608,
+   "btts": 0.513,
    "scores": [
     [
      "2-0",
-     0.112
+     0.113
     ],
     [
      "1-0",
-     0.096
+     0.095
     ],
     [
      "2-1",
-     0.094
+     0.093
     ],
     [
      "1-1",
@@ -11361,11 +9401,11 @@
     ],
     [
      "3-0",
-     0.088
+     0.089
     ],
     [
      "3-1",
-     0.073
+     0.074
     ]
    ]
   },
@@ -11385,13 +9425,13 @@
    "homeCountry": "ESP",
    "awayCountry": "TUR",
    "elo": [
-    1979,
-    1802
+    1976,
+    1798
    ],
-   "dr": 267,
-   "H": 0.694,
-   "D": 0.19,
-   "A": 0.117,
+   "dr": 268,
+   "H": 0.695,
+   "D": 0.189,
+   "A": 0.116,
    "xg": [
     2.3,
     0.8
@@ -11441,39 +9481,39 @@
    "homeCountry": "GER",
    "awayCountry": "GRE",
    "elo": [
-    1955,
-    1761
+    1954,
+    1766
    ],
-   "dr": 284,
-   "H": 0.713,
-   "D": 0.181,
-   "A": 0.106,
+   "dr": 278,
+   "H": 0.706,
+   "D": 0.184,
+   "A": 0.11,
    "xg": [
     2.4,
     0.8
    ],
-   "O25": 0.613,
-   "btts": 0.51,
+   "O25": 0.609,
+   "btts": 0.512,
    "scores": [
     [
      "2-0",
-     0.114
+     0.113
     ],
     [
      "1-0",
-     0.094
+     0.095
     ],
     [
      "2-1",
      0.093
     ],
     [
-     "3-0",
-     0.091
+     "1-1",
+     0.09
     ],
     [
-     "1-1",
-     0.088
+     "3-0",
+     0.09
     ],
     [
      "3-1",
@@ -11497,27 +9537,27 @@
    "homeCountry": "ITA",
    "awayCountry": "FRA",
    "elo": [
-    1934,
-    1783
+    1929,
+    1788
    ],
-   "dr": 242,
-   "H": 0.664,
-   "D": 0.203,
-   "A": 0.134,
+   "dr": 231,
+   "H": 0.651,
+   "D": 0.208,
+   "A": 0.141,
    "xg": [
     2.2,
     0.9
    ],
-   "O25": 0.587,
-   "btts": 0.526,
+   "O25": 0.581,
+   "btts": 0.529,
    "scores": [
     [
      "2-0",
-     0.108
+     0.107
     ],
     [
      "1-1",
-     0.099
+     0.102
     ],
     [
      "1-0",
@@ -11529,11 +9569,11 @@
     ],
     [
      "3-0",
-     0.08
+     0.077
     ],
     [
      "3-1",
-     0.071
+     0.07
     ]
    ]
   },
@@ -11553,23 +9593,23 @@
    "homeCountry": "BEL",
    "awayCountry": "NOR",
    "elo": [
-    1932,
-    1857
+    1935,
+    1856
    ],
-   "dr": 165,
-   "H": 0.569,
-   "D": 0.238,
-   "A": 0.193,
+   "dr": 169,
+   "H": 0.573,
+   "D": 0.236,
+   "A": 0.19,
    "xg": [
     1.9,
     1
    ],
-   "O25": 0.55,
-   "btts": 0.549,
+   "O25": 0.552,
+   "btts": 0.548,
    "scores": [
     [
      "1-1",
-     0.117
+     0.116
     ],
     [
      "1-0",
@@ -11581,15 +9621,15 @@
     ],
     [
      "2-0",
-     0.095
+     0.096
     ],
     [
      "3-1",
-     0.062
+     0.063
     ],
     [
      "3-0",
-     0.061
+     0.062
     ]
    ]
   },
@@ -11609,19 +9649,19 @@
    "homeCountry": "NED",
    "awayCountry": "GER",
    "elo": [
-    1826,
+    1833,
     1874
    ],
-   "dr": 42,
-   "H": 0.415,
-   "D": 0.27,
-   "A": 0.315,
+   "dr": 49,
+   "H": 0.423,
+   "D": 0.269,
+   "A": 0.308,
    "xg": [
     1.5,
     1.3
    ],
-   "O25": 0.519,
-   "btts": 0.569,
+   "O25": 0.52,
+   "btts": 0.568,
    "scores": [
     [
      "1-1",
@@ -11629,23 +9669,23 @@
     ],
     [
      "1-0",
-     0.089
+     0.09
     ],
     [
      "2-1",
-     0.087
+     0.088
     ],
     [
      "0-1",
-     0.076
+     0.075
     ],
     [
      "1-2",
-     0.074
+     0.073
     ],
     [
      "2-0",
-     0.068
+     0.069
     ]
    ]
   },
@@ -11665,19 +9705,19 @@
    "homeCountry": "NED",
    "awayCountry": "GER",
    "elo": [
-    1825,
-    1876
+    1832,
+    1875
    ],
-   "dr": 39,
-   "H": 0.411,
+   "dr": 46,
+   "H": 0.419,
    "D": 0.27,
-   "A": 0.319,
+   "A": 0.311,
    "xg": [
     1.5,
     1.3
    ],
    "O25": 0.519,
-   "btts": 0.569,
+   "btts": 0.568,
    "scores": [
     [
      "1-1",
@@ -11685,22 +9725,22 @@
     ],
     [
      "1-0",
-     0.089
+     0.09
     ],
     [
      "2-1",
-     0.087
+     0.088
     ],
     [
      "0-1",
-     0.076
-    ],
-    [
-     "1-2",
      0.075
     ],
     [
-     "0-0",
+     "1-2",
+     0.074
+    ],
+    [
+     "2-0",
      0.068
     ]
    ]
@@ -11721,23 +9761,23 @@
    "homeCountry": "ITA",
    "awayCountry": "NOR",
    "elo": [
-    1894,
-    1716
+    1888,
+    1715
    ],
-   "dr": 268,
-   "H": 0.695,
-   "D": 0.189,
-   "A": 0.116,
+   "dr": 263,
+   "H": 0.689,
+   "D": 0.192,
+   "A": 0.119,
    "xg": [
     2.3,
     0.8
    ],
-   "O25": 0.603,
-   "btts": 0.516,
+   "O25": 0.6,
+   "btts": 0.518,
    "scores": [
     [
      "2-0",
-     0.112
+     0.111
     ],
     [
      "1-0",
@@ -11749,11 +9789,11 @@
     ],
     [
      "1-1",
-     0.093
+     0.094
     ],
     [
      "3-0",
-     0.087
+     0.086
     ],
     [
      "3-1",
@@ -11777,11 +9817,11 @@
    "homeCountry": "ESP",
    "awayCountry": "ENG",
    "elo": [
-    1852,
-    1978
+    1848,
+    1974
    ],
    "dr": -36,
-   "H": 0.322,
+   "H": 0.323,
    "D": 0.271,
    "A": 0.407,
    "xg": [
@@ -11834,26 +9874,26 @@
    "awayCountry": "ESP",
    "elo": [
     1750,
-    2113
+    2110
    ],
-   "dr": -274,
-   "H": 0.113,
-   "D": 0.186,
-   "A": 0.701,
+   "dr": -270,
+   "H": 0.115,
+   "D": 0.188,
+   "A": 0.697,
    "xg": [
     0.8,
-    2.4
+    2.3
    ],
-   "O25": 0.607,
-   "btts": 0.514,
+   "O25": 0.605,
+   "btts": 0.515,
    "scores": [
     [
      "0-2",
-     0.113
+     0.112
     ],
     [
      "0-1",
-     0.095
+     0.096
     ],
     [
      "1-2",
@@ -11861,7 +9901,7 @@
     ],
     [
      "1-1",
-     0.091
+     0.092
     ],
     [
      "0-3",
@@ -11869,7 +9909,7 @@
     ],
     [
      "1-3",
-     0.074
+     0.073
     ]
    ]
   },
@@ -11890,18 +9930,18 @@
    "awayCountry": "ENG",
    "elo": [
     1653,
-    1927
+    1923
    ],
-   "dr": -184,
-   "H": 0.177,
-   "D": 0.23,
-   "A": 0.593,
+   "dr": -180,
+   "H": 0.18,
+   "D": 0.232,
+   "A": 0.588,
    "xg": [
     1,
     2
    ],
-   "O25": 0.558,
-   "btts": 0.544,
+   "O25": 0.557,
+   "btts": 0.545,
    "scores": [
     [
      "1-1",
@@ -11913,7 +9953,7 @@
     ],
     [
      "0-2",
-     0.099
+     0.098
     ],
     [
      "1-2",
@@ -11921,11 +9961,11 @@
     ],
     [
      "0-3",
-     0.065
+     0.064
     ],
     [
      "1-3",
-     0.065
+     0.064
     ]
    ]
   },
@@ -11946,18 +9986,18 @@
    "awayCountry": "ITA",
    "elo": [
     1507,
-    2048
+    2043
    ],
-   "dr": -451,
-   "H": 0.036,
-   "D": 0.093,
-   "A": 0.872,
+   "dr": -445,
+   "H": 0.037,
+   "D": 0.095,
+   "A": 0.867,
    "xg": [
     0.6,
     3.3
    ],
-   "O25": 0.74,
-   "btts": 0.433,
+   "O25": 0.735,
+   "btts": 0.436,
    "scores": [
     [
      "0-3",
@@ -11965,11 +10005,11 @@
     ],
     [
      "0-2",
-     0.11
+     0.111
     ],
     [
      "0-4",
-     0.1
+     0.099
     ],
     [
      "1-3",
@@ -11977,10 +10017,10 @@
     ],
     [
      "0-1",
-     0.066
+     0.068
     ],
     [
-     "0-5",
+     "1-2",
      0.066
     ]
    ]
@@ -12001,23 +10041,23 @@
    "homeCountry": "AUT",
    "awayCountry": "POR",
    "elo": [
-    1718,
-    1945
+    1712,
+    1946
    ],
-   "dr": -138,
-   "H": 0.218,
-   "D": 0.248,
-   "A": 0.534,
+   "dr": -143,
+   "H": 0.212,
+   "D": 0.246,
+   "A": 0.542,
    "xg": [
     1.1,
     1.8
    ],
-   "O25": 0.54,
-   "btts": 0.555,
+   "O25": 0.542,
+   "btts": 0.554,
    "scores": [
     [
      "1-1",
-     0.121
+     0.12
     ],
     [
      "0-1",
@@ -12029,15 +10069,15 @@
     ],
     [
      "0-2",
-     0.089
+     0.09
     ],
     [
      "0-0",
-     0.062
+     0.061
     ],
     [
      "1-3",
-     0.058
+     0.059
     ]
    ]
   },
@@ -12057,19 +10097,19 @@
    "homeCountry": "POR",
    "awayCountry": "NED",
    "elo": [
-    2026,
-    1750
+    2029,
+    1751
    ],
-   "dr": 366,
-   "H": 0.799,
-   "D": 0.136,
-   "A": 0.065,
+   "dr": 368,
+   "H": 0.801,
+   "D": 0.135,
+   "A": 0.064,
    "xg": [
     2.8,
     0.7
    ],
-   "O25": 0.672,
-   "btts": 0.474,
+   "O25": 0.673,
+   "btts": 0.473,
    "scores": [
     [
      "2-0",
@@ -12077,7 +10117,7 @@
     ],
     [
      "3-0",
-     0.109
+     0.11
     ],
     [
      "1-0",
@@ -12114,26 +10154,26 @@
    "awayCountry": "ESP",
    "elo": [
     1943,
-    1822
+    1817
    ],
-   "dr": 211,
-   "H": 0.627,
-   "D": 0.218,
-   "A": 0.156,
+   "dr": 216,
+   "H": 0.633,
+   "D": 0.215,
+   "A": 0.152,
    "xg": [
     2.1,
     0.9
    ],
-   "O25": 0.571,
-   "btts": 0.536,
+   "O25": 0.574,
+   "btts": 0.534,
    "scores": [
     [
      "1-1",
-     0.107
+     0.106
     ],
     [
      "2-0",
-     0.104
+     0.105
     ],
     [
      "1-0",
@@ -12145,7 +10185,7 @@
     ],
     [
      "3-0",
-     0.072
+     0.074
     ],
     [
      "3-1",
@@ -12169,43 +10209,43 @@
    "homeCountry": "ITA",
    "awayCountry": "ARM",
    "elo": [
-    1941,
-    1427
+    1913,
+    1419
    ],
-   "dr": 605,
-   "H": 0.955,
-   "D": 0.035,
-   "A": 0.01,
+   "dr": 584,
+   "H": 0.947,
+   "D": 0.041,
+   "A": 0.012,
    "xg": [
-    4.4,
-    0.4
+    4.3,
+    0.5
    ],
-   "O25": 0.86,
-   "btts": 0.354,
+   "O25": 0.846,
+   "btts": 0.365,
    "scores": [
     [
      "4-0",
-     0.123
+     0.122
     ],
     [
      "3-0",
-     0.111
+     0.115
     ],
     [
      "5-0",
-     0.109
+     0.104
     ],
     [
      "2-0",
-     0.075
+     0.081
     ],
     [
      "4-1",
-     0.054
+     0.056
     ],
     [
      "3-1",
-     0.049
+     0.053
     ]
    ]
   },
@@ -12225,43 +10265,43 @@
    "homeCountry": "FRA",
    "awayCountry": "GER",
    "elo": [
-    1831,
-    1972
+    1837,
+    1958
    ],
-   "dr": -51,
-   "H": 0.306,
-   "D": 0.269,
-   "A": 0.425,
+   "dr": -31,
+   "H": 0.328,
+   "D": 0.271,
+   "A": 0.401,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.52,
-   "btts": 0.568,
+   "O25": 0.518,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
-     0.132
+     0.133
     ],
     [
      "0-1",
-     0.09
-    ],
-    [
-     "1-2",
      0.088
     ],
     [
+     "1-2",
+     0.086
+    ],
+    [
      "1-0",
-     0.074
+     0.078
     ],
     [
      "2-1",
-     0.073
+     0.076
     ],
     [
-     "0-2",
-     0.07
+     "0-0",
+     0.068
     ]
    ]
   },
@@ -12281,23 +10321,23 @@
    "homeCountry": "FRA",
    "awayCountry": "BEL",
    "elo": [
-    1799,
-    1741
+    1817,
+    1754
    ],
-   "dr": 148,
-   "H": 0.547,
-   "D": 0.244,
-   "A": 0.208,
+   "dr": 153,
+   "H": 0.554,
+   "D": 0.243,
+   "A": 0.204,
    "xg": [
     1.9,
-    1.1
+    1
    ],
-   "O25": 0.544,
-   "btts": 0.553,
+   "O25": 0.545,
+   "btts": 0.552,
    "scores": [
     [
      "1-1",
-     0.12
+     0.119
     ],
     [
      "1-0",
@@ -12309,7 +10349,7 @@
     ],
     [
      "2-0",
-     0.091
+     0.092
     ],
     [
      "0-0",
@@ -12337,43 +10377,43 @@
    "homeCountry": "CZE",
    "awayCountry": "POL",
    "elo": [
-    1703,
-    1575
+    1709,
+    1567
    ],
-   "dr": 218,
-   "H": 0.635,
-   "D": 0.215,
-   "A": 0.15,
+   "dr": 232,
+   "H": 0.652,
+   "D": 0.208,
+   "A": 0.14,
    "xg": [
-    2.1,
+    2.2,
     0.9
    ],
-   "O25": 0.575,
-   "btts": 0.534,
+   "O25": 0.582,
+   "btts": 0.529,
    "scores": [
     [
-     "1-1",
-     0.105
+     "2-0",
+     0.107
     ],
     [
-     "2-0",
-     0.105
+     "1-1",
+     0.102
     ],
     [
      "1-0",
-     0.099
+     0.098
     ],
     [
      "2-1",
-     0.097
+     0.096
     ],
     [
      "3-0",
-     0.074
+     0.078
     ],
     [
      "3-1",
-     0.068
+     0.07
     ]
    ]
   },
@@ -12393,19 +10433,19 @@
    "homeCountry": "BEL",
    "awayCountry": "SCO",
    "elo": [
-    1858,
-    1683
+    1870,
+    1691
    ],
-   "dr": 265,
-   "H": 0.691,
-   "D": 0.191,
-   "A": 0.118,
+   "dr": 268,
+   "H": 0.695,
+   "D": 0.189,
+   "A": 0.116,
    "xg": [
     2.3,
     0.8
    ],
-   "O25": 0.601,
-   "btts": 0.517,
+   "O25": 0.603,
+   "btts": 0.516,
    "scores": [
     [
      "2-0",
@@ -12425,7 +10465,7 @@
     ],
     [
      "3-0",
-     0.086
+     0.087
     ],
     [
      "3-1",
@@ -12449,31 +10489,31 @@
    "homeCountry": "CRO",
    "awayCountry": "AUT",
    "elo": [
-    1704,
-    1616
+    1729,
+    1599
    ],
-   "dr": 178,
-   "H": 0.586,
-   "D": 0.232,
-   "A": 0.182,
+   "dr": 220,
+   "H": 0.638,
+   "D": 0.213,
+   "A": 0.149,
    "xg": [
-    2,
-    1
+    2.1,
+    0.9
    ],
-   "O25": 0.556,
-   "btts": 0.545,
+   "O25": 0.576,
+   "btts": 0.533,
    "scores": [
     [
+     "2-0",
+     0.105
+    ],
+    [
      "1-1",
-     0.114
+     0.105
     ],
     [
      "1-0",
      0.099
-    ],
-    [
-     "2-0",
-     0.098
     ],
     [
      "2-1",
@@ -12481,11 +10521,11 @@
     ],
     [
      "3-0",
-     0.064
+     0.075
     ],
     [
      "3-1",
-     0.064
+     0.069
     ]
    ]
   },
@@ -12505,13 +10545,13 @@
    "homeCountry": "AUT",
    "awayCountry": "ENG",
    "elo": [
-    1736,
-    1829
+    1721,
+    1823
    ],
-   "dr": -3,
-   "H": 0.361,
+   "dr": -12,
+   "H": 0.35,
    "D": 0.272,
-   "A": 0.367,
+   "A": 0.378,
    "xg": [
     1.4,
     1.4
@@ -12525,19 +10565,19 @@
     ],
     [
      "0-1",
+     0.085
+    ],
+    [
+     "1-2",
      0.083
     ],
     [
      "1-0",
-     0.082
-    ],
-    [
-     "1-2",
-     0.082
+     0.081
     ],
     [
      "2-1",
-     0.081
+     0.079
     ],
     [
      "0-0",
@@ -12561,43 +10601,43 @@
    "homeCountry": "CZE",
    "awayCountry": "FRA",
    "elo": [
-    1667,
-    1805
+    1661,
+    1809
    ],
-   "dr": -48,
-   "H": 0.309,
-   "D": 0.269,
-   "A": 0.421,
+   "dr": -58,
+   "H": 0.298,
+   "D": 0.268,
+   "A": 0.434,
    "xg": [
     1.3,
-    1.5
+    1.6
    ],
-   "O25": 0.519,
-   "btts": 0.568,
+   "O25": 0.521,
+   "btts": 0.567,
    "scores": [
     [
      "1-1",
-     0.132
+     0.131
     ],
     [
      "0-1",
-     0.09
+     0.091
     ],
     [
      "1-2",
-     0.088
+     0.089
     ],
     [
      "1-0",
-     0.075
-    ],
-    [
-     "2-1",
      0.073
     ],
     [
+     "2-1",
+     0.071
+    ],
+    [
      "0-2",
-     0.069
+     0.071
     ]
    ]
   },
@@ -12617,39 +10657,39 @@
    "homeCountry": "ENG",
    "awayCountry": "ISR",
    "elo": [
-    1989,
-    1589
+    1990,
+    1562
    ],
-   "dr": 490,
-   "H": 0.898,
-   "D": 0.075,
-   "A": 0.027,
+   "dr": 518,
+   "H": 0.916,
+   "D": 0.063,
+   "A": 0.021,
    "xg": [
-    3.6,
-    0.6
+    3.8,
+    0.5
    ],
-   "O25": 0.772,
-   "btts": 0.413,
+   "O25": 0.795,
+   "btts": 0.399,
    "scores": [
     [
      "3-0",
-     0.123
+     0.122
     ],
     [
      "4-0",
-     0.109
+     0.115
     ],
     [
      "2-0",
-     0.103
+     0.097
     ],
     [
      "5-0",
-     0.078
+     0.086
     ],
     [
      "3-1",
-     0.068
+     0.064
     ],
     [
      "4-1",
@@ -12673,43 +10713,43 @@
    "homeCountry": "ENG",
    "awayCountry": "BUL",
    "elo": [
-    1880,
-    1575
+    1853,
+    1582
    ],
-   "dr": 394,
-   "H": 0.825,
-   "D": 0.121,
-   "A": 0.054,
+   "dr": 361,
+   "H": 0.794,
+   "D": 0.139,
+   "A": 0.067,
    "xg": [
-    3,
+    2.8,
     0.7
    ],
-   "O25": 0.694,
-   "btts": 0.461,
+   "O25": 0.668,
+   "btts": 0.477,
    "scores": [
     [
      "2-0",
-     0.116
+     0.117
     ],
     [
      "3-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.085
+     0.108
     ],
     [
      "1-0",
-     0.078
+     0.084
     ],
     [
      "2-1",
-     0.076
+     0.082
     ],
     [
      "3-1",
      0.076
+    ],
+    [
+     "4-0",
+     0.075
     ]
    ]
   },
@@ -12729,19 +10769,19 @@
    "homeCountry": "SVN",
    "awayCountry": "NED",
    "elo": [
-    1516,
-    1633
+    1531,
+    1649
    ],
-   "dr": -27,
-   "H": 0.333,
+   "dr": -28,
+   "H": 0.332,
    "D": 0.271,
-   "A": 0.396,
+   "A": 0.397,
    "xg": [
     1.3,
     1.5
    ],
    "O25": 0.518,
-   "btts": 0.57,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
@@ -12785,19 +10825,19 @@
    "homeCountry": "CYP",
    "awayCountry": "TUR",
    "elo": [
-    1609,
-    1826
+    1597,
+    1812
    ],
-   "dr": -127,
-   "H": 0.227,
-   "D": 0.251,
-   "A": 0.521,
+   "dr": -126,
+   "H": 0.229,
+   "D": 0.252,
+   "A": 0.519,
    "xg": [
     1.1,
     1.8
    ],
-   "O25": 0.537,
-   "btts": 0.557,
+   "O25": 0.536,
+   "btts": 0.558,
    "scores": [
     [
      "1-1",
@@ -12809,7 +10849,7 @@
     ],
     [
      "1-2",
-     0.096
+     0.095
     ],
     [
      "0-2",
@@ -12841,19 +10881,19 @@
    "homeCountry": "ESP",
    "awayCountry": "NOR",
    "elo": [
-    1803,
-    1534
+    1791,
+    1527
    ],
-   "dr": 359,
-   "H": 0.793,
-   "D": 0.14,
-   "A": 0.068,
+   "dr": 354,
+   "H": 0.788,
+   "D": 0.142,
+   "A": 0.07,
    "xg": [
-    2.8,
+    2.7,
     0.7
    ],
-   "O25": 0.667,
-   "btts": 0.477,
+   "O25": 0.663,
+   "btts": 0.48,
    "scores": [
     [
      "2-0",
@@ -12861,11 +10901,11 @@
     ],
     [
      "3-0",
-     0.108
+     0.107
     ],
     [
      "1-0",
-     0.084
+     0.085
     ],
     [
      "2-1",
@@ -12877,7 +10917,7 @@
     ],
     [
      "4-0",
-     0.075
+     0.074
     ]
    ]
   },
@@ -12897,43 +10937,43 @@
    "homeCountry": "GER",
    "awayCountry": "HUN",
    "elo": [
-    1826,
-    1767
+    1828,
+    1795
    ],
-   "dr": 149,
-   "H": 0.549,
-   "D": 0.244,
-   "A": 0.207,
+   "dr": 123,
+   "H": 0.516,
+   "D": 0.253,
+   "A": 0.231,
    "xg": [
-    1.9,
+    1.8,
     1.1
    ],
-   "O25": 0.544,
-   "btts": 0.553,
+   "O25": 0.535,
+   "btts": 0.558,
    "scores": [
     [
      "1-1",
-     0.119
+     0.124
     ],
     [
      "1-0",
-     0.099
-    ],
-    [
-     "2-1",
      0.097
     ],
     [
+     "2-1",
+     0.095
+    ],
+    [
      "2-0",
-     0.092
+     0.086
     ],
     [
      "0-0",
-     0.061
+     0.063
     ],
     [
-     "3-1",
-     0.06
+     "0-1",
+     0.061
     ]
    ]
   },
@@ -12953,19 +10993,19 @@
    "homeCountry": "POR",
    "awayCountry": "GRE",
    "elo": [
-    1426,
-    1775
+    1434,
+    1781
    ],
-   "dr": -259,
-   "H": 0.122,
-   "D": 0.194,
-   "A": 0.684,
+   "dr": -257,
+   "H": 0.123,
+   "D": 0.195,
+   "A": 0.682,
    "xg": [
     0.9,
     2.3
    ],
-   "O25": 0.598,
-   "btts": 0.519,
+   "O25": 0.597,
+   "btts": 0.52,
    "scores": [
     [
      "0-2",
@@ -12985,7 +11025,7 @@
     ],
     [
      "0-3",
-     0.085
+     0.084
     ],
     [
      "1-3",
@@ -13009,43 +11049,43 @@
    "homeCountry": "GRE",
    "awayCountry": "POL",
    "elo": [
-    1443,
-    1702
+    1470,
+    1697
    ],
-   "dr": -169,
-   "H": 0.19,
-   "D": 0.236,
-   "A": 0.574,
+   "dr": -137,
+   "H": 0.218,
+   "D": 0.248,
+   "A": 0.534,
    "xg": [
-    1,
-    1.9
+    1.1,
+    1.8
    ],
-   "O25": 0.552,
-   "btts": 0.548,
+   "O25": 0.54,
+   "btts": 0.555,
    "scores": [
     [
      "1-1",
-     0.116
+     0.122
     ],
     [
      "0-1",
-     0.099
+     0.098
     ],
     [
      "1-2",
-     0.097
-    ],
-    [
-     "0-2",
      0.096
     ],
     [
-     "1-3",
-     0.063
+     "0-2",
+     0.089
     ],
     [
-     "0-3",
+     "0-0",
      0.062
+    ],
+    [
+     "1-3",
+     0.058
     ]
    ]
   }

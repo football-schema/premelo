@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:01:26.340Z",
+ "updated": "2026-11-06T07:01:14.621Z",
  "league": "switzerland",
  "name": "Swiss Super League",
  "through": "2026-11-01",
@@ -50,8 +50,8 @@
    "name": "Young Boys",
    "slug": "young-boys",
    "div": "top",
-   "elo": 1701,
-   "change30": 17,
+   "elo": 1705,
+   "change30": 21,
    "played": 12,
    "form": [
     {
@@ -139,9 +139,9 @@
    "name": "Lugano",
    "slug": "lugano",
    "div": "top",
-   "elo": 1678,
-   "change30": 37,
-   "played": 20,
+   "elo": 1684,
+   "change30": 43,
+   "played": 21,
    "form": [
     {
      "r": "W",
@@ -190,7 +190,6 @@
     }
    ],
    "spark": [
-    1621,
     1623,
     1638,
     1640,
@@ -209,7 +208,8 @@
     1659,
     1688,
     1676,
-    1678
+    1678,
+    1681
    ],
    "rank": 2,
    "table": {
@@ -228,8 +228,8 @@
    "name": "St. Gallen",
    "slug": "st-gallen",
    "div": "top",
-   "elo": 1634,
-   "change30": 24,
+   "elo": 1637,
+   "change30": 27,
    "played": 18,
    "form": [
     {
@@ -317,8 +317,8 @@
    "name": "Sion",
    "slug": "sion",
    "div": "top",
-   "elo": 1632,
-   "change30": -10,
+   "elo": 1636,
+   "change30": -6,
    "played": 18,
    "form": [
     {
@@ -406,8 +406,8 @@
    "name": "Servette",
    "slug": "servette",
    "div": "top",
-   "elo": 1565,
-   "change30": -6,
+   "elo": 1568,
+   "change30": -3,
    "played": 12,
    "form": [
     {
@@ -495,8 +495,8 @@
    "name": "Luzern",
    "slug": "luzern",
    "div": "top",
-   "elo": 1552,
-   "change30": 4,
+   "elo": 1555,
+   "change30": 7,
    "played": 12,
    "form": [
     {
@@ -584,8 +584,8 @@
    "name": "Basel",
    "slug": "basel",
    "div": "top",
-   "elo": 1514,
-   "change30": -24,
+   "elo": 1517,
+   "change30": -21,
    "played": 12,
    "form": [
     {
@@ -673,9 +673,9 @@
    "name": "Thun",
    "slug": "thun",
    "div": "top",
-   "elo": 1500,
-   "change30": -22,
-   "played": 20,
+   "elo": 1516,
+   "change30": -6,
+   "played": 21,
    "form": [
     {
      "r": "L",
@@ -724,7 +724,6 @@
     }
    ],
    "spark": [
-    1552,
     1582,
     1588,
     1544,
@@ -743,7 +742,8 @@
     1496,
     1491,
     1500,
-    1500
+    1500,
+    1516
    ],
    "rank": 8,
    "table": {
@@ -762,8 +762,8 @@
    "name": "Vaduz",
    "slug": "vaduz",
    "div": "top",
-   "elo": 1493,
-   "change30": 26,
+   "elo": 1496,
+   "change30": 29,
    "played": 12,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Zurich",
    "slug": "zurich",
    "div": "top",
-   "elo": 1493,
-   "change30": 46,
+   "elo": 1496,
+   "change30": 49,
    "played": 12,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "Lausanne",
    "slug": "lausanne",
    "div": "top",
-   "elo": 1462,
-   "change30": -20,
+   "elo": 1465,
+   "change30": -17,
    "played": 12,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "Grasshoppers",
    "slug": "grasshoppers",
    "div": "top",
-   "elo": 1423,
-   "change30": 4,
+   "elo": 1426,
+   "change30": 7,
    "played": 12,
    "form": [
     {

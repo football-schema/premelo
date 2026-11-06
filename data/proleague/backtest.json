@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "league": "Pro League",
  "from": "2000-01",
  "test": {
@@ -8,7 +8,7 @@
   "model": {
    "logloss": 0.9904,
    "rps": 0.2037,
-   "brier": 0.5903
+   "brier": 0.5902
   },
   "elo": {
    "logloss": 0.9937,
@@ -614,9 +614,9 @@
    "matches": 90,
    "withOdds": 90,
    "model": {
-    "logloss": 0.899,
-    "rps": 0.1887,
-    "brier": 0.5259
+    "logloss": 0.8982,
+    "rps": 0.1884,
+    "brier": 0.5253
    },
    "market": {
     "logloss": 0.9073,

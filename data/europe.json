@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-05",
- "matches": 20271,
+ "updated": "2026-11-06",
+ "matches": 20306,
  "from": "1993-08-18",
  "model": {
-  "logloss": 0.9505,
+  "logloss": 0.9507,
   "rps": 0.1936,
-  "brier": 0.5625
+  "brier": 0.5626
  },
  "baseline": {
   "logloss": 1.0486,
