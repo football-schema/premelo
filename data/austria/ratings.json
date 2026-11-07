@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:01:14.618Z",
+ "updated": "2026-11-07T07:01:23.317Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-11-01",
@@ -123,6 +123,14 @@
     1724
    ],
    "rank": 1,
+   "next": {
+    "opp": "Sturm Graz",
+    "oppSlug": "sturm-graz",
+    "ha": "a",
+    "kickoff": "2026-11-08T16:00:00.000Z",
+    "win": 0.454,
+    "draw": 0.275
+   },
    "table": {
     "pos": 2,
     "p": 11,
@@ -212,6 +220,14 @@
     1718
    ],
    "rank": 2,
+   "next": {
+    "opp": "Ried",
+    "oppSlug": "ried",
+    "ha": "a",
+    "kickoff": "2026-11-07T18:30:00.000Z",
+    "win": 0.582,
+    "draw": 0.241
+   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -390,6 +406,14 @@
     1599
    ],
    "rank": 4,
+   "next": {
+    "opp": "Salzburg",
+    "oppSlug": "salzburg",
+    "ha": "h",
+    "kickoff": "2026-11-08T16:00:00.000Z",
+    "win": 0.271,
+    "draw": 0.275
+   },
    "table": {
     "pos": 4,
     "p": 11,
@@ -479,6 +503,14 @@
     1493
    ],
    "rank": 5,
+   "next": {
+    "opp": "Hartberg",
+    "oppSlug": "hartberg",
+    "ha": "a",
+    "kickoff": "2026-11-08T13:30:00.000Z",
+    "win": 0.371,
+    "draw": 0.283
+   },
    "table": {
     "pos": 8,
     "p": 11,
@@ -568,6 +600,14 @@
     1487
    ],
    "rank": 6,
+   "next": {
+    "opp": "Tirol",
+    "oppSlug": "tirol",
+    "ha": "a",
+    "kickoff": "2026-11-08T13:30:00.000Z",
+    "win": 0.341,
+    "draw": 0.283
+   },
    "table": {
     "pos": 11,
     "p": 11,
@@ -657,6 +697,14 @@
     1479
    ],
    "rank": 7,
+   "next": {
+    "opp": "LASK",
+    "oppSlug": "lask",
+    "ha": "h",
+    "kickoff": "2026-11-07T18:30:00.000Z",
+    "win": 0.177,
+    "draw": 0.241
+   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -746,6 +794,14 @@
     1455
    ],
    "rank": 8,
+   "next": {
+    "opp": "Austria Vienna",
+    "oppSlug": "austria-vienna",
+    "ha": "h",
+    "kickoff": "2026-11-08T13:30:00.000Z",
+    "win": 0.376,
+    "draw": 0.283
+   },
    "table": {
     "pos": 7,
     "p": 11,
@@ -835,6 +891,14 @@
     1430
    ],
    "rank": 9,
+   "next": {
+    "opp": "Altach",
+    "oppSlug": "altach",
+    "ha": "h",
+    "kickoff": "2026-11-08T13:30:00.000Z",
+    "win": 0.345,
+    "draw": 0.283
+   },
    "table": {
     "pos": 5,
     "p": 11,
@@ -924,6 +988,14 @@
     1429
    ],
    "rank": 10,
+   "next": {
+    "opp": "A. Lustenau",
+    "oppSlug": "a-lustenau",
+    "ha": "a",
+    "kickoff": "2026-11-07T16:00:00.000Z",
+    "win": 0.371,
+    "draw": 0.283
+   },
    "table": {
     "pos": 9,
     "p": 11,
@@ -1102,6 +1174,14 @@
     1368
    ],
    "rank": 12,
+   "next": {
+    "opp": "Grazer AK",
+    "oppSlug": "grazer-ak",
+    "ha": "h",
+    "kickoff": "2026-11-07T16:00:00.000Z",
+    "win": 0.346,
+    "draw": 0.283
+   },
    "table": {
     "pos": 10,
     "p": 11,

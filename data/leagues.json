@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:01:15.491Z",
+ "updated": "2026-11-07T07:01:24.130Z",
  "leagues": [
   {
    "id": "pl",
@@ -8,7 +8,7 @@
    "country": "England",
    "second": "Championship",
    "extra": false,
-   "through": "2026-11-04",
+   "through": "2026-11-06",
    "top": [
     [
      "Arsenal",
@@ -343,7 +343,7 @@
    "short": "Sweden",
    "country": "Sweden",
    "extra": true,
-   "through": "2026-11-02",
+   "through": "2026-11-03",
    "top": [
     [
      "Hammarby",

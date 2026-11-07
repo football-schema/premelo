@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:00:54.262Z",
+ "updated": "2026-11-07T07:01:00.197Z",
  "frozen": "2011-12",
  "leagues": [
   {
@@ -367,23 +367,23 @@
    "name": "Allsvenskan",
    "extra": true,
    "season": "2026",
-   "matches": 215,
-   "called": 108,
+   "matches": 216,
+   "called": 109,
    "model": {
-    "logloss": 1.0245,
-    "rps": 0.2165,
-    "brier": 0.6129
+    "logloss": 1.0219,
+    "rps": 0.2159,
+    "brier": 0.611
    },
    "market": {
-    "logloss": 0.9957,
-    "rps": 0.207,
-    "brier": 0.5923
+    "logloss": 0.9926,
+    "rps": 0.2062,
+    "brier": 0.5901
    },
-   "withOdds": 215,
+   "withOdds": 216,
    "modelOnOdds": {
-    "logloss": 1.0245,
-    "rps": 0.2165,
-    "brier": 0.6129
+    "logloss": 1.0219,
+    "rps": 0.2159,
+    "brier": 0.611
    }
   },
   {
@@ -502,6 +502,25 @@
    ],
    "result": "away win",
    "chance": 0.325
+  },
+  {
+   "date": "2026-11-03",
+   "league": "sweden",
+   "home": "Sirius",
+   "away": "Halmstad",
+   "homeName": "Sirius",
+   "awayName": "Halmstad",
+   "homeSlug": "sirius",
+   "awaySlug": "halmstad",
+   "hg": 2,
+   "ag": 0,
+   "p": [
+    0.636,
+    0.201,
+    0.163
+   ],
+   "result": "home win",
+   "chance": 0.636
   },
   {
    "date": "2026-11-02",
