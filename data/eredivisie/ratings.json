@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:22.655Z",
+ "updated": "2026-11-08T07:01:18.125Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-11-01",
@@ -1237,14 +1237,6 @@
     1571
    ],
    "rank": 10,
-   "next": {
-    "opp": "Excelsior",
-    "oppSlug": "excelsior",
-    "ha": "a",
-    "kickoff": "2026-11-07T20:00:00.000Z",
-    "win": 0.383,
-    "draw": 0.269
-   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -1360,14 +1352,6 @@
     1550
    ],
    "rank": 11,
-   "next": {
-    "opp": "Den Haag",
-    "oppSlug": "den-haag",
-    "ha": "a",
-    "kickoff": "2026-11-07T17:45:00.000Z",
-    "win": 0.357,
-    "draw": 0.273
-   },
    "table": {
     "pos": 11,
     "p": 11,
@@ -1606,14 +1590,6 @@
     1510
    ],
    "rank": 13,
-   "next": {
-    "opp": "Go Ahead Eagles",
-    "oppSlug": "go-ahead-eagles",
-    "ha": "h",
-    "kickoff": "2026-11-07T20:00:00.000Z",
-    "win": 0.348,
-    "draw": 0.269
-   },
    "table": {
     "pos": 15,
     "p": 11,
@@ -1729,14 +1705,6 @@
     1502
    ],
    "rank": 14,
-   "next": {
-    "opp": "Sparta Rotterdam",
-    "oppSlug": "sparta-rotterdam",
-    "ha": "h",
-    "kickoff": "2026-11-07T17:45:00.000Z",
-    "win": 0.37,
-    "draw": 0.273
-   },
    "table": {
     "pos": 17,
     "p": 11,
@@ -1852,14 +1820,6 @@
     1490
    ],
    "rank": 15,
-   "next": {
-    "opp": "Telstar",
-    "oppSlug": "telstar",
-    "ha": "h",
-    "kickoff": "2026-11-07T15:30:00.000Z",
-    "win": 0.458,
-    "draw": 0.265
-   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -2090,14 +2050,6 @@
     1472
    ],
    "rank": 17,
-   "next": {
-    "opp": "Fortuna Sittard",
-    "oppSlug": "for-sittard",
-    "ha": "a",
-    "kickoff": "2026-11-07T15:30:00.000Z",
-    "win": 0.277,
-    "draw": 0.265
-   },
    "table": {
     "pos": 16,
     "p": 11,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:23.317Z",
+ "updated": "2026-11-08T07:01:18.886Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-11-01",
@@ -220,14 +220,6 @@
     1718
    ],
    "rank": 2,
-   "next": {
-    "opp": "Ried",
-    "oppSlug": "ried",
-    "ha": "a",
-    "kickoff": "2026-11-07T18:30:00.000Z",
-    "win": 0.582,
-    "draw": 0.241
-   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -697,14 +689,6 @@
     1479
    ],
    "rank": 7,
-   "next": {
-    "opp": "LASK",
-    "oppSlug": "lask",
-    "ha": "h",
-    "kickoff": "2026-11-07T18:30:00.000Z",
-    "win": 0.177,
-    "draw": 0.241
-   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -988,14 +972,6 @@
     1429
    ],
    "rank": 10,
-   "next": {
-    "opp": "A. Lustenau",
-    "oppSlug": "a-lustenau",
-    "ha": "a",
-    "kickoff": "2026-11-07T16:00:00.000Z",
-    "win": 0.371,
-    "draw": 0.283
-   },
    "table": {
     "pos": 9,
     "p": 11,
@@ -1174,14 +1150,6 @@
     1368
    ],
    "rank": 12,
-   "next": {
-    "opp": "Grazer AK",
-    "oppSlug": "grazer-ak",
-    "ha": "h",
-    "kickoff": "2026-11-07T16:00:00.000Z",
-    "win": 0.346,
-    "draw": 0.283
-   },
    "table": {
     "pos": 10,
     "p": 11,

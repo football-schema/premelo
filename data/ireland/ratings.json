@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:24.025Z",
+ "updated": "2026-11-08T07:01:19.697Z",
  "league": "ireland",
  "name": "League of Ireland",
  "through": "2026-10-30",
@@ -746,14 +746,6 @@
     1243
    ],
    "rank": 8,
-   "next": {
-    "opp": "UC Dublin",
-    "oppSlug": "uc-dublin",
-    "ha": "a",
-    "kickoff": "2026-11-07T17:30:00.000Z",
-    "win": 0.709,
-    "draw": 0.187
-   },
    "table": {
     "pos": 9,
     "p": 36,

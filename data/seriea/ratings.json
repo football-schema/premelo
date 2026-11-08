@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:20.210Z",
+ "updated": "2026-11-08T07:01:15.356Z",
  "league": "seriea",
  "name": "Serie A",
  "through": "2026-11-02",
@@ -511,14 +511,6 @@
     1932
    ],
    "rank": 4,
-   "next": {
-    "opp": "Sassuolo",
-    "oppSlug": "sassuolo",
-    "ha": "h",
-    "kickoff": "2026-11-07T19:45:00.000Z",
-    "win": 0.709,
-    "draw": 0.192
-   },
    "table": {
     "pos": 3,
     "p": 10,
@@ -1261,14 +1253,6 @@
     1783
    ],
    "rank": 10,
-   "next": {
-    "opp": "Parma",
-    "oppSlug": "parma",
-    "ha": "a",
-    "kickoff": "2026-11-07T17:00:00.000Z",
-    "win": 0.507,
-    "draw": 0.284
-   },
    "table": {
     "pos": 9,
     "p": 10,
@@ -1386,14 +1370,6 @@
     1718
    ],
    "rank": 11,
-   "next": {
-    "opp": "Cagliari",
-    "oppSlug": "cagliari",
-    "ha": "a",
-    "kickoff": "2026-11-07T14:00:00.000Z",
-    "win": 0.354,
-    "draw": 0.298
-   },
    "table": {
     "pos": 6,
     "p": 10,
@@ -1636,14 +1612,6 @@
     1716
    ],
    "rank": 13,
-   "next": {
-    "opp": "Lecce",
-    "oppSlug": "lecce",
-    "ha": "h",
-    "kickoff": "2026-11-07T14:00:00.000Z",
-    "win": 0.493,
-    "draw": 0.289
-   },
    "table": {
     "pos": 10,
     "p": 10,
@@ -1761,14 +1729,6 @@
     1696
    ],
    "rank": 14,
-   "next": {
-    "opp": "AS Roma",
-    "oppSlug": "roma",
-    "ha": "a",
-    "kickoff": "2026-11-07T19:45:00.000Z",
-    "win": 0.099,
-    "draw": 0.192
-   },
    "table": {
     "pos": 17,
     "p": 10,
@@ -2237,14 +2197,6 @@
     1668
    ],
    "rank": 17,
-   "next": {
-    "opp": "Frosinone",
-    "oppSlug": "frosinone",
-    "ha": "h",
-    "kickoff": "2026-11-07T14:00:00.000Z",
-    "win": 0.348,
-    "draw": 0.298
-   },
    "table": {
     "pos": 12,
     "p": 10,
@@ -2604,14 +2556,6 @@
     1615
    ],
    "rank": 19,
-   "next": {
-    "opp": "Torino",
-    "oppSlug": "torino",
-    "ha": "a",
-    "kickoff": "2026-11-07T14:00:00.000Z",
-    "win": 0.218,
-    "draw": 0.289
-   },
    "table": {
     "pos": 14,
     "p": 10,
@@ -2963,14 +2907,6 @@
     1595
    ],
    "rank": 20,
-   "next": {
-    "opp": "Bologna",
-    "oppSlug": "bologna",
-    "ha": "h",
-    "kickoff": "2026-11-07T17:00:00.000Z",
-    "win": 0.209,
-    "draw": 0.284
-   },
    "table": {
     "pos": 15,
     "p": 10,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:21.432Z",
+ "updated": "2026-11-08T07:01:16.734Z",
  "league": "ligue1",
  "name": "Ligue 1",
  "through": "2026-11-02",
@@ -135,14 +135,6 @@
     2117
    ],
    "rank": 1,
-   "next": {
-    "opp": "Troyes",
-    "oppSlug": "troyes",
-    "ha": "h",
-    "kickoff": "2026-11-07T20:05:00.000Z",
-    "win": 0.89,
-    "draw": 0.083
-   },
    "table": {
     "pos": 1,
     "p": 9,
@@ -750,14 +742,6 @@
     1801
    ],
    "rank": 6,
-   "next": {
-    "opp": "Auxerre",
-    "oppSlug": "auxerre",
-    "ha": "a",
-    "kickoff": "2026-11-07T18:00:00.000Z",
-    "win": 0.478,
-    "draw": 0.279
-   },
    "table": {
     "pos": 4,
     "p": 9,
@@ -1956,14 +1940,6 @@
     1629
    ],
    "rank": 15,
-   "next": {
-    "opp": "Paris FC",
-    "oppSlug": "paris-fc",
-    "ha": "h",
-    "kickoff": "2026-11-07T18:00:00.000Z",
-    "win": 0.242,
-    "draw": 0.279
-   },
    "table": {
     "pos": 14,
     "p": 9,
@@ -2325,14 +2301,6 @@
     1596
    ],
    "rank": 18,
-   "next": {
-    "opp": "Paris Saint-Germain",
-    "oppSlug": "paris-sg",
-    "ha": "a",
-    "kickoff": "2026-11-07T20:05:00.000Z",
-    "win": 0.027,
-    "draw": 0.083
-   },
    "table": {
     "pos": 16,
     "p": 9,

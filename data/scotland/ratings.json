@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:23.305Z",
+ "updated": "2026-11-08T07:01:18.873Z",
  "league": "scotland",
  "name": "Scottish Premiership",
  "through": "2026-11-01",
@@ -122,14 +122,6 @@
     1704
    ],
    "rank": 1,
-   "next": {
-    "opp": "St Mirren",
-    "oppSlug": "st-mirren",
-    "ha": "a",
-    "kickoff": "2026-11-07T20:00:00.000Z",
-    "win": 0.725,
-    "draw": 0.177
-   },
    "table": {
     "pos": 2,
     "p": 11,
@@ -413,14 +405,6 @@
     1478
    ],
    "rank": 4,
-   "next": {
-    "opp": "Aberdeen",
-    "oppSlug": "aberdeen",
-    "ha": "a",
-    "kickoff": "2026-11-07T17:45:00.000Z",
-    "win": 0.361,
-    "draw": 0.28
-   },
    "table": {
     "pos": 12,
     "p": 11,
@@ -510,14 +494,6 @@
     1453
    ],
    "rank": 5,
-   "next": {
-    "opp": "Motherwell",
-    "oppSlug": "motherwell",
-    "ha": "h",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.468,
-    "draw": 0.262
-   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -607,14 +583,6 @@
     1422
    ],
    "rank": 6,
-   "next": {
-    "opp": "Hibernian",
-    "oppSlug": "hibernian",
-    "ha": "h",
-    "kickoff": "2026-11-07T17:45:00.000Z",
-    "win": 0.36,
-    "draw": 0.28
-   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -704,14 +672,6 @@
     1403
    ],
    "rank": 7,
-   "next": {
-    "opp": "Dundee United",
-    "oppSlug": "dundee-united",
-    "ha": "a",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.27,
-    "draw": 0.262
-   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -898,14 +858,6 @@
     1354
    ],
    "rank": 9,
-   "next": {
-    "opp": "St Johnstone",
-    "oppSlug": "st-johnstone",
-    "ha": "a",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.303,
-    "draw": 0.277
-   },
    "table": {
     "pos": 5,
     "p": 11,
@@ -995,14 +947,6 @@
     1352
    ],
    "rank": 10,
-   "next": {
-    "opp": "Dundee",
-    "oppSlug": "dundee",
-    "ha": "h",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.42,
-    "draw": 0.277
-   },
    "table": {
     "pos": 7,
     "p": 12,
@@ -1092,14 +1036,6 @@
     1348
    ],
    "rank": 11,
-   "next": {
-    "opp": "Rangers",
-    "oppSlug": "rangers",
-    "ha": "h",
-    "kickoff": "2026-11-07T20:00:00.000Z",
-    "win": 0.098,
-    "draw": 0.177
-   },
    "table": {
     "pos": 8,
     "p": 12,

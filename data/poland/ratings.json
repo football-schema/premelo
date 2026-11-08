@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:24.017Z",
+ "updated": "2026-11-08T07:01:19.689Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-11-02",
@@ -252,14 +252,6 @@
     1666
    ],
    "rank": 2,
-   "next": {
-    "opp": "Wieczysta Krakow",
-    "oppSlug": "wieczysta-krakow",
-    "ha": "h",
-    "kickoff": "2026-11-07T16:30:00.000Z",
-    "win": 0.588,
-    "draw": 0.237
-   },
    "table": {
     "pos": 2,
     "p": 13,
@@ -982,14 +974,6 @@
     1562
    ],
    "rank": 8,
-   "next": {
-    "opp": "Pogon Szczecin",
-    "oppSlug": "pogon-szczecin",
-    "ha": "h",
-    "kickoff": "2026-11-07T19:15:00.000Z",
-    "win": 0.469,
-    "draw": 0.273
-   },
    "table": {
     "pos": 14,
     "p": 13,
@@ -1098,14 +1082,6 @@
     1550
    ],
    "rank": 9,
-   "next": {
-    "opp": "Gornik Zabrze",
-    "oppSlug": "gornik-zabrze",
-    "ha": "a",
-    "kickoff": "2026-11-07T16:30:00.000Z",
-    "win": 0.175,
-    "draw": 0.237
-   },
    "table": {
     "pos": 18,
     "p": 13,
@@ -1221,14 +1197,6 @@
     1549
    ],
    "rank": 10,
-   "next": {
-    "opp": "Radomiak Radom",
-    "oppSlug": "radomiak-radom",
-    "ha": "h",
-    "kickoff": "2026-11-07T11:15:00.000Z",
-    "win": 0.569,
-    "draw": 0.244
-   },
    "table": {
     "pos": 10,
     "p": 13,
@@ -1574,14 +1542,6 @@
     1537
    ],
    "rank": 13,
-   "next": {
-    "opp": "Widzew Lodz",
-    "oppSlug": "widzew-lodz",
-    "ha": "a",
-    "kickoff": "2026-11-07T19:15:00.000Z",
-    "win": 0.258,
-    "draw": 0.273
-   },
    "table": {
     "pos": 4,
     "p": 12,
@@ -1812,14 +1772,6 @@
     1510
    ],
    "rank": 15,
-   "next": {
-    "opp": "Slask Wroclaw",
-    "oppSlug": "slask-wroclaw",
-    "ha": "a",
-    "kickoff": "2026-11-07T13:45:00.000Z",
-    "win": 0.362,
-    "draw": 0.278
-   },
    "table": {
     "pos": 7,
     "p": 13,
@@ -2058,14 +2010,6 @@
     1463
    ],
    "rank": 17,
-   "next": {
-    "opp": "Korona Kielce",
-    "oppSlug": "korona-kielce",
-    "ha": "a",
-    "kickoff": "2026-11-07T11:15:00.000Z",
-    "win": 0.187,
-    "draw": 0.244
-   },
    "table": {
     "pos": 15,
     "p": 13,
@@ -2181,14 +2125,6 @@
     1434
    ],
    "rank": 18,
-   "next": {
-    "opp": "Piast Gliwice",
-    "oppSlug": "piast-gliwice",
-    "ha": "h",
-    "kickoff": "2026-11-07T13:45:00.000Z",
-    "win": 0.36,
-    "draw": 0.278
-   },
    "table": {
     "pos": 16,
     "p": 13,

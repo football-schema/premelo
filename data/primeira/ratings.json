@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:22.044Z",
+ "updated": "2026-11-08T07:01:17.438Z",
  "league": "primeira",
  "name": "Primeira Liga",
  "through": "2026-11-02",
@@ -376,14 +376,6 @@
     1911
    ],
    "rank": 3,
-   "next": {
-    "opp": "Moreirense",
-    "oppSlug": "moreirense",
-    "ha": "h",
-    "kickoff": "2026-11-07T20:30:00.000Z",
-    "win": 0.863,
-    "draw": 0.102
-   },
    "table": {
     "pos": 3,
     "p": 10,
@@ -1221,14 +1213,6 @@
     1593
    ],
    "rank": 10,
-   "next": {
-    "opp": "Casa Pia",
-    "oppSlug": "casa-pia",
-    "ha": "h",
-    "kickoff": "2026-11-07T18:00:00.000Z",
-    "win": 0.522,
-    "draw": 0.273
-   },
    "table": {
     "pos": 10,
     "p": 10,
@@ -1334,14 +1318,6 @@
     1588
    ],
    "rank": 11,
-   "next": {
-    "opp": "Nacional",
-    "oppSlug": "nacional",
-    "ha": "a",
-    "kickoff": "2026-11-07T15:30:00.000Z",
-    "win": 0.414,
-    "draw": 0.291
-   },
    "table": {
     "pos": 6,
     "p": 10,
@@ -1949,14 +1925,6 @@
     1485
    ],
    "rank": 16,
-   "next": {
-    "opp": "Alverca",
-    "oppSlug": "alverca",
-    "ha": "a",
-    "kickoff": "2026-11-07T18:00:00.000Z",
-    "win": 0.205,
-    "draw": 0.273
-   },
    "table": {
     "pos": 17,
     "p": 10,
@@ -2072,14 +2040,6 @@
     1479
    ],
    "rank": 17,
-   "next": {
-    "opp": "Sporting CP",
-    "oppSlug": "sp-lisbon",
-    "ha": "a",
-    "kickoff": "2026-11-07T20:30:00.000Z",
-    "win": 0.035,
-    "draw": 0.102
-   },
    "table": {
     "pos": 9,
     "p": 10,
@@ -2195,14 +2155,6 @@
     1470
    ],
    "rank": 18,
-   "next": {
-    "opp": "Academico Viseu",
-    "oppSlug": "academico-viseu",
-    "ha": "h",
-    "kickoff": "2026-11-07T15:30:00.000Z",
-    "win": 0.295,
-    "draw": 0.291
-   },
    "table": {
     "pos": 15,
     "p": 10,

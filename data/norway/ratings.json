@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:23.446Z",
+ "updated": "2026-11-08T07:01:19.038Z",
  "league": "norway",
  "name": "Eliteserien",
  "through": "2026-11-01",
@@ -372,14 +372,6 @@
     1691
    ],
    "rank": 3,
-   "next": {
-    "opp": "Start",
-    "oppSlug": "start",
-    "ha": "h",
-    "kickoff": "2026-11-07T17:00:00.000Z",
-    "win": 0.763,
-    "draw": 0.151
-   },
    "table": {
     "pos": 4,
     "p": 25,
@@ -856,14 +848,6 @@
     1540
    ],
    "rank": 7,
-   "next": {
-    "opp": "Kristiansund",
-    "oppSlug": "kristiansund",
-    "ha": "a",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.471,
-    "draw": 0.249
-   },
    "table": {
     "pos": 8,
     "p": 25,
@@ -1582,14 +1566,6 @@
     1449
    ],
    "rank": 13,
-   "next": {
-    "opp": "Rosenborg",
-    "oppSlug": "rosenborg",
-    "ha": "a",
-    "kickoff": "2026-11-07T17:00:00.000Z",
-    "win": 0.086,
-    "draw": 0.151
-   },
    "table": {
     "pos": 16,
     "p": 25,
@@ -1945,14 +1921,6 @@
     1385
    ],
    "rank": 16,
-   "next": {
-    "opp": "Valerenga",
-    "oppSlug": "valerenga",
-    "ha": "h",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.28,
-    "draw": 0.249
-   },
    "table": {
     "pos": 15,
     "p": 25,

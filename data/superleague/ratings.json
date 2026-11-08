@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:23.313Z",
+ "updated": "2026-11-08T07:01:18.882Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-11-02",
@@ -511,14 +511,6 @@
     1515
    ],
    "rank": 5,
-   "next": {
-    "opp": "Panetolikos",
-    "oppSlug": "panetolikos",
-    "ha": "h",
-    "kickoff": "2026-11-07T17:30:00.000Z",
-    "win": 0.649,
-    "draw": 0.226
-   },
    "table": {
     "pos": 6,
     "p": 9,
@@ -802,14 +794,6 @@
     1417
    ],
    "rank": 8,
-   "next": {
-    "opp": "Volos NFC",
-    "oppSlug": "volos-nfc",
-    "ha": "a",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.381,
-    "draw": 0.3
-   },
    "table": {
     "pos": 7,
     "p": 9,
@@ -1287,14 +1271,6 @@
     1329
    ],
    "rank": 13,
-   "next": {
-    "opp": "Aris Thessaloniki",
-    "oppSlug": "aris",
-    "ha": "a",
-    "kickoff": "2026-11-07T17:30:00.000Z",
-    "win": 0.125,
-    "draw": 0.226
-   },
    "table": {
     "pos": 10,
     "p": 9,
@@ -1384,14 +1360,6 @@
     1327
    ],
    "rank": 14,
-   "next": {
-    "opp": "Kifisia",
-    "oppSlug": "kifisia",
-    "ha": "h",
-    "kickoff": "2026-11-07T15:00:00.000Z",
-    "win": 0.32,
-    "draw": 0.3
-   },
    "table": {
     "pos": 14,
     "p": 9,

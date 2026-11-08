@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:24.085Z",
+ "updated": "2026-11-08T07:01:19.763Z",
  "up": [
   {
    "league": "eredivisie",
@@ -92,14 +92,6 @@
    "change": -46
   },
   {
-   "league": "pl",
-   "leagueName": "Premier League",
-   "slug": "sunderland",
-   "name": "Sunderland",
-   "elo": 1853,
-   "change": -45
-  },
-  {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
    "slug": "go-ahead-eagles",
@@ -138,6 +130,14 @@
    "name": "AC Milan",
    "elo": 1913,
    "change": -30
+  },
+  {
+   "league": "pl",
+   "leagueName": "Premier League",
+   "slug": "sunderland",
+   "name": "Sunderland",
+   "elo": 1853,
+   "change": -28
   },
   {
    "league": "eredivisie",

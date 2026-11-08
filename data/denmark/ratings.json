@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:01:23.324Z",
+ "updated": "2026-11-08T07:01:18.894Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-11-02",
@@ -608,14 +608,6 @@
     1636
    ],
    "rank": 6,
-   "next": {
-    "opp": "Odense",
-    "oppSlug": "odense",
-    "ha": "a",
-    "kickoff": "2026-11-07T17:00:00.000Z",
-    "win": 0.39,
-    "draw": 0.284
-   },
    "table": {
     "pos": 3,
     "p": 13,
@@ -705,14 +697,6 @@
     1581
    ],
    "rank": 7,
-   "next": {
-    "opp": "Viborg",
-    "oppSlug": "viborg",
-    "ha": "h",
-    "kickoff": "2026-11-07T17:00:00.000Z",
-    "win": 0.326,
-    "draw": 0.284
-   },
    "table": {
     "pos": 6,
     "p": 13,
