@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:19.689Z",
+ "updated": "2026-11-09T07:01:34.154Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-11-02",
@@ -129,14 +129,6 @@
     1699
    ],
    "rank": 1,
-   "next": {
-    "opp": "Zaglebie",
-    "oppSlug": "zaglebie",
-    "ha": "h",
-    "kickoff": "2026-11-08T19:15:00.000Z",
-    "win": 0.682,
-    "draw": 0.2
-   },
    "table": {
     "pos": 1,
     "p": 12,
@@ -367,14 +359,6 @@
     1637
    ],
    "rank": 3,
-   "next": {
-    "opp": "Rakow",
-    "oppSlug": "rakow",
-    "ha": "h",
-    "kickoff": "2026-11-08T16:30:00.000Z",
-    "win": 0.525,
-    "draw": 0.26
-   },
    "table": {
     "pos": 3,
     "p": 13,
@@ -605,14 +589,6 @@
     1567
    ],
    "rank": 5,
-   "next": {
-    "opp": "GKS Katowice",
-    "oppSlug": "gks-katowice",
-    "ha": "h",
-    "kickoff": "2026-11-08T13:45:00.000Z",
-    "win": 0.46,
-    "draw": 0.266
-   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -728,14 +704,6 @@
     1568
    ],
    "rank": 6,
-   "next": {
-    "opp": "Legia",
-    "oppSlug": "legia",
-    "ha": "a",
-    "kickoff": "2026-11-08T16:30:00.000Z",
-    "win": 0.215,
-    "draw": 0.26
-   },
    "table": {
     "pos": 17,
     "p": 13,
@@ -851,14 +819,6 @@
     1564
    ],
    "rank": 7,
-   "next": {
-    "opp": "Jagiellonia",
-    "oppSlug": "jagiellonia",
-    "ha": "a",
-    "kickoff": "2026-11-08T13:45:00.000Z",
-    "win": 0.274,
-    "draw": 0.266
-   },
    "table": {
     "pos": 6,
     "p": 13,
@@ -1887,14 +1847,6 @@
     1505
    ],
    "rank": 16,
-   "next": {
-    "opp": "Lech Poznan",
-    "oppSlug": "lech-poznan",
-    "ha": "a",
-    "kickoff": "2026-11-08T19:15:00.000Z",
-    "win": 0.119,
-    "draw": 0.2
-   },
    "table": {
     "pos": 5,
     "p": 13,

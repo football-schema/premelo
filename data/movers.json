@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:19.763Z",
+ "updated": "2026-11-09T07:01:34.221Z",
  "up": [
   {
    "league": "eredivisie",
@@ -132,14 +132,6 @@
    "change": -30
   },
   {
-   "league": "pl",
-   "leagueName": "Premier League",
-   "slug": "sunderland",
-   "name": "Sunderland",
-   "elo": 1853,
-   "change": -28
-  },
-  {
    "league": "eredivisie",
    "leagueName": "Eredivisie",
    "slug": "feyenoord",
@@ -162,6 +154,14 @@
    "name": "Hamburger SV",
    "elo": 1645,
    "change": -26
+  },
+  {
+   "league": "poland",
+   "leagueName": "Ekstraklasa",
+   "slug": "pogon-szczecin",
+   "name": "Pogon Szczecin",
+   "elo": 1535,
+   "change": -25
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:18.873Z",
+ "updated": "2026-11-09T07:01:33.403Z",
  "league": "scotland",
  "name": "Scottish Premiership",
  "through": "2026-11-01",
@@ -211,14 +211,6 @@
     1694
    ],
    "rank": 2,
-   "next": {
-    "opp": "Kilmarnock",
-    "oppSlug": "kilmarnock",
-    "ha": "h",
-    "kickoff": "2026-11-08T16:00:00.000Z",
-    "win": 0.871,
-    "draw": 0.092
-   },
    "table": {
     "pos": 1,
     "p": 12,
@@ -308,14 +300,6 @@
     1533
    ],
    "rank": 3,
-   "next": {
-    "opp": "Falkirk",
-    "oppSlug": "falkirk",
-    "ha": "h",
-    "kickoff": "2026-11-08T15:00:00.000Z",
-    "win": 0.642,
-    "draw": 0.215
-   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -761,14 +745,6 @@
     1386
    ],
    "rank": 8,
-   "next": {
-    "opp": "Hearts",
-    "oppSlug": "hearts",
-    "ha": "a",
-    "kickoff": "2026-11-08T15:00:00.000Z",
-    "win": 0.143,
-    "draw": 0.215
-   },
    "table": {
     "pos": 4,
     "p": 12,
@@ -1303,14 +1279,6 @@
     1309
    ],
    "rank": 12,
-   "next": {
-    "opp": "Celtic",
-    "oppSlug": "celtic",
-    "ha": "a",
-    "kickoff": "2026-11-08T16:00:00.000Z",
-    "win": 0.036,
-    "draw": 0.092
-   },
    "table": {
     "pos": 11,
     "p": 12,

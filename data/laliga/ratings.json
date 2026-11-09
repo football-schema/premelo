@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:11.802Z",
+ "updated": "2026-11-09T07:01:27.329Z",
  "league": "laliga",
  "name": "La Liga",
  "through": "2026-11-02",
@@ -136,14 +136,6 @@
     2167
    ],
    "rank": 1,
-   "next": {
-    "opp": "Atlético Madrid",
-    "oppSlug": "ath-madrid",
-    "ha": "a",
-    "kickoff": "2026-11-08T20:00:00.000Z",
-    "win": 0.49,
-    "draw": 0.259
-   },
    "table": {
     "pos": 1,
     "p": 11,
@@ -378,14 +370,6 @@
     1982
    ],
    "rank": 3,
-   "next": {
-    "opp": "Barcelona",
-    "oppSlug": "barcelona",
-    "ha": "h",
-    "kickoff": "2026-11-08T20:00:00.000Z",
-    "win": 0.251,
-    "draw": 0.259
-   },
    "table": {
     "pos": 2,
     "p": 11,
@@ -503,14 +487,6 @@
     1867
    ],
    "rank": 4,
-   "next": {
-    "opp": "Elche",
-    "oppSlug": "elche",
-    "ha": "a",
-    "kickoff": "2026-11-08T13:00:00.000Z",
-    "win": 0.465,
-    "draw": 0.267
-   },
    "table": {
     "pos": 4,
     "p": 11,
@@ -745,14 +721,6 @@
     1852
    ],
    "rank": 6,
-   "next": {
-    "opp": "Getafe",
-    "oppSlug": "getafe",
-    "ha": "h",
-    "kickoff": "2026-11-08T17:30:00.000Z",
-    "win": 0.656,
-    "draw": 0.215
-   },
    "table": {
     "pos": 9,
     "p": 11,
@@ -870,14 +838,6 @@
     1817
    ],
    "rank": 7,
-   "next": {
-    "opp": "Rayo Vallecano",
-    "oppSlug": "vallecano",
-    "ha": "h",
-    "kickoff": "2026-11-08T15:15:00.000Z",
-    "win": 0.507,
-    "draw": 0.261
-   },
    "table": {
     "pos": 5,
     "p": 11,
@@ -1112,14 +1072,6 @@
     1792
    ],
    "rank": 9,
-   "next": {
-    "opp": "Levante",
-    "oppSlug": "levante",
-    "ha": "h",
-    "kickoff": "2026-11-08T17:30:00.000Z",
-    "win": 0.558,
-    "draw": 0.246
-   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -1237,14 +1189,6 @@
     1781
    ],
    "rank": 10,
-   "next": {
-    "opp": "Real Sociedad",
-    "oppSlug": "sociedad",
-    "ha": "a",
-    "kickoff": "2026-11-08T15:15:00.000Z",
-    "win": 0.232,
-    "draw": 0.261
-   },
    "table": {
     "pos": 12,
     "p": 10,
@@ -2540,14 +2484,6 @@
     1687
    ],
    "rank": 17,
-   "next": {
-    "opp": "Real Betis",
-    "oppSlug": "betis",
-    "ha": "h",
-    "kickoff": "2026-11-08T13:00:00.000Z",
-    "win": 0.268,
-    "draw": 0.267
-   },
    "table": {
     "pos": 17,
     "p": 11,
@@ -2784,14 +2720,6 @@
     1675
    ],
    "rank": 18,
-   "next": {
-    "opp": "Villarreal",
-    "oppSlug": "villarreal",
-    "ha": "a",
-    "kickoff": "2026-11-08T17:30:00.000Z",
-    "win": 0.129,
-    "draw": 0.215
-   },
    "table": {
     "pos": 13,
     "p": 11,
@@ -2909,14 +2837,6 @@
     1680
    ],
    "rank": 19,
-   "next": {
-    "opp": "Celta Vigo",
-    "oppSlug": "celta",
-    "ha": "a",
-    "kickoff": "2026-11-08T17:30:00.000Z",
-    "win": 0.196,
-    "draw": 0.246
-   },
    "table": {
     "pos": 18,
     "p": 11,

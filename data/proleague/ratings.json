@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:18.136Z",
+ "updated": "2026-11-09T07:01:32.762Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-11-04",
@@ -123,14 +123,6 @@
     1932
    ],
    "rank": 1,
-   "next": {
-    "opp": "Anderlecht",
-    "oppSlug": "anderlecht",
-    "ha": "h",
-    "kickoff": "2026-11-08T12:30:00.000Z",
-    "win": 0.674,
-    "draw": 0.198
-   },
    "table": {
     "pos": 1,
     "p": 10,
@@ -220,14 +212,6 @@
     1872
    ],
    "rank": 2,
-   "next": {
-    "opp": "Genk",
-    "oppSlug": "genk",
-    "ha": "h",
-    "kickoff": "2026-11-08T17:30:00.000Z",
-    "win": 0.595,
-    "draw": 0.235
-   },
    "table": {
     "pos": 2,
     "p": 10,
@@ -317,14 +301,6 @@
     1754
    ],
    "rank": 3,
-   "next": {
-    "opp": "Club Brugge",
-    "oppSlug": "club-brugge",
-    "ha": "a",
-    "kickoff": "2026-11-08T12:30:00.000Z",
-    "win": 0.128,
-    "draw": 0.198
-   },
    "table": {
     "pos": 5,
     "p": 10,
@@ -414,14 +390,6 @@
     1735
    ],
    "rank": 4,
-   "next": {
-    "opp": "Union Saint-Gilloise",
-    "oppSlug": "st-gilloise",
-    "ha": "a",
-    "kickoff": "2026-11-08T17:30:00.000Z",
-    "win": 0.17,
-    "draw": 0.235
-   },
    "table": {
     "pos": 6,
     "p": 10,
@@ -511,14 +479,6 @@
     1712
    ],
    "rank": 5,
-   "next": {
-    "opp": "Kortrijk",
-    "oppSlug": "kortrijk",
-    "ha": "h",
-    "kickoff": "2026-11-08T15:00:00.000Z",
-    "win": 0.661,
-    "draw": 0.207
-   },
    "table": {
     "pos": 3,
     "p": 10,
@@ -697,14 +657,6 @@
     1656
    ],
    "rank": 7,
-   "next": {
-    "opp": "Waregem",
-    "oppSlug": "waregem",
-    "ha": "h",
-    "kickoff": "2026-11-08T18:15:00.000Z",
-    "win": 0.502,
-    "draw": 0.259
-   },
    "table": {
     "pos": 15,
     "p": 10,
@@ -1061,14 +1013,6 @@
     1611
    ],
    "rank": 11,
-   "next": {
-    "opp": "Sint-Truiden",
-    "oppSlug": "st-truiden",
-    "ha": "a",
-    "kickoff": "2026-11-08T18:15:00.000Z",
-    "win": 0.239,
-    "draw": 0.259
-   },
    "table": {
     "pos": 11,
     "p": 10,
@@ -1682,14 +1626,6 @@
     1501
    ],
    "rank": 18,
-   "next": {
-    "opp": "Gent",
-    "oppSlug": "gent",
-    "ha": "a",
-    "kickoff": "2026-11-08T15:00:00.000Z",
-    "win": 0.132,
-    "draw": 0.207
-   },
    "table": {
     "pos": 18,
     "p": 10,

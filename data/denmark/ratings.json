@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:18.894Z",
+ "updated": "2026-11-09T07:01:33.422Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-11-02",
@@ -123,14 +123,6 @@
     1793
    ],
    "rank": 1,
-   "next": {
-    "opp": "Brondby",
-    "oppSlug": "brondby",
-    "ha": "h",
-    "kickoff": "2026-11-08T11:00:00.000Z",
-    "win": 0.539,
-    "draw": 0.256
-   },
    "table": {
     "pos": 2,
     "p": 13,
@@ -220,14 +212,6 @@
     1700
    ],
    "rank": 2,
-   "next": {
-    "opp": "FC Copenhagen",
-    "oppSlug": "fc-copenhagen",
-    "ha": "a",
-    "kickoff": "2026-11-08T11:00:00.000Z",
-    "win": 0.205,
-    "draw": 0.256
-   },
    "table": {
     "pos": 4,
     "p": 13,
@@ -317,14 +301,6 @@
     1688
    ],
    "rank": 3,
-   "next": {
-    "opp": "Sonderjyske",
-    "oppSlug": "sonderjyske",
-    "ha": "h",
-    "kickoff": "2026-11-08T17:00:00.000Z",
-    "win": 0.711,
-    "draw": 0.187
-   },
    "table": {
     "pos": 1,
     "p": 13,
@@ -414,14 +390,6 @@
     1684
    ],
    "rank": 4,
-   "next": {
-    "opp": "Randers FC",
-    "oppSlug": "randers-fc",
-    "ha": "a",
-    "kickoff": "2026-11-08T15:00:00.000Z",
-    "win": 0.511,
-    "draw": 0.264
-   },
    "table": {
     "pos": 5,
     "p": 13,
@@ -511,14 +479,6 @@
     1638
    ],
    "rank": 5,
-   "next": {
-    "opp": "Horsens",
-    "oppSlug": "horsens",
-    "ha": "h",
-    "kickoff": "2026-11-08T13:00:00.000Z",
-    "win": 0.629,
-    "draw": 0.224
-   },
    "table": {
     "pos": 8,
     "p": 13,
@@ -875,14 +835,6 @@
     1505
    ],
    "rank": 9,
-   "next": {
-    "opp": "Nordsjaelland",
-    "oppSlug": "nordsjaelland",
-    "ha": "h",
-    "kickoff": "2026-11-08T15:00:00.000Z",
-    "win": 0.225,
-    "draw": 0.264
-   },
    "table": {
     "pos": 10,
     "p": 13,
@@ -972,14 +924,6 @@
     1472
    ],
    "rank": 10,
-   "next": {
-    "opp": "Midtjylland",
-    "oppSlug": "midtjylland",
-    "ha": "a",
-    "kickoff": "2026-11-08T17:00:00.000Z",
-    "win": 0.102,
-    "draw": 0.187
-   },
    "table": {
     "pos": 12,
     "p": 13,
@@ -1158,14 +1102,6 @@
     1454
    ],
    "rank": 12,
-   "next": {
-    "opp": "Aarhus",
-    "oppSlug": "aarhus",
-    "ha": "a",
-    "kickoff": "2026-11-08T13:00:00.000Z",
-    "win": 0.147,
-    "draw": 0.224
-   },
    "table": {
     "pos": 7,
     "p": 13,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:19.841Z",
+ "updated": "2026-11-09T07:01:34.265Z",
  "leagues": [
   {
    "id": "pl",
@@ -8,7 +8,7 @@
    "country": "England",
    "second": "Championship",
    "extra": false,
-   "through": "2026-11-07",
+   "through": "2026-11-08",
    "top": [
     [
      "Arsenal",
@@ -20,7 +20,7 @@
     ],
     [
      "Liverpool",
-     2051
+     2054
     ]
    ]
   },

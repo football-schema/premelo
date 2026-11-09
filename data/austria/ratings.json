@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:18.886Z",
+ "updated": "2026-11-09T07:01:33.414Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-11-01",
@@ -123,14 +123,6 @@
     1724
    ],
    "rank": 1,
-   "next": {
-    "opp": "Sturm Graz",
-    "oppSlug": "sturm-graz",
-    "ha": "a",
-    "kickoff": "2026-11-08T16:00:00.000Z",
-    "win": 0.454,
-    "draw": 0.275
-   },
    "table": {
     "pos": 2,
     "p": 11,
@@ -398,14 +390,6 @@
     1599
    ],
    "rank": 4,
-   "next": {
-    "opp": "Salzburg",
-    "oppSlug": "salzburg",
-    "ha": "h",
-    "kickoff": "2026-11-08T16:00:00.000Z",
-    "win": 0.271,
-    "draw": 0.275
-   },
    "table": {
     "pos": 4,
     "p": 11,
@@ -495,14 +479,6 @@
     1493
    ],
    "rank": 5,
-   "next": {
-    "opp": "Hartberg",
-    "oppSlug": "hartberg",
-    "ha": "a",
-    "kickoff": "2026-11-08T13:30:00.000Z",
-    "win": 0.371,
-    "draw": 0.283
-   },
    "table": {
     "pos": 8,
     "p": 11,
@@ -592,14 +568,6 @@
     1487
    ],
    "rank": 6,
-   "next": {
-    "opp": "Tirol",
-    "oppSlug": "tirol",
-    "ha": "a",
-    "kickoff": "2026-11-08T13:30:00.000Z",
-    "win": 0.341,
-    "draw": 0.283
-   },
    "table": {
     "pos": 11,
     "p": 11,
@@ -778,14 +746,6 @@
     1455
    ],
    "rank": 8,
-   "next": {
-    "opp": "Austria Vienna",
-    "oppSlug": "austria-vienna",
-    "ha": "h",
-    "kickoff": "2026-11-08T13:30:00.000Z",
-    "win": 0.376,
-    "draw": 0.283
-   },
    "table": {
     "pos": 7,
     "p": 11,
@@ -875,14 +835,6 @@
     1430
    ],
    "rank": 9,
-   "next": {
-    "opp": "Altach",
-    "oppSlug": "altach",
-    "ha": "h",
-    "kickoff": "2026-11-08T13:30:00.000Z",
-    "win": 0.345,
-    "draw": 0.283
-   },
    "table": {
     "pos": 5,
     "p": 11,

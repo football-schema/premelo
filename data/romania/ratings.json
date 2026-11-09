@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:01:19.694Z",
+ "updated": "2026-11-09T07:01:34.159Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-11-02",
@@ -123,14 +123,6 @@
     1722
    ],
    "rank": 1,
-   "next": {
-    "opp": "CFR Cluj",
-    "oppSlug": "cfr-cluj",
-    "ha": "a",
-    "kickoff": "2026-11-08T17:00:00.000Z",
-    "win": 0.611,
-    "draw": 0.246
-   },
    "table": {
     "pos": 2,
     "p": 14,
@@ -843,14 +835,6 @@
     1420
    ],
    "rank": 9,
-   "next": {
-    "opp": "Univ. Craiova",
-    "oppSlug": "univ-craiova",
-    "ha": "h",
-    "kickoff": "2026-11-08T17:00:00.000Z",
-    "win": 0.144,
-    "draw": 0.246
-   },
    "table": {
     "pos": 9,
     "p": 14,
@@ -1312,14 +1296,6 @@
     1352
    ],
    "rank": 14,
-   "next": {
-    "opp": "FC Voluntari",
-    "oppSlug": "fc-voluntari",
-    "ha": "h",
-    "kickoff": "2026-11-08T14:00:00.000Z",
-    "win": 0.477,
-    "draw": 0.292
-   },
    "table": {
     "pos": 11,
     "p": 14,
@@ -1409,14 +1385,6 @@
     1291
    ],
    "rank": 15,
-   "next": {
-    "opp": "Sepsi Sf. Gheorghe",
-    "oppSlug": "sepsi-sf-gheorghe",
-    "ha": "a",
-    "kickoff": "2026-11-08T14:00:00.000Z",
-    "win": 0.23,
-    "draw": 0.292
-   },
    "table": {
     "pos": 15,
     "p": 14,
