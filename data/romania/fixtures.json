@@ -1,56 +1,6 @@
 {
- "updated": "2026-11-09T07:01:34.159Z",
+ "updated": "2026-11-10T07:01:15.621Z",
  "league": "romania",
  "season": "2026-27",
- "fixtures": [
-  {
-   "kickoff": "2026-11-09T18:00:00.000Z",
-   "home": "FC Botosani",
-   "away": "Otelul",
-   "homeSlug": "fc-botosani",
-   "awaySlug": "otelul",
-   "homeName": "FC Botosani",
-   "awayName": "Otelul",
-   "elo": [
-    1404,
-    1369
-   ],
-   "dr": 114,
-   "H": 0.476,
-   "D": 0.293,
-   "A": 0.231,
-   "xg": [
-    1.5,
-    1
-   ],
-   "O25": 0.433,
-   "btts": 0.491,
-   "scores": [
-    [
-     "1-1",
-     0.144
-    ],
-    [
-     "1-0",
-     0.12
-    ],
-    [
-     "0-0",
-     0.098
-    ],
-    [
-     "2-0",
-     0.091
-    ],
-    [
-     "2-1",
-     0.089
-    ],
-    [
-     "0-1",
-     0.077
-    ]
-   ]
-  }
- ]
+ "fixtures": []
 }

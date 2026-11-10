@@ -1,14 +1,6 @@
 {
- "updated": "2026-11-09T07:01:34.221Z",
+ "updated": "2026-11-10T07:01:15.683Z",
  "up": [
-  {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "cambuur",
-   "name": "Cambuur",
-   "elo": 1531,
-   "change": 46
-  },
   {
    "league": "ireland",
    "leagueName": "League of Ireland",
@@ -20,25 +12,49 @@
   {
    "league": "superleague",
    "leagueName": "Super League",
-   "slug": "ofi-crete",
-   "name": "OFI",
-   "elo": 1470,
-   "change": 38
-  },
-  {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "werder-bremen",
-   "name": "Werder Bremen",
-   "elo": 1798,
-   "change": 33
+   "slug": "atromitos",
+   "name": "Atromitos",
+   "elo": 1454,
+   "change": 41
   },
   {
    "league": "proleague",
    "leagueName": "Pro League",
    "slug": "anderlecht",
    "name": "Anderlecht",
-   "elo": 1754,
+   "elo": 1780,
+   "change": 40
+  },
+  {
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "twente",
+   "name": "Twente",
+   "elo": 1835,
+   "change": 37
+  },
+  {
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "st-truiden",
+   "name": "Sint-Truiden",
+   "elo": 1687,
+   "change": 32
+  },
+  {
+   "league": "primeira",
+   "leagueName": "Primeira Liga",
+   "slug": "porto",
+   "name": "Porto",
+   "elo": 1960,
+   "change": 31
+  },
+  {
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "nijmegen",
+   "name": "NEC",
+   "elo": 1669,
    "change": 31
   },
   {
@@ -50,11 +66,11 @@
    "change": 31
   },
   {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "mechelen",
-   "name": "Mechelen",
-   "elo": 1576,
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "bayern-munich",
+   "name": "Bayern Munich",
+   "elo": 2199,
    "change": 30
   },
   {
@@ -64,22 +80,6 @@
    "name": "HJK",
    "elo": 1533,
    "change": 30
-  },
-  {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "lommel-sk",
-   "name": "Lommel SK",
-   "elo": 1552,
-   "change": 28
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "lazio",
-   "name": "Lazio",
-   "elo": 1860,
-   "change": 27
   }
  ],
  "down": [
@@ -92,14 +92,6 @@
    "change": -46
   },
   {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "go-ahead-eagles",
-   "name": "Go Ahead Eagles",
-   "elo": 1573,
-   "change": -42
-  },
-  {
    "league": "austria",
    "leagueName": "Austrian Bundesliga",
    "slug": "grazer-ak",
@@ -108,52 +100,52 @@
    "change": -39
   },
   {
+   "league": "laliga",
+   "leagueName": "La Liga",
+   "slug": "villarreal",
+   "name": "Villarreal",
+   "elo": 1841,
+   "change": -30
+  },
+  {
    "league": "seriea",
    "leagueName": "Serie A",
    "slug": "sassuolo",
    "name": "Sassuolo",
-   "elo": 1695,
-   "change": -38
-  },
-  {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "hoffenheim",
-   "name": "Hoffenheim",
-   "elo": 1828,
-   "change": -33
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "milan",
-   "name": "AC Milan",
-   "elo": 1913,
-   "change": -30
-  },
-  {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "feyenoord",
-   "name": "Feyenoord",
-   "elo": 1832,
-   "change": -27
+   "elo": 1683,
+   "change": -28
   },
   {
    "league": "scotland",
    "leagueName": "Scottish Premiership",
    "slug": "hearts",
    "name": "Hearts",
-   "elo": 1533,
-   "change": -26
+   "elo": 1518,
+   "change": -27
   },
   {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "hamburg",
-   "name": "Hamburger SV",
-   "elo": 1645,
-   "change": -26
+   "league": "proleague",
+   "leagueName": "Pro League",
+   "slug": "waregem",
+   "name": "Waregem",
+   "elo": 1584,
+   "change": -27
+  },
+  {
+   "league": "laliga",
+   "leagueName": "La Liga",
+   "slug": "osasuna",
+   "name": "Osasuna",
+   "elo": 1699,
+   "change": -27
+  },
+  {
+   "league": "pl",
+   "leagueName": "Premier League",
+   "slug": "chelsea",
+   "name": "Chelsea",
+   "elo": 2006,
+   "change": -27
   },
   {
    "league": "poland",
@@ -161,6 +153,14 @@
    "slug": "pogon-szczecin",
    "name": "Pogon Szczecin",
    "elo": 1535,
+   "change": -25
+  },
+  {
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "milan",
+   "name": "AC Milan",
+   "elo": 1912,
    "change": -25
   }
  ]

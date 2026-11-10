@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:01:34.159Z",
+ "updated": "2026-11-10T07:01:15.621Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-11-02",
@@ -1013,14 +1013,6 @@
     1403
    ],
    "rank": 11,
-   "next": {
-    "opp": "Otelul",
-    "oppSlug": "otelul",
-    "ha": "h",
-    "kickoff": "2026-11-09T18:00:00.000Z",
-    "win": 0.476,
-    "draw": 0.293
-   },
    "table": {
     "pos": 12,
     "p": 14,
@@ -1199,14 +1191,6 @@
     1368
    ],
    "rank": 13,
-   "next": {
-    "opp": "FC Botosani",
-    "oppSlug": "fc-botosani",
-    "ha": "a",
-    "kickoff": "2026-11-09T18:00:00.000Z",
-    "win": 0.231,
-    "draw": 0.293
-   },
    "table": {
     "pos": 13,
     "p": 14,

@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "league": "Scottish Premiership",
  "from": "2000-01",
  "test": {
   "from": "2012-13",
-  "matches": 3212,
+  "matches": 3218,
   "model": {
-   "logloss": 0.9624,
+   "logloss": 0.9623,
    "rps": 0.1959,
-   "brier": 0.5717
+   "brier": 0.5716
   },
   "elo": {
-   "logloss": 0.9615,
+   "logloss": 0.9614,
    "rps": 0.1955,
-   "brier": 0.5712
+   "brier": 0.5711
   },
   "market": {
    "logloss": 0.9552,
@@ -22,7 +22,7 @@
   }
  },
  "all": {
-  "matches": 5947,
+  "matches": 5953,
   "model": {
    "logloss": 0.954,
    "rps": 0.1941,
@@ -35,8 +35,8 @@
   },
   "market": {
    "logloss": 0.952,
-   "rps": 0.1932,
-   "brier": 0.5644
+   "rps": 0.1933,
+   "brier": 0.5643
   }
  },
  "params": {
@@ -610,29 +610,29 @@
   },
   {
    "season": "2026-27",
-   "matches": 69,
-   "withOdds": 69,
+   "matches": 75,
+   "withOdds": 75,
    "model": {
-    "logloss": 0.9955,
-    "rps": 0.2105,
-    "brier": 0.5955
+    "logloss": 0.9909,
+    "rps": 0.2103,
+    "brier": 0.5918
    },
    "market": {
-    "logloss": 1.0048,
-    "rps": 0.2137,
-    "brier": 0.6009
+    "logloss": 1,
+    "rps": 0.2135,
+    "brier": 0.5974
    },
    "baseline": {
-    "logloss": 1.0717,
-    "rps": 0.2356,
-    "brier": 0.6494
+    "logloss": 1.0721,
+    "rps": 0.2373,
+    "brier": 0.65
    }
   }
  ],
  "calibration": [
   {
    "bucket": "0-10%",
-   "matches": 304,
+   "matches": 305,
    "predicted": 0.073,
    "actual": 0.066
   },
@@ -650,13 +650,13 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 1218,
+   "matches": 1219,
    "predicted": 0.355,
-   "actual": 0.328
+   "actual": 0.327
   },
   {
    "bucket": "40-50%",
-   "matches": 1482,
+   "matches": 1484,
    "predicted": 0.447,
    "actual": 0.439
   },
@@ -668,9 +668,9 @@
   },
   {
    "bucket": "60-70%",
-   "matches": 311,
+   "matches": 312,
    "predicted": 0.643,
-   "actual": 0.656
+   "actual": 0.654
   },
   {
    "bucket": "70-80%",
@@ -680,7 +680,7 @@
   },
   {
    "bucket": "80-90%",
-   "matches": 391,
+   "matches": 392,
    "predicted": 0.846,
    "actual": 0.847
   },
