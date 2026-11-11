@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T07:01:14.891Z",
+ "updated": "2026-11-11T07:01:15.160Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
- "through": "2026-11-01",
+ "through": "2026-11-08",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -46,112 +46,14 @@
  "projected": {},
  "clubs": [
   {
-   "club": "Salzburg",
-   "name": "Salzburg",
-   "slug": "salzburg",
-   "div": "top",
-   "elo": 1721,
-   "change30": -25,
-   "played": 19,
-   "form": [
-    {
-     "r": "W",
-     "opp": "Sturm Graz",
-     "oppSlug": "sturm-graz",
-     "gf": 3,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-20"
-    },
-    {
-     "r": "D",
-     "opp": "Grazer AK",
-     "oppSlug": "grazer-ak",
-     "gf": 0,
-     "ga": 0,
-     "ha": "a",
-     "date": "2026-10-10"
-    },
-    {
-     "r": "W",
-     "opp": "Altach",
-     "oppSlug": "altach",
-     "gf": 3,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-18"
-    },
-    {
-     "r": "W",
-     "opp": "LASK",
-     "oppSlug": "lask",
-     "gf": 3,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-10-25"
-    },
-    {
-     "r": "W",
-     "opp": "A. Lustenau",
-     "oppSlug": "a-lustenau",
-     "gf": 5,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-11-01"
-    }
-   ],
-   "spark": [
-    1633,
-    1647,
-    1656,
-    1655,
-    1651,
-    1672,
-    1676,
-    1685,
-    1699,
-    1716,
-    1720,
-    1729,
-    1746,
-    1732,
-    1714,
-    1716,
-    1717,
-    1724,
-    1735,
-    1724
-   ],
-   "rank": 1,
-   "table": {
-    "pos": 2,
-    "p": 11,
-    "w": 8,
-    "d": 3,
-    "l": 0,
-    "gf": 29,
-    "ga": 6,
-    "pts": 27
-   }
-  },
-  {
    "club": "LASK",
    "name": "LASK",
    "slug": "lask",
    "div": "top",
-   "elo": 1712,
-   "change30": -6,
-   "played": 17,
+   "elo": 1723,
+   "change30": 5,
+   "played": 18,
    "form": [
-    {
-     "r": "D",
-     "opp": "Hartberg",
-     "oppSlug": "hartberg",
-     "gf": 3,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-20"
-    },
     {
      "r": "L",
      "opp": "SK Rapid",
@@ -187,10 +89,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-31"
+    },
+    {
+     "r": "W",
+     "opp": "Ried",
+     "oppSlug": "ried",
+     "gf": 4,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1613,
     1626,
     1629,
     1653,
@@ -209,18 +119,108 @@
     1715,
     1712,
     1710,
-    1718
+    1718,
+    1723
+   ],
+   "rank": 1,
+   "table": {
+    "pos": 3,
+    "p": 12,
+    "w": 8,
+    "d": 1,
+    "l": 3,
+    "gf": 30,
+    "ga": 15,
+    "pts": 25
+   }
+  },
+  {
+   "club": "Salzburg",
+   "name": "Salzburg",
+   "slug": "salzburg",
+   "div": "top",
+   "elo": 1712,
+   "change30": -34,
+   "played": 20,
+   "form": [
+    {
+     "r": "D",
+     "opp": "Grazer AK",
+     "oppSlug": "grazer-ak",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-10-10"
+    },
+    {
+     "r": "W",
+     "opp": "Altach",
+     "oppSlug": "altach",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-18"
+    },
+    {
+     "r": "W",
+     "opp": "LASK",
+     "oppSlug": "lask",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-10-25"
+    },
+    {
+     "r": "W",
+     "opp": "A. Lustenau",
+     "oppSlug": "a-lustenau",
+     "gf": 5,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-01"
+    },
+    {
+     "r": "W",
+     "opp": "Sturm Graz",
+     "oppSlug": "sturm-graz",
+     "gf": 4,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-11-08"
+    }
+   ],
+   "spark": [
+    1647,
+    1656,
+    1655,
+    1651,
+    1672,
+    1676,
+    1685,
+    1699,
+    1716,
+    1720,
+    1729,
+    1746,
+    1732,
+    1714,
+    1716,
+    1717,
+    1724,
+    1735,
+    1724,
+    1712
    ],
    "rank": 2,
    "table": {
-    "pos": 3,
-    "p": 11,
-    "w": 7,
-    "d": 1,
-    "l": 3,
-    "gf": 26,
-    "ga": 13,
-    "pts": 22
+    "pos": 2,
+    "p": 12,
+    "w": 9,
+    "d": 3,
+    "l": 0,
+    "gf": 33,
+    "ga": 9,
+    "pts": 30
    }
   },
   {
@@ -228,19 +228,10 @@
    "name": "SK Rapid",
    "slug": "sk-rapid",
    "div": "top",
-   "elo": 1703,
-   "change30": 32,
-   "played": 17,
+   "elo": 1712,
+   "change30": 41,
+   "played": 18,
    "form": [
-    {
-     "r": "W",
-     "opp": "Tirol",
-     "oppSlug": "tirol",
-     "gf": 3,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-18"
-    },
     {
      "r": "W",
      "opp": "LASK",
@@ -276,10 +267,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-11-01"
+    },
+    {
+     "r": "W",
+     "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
+     "gf": 6,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-06"
     }
    ],
    "spark": [
-    1545,
     1538,
     1524,
     1533,
@@ -298,18 +297,19 @@
     1684,
     1689,
     1708,
-    1707
+    1707,
+    1712
    ],
    "rank": 3,
    "table": {
     "pos": 1,
-    "p": 11,
-    "w": 10,
+    "p": 12,
+    "w": 11,
     "d": 0,
     "l": 1,
-    "gf": 33,
+    "gf": 39,
     "ga": 9,
-    "pts": 30
+    "pts": 33
    }
   },
   {
@@ -317,19 +317,10 @@
    "name": "Sturm Graz",
    "slug": "sturm-graz",
    "div": "top",
-   "elo": 1599,
-   "change30": 4,
-   "played": 19,
+   "elo": 1608,
+   "change30": 13,
+   "played": 20,
    "form": [
-    {
-     "r": "L",
-     "opp": "Salzburg",
-     "oppSlug": "salzburg",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-20"
-    },
     {
      "r": "W",
      "opp": "Austria Vienna",
@@ -365,10 +356,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-11-01"
+    },
+    {
+     "r": "L",
+     "opp": "Salzburg",
+     "oppSlug": "salzburg",
+     "gf": 3,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1549,
     1564,
     1589,
     1591,
@@ -376,7 +375,7 @@
     1600,
     1591,
     1600,
-    1614,
+    1613,
     1602,
     1606,
     1610,
@@ -387,107 +386,19 @@
     1610,
     1615,
     1615,
-    1599
+    1599,
+    1608
    ],
    "rank": 4,
    "table": {
-    "pos": 4,
-    "p": 11,
+    "pos": 5,
+    "p": 12,
     "w": 5,
     "d": 4,
-    "l": 2,
-    "gf": 19,
-    "ga": 13,
-    "pts": 19
-   }
-  },
-  {
-   "club": "Altach",
-   "name": "Altach",
-   "slug": "altach",
-   "div": "top",
-   "elo": 1489,
-   "change30": 28,
-   "played": 11,
-   "form": [
-    {
-     "r": "L",
-     "opp": "A. Lustenau",
-     "oppSlug": "a-lustenau",
-     "gf": 0,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-19"
-    },
-    {
-     "r": "W",
-     "opp": "Wolfsberger AC",
-     "oppSlug": "wolfsberger-ac",
-     "gf": 3,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "L",
-     "opp": "Salzburg",
-     "oppSlug": "salzburg",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-10-18"
-    },
-    {
-     "r": "W",
-     "opp": "Austria Vienna",
-     "oppSlug": "austria-vienna",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-23"
-    },
-    {
-     "r": "D",
-     "opp": "Ried",
-     "oppSlug": "ried",
-     "gf": 1,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-31"
-    }
-   ],
-   "spark": [
-    1474,
-    1468,
-    1462,
-    1464,
-    1458,
-    1448,
-    1433,
-    1436,
-    1473,
-    1456,
-    1490,
-    1475,
-    1463,
-    1459,
-    1455,
-    1461,
-    1485,
-    1477,
-    1484,
-    1493
-   ],
-   "rank": 5,
-   "table": {
-    "pos": 8,
-    "p": 11,
-    "w": 3,
-    "d": 1,
-    "l": 7,
-    "gf": 11,
+    "l": 3,
+    "gf": 22,
     "ga": 17,
-    "pts": 10
+    "pts": 19
    }
   },
   {
@@ -495,19 +406,10 @@
    "name": "Austria Vienna",
    "slug": "austria-vienna",
    "div": "top",
-   "elo": 1483,
-   "change30": -14,
-   "played": 17,
+   "elo": 1485,
+   "change30": -12,
+   "played": 18,
    "form": [
-    {
-     "r": "D",
-     "opp": "Grazer AK",
-     "oppSlug": "grazer-ak",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-19"
-    },
     {
      "r": "L",
      "opp": "Sturm Graz",
@@ -543,10 +445,18 @@
      "ga": 2,
      "ha": "h",
      "date": "2026-11-01"
+    },
+    {
+     "r": "D",
+     "opp": "Tirol",
+     "oppSlug": "tirol",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1504,
     1511,
     1507,
     1526,
@@ -565,18 +475,108 @@
     1487,
     1481,
     1486,
-    1487
+    1487,
+    1485
+   ],
+   "rank": 5,
+   "table": {
+    "pos": 11,
+    "p": 12,
+    "w": 2,
+    "d": 2,
+    "l": 8,
+    "gf": 11,
+    "ga": 23,
+    "pts": 8
+   }
+  },
+  {
+   "club": "Altach",
+   "name": "Altach",
+   "slug": "altach",
+   "div": "top",
+   "elo": 1475,
+   "change30": 14,
+   "played": 12,
+   "form": [
+    {
+     "r": "W",
+     "opp": "Wolfsberger AC",
+     "oppSlug": "wolfsberger-ac",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Salzburg",
+     "oppSlug": "salzburg",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-10-18"
+    },
+    {
+     "r": "W",
+     "opp": "Austria Vienna",
+     "oppSlug": "austria-vienna",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-23"
+    },
+    {
+     "r": "D",
+     "opp": "Ried",
+     "oppSlug": "ried",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-31"
+    },
+    {
+     "r": "L",
+     "opp": "Hartberg",
+     "oppSlug": "hartberg",
+     "gf": 0,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-11-08"
+    }
+   ],
+   "spark": [
+    1468,
+    1462,
+    1464,
+    1458,
+    1448,
+    1433,
+    1436,
+    1473,
+    1456,
+    1490,
+    1475,
+    1463,
+    1459,
+    1455,
+    1461,
+    1485,
+    1477,
+    1484,
+    1493,
+    1475
    ],
    "rank": 6,
    "table": {
-    "pos": 11,
-    "p": 11,
-    "w": 2,
+    "pos": 9,
+    "p": 12,
+    "w": 3,
     "d": 1,
     "l": 8,
-    "gf": 10,
-    "ga": 22,
-    "pts": 7
+    "gf": 11,
+    "ga": 20,
+    "pts": 10
    }
   },
   {
@@ -584,19 +584,10 @@
    "name": "Ried",
    "slug": "ried",
    "div": "top",
-   "elo": 1475,
-   "change30": -17,
-   "played": 11,
+   "elo": 1464,
+   "change30": -28,
+   "played": 12,
    "form": [
-    {
-     "r": "W",
-     "opp": "Wolfsberger AC",
-     "oppSlug": "wolfsberger-ac",
-     "gf": 4,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-20"
-    },
     {
      "r": "W",
      "opp": "Tirol",
@@ -632,10 +623,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-31"
+    },
+    {
+     "r": "L",
+     "opp": "LASK",
+     "oppSlug": "lask",
+     "gf": 2,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1488,
     1494,
     1494,
     1492,
@@ -654,17 +653,18 @@
     1493,
     1488,
     1488,
-    1479
+    1479,
+    1464
    ],
    "rank": 7,
    "table": {
     "pos": 6,
-    "p": 11,
+    "p": 12,
     "w": 4,
     "d": 4,
-    "l": 3,
-    "gf": 19,
-    "ga": 18,
+    "l": 4,
+    "gf": 21,
+    "ga": 22,
     "pts": 16
    }
   },
@@ -673,19 +673,10 @@
    "name": "Tirol",
    "slug": "tirol",
    "div": "top",
-   "elo": 1451,
-   "change30": 33,
-   "played": 11,
+   "elo": 1449,
+   "change30": 31,
+   "played": 12,
    "form": [
-    {
-     "r": "L",
-     "opp": "SK Rapid",
-     "oppSlug": "sk-rapid",
-     "gf": 0,
-     "ga": 3,
-     "ha": "a",
-     "date": "2026-09-18"
-    },
     {
      "r": "L",
      "opp": "Ried",
@@ -721,10 +712,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-31"
+    },
+    {
+     "r": "D",
+     "opp": "Austria Vienna",
+     "oppSlug": "austria-vienna",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1424,
     1429,
     1422,
     1420,
@@ -743,18 +742,19 @@
     1417,
     1439,
     1453,
-    1455
+    1455,
+    1449
    ],
    "rank": 8,
    "table": {
     "pos": 7,
-    "p": 11,
+    "p": 12,
     "w": 3,
-    "d": 3,
+    "d": 4,
     "l": 5,
-    "gf": 14,
-    "ga": 17,
-    "pts": 12
+    "gf": 15,
+    "ga": 18,
+    "pts": 13
    }
   },
   {
@@ -762,19 +762,10 @@
    "name": "Hartberg",
    "slug": "hartberg",
    "div": "top",
-   "elo": 1426,
-   "change30": 35,
-   "played": 11,
+   "elo": 1441,
+   "change30": 50,
+   "played": 12,
    "form": [
-    {
-     "r": "D",
-     "opp": "LASK",
-     "oppSlug": "lask",
-     "gf": 3,
-     "ga": 3,
-     "ha": "h",
-     "date": "2026-09-20"
-    },
     {
      "r": "W",
      "opp": "A. Lustenau",
@@ -810,10 +801,18 @@
      "ga": 0,
      "ha": "a",
      "date": "2026-10-30"
+    },
+    {
+     "r": "W",
+     "opp": "Altach",
+     "oppSlug": "altach",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1420,
     1410,
     1407,
     1406,
@@ -832,18 +831,19 @@
     1399,
     1383,
     1395,
-    1430
+    1430,
+    1441
    ],
    "rank": 9,
    "table": {
-    "pos": 5,
-    "p": 11,
-    "w": 5,
+    "pos": 4,
+    "p": 12,
+    "w": 6,
     "d": 2,
     "l": 4,
-    "gf": 20,
+    "gf": 23,
     "ga": 19,
-    "pts": 17
+    "pts": 20
    }
   },
   {
@@ -851,19 +851,10 @@
    "name": "Grazer AK",
    "slug": "grazer-ak",
    "div": "top",
-   "elo": 1425,
-   "change30": -31,
-   "played": 11,
+   "elo": 1419,
+   "change30": -37,
+   "played": 12,
    "form": [
-    {
-     "r": "D",
-     "opp": "Austria Vienna",
-     "oppSlug": "austria-vienna",
-     "gf": 2,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-19"
-    },
     {
      "r": "D",
      "opp": "Salzburg",
@@ -899,10 +890,18 @@
      "ga": 4,
      "ha": "h",
      "date": "2026-10-30"
+    },
+    {
+     "r": "L",
+     "opp": "A. Lustenau",
+     "oppSlug": "a-lustenau",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1445,
     1450,
     1456,
     1458,
@@ -921,17 +920,18 @@
     1469,
     1466,
     1464,
-    1429
+    1429,
+    1419
    ],
    "rank": 10,
    "table": {
-    "pos": 9,
-    "p": 11,
+    "pos": 10,
+    "p": 12,
     "w": 2,
     "d": 4,
-    "l": 5,
-    "gf": 8,
-    "ga": 27,
+    "l": 6,
+    "gf": 9,
+    "ga": 29,
     "pts": 10
    }
   },
@@ -940,19 +940,10 @@
    "name": "Wolfsberger AC",
    "slug": "wolfsberger-ac",
    "div": "top",
-   "elo": 1394,
-   "change30": -62,
-   "played": 11,
+   "elo": 1385,
+   "change30": -71,
+   "played": 12,
    "form": [
-    {
-     "r": "L",
-     "opp": "Ried",
-     "oppSlug": "ried",
-     "gf": 1,
-     "ga": 4,
-     "ha": "a",
-     "date": "2026-09-20"
-    },
     {
      "r": "L",
      "opp": "Altach",
@@ -988,10 +979,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-11-01"
+    },
+    {
+     "r": "L",
+     "opp": "SK Rapid",
+     "oppSlug": "sk-rapid",
+     "gf": 0,
+     "ga": 6,
+     "ha": "a",
+     "date": "2026-11-06"
     }
    ],
    "spark": [
-    1464,
     1459,
     1458,
     1449,
@@ -1010,17 +1009,18 @@
     1432,
     1399,
     1397,
-    1398
+    1398,
+    1385
    ],
    "rank": 11,
    "table": {
     "pos": 12,
-    "p": 11,
+    "p": 12,
     "w": 1,
     "d": 3,
-    "l": 7,
+    "l": 8,
     "gf": 8,
-    "ga": 20,
+    "ga": 26,
     "pts": 6
    }
   },
@@ -1029,19 +1029,10 @@
    "name": "A. Lustenau",
    "slug": "a-lustenau",
    "div": "top",
-   "elo": 1364,
-   "change30": -40,
-   "played": 11,
+   "elo": 1371,
+   "change30": -33,
+   "played": 12,
    "form": [
-    {
-     "r": "W",
-     "opp": "Altach",
-     "oppSlug": "altach",
-     "gf": 2,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-09-19"
-    },
     {
      "r": "L",
      "opp": "Hartberg",
@@ -1077,10 +1068,18 @@
      "ga": 5,
      "ha": "a",
      "date": "2026-11-01"
+    },
+    {
+     "r": "W",
+     "opp": "Grazer AK",
+     "oppSlug": "grazer-ak",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1294,
     1301,
     1297,
     1307,
@@ -1099,18 +1098,19 @@
     1395,
     1386,
     1379,
-    1368
+    1368,
+    1371
    ],
    "rank": 12,
    "table": {
-    "pos": 10,
-    "p": 11,
-    "w": 2,
+    "pos": 8,
+    "p": 12,
+    "w": 3,
     "d": 2,
     "l": 7,
-    "gf": 13,
-    "ga": 29,
-    "pts": 8
+    "gf": 15,
+    "ga": 30,
+    "pts": 11
    }
   }
  ]

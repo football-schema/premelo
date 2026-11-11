@@ -1,13 +1,29 @@
 {
- "updated": "2026-11-10T07:01:15.683Z",
+ "updated": "2026-11-11T07:01:15.884Z",
  "up": [
   {
    "league": "ireland",
    "leagueName": "League of Ireland",
-   "slug": "sligo-rovers",
-   "name": "Sligo Rovers",
-   "elo": 1078,
-   "change": 46
+   "slug": "uc-dublin",
+   "name": "UC Dublin",
+   "elo": 1130,
+   "change": 255
+  },
+  {
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "inter-turku",
+   "name": "Inter Turku",
+   "elo": 1543,
+   "change": 49
+  },
+  {
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "hjk",
+   "name": "HJK",
+   "elo": 1553,
+   "change": 44
   },
   {
    "league": "superleague",
@@ -34,6 +50,22 @@
    "change": 37
   },
   {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "brommapojkarna",
+   "name": "Brommapojkarna",
+   "elo": 1399,
+   "change": 35
+  },
+  {
+   "league": "poland",
+   "leagueName": "Ekstraklasa",
+   "slug": "rakow",
+   "name": "Rakow",
+   "elo": 1579,
+   "change": 34
+  },
+  {
    "league": "proleague",
    "leagueName": "Pro League",
    "slug": "st-truiden",
@@ -48,56 +80,32 @@
    "name": "Porto",
    "elo": 1960,
    "change": 31
-  },
-  {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "nijmegen",
-   "name": "NEC",
-   "elo": 1669,
-   "change": 31
-  },
-  {
-   "league": "austria",
-   "leagueName": "Austrian Bundesliga",
-   "slug": "hartberg",
-   "name": "Hartberg",
-   "elo": 1426,
-   "change": 31
-  },
-  {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "bayern-munich",
-   "name": "Bayern Munich",
-   "elo": 2199,
-   "change": 30
-  },
-  {
-   "league": "finland",
-   "leagueName": "Veikkausliiga",
-   "slug": "hjk",
-   "name": "HJK",
-   "elo": 1533,
-   "change": 30
   }
  ],
  "down": [
   {
-   "league": "ireland",
-   "leagueName": "League of Ireland",
-   "slug": "derry-city",
-   "name": "Derry City",
-   "elo": 1317,
-   "change": -46
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "kups",
+   "name": "KuPS",
+   "elo": 1389,
+   "change": -43
   },
   {
-   "league": "austria",
-   "leagueName": "Austrian Bundesliga",
-   "slug": "grazer-ak",
-   "name": "Grazer AK",
-   "elo": 1425,
-   "change": -39
+   "league": "poland",
+   "leagueName": "Ekstraklasa",
+   "slug": "pogon-szczecin",
+   "name": "Pogon Szczecin",
+   "elo": 1526,
+   "change": -34
+  },
+  {
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "vps",
+   "name": "VPS",
+   "elo": 1254,
+   "change": -31
   },
   {
    "league": "laliga",
@@ -106,6 +114,14 @@
    "name": "Villarreal",
    "elo": 1841,
    "change": -30
+  },
+  {
+   "league": "denmark",
+   "leagueName": "Danish Superliga",
+   "slug": "midtjylland",
+   "name": "Midtjylland",
+   "elo": 1683,
+   "change": -29
   },
   {
    "league": "seriea",
@@ -132,28 +148,12 @@
    "change": -27
   },
   {
-   "league": "laliga",
-   "leagueName": "La Liga",
-   "slug": "osasuna",
-   "name": "Osasuna",
-   "elo": 1699,
-   "change": -27
-  },
-  {
    "league": "pl",
    "leagueName": "Premier League",
    "slug": "chelsea",
    "name": "Chelsea",
    "elo": 2006,
    "change": -27
-  },
-  {
-   "league": "poland",
-   "leagueName": "Ekstraklasa",
-   "slug": "pogon-szczecin",
-   "name": "Pogon Szczecin",
-   "elo": 1535,
-   "change": -25
   },
   {
    "league": "seriea",

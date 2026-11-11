@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "league": "Ekstraklasa",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 4197,
+  "matches": 4206,
   "model": {
    "logloss": 1.046,
    "rps": 0.2165,
@@ -12,7 +12,7 @@
   },
   "elo": {
    "logloss": 1.0467,
-   "rps": 0.2167,
+   "rps": 0.2168,
    "brier": 0.6297
   },
   "market": {
@@ -352,22 +352,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 115,
-   "withOdds": 115,
+   "matches": 124,
+   "withOdds": 124,
    "model": {
-    "logloss": 1.0088,
-    "rps": 0.2138,
-    "brier": 0.604
+    "logloss": 1.0123,
+    "rps": 0.2149,
+    "brier": 0.6065
    },
    "market": {
-    "logloss": 0.9996,
-    "rps": 0.2116,
-    "brier": 0.5982
+    "logloss": 1.0007,
+    "rps": 0.2118,
+    "brier": 0.5989
    },
    "baseline": {
-    "logloss": 1.0513,
-    "rps": 0.2284,
-    "brier": 0.6337
+    "logloss": 1.0492,
+    "rps": 0.2277,
+    "brier": 0.6322
    }
   }
  ],
@@ -392,27 +392,27 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 1076,
+   "matches": 1077,
    "predicted": 0.355,
    "actual": 0.378
   },
   {
    "bucket": "40-50%",
-   "matches": 1313,
+   "matches": 1316,
    "predicted": 0.448,
-   "actual": 0.445
+   "actual": 0.446
   },
   {
    "bucket": "50-60%",
-   "matches": 828,
+   "matches": 832,
    "predicted": 0.544,
    "actual": 0.525
   },
   {
    "bucket": "60-70%",
-   "matches": 324,
+   "matches": 325,
    "predicted": 0.643,
-   "actual": 0.642
+   "actual": 0.64
   },
   {
    "bucket": "70-80%",

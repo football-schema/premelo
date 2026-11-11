@@ -17,7 +17,7 @@
   <line x1="80" x2="1120" y1="314" y2="314" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="345" fill="#617067">2</text><text x="122" y="345" fill="#17251e" font-weight="600">Barcelona <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
   <text x="640" y="345" fill="#17251e" font-weight="bold" text-anchor="end">2164</text>
-  <text x="760" y="345" fill="#167450" text-anchor="end">+6</text>
+  <text x="760" y="345" fill="#167450" text-anchor="end">+18</text>
   <polyline points="820.0,334.3 835.3,339.5 850.5,339.2 865.8,341.0 881.1,338.1 896.3,335.7 911.6,332.5 926.8,328.6 942.1,327.3 957.4,323.6 972.6,321.7 987.9,321.4 1003.2,323.2 1018.4,321.6 1033.7,319.0 1048.9,321.6 1064.2,320.7 1079.5,320.5 1094.7,320.1 1110.0,320.5" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="320.5" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="363" y2="363" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="394" fill="#617067">3</text><text x="122" y="394" fill="#17251e" font-weight="600">Arsenal <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
@@ -32,7 +32,7 @@
   <line x1="80" x2="1120" y1="461" y2="461" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="492" fill="#617067">5</text><text x="122" y="492" fill="#17251e" font-weight="600">Real Madrid <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
   <text x="640" y="492" fill="#17251e" font-weight="bold" text-anchor="end">2120</text>
-  <text x="760" y="492" fill="#167450" text-anchor="end">+23</text>
+  <text x="760" y="492" fill="#167450" text-anchor="end">+29</text>
   <polyline points="820.0,486.6 835.3,487.0 850.5,487.8 865.8,488.0 881.1,483.7 896.3,480.4 911.6,477.6 926.8,474.8 942.1,473.4 957.4,471.7 972.6,469.3 987.9,470.0 1003.2,471.0 1018.4,467.7 1033.7,468.4 1048.9,467.7 1064.2,468.6 1079.5,466.7 1094.7,467.0 1110.0,466.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="466.0" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="510" y2="510" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="541" fill="#617067">6</text><text x="122" y="541" fill="#17251e" font-weight="600">Paris Saint-Germain <tspan fill="#617067" font-size="20" font-weight="normal">Ligue 1</tspan></text>
@@ -41,5 +41,5 @@
   <polyline points="820.0,528.1 835.3,527.7 850.5,531.2 865.8,531.6 881.1,537.0 896.3,536.6 911.6,530.8 926.8,529.3 942.1,523.1 957.4,523.5 972.6,520.0 987.9,517.3 1003.2,524.3 1018.4,516.2 1033.7,521.2 1048.9,515.0 1064.2,516.5 1079.5,523.5 1094.7,516.5 1110.0,520.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="520.0" r="5" fill="#167451"/>
   
   </g>
-  <text x="80" y="606" font-size="19" fill="#617067">Through 8 November 2026 · chances for every coming match · tested against the bookmakers</text>
+  <text x="80" y="606" font-size="19" fill="#617067">Through 9 November 2026 · chances for every coming match · tested against the bookmakers</text>
 </svg>

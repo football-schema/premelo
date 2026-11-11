@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10T07:01:14.894Z",
+ "updated": "2026-11-11T07:01:15.164Z",
  "league": "switzerland",
  "name": "Swiss Super League",
- "through": "2026-11-01",
+ "through": "2026-11-08",
  "season": "2026-27",
  "params": {
   "elo": {
@@ -50,19 +50,10 @@
    "name": "Young Boys",
    "slug": "young-boys",
    "div": "top",
-   "elo": 1705,
-   "change30": 21,
-   "played": 12,
+   "elo": 1702,
+   "change30": 18,
+   "played": 13,
    "form": [
-    {
-     "r": "D",
-     "opp": "Lugano",
-     "oppSlug": "lugano",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-12"
-    },
     {
      "r": "W",
      "opp": "Servette",
@@ -98,10 +89,18 @@
      "ga": 5,
      "ha": "h",
      "date": "2026-11-01"
+    },
+    {
+     "r": "W",
+     "opp": "Luzern",
+     "oppSlug": "luzern",
+     "gf": 3,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1585,
     1583,
     1586,
     1585,
@@ -120,18 +119,19 @@
     1684,
     1693,
     1709,
-    1701
+    1701,
+    1702
    ],
    "rank": 1,
    "table": {
     "pos": 2,
-    "p": 12,
-    "w": 7,
+    "p": 13,
+    "w": 8,
     "d": 4,
     "l": 1,
-    "gf": 38,
-    "ga": 23,
-    "pts": 25
+    "gf": 41,
+    "ga": 25,
+    "pts": 28
    }
   },
   {
@@ -139,19 +139,10 @@
    "name": "Lugano",
    "slug": "lugano",
    "div": "top",
-   "elo": 1684,
-   "change30": 43,
-   "played": 21,
+   "elo": 1672,
+   "change30": 31,
+   "played": 22,
    "form": [
-    {
-     "r": "W",
-     "opp": "St. Gallen",
-     "oppSlug": "st-gallen",
-     "gf": 4,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-16"
-    },
     {
      "r": "W",
      "opp": "Lausanne",
@@ -187,10 +178,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-11-01"
+    },
+    {
+     "r": "L",
+     "opp": "St. Gallen",
+     "oppSlug": "st-gallen",
+     "gf": 0,
+     "ga": 5,
+     "ha": "a",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1623,
     1638,
     1640,
     1642,
@@ -209,107 +208,19 @@
     1688,
     1676,
     1678,
-    1681
+    1681,
+    1672
    ],
    "rank": 2,
    "table": {
     "pos": 1,
-    "p": 12,
+    "p": 13,
     "w": 11,
     "d": 1,
-    "l": 0,
+    "l": 1,
     "gf": 36,
-    "ga": 10,
+    "ga": 15,
     "pts": 34
-   }
-  },
-  {
-   "club": "St. Gallen",
-   "name": "St. Gallen",
-   "slug": "st-gallen",
-   "div": "top",
-   "elo": 1637,
-   "change30": 27,
-   "played": 18,
-   "form": [
-    {
-     "r": "L",
-     "opp": "Lugano",
-     "oppSlug": "lugano",
-     "gf": 1,
-     "ga": 4,
-     "ha": "a",
-     "date": "2026-09-16"
-    },
-    {
-     "r": "W",
-     "opp": "Basel",
-     "oppSlug": "basel",
-     "gf": 3,
-     "ga": 1,
-     "ha": "a",
-     "date": "2026-09-20"
-    },
-    {
-     "r": "W",
-     "opp": "Lausanne",
-     "oppSlug": "lausanne",
-     "gf": 1,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "L",
-     "opp": "Young Boys",
-     "oppSlug": "young-boys",
-     "gf": 0,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-10-24"
-    },
-    {
-     "r": "W",
-     "opp": "Servette",
-     "oppSlug": "servette",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-10-31"
-    }
-   ],
-   "spark": [
-    1578,
-    1591,
-    1604,
-    1606,
-    1606,
-    1607,
-    1619,
-    1620,
-    1626,
-    1617,
-    1602,
-    1594,
-    1584,
-    1600,
-    1590,
-    1602,
-    1610,
-    1630,
-    1624,
-    1634
-   ],
-   "rank": 3,
-   "table": {
-    "pos": 5,
-    "p": 12,
-    "w": 6,
-    "d": 1,
-    "l": 5,
-    "gf": 19,
-    "ga": 22,
-    "pts": 19
    }
   },
   {
@@ -317,19 +228,10 @@
    "name": "Sion",
    "slug": "sion",
    "div": "top",
-   "elo": 1636,
-   "change30": -6,
-   "played": 18,
+   "elo": 1654,
+   "change30": 12,
+   "played": 19,
    "form": [
-    {
-     "r": "W",
-     "opp": "Grasshoppers",
-     "oppSlug": "grasshoppers",
-     "gf": 5,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-15"
-    },
     {
      "r": "D",
      "opp": "Zurich",
@@ -365,10 +267,18 @@
      "ga": 1,
      "ha": "a",
      "date": "2026-10-31"
+    },
+    {
+     "r": "W",
+     "opp": "Vaduz",
+     "oppSlug": "vaduz",
+     "gf": 4,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1657,
     1658,
     1643,
     1602,
@@ -387,18 +297,108 @@
     1642,
     1639,
     1648,
-    1632
+    1632,
+    1654
+   ],
+   "rank": 3,
+   "table": {
+    "pos": 3,
+    "p": 13,
+    "w": 8,
+    "d": 2,
+    "l": 3,
+    "gf": 29,
+    "ga": 18,
+    "pts": 26
+   }
+  },
+  {
+   "club": "St. Gallen",
+   "name": "St. Gallen",
+   "slug": "st-gallen",
+   "div": "top",
+   "elo": 1649,
+   "change30": 39,
+   "played": 19,
+   "form": [
+    {
+     "r": "W",
+     "opp": "Basel",
+     "oppSlug": "basel",
+     "gf": 3,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Lausanne",
+     "oppSlug": "lausanne",
+     "gf": 1,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Young Boys",
+     "oppSlug": "young-boys",
+     "gf": 0,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-24"
+    },
+    {
+     "r": "W",
+     "opp": "Servette",
+     "oppSlug": "servette",
+     "gf": 2,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-10-31"
+    },
+    {
+     "r": "W",
+     "opp": "Lugano",
+     "oppSlug": "lugano",
+     "gf": 5,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-08"
+    }
+   ],
+   "spark": [
+    1591,
+    1604,
+    1606,
+    1606,
+    1607,
+    1619,
+    1620,
+    1626,
+    1617,
+    1602,
+    1594,
+    1584,
+    1600,
+    1590,
+    1602,
+    1610,
+    1630,
+    1624,
+    1634,
+    1649
    ],
    "rank": 4,
    "table": {
-    "pos": 3,
-    "p": 12,
+    "pos": 4,
+    "p": 13,
     "w": 7,
-    "d": 2,
-    "l": 3,
-    "gf": 25,
-    "ga": 18,
-    "pts": 23
+    "d": 1,
+    "l": 5,
+    "gf": 24,
+    "ga": 22,
+    "pts": 22
    }
   },
   {
@@ -406,19 +406,10 @@
    "name": "Servette",
    "slug": "servette",
    "div": "top",
-   "elo": 1568,
-   "change30": -3,
-   "played": 12,
+   "elo": 1559,
+   "change30": -12,
+   "played": 13,
    "form": [
-    {
-     "r": "W",
-     "opp": "Thun",
-     "oppSlug": "thun",
-     "gf": 4,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-16"
-    },
     {
      "r": "L",
      "opp": "Young Boys",
@@ -454,10 +445,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-10-31"
+    },
+    {
+     "r": "D",
+     "opp": "Zurich",
+     "oppSlug": "zurich",
+     "gf": 0,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1580,
     1598,
     1595,
     1580,
@@ -476,18 +475,19 @@
     1571,
     1574,
     1575,
-    1565
+    1565,
+    1559
    ],
    "rank": 5,
    "table": {
     "pos": 6,
-    "p": 12,
+    "p": 13,
     "w": 5,
-    "d": 1,
+    "d": 2,
     "l": 6,
     "gf": 17,
     "ga": 16,
-    "pts": 16
+    "pts": 17
    }
   },
   {
@@ -495,19 +495,10 @@
    "name": "Luzern",
    "slug": "luzern",
    "div": "top",
-   "elo": 1555,
-   "change30": 7,
-   "played": 12,
+   "elo": 1558,
+   "change30": 10,
+   "played": 13,
    "form": [
-    {
-     "r": "L",
-     "opp": "Basel",
-     "oppSlug": "basel",
-     "gf": 2,
-     "ga": 4,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "W",
      "opp": "Grasshoppers",
@@ -543,10 +534,18 @@
      "ga": 1,
      "ha": "h",
      "date": "2026-10-31"
+    },
+    {
+     "r": "L",
+     "opp": "Young Boys",
+     "oppSlug": "young-boys",
+     "gf": 2,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1598,
     1580,
     1592,
     1610,
@@ -565,17 +564,18 @@
     1548,
     1539,
     1536,
-    1552
+    1552,
+    1558
    ],
    "rank": 6,
    "table": {
-    "pos": 8,
-    "p": 12,
+    "pos": 9,
+    "p": 13,
     "w": 3,
     "d": 4,
-    "l": 5,
-    "gf": 19,
-    "ga": 25,
+    "l": 6,
+    "gf": 21,
+    "ga": 28,
     "pts": 13
    }
   },
@@ -584,19 +584,10 @@
    "name": "Basel",
    "slug": "basel",
    "div": "top",
-   "elo": 1517,
-   "change30": -21,
-   "played": 12,
+   "elo": 1520,
+   "change30": -18,
+   "played": 13,
    "form": [
-    {
-     "r": "W",
-     "opp": "Luzern",
-     "oppSlug": "luzern",
-     "gf": 4,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-13"
-    },
     {
      "r": "L",
      "opp": "St. Gallen",
@@ -632,10 +623,18 @@
      "ga": 2,
      "ha": "a",
      "date": "2026-11-01"
+    },
+    {
+     "r": "D",
+     "opp": "Thun",
+     "oppSlug": "thun",
+     "gf": 3,
+     "ga": 3,
+     "ha": "a",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1569,
     1571,
     1563,
     1544,
@@ -654,18 +653,19 @@
     1538,
     1519,
     1516,
-    1514
+    1514,
+    1520
    ],
    "rank": 7,
    "table": {
     "pos": 7,
-    "p": 12,
+    "p": 13,
     "w": 4,
-    "d": 2,
+    "d": 3,
     "l": 6,
-    "gf": 18,
-    "ga": 22,
-    "pts": 14
+    "gf": 21,
+    "ga": 25,
+    "pts": 15
    }
   },
   {
@@ -673,19 +673,10 @@
    "name": "Thun",
    "slug": "thun",
    "div": "top",
-   "elo": 1516,
-   "change30": -6,
-   "played": 21,
+   "elo": 1513,
+   "change30": -9,
+   "played": 22,
    "form": [
-    {
-     "r": "L",
-     "opp": "Servette",
-     "oppSlug": "servette",
-     "gf": 2,
-     "ga": 4,
-     "ha": "h",
-     "date": "2026-09-16"
-    },
     {
      "r": "W",
      "opp": "Vaduz",
@@ -721,10 +712,18 @@
      "ga": 4,
      "ha": "a",
      "date": "2026-11-01"
+    },
+    {
+     "r": "D",
+     "opp": "Basel",
+     "oppSlug": "basel",
+     "gf": 3,
+     "ga": 3,
+     "ha": "h",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1582,
     1588,
     1544,
     1558,
@@ -743,107 +742,19 @@
     1491,
     1500,
     1500,
-    1516
+    1516,
+    1513
    ],
    "rank": 8,
    "table": {
-    "pos": 9,
-    "p": 12,
+    "pos": 8,
+    "p": 13,
     "w": 4,
-    "d": 1,
+    "d": 2,
     "l": 7,
-    "gf": 24,
-    "ga": 34,
-    "pts": 13
-   }
-  },
-  {
-   "club": "Vaduz",
-   "name": "Vaduz",
-   "slug": "vaduz",
-   "div": "top",
-   "elo": 1496,
-   "change30": 29,
-   "played": 12,
-   "form": [
-    {
-     "r": "L",
-     "opp": "Zurich",
-     "oppSlug": "zurich",
-     "gf": 1,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-09-13"
-    },
-    {
-     "r": "L",
-     "opp": "Thun",
-     "oppSlug": "thun",
-     "gf": 1,
-     "ga": 2,
-     "ha": "h",
-     "date": "2026-09-20"
-    },
-    {
-     "r": "W",
-     "opp": "Basel",
-     "oppSlug": "basel",
-     "gf": 3,
-     "ga": 0,
-     "ha": "h",
-     "date": "2026-10-11"
-    },
-    {
-     "r": "L",
-     "opp": "Servette",
-     "oppSlug": "servette",
-     "gf": 1,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-10-24"
-    },
-    {
-     "r": "D",
-     "opp": "Grasshoppers",
-     "oppSlug": "grasshoppers",
-     "gf": 2,
-     "ga": 2,
-     "ha": "a",
-     "date": "2026-10-31"
-    }
-   ],
-   "spark": [
-    1474,
-    1471,
-    1466,
-    1472,
-    1496,
-    1510,
-    1501,
-    1515,
-    1420,
-    1426,
-    1437,
-    1435,
-    1443,
-    1451,
-    1473,
-    1473,
-    1467,
-    1485,
-    1494,
-    1493
-   ],
-   "rank": 9,
-   "table": {
-    "pos": 10,
-    "p": 12,
-    "w": 3,
-    "d": 1,
-    "l": 8,
-    "gf": 24,
-    "ga": 25,
-    "pts": 10
+    "gf": 27,
+    "ga": 37,
+    "pts": 14
    }
   },
   {
@@ -851,19 +762,10 @@
    "name": "Zurich",
    "slug": "zurich",
    "div": "top",
-   "elo": 1496,
-   "change30": 49,
-   "played": 12,
+   "elo": 1505,
+   "change30": 58,
+   "played": 13,
    "form": [
-    {
-     "r": "W",
-     "opp": "Vaduz",
-     "oppSlug": "vaduz",
-     "gf": 2,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "D",
      "opp": "Sion",
@@ -899,10 +801,18 @@
      "ga": 3,
      "ha": "a",
      "date": "2026-11-01"
+    },
+    {
+     "r": "D",
+     "opp": "Servette",
+     "oppSlug": "servette",
+     "gf": 0,
+     "ga": 0,
+     "ha": "a",
+     "date": "2026-11-08"
     }
    ],
    "spark": [
-    1434,
     1431,
     1430,
     1417,
@@ -921,18 +831,108 @@
     1447,
     1472,
     1485,
-    1493
+    1493,
+    1505
    ],
-   "rank": 10,
+   "rank": 9,
    "table": {
-    "pos": 4,
-    "p": 12,
+    "pos": 5,
+    "p": 13,
     "w": 6,
-    "d": 2,
+    "d": 3,
     "l": 4,
     "gf": 25,
     "ga": 26,
-    "pts": 20
+    "pts": 21
+   }
+  },
+  {
+   "club": "Vaduz",
+   "name": "Vaduz",
+   "slug": "vaduz",
+   "div": "top",
+   "elo": 1478,
+   "change30": 11,
+   "played": 13,
+   "form": [
+    {
+     "r": "L",
+     "opp": "Thun",
+     "oppSlug": "thun",
+     "gf": 1,
+     "ga": 2,
+     "ha": "h",
+     "date": "2026-09-20"
+    },
+    {
+     "r": "W",
+     "opp": "Basel",
+     "oppSlug": "basel",
+     "gf": 3,
+     "ga": 0,
+     "ha": "h",
+     "date": "2026-10-11"
+    },
+    {
+     "r": "L",
+     "opp": "Servette",
+     "oppSlug": "servette",
+     "gf": 1,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-24"
+    },
+    {
+     "r": "D",
+     "opp": "Grasshoppers",
+     "oppSlug": "grasshoppers",
+     "gf": 2,
+     "ga": 2,
+     "ha": "a",
+     "date": "2026-10-31"
+    },
+    {
+     "r": "L",
+     "opp": "Sion",
+     "oppSlug": "sion",
+     "gf": 0,
+     "ga": 4,
+     "ha": "h",
+     "date": "2026-11-07"
+    }
+   ],
+   "spark": [
+    1471,
+    1466,
+    1472,
+    1496,
+    1510,
+    1501,
+    1515,
+    1420,
+    1426,
+    1437,
+    1435,
+    1443,
+    1451,
+    1473,
+    1473,
+    1467,
+    1485,
+    1494,
+    1493,
+    1478
+   ],
+   "rank": 10,
+   "table": {
+    "pos": 11,
+    "p": 13,
+    "w": 3,
+    "d": 1,
+    "l": 9,
+    "gf": 24,
+    "ga": 29,
+    "pts": 10
    }
   },
   {
@@ -940,19 +940,10 @@
    "name": "Lausanne",
    "slug": "lausanne",
    "div": "top",
-   "elo": 1465,
-   "change30": -17,
-   "played": 12,
+   "elo": 1463,
+   "change30": -19,
+   "played": 13,
    "form": [
-    {
-     "r": "L",
-     "opp": "Servette",
-     "oppSlug": "servette",
-     "gf": 0,
-     "ga": 1,
-     "ha": "h",
-     "date": "2026-09-13"
-    },
     {
      "r": "L",
      "opp": "Lugano",
@@ -988,10 +979,18 @@
      "ga": 5,
      "ha": "h",
      "date": "2026-11-01"
+    },
+    {
+     "r": "D",
+     "opp": "Grasshoppers",
+     "oppSlug": "grasshoppers",
+     "gf": 1,
+     "ga": 1,
+     "ha": "a",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1527,
     1530,
     1517,
     1530,
@@ -1010,18 +1009,19 @@
     1482,
     1461,
     1462,
-    1462
+    1462,
+    1463
    ],
    "rank": 11,
    "table": {
     "pos": 12,
-    "p": 12,
+    "p": 13,
     "w": 1,
-    "d": 3,
+    "d": 4,
     "l": 8,
-    "gf": 11,
-    "ga": 22,
-    "pts": 6
+    "gf": 12,
+    "ga": 23,
+    "pts": 7
    }
   },
   {
@@ -1029,19 +1029,10 @@
    "name": "Grasshoppers",
    "slug": "grasshoppers",
    "div": "top",
-   "elo": 1426,
-   "change30": 7,
-   "played": 12,
+   "elo": 1429,
+   "change30": 10,
+   "played": 13,
    "form": [
-    {
-     "r": "L",
-     "opp": "Sion",
-     "oppSlug": "sion",
-     "gf": 2,
-     "ga": 5,
-     "ha": "h",
-     "date": "2026-09-15"
-    },
     {
      "r": "L",
      "opp": "Luzern",
@@ -1077,10 +1068,18 @@
      "ga": 2,
      "ha": "h",
      "date": "2026-10-31"
+    },
+    {
+     "r": "D",
+     "opp": "Lausanne",
+     "oppSlug": "lausanne",
+     "gf": 1,
+     "ga": 1,
+     "ha": "h",
+     "date": "2026-11-07"
     }
    ],
    "spark": [
-    1461,
     1460,
     1482,
     1465,
@@ -1099,18 +1098,19 @@
     1419,
     1410,
     1422,
-    1423
+    1423,
+    1429
    ],
    "rank": 12,
    "table": {
-    "pos": 11,
-    "p": 12,
+    "pos": 10,
+    "p": 13,
     "w": 2,
-    "d": 4,
+    "d": 5,
     "l": 6,
-    "gf": 15,
-    "ga": 28,
-    "pts": 10
+    "gf": 16,
+    "ga": 29,
+    "pts": 11
    }
   }
  ]

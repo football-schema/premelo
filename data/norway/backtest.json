@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "league": "Eliteserien",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 3582,
+  "matches": 3590,
   "model": {
-   "logloss": 0.9901,
-   "rps": 0.2047,
-   "brier": 0.5902
+   "logloss": 0.9897,
+   "rps": 0.2046,
+   "brier": 0.5899
   },
   "elo": {
-   "logloss": 0.9908,
-   "rps": 0.2048,
-   "brier": 0.5906
+   "logloss": 0.9904,
+   "rps": 0.2047,
+   "brier": 0.5904
   },
   "market": {
-   "logloss": 0.9826,
-   "rps": 0.2024,
-   "brier": 0.585
+   "logloss": 0.9823,
+   "rps": 0.2023,
+   "brier": 0.5848
   }
  },
  "params": {
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026",
-   "matches": 200,
-   "withOdds": 200,
+   "matches": 208,
+   "withOdds": 208,
    "model": {
-    "logloss": 0.9498,
-    "rps": 0.2033,
-    "brier": 0.5599
+    "logloss": 0.9451,
+    "rps": 0.2014,
+    "brier": 0.5567
    },
    "market": {
-    "logloss": 0.9394,
-    "rps": 0.2002,
-    "brier": 0.5527
+    "logloss": 0.9358,
+    "rps": 0.1984,
+    "brier": 0.5501
    },
    "baseline": {
-    "logloss": 1.0364,
-    "rps": 0.2325,
-    "brier": 0.6242
+    "logloss": 1.0342,
+    "rps": 0.2311,
+    "brier": 0.6225
    }
   }
  ],
@@ -381,25 +381,25 @@
   },
   {
    "bucket": "10-20%",
-   "matches": 139,
+   "matches": 140,
    "predicted": 0.162,
-   "actual": 0.18
+   "actual": 0.179
   },
   {
    "bucket": "20-30%",
-   "matches": 398,
+   "matches": 399,
    "predicted": 0.256,
    "actual": 0.261
   },
   {
    "bucket": "30-40%",
-   "matches": 734,
+   "matches": 737,
    "predicted": 0.354,
-   "actual": 0.364
+   "actual": 0.365
   },
   {
    "bucket": "40-50%",
-   "matches": 846,
+   "matches": 847,
    "predicted": 0.45,
    "actual": 0.466
   },
@@ -417,15 +417,15 @@
   },
   {
    "bucket": "70-80%",
-   "matches": 217,
+   "matches": 218,
    "predicted": 0.744,
-   "actual": 0.728
+   "actual": 0.729
   },
   {
    "bucket": "80-90%",
-   "matches": 46,
+   "matches": 47,
    "predicted": 0.841,
-   "actual": 0.848
+   "actual": 0.851
   },
   {
    "bucket": "90-100%",

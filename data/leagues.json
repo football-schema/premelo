@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:01:15.727Z",
+ "updated": "2026-11-11T07:01:15.932Z",
  "leagues": [
   {
    "id": "pl",
@@ -31,7 +31,7 @@
    "country": "Spain",
    "second": "Segunda División",
    "extra": false,
-   "through": "2026-11-08",
+   "through": "2026-11-09",
    "top": [
     [
      "Barcelona",
@@ -255,19 +255,19 @@
    "short": "Austria",
    "country": "Austria",
    "extra": true,
-   "through": "2026-11-01",
+   "through": "2026-11-08",
    "top": [
     [
-     "Salzburg",
-     1721
+     "LASK",
+     1723
     ],
     [
-     "LASK",
+     "Salzburg",
      1712
     ],
     [
      "SK Rapid",
-     1703
+     1712
     ]
    ]
   },
@@ -277,19 +277,19 @@
    "short": "Switzerland",
    "country": "Switzerland",
    "extra": true,
-   "through": "2026-11-01",
+   "through": "2026-11-08",
    "top": [
     [
      "Young Boys",
-     1705
+     1702
     ],
     [
      "Lugano",
-     1684
+     1672
     ],
     [
-     "St. Gallen",
-     1637
+     "Sion",
+     1654
     ]
    ]
   },
@@ -299,19 +299,19 @@
    "short": "Denmark",
    "country": "Denmark",
    "extra": true,
-   "through": "2026-11-02",
+   "through": "2026-11-08",
    "top": [
     [
      "FC Copenhagen",
-     1786
+     1782
     ],
     [
      "Brondby",
-     1695
+     1699
     ],
     [
-     "Midtjylland",
-     1687
+     "Nordsjaelland",
+     1699
     ]
    ]
   },
@@ -321,19 +321,19 @@
    "short": "Norway",
    "country": "Norway",
    "extra": true,
-   "through": "2026-11-01",
+   "through": "2026-11-09",
    "top": [
     [
      "Bodo/Glimt",
-     1856
+     1864
     ],
     [
      "Viking",
-     1715
+     1713
     ],
     [
      "Rosenborg",
-     1691
+     1704
     ]
    ]
   },
@@ -343,19 +343,19 @@
    "short": "Sweden",
    "country": "Sweden",
    "extra": true,
-   "through": "2026-11-03",
+   "through": "2026-11-08",
    "top": [
     [
      "Hammarby",
-     1736
-    ],
-    [
-     "Djurgarden",
-     1655
+     1748
     ],
     [
      "Hacken",
-     1613
+     1640
+    ],
+    [
+     "Djurgarden",
+     1633
     ]
    ]
   },
@@ -365,19 +365,19 @@
    "short": "Poland",
    "country": "Poland",
    "extra": true,
-   "through": "2026-11-02",
+   "through": "2026-11-08",
    "top": [
     [
      "Lech Poznan",
-     1697
+     1699
     ],
     [
      "Gornik Zabrze",
-     1664
+     1674
     ],
     [
      "Legia",
-     1635
+     1622
     ]
    ]
   },
@@ -387,19 +387,19 @@
    "short": "Romania",
    "country": "Romania",
    "extra": true,
-   "through": "2026-11-02",
+   "through": "2026-11-09",
    "top": [
     [
      "Univ. Craiova",
-     1722
+     1723
     ],
     [
      "Dinamo Bucuresti",
-     1650
+     1636
     ],
     [
      "FCSB",
-     1606
+     1582
     ]
    ]
   },
@@ -409,19 +409,19 @@
    "short": "Ireland",
    "country": "Ireland",
    "extra": true,
-   "through": "2026-10-30",
+   "through": "2026-11-07",
    "top": [
     [
      "St. Patricks",
-     1480
+     1477
     ],
     [
      "Bohemians",
-     1430
+     1428
     ],
     [
      "Shamrock Rovers",
-     1421
+     1418
     ]
    ]
   },
@@ -431,19 +431,19 @@
    "short": "Finland",
    "country": "Finland",
    "extra": true,
-   "through": "2026-11-02",
+   "through": "2026-11-08",
    "top": [
     [
      "HJK",
-     1533
+     1553
     ],
     [
      "Inter Turku",
-     1495
+     1543
     ],
     [
      "KuPS",
-     1437
+     1389
     ]
    ]
   }

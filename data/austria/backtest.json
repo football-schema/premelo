@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "league": "Austrian Bundesliga",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 2704,
+  "matches": 2710,
   "model": {
-   "logloss": 1.0034,
-   "rps": 0.2067,
-   "brier": 0.5996
+   "logloss": 1.003,
+   "rps": 0.2066,
+   "brier": 0.5993
   },
   "elo": {
-   "logloss": 1.0034,
-   "rps": 0.2067,
-   "brier": 0.5996
+   "logloss": 1.003,
+   "rps": 0.2066,
+   "brier": 0.5993
   },
   "market": {
-   "logloss": 0.9966,
-   "rps": 0.2048,
-   "brier": 0.5954
+   "logloss": 0.9963,
+   "rps": 0.2047,
+   "brier": 0.5951
   }
  },
  "params": {
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 66,
-   "withOdds": 66,
+   "matches": 72,
+   "withOdds": 72,
    "model": {
-    "logloss": 0.9269,
-    "rps": 0.1902,
-    "brier": 0.5495
+    "logloss": 0.9191,
+    "rps": 0.1885,
+    "brier": 0.5436
    },
    "market": {
-    "logloss": 0.8887,
-    "rps": 0.1779,
-    "brier": 0.5216
+    "logloss": 0.884,
+    "rps": 0.1774,
+    "brier": 0.5179
    },
    "baseline": {
-    "logloss": 1.0468,
-    "rps": 0.2315,
-    "brier": 0.6316
+    "logloss": 1.0458,
+    "rps": 0.2322,
+    "brier": 0.631
    }
   }
  ],
@@ -381,21 +381,21 @@
   },
   {
    "bucket": "10-20%",
-   "matches": 237,
+   "matches": 238,
    "predicted": 0.155,
    "actual": 0.16
   },
   {
    "bucket": "20-30%",
-   "matches": 423,
+   "matches": 424,
    "predicted": 0.252,
-   "actual": 0.26
+   "actual": 0.259
   },
   {
    "bucket": "30-40%",
-   "matches": 516,
+   "matches": 519,
    "predicted": 0.348,
-   "actual": 0.372
+   "actual": 0.374
   },
   {
    "bucket": "40-50%",
@@ -417,9 +417,9 @@
   },
   {
    "bucket": "70-80%",
-   "matches": 141,
+   "matches": 142,
    "predicted": 0.743,
-   "actual": 0.73
+   "actual": 0.732
   },
   {
    "bucket": "80-90%",
