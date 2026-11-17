@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:01:20.156Z",
+ "updated": "2026-11-17T07:01:14.788Z",
  "up": [
   {
    "league": "ireland",
@@ -108,14 +108,6 @@
    "change": -31
   },
   {
-   "league": "laliga",
-   "leagueName": "La Liga",
-   "slug": "villarreal",
-   "name": "Villarreal",
-   "elo": 1841,
-   "change": -30
-  },
-  {
    "league": "denmark",
    "leagueName": "Danish Superliga",
    "slug": "midtjylland",
@@ -130,14 +122,6 @@
    "name": "Sassuolo",
    "elo": 1683,
    "change": -28
-  },
-  {
-   "league": "scotland",
-   "leagueName": "Scottish Premiership",
-   "slug": "hearts",
-   "name": "Hearts",
-   "elo": 1518,
-   "change": -27
   },
   {
    "league": "proleague",
@@ -162,6 +146,22 @@
    "name": "AC Milan",
    "elo": 1912,
    "change": -25
+  },
+  {
+   "league": "romania",
+   "leagueName": "Liga I",
+   "slug": "fcsb",
+   "name": "FCSB",
+   "elo": 1582,
+   "change": -24
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "kalmar",
+   "name": "Kalmar",
+   "elo": 1460,
+   "change": -24
   }
  ]
 }
