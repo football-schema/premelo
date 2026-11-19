@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "league": "Bundesliga",
  "from": "2000-01",
  "test": {
@@ -11,7 +11,7 @@
    "brier": 0.5852
   },
   "elo": {
-   "logloss": 0.9832,
+   "logloss": 0.9831,
    "rps": 0.2012,
    "brier": 0.5854
   },
@@ -614,9 +614,9 @@
    "matches": 81,
    "withOdds": 81,
    "model": {
-    "logloss": 0.9783,
+    "logloss": 0.9781,
     "rps": 0.2083,
-    "brier": 0.584
+    "brier": 0.5839
    },
    "market": {
     "logloss": 0.9696,

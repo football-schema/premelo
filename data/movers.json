@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:01:20.453Z",
+ "updated": "2026-11-19T07:01:20.942Z",
  "up": [
   {
    "league": "ireland",
@@ -74,11 +74,11 @@
    "change": 32
   },
   {
-   "league": "primeira",
-   "leagueName": "Primeira Liga",
-   "slug": "porto",
-   "name": "Porto",
-   "elo": 1960,
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "bayern-munich",
+   "name": "Bayern Munich",
+   "elo": 2197,
    "change": 31
   }
  ],
@@ -120,7 +120,7 @@
    "leagueName": "Serie A",
    "slug": "sassuolo",
    "name": "Sassuolo",
-   "elo": 1683,
+   "elo": 1679,
    "change": -28
   },
   {
@@ -136,7 +136,7 @@
    "leagueName": "Premier League",
    "slug": "chelsea",
    "name": "Chelsea",
-   "elo": 2006,
+   "elo": 2005,
    "change": -27
   },
   {
@@ -144,7 +144,7 @@
    "leagueName": "Serie A",
    "slug": "milan",
    "name": "AC Milan",
-   "elo": 1912,
+   "elo": 1909,
    "change": -25
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "league": "Premier League",
  "from": "2000-01",
  "test": {
@@ -616,7 +616,7 @@
    "model": {
     "logloss": 1.0137,
     "rps": 0.2064,
-    "brier": 0.6073
+    "brier": 0.6074
    },
    "market": {
     "logloss": 1.0108,

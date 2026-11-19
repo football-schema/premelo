@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:01:20.504Z",
+ "updated": "2026-11-19T07:01:20.997Z",
  "leagues": [
   {
    "id": "pl",
@@ -35,15 +35,15 @@
    "top": [
     [
      "Barcelona",
-     2164
+     2167
     ],
     [
      "Real Madrid",
-     2120
+     2124
     ],
     [
      "Atlético Madrid",
-     1972
+     1976
     ]
    ]
   },
@@ -58,15 +58,15 @@
    "top": [
     [
      "Bayern Munich",
-     2199
+     2197
     ],
     [
      "Bayer Leverkusen",
-     1955
+     1953
     ],
     [
      "Borussia Dortmund",
-     1939
+     1937
     ]
    ]
   },
@@ -81,15 +81,15 @@
    "top": [
     [
      "Inter",
-     2044
+     2041
     ],
     [
      "Como",
-     1973
+     1970
     ],
     [
      "AS Roma",
-     1940
+     1937
     ]
    ]
   },
@@ -192,7 +192,7 @@
    "top": [
     [
      "Galatasaray",
-     1849
+     1848
     ],
     [
      "Beşiktaş",

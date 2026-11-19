@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:00:56.160Z",
+ "updated": "2026-11-19T07:00:55.968Z",
  "frozen": "2011-12",
  "leagues": [
   {
@@ -12,7 +12,7 @@
    "model": {
     "logloss": 1.0227,
     "rps": 0.2086,
-    "brier": 0.6123
+    "brier": 0.6124
    },
    "market": {
     "logloss": 1.0108,
@@ -23,7 +23,7 @@
    "modelOnOdds": {
     "logloss": 1.0227,
     "rps": 0.2086,
-    "brier": 0.6123
+    "brier": 0.6124
    }
   },
   {
@@ -35,7 +35,7 @@
    "called": 67,
    "model": {
     "logloss": 0.928,
-    "rps": 0.181,
+    "rps": 0.1811,
     "brier": 0.5467
    },
    "market": {
@@ -46,7 +46,7 @@
    "withOdds": 119,
    "modelOnOdds": {
     "logloss": 0.928,
-    "rps": 0.181,
+    "rps": 0.1811,
     "brier": 0.5467
    }
   },
@@ -58,9 +58,9 @@
    "matches": 81,
    "called": 46,
    "model": {
-    "logloss": 0.9858,
+    "logloss": 0.9856,
     "rps": 0.2108,
-    "brier": 0.5888
+    "brier": 0.5887
    },
    "market": {
     "logloss": 0.9696,
@@ -69,9 +69,9 @@
    },
    "withOdds": 81,
    "modelOnOdds": {
-    "logloss": 0.9858,
+    "logloss": 0.9856,
     "rps": 0.2108,
-    "brier": 0.5888
+    "brier": 0.5887
    }
   },
   {
@@ -82,9 +82,9 @@
    "matches": 110,
    "called": 68,
    "model": {
-    "logloss": 0.9089,
-    "rps": 0.1908,
-    "brier": 0.5279
+    "logloss": 0.9083,
+    "rps": 0.1907,
+    "brier": 0.5276
    },
    "market": {
     "logloss": 0.9041,
@@ -93,9 +93,9 @@
    },
    "withOdds": 110,
    "modelOnOdds": {
-    "logloss": 0.9089,
-    "rps": 0.1908,
-    "brier": 0.5279
+    "logloss": 0.9083,
+    "rps": 0.1907,
+    "brier": 0.5276
    }
   },
   {
@@ -155,7 +155,7 @@
    "called": 56,
    "model": {
     "logloss": 1.0239,
-    "rps": 0.2036,
+    "rps": 0.2037,
     "brier": 0.6165
    },
    "market": {
@@ -166,7 +166,7 @@
    "withOdds": 108,
    "modelOnOdds": {
     "logloss": 1.0239,
-    "rps": 0.2036,
+    "rps": 0.2037,
     "brier": 0.6165
    }
   },
@@ -743,12 +743,12 @@
    "hg": 0,
    "ag": 0,
    "p": [
-    0.558,
-    0.244,
-    0.199
+    0.563,
+    0.242,
+    0.195
    ],
    "result": "draw",
-   "chance": 0.244
+   "chance": 0.242
   },
   {
    "date": "2026-11-08",
@@ -762,9 +762,9 @@
    "hg": 1,
    "ag": 1,
    "p": [
-    0.149,
+    0.15,
     0.244,
-    0.607
+    0.606
    ],
    "result": "draw",
    "chance": 0.244
@@ -1085,12 +1085,12 @@
    "hg": 2,
    "ag": 2,
    "p": [
-    0.237,
-    0.297,
-    0.466
+    0.242,
+    0.298,
+    0.46
    ],
    "result": "draw",
-   "chance": 0.297
+   "chance": 0.298
   },
   {
    "date": "2026-11-08",
@@ -1294,12 +1294,12 @@
    "hg": 0,
    "ag": 1,
    "p": [
-    0.274,
+    0.273,
     0.298,
-    0.428
+    0.429
    ],
    "result": "away win",
-   "chance": 0.428
+   "chance": 0.429
   },
   {
    "date": "2026-11-08",
@@ -1351,7 +1351,7 @@
    "hg": 0,
    "ag": 2,
    "p": [
-    0.279,
+    0.278,
     0.264,
     0.457
    ],
@@ -1398,25 +1398,6 @@
   },
   {
    "date": "2026-11-08",
-   "league": "seriea",
-   "home": "Genoa",
-   "away": "Milan",
-   "homeName": "Genoa",
-   "awayName": "AC Milan",
-   "homeSlug": "genoa",
-   "awaySlug": "milan",
-   "hg": 1,
-   "ag": 2,
-   "p": [
-    0.225,
-    0.292,
-    0.483
-   ],
-   "result": "away win",
-   "chance": 0.483
-  },
-  {
-   "date": "2026-11-08",
    "league": "norway",
    "home": "Lillestrom",
    "away": "Aalesund",
@@ -1448,6 +1429,25 @@
    "p": [
     0.23,
     0.285,
+    0.485
+   ],
+   "result": "away win",
+   "chance": 0.485
+  },
+  {
+   "date": "2026-11-08",
+   "league": "seriea",
+   "home": "Genoa",
+   "away": "Milan",
+   "homeName": "Genoa",
+   "awayName": "AC Milan",
+   "homeSlug": "genoa",
+   "awaySlug": "milan",
+   "hg": 1,
+   "ag": 2,
+   "p": [
+    0.223,
+    0.292,
     0.485
    ],
    "result": "away win",
@@ -1493,6 +1493,25 @@
   },
   {
    "date": "2026-11-08",
+   "league": "laliga",
+   "home": "Sociedad",
+   "away": "Vallecano",
+   "homeName": "Real Sociedad",
+   "awayName": "Rayo Vallecano",
+   "homeSlug": "sociedad",
+   "awaySlug": "vallecano",
+   "hg": 1,
+   "ag": 0,
+   "p": [
+    0.514,
+    0.255,
+    0.231
+   ],
+   "result": "home win",
+   "chance": 0.514
+  },
+  {
+   "date": "2026-11-08",
    "league": "superlig",
    "home": "Corum",
    "away": "Fenerbahce",
@@ -1509,25 +1528,6 @@
    ],
    "result": "away win",
    "chance": 0.515
-  },
-  {
-   "date": "2026-11-08",
-   "league": "laliga",
-   "home": "Sociedad",
-   "away": "Vallecano",
-   "homeName": "Real Sociedad",
-   "awayName": "Rayo Vallecano",
-   "homeSlug": "sociedad",
-   "awaySlug": "vallecano",
-   "hg": 1,
-   "ag": 0,
-   "p": [
-    0.516,
-    0.254,
-    0.23
-   ],
-   "result": "home win",
-   "chance": 0.516
   },
   {
    "date": "2026-11-08",
@@ -1712,12 +1712,12 @@
    "hg": 2,
    "ag": 1,
    "p": [
-    0.597,
-    0.231,
+    0.596,
+    0.232,
     0.172
    ],
    "result": "home win",
-   "chance": 0.597
+   "chance": 0.596
   },
   {
    "date": "2026-11-08",
@@ -1750,12 +1750,12 @@
    "hg": 4,
    "ag": 3,
    "p": [
-    0.61,
+    0.609,
     0.217,
     0.174
    ],
    "result": "home win",
-   "chance": 0.61
+   "chance": 0.609
   },
   {
    "date": "2026-11-08",
@@ -1845,12 +1845,12 @@
    "hg": 2,
    "ag": 0,
    "p": [
-    0.707,
+    0.706,
     0.186,
     0.107
    ],
    "result": "home win",
-   "chance": 0.707
+   "chance": 0.706
   },
   {
    "date": "2026-11-08",
@@ -2263,9 +2263,9 @@
    "hg": 2,
    "ag": 2,
    "p": [
-    0.473,
+    0.474,
     0.267,
-    0.26
+    0.259
    ],
    "result": "draw",
    "chance": 0.267
@@ -2320,9 +2320,9 @@
    "hg": 1,
    "ag": 1,
    "p": [
-    0.517,
+    0.519,
     0.286,
-    0.196
+    0.195
    ],
    "result": "draw",
    "chance": 0.286
@@ -2358,12 +2358,12 @@
    "hg": 1,
    "ag": 2,
    "p": [
-    0.421,
+    0.422,
     0.26,
-    0.319
+    0.318
    ],
    "result": "away win",
-   "chance": 0.319
+   "chance": 0.318
   },
   {
    "date": "2026-11-07",
@@ -3099,9 +3099,9 @@
    "hg": 0,
    "ag": 0,
    "p": [
-    0.49,
+    0.489,
     0.266,
-    0.244
+    0.245
    ],
    "result": "draw",
    "chance": 0.266
@@ -3403,7 +3403,7 @@
    "hg": 0,
    "ag": 3,
    "p": [
-    0.664,
+    0.665,
     0.223,
     0.113
    ],
@@ -3517,12 +3517,12 @@
    "hg": 2,
    "ag": 4,
    "p": [
-    0.371,
+    0.37,
     0.304,
-    0.325
+    0.326
    ],
    "result": "away win",
-   "chance": 0.325
+   "chance": 0.326
   },
   {
    "date": "2026-11-02",
@@ -3785,7 +3785,7 @@
    "hg": 0,
    "ag": 3,
    "p": [
-    0.664,
+    0.665,
     0.223,
     0.113
    ],

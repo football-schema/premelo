@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "league": "Eredivisie",
  "from": "2000-01",
  "test": {
@@ -616,7 +616,7 @@
    "model": {
     "logloss": 1.0124,
     "rps": 0.2014,
-    "brier": 0.6095
+    "brier": 0.6096
    },
    "market": {
     "logloss": 1.0096,

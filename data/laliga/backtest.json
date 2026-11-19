@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "league": "La Liga",
  "from": "2000-01",
  "test": {
@@ -12,7 +12,7 @@
   },
   "elo": {
    "logloss": 0.9614,
-   "rps": 0.1926,
+   "rps": 0.1927,
    "brier": 0.5709
   },
   "market": {
@@ -614,7 +614,7 @@
    "matches": 119,
    "withOdds": 119,
    "model": {
-    "logloss": 0.9259,
+    "logloss": 0.926,
     "rps": 0.1808,
     "brier": 0.5458
    },
@@ -651,13 +651,13 @@
   },
   {
    "bucket": "30-40%",
-   "matches": 1849,
+   "matches": 1850,
    "predicted": 0.354,
-   "actual": 0.342
+   "actual": 0.343
   },
   {
    "bucket": "40-50%",
-   "matches": 2667,
+   "matches": 2666,
    "predicted": 0.451,
    "actual": 0.464
   },
