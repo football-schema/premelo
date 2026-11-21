@@ -1,6 +1,399 @@
 {
- "updated": "2026-11-20T07:01:12.731Z",
+ "updated": "2026-11-21T07:01:14.736Z",
  "league": "bundesliga",
  "season": "2026-27",
- "fixtures": []
+ "fixtures": [
+  {
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "Ein Frankfurt",
+   "away": "Hoffenheim",
+   "homeSlug": "ein-frankfurt",
+   "awaySlug": "hoffenheim",
+   "homeName": "Eintracht Frankfurt",
+   "awayName": "Hoffenheim",
+   "elo": [
+    1790,
+    1837
+   ],
+   "dr": 12,
+   "H": 0.386,
+   "D": 0.261,
+   "A": 0.353,
+   "xg": [
+    1.7,
+    1.6
+   ],
+   "O25": 0.603,
+   "btts": 0.643,
+   "scores": [
+    [
+     "1-1",
+     0.124
+    ],
+    [
+     "2-1",
+     0.081
+    ],
+    [
+     "1-2",
+     0.078
+    ],
+    [
+     "2-2",
+     0.064
+    ],
+    [
+     "1-0",
+     0.064
+    ],
+    [
+     "0-1",
+     0.061
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "Elversberg",
+   "away": "Freiburg",
+   "homeSlug": "elversberg",
+   "awaySlug": "freiburg",
+   "homeName": "Elversberg",
+   "awayName": "SC Freiburg",
+   "elo": [
+    1705,
+    1809
+   ],
+   "dr": -34,
+   "H": 0.305,
+   "D": 0.271,
+   "A": 0.424,
+   "xg": [
+    1.3,
+    1.6
+   ],
+   "O25": 0.548,
+   "btts": 0.597,
+   "scores": [
+    [
+     "1-1",
+     0.135
+    ],
+    [
+     "1-2",
+     0.087
+    ],
+    [
+     "0-1",
+     0.08
+    ],
+    [
+     "2-1",
+     0.072
+    ],
+    [
+     "1-0",
+     0.066
+    ],
+    [
+     "0-2",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "Leverkusen",
+   "away": "Paderborn",
+   "homeSlug": "leverkusen",
+   "awaySlug": "paderborn",
+   "homeName": "Bayer Leverkusen",
+   "awayName": "Paderborn",
+   "elo": [
+    1953,
+    1684
+   ],
+   "dr": 294,
+   "H": 0.746,
+   "D": 0.163,
+   "A": 0.091,
+   "xg": [
+    2.7,
+    0.9
+   ],
+   "O25": 0.674,
+   "btts": 0.54,
+   "scores": [
+    [
+     "2-0",
+     0.101
+    ],
+    [
+     "3-0",
+     0.091
+    ],
+    [
+     "2-1",
+     0.087
+    ],
+    [
+     "1-1",
+     0.08
+    ],
+    [
+     "3-1",
+     0.078
+    ],
+    [
+     "1-0",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "M'gladbach",
+   "away": "Dortmund",
+   "homeSlug": "m-gladbach",
+   "awaySlug": "dortmund",
+   "homeName": "Borussia M'gladbach",
+   "awayName": "Borussia Dortmund",
+   "elo": [
+    1657,
+    1937
+   ],
+   "dr": -188,
+   "H": 0.178,
+   "D": 0.229,
+   "A": 0.592,
+   "xg": [
+    1.1,
+    2.1
+   ],
+   "O25": 0.598,
+   "btts": 0.583,
+   "scores": [
+    [
+     "1-1",
+     0.113
+    ],
+    [
+     "1-2",
+     0.096
+    ],
+    [
+     "0-2",
+     0.089
+    ],
+    [
+     "0-1",
+     0.084
+    ],
+    [
+     "1-3",
+     0.068
+    ],
+    [
+     "0-3",
+     0.063
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "Union Berlin",
+   "away": "RB Leipzig",
+   "homeSlug": "union-berlin",
+   "awaySlug": "rb-leipzig",
+   "homeName": "Union Berlin",
+   "awayName": "RB Leipzig",
+   "elo": [
+    1644,
+    1882
+   ],
+   "dr": -148,
+   "H": 0.197,
+   "D": 0.238,
+   "A": 0.566,
+   "xg": [
+    1.1,
+    2
+   ],
+   "O25": 0.591,
+   "btts": 0.59,
+   "scores": [
+    [
+     "1-1",
+     0.117
+    ],
+    [
+     "1-2",
+     0.095
+    ],
+    [
+     "0-2",
+     0.085
+    ],
+    [
+     "0-1",
+     0.083
+    ],
+    [
+     "1-3",
+     0.065
+    ],
+    [
+     "0-3",
+     0.058
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T17:30:00.000Z",
+   "home": "Schalke 04",
+   "away": "Stuttgart",
+   "homeSlug": "schalke-04",
+   "awaySlug": "stuttgart",
+   "homeName": "Schalke 04",
+   "awayName": "VfB Stuttgart",
+   "elo": [
+    1682,
+    1872
+   ],
+   "dr": -125,
+   "H": 0.227,
+   "D": 0.252,
+   "A": 0.521,
+   "xg": [
+    1.2,
+    1.9
+   ],
+   "O25": 0.569,
+   "btts": 0.59,
+   "scores": [
+    [
+     "1-1",
+     0.125
+    ],
+    [
+     "1-2",
+     0.094
+    ],
+    [
+     "0-1",
+     0.085
+    ],
+    [
+     "0-2",
+     0.08
+    ],
+    [
+     "1-3",
+     0.059
+    ],
+    [
+     "2-1",
+     0.059
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T14:30:00.000Z",
+   "home": "Augsburg",
+   "away": "Mainz",
+   "homeSlug": "augsburg",
+   "awaySlug": "mainz",
+   "homeName": "FC Augsburg",
+   "awayName": "Mainz 05",
+   "elo": [
+    1705,
+    1806
+   ],
+   "dr": -22,
+   "H": 0.357,
+   "D": 0.267,
+   "A": 0.376,
+   "xg": [
+    1.5,
+    1.6
+   ],
+   "O25": 0.576,
+   "btts": 0.622,
+   "scores": [
+    [
+     "1-1",
+     0.13
+    ],
+    [
+     "1-2",
+     0.082
+    ],
+    [
+     "2-1",
+     0.079
+    ],
+    [
+     "0-1",
+     0.069
+    ],
+    [
+     "1-0",
+     0.066
+    ],
+    [
+     "2-2",
+     0.062
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T16:30:00.000Z",
+   "home": "Werder Bremen",
+   "away": "Hamburg",
+   "homeSlug": "werder-bremen",
+   "awaySlug": "hamburg",
+   "homeName": "Werder Bremen",
+   "awayName": "Hamburger SV",
+   "elo": [
+    1795,
+    1650
+   ],
+   "dr": 187,
+   "H": 0.588,
+   "D": 0.231,
+   "A": 0.181,
+   "xg": [
+    2.1,
+    1.1
+   ],
+   "O25": 0.595,
+   "btts": 0.582,
+   "scores": [
+    [
+     "1-1",
+     0.114
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "2-0",
+     0.089
+    ],
+    [
+     "1-0",
+     0.085
+    ],
+    [
+     "3-1",
+     0.067
+    ],
+    [
+     "3-0",
+     0.062
+    ]
+   ]
+  }
+ ]
 }

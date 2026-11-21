@@ -1,6 +1,399 @@
 {
- "updated": "2026-11-20T07:01:16.555Z",
+ "updated": "2026-11-21T07:01:18.503Z",
  "league": "proleague",
  "season": "2026-27",
- "fixtures": []
+ "fixtures": [
+  {
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Charleroi",
+   "away": "St Truiden",
+   "homeSlug": "charleroi",
+   "awaySlug": "st-truiden",
+   "homeName": "Charleroi",
+   "awayName": "Sint-Truiden",
+   "elo": [
+    1712,
+    1687
+   ],
+   "dr": 83,
+   "H": 0.455,
+   "D": 0.269,
+   "A": 0.275,
+   "xg": [
+    1.6,
+    1.2
+   ],
+   "O25": 0.528,
+   "btts": 0.573,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "2-1",
+     0.091
+    ],
+    [
+     "1-0",
+     0.09
+    ],
+    [
+     "2-0",
+     0.074
+    ],
+    [
+     "1-2",
+     0.068
+    ],
+    [
+     "0-1",
+     0.067
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T17:15:00.000Z",
+   "home": "Genk",
+   "away": "RAAL La Louviere",
+   "homeSlug": "genk",
+   "awaySlug": "raal-la-louviere",
+   "homeName": "Genk",
+   "awayName": "RAAL La Louviere",
+   "elo": [
+    1736,
+    1540
+   ],
+   "dr": 258,
+   "H": 0.676,
+   "D": 0.201,
+   "A": 0.124,
+   "xg": [
+    2.3,
+    0.9
+   ],
+   "O25": 0.596,
+   "btts": 0.526,
+   "scores": [
+    [
+     "2-0",
+     0.108
+    ],
+    [
+     "1-1",
+     0.099
+    ],
+    [
+     "1-0",
+     0.095
+    ],
+    [
+     "2-1",
+     0.094
+    ],
+    [
+     "3-0",
+     0.083
+    ],
+    [
+     "3-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T19:45:00.000Z",
+   "home": "Mechelen",
+   "away": "Club Brugge",
+   "homeSlug": "mechelen",
+   "awaySlug": "club-brugge",
+   "homeName": "Mechelen",
+   "awayName": "Club Brugge",
+   "elo": [
+    1582,
+    1909
+   ],
+   "dr": -250,
+   "H": 0.114,
+   "D": 0.187,
+   "A": 0.698,
+   "xg": [
+    0.9,
+    2.4
+   ],
+   "O25": 0.628,
+   "btts": 0.537,
+   "scores": [
+    [
+     "0-2",
+     0.104
+    ],
+    [
+     "1-1",
+     0.092
+    ],
+    [
+     "1-2",
+     0.092
+    ],
+    [
+     "0-1",
+     0.086
+    ],
+    [
+     "0-3",
+     0.085
+    ],
+    [
+     "1-3",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-21T19:45:00.000Z",
+   "home": "Waregem",
+   "away": "Antwerp",
+   "homeSlug": "waregem",
+   "awaySlug": "antwerp",
+   "homeName": "Waregem",
+   "awayName": "Antwerp",
+   "elo": [
+    1584,
+    1594
+   ],
+   "dr": 34,
+   "H": 0.42,
+   "D": 0.272,
+   "A": 0.308,
+   "xg": [
+    1.6,
+    1.3
+   ],
+   "O25": 0.532,
+   "btts": 0.582,
+   "scores": [
+    [
+     "1-1",
+     0.134
+    ],
+    [
+     "2-1",
+     0.087
+    ],
+    [
+     "1-0",
+     0.085
+    ],
+    [
+     "1-2",
+     0.073
+    ],
+    [
+     "0-1",
+     0.071
+    ],
+    [
+     "2-0",
+     0.067
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T12:30:00.000Z",
+   "home": "Beveren",
+   "away": "Gent",
+   "homeSlug": "beveren",
+   "awaySlug": "gent",
+   "homeName": "Beveren",
+   "awayName": "Gent",
+   "elo": [
+    1561,
+    1704
+   ],
+   "dr": -96,
+   "H": 0.264,
+   "D": 0.266,
+   "A": 0.47,
+   "xg": [
+    1.2,
+    1.7
+   ],
+   "O25": 0.532,
+   "btts": 0.573,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "1-2",
+     0.092
+    ],
+    [
+     "0-1",
+     0.091
+    ],
+    [
+     "0-2",
+     0.076
+    ],
+    [
+     "2-1",
+     0.066
+    ],
+    [
+     "0-0",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T15:00:00.000Z",
+   "home": "Kortrijk",
+   "away": "St. Gilloise",
+   "homeSlug": "kortrijk",
+   "awaySlug": "st-gilloise",
+   "homeName": "Kortrijk",
+   "awayName": "Union Saint-Gilloise",
+   "elo": [
+    1513,
+    1874
+   ],
+   "dr": -292,
+   "H": 0.099,
+   "D": 0.184,
+   "A": 0.716,
+   "xg": [
+    0.8,
+    2.4
+   ],
+   "O25": 0.6,
+   "btts": 0.494,
+   "scores": [
+    [
+     "0-2",
+     0.117
+    ],
+    [
+     "0-1",
+     0.098
+    ],
+    [
+     "0-3",
+     0.094
+    ],
+    [
+     "1-1",
+     0.091
+    ],
+    [
+     "1-2",
+     0.091
+    ],
+    [
+     "1-3",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T17:30:00.000Z",
+   "home": "Anderlecht",
+   "away": "Oud-Heverlee Leuven",
+   "homeSlug": "anderlecht",
+   "awaySlug": "oud-heverlee-leuven",
+   "homeName": "Anderlecht",
+   "awayName": "OH Leuven",
+   "elo": [
+    1780,
+    1574
+   ],
+   "dr": 287,
+   "H": 0.685,
+   "D": 0.197,
+   "A": 0.118,
+   "xg": [
+    2.3,
+    0.8
+   ],
+   "O25": 0.594,
+   "btts": 0.515,
+   "scores": [
+    [
+     "2-0",
+     0.111
+    ],
+    [
+     "1-1",
+     0.098
+    ],
+    [
+     "1-0",
+     0.096
+    ],
+    [
+     "2-1",
+     0.093
+    ],
+    [
+     "3-0",
+     0.085
+    ],
+    [
+     "3-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T18:15:00.000Z",
+   "home": "Lommel SK",
+   "away": "Standard",
+   "homeSlug": "lommel-sk",
+   "awaySlug": "standard",
+   "homeName": "Lommel SK",
+   "awayName": "Standard Liège",
+   "elo": [
+    1533,
+    1645
+   ],
+   "dr": -47,
+   "H": 0.298,
+   "D": 0.281,
+   "A": 0.421,
+   "xg": [
+    1.2,
+    1.5
+   ],
+   "O25": 0.495,
+   "btts": 0.553,
+   "scores": [
+    [
+     "1-1",
+     0.139
+    ],
+    [
+     "0-1",
+     0.095
+    ],
+    [
+     "1-2",
+     0.087
+    ],
+    [
+     "1-0",
+     0.077
+    ],
+    [
+     "0-0",
+     0.076
+    ],
+    [
+     "0-2",
+     0.071
+    ]
+   ]
+  }
+ ]
 }

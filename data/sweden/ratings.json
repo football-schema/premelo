@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:01:17.315Z",
+ "updated": "2026-11-21T07:01:19.396Z",
  "league": "sweden",
  "name": "Allsvenskan",
  "through": "2026-11-08",
@@ -130,6 +130,14 @@
     1748
    ],
    "rank": 1,
+   "next": {
+    "opp": "Goteborg",
+    "oppSlug": "goteborg",
+    "ha": "h",
+    "kickoff": "2026-11-23T18:00:00.000Z",
+    "win": 0.741,
+    "draw": 0.171
+   },
    "table": {
     "pos": 1,
     "p": 28,
@@ -243,6 +251,14 @@
     1640
    ],
    "rank": 2,
+   "next": {
+    "opp": "Elfsborg",
+    "oppSlug": "elfsborg",
+    "ha": "h",
+    "kickoff": "2026-11-22T13:00:00.000Z",
+    "win": 0.548,
+    "draw": 0.246
+   },
    "table": {
     "pos": 4,
     "p": 28,
@@ -356,6 +372,14 @@
     1633
    ],
    "rank": 3,
+   "next": {
+    "opp": "Sirius",
+    "oppSlug": "sirius",
+    "ha": "a",
+    "kickoff": "2026-11-22T13:00:00.000Z",
+    "win": 0.395,
+    "draw": 0.273
+   },
    "table": {
     "pos": 3,
     "p": 28,
@@ -469,6 +493,14 @@
     1577
    ],
    "rank": 4,
+   "next": {
+    "opp": "Djurgarden",
+    "oppSlug": "djurgarden",
+    "ha": "h",
+    "kickoff": "2026-11-22T13:00:00.000Z",
+    "win": 0.332,
+    "draw": 0.273
+   },
    "table": {
     "pos": 2,
     "p": 28,
@@ -582,6 +614,14 @@
     1529
    ],
    "rank": 5,
+   "next": {
+    "opp": "Mjallby",
+    "oppSlug": "mjallby",
+    "ha": "a",
+    "kickoff": "2026-11-21T14:00:00.000Z",
+    "win": 0.461,
+    "draw": 0.276
+   },
    "table": {
     "pos": 7,
     "p": 28,
@@ -695,6 +735,14 @@
     1518
    ],
    "rank": 6,
+   "next": {
+    "opp": "Hacken",
+    "oppSlug": "hacken",
+    "ha": "a",
+    "kickoff": "2026-11-22T13:00:00.000Z",
+    "win": 0.206,
+    "draw": 0.246
+   },
    "table": {
     "pos": 5,
     "p": 28,
@@ -808,6 +856,14 @@
     1491
    ],
    "rank": 7,
+   "next": {
+    "opp": "Hammarby",
+    "oppSlug": "hammarby",
+    "ha": "a",
+    "kickoff": "2026-11-23T18:00:00.000Z",
+    "win": 0.088,
+    "draw": 0.171
+   },
    "table": {
     "pos": 10,
     "p": 28,
@@ -921,6 +977,14 @@
     1481
    ],
    "rank": 8,
+   "next": {
+    "opp": "Vasteras SK",
+    "oppSlug": "vasteras-sk",
+    "ha": "h",
+    "kickoff": "2026-11-21T16:30:00.000Z",
+    "win": 0.468,
+    "draw": 0.274
+   },
    "table": {
     "pos": 9,
     "p": 28,
@@ -1034,6 +1098,14 @@
     1460
    ],
    "rank": 9,
+   "next": {
+    "opp": "Orgryte",
+    "oppSlug": "orgryte",
+    "ha": "a",
+    "kickoff": "2026-11-23T18:00:00.000Z",
+    "win": 0.527,
+    "draw": 0.255
+   },
    "table": {
     "pos": 13,
     "p": 28,
@@ -1147,6 +1219,14 @@
     1431
    ],
    "rank": 10,
+   "next": {
+    "opp": "GAIS",
+    "oppSlug": "gais",
+    "ha": "a",
+    "kickoff": "2026-11-21T16:30:00.000Z",
+    "win": 0.258,
+    "draw": 0.274
+   },
    "table": {
     "pos": 6,
     "p": 28,
@@ -1260,6 +1340,14 @@
     1399
    ],
    "rank": 11,
+   "next": {
+    "opp": "Malmo FF",
+    "oppSlug": "malmo-ff",
+    "ha": "h",
+    "kickoff": "2026-11-21T14:00:00.000Z",
+    "win": 0.263,
+    "draw": 0.276
+   },
    "table": {
     "pos": 12,
     "p": 28,
@@ -1373,6 +1461,14 @@
     1399
    ],
    "rank": 12,
+   "next": {
+    "opp": "Halmstad",
+    "oppSlug": "halmstad",
+    "ha": "h",
+    "kickoff": "2026-11-22T15:30:00.000Z",
+    "win": 0.516,
+    "draw": 0.261
+   },
    "table": {
     "pos": 11,
     "p": 28,
@@ -1486,6 +1582,14 @@
     1374
    ],
    "rank": 13,
+   "next": {
+    "opp": "Degerfors",
+    "oppSlug": "degerfors",
+    "ha": "h",
+    "kickoff": "2026-11-21T14:00:00.000Z",
+    "win": 0.449,
+    "draw": 0.272
+   },
    "table": {
     "pos": 8,
     "p": 28,
@@ -1599,6 +1703,14 @@
     1364
    ],
    "rank": 14,
+   "next": {
+    "opp": "AIK",
+    "oppSlug": "aik",
+    "ha": "a",
+    "kickoff": "2026-11-21T14:00:00.000Z",
+    "win": 0.279,
+    "draw": 0.272
+   },
    "table": {
     "pos": 14,
     "p": 28,
@@ -1712,6 +1824,14 @@
     1298
    ],
    "rank": 15,
+   "next": {
+    "opp": "Brommapojkarna",
+    "oppSlug": "brommapojkarna",
+    "ha": "a",
+    "kickoff": "2026-11-22T15:30:00.000Z",
+    "win": 0.223,
+    "draw": 0.261
+   },
    "table": {
     "pos": 16,
     "p": 28,
@@ -1825,6 +1945,14 @@
     1279
    ],
    "rank": 16,
+   "next": {
+    "opp": "Kalmar",
+    "oppSlug": "kalmar",
+    "ha": "h",
+    "kickoff": "2026-11-23T18:00:00.000Z",
+    "win": 0.218,
+    "draw": 0.255
+   },
    "table": {
     "pos": 15,
     "p": 28,

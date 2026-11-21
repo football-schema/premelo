@@ -1,6 +1,252 @@
 {
- "updated": "2026-11-20T07:01:17.158Z",
+ "updated": "2026-11-21T07:01:19.225Z",
  "league": "denmark",
  "season": "2026-27",
- "fixtures": []
+ "fixtures": [
+  {
+   "kickoff": "2026-11-22T13:00:00.000Z",
+   "home": "Horsens",
+   "away": "Silkeborg",
+   "homeSlug": "horsens",
+   "awaySlug": "silkeborg",
+   "homeName": "Horsens",
+   "awayName": "Silkeborg",
+   "elo": [
+    1463,
+    1481
+   ],
+   "dr": 42,
+   "H": 0.407,
+   "D": 0.282,
+   "A": 0.31,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.511,
+   "btts": 0.571,
+   "scores": [
+    [
+     "1-1",
+     0.141
+    ],
+    [
+     "1-0",
+     0.087
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.074
+    ],
+    [
+     "1-2",
+     0.073
+    ],
+    [
+     "0-0",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T13:00:00.000Z",
+   "home": "Viborg",
+   "away": "Randers FC",
+   "homeSlug": "viborg",
+   "awaySlug": "randers-fc",
+   "homeName": "Viborg",
+   "awayName": "Randers FC",
+   "elo": [
+    1640,
+    1484
+   ],
+   "dr": 198,
+   "H": 0.602,
+   "D": 0.234,
+   "A": 0.163,
+   "xg": [
+    2,
+    1
+   ],
+   "O25": 0.558,
+   "btts": 0.542,
+   "scores": [
+    [
+     "1-1",
+     0.117
+    ],
+    [
+     "2-0",
+     0.1
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "3-0",
+     0.068
+    ],
+    [
+     "3-1",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T15:00:00.000Z",
+   "home": "Sonderjyske",
+   "away": "Odense",
+   "homeSlug": "sonderjyske",
+   "awaySlug": "odense",
+   "homeName": "Sonderjyske",
+   "awayName": "Odense",
+   "elo": [
+    1470,
+    1565
+   ],
+   "dr": -50,
+   "H": 0.302,
+   "D": 0.281,
+   "A": 0.417,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.512,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.141
+    ],
+    [
+     "0-1",
+     0.088
+    ],
+    [
+     "1-2",
+     0.087
+    ],
+    [
+     "1-0",
+     0.073
+    ],
+    [
+     "2-1",
+     0.072
+    ],
+    [
+     "0-0",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-22T17:00:00.000Z",
+   "home": "Nordsjaelland",
+   "away": "FC Copenhagen",
+   "homeSlug": "nordsjaelland",
+   "awaySlug": "fc-copenhagen",
+   "homeName": "Nordsjaelland",
+   "awayName": "FC Copenhagen",
+   "elo": [
+    1699,
+    1782
+   ],
+   "dr": -9,
+   "H": 0.347,
+   "D": 0.285,
+   "A": 0.368,
+   "xg": [
+    1.4,
+    1.4
+   ],
+   "O25": 0.509,
+   "btts": 0.572,
+   "scores": [
+    [
+     "1-1",
+     0.142
+    ],
+    [
+     "0-1",
+     0.083
+    ],
+    [
+     "1-2",
+     0.081
+    ],
+    [
+     "1-0",
+     0.08
+    ],
+    [
+     "2-1",
+     0.078
+    ],
+    [
+     "0-0",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-23T18:00:00.000Z",
+   "home": "Brondby",
+   "away": "Midtjylland",
+   "homeSlug": "brondby",
+   "awaySlug": "midtjylland",
+   "homeName": "Brondby",
+   "awayName": "Midtjylland",
+   "elo": [
+    1699,
+    1683
+   ],
+   "dr": 46,
+   "H": 0.412,
+   "D": 0.282,
+   "A": 0.306,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.511,
+   "btts": 0.571,
+   "scores": [
+    [
+     "1-1",
+     0.141
+    ],
+    [
+     "1-0",
+     0.088
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.074
+    ],
+    [
+     "1-2",
+     0.072
+    ],
+    [
+     "0-0",
+     0.072
+    ]
+   ]
+  }
+ ]
 }

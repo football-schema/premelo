@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:01:09.936Z",
+ "updated": "2026-11-21T07:01:12.046Z",
  "league": "pl",
  "season": "2026-27",
  "fixtures": [
@@ -5004,213 +5004,8 @@
    ]
   },
   {
-   "kickoff": "2027-01-16T15:00:00.000Z",
+   "kickoff": "2027-01-16T12:30:00.000Z",
    "gw": 21,
-   "tbc": true,
-   "home": "Aston Villa",
-   "away": "Man United",
-   "homeSlug": "aston-villa",
-   "awaySlug": "man-united",
-   "homeName": "Aston Villa",
-   "awayName": "Manchester United",
-   "elo": [
-    1931,
-    1965
-   ],
-   "dr": 24,
-   "H": 0.372,
-   "D": 0.278,
-   "A": 0.351,
-   "xg": [
-    1.4,
-    1.4
-   ],
-   "O25": 0.513,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.137
-    ],
-    [
-     "1-0",
-     0.084
-    ],
-    [
-     "2-1",
-     0.082
-    ],
-    [
-     "0-1",
-     0.081
-    ],
-    [
-     "1-2",
-     0.079
-    ],
-    [
-     "0-0",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-16T15:00:00.000Z",
-   "gw": 21,
-   "tbc": true,
-   "home": "Bournemouth",
-   "away": "Ipswich",
-   "homeSlug": "bournemouth",
-   "awaySlug": "ipswich",
-   "homeName": "AFC Bournemouth",
-   "awayName": "Ipswich Town",
-   "elo": [
-    1986,
-    1816
-   ],
-   "dr": 246,
-   "H": 0.645,
-   "D": 0.213,
-   "A": 0.142,
-   "xg": [
-    2.2,
-    0.9
-   ],
-   "O25": 0.578,
-   "btts": 0.53,
-   "scores": [
-    [
-     "2-0",
-     0.106
-    ],
-    [
-     "1-1",
-     0.105
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "3-0",
-     0.077
-    ],
-    [
-     "3-1",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-16T15:00:00.000Z",
-   "gw": 21,
-   "tbc": true,
-   "home": "Brentford",
-   "away": "Brighton",
-   "homeSlug": "brentford",
-   "awaySlug": "brighton",
-   "homeName": "Brentford",
-   "awayName": "Brighton & Hove Albion",
-   "elo": [
-    1946,
-    2030
-   ],
-   "dr": -2,
-   "H": 0.343,
-   "D": 0.28,
-   "A": 0.378,
-   "xg": [
-    1.3,
-    1.4
-   ],
-   "O25": 0.504,
-   "btts": 0.563,
-   "scores": [
-    [
-     "1-1",
-     0.138
-    ],
-    [
-     "0-1",
-     0.087
-    ],
-    [
-     "1-2",
-     0.082
-    ],
-    [
-     "1-0",
-     0.082
-    ],
-    [
-     "2-1",
-     0.078
-    ],
-    [
-     "0-0",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-16T15:00:00.000Z",
-   "gw": 21,
-   "tbc": true,
-   "home": "Chelsea",
-   "away": "Sunderland",
-   "homeSlug": "chelsea",
-   "awaySlug": "sunderland",
-   "homeName": "Chelsea",
-   "awayName": "Sunderland",
-   "elo": [
-    2005,
-    1875
-   ],
-   "dr": 169,
-   "H": 0.554,
-   "D": 0.255,
-   "A": 0.191,
-   "xg": [
-    1.8,
-    1
-   ],
-   "O25": 0.5,
-   "btts": 0.514,
-   "scores": [
-    [
-     "1-1",
-     0.126
-    ],
-    [
-     "1-0",
-     0.112
-    ],
-    [
-     "2-0",
-     0.1
-    ],
-    [
-     "2-1",
-     0.095
-    ],
-    [
-     "0-0",
-     0.074
-    ],
-    [
-     "3-0",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-16T15:00:00.000Z",
-   "gw": 21,
-   "tbc": true,
    "home": "Coventry",
    "away": "Everton",
    "homeSlug": "coventry",
@@ -5261,7 +5056,56 @@
   {
    "kickoff": "2027-01-16T15:00:00.000Z",
    "gw": 21,
-   "tbc": true,
+   "home": "Chelsea",
+   "away": "Sunderland",
+   "homeSlug": "chelsea",
+   "awaySlug": "sunderland",
+   "homeName": "Chelsea",
+   "awayName": "Sunderland",
+   "elo": [
+    2005,
+    1875
+   ],
+   "dr": 169,
+   "H": 0.554,
+   "D": 0.255,
+   "A": 0.191,
+   "xg": [
+    1.8,
+    1
+   ],
+   "O25": 0.5,
+   "btts": 0.514,
+   "scores": [
+    [
+     "1-1",
+     0.126
+    ],
+    [
+     "1-0",
+     0.112
+    ],
+    [
+     "2-0",
+     0.1
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "0-0",
+     0.074
+    ],
+    [
+     "3-0",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-16T15:00:00.000Z",
+   "gw": 21,
    "home": "Hull",
    "away": "Arsenal",
    "homeSlug": "hull",
@@ -5312,7 +5156,6 @@
   {
    "kickoff": "2027-01-16T15:00:00.000Z",
    "gw": 21,
-   "tbc": true,
    "home": "Liverpool",
    "away": "Crystal Palace",
    "homeSlug": "liverpool",
@@ -5363,7 +5206,6 @@
   {
    "kickoff": "2027-01-16T15:00:00.000Z",
    "gw": 21,
-   "tbc": true,
    "home": "Man City",
    "away": "Nott'm Forest",
    "homeSlug": "man-city",
@@ -5414,7 +5256,6 @@
   {
    "kickoff": "2027-01-16T15:00:00.000Z",
    "gw": 21,
-   "tbc": true,
    "home": "Newcastle",
    "away": "Fulham",
    "homeSlug": "newcastle",
@@ -5463,9 +5304,108 @@
    ]
   },
   {
-   "kickoff": "2027-01-16T15:00:00.000Z",
+   "kickoff": "2027-01-16T17:30:00.000Z",
    "gw": 21,
-   "tbc": true,
+   "home": "Aston Villa",
+   "away": "Man United",
+   "homeSlug": "aston-villa",
+   "awaySlug": "man-united",
+   "homeName": "Aston Villa",
+   "awayName": "Manchester United",
+   "elo": [
+    1931,
+    1965
+   ],
+   "dr": 24,
+   "H": 0.372,
+   "D": 0.278,
+   "A": 0.351,
+   "xg": [
+    1.4,
+    1.4
+   ],
+   "O25": 0.513,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.137
+    ],
+    [
+     "1-0",
+     0.084
+    ],
+    [
+     "2-1",
+     0.082
+    ],
+    [
+     "0-1",
+     0.081
+    ],
+    [
+     "1-2",
+     0.079
+    ],
+    [
+     "0-0",
+     0.071
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-17T14:00:00.000Z",
+   "gw": 21,
+   "home": "Bournemouth",
+   "away": "Ipswich",
+   "homeSlug": "bournemouth",
+   "awaySlug": "ipswich",
+   "homeName": "AFC Bournemouth",
+   "awayName": "Ipswich Town",
+   "elo": [
+    1986,
+    1816
+   ],
+   "dr": 246,
+   "H": 0.645,
+   "D": 0.213,
+   "A": 0.142,
+   "xg": [
+    2.2,
+    0.9
+   ],
+   "O25": 0.578,
+   "btts": 0.53,
+   "scores": [
+    [
+     "2-0",
+     0.106
+    ],
+    [
+     "1-1",
+     0.105
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "3-0",
+     0.077
+    ],
+    [
+     "3-1",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-17T16:30:00.000Z",
+   "gw": 21,
    "home": "Tottenham",
    "away": "Leeds",
    "homeSlug": "tottenham",
@@ -5514,80 +5454,28 @@
    ]
   },
   {
-   "kickoff": "2027-01-23T15:00:00.000Z",
-   "gw": 22,
-   "tbc": true,
-   "home": "Arsenal",
-   "away": "Newcastle",
-   "homeSlug": "arsenal",
-   "awaySlug": "newcastle",
-   "homeName": "Arsenal",
-   "awayName": "Newcastle United",
+   "kickoff": "2027-01-18T20:00:00.000Z",
+   "gw": 21,
+   "home": "Brentford",
+   "away": "Brighton",
+   "homeSlug": "brentford",
+   "awaySlug": "brighton",
+   "homeName": "Brentford",
+   "awayName": "Brighton & Hove Albion",
    "elo": [
-    2154,
-    1878
+    1946,
+    2030
    ],
-   "dr": 349,
-   "H": 0.747,
-   "D": 0.17,
-   "A": 0.084,
+   "dr": -2,
+   "H": 0.343,
+   "D": 0.28,
+   "A": 0.378,
    "xg": [
-    2.5,
-    0.7
+    1.3,
+    1.4
    ],
-   "O25": 0.602,
-   "btts": 0.464,
-   "scores": [
-    [
-     "2-0",
-     0.125
-    ],
-    [
-     "3-0",
-     0.103
-    ],
-    [
-     "1-0",
-     0.101
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "1-1",
-     0.084
-    ],
-    [
-     "3-1",
-     0.072
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-23T15:00:00.000Z",
-   "gw": 22,
-   "tbc": true,
-   "home": "Brighton",
-   "away": "Man City",
-   "homeSlug": "brighton",
-   "awaySlug": "man-city",
-   "homeName": "Brighton & Hove Albion",
-   "awayName": "Manchester City",
-   "elo": [
-    2030,
-    2135
-   ],
-   "dr": -43,
-   "H": 0.305,
-   "D": 0.279,
-   "A": 0.417,
-   "xg": [
-    1.2,
-    1.5
-   ],
-   "O25": 0.5,
-   "btts": 0.556,
+   "O25": 0.504,
+   "btts": 0.563,
    "scores": [
     [
      "1-1",
@@ -5595,132 +5483,29 @@
     ],
     [
      "0-1",
-     0.093
-    ],
-    [
-     "1-2",
      0.087
     ],
     [
-     "1-0",
-     0.077
+     "1-2",
+     0.082
     ],
     [
-     "0-0",
-     0.074
+     "1-0",
+     0.082
     ],
     [
      "2-1",
-     0.072
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-23T15:00:00.000Z",
-   "gw": 22,
-   "tbc": true,
-   "home": "Crystal Palace",
-   "away": "Tottenham",
-   "homeSlug": "crystal-palace",
-   "awaySlug": "tottenham",
-   "homeName": "Crystal Palace",
-   "awayName": "Tottenham Hotspur",
-   "elo": [
-    1811,
-    1975
-   ],
-   "dr": -122,
-   "H": 0.238,
-   "D": 0.266,
-   "A": 0.496,
-   "xg": [
-    1.1,
-    1.7
-   ],
-   "O25": 0.506,
-   "btts": 0.543,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "0-1",
-     0.102
-    ],
-    [
-     "1-2",
-     0.093
-    ],
-    [
-     "0-2",
-     0.086
+     0.078
     ],
     [
      "0-0",
-     0.072
-    ],
-    [
-     "1-0",
-     0.066
+     0.073
     ]
    ]
   },
   {
    "kickoff": "2027-01-23T15:00:00.000Z",
    "gw": 22,
-   "tbc": true,
-   "home": "Everton",
-   "away": "Brentford",
-   "homeSlug": "everton",
-   "awaySlug": "brentford",
-   "homeName": "Everton",
-   "awayName": "Brentford",
-   "elo": [
-    1912,
-    1946
-   ],
-   "dr": 41,
-   "H": 0.383,
-   "D": 0.291,
-   "A": 0.326,
-   "xg": [
-    1.4,
-    1.2
-   ],
-   "O25": 0.459,
-   "btts": 0.526,
-   "scores": [
-    [
-     "1-1",
-     0.143
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "0-1",
-     0.09
-    ],
-    [
-     "0-0",
-     0.087
-    ],
-    [
-     "2-1",
-     0.081
-    ],
-    [
-     "1-2",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-23T15:00:00.000Z",
-   "gw": 22,
-   "tbc": true,
    "home": "Fulham",
    "away": "Aston Villa",
    "homeSlug": "fulham",
@@ -5771,7 +5556,6 @@
   {
    "kickoff": "2027-01-23T15:00:00.000Z",
    "gw": 22,
-   "tbc": true,
    "home": "Ipswich",
    "away": "Hull",
    "homeSlug": "ipswich",
@@ -5820,111 +5604,208 @@
    ]
   },
   {
-   "kickoff": "2027-01-23T15:00:00.000Z",
+   "kickoff": "2027-01-23T17:30:00.000Z",
    "gw": 22,
-   "tbc": true,
-   "home": "Leeds",
-   "away": "Chelsea",
-   "homeSlug": "leeds",
-   "awaySlug": "chelsea",
-   "homeName": "Leeds United",
-   "awayName": "Chelsea",
+   "home": "Arsenal",
+   "away": "Newcastle",
+   "homeSlug": "arsenal",
+   "awaySlug": "newcastle",
+   "homeName": "Arsenal",
+   "awayName": "Newcastle United",
    "elo": [
-    1946,
-    2005
+    2154,
+    1878
    ],
-   "dr": -13,
-   "H": 0.336,
-   "D": 0.283,
-   "A": 0.381,
+   "dr": 349,
+   "H": 0.747,
+   "D": 0.17,
+   "A": 0.084,
    "xg": [
-    1.3,
-    1.4
+    2.5,
+    0.7
    ],
-   "O25": 0.49,
-   "btts": 0.552,
+   "O25": 0.602,
+   "btts": 0.464,
    "scores": [
     [
-     "1-1",
-     0.14
+     "2-0",
+     0.125
     ],
     [
-     "0-1",
-     0.091
+     "3-0",
+     0.103
     ],
     [
      "1-0",
+     0.101
+    ],
+    [
+     "2-1",
+     0.087
+    ],
+    [
+     "1-1",
      0.084
     ],
     [
-     "1-2",
-     0.083
-    ],
-    [
-     "0-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.077
+     "3-1",
+     0.072
     ]
    ]
   },
   {
-   "kickoff": "2027-01-23T15:00:00.000Z",
+   "kickoff": "2027-01-23T20:00:00.000Z",
    "gw": 22,
-   "tbc": true,
-   "home": "Man United",
-   "away": "Liverpool",
-   "homeSlug": "man-united",
-   "awaySlug": "liverpool",
-   "homeName": "Manchester United",
-   "awayName": "Liverpool",
+   "home": "Brighton",
+   "away": "Man City",
+   "homeSlug": "brighton",
+   "awaySlug": "man-city",
+   "homeName": "Brighton & Hove Albion",
+   "awayName": "Manchester City",
    "elo": [
-    1965,
-    2062
+    2030,
+    2135
    ],
-   "dr": -28,
-   "H": 0.324,
-   "D": 0.277,
-   "A": 0.399,
+   "dr": -43,
+   "H": 0.305,
+   "D": 0.279,
+   "A": 0.417,
    "xg": [
-    1.3,
+    1.2,
     1.5
    ],
-   "O25": 0.511,
-   "btts": 0.568,
+   "O25": 0.5,
+   "btts": 0.556,
    "scores": [
     [
      "1-1",
-     0.137
+     0.138
     ],
     [
      "0-1",
-     0.088
+     0.093
     ],
     [
      "1-2",
-     0.085
+     0.087
     ],
     [
      "1-0",
-     0.078
-    ],
-    [
-     "2-1",
-     0.075
+     0.077
     ],
     [
      "0-0",
-     0.071
+     0.074
+    ],
+    [
+     "2-1",
+     0.072
     ]
    ]
   },
   {
-   "kickoff": "2027-01-23T15:00:00.000Z",
+   "kickoff": "2027-01-24T14:00:00.000Z",
    "gw": 22,
-   "tbc": true,
+   "home": "Crystal Palace",
+   "away": "Tottenham",
+   "homeSlug": "crystal-palace",
+   "awaySlug": "tottenham",
+   "homeName": "Crystal Palace",
+   "awayName": "Tottenham Hotspur",
+   "elo": [
+    1811,
+    1975
+   ],
+   "dr": -122,
+   "H": 0.238,
+   "D": 0.266,
+   "A": 0.496,
+   "xg": [
+    1.1,
+    1.7
+   ],
+   "O25": 0.506,
+   "btts": 0.543,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "0-1",
+     0.102
+    ],
+    [
+     "1-2",
+     0.093
+    ],
+    [
+     "0-2",
+     0.086
+    ],
+    [
+     "0-0",
+     0.072
+    ],
+    [
+     "1-0",
+     0.066
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-24T14:00:00.000Z",
+   "gw": 22,
+   "home": "Everton",
+   "away": "Brentford",
+   "homeSlug": "everton",
+   "awaySlug": "brentford",
+   "homeName": "Everton",
+   "awayName": "Brentford",
+   "elo": [
+    1912,
+    1946
+   ],
+   "dr": 41,
+   "H": 0.383,
+   "D": 0.291,
+   "A": 0.326,
+   "xg": [
+    1.4,
+    1.2
+   ],
+   "O25": 0.459,
+   "btts": 0.526,
+   "scores": [
+    [
+     "1-1",
+     0.143
+    ],
+    [
+     "1-0",
+     0.099
+    ],
+    [
+     "0-1",
+     0.09
+    ],
+    [
+     "0-0",
+     0.087
+    ],
+    [
+     "2-1",
+     0.081
+    ],
+    [
+     "1-2",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-24T14:00:00.000Z",
+   "gw": 22,
    "home": "Nott'm Forest",
    "away": "Bournemouth",
    "homeSlug": "nott-m-forest",
@@ -5973,9 +5854,8 @@
    ]
   },
   {
-   "kickoff": "2027-01-23T15:00:00.000Z",
+   "kickoff": "2027-01-24T14:00:00.000Z",
    "gw": 22,
-   "tbc": true,
    "home": "Sunderland",
    "away": "Coventry",
    "homeSlug": "sunderland",
@@ -6024,315 +5904,108 @@
    ]
   },
   {
-   "kickoff": "2027-01-30T15:00:00.000Z",
-   "gw": 23,
-   "tbc": true,
-   "home": "Aston Villa",
-   "away": "Ipswich",
-   "homeSlug": "aston-villa",
-   "awaySlug": "ipswich",
-   "homeName": "Aston Villa",
-   "awayName": "Ipswich Town",
+   "kickoff": "2027-01-24T16:30:00.000Z",
+   "gw": 22,
+   "home": "Man United",
+   "away": "Liverpool",
+   "homeSlug": "man-united",
+   "awaySlug": "liverpool",
+   "homeName": "Manchester United",
+   "awayName": "Liverpool",
    "elo": [
-    1931,
-    1816
+    1965,
+    2062
    ],
-   "dr": 173,
-   "H": 0.569,
-   "D": 0.241,
-   "A": 0.19,
+   "dr": -28,
+   "H": 0.324,
+   "D": 0.277,
+   "A": 0.399,
    "xg": [
-    1.9,
-    1
+    1.3,
+    1.5
    ],
-   "O25": 0.552,
-   "btts": 0.553,
+   "O25": 0.511,
+   "btts": 0.568,
    "scores": [
     [
      "1-1",
-     0.118
+     0.137
+    ],
+    [
+     "0-1",
+     0.088
+    ],
+    [
+     "1-2",
+     0.085
     ],
     [
      "1-0",
-     0.097
+     0.078
     ],
     [
      "2-1",
-     0.096
-    ],
-    [
-     "2-0",
-     0.094
-    ],
-    [
-     "3-1",
-     0.062
-    ],
-    [
-     "3-0",
-     0.061
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-30T15:00:00.000Z",
-   "gw": 23,
-   "tbc": true,
-   "home": "Bournemouth",
-   "away": "Fulham",
-   "homeSlug": "bournemouth",
-   "awaySlug": "fulham",
-   "homeName": "AFC Bournemouth",
-   "awayName": "Fulham",
-   "elo": [
-    1986,
-    1888
-   ],
-   "dr": 174,
-   "H": 0.543,
-   "D": 0.255,
-   "A": 0.203,
-   "xg": [
-    1.8,
-    1
-   ],
-   "O25": 0.51,
-   "btts": 0.527,
-   "scores": [
-    [
-     "1-1",
-     0.126
-    ],
-    [
-     "1-0",
-     0.107
-    ],
-    [
-     "2-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.095
+     0.075
     ],
     [
      "0-0",
      0.071
-    ],
-    [
-     "0-1",
-     0.06
     ]
    ]
   },
   {
-   "kickoff": "2027-01-30T15:00:00.000Z",
-   "gw": 23,
-   "tbc": true,
-   "home": "Brentford",
-   "away": "Man United",
-   "homeSlug": "brentford",
-   "awaySlug": "man-united",
-   "homeName": "Brentford",
-   "awayName": "Manchester United",
+   "kickoff": "2027-01-25T20:00:00.000Z",
+   "gw": 22,
+   "home": "Leeds",
+   "away": "Chelsea",
+   "homeSlug": "leeds",
+   "awaySlug": "chelsea",
+   "homeName": "Leeds United",
+   "awayName": "Chelsea",
    "elo": [
     1946,
-    1965
+    2005
    ],
-   "dr": 63,
-   "H": 0.409,
-   "D": 0.276,
-   "A": 0.316,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.512,
-   "btts": 0.566,
-   "scores": [
-    [
-     "1-1",
-     0.136
-    ],
-    [
-     "1-0",
-     0.089
-    ],
-    [
-     "2-1",
-     0.086
-    ],
-    [
-     "0-1",
-     0.076
-    ],
-    [
-     "1-2",
-     0.074
-    ],
-    [
-     "0-0",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-30T15:00:00.000Z",
-   "gw": 23,
-   "tbc": true,
-   "home": "Chelsea",
-   "away": "Nott'm Forest",
-   "homeSlug": "chelsea",
-   "awaySlug": "nott-m-forest",
-   "homeName": "Chelsea",
-   "awayName": "Nottingham Forest",
-   "elo": [
-    2005,
-    1916
-   ],
-   "dr": 128,
-   "H": 0.519,
-   "D": 0.262,
-   "A": 0.218,
-   "xg": [
-    1.7,
-    1
-   ],
-   "O25": 0.503,
-   "btts": 0.532,
-   "scores": [
-    [
-     "1-1",
-     0.13
-    ],
-    [
-     "1-0",
-     0.106
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "2-0",
-     0.092
-    ],
-    [
-     "0-0",
-     0.073
-    ],
-    [
-     "0-1",
-     0.063
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-30T15:00:00.000Z",
-   "gw": 23,
-   "tbc": true,
-   "home": "Coventry",
-   "away": "Leeds",
-   "homeSlug": "coventry",
-   "awaySlug": "leeds",
-   "homeName": "Coventry City",
-   "awayName": "Leeds United",
-   "elo": [
-    1786,
-    1946
-   ],
-   "dr": -109,
-   "H": 0.242,
-   "D": 0.266,
-   "A": 0.492,
-   "xg": [
-    1.1,
-    1.7
-   ],
-   "O25": 0.513,
-   "btts": 0.55,
-   "scores": [
-    [
-     "1-1",
-     0.131
-    ],
-    [
-     "0-1",
-     0.1
-    ],
-    [
-     "1-2",
-     0.093
-    ],
-    [
-     "0-2",
-     0.084
-    ],
-    [
-     "0-0",
-     0.07
-    ],
-    [
-     "1-0",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-30T15:00:00.000Z",
-   "gw": 23,
-   "tbc": true,
-   "home": "Hull",
-   "away": "Crystal Palace",
-   "homeSlug": "hull",
-   "awaySlug": "crystal-palace",
-   "homeName": "Hull City",
-   "awayName": "Crystal Palace",
-   "elo": [
-    1749,
-    1811
-   ],
-   "dr": -9,
-   "H": 0.335,
-   "D": 0.288,
-   "A": 0.377,
+   "dr": -13,
+   "H": 0.336,
+   "D": 0.283,
+   "A": 0.381,
    "xg": [
     1.3,
     1.4
    ],
-   "O25": 0.47,
-   "btts": 0.536,
+   "O25": 0.49,
+   "btts": 0.552,
    "scores": [
     [
      "1-1",
-     0.142
+     0.14
     ],
     [
      "0-1",
-     0.096
+     0.091
     ],
     [
      "1-0",
-     0.088
-    ],
-    [
-     "0-0",
-     0.083
+     0.084
     ],
     [
      "1-2",
-     0.081
+     0.083
+    ],
+    [
+     "0-0",
+     0.077
     ],
     [
      "2-1",
-     0.076
+     0.077
     ]
    ]
   },
   {
-   "kickoff": "2027-01-30T15:00:00.000Z",
+   "kickoff": "2027-01-30T12:30:00.000Z",
    "gw": 23,
-   "tbc": true,
    "home": "Liverpool",
    "away": "Everton",
    "homeSlug": "liverpool",
@@ -6383,58 +6056,56 @@
   {
    "kickoff": "2027-01-30T15:00:00.000Z",
    "gw": 23,
-   "tbc": true,
-   "home": "Man City",
-   "away": "Arsenal",
-   "homeSlug": "man-city",
-   "awaySlug": "arsenal",
-   "homeName": "Manchester City",
-   "awayName": "Arsenal",
+   "home": "Aston Villa",
+   "away": "Ipswich",
+   "homeSlug": "aston-villa",
+   "awaySlug": "ipswich",
+   "homeName": "Aston Villa",
+   "awayName": "Ipswich Town",
    "elo": [
-    2135,
-    2154
+    1931,
+    1816
    ],
-   "dr": 37,
-   "H": 0.39,
-   "D": 0.291,
-   "A": 0.319,
+   "dr": 173,
+   "H": 0.569,
+   "D": 0.241,
+   "A": 0.19,
    "xg": [
-    1.4,
-    1.2
+    1.9,
+    1
    ],
-   "O25": 0.458,
-   "btts": 0.526,
+   "O25": 0.552,
+   "btts": 0.553,
    "scores": [
     [
      "1-1",
-     0.143
+     0.118
     ],
     [
      "1-0",
-     0.1
-    ],
-    [
-     "0-1",
-     0.089
-    ],
-    [
-     "0-0",
-     0.088
+     0.097
     ],
     [
      "2-1",
-     0.082
+     0.096
     ],
     [
-     "1-2",
-     0.073
+     "2-0",
+     0.094
+    ],
+    [
+     "3-1",
+     0.062
+    ],
+    [
+     "3-0",
+     0.061
     ]
    ]
   },
   {
    "kickoff": "2027-01-30T15:00:00.000Z",
    "gw": 23,
-   "tbc": true,
    "home": "Newcastle",
    "away": "Brighton",
    "homeSlug": "newcastle",
@@ -6483,9 +6154,208 @@
    ]
   },
   {
-   "kickoff": "2027-01-30T15:00:00.000Z",
+   "kickoff": "2027-01-30T17:30:00.000Z",
    "gw": 23,
-   "tbc": true,
+   "home": "Chelsea",
+   "away": "Nott'm Forest",
+   "homeSlug": "chelsea",
+   "awaySlug": "nott-m-forest",
+   "homeName": "Chelsea",
+   "awayName": "Nottingham Forest",
+   "elo": [
+    2005,
+    1916
+   ],
+   "dr": 128,
+   "H": 0.519,
+   "D": 0.262,
+   "A": 0.218,
+   "xg": [
+    1.7,
+    1
+   ],
+   "O25": 0.503,
+   "btts": 0.532,
+   "scores": [
+    [
+     "1-1",
+     0.13
+    ],
+    [
+     "1-0",
+     0.106
+    ],
+    [
+     "2-1",
+     0.094
+    ],
+    [
+     "2-0",
+     0.092
+    ],
+    [
+     "0-0",
+     0.073
+    ],
+    [
+     "0-1",
+     0.063
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-31T14:00:00.000Z",
+   "gw": 23,
+   "home": "Bournemouth",
+   "away": "Fulham",
+   "homeSlug": "bournemouth",
+   "awaySlug": "fulham",
+   "homeName": "AFC Bournemouth",
+   "awayName": "Fulham",
+   "elo": [
+    1986,
+    1888
+   ],
+   "dr": 174,
+   "H": 0.543,
+   "D": 0.255,
+   "A": 0.203,
+   "xg": [
+    1.8,
+    1
+   ],
+   "O25": 0.51,
+   "btts": 0.527,
+   "scores": [
+    [
+     "1-1",
+     0.126
+    ],
+    [
+     "1-0",
+     0.107
+    ],
+    [
+     "2-0",
+     0.096
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "0-0",
+     0.071
+    ],
+    [
+     "0-1",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-31T14:00:00.000Z",
+   "gw": 23,
+   "home": "Coventry",
+   "away": "Leeds",
+   "homeSlug": "coventry",
+   "awaySlug": "leeds",
+   "homeName": "Coventry City",
+   "awayName": "Leeds United",
+   "elo": [
+    1786,
+    1946
+   ],
+   "dr": -109,
+   "H": 0.242,
+   "D": 0.266,
+   "A": 0.492,
+   "xg": [
+    1.1,
+    1.7
+   ],
+   "O25": 0.513,
+   "btts": 0.55,
+   "scores": [
+    [
+     "1-1",
+     0.131
+    ],
+    [
+     "0-1",
+     0.1
+    ],
+    [
+     "1-2",
+     0.093
+    ],
+    [
+     "0-2",
+     0.084
+    ],
+    [
+     "0-0",
+     0.07
+    ],
+    [
+     "1-0",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-31T14:00:00.000Z",
+   "gw": 23,
+   "home": "Hull",
+   "away": "Crystal Palace",
+   "homeSlug": "hull",
+   "awaySlug": "crystal-palace",
+   "homeName": "Hull City",
+   "awayName": "Crystal Palace",
+   "elo": [
+    1749,
+    1811
+   ],
+   "dr": -9,
+   "H": 0.335,
+   "D": 0.288,
+   "A": 0.377,
+   "xg": [
+    1.3,
+    1.4
+   ],
+   "O25": 0.47,
+   "btts": 0.536,
+   "scores": [
+    [
+     "1-1",
+     0.142
+    ],
+    [
+     "0-1",
+     0.096
+    ],
+    [
+     "1-0",
+     0.088
+    ],
+    [
+     "0-0",
+     0.083
+    ],
+    [
+     "1-2",
+     0.081
+    ],
+    [
+     "2-1",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-31T14:00:00.000Z",
+   "gw": 23,
    "home": "Tottenham",
    "away": "Sunderland",
    "homeSlug": "tottenham",
@@ -6530,6 +6400,106 @@
     [
      "0-1",
      0.066
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-31T16:30:00.000Z",
+   "gw": 23,
+   "home": "Man City",
+   "away": "Arsenal",
+   "homeSlug": "man-city",
+   "awaySlug": "arsenal",
+   "homeName": "Manchester City",
+   "awayName": "Arsenal",
+   "elo": [
+    2135,
+    2154
+   ],
+   "dr": 37,
+   "H": 0.39,
+   "D": 0.291,
+   "A": 0.319,
+   "xg": [
+    1.4,
+    1.2
+   ],
+   "O25": 0.458,
+   "btts": 0.526,
+   "scores": [
+    [
+     "1-1",
+     0.143
+    ],
+    [
+     "1-0",
+     0.1
+    ],
+    [
+     "0-1",
+     0.089
+    ],
+    [
+     "0-0",
+     0.088
+    ],
+    [
+     "2-1",
+     0.082
+    ],
+    [
+     "1-2",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-02-01T20:00:00.000Z",
+   "gw": 23,
+   "home": "Brentford",
+   "away": "Man United",
+   "homeSlug": "brentford",
+   "awaySlug": "man-united",
+   "homeName": "Brentford",
+   "awayName": "Manchester United",
+   "elo": [
+    1946,
+    1965
+   ],
+   "dr": 63,
+   "H": 0.409,
+   "D": 0.276,
+   "A": 0.316,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.512,
+   "btts": 0.566,
+   "scores": [
+    [
+     "1-1",
+     0.136
+    ],
+    [
+     "1-0",
+     0.089
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.076
+    ],
+    [
+     "1-2",
+     0.074
+    ],
+    [
+     "0-0",
+     0.071
     ]
    ]
   },
