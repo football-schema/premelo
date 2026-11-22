@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:01:19.191Z",
+ "updated": "2026-11-22T07:01:15.407Z",
  "league": "superlig",
  "name": "Süper Lig",
  "through": "2026-11-08",
@@ -130,14 +130,6 @@
     1848
    ],
    "rank": 1,
-   "next": {
-    "opp": "Samsunspor",
-    "oppSlug": "samsunspor",
-    "ha": "h",
-    "kickoff": "2026-11-21T13:00:00.000Z",
-    "win": 0.834,
-    "draw": 0.117
-   },
    "table": {
     "pos": 1,
     "p": 11,
@@ -376,14 +368,6 @@
     1808
    ],
    "rank": 3,
-   "next": {
-    "opp": "Kocaelispor",
-    "oppSlug": "kocaelispor",
-    "ha": "a",
-    "kickoff": "2026-11-21T16:00:00.000Z",
-    "win": 0.621,
-    "draw": 0.227
-   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -613,14 +597,6 @@
     1636
    ],
    "rank": 5,
-   "next": {
-    "opp": "Rizespor",
-    "oppSlug": "rizespor",
-    "ha": "h",
-    "kickoff": "2026-11-21T13:00:00.000Z",
-    "win": 0.524,
-    "draw": 0.253
-   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -1096,14 +1072,6 @@
     1577
    ],
    "rank": 9,
-   "next": {
-    "opp": "Amedspor",
-    "oppSlug": "amedspor",
-    "ha": "a",
-    "kickoff": "2026-11-21T13:00:00.000Z",
-    "win": 0.222,
-    "draw": 0.253
-   },
    "table": {
     "pos": 11,
     "p": 11,
@@ -1465,14 +1433,6 @@
     1519
    ],
    "rank": 12,
-   "next": {
-    "opp": "Fenerbahçe",
-    "oppSlug": "fenerbahce",
-    "ha": "h",
-    "kickoff": "2026-11-21T16:00:00.000Z",
-    "win": 0.152,
-    "draw": 0.227
-   },
    "table": {
     "pos": 7,
     "p": 11,
@@ -1711,14 +1671,6 @@
     1510
    ],
    "rank": 14,
-   "next": {
-    "opp": "Galatasaray",
-    "oppSlug": "galatasaray",
-    "ha": "a",
-    "kickoff": "2026-11-21T13:00:00.000Z",
-    "win": 0.05,
-    "draw": 0.117
-   },
    "table": {
     "pos": 17,
     "p": 11,
@@ -1957,14 +1909,6 @@
     1488
    ],
    "rank": 16,
-   "next": {
-    "opp": "Gençlerbirliği",
-    "oppSlug": "genclerbirligi",
-    "ha": "a",
-    "kickoff": "2026-11-21T10:30:00.000Z",
-    "win": 0.322,
-    "draw": 0.28
-   },
    "table": {
     "pos": 16,
     "p": 11,
@@ -2080,14 +2024,6 @@
     1452
    ],
    "rank": 17,
-   "next": {
-    "opp": "Gaziantep",
-    "oppSlug": "gaziantep",
-    "ha": "h",
-    "kickoff": "2026-11-21T10:30:00.000Z",
-    "win": 0.397,
-    "draw": 0.28
-   },
    "table": {
     "pos": 14,
     "p": 11,

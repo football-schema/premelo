@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:01:19.214Z",
+ "updated": "2026-11-22T07:01:15.428Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-11-08",
@@ -317,14 +317,6 @@
     1758
    ],
    "rank": 3,
-   "next": {
-    "opp": "Kalamata",
-    "oppSlug": "kalamata",
-    "ha": "a",
-    "kickoff": "2026-11-21T17:30:00.000Z",
-    "win": 0.733,
-    "draw": 0.183
-   },
    "table": {
     "pos": 3,
     "p": 9,
@@ -1093,14 +1085,6 @@
     1366
    ],
    "rank": 11,
-   "next": {
-    "opp": "AEK Athens",
-    "oppSlug": "aek",
-    "ha": "h",
-    "kickoff": "2026-11-21T17:30:00.000Z",
-    "win": 0.083,
-    "draw": 0.183
-   },
    "table": {
     "pos": 8,
     "p": 10,

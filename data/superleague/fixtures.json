@@ -1,57 +1,8 @@
 {
- "updated": "2026-11-21T07:01:19.214Z",
+ "updated": "2026-11-22T07:01:15.428Z",
  "league": "superleague",
  "season": "2026-27",
  "fixtures": [
-  {
-   "kickoff": "2026-11-21T17:30:00.000Z",
-   "home": "Kalamata",
-   "away": "AEK",
-   "homeSlug": "kalamata",
-   "awaySlug": "aek",
-   "homeName": "Kalamata",
-   "awayName": "AEK Athens",
-   "elo": [
-    1366,
-    1758
-   ],
-   "dr": -312,
-   "H": 0.083,
-   "D": 0.183,
-   "A": 0.733,
-   "xg": [
-    0.6,
-    2.3
-   ],
-   "O25": 0.534,
-   "btts": 0.409,
-   "scores": [
-    [
-     "0-2",
-     0.142
-    ],
-    [
-     "0-1",
-     0.126
-    ],
-    [
-     "0-3",
-     0.107
-    ],
-    [
-     "1-1",
-     0.088
-    ],
-    [
-     "1-2",
-     0.086
-    ],
-    [
-     "0-0",
-     0.065
-    ]
-   ]
-  },
   {
    "kickoff": "2026-11-22T14:00:00.000Z",
    "home": "Levadiakos",

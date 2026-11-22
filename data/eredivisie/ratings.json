@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:01:18.492Z",
+ "updated": "2026-11-22T07:01:14.817Z",
  "league": "eredivisie",
  "name": "Eredivisie",
  "through": "2026-11-08",
@@ -130,14 +130,6 @@
     1835
    ],
    "rank": 1,
-   "next": {
-    "opp": "NEC",
-    "oppSlug": "nijmegen",
-    "ha": "a",
-    "kickoff": "2026-11-21T15:30:00.000Z",
-    "win": 0.545,
-    "draw": 0.24
-   },
    "table": {
     "pos": 1,
     "p": 12,
@@ -376,14 +368,6 @@
     1826
    ],
    "rank": 3,
-   "next": {
-    "opp": "Excelsior",
-    "oppSlug": "excelsior",
-    "ha": "h",
-    "kickoff": "2026-11-21T17:45:00.000Z",
-    "win": 0.811,
-    "draw": 0.129
-   },
    "table": {
     "pos": 2,
     "p": 12,
@@ -745,14 +729,6 @@
     1669
    ],
    "rank": 6,
-   "next": {
-    "opp": "PSV",
-    "oppSlug": "psv-eindhoven",
-    "ha": "h",
-    "kickoff": "2026-11-21T15:30:00.000Z",
-    "win": 0.215,
-    "draw": 0.24
-   },
    "table": {
     "pos": 11,
     "p": 12,
@@ -868,14 +844,6 @@
     1660
    ],
    "rank": 7,
-   "next": {
-    "opp": "Groningen",
-    "oppSlug": "groningen",
-    "ha": "a",
-    "kickoff": "2026-11-21T20:00:00.000Z",
-    "win": 0.371,
-    "draw": 0.27
-   },
    "table": {
     "pos": 6,
     "p": 12,
@@ -991,14 +959,6 @@
     1588
    ],
    "rank": 8,
-   "next": {
-    "opp": "Heerenveen",
-    "oppSlug": "heerenveen",
-    "ha": "h",
-    "kickoff": "2026-11-21T20:00:00.000Z",
-    "win": 0.359,
-    "draw": 0.27
-   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -1237,14 +1197,6 @@
     1556
    ],
    "rank": 10,
-   "next": {
-    "opp": "Cambuur",
-    "oppSlug": "cambuur",
-    "ha": "h",
-    "kickoff": "2026-11-21T17:45:00.000Z",
-    "win": 0.517,
-    "draw": 0.251
-   },
    "table": {
     "pos": 14,
     "p": 12,
@@ -1483,14 +1435,6 @@
     1528
    ],
    "rank": 12,
-   "next": {
-    "opp": "Utrecht",
-    "oppSlug": "utrecht",
-    "ha": "a",
-    "kickoff": "2026-11-21T17:45:00.000Z",
-    "win": 0.232,
-    "draw": 0.251
-   },
    "table": {
     "pos": 10,
     "p": 12,
@@ -1606,14 +1550,6 @@
     1510
    ],
    "rank": 13,
-   "next": {
-    "opp": "Feyenoord",
-    "oppSlug": "feyenoord",
-    "ha": "a",
-    "kickoff": "2026-11-21T17:45:00.000Z",
-    "win": 0.06,
-    "draw": 0.129
-   },
    "table": {
     "pos": 15,
     "p": 12,
@@ -1852,14 +1788,6 @@
     1484
    ],
    "rank": 15,
-   "next": {
-    "opp": "Zwolle",
-    "oppSlug": "zwolle",
-    "ha": "h",
-    "kickoff": "2026-11-21T20:00:00.000Z",
-    "win": 0.442,
-    "draw": 0.267
-   },
    "table": {
     "pos": 16,
     "p": 12,
@@ -1975,14 +1903,6 @@
     1482
    ],
    "rank": 16,
-   "next": {
-    "opp": "Telstar",
-    "oppSlug": "telstar",
-    "ha": "a",
-    "kickoff": "2026-11-21T20:00:00.000Z",
-    "win": 0.291,
-    "draw": 0.267
-   },
    "table": {
     "pos": 13,
     "p": 12,

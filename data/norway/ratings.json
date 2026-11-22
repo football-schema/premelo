@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:01:19.343Z",
+ "updated": "2026-11-22T07:01:15.544Z",
  "league": "norway",
  "name": "Eliteserien",
  "through": "2026-11-09",
@@ -243,14 +243,6 @@
     1713
    ],
    "rank": 2,
-   "next": {
-    "opp": "Tromso",
-    "oppSlug": "tromso",
-    "ha": "a",
-    "kickoff": "2026-11-21T13:00:00.000Z",
-    "win": 0.508,
-    "draw": 0.242
-   },
    "table": {
     "pos": 1,
     "p": 26,
@@ -719,14 +711,6 @@
     1552
    ],
    "rank": 6,
-   "next": {
-    "opp": "Viking",
-    "oppSlug": "viking",
-    "ha": "h",
-    "kickoff": "2026-11-21T13:00:00.000Z",
-    "win": 0.25,
-    "draw": 0.242
-   },
    "table": {
     "pos": 6,
     "p": 26,
@@ -840,14 +824,6 @@
     1535
    ],
    "rank": 7,
-   "next": {
-    "opp": "Start",
-    "oppSlug": "start",
-    "ha": "h",
-    "kickoff": "2026-11-21T17:00:00.000Z",
-    "win": 0.574,
-    "draw": 0.226
-   },
    "table": {
     "pos": 8,
     "p": 26,
@@ -1324,14 +1300,6 @@
     1479
    ],
    "rank": 11,
-   "next": {
-    "opp": "HamKam",
-    "oppSlug": "hamkam",
-    "ha": "a",
-    "kickoff": "2026-11-21T15:00:00.000Z",
-    "win": 0.358,
-    "draw": 0.267
-   },
    "table": {
     "pos": 12,
     "p": 26,
@@ -1566,14 +1534,6 @@
     1437
    ],
    "rank": 13,
-   "next": {
-    "opp": "Valerenga",
-    "oppSlug": "valerenga",
-    "ha": "a",
-    "kickoff": "2026-11-21T17:00:00.000Z",
-    "win": 0.2,
-    "draw": 0.226
-   },
    "table": {
     "pos": 16,
     "p": 26,
@@ -1808,14 +1768,6 @@
     1417
    ],
    "rank": 15,
-   "next": {
-    "opp": "Fredrikstad",
-    "oppSlug": "fredrikstad",
-    "ha": "h",
-    "kickoff": "2026-11-21T15:00:00.000Z",
-    "win": 0.375,
-    "draw": 0.267
-   },
    "table": {
     "pos": 11,
     "p": 26,

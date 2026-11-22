@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:01:19.951Z",
+ "updated": "2026-11-22T07:01:16.171Z",
  "up": [
   {
    "league": "ireland",
@@ -132,14 +132,6 @@
    "change": -27
   },
   {
-   "league": "pl",
-   "leagueName": "Premier League",
-   "slug": "chelsea",
-   "name": "Chelsea",
-   "elo": 2005,
-   "change": -27
-  },
-  {
    "league": "seriea",
    "leagueName": "Serie A",
    "slug": "milan",
@@ -161,6 +153,14 @@
    "slug": "kalmar",
    "name": "Kalmar",
    "elo": 1460,
+   "change": -24
+  },
+  {
+   "league": "superleague",
+   "leagueName": "Super League",
+   "slug": "volos-nfc",
+   "name": "Volos NFC",
+   "elo": 1317,
    "change": -24
   }
  ]

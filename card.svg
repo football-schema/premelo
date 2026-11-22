@@ -21,14 +21,14 @@
   <polyline points="820.0,334.5 835.3,339.5 850.5,339.2 865.8,341.0 881.1,338.2 896.3,335.8 911.6,332.7 926.8,328.9 942.1,327.7 957.4,324.0 972.6,322.2 987.9,322.0 1003.2,323.7 1018.4,322.1 1033.7,319.0 1048.9,321.5 1064.2,320.6 1079.5,320.5 1094.7,320.0 1110.0,320.6" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="320.6" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="363" y2="363" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="394" fill="#617067">3</text><text x="122" y="394" fill="#17251e" font-weight="600">Arsenal <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="394" fill="#17251e" font-weight="bold" text-anchor="end">2154</text>
-  <text x="760" y="394" fill="#b54439" text-anchor="end">−20</text>
-  <polyline points="820.0,384.9 835.3,384.4 850.5,379.5 865.8,381.4 881.1,385.4 896.3,385.4 911.6,390.0 926.8,377.7 942.1,375.5 957.4,372.6 972.6,372.3 987.9,369.6 1003.2,370.7 1018.4,369.6 1033.7,369.3 1048.9,368.0 1064.2,370.7 1079.5,370.4 1094.7,370.4 1110.0,375.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="375.0" r="5" fill="#167451"/>
+  <text x="640" y="394" fill="#17251e" font-weight="bold" text-anchor="end">2152</text>
+  <text x="760" y="394" fill="#b54439" text-anchor="end">−28</text>
+  <polyline points="820.0,384.4 835.3,379.5 850.5,381.4 865.8,385.4 881.1,385.4 896.3,390.0 911.6,377.7 926.8,375.5 942.1,372.6 957.4,372.3 972.6,369.6 987.9,370.7 1003.2,369.6 1018.4,369.3 1033.7,368.0 1048.9,370.7 1064.2,370.4 1079.5,370.4 1094.7,375.0 1110.0,375.5" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="375.5" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="412" y2="412" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="443" fill="#617067">4</text><text x="122" y="443" fill="#17251e" font-weight="600">Manchester City <tspan fill="#617067" font-size="20" font-weight="normal">Premier League</tspan></text>
-  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2135</text>
-  <text x="760" y="443" fill="#b54439" text-anchor="end">−33</text>
-  <polyline points="820.0,426.0 835.3,419.2 850.5,418.8 865.8,423.9 881.1,417.0 896.3,417.7 911.6,423.9 926.8,425.3 942.1,431.4 957.4,427.5 972.6,426.7 987.9,427.1 1003.2,419.2 1018.4,427.5 1033.7,431.4 1048.9,430.3 1064.2,431.8 1079.5,436.5 1094.7,435.8 1110.0,439.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="439.0" r="5" fill="#167451"/>
+  <text x="640" y="443" fill="#17251e" font-weight="bold" text-anchor="end">2132</text>
+  <text x="760" y="443" fill="#b54439" text-anchor="end">−27</text>
+  <polyline points="820.0,419.1 835.3,418.7 850.5,423.5 865.8,417.0 881.1,417.7 896.3,423.5 911.6,424.9 926.8,430.8 942.1,427.0 957.4,426.3 972.6,426.6 987.9,419.1 1003.2,427.0 1018.4,430.8 1033.7,429.7 1048.9,431.1 1064.2,435.6 1079.5,434.9 1094.7,438.0 1110.0,439.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="439.0" r="5" fill="#167451"/>
   <line x1="80" x2="1120" y1="461" y2="461" stroke="#dfe5dc" stroke-width="2"/>
   <text x="80" y="492" fill="#617067">5</text><text x="122" y="492" fill="#17251e" font-weight="600">Real Madrid <tspan fill="#617067" font-size="20" font-weight="normal">La Liga</tspan></text>
   <text x="640" y="492" fill="#17251e" font-weight="bold" text-anchor="end">2124</text>
@@ -41,5 +41,5 @@
   <polyline points="820.0,528.1 835.3,527.7 850.5,531.2 865.8,531.6 881.1,537.0 896.3,536.6 911.6,530.8 926.8,529.3 942.1,523.1 957.4,523.5 972.6,520.0 987.9,517.3 1003.2,524.3 1018.4,516.2 1033.7,521.2 1048.9,515.0 1064.2,516.5 1079.5,523.5 1094.7,516.2 1110.0,520.0" fill="none" stroke="#167451" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1110.0" cy="520.0" r="5" fill="#167451"/>
   
   </g>
-  <text x="80" y="606" font-size="19" fill="#617067">Through 16 November 2026 · chances for every coming match · tested against the bookmakers</text>
+  <text x="80" y="606" font-size="19" fill="#617067">Through 21 November 2026 · chances for every coming match · tested against the bookmakers</text>
 </svg>

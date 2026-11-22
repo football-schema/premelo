@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:01:19.396Z",
+ "updated": "2026-11-22T07:01:15.606Z",
  "league": "sweden",
  "name": "Allsvenskan",
  "through": "2026-11-08",
@@ -614,14 +614,6 @@
     1529
    ],
    "rank": 5,
-   "next": {
-    "opp": "Mjallby",
-    "oppSlug": "mjallby",
-    "ha": "a",
-    "kickoff": "2026-11-21T14:00:00.000Z",
-    "win": 0.461,
-    "draw": 0.276
-   },
    "table": {
     "pos": 7,
     "p": 28,
@@ -977,14 +969,6 @@
     1481
    ],
    "rank": 8,
-   "next": {
-    "opp": "Vasteras SK",
-    "oppSlug": "vasteras-sk",
-    "ha": "h",
-    "kickoff": "2026-11-21T16:30:00.000Z",
-    "win": 0.468,
-    "draw": 0.274
-   },
    "table": {
     "pos": 9,
     "p": 28,
@@ -1219,14 +1203,6 @@
     1431
    ],
    "rank": 10,
-   "next": {
-    "opp": "GAIS",
-    "oppSlug": "gais",
-    "ha": "a",
-    "kickoff": "2026-11-21T16:30:00.000Z",
-    "win": 0.258,
-    "draw": 0.274
-   },
    "table": {
     "pos": 6,
     "p": 28,
@@ -1340,14 +1316,6 @@
     1399
    ],
    "rank": 11,
-   "next": {
-    "opp": "Malmo FF",
-    "oppSlug": "malmo-ff",
-    "ha": "h",
-    "kickoff": "2026-11-21T14:00:00.000Z",
-    "win": 0.263,
-    "draw": 0.276
-   },
    "table": {
     "pos": 12,
     "p": 28,
@@ -1582,14 +1550,6 @@
     1374
    ],
    "rank": 13,
-   "next": {
-    "opp": "Degerfors",
-    "oppSlug": "degerfors",
-    "ha": "h",
-    "kickoff": "2026-11-21T14:00:00.000Z",
-    "win": 0.449,
-    "draw": 0.272
-   },
    "table": {
     "pos": 8,
     "p": 28,
@@ -1703,14 +1663,6 @@
     1364
    ],
    "rank": 14,
-   "next": {
-    "opp": "AIK",
-    "oppSlug": "aik",
-    "ha": "a",
-    "kickoff": "2026-11-21T14:00:00.000Z",
-    "win": 0.279,
-    "draw": 0.272
-   },
    "table": {
     "pos": 14,
     "p": 28,
