@@ -6,7 +6,7 @@
    "@type": "Dataset",
    "name": "premelo: Premier League ratings and forecasts",
    "publisher": "premelo (https://github.com/football-schema/premelo)",
-   "updated": "2026-11-22T07:01:08.372Z",
+   "updated": "2026-11-23T07:01:09.960Z",
    "schemaVersion": "0.0.3",
    "includes": [
     "pl/forecasts.jsonld"

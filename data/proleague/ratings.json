@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:01:14.828Z",
+ "updated": "2026-11-23T07:01:17.106Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-11-08",
@@ -212,14 +212,6 @@
     1874
    ],
    "rank": 2,
-   "next": {
-    "opp": "Kortrijk",
-    "oppSlug": "kortrijk",
-    "ha": "a",
-    "kickoff": "2026-11-22T15:00:00.000Z",
-    "win": 0.716,
-    "draw": 0.184
-   },
    "table": {
     "pos": 1,
     "p": 11,
@@ -309,14 +301,6 @@
     1780
    ],
    "rank": 3,
-   "next": {
-    "opp": "OH Leuven",
-    "oppSlug": "oud-heverlee-leuven",
-    "ha": "h",
-    "kickoff": "2026-11-22T17:30:00.000Z",
-    "win": 0.685,
-    "draw": 0.197
-   },
    "table": {
     "pos": 5,
     "p": 11,
@@ -584,14 +568,6 @@
     1704
    ],
    "rank": 6,
-   "next": {
-    "opp": "Beveren",
-    "oppSlug": "beveren",
-    "ha": "a",
-    "kickoff": "2026-11-22T12:30:00.000Z",
-    "win": 0.47,
-    "draw": 0.266
-   },
    "table": {
     "pos": 3,
     "p": 11,
@@ -770,14 +746,6 @@
     1645
    ],
    "rank": 8,
-   "next": {
-    "opp": "Lommel SK",
-    "oppSlug": "lommel-sk",
-    "ha": "a",
-    "kickoff": "2026-11-22T18:15:00.000Z",
-    "win": 0.421,
-    "draw": 0.281
-   },
    "table": {
     "pos": 8,
     "p": 11,
@@ -1312,14 +1280,6 @@
     1574
    ],
    "rank": 14,
-   "next": {
-    "opp": "Anderlecht",
-    "oppSlug": "anderlecht",
-    "ha": "a",
-    "kickoff": "2026-11-22T17:30:00.000Z",
-    "win": 0.118,
-    "draw": 0.197
-   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -1409,14 +1369,6 @@
     1561
    ],
    "rank": 15,
-   "next": {
-    "opp": "Gent",
-    "oppSlug": "gent",
-    "ha": "h",
-    "kickoff": "2026-11-22T12:30:00.000Z",
-    "win": 0.264,
-    "draw": 0.266
-   },
    "table": {
     "pos": 15,
     "p": 11,
@@ -1586,14 +1538,6 @@
     1533
    ],
    "rank": 17,
-   "next": {
-    "opp": "Standard Liège",
-    "oppSlug": "standard",
-    "ha": "h",
-    "kickoff": "2026-11-22T18:15:00.000Z",
-    "win": 0.298,
-    "draw": 0.281
-   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -1683,14 +1627,6 @@
     1513
    ],
    "rank": 18,
-   "next": {
-    "opp": "Union Saint-Gilloise",
-    "oppSlug": "st-gilloise",
-    "ha": "h",
-    "kickoff": "2026-11-22T15:00:00.000Z",
-    "win": 0.099,
-    "draw": 0.184
-   },
    "table": {
     "pos": 18,
     "p": 11,

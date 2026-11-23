@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:01:15.431Z",
+ "updated": "2026-11-23T07:01:17.773Z",
  "league": "austria",
  "name": "Austrian Bundesliga",
  "through": "2026-11-08",
@@ -212,14 +212,6 @@
     1712
    ],
    "rank": 2,
-   "next": {
-    "opp": "Austria Vienna",
-    "oppSlug": "austria-vienna",
-    "ha": "a",
-    "kickoff": "2026-11-22T16:00:00.000Z",
-    "win": 0.6,
-    "draw": 0.234
-   },
    "table": {
     "pos": 2,
     "p": 12,
@@ -398,14 +390,6 @@
     1609
    ],
    "rank": 4,
-   "next": {
-    "opp": "Altach",
-    "oppSlug": "altach",
-    "ha": "a",
-    "kickoff": "2026-11-22T13:30:00.000Z",
-    "win": 0.465,
-    "draw": 0.273
-   },
    "table": {
     "pos": 5,
     "p": 12,
@@ -495,14 +479,6 @@
     1485
    ],
    "rank": 5,
-   "next": {
-    "opp": "Salzburg",
-    "oppSlug": "salzburg",
-    "ha": "h",
-    "kickoff": "2026-11-22T16:00:00.000Z",
-    "win": 0.165,
-    "draw": 0.234
-   },
    "table": {
     "pos": 11,
     "p": 12,
@@ -592,14 +568,6 @@
     1475
    ],
    "rank": 6,
-   "next": {
-    "opp": "Sturm Graz",
-    "oppSlug": "sturm-graz",
-    "ha": "h",
-    "kickoff": "2026-11-22T13:30:00.000Z",
-    "win": 0.262,
-    "draw": 0.273
-   },
    "table": {
     "pos": 9,
     "p": 12,
@@ -689,14 +657,6 @@
     1465
    ],
    "rank": 7,
-   "next": {
-    "opp": "Wolfsberger AC",
-    "oppSlug": "wolfsberger-ac",
-    "ha": "a",
-    "kickoff": "2026-11-22T13:30:00.000Z",
-    "win": 0.396,
-    "draw": 0.282
-   },
    "table": {
     "pos": 6,
     "p": 12,
@@ -1053,14 +1013,6 @@
     1386
    ],
    "rank": 11,
-   "next": {
-    "opp": "Ried",
-    "oppSlug": "ried",
-    "ha": "h",
-    "kickoff": "2026-11-22T13:30:00.000Z",
-    "win": 0.322,
-    "draw": 0.282
-   },
    "table": {
     "pos": 12,
     "p": 12,

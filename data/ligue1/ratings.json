@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:01:13.671Z",
+ "updated": "2026-11-23T07:01:15.841Z",
  "league": "ligue1",
  "name": "Ligue 1",
  "through": "2026-11-08",
@@ -480,14 +480,6 @@
     1823
    ],
    "rank": 4,
-   "next": {
-    "opp": "Angers",
-    "oppSlug": "angers",
-    "ha": "h",
-    "kickoff": "2026-11-22T14:00:00.000Z",
-    "win": 0.685,
-    "draw": 0.209
-   },
    "table": {
     "pos": 3,
     "p": 10,
@@ -603,14 +595,6 @@
     1814
    ],
    "rank": 5,
-   "next": {
-    "opp": "Le Mans",
-    "oppSlug": "le-mans",
-    "ha": "h",
-    "kickoff": "2026-11-22T19:45:00.000Z",
-    "win": 0.677,
-    "draw": 0.206
-   },
    "table": {
     "pos": 4,
     "p": 10,
@@ -841,14 +825,6 @@
     1800
    ],
    "rank": 7,
-   "next": {
-    "opp": "Lorient",
-    "oppSlug": "lorient",
-    "ha": "a",
-    "kickoff": "2026-11-22T16:15:00.000Z",
-    "win": 0.392,
-    "draw": 0.285
-   },
    "table": {
     "pos": 8,
     "p": 10,
@@ -1539,14 +1515,6 @@
     1689
    ],
    "rank": 13,
-   "next": {
-    "opp": "Rennes",
-    "oppSlug": "rennes",
-    "ha": "h",
-    "kickoff": "2026-11-22T16:15:00.000Z",
-    "win": 0.323,
-    "draw": 0.285
-   },
    "table": {
     "pos": 10,
     "p": 10,
@@ -2122,14 +2090,6 @@
     1606
    ],
    "rank": 17,
-   "next": {
-    "opp": "Olympique de Marseille",
-    "oppSlug": "marseille",
-    "ha": "a",
-    "kickoff": "2026-11-22T19:45:00.000Z",
-    "win": 0.118,
-    "draw": 0.206
-   },
    "table": {
     "pos": 15,
     "p": 10,
@@ -2360,14 +2320,6 @@
     1594
    ],
    "rank": 18,
-   "next": {
-    "opp": "Paris FC",
-    "oppSlug": "paris-fc",
-    "ha": "a",
-    "kickoff": "2026-11-22T14:00:00.000Z",
-    "win": 0.106,
-    "draw": 0.209
-   },
    "table": {
     "pos": 16,
     "p": 10,
