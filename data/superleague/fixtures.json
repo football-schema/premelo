@@ -1,56 +1,6 @@
 {
- "updated": "2026-11-23T07:01:17.769Z",
+ "updated": "2026-11-24T07:01:19.476Z",
  "league": "superleague",
  "season": "2026-27",
- "fixtures": [
-  {
-   "kickoff": "2026-11-23T15:00:00.000Z",
-   "home": "Asteras Tripolis",
-   "away": "Aris",
-   "homeSlug": "asteras-tripolis",
-   "awaySlug": "aris",
-   "homeName": "Asteras Tripolis",
-   "awayName": "Aris Thessaloniki",
-   "elo": [
-    1417,
-    1539
-   ],
-   "dr": -63,
-   "H": 0.277,
-   "D": 0.294,
-   "A": 0.429,
-   "xg": [
-    1,
-    1.4
-   ],
-   "O25": 0.422,
-   "btts": 0.488,
-   "scores": [
-    [
-     "1-1",
-     0.142
-    ],
-    [
-     "0-1",
-     0.118
-    ],
-    [
-     "0-0",
-     0.099
-    ],
-    [
-     "1-0",
-     0.09
-    ],
-    [
-     "1-2",
-     0.085
-    ],
-    [
-     "0-2",
-     0.081
-    ]
-   ]
-  }
- ]
+ "fixtures": []
 }

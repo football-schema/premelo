@@ -1,56 +1,6 @@
 {
- "updated": "2026-11-23T07:01:18.490Z",
+ "updated": "2026-11-24T07:01:20.125Z",
  "league": "romania",
  "season": "2026-27",
- "fixtures": [
-  {
-   "kickoff": "2026-11-23T18:00:00.000Z",
-   "home": "Sepsi Sf. Gheorghe",
-   "away": "FC Rapid Bucuresti",
-   "homeSlug": "sepsi-sf-gheorghe",
-   "awaySlug": "fc-rapid-bucuresti",
-   "homeName": "Sepsi Sf. Gheorghe",
-   "awayName": "FC Rapid Bucuresti",
-   "elo": [
-    1355,
-    1574
-   ],
-   "dr": -161,
-   "H": 0.196,
-   "D": 0.28,
-   "A": 0.524,
-   "xg": [
-    0.9,
-    1.6
-   ],
-   "O25": 0.442,
-   "btts": 0.48,
-   "scores": [
-    [
-     "1-1",
-     0.138
-    ],
-    [
-     "0-1",
-     0.125
-    ],
-    [
-     "0-2",
-     0.102
-    ],
-    [
-     "0-0",
-     0.095
-    ],
-    [
-     "1-2",
-     0.091
-    ],
-    [
-     "1-0",
-     0.068
-    ]
-   ]
-  }
- ]
+ "fixtures": []
 }

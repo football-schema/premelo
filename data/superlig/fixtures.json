@@ -1,56 +1,6 @@
 {
- "updated": "2026-11-23T07:01:17.747Z",
+ "updated": "2026-11-24T07:01:19.453Z",
  "league": "superlig",
  "season": "2026-27",
- "fixtures": [
-  {
-   "kickoff": "2026-11-23T17:00:00.000Z",
-   "home": "Buyuksehyr",
-   "away": "Corum",
-   "homeSlug": "buyuksehyr",
-   "awaySlug": "corum",
-   "homeName": "İstanbul Başakşehir",
-   "awayName": "Corum",
-   "elo": [
-    1596,
-    1614
-   ],
-   "dr": 68,
-   "H": 0.449,
-   "D": 0.269,
-   "A": 0.282,
-   "xg": [
-    1.6,
-    1.3
-   ],
-   "O25": 0.534,
-   "btts": 0.579,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "2-1",
-     0.09
-    ],
-    [
-     "1-0",
-     0.088
-    ],
-    [
-     "2-0",
-     0.072
-    ],
-    [
-     "1-2",
-     0.069
-    ],
-    [
-     "0-1",
-     0.067
-    ]
-   ]
-  }
- ]
+ "fixtures": []
 }

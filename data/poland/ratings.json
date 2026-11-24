@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:01:18.485Z",
+ "updated": "2026-11-24T07:01:20.119Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-11-08",
@@ -1164,14 +1164,6 @@
     1543
    ],
    "rank": 10,
-   "next": {
-    "opp": "Wieczysta Krakow",
-    "oppSlug": "wieczysta-krakow",
-    "ha": "a",
-    "kickoff": "2026-11-23T18:00:00.000Z",
-    "win": 0.288,
-    "draw": 0.264
-   },
    "table": {
     "pos": 10,
     "p": 14,
@@ -1396,14 +1388,6 @@
     1538
    ],
    "rank": 12,
-   "next": {
-    "opp": "Motor Lublin",
-    "oppSlug": "motor-lublin",
-    "ha": "h",
-    "kickoff": "2026-11-23T18:00:00.000Z",
-    "win": 0.448,
-    "draw": 0.264
-   },
    "table": {
     "pos": 18,
     "p": 14,

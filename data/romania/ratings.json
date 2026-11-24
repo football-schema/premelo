@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:01:18.490Z",
+ "updated": "2026-11-24T07:01:20.125Z",
  "league": "romania",
  "name": "Liga I",
  "through": "2026-11-09",
@@ -390,14 +390,6 @@
     1574
    ],
    "rank": 4,
-   "next": {
-    "opp": "Sepsi Sf. Gheorghe",
-    "oppSlug": "sepsi-sf-gheorghe",
-    "ha": "a",
-    "kickoff": "2026-11-23T18:00:00.000Z",
-    "win": 0.524,
-    "draw": 0.28
-   },
    "table": {
     "pos": 3,
     "p": 15,
@@ -1288,14 +1280,6 @@
     1355
    ],
    "rank": 14,
-   "next": {
-    "opp": "FC Rapid Bucuresti",
-    "oppSlug": "fc-rapid-bucuresti",
-    "ha": "h",
-    "kickoff": "2026-11-23T18:00:00.000Z",
-    "win": 0.196,
-    "draw": 0.28
-   },
    "table": {
     "pos": 11,
     "p": 15,

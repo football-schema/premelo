@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:01:18.546Z",
+ "updated": "2026-11-24T07:01:20.185Z",
  "up": [
   {
    "league": "ireland",
@@ -26,36 +26,20 @@
    "change": 44
   },
   {
-   "league": "superleague",
-   "leagueName": "Super League",
-   "slug": "atromitos",
-   "name": "Atromitos",
-   "elo": 1454,
-   "change": 41
-  },
-  {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "anderlecht",
-   "name": "Anderlecht",
-   "elo": 1780,
-   "change": 40
-  },
-  {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "twente",
-   "name": "Twente",
-   "elo": 1835,
-   "change": 37
-  },
-  {
    "league": "sweden",
    "leagueName": "Allsvenskan",
    "slug": "brommapojkarna",
    "name": "Brommapojkarna",
    "elo": 1399,
    "change": 35
+  },
+  {
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "rb-leipzig",
+   "name": "RB Leipzig",
+   "elo": 1916,
+   "change": 34
   },
   {
    "league": "poland",
@@ -66,20 +50,36 @@
    "change": 34
   },
   {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "st-truiden",
-   "name": "Sint-Truiden",
-   "elo": 1687,
-   "change": 32
+   "league": "primeira",
+   "leagueName": "Primeira Liga",
+   "slug": "porto",
+   "name": "Porto",
+   "elo": 1960,
+   "change": 31
   },
   {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "bayern-munich",
-   "name": "Bayern Munich",
-   "elo": 2197,
+   "league": "ireland",
+   "leagueName": "League of Ireland",
+   "slug": "drogheda",
+   "name": "Drogheda",
+   "elo": 1271,
    "change": 31
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "hacken",
+   "name": "Hacken",
+   "elo": 1640,
+   "change": 29
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "samsunspor",
+   "name": "Samsunspor",
+   "elo": 1537,
+   "change": 27
   }
  ],
  "down": [
@@ -90,6 +90,14 @@
    "name": "KuPS",
    "elo": 1389,
    "change": -43
+  },
+  {
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "union-berlin",
+   "name": "Union Berlin",
+   "elo": 1609,
+   "change": -35
   },
   {
    "league": "poland",
@@ -116,28 +124,20 @@
    "change": -29
   },
   {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "sassuolo",
-   "name": "Sassuolo",
-   "elo": 1679,
-   "change": -28
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "corum",
+   "name": "Corum",
+   "elo": 1588,
+   "change": -26
   },
   {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "waregem",
-   "name": "Waregem",
-   "elo": 1584,
-   "change": -27
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "milan",
-   "name": "AC Milan",
-   "elo": 1909,
-   "change": -25
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "galatasaray",
+   "name": "Galatasaray",
+   "elo": 1822,
+   "change": -26
   },
   {
    "league": "romania",
@@ -156,11 +156,11 @@
    "change": -24
   },
   {
-   "league": "superleague",
-   "leagueName": "Super League",
-   "slug": "volos-nfc",
-   "name": "Volos NFC",
-   "elo": 1317,
+   "league": "seriea",
+   "leagueName": "Serie A",
+   "slug": "parma",
+   "name": "Parma",
+   "elo": 1548,
    "change": -24
   }
  ]
