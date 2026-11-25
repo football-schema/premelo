@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:01:19.476Z",
+ "updated": "2026-11-25T07:01:19.961Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-11-23",
@@ -139,8 +139,8 @@
    "name": "Olympiacos",
    "slug": "olympiakos",
    "div": "top",
-   "elo": 1783,
-   "change30": 2,
+   "elo": 1782,
+   "change30": 1,
    "played": 17,
    "form": [
     {
@@ -228,9 +228,9 @@
    "name": "AEK Athens",
    "slug": "aek",
    "div": "top",
-   "elo": 1766,
-   "change30": -10,
-   "played": 16,
+   "elo": 1763,
+   "change30": -13,
+   "played": 17,
    "form": [
     {
      "r": "W",
@@ -279,7 +279,6 @@
     }
    ],
    "spark": [
-    1770,
     1784,
     1753,
     1748,
@@ -298,7 +297,8 @@
     1764,
     1760,
     1758,
-    1766
+    1766,
+    1763
    ],
    "rank": 3,
    "table": {
@@ -584,8 +584,8 @@
    "name": "OFI",
    "slug": "ofi-crete",
    "div": "top",
-   "elo": 1443,
-   "change30": 9,
+   "elo": 1442,
+   "change30": 8,
    "played": 17,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "Asteras Tripolis",
    "slug": "asteras-tripolis",
    "div": "top",
-   "elo": 1411,
-   "change30": 1,
+   "elo": 1410,
+   "change30": 0,
    "played": 11,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Levadiakos",
    "slug": "levadiakos",
    "div": "top",
-   "elo": 1398,
-   "change30": 40,
+   "elo": 1397,
+   "change30": 39,
    "played": 11,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "Iraklis",
    "slug": "iraklis",
    "div": "top",
-   "elo": 1363,
-   "change30": -2,
+   "elo": 1362,
+   "change30": -3,
    "played": 11,
    "form": [
     {
@@ -1118,8 +1118,8 @@
    "name": "Volos NFC",
    "slug": "volos-nfc",
    "div": "top",
-   "elo": 1320,
-   "change30": -23,
+   "elo": 1319,
+   "change30": -24,
    "played": 11,
    "form": [
     {

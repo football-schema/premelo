@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "league": "Allsvenskan",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 3608,
+  "matches": 3616,
   "model": {
    "logloss": 0.9952,
    "rps": 0.2043,
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026",
-   "matches": 224,
-   "withOdds": 224,
+   "matches": 232,
+   "withOdds": 232,
    "model": {
-    "logloss": 1.0048,
+    "logloss": 1.0046,
     "rps": 0.2086,
-    "brier": 0.5982
+    "brier": 0.5981
    },
    "market": {
-    "logloss": 1.003,
-    "rps": 0.2087,
-    "brier": 0.5971
+    "logloss": 1.0025,
+    "rps": 0.2085,
+    "brier": 0.5968
    },
    "baseline": {
-    "logloss": 1.0799,
-    "rps": 0.2359,
-    "brier": 0.6549
+    "logloss": 1.0775,
+    "rps": 0.235,
+    "brier": 0.6531
    }
   }
  ],
@@ -387,27 +387,27 @@
   },
   {
    "bucket": "20-30%",
-   "matches": 555,
+   "matches": 557,
    "predicted": 0.251,
-   "actual": 0.274
+   "actual": 0.275
   },
   {
    "bucket": "30-40%",
-   "matches": 755,
+   "matches": 756,
    "predicted": 0.35,
-   "actual": 0.305
+   "actual": 0.306
   },
   {
    "bucket": "40-50%",
-   "matches": 683,
+   "matches": 686,
    "predicted": 0.45,
    "actual": 0.42
   },
   {
    "bucket": "50-60%",
-   "matches": 624,
+   "matches": 625,
    "predicted": 0.547,
-   "actual": 0.554
+   "actual": 0.555
   },
   {
    "bucket": "60-70%",
@@ -417,9 +417,9 @@
   },
   {
    "bucket": "70-80%",
-   "matches": 224,
+   "matches": 225,
    "predicted": 0.741,
-   "actual": 0.759
+   "actual": 0.76
   },
   {
    "bucket": "80-90%",

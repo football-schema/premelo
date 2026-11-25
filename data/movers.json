@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:01:20.185Z",
+ "updated": "2026-11-25T07:01:20.617Z",
  "up": [
   {
    "league": "ireland",
@@ -18,6 +18,14 @@
    "change": 49
   },
   {
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "rb-leipzig",
+   "name": "RB Leipzig",
+   "elo": 1926,
+   "change": 44
+  },
+  {
    "league": "finland",
    "leagueName": "Veikkausliiga",
    "slug": "hjk",
@@ -28,34 +36,18 @@
   {
    "league": "sweden",
    "leagueName": "Allsvenskan",
-   "slug": "brommapojkarna",
-   "name": "Brommapojkarna",
-   "elo": 1399,
-   "change": 35
-  },
-  {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "rb-leipzig",
-   "name": "RB Leipzig",
-   "elo": 1916,
-   "change": 34
-  },
-  {
-   "league": "poland",
-   "leagueName": "Ekstraklasa",
-   "slug": "rakow",
-   "name": "Rakow",
-   "elo": 1579,
-   "change": 34
+   "slug": "hammarby",
+   "name": "Hammarby",
+   "elo": 1788,
+   "change": 40
   },
   {
    "league": "primeira",
    "leagueName": "Primeira Liga",
    "slug": "porto",
    "name": "Porto",
-   "elo": 1960,
-   "change": 31
+   "elo": 1968,
+   "change": 39
   },
   {
    "league": "ireland",
@@ -66,20 +58,28 @@
    "change": 31
   },
   {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "hacken",
-   "name": "Hacken",
-   "elo": 1640,
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "samsunspor",
+   "name": "Samsunspor",
+   "elo": 1539,
    "change": 29
   },
   {
    "league": "superlig",
    "leagueName": "Süper Lig",
-   "slug": "samsunspor",
-   "name": "Samsunspor",
-   "elo": 1537,
-   "change": 27
+   "slug": "buyuksehyr",
+   "name": "İstanbul Başakşehir",
+   "elo": 1624,
+   "change": 28
+  },
+  {
+   "league": "switzerland",
+   "leagueName": "Swiss Super League",
+   "slug": "lausanne",
+   "name": "Lausanne",
+   "elo": 1491,
+   "change": 28
   }
  ],
  "down": [
@@ -92,20 +92,28 @@
    "change": -43
   },
   {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "goteborg",
+   "name": "Goteborg",
+   "elo": 1451,
+   "change": -40
+  },
+  {
+   "league": "eredivisie",
+   "leagueName": "Eredivisie",
+   "slug": "feyenoord",
+   "name": "Feyenoord",
+   "elo": 1794,
+   "change": -32
+  },
+  {
    "league": "bundesliga",
    "leagueName": "Bundesliga",
    "slug": "union-berlin",
    "name": "Union Berlin",
-   "elo": 1609,
-   "change": -35
-  },
-  {
-   "league": "poland",
-   "leagueName": "Ekstraklasa",
-   "slug": "pogon-szczecin",
-   "name": "Pogon Szczecin",
-   "elo": 1526,
-   "change": -34
+   "elo": 1612,
+   "change": -32
   },
   {
    "league": "finland",
@@ -116,52 +124,44 @@
    "change": -31
   },
   {
-   "league": "denmark",
-   "leagueName": "Danish Superliga",
-   "slug": "midtjylland",
-   "name": "Midtjylland",
-   "elo": 1683,
-   "change": -29
+   "league": "switzerland",
+   "leagueName": "Swiss Super League",
+   "slug": "vaduz",
+   "name": "Vaduz",
+   "elo": 1450,
+   "change": -28
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "brommapojkarna",
+   "name": "Brommapojkarna",
+   "elo": 1373,
+   "change": -26
   },
   {
    "league": "superlig",
    "leagueName": "Süper Lig",
    "slug": "corum",
    "name": "Corum",
-   "elo": 1588,
-   "change": -26
-  },
-  {
-   "league": "superlig",
-   "leagueName": "Süper Lig",
-   "slug": "galatasaray",
-   "name": "Galatasaray",
-   "elo": 1822,
-   "change": -26
-  },
-  {
-   "league": "romania",
-   "leagueName": "Liga I",
-   "slug": "fcsb",
-   "name": "FCSB",
-   "elo": 1582,
+   "elo": 1590,
    "change": -24
+  },
+  {
+   "league": "poland",
+   "leagueName": "Ekstraklasa",
+   "slug": "wieczysta-krakow",
+   "name": "Wieczysta Krakow",
+   "elo": 1515,
+   "change": -23
   },
   {
    "league": "sweden",
    "leagueName": "Allsvenskan",
-   "slug": "kalmar",
-   "name": "Kalmar",
-   "elo": 1460,
-   "change": -24
-  },
-  {
-   "league": "seriea",
-   "leagueName": "Serie A",
-   "slug": "parma",
-   "name": "Parma",
-   "elo": 1548,
-   "change": -24
+   "slug": "gais",
+   "name": "GAIS",
+   "elo": 1458,
+   "change": -23
   }
  ]
 }

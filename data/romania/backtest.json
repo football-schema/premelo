@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "league": "Liga I",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 4302,
+  "matches": 4310,
   "model": {
-   "logloss": 1.0058,
-   "rps": 0.2017,
-   "brier": 0.6016
-  },
-  "elo": {
-   "logloss": 1.0058,
+   "logloss": 1.0059,
    "rps": 0.2018,
    "brier": 0.6016
   },
+  "elo": {
+   "logloss": 1.006,
+   "rps": 0.2018,
+   "brier": 0.6017
+  },
   "market": {
-   "logloss": 0.9971,
+   "logloss": 0.9973,
    "rps": 0.1993,
-   "brier": 0.596
+   "brier": 0.5961
   }
  },
  "params": {
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 120,
-   "withOdds": 120,
+   "matches": 128,
+   "withOdds": 128,
    "model": {
-    "logloss": 0.9517,
-    "rps": 0.1879,
-    "brier": 0.5621
+    "logloss": 0.9593,
+    "rps": 0.1902,
+    "brier": 0.5667
    },
    "market": {
-    "logloss": 0.9515,
-    "rps": 0.1876,
-    "brier": 0.562
+    "logloss": 0.9604,
+    "rps": 0.1905,
+    "brier": 0.5679
    },
    "baseline": {
-    "logloss": 1.0447,
-    "rps": 0.2184,
-    "brier": 0.6288
+    "logloss": 1.0538,
+    "rps": 0.2218,
+    "brier": 0.6353
    }
   }
  ],
@@ -381,39 +381,39 @@
   },
   {
    "bucket": "10-20%",
-   "matches": 316,
+   "matches": 318,
    "predicted": 0.16,
-   "actual": 0.165
+   "actual": 0.164
   },
   {
    "bucket": "20-30%",
-   "matches": 694,
-   "predicted": 0.255,
+   "matches": 696,
+   "predicted": 0.254,
    "actual": 0.259
   },
   {
    "bucket": "30-40%",
-   "matches": 955,
+   "matches": 956,
    "predicted": 0.351,
    "actual": 0.333
   },
   {
    "bucket": "40-50%",
-   "matches": 944,
+   "matches": 945,
    "predicted": 0.449,
    "actual": 0.474
   },
   {
    "bucket": "50-60%",
-   "matches": 662,
+   "matches": 663,
    "predicted": 0.546,
-   "actual": 0.568
+   "actual": 0.567
   },
   {
    "bucket": "60-70%",
-   "matches": 441,
+   "matches": 442,
    "predicted": 0.644,
-   "actual": 0.644
+   "actual": 0.643
   },
   {
    "bucket": "70-80%",

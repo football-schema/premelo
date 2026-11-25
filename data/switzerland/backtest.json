@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "league": "Swiss Super League",
  "from": "2000-01",
  "test": null,
  "all": {
-  "matches": 2752,
+  "matches": 2758,
   "model": {
-   "logloss": 1.0169,
-   "rps": 0.2101,
-   "brier": 0.6094
+   "logloss": 1.0165,
+   "rps": 0.21,
+   "brier": 0.6091
   },
   "elo": {
-   "logloss": 1.0172,
-   "rps": 0.2102,
-   "brier": 0.6096
+   "logloss": 1.0168,
+   "rps": 0.21,
+   "brier": 0.6093
   },
   "market": {
-   "logloss": 1.0126,
-   "rps": 0.2087,
-   "brier": 0.6064
+   "logloss": 1.0123,
+   "rps": 0.2085,
+   "brier": 0.6062
   }
  },
  "params": {
@@ -353,22 +353,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 78,
-   "withOdds": 78,
+   "matches": 84,
+   "withOdds": 84,
    "model": {
-    "logloss": 0.9745,
-    "rps": 0.2065,
-    "brier": 0.5777
+    "logloss": 0.9642,
+    "rps": 0.2011,
+    "brier": 0.5705
    },
    "market": {
-    "logloss": 0.987,
-    "rps": 0.2112,
-    "brier": 0.587
+    "logloss": 0.9792,
+    "rps": 0.2062,
+    "brier": 0.5812
    },
    "baseline": {
-    "logloss": 1.0684,
-    "rps": 0.2409,
-    "brier": 0.6474
+    "logloss": 1.0682,
+    "rps": 0.2384,
+    "brier": 0.647
    }
   }
  ],
@@ -387,15 +387,15 @@
   },
   {
    "bucket": "20-30%",
-   "matches": 414,
+   "matches": 415,
    "predicted": 0.254,
    "actual": 0.251
   },
   {
    "bucket": "30-40%",
-   "matches": 648,
+   "matches": 650,
    "predicted": 0.352,
-   "actual": 0.386
+   "actual": 0.385
   },
   {
    "bucket": "40-50%",
@@ -405,9 +405,9 @@
   },
   {
    "bucket": "50-60%",
-   "matches": 467,
+   "matches": 468,
    "predicted": 0.545,
-   "actual": 0.576
+   "actual": 0.577
   },
   {
    "bucket": "60-70%",
@@ -417,9 +417,9 @@
   },
   {
    "bucket": "70-80%",
-   "matches": 104,
+   "matches": 106,
    "predicted": 0.741,
-   "actual": 0.779
+   "actual": 0.783
   },
   {
    "bucket": "80-90%",
