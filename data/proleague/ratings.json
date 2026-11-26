@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:01:19.366Z",
+ "updated": "2026-11-26T07:01:15.660Z",
  "league": "proleague",
  "name": "Pro League",
  "through": "2026-11-22",
@@ -50,9 +50,9 @@
    "name": "Club Brugge",
    "slug": "club-brugge",
    "div": "top",
-   "elo": 1932,
-   "change30": 20,
-   "played": 16,
+   "elo": 1913,
+   "change30": 1,
+   "played": 17,
    "form": [
     {
      "r": "W",
@@ -101,7 +101,6 @@
     }
    ],
    "spark": [
-    1884,
     1878,
     1901,
     1875,
@@ -120,7 +119,8 @@
     1922,
     1932,
     1909,
-    1932
+    1932,
+    1913
    ],
    "rank": 1,
    "table": {
@@ -139,8 +139,8 @@
    "name": "Union Saint-Gilloise",
    "slug": "st-gilloise",
    "div": "top",
-   "elo": 1883,
-   "change30": 37,
+   "elo": 1879,
+   "change30": 33,
    "played": 18,
    "form": [
     {
@@ -228,8 +228,8 @@
    "name": "Anderlecht",
    "slug": "anderlecht",
    "div": "top",
-   "elo": 1758,
-   "change30": 26,
+   "elo": 1754,
+   "change30": 22,
    "played": 22,
    "form": [
     {
@@ -317,8 +317,8 @@
    "name": "Genk",
    "slug": "genk",
    "div": "top",
-   "elo": 1741,
-   "change30": 13,
+   "elo": 1737,
+   "change30": 9,
    "played": 12,
    "form": [
     {
@@ -406,8 +406,8 @@
    "name": "Charleroi",
    "slug": "charleroi",
    "div": "top",
-   "elo": 1714,
-   "change30": 11,
+   "elo": 1711,
+   "change30": 8,
    "played": 12,
    "form": [
     {
@@ -495,8 +495,8 @@
    "name": "Gent",
    "slug": "gent",
    "div": "top",
-   "elo": 1700,
-   "change30": -23,
+   "elo": 1697,
+   "change30": -26,
    "played": 21,
    "form": [
     {
@@ -584,8 +584,8 @@
    "name": "Sint-Truiden",
    "slug": "st-truiden",
    "div": "top",
-   "elo": 1685,
-   "change30": 15,
+   "elo": 1681,
+   "change30": 11,
    "played": 17,
    "form": [
     {
@@ -673,8 +673,8 @@
    "name": "Standard Liège",
    "slug": "standard",
    "div": "top",
-   "elo": 1657,
-   "change30": 36,
+   "elo": 1653,
+   "change30": 32,
    "played": 12,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "Cercle Brugge",
    "slug": "cercle-brugge",
    "div": "top",
-   "elo": 1634,
-   "change30": 51,
+   "elo": 1630,
+   "change30": 47,
    "played": 12,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Westerlo",
    "slug": "westerlo",
    "div": "top",
-   "elo": 1596,
-   "change30": -18,
+   "elo": 1593,
+   "change30": -21,
    "played": 12,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "OH Leuven",
    "slug": "oud-heverlee-leuven",
    "div": "top",
-   "elo": 1596,
-   "change30": 42,
+   "elo": 1592,
+   "change30": 38,
    "played": 12,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "Antwerp",
    "slug": "antwerp",
    "div": "top",
-   "elo": 1589,
-   "change30": 31,
+   "elo": 1586,
+   "change30": 28,
    "played": 12,
    "form": [
     {
@@ -1118,8 +1118,8 @@
    "name": "Waregem",
    "slug": "waregem",
    "div": "top",
-   "elo": 1589,
-   "change30": -37,
+   "elo": 1585,
+   "change30": -41,
    "played": 12,
    "form": [
     {
@@ -1207,8 +1207,8 @@
    "name": "Beveren",
    "slug": "beveren",
    "div": "top",
-   "elo": 1565,
-   "change30": -2,
+   "elo": 1561,
+   "change30": -6,
    "played": 12,
    "form": [
     {
@@ -1296,8 +1296,8 @@
    "name": "Mechelen",
    "slug": "mechelen",
    "div": "top",
-   "elo": 1559,
-   "change30": 13,
+   "elo": 1555,
+   "change30": 9,
    "played": 12,
    "form": [
     {
@@ -1385,8 +1385,8 @@
    "name": "RAAL La Louviere",
    "slug": "raal-la-louviere",
    "div": "top",
-   "elo": 1536,
-   "change30": 26,
+   "elo": 1532,
+   "change30": 22,
    "played": 12,
    "form": [
     {
@@ -1474,8 +1474,8 @@
    "name": "Lommel SK",
    "slug": "lommel-sk",
    "div": "top",
-   "elo": 1522,
-   "change30": 10,
+   "elo": 1518,
+   "change30": 6,
    "played": 12,
    "form": [
     {
@@ -1555,8 +1555,8 @@
    "name": "Kortrijk",
    "slug": "kortrijk",
    "div": "top",
-   "elo": 1504,
-   "change30": -1,
+   "elo": 1500,
+   "change30": -5,
    "played": 12,
    "form": [
     {

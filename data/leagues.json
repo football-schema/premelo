@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:01:20.668Z",
+ "updated": "2026-11-26T07:01:16.944Z",
  "leagues": [
   {
    "id": "pl",
@@ -12,15 +12,15 @@
    "top": [
     [
      "Arsenal",
-     2153
+     2157
     ],
     [
      "Manchester City",
-     2118
+     2122
     ],
     [
      "Liverpool",
-     2060
+     2079
     ]
    ]
   },
@@ -35,15 +35,15 @@
    "top": [
     [
      "Barcelona",
-     2166
+     2169
     ],
     [
      "Real Madrid",
-     2133
+     2135
     ],
     [
      "Atlético Madrid",
-     1987
+     1992
     ]
    ]
   },
@@ -58,15 +58,15 @@
    "top": [
     [
      "Bayern Munich",
-     2180
+     2162
     ],
     [
      "Bayer Leverkusen",
-     1966
+     1962
     ],
     [
      "Borussia Dortmund",
-     1935
+     1931
     ]
    ]
   },
@@ -81,15 +81,15 @@
    "top": [
     [
      "Inter",
-     2037
+     2044
     ],
     [
      "Como",
-     1971
+     1973
     ],
     [
      "AS Roma",
-     1963
+     1970
     ]
    ]
   },
@@ -104,15 +104,15 @@
    "top": [
     [
      "Paris Saint-Germain",
-     2103
+     2100
     ],
     [
      "Monaco",
-     1880
+     1882
     ],
     [
      "Paris FC",
-     1829
+     1831
     ]
    ]
   },
@@ -130,11 +130,11 @@
     ],
     [
      "Porto",
-     1968
+     1967
     ],
     [
      "Sporting CP",
-     1919
+     1918
     ]
    ]
   },
@@ -170,15 +170,15 @@
    "top": [
     [
      "Club Brugge",
-     1932
+     1913
     ],
     [
      "Union Saint-Gilloise",
-     1883
+     1879
     ],
     [
      "Anderlecht",
-     1758
+     1754
     ]
    ]
   },
@@ -192,15 +192,15 @@
    "top": [
     [
      "Beşiktaş",
-     1843
+     1846
     ],
     [
      "Galatasaray",
-     1833
+     1835
     ],
     [
      "Fenerbahçe",
-     1801
+     1812
     ]
    ]
   },
@@ -325,15 +325,15 @@
    "top": [
     [
      "Bodo/Glimt",
-     1878
+     1877
     ],
     [
      "Viking",
-     1718
+     1714
     ],
     [
      "Rosenborg",
-     1708
+     1707
     ]
    ]
   },
