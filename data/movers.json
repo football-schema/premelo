@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:01:16.892Z",
+ "updated": "2026-11-27T07:01:14.261Z",
  "up": [
   {
    "league": "ireland",
@@ -14,72 +14,72 @@
    "leagueName": "Veikkausliiga",
    "slug": "inter-turku",
    "name": "Inter Turku",
-   "elo": 1543,
-   "change": 49
-  },
-  {
-   "league": "finland",
-   "leagueName": "Veikkausliiga",
-   "slug": "hjk",
-   "name": "HJK",
-   "elo": 1553,
-   "change": 44
-  },
-  {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "hammarby",
-   "name": "Hammarby",
-   "elo": 1788,
-   "change": 40
+   "elo": 1542,
+   "change": 48
   },
   {
    "league": "bundesliga",
    "leagueName": "Bundesliga",
    "slug": "rb-leipzig",
    "name": "RB Leipzig",
-   "elo": 1921,
-   "change": 39
+   "elo": 1927,
+   "change": 43
   },
   {
-   "league": "primeira",
-   "leagueName": "Primeira Liga",
-   "slug": "porto",
-   "name": "Porto",
-   "elo": 1967,
-   "change": 38
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "hjk",
+   "name": "HJK",
+   "elo": 1552,
+   "change": 43
+  },
+  {
+   "league": "sweden",
+   "leagueName": "Allsvenskan",
+   "slug": "hammarby",
+   "name": "Hammarby",
+   "elo": 1787,
+   "change": 39
   },
   {
    "league": "seriea",
    "leagueName": "Serie A",
    "slug": "roma",
    "name": "AS Roma",
-   "elo": 1970,
-   "change": 33
+   "elo": 1978,
+   "change": 38
   },
   {
-   "league": "superlig",
-   "leagueName": "Süper Lig",
-   "slug": "buyuksehyr",
-   "name": "İstanbul Başakşehir",
-   "elo": 1627,
-   "change": 31
+   "league": "denmark",
+   "leagueName": "Danish Superliga",
+   "slug": "midtjylland",
+   "name": "Midtjylland",
+   "elo": 1718,
+   "change": 35
   },
   {
    "league": "superlig",
    "leagueName": "Süper Lig",
    "slug": "samsunspor",
    "name": "Samsunspor",
-   "elo": 1541,
-   "change": 31
+   "elo": 1543,
+   "change": 33
   },
   {
-   "league": "ireland",
-   "leagueName": "League of Ireland",
-   "slug": "drogheda",
-   "name": "Drogheda",
-   "elo": 1271,
-   "change": 31
+   "league": "primeira",
+   "leagueName": "Primeira Liga",
+   "slug": "porto",
+   "name": "Porto",
+   "elo": 1961,
+   "change": 32
+  },
+  {
+   "league": "superlig",
+   "leagueName": "Süper Lig",
+   "slug": "buyuksehyr",
+   "name": "İstanbul Başakşehir",
+   "elo": 1628,
+   "change": 32
   }
  ],
  "down": [
@@ -88,80 +88,80 @@
    "leagueName": "Veikkausliiga",
    "slug": "kups",
    "name": "KuPS",
-   "elo": 1389,
-   "change": -43
+   "elo": 1387,
+   "change": -45
   },
   {
    "league": "sweden",
    "leagueName": "Allsvenskan",
    "slug": "goteborg",
    "name": "Goteborg",
-   "elo": 1451,
-   "change": -40
+   "elo": 1449,
+   "change": -42
   },
   {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "union-berlin",
-   "name": "Union Berlin",
-   "elo": 1608,
-   "change": -36
-  },
-  {
-   "league": "bundesliga",
-   "leagueName": "Bundesliga",
-   "slug": "bayern-munich",
-   "name": "Bayern Munich",
-   "elo": 2162,
-   "change": -35
-  },
-  {
-   "league": "eredivisie",
-   "leagueName": "Eredivisie",
-   "slug": "feyenoord",
-   "name": "Feyenoord",
-   "elo": 1794,
-   "change": -32
-  },
-  {
-   "league": "finland",
-   "leagueName": "Veikkausliiga",
-   "slug": "vps",
-   "name": "VPS",
-   "elo": 1254,
-   "change": -31
+   "league": "denmark",
+   "leagueName": "Danish Superliga",
+   "slug": "fc-copenhagen",
+   "name": "FC Copenhagen",
+   "elo": 1744,
+   "change": -38
   },
   {
    "league": "switzerland",
    "leagueName": "Swiss Super League",
    "slug": "vaduz",
    "name": "Vaduz",
-   "elo": 1450,
+   "elo": 1445,
+   "change": -33
+  },
+  {
+   "league": "finland",
+   "leagueName": "Veikkausliiga",
+   "slug": "vps",
+   "name": "VPS",
+   "elo": 1253,
+   "change": -32
+  },
+  {
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "union-berlin",
+   "name": "Union Berlin",
+   "elo": 1614,
+   "change": -32
+  },
+  {
+   "league": "norway",
+   "leagueName": "Eliteserien",
+   "slug": "brann",
+   "name": "Brann",
+   "elo": 1553,
+   "change": -31
+  },
+  {
+   "league": "bundesliga",
+   "leagueName": "Bundesliga",
+   "slug": "bayern-munich",
+   "name": "Bayern Munich",
+   "elo": 2168,
+   "change": -31
+  },
+  {
+   "league": "superleague",
+   "leagueName": "Super League",
+   "slug": "olympiakos",
+   "name": "Olympiacos",
+   "elo": 1764,
+   "change": -30
+  },
+  {
+   "league": "primeira",
+   "leagueName": "Primeira Liga",
+   "slug": "benfica",
+   "name": "Benfica",
+   "elo": 1988,
    "change": -28
-  },
-  {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "mechelen",
-   "name": "Mechelen",
-   "elo": 1555,
-   "change": -27
-  },
-  {
-   "league": "sweden",
-   "leagueName": "Allsvenskan",
-   "slug": "brommapojkarna",
-   "name": "Brommapojkarna",
-   "elo": 1373,
-   "change": -26
-  },
-  {
-   "league": "proleague",
-   "leagueName": "Pro League",
-   "slug": "anderlecht",
-   "name": "Anderlecht",
-   "elo": 1754,
-   "change": -26
   }
  ]
 }

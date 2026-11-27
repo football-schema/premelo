@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:01:16.944Z",
+ "updated": "2026-11-27T07:01:14.314Z",
  "leagues": [
   {
    "id": "pl",
@@ -8,19 +8,19 @@
    "country": "England",
    "second": "Championship",
    "extra": false,
-   "through": "2026-11-23",
+   "through": "2026-11-25",
    "top": [
     [
      "Arsenal",
-     2157
+     2160
     ],
     [
      "Manchester City",
-     2122
+     2124
     ],
     [
      "Liverpool",
-     2079
+     2081
     ]
    ]
   },
@@ -35,15 +35,15 @@
    "top": [
     [
      "Barcelona",
-     2169
+     2160
     ],
     [
      "Real Madrid",
-     2135
+     2125
     ],
     [
      "Atlético Madrid",
-     1992
+     1983
     ]
    ]
   },
@@ -58,15 +58,15 @@
    "top": [
     [
      "Bayern Munich",
-     2162
+     2168
     ],
     [
      "Bayer Leverkusen",
-     1962
+     1976
     ],
     [
      "Borussia Dortmund",
-     1931
+     1937
     ]
    ]
   },
@@ -77,19 +77,19 @@
    "country": "Italy",
    "second": "Serie B",
    "extra": false,
-   "through": "2026-11-23",
+   "through": "2026-11-25",
    "top": [
     [
      "Inter",
-     2044
+     2052
     ],
     [
      "Como",
-     1973
+     1981
     ],
     [
      "AS Roma",
-     1970
+     1978
     ]
    ]
   },
@@ -104,15 +104,15 @@
    "top": [
     [
      "Paris Saint-Germain",
-     2100
+     2096
     ],
     [
      "Monaco",
-     1882
+     1880
     ],
     [
      "Paris FC",
-     1831
+     1827
     ]
    ]
   },
@@ -126,15 +126,15 @@
    "top": [
     [
      "Benfica",
-     2025
+     1988
     ],
     [
      "Porto",
-     1967
+     1961
     ],
     [
      "Sporting CP",
-     1918
+     1911
     ]
    ]
   },
@@ -148,15 +148,15 @@
    "top": [
     [
      "PSV",
-     1848
+     1854
     ],
     [
      "Twente",
-     1830
+     1831
     ],
     [
      "Ajax",
-     1807
+     1818
     ]
    ]
   },
@@ -170,15 +170,15 @@
    "top": [
     [
      "Club Brugge",
-     1913
+     1916
     ],
     [
      "Union Saint-Gilloise",
-     1879
+     1876
     ],
     [
      "Anderlecht",
-     1754
+     1762
     ]
    ]
   },
@@ -192,15 +192,15 @@
    "top": [
     [
      "Beşiktaş",
-     1846
+     1849
     ],
     [
      "Galatasaray",
-     1835
+     1836
     ],
     [
      "Fenerbahçe",
-     1812
+     1813
     ]
    ]
   },
@@ -211,19 +211,19 @@
    "country": "Scotland",
    "second": "Championship",
    "extra": false,
-   "through": "2026-11-21",
+   "through": "2026-11-24",
    "top": [
     [
      "Rangers",
-     1707
+     1712
     ],
     [
      "Celtic",
-     1690
+     1695
     ],
     [
      "Hearts",
-     1511
+     1508
     ]
    ]
   },
@@ -237,15 +237,15 @@
    "top": [
     [
      "Panathinaikos",
-     1801
+     1787
     ],
     [
      "Olympiacos",
-     1782
+     1764
     ],
     [
      "AEK Athens",
-     1763
+     1757
     ]
    ]
   },
@@ -267,7 +267,7 @@
     ],
     [
      "Salzburg",
-     1697
+     1700
     ]
    ]
   },
@@ -281,15 +281,15 @@
    "top": [
     [
      "Young Boys",
-     1707
+     1703
     ],
     [
      "Sion",
-     1672
+     1668
     ],
     [
      "Lugano",
-     1671
+     1653
     ]
    ]
   },
@@ -303,15 +303,15 @@
    "top": [
     [
      "FC Copenhagen",
-     1765
+     1744
     ],
     [
      "Nordsjaelland",
-     1716
+     1728
     ],
     [
      "Midtjylland",
-     1703
+     1718
     ]
    ]
   },
@@ -325,15 +325,15 @@
    "top": [
     [
      "Bodo/Glimt",
-     1877
+     1874
     ],
     [
      "Viking",
-     1714
+     1711
     ],
     [
      "Rosenborg",
-     1707
+     1704
     ]
    ]
   },
@@ -347,15 +347,15 @@
    "top": [
     [
      "Hammarby",
-     1788
+     1787
     ],
     [
      "Hacken",
-     1629
+     1628
     ],
     [
      "Djurgarden",
-     1612
+     1611
     ]
    ]
   },
@@ -369,15 +369,15 @@
    "top": [
     [
      "Gornik Zabrze",
-     1694
+     1697
     ],
     [
      "Lech Poznan",
-     1688
+     1696
     ],
     [
      "Legia",
-     1631
+     1634
     ]
    ]
   },
@@ -391,15 +391,15 @@
    "top": [
     [
      "Univ. Craiova",
-     1731
+     1726
     ],
     [
      "Dinamo Bucuresti",
-     1624
+     1623
     ],
     [
      "FC Rapid Bucuresti",
-     1583
+     1582
     ]
    ]
   },
@@ -435,15 +435,15 @@
    "top": [
     [
      "HJK",
-     1553
+     1552
     ],
     [
      "Inter Turku",
-     1543
+     1542
     ],
     [
      "KuPS",
-     1389
+     1387
     ]
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:01:16.837Z",
+ "updated": "2026-11-27T07:01:14.214Z",
  "league": "finland",
  "name": "Veikkausliiga",
  "through": "2026-11-08",
@@ -50,8 +50,8 @@
    "name": "HJK",
    "slug": "hjk",
    "div": "top",
-   "elo": 1553,
-   "change30": 76,
+   "elo": 1552,
+   "change30": 75,
    "played": 22,
    "form": [
     {
@@ -139,8 +139,8 @@
    "name": "Inter Turku",
    "slug": "inter-turku",
    "div": "top",
-   "elo": 1543,
-   "change30": 59,
+   "elo": 1542,
+   "change30": 58,
    "played": 25,
    "form": [
     {
@@ -228,9 +228,9 @@
    "name": "KuPS",
    "slug": "kups",
    "div": "top",
-   "elo": 1389,
-   "change30": -61,
-   "played": 28,
+   "elo": 1387,
+   "change30": -63,
+   "played": 29,
    "form": [
     {
      "r": "W",
@@ -279,7 +279,6 @@
     }
    ],
    "spark": [
-    1399,
     1395,
     1425,
     1427,
@@ -298,7 +297,8 @@
     1440,
     1432,
     1437,
-    1389
+    1389,
+    1387
    ],
    "rank": 3,
    "table": {
@@ -673,8 +673,8 @@
    "name": "SJK",
    "slug": "sjk",
    "div": "top",
-   "elo": 1266,
-   "change30": -19,
+   "elo": 1265,
+   "change30": -20,
    "played": 14,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "VPS",
    "slug": "vps",
    "div": "top",
-   "elo": 1254,
-   "change30": -36,
+   "elo": 1253,
+   "change30": -37,
    "played": 19,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "AC Oulu",
    "slug": "ac-oulu",
    "div": "top",
-   "elo": 1227,
-   "change30": -72,
+   "elo": 1226,
+   "change30": -73,
    "played": 18,
    "form": [
     {
@@ -1118,8 +1118,8 @@
    "name": "PK-35 Vantaa",
    "slug": "pk-35-vantaa",
    "div": "top",
-   "elo": 1174,
-   "change30": 215,
+   "elo": 1173,
+   "change30": 214,
    "played": 2,
    "form": [
     {

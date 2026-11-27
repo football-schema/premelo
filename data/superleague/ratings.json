@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:01:16.237Z",
+ "updated": "2026-11-27T07:01:13.630Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-11-23",
@@ -50,9 +50,9 @@
    "name": "Panathinaikos",
    "slug": "panathinaikos",
    "div": "top",
-   "elo": 1801,
-   "change30": 42,
-   "played": 20,
+   "elo": 1787,
+   "change30": 28,
+   "played": 21,
    "form": [
     {
      "r": "W",
@@ -101,7 +101,6 @@
     }
    ],
    "spark": [
-    1581,
     1576,
     1570,
     1565,
@@ -120,7 +119,8 @@
     1776,
     1783,
     1796,
-    1801
+    1801,
+    1791
    ],
    "rank": 1,
    "table": {
@@ -139,9 +139,9 @@
    "name": "Olympiacos",
    "slug": "olympiakos",
    "div": "top",
-   "elo": 1782,
-   "change30": 1,
-   "played": 17,
+   "elo": 1764,
+   "change30": -17,
+   "played": 18,
    "form": [
     {
      "r": "W",
@@ -190,7 +190,6 @@
     }
    ],
    "spark": [
-    1813,
     1816,
     1821,
     1820,
@@ -209,7 +208,8 @@
     1773,
     1775,
     1794,
-    1783
+    1783,
+    1764
    ],
    "rank": 2,
    "table": {
@@ -228,8 +228,8 @@
    "name": "AEK Athens",
    "slug": "aek",
    "div": "top",
-   "elo": 1763,
-   "change30": -13,
+   "elo": 1757,
+   "change30": -19,
    "played": 17,
    "form": [
     {
@@ -317,8 +317,8 @@
    "name": "PAOK",
    "slug": "paok",
    "div": "top",
-   "elo": 1671,
-   "change30": 14,
+   "elo": 1664,
+   "change30": 7,
    "played": 17,
    "form": [
     {
@@ -406,8 +406,8 @@
    "name": "Aris Thessaloniki",
    "slug": "aris",
    "div": "top",
-   "elo": 1545,
-   "change30": 24,
+   "elo": 1538,
+   "change30": 17,
    "played": 11,
    "form": [
     {
@@ -495,8 +495,8 @@
    "name": "Atromitos",
    "slug": "atromitos",
    "div": "top",
-   "elo": 1449,
-   "change30": 24,
+   "elo": 1442,
+   "change30": 17,
    "played": 10,
    "form": [
     {
@@ -584,9 +584,9 @@
    "name": "OFI",
    "slug": "ofi-crete",
    "div": "top",
-   "elo": 1442,
-   "change30": 8,
-   "played": 17,
+   "elo": 1430,
+   "change30": -4,
+   "played": 18,
    "form": [
     {
      "r": "L",
@@ -635,7 +635,6 @@
     }
    ],
    "spark": [
-    1346,
     1353,
     1376,
     1397,
@@ -654,7 +653,8 @@
     1443,
     1470,
     1449,
-    1443
+    1443,
+    1433
    ],
    "rank": 7,
    "table": {
@@ -673,8 +673,8 @@
    "name": "Kifisia",
    "slug": "kifisia",
    "div": "top",
-   "elo": 1428,
-   "change30": 8,
+   "elo": 1421,
+   "change30": 1,
    "played": 11,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "Asteras Tripolis",
    "slug": "asteras-tripolis",
    "div": "top",
-   "elo": 1410,
-   "change30": 0,
+   "elo": 1404,
+   "change30": -6,
    "played": 11,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Levadiakos",
    "slug": "levadiakos",
    "div": "top",
-   "elo": 1397,
-   "change30": 39,
+   "elo": 1391,
+   "change30": 33,
    "played": 11,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "Iraklis",
    "slug": "iraklis",
    "div": "top",
-   "elo": 1362,
-   "change30": -3,
+   "elo": 1356,
+   "change30": -9,
    "played": 11,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "Kalamata",
    "slug": "kalamata",
    "div": "top",
-   "elo": 1357,
-   "change30": 10,
+   "elo": 1350,
+   "change30": 3,
    "played": 11,
    "form": [
     {
@@ -1118,8 +1118,8 @@
    "name": "Volos NFC",
    "slug": "volos-nfc",
    "div": "top",
-   "elo": 1319,
-   "change30": -24,
+   "elo": 1313,
+   "change30": -30,
    "played": 11,
    "form": [
     {
@@ -1207,8 +1207,8 @@
    "name": "Panetolikos",
    "slug": "panetolikos",
    "div": "top",
-   "elo": 1314,
-   "change30": -26,
+   "elo": 1307,
+   "change30": -33,
    "played": 11,
    "form": [
     {

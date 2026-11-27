@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "league": "Ekstraklasa",
  "from": "2000-01",
  "test": null,
@@ -357,7 +357,7 @@
    "model": {
     "logloss": 1.0153,
     "rps": 0.2175,
-    "brier": 0.6084
+    "brier": 0.6083
    },
    "market": {
     "logloss": 1.0085,

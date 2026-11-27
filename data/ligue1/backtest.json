@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "league": "Ligue 1",
  "from": "2000-01",
  "test": {
@@ -613,7 +613,7 @@
    "matches": 99,
    "withOdds": 99,
    "model": {
-    "logloss": 0.9713,
+    "logloss": 0.9712,
     "rps": 0.201,
     "brier": 0.5792
    },

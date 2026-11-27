@@ -1,42 +1,42 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "league": "Scottish Premiership",
  "from": "2000-01",
  "test": {
   "from": "2012-13",
-  "matches": 3224,
+  "matches": 3226,
   "model": {
-   "logloss": 0.9618,
-   "rps": 0.1959,
-   "brier": 0.5713
+   "logloss": 0.9615,
+   "rps": 0.1958,
+   "brier": 0.5711
   },
   "elo": {
-   "logloss": 0.961,
-   "rps": 0.1955,
-   "brier": 0.5708
+   "logloss": 0.9607,
+   "rps": 0.1954,
+   "brier": 0.5706
   },
   "market": {
-   "logloss": 0.9548,
-   "rps": 0.1937,
-   "brier": 0.5667
+   "logloss": 0.9544,
+   "rps": 0.1936,
+   "brier": 0.5665
   }
  },
  "all": {
-  "matches": 5959,
+  "matches": 5961,
   "model": {
-   "logloss": 0.9537,
+   "logloss": 0.9535,
    "rps": 0.1941,
-   "brier": 0.5656
+   "brier": 0.5654
   },
   "elo": {
-   "logloss": 0.9544,
+   "logloss": 0.9542,
    "rps": 0.1942,
-   "brier": 0.566
+   "brier": 0.5659
   },
   "market": {
-   "logloss": 0.9518,
-   "rps": 0.1933,
-   "brier": 0.5642
+   "logloss": 0.9516,
+   "rps": 0.1932,
+   "brier": 0.5641
   }
  },
  "params": {
@@ -610,22 +610,22 @@
   },
   {
    "season": "2026-27",
-   "matches": 81,
-   "withOdds": 81,
+   "matches": 83,
+   "withOdds": 83,
    "model": {
-    "logloss": 0.9691,
-    "rps": 0.207,
-    "brier": 0.5764
+    "logloss": 0.9556,
+    "rps": 0.2037,
+    "brier": 0.5669
    },
    "market": {
-    "logloss": 0.9818,
-    "rps": 0.2115,
-    "brier": 0.5848
+    "logloss": 0.9669,
+    "rps": 0.2078,
+    "brier": 0.5742
    },
    "baseline": {
-    "logloss": 1.0685,
-    "rps": 0.2409,
-    "brier": 0.6484
+    "logloss": 1.0627,
+    "rps": 0.2402,
+    "brier": 0.6443
    }
   }
  ],
@@ -662,9 +662,9 @@
   },
   {
    "bucket": "50-60%",
-   "matches": 842,
+   "matches": 843,
    "predicted": 0.543,
-   "actual": 0.565
+   "actual": 0.566
   },
   {
    "bucket": "60-70%",
@@ -674,8 +674,8 @@
   },
   {
    "bucket": "70-80%",
-   "matches": 302,
-   "predicted": 0.753,
+   "matches": 303,
+   "predicted": 0.754,
    "actual": 0.772
   },
   {

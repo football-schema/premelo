@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "league": "Austrian Bundesliga",
  "from": "2000-01",
  "test": null,
@@ -356,7 +356,7 @@
    "matches": 78,
    "withOdds": 78,
    "model": {
-    "logloss": 0.9288,
+    "logloss": 0.9287,
     "rps": 0.1955,
     "brier": 0.5493
    },
@@ -411,15 +411,15 @@
   },
   {
    "bucket": "60-70%",
-   "matches": 253,
-   "predicted": 0.646,
-   "actual": 0.617
+   "matches": 252,
+   "predicted": 0.645,
+   "actual": 0.615
   },
   {
    "bucket": "70-80%",
-   "matches": 142,
+   "matches": 143,
    "predicted": 0.744,
-   "actual": 0.732
+   "actual": 0.734
   },
   {
    "bucket": "80-90%",

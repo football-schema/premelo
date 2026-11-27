@@ -1,2022 +1,6 @@
 {
- "updated": "2026-11-26T07:01:16.865Z",
+ "updated": "2026-11-27T07:01:14.234Z",
  "fixtures": [
-  {
-   "kickoff": "2026-11-26T15:30:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Kairat Almaty (KAZ)",
-   "away": "Mjallby",
-   "homeName": "Kairat Almaty",
-   "awayName": "Mjallby",
-   "homeLeague": null,
-   "awayLeague": "sweden",
-   "homeSlug": null,
-   "awaySlug": "mjallby",
-   "homeCountry": "KAZ",
-   "awayCountry": "SWE",
-   "elo": [
-    1430,
-    1406
-   ],
-   "dr": 114,
-   "H": 0.504,
-   "D": 0.255,
-   "A": 0.24,
-   "xg": [
-    1.7,
-    1.1
-   ],
-   "O25": 0.533,
-   "btts": 0.56,
-   "scores": [
-    [
-     "1-1",
-     0.125
-    ],
-    [
-     "1-0",
-     0.097
-    ],
-    [
-     "2-1",
-     0.095
-    ],
-    [
-     "2-0",
-     0.084
-    ],
-    [
-     "0-0",
-     0.064
-    ],
-    [
-     "0-1",
-     0.063
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Olympiakos",
-   "away": "Milan",
-   "homeName": "Olympiacos",
-   "awayName": "AC Milan",
-   "homeLeague": "superleague",
-   "awayLeague": "seriea",
-   "homeSlug": "olympiakos",
-   "awaySlug": "milan",
-   "homeCountry": "GRE",
-   "awayCountry": "ITA",
-   "elo": [
-    1782,
-    1915
-   ],
-   "dr": -42,
-   "H": 0.315,
-   "D": 0.27,
-   "A": 0.415,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.519,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "0-1",
-     0.089
-    ],
-    [
-     "1-2",
-     0.087
-    ],
-    [
-     "1-0",
-     0.076
-    ],
-    [
-     "2-1",
-     0.074
-    ],
-    [
-     "0-2",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Marseille",
-   "away": "Levski Sofia (BUL)",
-   "homeName": "Olympique de Marseille",
-   "awayName": "Levski Sofia",
-   "homeLeague": "ligue1",
-   "awayLeague": null,
-   "homeSlug": "marseille",
-   "awaySlug": null,
-   "homeCountry": "FRA",
-   "awayCountry": "BUL",
-   "elo": [
-    1812,
-    1582
-   ],
-   "dr": 320,
-   "H": 0.752,
-   "D": 0.161,
-   "A": 0.086,
-   "xg": [
-    2.6,
-    0.8
-   ],
-   "O25": 0.638,
-   "btts": 0.495,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.1
-    ],
-    [
-     "1-0",
-     0.09
-    ],
-    [
-     "2-1",
-     0.088
-    ],
-    [
-     "1-1",
-     0.079
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Viktoria Plzeň (CZE)",
-   "away": "Benfica",
-   "homeName": "Viktoria Plzeň",
-   "awayName": "Benfica",
-   "homeLeague": null,
-   "awayLeague": "primeira",
-   "homeSlug": null,
-   "awaySlug": "benfica",
-   "homeCountry": "CZE",
-   "awayCountry": "POR",
-   "elo": [
-    1709,
-    2025
-   ],
-   "dr": -226,
-   "H": 0.145,
-   "D": 0.211,
-   "A": 0.644,
-   "xg": [
-    0.9,
-    2.2
-   ],
-   "O25": 0.579,
-   "btts": 0.531,
-   "scores": [
-    [
-     "0-2",
-     0.106
-    ],
-    [
-     "1-1",
-     0.103
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.076
-    ],
-    [
-     "1-3",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "St. Gilloise",
-   "away": "Lech Poznan",
-   "homeName": "Union Saint-Gilloise",
-   "awayName": "Lech Poznan",
-   "homeLeague": "proleague",
-   "awayLeague": "poland",
-   "homeSlug": "st-gilloise",
-   "awaySlug": "lech-poznan",
-   "homeCountry": "BEL",
-   "awayCountry": "POL",
-   "elo": [
-    1879,
-    1688
-   ],
-   "dr": 281,
-   "H": 0.71,
-   "D": 0.182,
-   "A": 0.108,
-   "xg": [
-    2.4,
-    0.8
-   ],
-   "O25": 0.611,
-   "btts": 0.511,
-   "scores": [
-    [
-     "2-0",
-     0.113
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "3-0",
-     0.09
-    ],
-    [
-     "1-1",
-     0.089
-    ],
-    [
-     "3-1",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "GNK Dinamo (CRO)",
-   "away": "Leverkusen",
-   "homeName": "GNK Dinamo",
-   "awayName": "Bayer Leverkusen",
-   "homeLeague": null,
-   "awayLeague": "bundesliga",
-   "homeSlug": null,
-   "awaySlug": "leverkusen",
-   "homeCountry": "CRO",
-   "awayCountry": "GER",
-   "elo": [
-    1729,
-    1962
-   ],
-   "dr": -142,
-   "H": 0.213,
-   "D": 0.246,
-   "A": 0.541,
-   "xg": [
-    1.1,
-    1.8
-   ],
-   "O25": 0.542,
-   "btts": 0.554,
-   "scores": [
-    [
-     "1-1",
-     0.121
-    ],
-    [
-     "0-1",
-     0.098
-    ],
-    [
-     "1-2",
-     0.096
-    ],
-    [
-     "0-2",
-     0.09
-    ],
-    [
-     "0-0",
-     0.062
-    ],
-    [
-     "1-3",
-     0.059
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Salzburg",
-   "away": "Ararat-Armenia (ARM)",
-   "homeName": "Salzburg",
-   "awayName": "Ararat-Armenia",
-   "homeLeague": "austria",
-   "awayLeague": null,
-   "homeSlug": "salzburg",
-   "awaySlug": null,
-   "homeCountry": "AUT",
-   "awayCountry": "ARM",
-   "elo": [
-    1697,
-    1419
-   ],
-   "dr": 368,
-   "H": 0.801,
-   "D": 0.135,
-   "A": 0.064,
-   "xg": [
-    2.8,
-    0.7
-   ],
-   "O25": 0.673,
-   "btts": 0.473,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.11
-    ],
-    [
-     "1-0",
-     0.083
-    ],
-    [
-     "2-1",
-     0.081
-    ],
-    [
-     "4-0",
-     0.077
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Celta",
-   "away": "Bournemouth",
-   "homeName": "Celta Vigo",
-   "awayName": "AFC Bournemouth",
-   "homeLeague": "laliga",
-   "awayLeague": "pl",
-   "homeSlug": "celta",
-   "awaySlug": "bournemouth",
-   "homeCountry": "ESP",
-   "awayCountry": "ENG",
-   "elo": [
-    1799,
-    1976
-   ],
-   "dr": -87,
-   "H": 0.267,
-   "D": 0.262,
-   "A": 0.471,
-   "xg": [
-    1.2,
-    1.7
-   ],
-   "O25": 0.526,
-   "btts": 0.564,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "0-1",
-     0.094
-    ],
-    [
-     "1-2",
-     0.092
-    ],
-    [
-     "0-2",
-     0.078
-    ],
-    [
-     "1-0",
-     0.068
-    ],
-    [
-     "2-1",
-     0.066
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Besiktas",
-   "away": "H. Beer-Sheva (ISR)",
-   "homeName": "Beşiktaş",
-   "awayName": "H. Beer-Sheva",
-   "homeLeague": "superlig",
-   "awayLeague": null,
-   "homeSlug": "besiktas",
-   "awaySlug": null,
-   "homeCountry": "TUR",
-   "awayCountry": "ISR",
-   "elo": [
-    1846,
-    1562
-   ],
-   "dr": 374,
-   "H": 0.806,
-   "D": 0.132,
-   "A": 0.062,
-   "xg": [
-    2.9,
-    0.7
-   ],
-   "O25": 0.678,
-   "btts": 0.471,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.111
-    ],
-    [
-     "1-0",
-     0.082
-    ],
-    [
-     "2-1",
-     0.08
-    ],
-    [
-     "4-0",
-     0.079
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Ajax",
-   "away": "Thun",
-   "homeName": "Ajax",
-   "awayName": "Thun",
-   "homeLeague": "eredivisie",
-   "awayLeague": "switzerland",
-   "homeSlug": "ajax",
-   "awaySlug": "thun",
-   "homeCountry": "NED",
-   "awayCountry": "SUI",
-   "elo": [
-    1807,
-    1507
-   ],
-   "dr": 390,
-   "H": 0.822,
-   "D": 0.123,
-   "A": 0.055,
-   "xg": [
-    2.9,
-    0.7
-   ],
-   "O25": 0.691,
-   "btts": 0.463,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.084
-    ],
-    [
-     "1-0",
-     0.079
-    ],
-    [
-     "2-1",
-     0.077
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Pafos (CYP)",
-   "away": "Midtjylland",
-   "homeName": "Pafos",
-   "awayName": "Midtjylland",
-   "homeLeague": null,
-   "awayLeague": "denmark",
-   "homeSlug": null,
-   "awaySlug": "midtjylland",
-   "homeCountry": "CYP",
-   "awayCountry": "DEN",
-   "elo": [
-    1552,
-    1703
-   ],
-   "dr": -61,
-   "H": 0.294,
-   "D": 0.267,
-   "A": 0.438,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.521,
-   "btts": 0.567,
-   "scores": [
-    [
-     "1-1",
-     0.131
-    ],
-    [
-     "0-1",
-     0.091
-    ],
-    [
-     "1-2",
-     0.09
-    ],
-    [
-     "1-0",
-     0.072
-    ],
-    [
-     "0-2",
-     0.072
-    ],
-    [
-     "2-1",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Brighton",
-   "away": "Univ. Craiova",
-   "homeName": "Brighton & Hove Albion",
-   "awayName": "Univ. Craiova",
-   "homeLeague": "pl",
-   "awayLeague": "romania",
-   "homeSlug": "brighton",
-   "awaySlug": "univ-craiova",
-   "homeCountry": "ENG",
-   "awayCountry": "ROU",
-   "elo": [
-    2022,
-    1731
-   ],
-   "dr": 381,
-   "H": 0.813,
-   "D": 0.128,
-   "A": 0.059,
-   "xg": [
-    2.9,
-    0.7
-   ],
-   "O25": 0.683,
-   "btts": 0.467,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.112
-    ],
-    [
-     "4-0",
-     0.081
-    ],
-    [
-     "1-0",
-     0.08
-    ],
-    [
-     "2-1",
-     0.079
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Brann",
-   "away": "Aarhus",
-   "homeName": "Brann",
-   "awayName": "Aarhus",
-   "homeLeague": "norway",
-   "awayLeague": "denmark",
-   "homeSlug": "brann",
-   "awaySlug": "aarhus",
-   "homeCountry": "NOR",
-   "awayCountry": "DEN",
-   "elo": [
-    1575,
-    1625
-   ],
-   "dr": 39,
-   "H": 0.411,
-   "D": 0.27,
-   "A": 0.319,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "1-0",
-     0.089
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "0-1",
-     0.076
-    ],
-    [
-     "1-2",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Hearts",
-   "away": "Monaco",
-   "homeName": "Hearts",
-   "awayName": "Monaco",
-   "homeLeague": "scotland",
-   "awayLeague": "ligue1",
-   "homeSlug": "hearts",
-   "awaySlug": "monaco",
-   "homeCountry": "SCO",
-   "awayCountry": "FRA",
-   "elo": [
-    1511,
-    1882
-   ],
-   "dr": -281,
-   "H": 0.108,
-   "D": 0.182,
-   "A": 0.71,
-   "xg": [
-    0.8,
-    2.4
-   ],
-   "O25": 0.611,
-   "btts": 0.511,
-   "scores": [
-    [
-     "0-2",
-     0.113
-    ],
-    [
-     "0-1",
-     0.095
-    ],
-    [
-     "1-2",
-     0.093
-    ],
-    [
-     "0-3",
-     0.09
-    ],
-    [
-     "1-1",
-     0.089
-    ],
-    [
-     "1-3",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Jablonec (CZE)",
-   "away": "Lugano",
-   "homeName": "Jablonec",
-   "awayName": "Lugano",
-   "homeLeague": null,
-   "awayLeague": "switzerland",
-   "homeSlug": null,
-   "awaySlug": "lugano",
-   "homeCountry": "CZE",
-   "awayCountry": "SUI",
-   "elo": [
-    1591,
-    1671
-   ],
-   "dr": 10,
-   "H": 0.376,
-   "D": 0.272,
-   "A": 0.352,
-   "xg": [
-    1.4,
-    1.4
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.085
-    ],
-    [
-     "2-1",
-     0.083
-    ],
-    [
-     "0-1",
-     0.081
-    ],
-    [
-     "1-2",
-     0.08
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Kauno Žalgiris (LTU)",
-   "away": "Riga (LVA)",
-   "homeName": "Kauno Žalgiris",
-   "awayName": "Riga",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "LTU",
-   "awayCountry": "LVA",
-   "elo": [
-    1286,
-    1458
-   ],
-   "dr": -82,
-   "H": 0.272,
-   "D": 0.263,
-   "A": 0.464,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.525,
-   "btts": 0.565,
-   "scores": [
-    [
-     "1-1",
-     0.129
-    ],
-    [
-     "0-1",
-     0.094
-    ],
-    [
-     "1-2",
-     0.092
-    ],
-    [
-     "0-2",
-     0.077
-    ],
-    [
-     "1-0",
-     0.069
-    ],
-    [
-     "2-1",
-     0.067
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Iberia Tbilisi (GEO)",
-   "away": "Getafe",
-   "homeName": "Iberia Tbilisi",
-   "awayName": "Getafe",
-   "homeLeague": null,
-   "awayLeague": "laliga",
-   "homeSlug": null,
-   "awaySlug": "getafe",
-   "homeCountry": "GEO",
-   "awayCountry": "ESP",
-   "elo": [
-    1298,
-    1680
-   ],
-   "dr": -292,
-   "H": 0.101,
-   "D": 0.176,
-   "A": 0.722,
-   "xg": [
-    0.8,
-    2.4
-   ],
-   "O25": 0.619,
-   "btts": 0.506,
-   "scores": [
-    [
-     "0-2",
-     0.114
-    ],
-    [
-     "0-1",
-     0.094
-    ],
-    [
-     "0-3",
-     0.093
-    ],
-    [
-     "1-2",
-     0.092
-    ],
-    [
-     "1-1",
-     0.086
-    ],
-    [
-     "1-3",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T17:45:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Egnatia (ALB)",
-   "away": "L. Red Imps (GIB)",
-   "homeName": "Egnatia",
-   "awayName": "L. Red Imps",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "ALB",
-   "awayCountry": "GIB",
-   "elo": [
-    1459,
-    1274
-   ],
-   "dr": 275,
-   "H": 0.703,
-   "D": 0.186,
-   "A": 0.112,
-   "xg": [
-    2.4,
-    0.8
-   ],
-   "O25": 0.607,
-   "btts": 0.513,
-   "scores": [
-    [
-     "2-0",
-     0.113
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "1-1",
-     0.091
-    ],
-    [
-     "3-0",
-     0.089
-    ],
-    [
-     "3-1",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Juventus",
-   "away": "Omonia (CYP)",
-   "homeName": "Juventus",
-   "awayName": "Omonia",
-   "homeLeague": "seriea",
-   "awayLeague": null,
-   "homeSlug": "juventus",
-   "awaySlug": null,
-   "homeCountry": "ITA",
-   "awayCountry": "CYP",
-   "elo": [
-    1924,
-    1597
-   ],
-   "dr": 417,
-   "H": 0.845,
-   "D": 0.109,
-   "A": 0.046,
-   "xg": [
-    3.1,
-    0.6
-   ],
-   "O25": 0.712,
-   "btts": 0.45,
-   "scores": [
-    [
-     "3-0",
-     0.118
-    ],
-    [
-     "2-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.091
-    ],
-    [
-     "3-1",
-     0.074
-    ],
-    [
-     "1-0",
-     0.073
-    ],
-    [
-     "2-1",
-     0.072
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Lyon",
-   "away": "Lillestrom",
-   "homeName": "Olympique Lyonnais",
-   "awayName": "Lillestrom",
-   "homeLeague": "ligue1",
-   "awayLeague": "norway",
-   "homeSlug": "lyon",
-   "awaySlug": "lillestrom",
-   "homeCountry": "FRA",
-   "awayCountry": "NOR",
-   "elo": [
-    1827,
-    1528
-   ],
-   "dr": 389,
-   "H": 0.82,
-   "D": 0.124,
-   "A": 0.056,
-   "xg": [
-    2.9,
-    0.7
-   ],
-   "O25": 0.69,
-   "btts": 0.464,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.083
-    ],
-    [
-     "1-0",
-     0.079
-    ],
-    [
-     "2-1",
-     0.077
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Ferencváros (HUN)",
-   "away": "Celje (SVN)",
-   "homeName": "Ferencváros",
-   "awayName": "Celje",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "HUN",
-   "awayCountry": "SVN",
-   "elo": [
-    1795,
-    1531
-   ],
-   "dr": 353,
-   "H": 0.787,
-   "D": 0.143,
-   "A": 0.07,
-   "xg": [
-    2.7,
-    0.7
-   ],
-   "O25": 0.662,
-   "btts": 0.48,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.107
-    ],
-    [
-     "1-0",
-     0.085
-    ],
-    [
-     "2-1",
-     0.084
-    ],
-    [
-     "3-1",
-     0.076
-    ],
-    [
-     "4-0",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sparta Praha (CZE)",
-   "away": "AZ Alkmaar",
-   "homeName": "Sparta Praha",
-   "awayName": "AZ",
-   "homeLeague": null,
-   "awayLeague": "eredivisie",
-   "homeSlug": null,
-   "awaySlug": "az-alkmaar",
-   "homeCountry": "CZE",
-   "awayCountry": "NED",
-   "elo": [
-    1662,
-    1770
-   ],
-   "dr": -19,
-   "H": 0.342,
-   "D": 0.272,
-   "A": 0.386,
-   "xg": [
-    1.4,
-    1.5
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.086
-    ],
-    [
-     "1-2",
-     0.084
-    ],
-    [
-     "1-0",
-     0.08
-    ],
-    [
-     "2-1",
-     0.078
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Crystal Palace",
-   "away": "Sociedad",
-   "homeName": "Crystal Palace",
-   "awayName": "Real Sociedad",
-   "homeLeague": "pl",
-   "awayLeague": "laliga",
-   "homeSlug": "crystal-palace",
-   "awaySlug": "sociedad",
-   "homeCountry": "ENG",
-   "awayCountry": "ESP",
-   "elo": [
-    1808,
-    1826
-   ],
-   "dr": 72,
-   "H": 0.451,
-   "D": 0.266,
-   "A": 0.283,
-   "xg": [
-    1.6,
-    1.2
-   ],
-   "O25": 0.523,
-   "btts": 0.566,
-   "scores": [
-    [
-     "1-1",
-     0.13
-    ],
-    [
-     "1-0",
-     0.093
-    ],
-    [
-     "2-1",
-     0.091
-    ],
-    [
-     "2-0",
-     0.074
-    ],
-    [
-     "0-1",
-     0.07
-    ],
-    [
-     "1-2",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sunderland",
-   "away": "Jagiellonia",
-   "homeName": "Sunderland",
-   "awayName": "Jagiellonia",
-   "homeLeague": "pl",
-   "awayLeague": "poland",
-   "homeSlug": "sunderland",
-   "awaySlug": "jagiellonia",
-   "homeCountry": "ENG",
-   "awayCountry": "POL",
-   "elo": [
-    1862,
-    1590
-   ],
-   "dr": 362,
-   "H": 0.795,
-   "D": 0.138,
-   "A": 0.067,
-   "xg": [
-    2.8,
-    0.7
-   ],
-   "O25": 0.669,
-   "btts": 0.476,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.109
-    ],
-    [
-     "1-0",
-     0.084
-    ],
-    [
-     "2-1",
-     0.082
-    ],
-    [
-     "3-1",
-     0.076
-    ],
-    [
-     "4-0",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Hoffenheim",
-   "away": "Sturm Graz",
-   "homeName": "Hoffenheim",
-   "awayName": "Sturm Graz",
-   "homeLeague": "bundesliga",
-   "awayLeague": "austria",
-   "homeSlug": "hoffenheim",
-   "awaySlug": "sturm-graz",
-   "homeCountry": "GER",
-   "awayCountry": "AUT",
-   "elo": [
-    1835,
-    1599
-   ],
-   "dr": 326,
-   "H": 0.759,
-   "D": 0.158,
-   "A": 0.083,
-   "xg": [
-    2.6,
-    0.8
-   ],
-   "O25": 0.642,
-   "btts": 0.492,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.101
-    ],
-    [
-     "1-0",
-     0.089
-    ],
-    [
-     "2-1",
-     0.088
-    ],
-    [
-     "1-1",
-     0.077
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Torreense (POR)",
-   "away": "Celtic",
-   "homeName": "Torreense",
-   "awayName": "Celtic",
-   "homeLeague": null,
-   "awayLeague": "scotland",
-   "homeSlug": null,
-   "awaySlug": "celtic",
-   "homeCountry": "POR",
-   "awayCountry": "SCO",
-   "elo": [
-    1432,
-    1690
-   ],
-   "dr": -168,
-   "H": 0.191,
-   "D": 0.237,
-   "A": 0.573,
-   "xg": [
-    1,
-    1.9
-   ],
-   "O25": 0.551,
-   "btts": 0.548,
-   "scores": [
-    [
-     "1-1",
-     0.116
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-2",
-     0.096
-    ],
-    [
-     "1-3",
-     0.062
-    ],
-    [
-     "0-3",
-     0.061
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Nijmegen",
-   "away": "Rennes",
-   "homeName": "NEC",
-   "awayName": "Rennes",
-   "homeLeague": "eredivisie",
-   "awayLeague": "ligue1",
-   "homeSlug": "nijmegen",
-   "awaySlug": "rennes",
-   "homeCountry": "NED",
-   "awayCountry": "FRA",
-   "elo": [
-    1647,
-    1814
-   ],
-   "dr": -78,
-   "H": 0.277,
-   "D": 0.264,
-   "A": 0.459,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.524,
-   "btts": 0.565,
-   "scores": [
-    [
-     "1-1",
-     0.13
-    ],
-    [
-     "0-1",
-     0.093
-    ],
-    [
-     "1-2",
-     0.091
-    ],
-    [
-     "0-2",
-     0.076
-    ],
-    [
-     "1-0",
-     0.069
-    ],
-    [
-     "2-1",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "OFI Crete",
-   "away": "Anderlecht",
-   "homeName": "OFI",
-   "awayName": "Anderlecht",
-   "homeLeague": "superleague",
-   "awayLeague": "proleague",
-   "homeSlug": "ofi-crete",
-   "awaySlug": "anderlecht",
-   "homeCountry": "GRE",
-   "awayCountry": "BEL",
-   "elo": [
-    1442,
-    1754
-   ],
-   "dr": -222,
-   "H": 0.148,
-   "D": 0.213,
-   "A": 0.639,
-   "xg": [
-    0.9,
-    2.1
-   ],
-   "O25": 0.576,
-   "btts": 0.532,
-   "scores": [
-    [
-     "0-2",
-     0.105
-    ],
-    [
-     "1-1",
-     0.104
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.075
-    ],
-    [
-     "1-3",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Sp Braga",
-   "away": "KuPS",
-   "homeName": "Braga",
-   "awayName": "KuPS",
-   "homeLeague": "primeira",
-   "awayLeague": "finland",
-   "homeSlug": "sp-braga",
-   "awaySlug": "kups",
-   "homeCountry": "POR",
-   "awayCountry": "FIN",
-   "elo": [
-    1782,
-    1389
-   ],
-   "dr": 482,
-   "H": 0.893,
-   "D": 0.078,
-   "A": 0.028,
-   "xg": [
-    3.5,
-    0.6
-   ],
-   "O25": 0.765,
-   "btts": 0.417,
-   "scores": [
-    [
-     "3-0",
-     0.122
-    ],
-    [
-     "4-0",
-     0.107
-    ],
-    [
-     "2-0",
-     0.105
-    ],
-    [
-     "5-0",
-     0.075
-    ],
-    [
-     "3-1",
-     0.068
-    ],
-    [
-     "4-1",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Freiburg",
-   "away": "Twente",
-   "homeName": "SC Freiburg",
-   "awayName": "Twente",
-   "homeLeague": "bundesliga",
-   "awayLeague": "eredivisie",
-   "homeSlug": "freiburg",
-   "awaySlug": "twente",
-   "homeCountry": "GER",
-   "awayCountry": "NED",
-   "elo": [
-    1828,
-    1830
-   ],
-   "dr": 88,
-   "H": 0.472,
-   "D": 0.262,
-   "A": 0.266,
-   "xg": [
-    1.7,
-    1.2
-   ],
-   "O25": 0.526,
-   "btts": 0.564,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "1-0",
-     0.094
-    ],
-    [
-     "2-1",
-     0.092
-    ],
-    [
-     "2-0",
-     0.078
-    ],
-    [
-     "0-1",
-     0.067
-    ],
-    [
-     "1-2",
-     0.066
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Gent",
-   "away": "Crvena Zvezda (SRB)",
-   "homeName": "Gent",
-   "awayName": "Crvena Zvezda",
-   "homeLeague": "proleague",
-   "awayLeague": null,
-   "homeSlug": "gent",
-   "awaySlug": null,
-   "homeCountry": "BEL",
-   "awayCountry": "SRB",
-   "elo": [
-    1697,
-    1666
-   ],
-   "dr": 120,
-   "H": 0.513,
-   "D": 0.254,
-   "A": 0.234,
-   "xg": [
-    1.8,
-    1.1
-   ],
-   "O25": 0.535,
-   "btts": 0.559,
-   "scores": [
-    [
-     "1-1",
-     0.124
-    ],
-    [
-     "1-0",
-     0.097
-    ],
-    [
-     "2-1",
-     0.095
-    ],
-    [
-     "2-0",
-     0.085
-    ],
-    [
-     "0-0",
-     0.063
-    ],
-    [
-     "0-1",
-     0.061
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Borac (BIH)",
-   "away": "Atalanta",
-   "homeName": "Borac",
-   "awayName": "Atalanta",
-   "homeLeague": null,
-   "awayLeague": "seriea",
-   "homeSlug": null,
-   "awaySlug": "atalanta",
-   "homeCountry": "BIH",
-   "awayCountry": "ITA",
-   "elo": [
-    1412,
-    1808
-   ],
-   "dr": -306,
-   "H": 0.094,
-   "D": 0.169,
-   "A": 0.738,
-   "xg": [
-    0.8,
-    2.5
-   ],
-   "O25": 0.628,
-   "btts": 0.501,
-   "scores": [
-    [
-     "0-2",
-     0.115
-    ],
-    [
-     "0-3",
-     0.096
-    ],
-    [
-     "0-1",
-     0.092
-    ],
-    [
-     "1-2",
-     0.09
-    ],
-    [
-     "1-1",
-     0.083
-    ],
-    [
-     "1-3",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Hajduk Split (CRO)",
-   "away": "St Truiden",
-   "homeName": "Hajduk Split",
-   "awayName": "Sint-Truiden",
-   "homeLeague": null,
-   "awayLeague": "proleague",
-   "homeSlug": null,
-   "awaySlug": "st-truiden",
-   "homeCountry": "CRO",
-   "awayCountry": "BEL",
-   "elo": [
-    1555,
-    1681
-   ],
-   "dr": -36,
-   "H": 0.323,
-   "D": 0.271,
-   "A": 0.406,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.088
-    ],
-    [
-     "1-2",
-     0.086
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Nordsjaelland",
-   "away": "Panathinaikos",
-   "homeName": "Nordsjaelland",
-   "awayName": "Panathinaikos",
-   "homeLeague": "denmark",
-   "awayLeague": "superleague",
-   "homeSlug": "nordsjaelland",
-   "awaySlug": "panathinaikos",
-   "homeCountry": "DEN",
-   "awayCountry": "GRE",
-   "elo": [
-    1716,
-    1801
-   ],
-   "dr": 6,
-   "H": 0.37,
-   "D": 0.272,
-   "A": 0.357,
-   "xg": [
-    1.4,
-    1.4
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.084
-    ],
-    [
-     "2-1",
-     0.082
-    ],
-    [
-     "0-1",
-     0.082
-    ],
-    [
-     "1-2",
-     0.08
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Inter Escaldes (AND)",
-   "away": "FC Copenhagen",
-   "homeName": "Inter Escaldes",
-   "awayName": "FC Copenhagen",
-   "homeLeague": null,
-   "awayLeague": "denmark",
-   "homeSlug": null,
-   "awaySlug": "fc-copenhagen",
-   "homeCountry": "AND",
-   "awayCountry": "DEN",
-   "elo": [
-    1331,
-    1765
-   ],
-   "dr": -344,
-   "H": 0.075,
-   "D": 0.148,
-   "A": 0.777,
-   "xg": [
-    0.7,
-    2.7
-   ],
-   "O25": 0.655,
-   "btts": 0.484,
-   "scores": [
-    [
-     "0-2",
-     0.117
-    ],
-    [
-     "0-3",
-     0.105
-    ],
-    [
-     "0-1",
-     0.087
-    ],
-    [
-     "1-2",
-     0.085
-    ],
-    [
-     "1-3",
-     0.076
-    ],
-    [
-     "1-1",
-     0.072
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-11-26T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "CSKA Sofia (BUL)",
-   "away": "Trabzonspor",
-   "homeName": "CSKA Sofia",
-   "awayName": "Trabzonspor",
-   "homeLeague": null,
-   "awayLeague": "superlig",
-   "homeSlug": null,
-   "awaySlug": "trabzonspor",
-   "homeCountry": "BUL",
-   "awayCountry": "TUR",
-   "elo": [
-    1487,
-    1792
-   ],
-   "dr": -215,
-   "H": 0.153,
-   "D": 0.216,
-   "A": 0.631,
-   "xg": [
-    0.9,
-    2.1
-   ],
-   "O25": 0.573,
-   "btts": 0.534,
-   "scores": [
-    [
-     "1-1",
-     0.106
-    ],
-    [
-     "0-2",
-     0.104
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.073
-    ],
-    [
-     "1-3",
-     0.068
-    ]
-   ]
-  },
   {
    "kickoff": "2026-12-08T17:45:00Z",
    "comp": "cl",
@@ -2033,43 +17,43 @@
    "homeCountry": "ESP",
    "awayCountry": "AZE",
    "elo": [
-    1858,
+    1849,
     1511
    ],
-   "dr": 437,
-   "H": 0.861,
-   "D": 0.099,
-   "A": 0.04,
+   "dr": 427,
+   "H": 0.853,
+   "D": 0.104,
+   "A": 0.043,
    "xg": [
     3.2,
     0.6
    ],
-   "O25": 0.728,
-   "btts": 0.44,
+   "O25": 0.72,
+   "btts": 0.445,
    "scores": [
     [
      "3-0",
-     0.12
+     0.119
     ],
     [
      "2-0",
-     0.112
+     0.113
     ],
     [
      "4-0",
-     0.096
+     0.094
     ],
     [
      "3-1",
-     0.073
+     0.074
     ],
     [
      "1-0",
-     0.069
+     0.071
     ],
     [
      "2-1",
-     0.068
+     0.07
     ]
    ]
   },
@@ -2089,13 +73,13 @@
    "homeCountry": "NOR",
    "awayCountry": "NED",
    "elo": [
-    1714,
-    1794
+    1711,
+    1801
    ],
-   "dr": 10,
-   "H": 0.375,
+   "dr": 0,
+   "H": 0.363,
    "D": 0.272,
-   "A": 0.352,
+   "A": 0.364,
    "xg": [
     1.4,
     1.4
@@ -2108,20 +92,20 @@
      0.133
     ],
     [
-     "1-0",
-     0.084
-    ],
-    [
-     "2-1",
+     "0-1",
      0.083
     ],
     [
-     "0-1",
-     0.081
+     "1-0",
+     0.083
     ],
     [
      "1-2",
-     0.08
+     0.081
+    ],
+    [
+     "2-1",
+     0.081
     ],
     [
      "0-0",
@@ -2145,12 +129,12 @@
    "homeCountry": "GER",
    "awayCountry": "CZE",
    "elo": [
-    2162,
-    1648
+    2168,
+    1654
    ],
    "dr": 604,
    "H": 0.955,
-   "D": 0.036,
+   "D": 0.035,
    "A": 0.01,
    "xg": [
     4.4,
@@ -2173,7 +157,7 @@
     ],
     [
      "2-0",
-     0.076
+     0.075
     ],
     [
      "4-1",
@@ -2201,43 +185,43 @@
    "homeCountry": "ESP",
    "awayCountry": "ENG",
    "elo": [
-    2169,
-    2122
+    2160,
+    2124
    ],
-   "dr": 137,
-   "H": 0.534,
-   "D": 0.248,
-   "A": 0.218,
+   "dr": 125,
+   "H": 0.519,
+   "D": 0.252,
+   "A": 0.229,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.54,
-   "btts": 0.555,
+   "O25": 0.536,
+   "btts": 0.558,
    "scores": [
     [
      "1-1",
-     0.121
+     0.123
     ],
     [
      "1-0",
-     0.098
+     0.097
     ],
     [
      "2-1",
-     0.096
+     0.095
     ],
     [
      "2-0",
-     0.089
+     0.087
     ],
     [
      "0-0",
-     0.062
+     0.063
     ],
     [
-     "3-1",
-     0.058
+     "0-1",
+     0.06
     ]
    ]
   },
@@ -2257,43 +241,43 @@
    "homeCountry": "ITA",
    "awayCountry": "POR",
    "elo": [
-    1970,
-    1918
+    1978,
+    1911
    ],
-   "dr": 142,
-   "H": 0.54,
-   "D": 0.246,
-   "A": 0.214,
+   "dr": 157,
+   "H": 0.559,
+   "D": 0.241,
+   "A": 0.2,
    "xg": [
-    1.8,
-    1.1
+    1.9,
+    1
    ],
-   "O25": 0.542,
-   "btts": 0.554,
+   "O25": 0.547,
+   "btts": 0.551,
    "scores": [
     [
      "1-1",
-     0.121
+     0.118
     ],
     [
      "1-0",
-     0.098
+     0.099
     ],
     [
      "2-1",
-     0.096
+     0.097
     ],
     [
      "2-0",
-     0.09
-    ],
-    [
-     "0-0",
-     0.062
+     0.093
     ],
     [
      "3-1",
-     0.059
+     0.061
+    ],
+    [
+     "0-0",
+     0.06
     ]
    ]
   },
@@ -2313,19 +297,19 @@
    "homeCountry": "ENG",
    "awayCountry": "FRA",
    "elo": [
-    1933,
-    2100
+    1936,
+    2096
    ],
-   "dr": -77,
-   "H": 0.278,
-   "D": 0.265,
-   "A": 0.458,
+   "dr": -70,
+   "H": 0.285,
+   "D": 0.266,
+   "A": 0.449,
    "xg": [
     1.2,
     1.6
    ],
-   "O25": 0.524,
-   "btts": 0.565,
+   "O25": 0.523,
+   "btts": 0.566,
    "scores": [
     [
      "1-1",
@@ -2333,7 +317,7 @@
     ],
     [
      "0-1",
-     0.093
+     0.092
     ],
     [
      "1-2",
@@ -2341,15 +325,15 @@
     ],
     [
      "0-2",
-     0.076
+     0.074
     ],
     [
      "1-0",
-     0.07
+     0.071
     ],
     [
      "2-1",
-     0.068
+     0.069
     ]
    ]
   },
@@ -2369,23 +353,23 @@
    "homeCountry": "ENG",
    "awayCountry": "GER",
    "elo": [
-    1963,
-    1921
+    1965,
+    1927
    ],
-   "dr": 132,
-   "H": 0.527,
-   "D": 0.25,
-   "A": 0.223,
+   "dr": 128,
+   "H": 0.522,
+   "D": 0.251,
+   "A": 0.227,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.538,
-   "btts": 0.556,
+   "O25": 0.537,
+   "btts": 0.557,
    "scores": [
     [
      "1-1",
-     0.122
+     0.123
     ],
     [
      "1-0",
@@ -2397,15 +381,15 @@
     ],
     [
      "2-0",
-     0.088
+     0.087
     ],
     [
      "0-0",
-     0.062
+     0.063
     ],
     [
      "0-1",
-     0.059
+     0.06
     ]
    ]
   },
@@ -2425,43 +409,43 @@
    "homeCountry": "ITA",
    "awayCountry": "BEL",
    "elo": [
-    1900,
-    1913
+    1908,
+    1916
    ],
-   "dr": 76,
-   "H": 0.457,
-   "D": 0.265,
-   "A": 0.278,
+   "dr": 83,
+   "H": 0.465,
+   "D": 0.263,
+   "A": 0.272,
    "xg": [
     1.6,
     1.2
    ],
-   "O25": 0.524,
+   "O25": 0.525,
    "btts": 0.565,
    "scores": [
     [
      "1-1",
-     0.13
+     0.129
     ],
     [
      "1-0",
-     0.093
+     0.094
     ],
     [
      "2-1",
-     0.091
+     0.092
     ],
     [
      "2-0",
-     0.075
+     0.077
     ],
     [
      "0-1",
-     0.07
+     0.068
     ],
     [
      "1-2",
-     0.068
+     0.067
     ]
    ]
   },
@@ -2481,13 +465,13 @@
    "homeCountry": "GRE",
    "awayCountry": "TUR",
    "elo": [
-    1763,
-    1835
+    1757,
+    1836
    ],
-   "dr": 18,
-   "H": 0.385,
+   "dr": 11,
+   "H": 0.376,
    "D": 0.272,
-   "A": 0.343,
+   "A": 0.351,
    "xg": [
     1.4,
     1.4
@@ -2501,19 +485,19 @@
     ],
     [
      "1-0",
-     0.086
+     0.085
     ],
     [
      "2-1",
-     0.084
+     0.083
     ],
     [
      "0-1",
-     0.08
+     0.081
     ],
     [
      "1-2",
-     0.078
+     0.08
     ],
     [
      "0-0",
@@ -2537,13 +521,13 @@
    "homeCountry": "ESP",
    "awayCountry": "ITA",
    "elo": [
-    1886,
-    1973
+    1875,
+    1981
    ],
-   "dr": 3,
-   "H": 0.367,
+   "dr": -16,
+   "H": 0.346,
    "D": 0.272,
-   "A": 0.361,
+   "A": 0.382,
    "xg": [
     1.4,
     1.4
@@ -2556,20 +540,20 @@
      0.133
     ],
     [
-     "1-0",
-     0.083
-    ],
-    [
      "0-1",
-     0.082
-    ],
-    [
-     "2-1",
-     0.082
+     0.085
     ],
     [
      "1-2",
-     0.081
+     0.084
+    ],
+    [
+     "1-0",
+     0.08
+    ],
+    [
+     "2-1",
+     0.079
     ],
     [
      "0-0",
@@ -2617,7 +601,7 @@
     ],
     [
      "1-2",
-     0.096
+     0.097
     ],
     [
      "0-2",
@@ -2649,27 +633,27 @@
    "homeCountry": "ENG",
    "awayCountry": "POR",
    "elo": [
-    2079,
-    1967
+    2081,
+    1961
    ],
-   "dr": 201,
-   "H": 0.614,
-   "D": 0.222,
-   "A": 0.163,
+   "dr": 210,
+   "H": 0.626,
+   "D": 0.218,
+   "A": 0.156,
    "xg": [
     2.1,
-    1
+    0.9
    ],
-   "O25": 0.566,
-   "btts": 0.539,
+   "O25": 0.571,
+   "btts": 0.536,
    "scores": [
     [
      "1-1",
-     0.109
+     0.107
     ],
     [
      "2-0",
-     0.102
+     0.104
     ],
     [
      "1-0",
@@ -2681,11 +665,11 @@
     ],
     [
      "3-0",
-     0.07
+     0.072
     ],
     [
      "3-1",
-     0.067
+     0.068
     ]
    ]
   },
@@ -2705,43 +689,43 @@
    "homeCountry": "ENG",
    "awayCountry": "ESP",
    "elo": [
-    2157,
-    2135
+    2160,
+    2125
    ],
-   "dr": 112,
-   "H": 0.502,
-   "D": 0.256,
-   "A": 0.242,
+   "dr": 125,
+   "H": 0.518,
+   "D": 0.252,
+   "A": 0.23,
    "xg": [
-    1.7,
+    1.8,
     1.1
    ],
-   "O25": 0.532,
-   "btts": 0.56,
+   "O25": 0.536,
+   "btts": 0.558,
    "scores": [
     [
      "1-1",
-     0.125
+     0.123
     ],
     [
      "1-0",
-     0.096
+     0.097
     ],
     [
      "2-1",
-     0.094
+     0.095
     ],
     [
      "2-0",
-     0.083
+     0.086
     ],
     [
      "0-0",
-     0.064
+     0.063
     ],
     [
      "0-1",
-     0.063
+     0.06
     ]
    ]
   },
@@ -2761,13 +745,13 @@
    "homeCountry": "GER",
    "awayCountry": "ITA",
    "elo": [
-    1931,
-    2044
+    1937,
+    2052
    ],
-   "dr": -24,
-   "H": 0.336,
+   "dr": -25,
+   "H": 0.335,
    "D": 0.272,
-   "A": 0.392,
+   "A": 0.394,
    "xg": [
     1.3,
     1.5
@@ -2781,7 +765,7 @@
     ],
     [
      "0-1",
-     0.086
+     0.087
     ],
     [
      "1-2",
@@ -2817,19 +801,19 @@
    "homeCountry": "NED",
    "awayCountry": "ESP",
    "elo": [
-    1848,
-    1992
+    1854,
+    1983
    ],
-   "dr": -55,
-   "H": 0.302,
-   "D": 0.268,
-   "A": 0.43,
+   "dr": -39,
+   "H": 0.319,
+   "D": 0.27,
+   "A": 0.41,
    "xg": [
     1.3,
-    1.6
+    1.5
    ],
-   "O25": 0.52,
-   "btts": 0.568,
+   "O25": 0.518,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
@@ -2837,23 +821,23 @@
     ],
     [
      "0-1",
-     0.091
-    ],
-    [
-     "1-2",
      0.089
     ],
     [
+     "1-2",
+     0.087
+    ],
+    [
      "1-0",
-     0.074
+     0.076
     ],
     [
      "2-1",
-     0.072
+     0.075
     ],
     [
-     "0-2",
-     0.07
+     "0-0",
+     0.068
     ]
    ]
   },
@@ -2873,23 +857,23 @@
    "homeCountry": "GER",
    "awayCountry": "FRA",
    "elo": [
-    1854,
-    1812
+    1860,
+    1808
    ],
-   "dr": 132,
-   "H": 0.527,
-   "D": 0.25,
-   "A": 0.223,
+   "dr": 142,
+   "H": 0.54,
+   "D": 0.246,
+   "A": 0.213,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.538,
-   "btts": 0.556,
+   "O25": 0.542,
+   "btts": 0.554,
    "scores": [
     [
      "1-1",
-     0.122
+     0.121
     ],
     [
      "1-0",
@@ -2901,14 +885,14 @@
     ],
     [
      "2-0",
-     0.088
+     0.09
     ],
     [
      "0-0",
      0.062
     ],
     [
-     "0-1",
+     "3-1",
      0.059
     ]
    ]
@@ -2930,12 +914,12 @@
    "awayCountry": "TUR",
    "elo": [
     1717,
-    1812
+    1813
    ],
-   "dr": -5,
-   "H": 0.358,
+   "dr": -6,
+   "H": 0.356,
    "D": 0.272,
-   "A": 0.37,
+   "A": 0.371,
    "xg": [
     1.4,
     1.4
@@ -2952,11 +936,11 @@
      0.084
     ],
     [
-     "1-0",
+     "1-2",
      0.082
     ],
     [
-     "1-2",
+     "1-0",
      0.082
     ],
     [
@@ -2985,13 +969,13 @@
    "homeCountry": "FRA",
    "awayCountry": "NOR",
    "elo": [
-    1792,
-    1877
+    1788,
+    1874
    ],
-   "dr": 5,
-   "H": 0.37,
+   "dr": 4,
+   "H": 0.368,
    "D": 0.272,
-   "A": 0.358,
+   "A": 0.359,
    "xg": [
     1.4,
     1.4
@@ -3017,7 +1001,7 @@
     ],
     [
      "1-2",
-     0.08
+     0.081
     ],
     [
      "0-0",
@@ -3041,27 +1025,27 @@
    "homeCountry": "KAZ",
    "awayCountry": "ROU",
    "elo": [
-    1430,
-    1731
+    1437,
+    1726
    ],
-   "dr": -211,
-   "H": 0.156,
-   "D": 0.218,
-   "A": 0.627,
+   "dr": -199,
+   "H": 0.165,
+   "D": 0.223,
+   "A": 0.612,
    "xg": [
-    0.9,
-    2.1
+    1,
+    2
    ],
-   "O25": 0.571,
-   "btts": 0.536,
+   "O25": 0.565,
+   "btts": 0.539,
    "scores": [
     [
      "1-1",
-     0.107
+     0.109
     ],
     [
      "0-2",
-     0.104
+     0.102
     ],
     [
      "0-1",
@@ -3073,11 +1057,11 @@
     ],
     [
      "0-3",
-     0.072
+     0.069
     ],
     [
      "1-3",
-     0.068
+     0.066
     ]
    ]
   },
@@ -3097,43 +1081,43 @@
    "homeCountry": "NED",
    "awayCountry": "AUT",
    "elo": [
-    1770,
-    1599
+    1790,
+    1596
    ],
-   "dr": 261,
-   "H": 0.686,
-   "D": 0.193,
-   "A": 0.121,
+   "dr": 284,
+   "H": 0.713,
+   "D": 0.181,
+   "A": 0.106,
    "xg": [
-    2.3,
-    0.9
+    2.4,
+    0.8
    ],
-   "O25": 0.599,
-   "btts": 0.519,
+   "O25": 0.613,
+   "btts": 0.51,
    "scores": [
     [
      "2-0",
-     0.111
+     0.114
     ],
     [
      "1-0",
-     0.096
+     0.094
     ],
     [
      "2-1",
-     0.095
-    ],
-    [
-     "1-1",
-     0.095
+     0.093
     ],
     [
      "3-0",
-     0.085
+     0.091
+    ],
+    [
+     "1-1",
+     0.088
     ],
     [
      "3-1",
-     0.073
+     0.074
     ]
    ]
   },
@@ -3153,43 +1137,43 @@
    "homeCountry": "FRA",
    "awayCountry": "ESP",
    "elo": [
-    1812,
-    1799
+    1810,
+    1778
    ],
-   "dr": 104,
-   "H": 0.491,
-   "D": 0.258,
-   "A": 0.25,
+   "dr": 123,
+   "H": 0.515,
+   "D": 0.253,
+   "A": 0.232,
    "xg": [
-    1.7,
+    1.8,
     1.1
    ],
-   "O25": 0.53,
-   "btts": 0.562,
+   "O25": 0.535,
+   "btts": 0.558,
    "scores": [
     [
      "1-1",
-     0.127
+     0.124
     ],
     [
      "1-0",
-     0.096
+     0.097
     ],
     [
      "2-1",
-     0.094
+     0.095
     ],
     [
      "2-0",
-     0.082
+     0.086
     ],
     [
      "0-0",
-     0.065
+     0.063
     ],
     [
      "0-1",
-     0.065
+     0.061
     ]
    ]
   },
@@ -3209,23 +1193,23 @@
    "homeCountry": "FRA",
    "awayCountry": "CRO",
    "elo": [
-    1814,
-    1729
+    1794,
+    1716
    ],
-   "dr": 175,
-   "H": 0.582,
-   "D": 0.234,
-   "A": 0.184,
+   "dr": 168,
+   "H": 0.573,
+   "D": 0.237,
+   "A": 0.191,
    "xg": [
-    2,
+    1.9,
     1
    ],
-   "O25": 0.555,
-   "btts": 0.546,
+   "O25": 0.551,
+   "btts": 0.548,
    "scores": [
     [
      "1-1",
-     0.114
+     0.116
     ],
     [
      "1-0",
@@ -3237,15 +1221,15 @@
     ],
     [
      "2-0",
-     0.097
+     0.096
     ],
     [
      "3-1",
-     0.063
+     0.062
     ],
     [
      "3-0",
-     0.063
+     0.061
     ]
    ]
   },
@@ -3265,13 +1249,13 @@
    "homeCountry": "BEL",
    "awayCountry": "GER",
    "elo": [
-    1754,
-    1835
+    1762,
+    1845
    ],
-   "dr": 9,
-   "H": 0.374,
+   "dr": 7,
+   "H": 0.372,
    "D": 0.272,
-   "A": 0.353,
+   "A": 0.355,
    "xg": [
     1.4,
     1.4
@@ -3289,11 +1273,11 @@
     ],
     [
      "2-1",
-     0.083
+     0.082
     ],
     [
      "0-1",
-     0.081
+     0.082
     ],
     [
      "1-2",
@@ -3321,43 +1305,43 @@
    "homeCountry": "SVN",
    "awayCountry": "GRE",
    "elo": [
-    1531,
-    1782
+    1539,
+    1764
    ],
-   "dr": -161,
-   "H": 0.197,
-   "D": 0.239,
-   "A": 0.564,
+   "dr": -135,
+   "H": 0.22,
+   "D": 0.249,
+   "A": 0.531,
    "xg": [
-    1,
-    1.9
+    1.1,
+    1.8
    ],
-   "O25": 0.549,
-   "btts": 0.55,
+   "O25": 0.539,
+   "btts": 0.556,
    "scores": [
     [
      "1-1",
-     0.117
+     0.122
     ],
     [
      "0-1",
-     0.099
+     0.098
     ],
     [
      "1-2",
-     0.097
+     0.096
     ],
     [
      "0-2",
-     0.094
-    ],
-    [
-     "1-3",
-     0.061
+     0.089
     ],
     [
      "0-0",
-     0.06
+     0.062
+    ],
+    [
+     "1-0",
+     0.058
     ]
    ]
   },
@@ -3377,13 +1361,13 @@
    "homeCountry": "POL",
    "awayCountry": "ENG",
    "elo": [
-    1590,
-    1808
+    1599,
+    1817
    ],
-   "dr": -129,
-   "H": 0.226,
+   "dr": -128,
+   "H": 0.227,
    "D": 0.251,
-   "A": 0.523,
+   "A": 0.522,
    "xg": [
     1.1,
     1.8
@@ -3433,13 +1417,13 @@
    "homeCountry": "CYP",
    "awayCountry": "SCO",
    "elo": [
-    1597,
-    1690
+    1590,
+    1695
    ],
-   "dr": -4,
-   "H": 0.359,
+   "dr": -15,
+   "H": 0.347,
    "D": 0.272,
-   "A": 0.368,
+   "A": 0.381,
    "xg": [
     1.4,
     1.4
@@ -3453,19 +1437,19 @@
     ],
     [
      "0-1",
-     0.084
-    ],
-    [
-     "1-0",
-     0.082
+     0.085
     ],
     [
      "1-2",
-     0.082
+     0.083
+    ],
+    [
+     "1-0",
+     0.081
     ],
     [
      "2-1",
-     0.081
+     0.079
     ],
     [
      "0-0",
@@ -3489,43 +1473,43 @@
    "homeCountry": "ISR",
    "awayCountry": "ITA",
    "elo": [
-    1562,
-    1924
+    1560,
+    1937
    ],
-   "dr": -272,
-   "H": 0.114,
-   "D": 0.187,
-   "A": 0.699,
+   "dr": -287,
+   "H": 0.105,
+   "D": 0.179,
+   "A": 0.716,
    "xg": [
     0.8,
-    2.3
+    2.4
    ],
-   "O25": 0.606,
-   "btts": 0.515,
+   "O25": 0.615,
+   "btts": 0.509,
    "scores": [
     [
      "0-2",
-     0.112
+     0.114
     ],
     [
      "0-1",
-     0.096
-    ],
-    [
-     "1-2",
      0.094
     ],
     [
-     "1-1",
+     "1-2",
      0.092
     ],
     [
      "0-3",
+     0.092
+    ],
+    [
+     "1-1",
      0.088
     ],
     [
      "1-3",
-     0.073
+     0.074
     ]
    ]
   },
@@ -3545,43 +1529,43 @@
    "homeCountry": "ARM",
    "awayCountry": "NED",
    "elo": [
-    1419,
-    1647
+    1416,
+    1670
    ],
-   "dr": -138,
-   "H": 0.218,
-   "D": 0.248,
-   "A": 0.534,
+   "dr": -165,
+   "H": 0.193,
+   "D": 0.238,
+   "A": 0.569,
    "xg": [
-    1.1,
-    1.8
+    1,
+    1.9
    ],
-   "O25": 0.54,
-   "btts": 0.555,
+   "O25": 0.55,
+   "btts": 0.549,
    "scores": [
     [
      "1-1",
-     0.121
+     0.117
     ],
     [
      "0-1",
-     0.098
+     0.099
     ],
     [
      "1-2",
-     0.096
+     0.097
     ],
     [
      "0-2",
-     0.089
-    ],
-    [
-     "0-0",
-     0.062
+     0.095
     ],
     [
      "1-3",
-     0.058
+     0.062
+    ],
+    [
+     "0-3",
+     0.061
     ]
    ]
   },
@@ -3601,43 +1585,43 @@
    "homeCountry": "GER",
    "awayCountry": "GRE",
    "elo": [
-    1828,
-    1801
+    1841,
+    1787
    ],
-   "dr": 118,
-   "H": 0.509,
-   "D": 0.254,
-   "A": 0.237,
+   "dr": 145,
+   "H": 0.543,
+   "D": 0.245,
+   "A": 0.211,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.534,
-   "btts": 0.559,
+   "O25": 0.543,
+   "btts": 0.554,
    "scores": [
     [
      "1-1",
-     0.125
+     0.12
     ],
     [
      "1-0",
-     0.097
+     0.098
     ],
     [
      "2-1",
-     0.095
+     0.096
     ],
     [
      "2-0",
-     0.085
+     0.091
     ],
     [
      "0-0",
-     0.064
+     0.061
     ],
     [
-     "0-1",
-     0.062
+     "3-1",
+     0.059
     ]
    ]
   },
@@ -3657,19 +1641,19 @@
    "homeCountry": "DEN",
    "awayCountry": "SUI",
    "elo": [
-    1765,
-    1671
+    1744,
+    1653
    ],
-   "dr": 184,
-   "H": 0.593,
-   "D": 0.23,
-   "A": 0.177,
+   "dr": 181,
+   "H": 0.59,
+   "D": 0.231,
+   "A": 0.179,
    "xg": [
     2,
     1
    ],
-   "O25": 0.558,
-   "btts": 0.544,
+   "O25": 0.557,
+   "btts": 0.545,
    "scores": [
     [
      "1-1",
@@ -3681,7 +1665,7 @@
     ],
     [
      "2-0",
-     0.099
+     0.098
     ],
     [
      "2-1",
@@ -3713,43 +1697,43 @@
    "homeCountry": "ESP",
    "awayCountry": "AND",
    "elo": [
-    1680,
-    1331
+    1657,
+    1361
    ],
-   "dr": 440,
-   "H": 0.863,
-   "D": 0.098,
-   "A": 0.039,
+   "dr": 387,
+   "H": 0.819,
+   "D": 0.125,
+   "A": 0.057,
    "xg": [
-    3.2,
-    0.6
+    2.9,
+    0.7
    ],
-   "O25": 0.73,
-   "btts": 0.439,
+   "O25": 0.688,
+   "btts": 0.465,
    "scores": [
     [
-     "3-0",
-     0.12
+     "2-0",
+     0.116
     ],
     [
-     "2-0",
-     0.111
+     "3-0",
+     0.113
     ],
     [
      "4-0",
-     0.097
-    ],
-    [
-     "3-1",
-     0.073
+     0.083
     ],
     [
      "1-0",
-     0.069
+     0.079
     ],
     [
      "2-1",
-     0.068
+     0.078
+    ],
+    [
+     "3-1",
+     0.076
     ]
    ]
   },
@@ -3769,13 +1753,13 @@
    "homeCountry": "FIN",
    "awayCountry": "BUL",
    "elo": [
-    1389,
-    1487
+    1387,
+    1482
    ],
-   "dr": -7,
-   "H": 0.355,
+   "dr": -5,
+   "H": 0.358,
    "D": 0.272,
-   "A": 0.372,
+   "A": 0.37,
    "xg": [
     1.4,
     1.4
@@ -3792,11 +1776,11 @@
      0.084
     ],
     [
-     "1-2",
+     "1-0",
      0.082
     ],
     [
-     "1-0",
+     "1-2",
      0.082
     ],
     [
@@ -3825,19 +1809,19 @@
    "homeCountry": "GIB",
    "awayCountry": "DEN",
    "elo": [
-    1274,
-    1703
+    1271,
+    1718
    ],
-   "dr": -339,
-   "H": 0.077,
-   "D": 0.151,
-   "A": 0.772,
+   "dr": -357,
+   "H": 0.069,
+   "D": 0.141,
+   "A": 0.79,
    "xg": [
     0.7,
-    2.7
+    2.8
    ],
-   "O25": 0.651,
-   "btts": 0.487,
+   "O25": 0.665,
+   "btts": 0.478,
    "scores": [
     [
      "0-2",
@@ -3845,22 +1829,22 @@
     ],
     [
      "0-3",
-     0.104
+     0.108
     ],
     [
      "0-1",
-     0.087
+     0.085
     ],
     [
      "1-2",
-     0.086
+     0.083
     ],
     [
      "1-3",
      0.076
     ],
     [
-     "1-1",
+     "0-4",
      0.074
     ]
    ]
@@ -3881,43 +1865,43 @@
    "homeCountry": "NOR",
    "awayCountry": "POR",
    "elo": [
-    1575,
-    1782
+    1553,
+    1777
    ],
-   "dr": -117,
-   "H": 0.237,
-   "D": 0.255,
-   "A": 0.508,
+   "dr": -134,
+   "H": 0.221,
+   "D": 0.249,
+   "A": 0.53,
    "xg": [
     1.1,
-    1.7
+    1.8
    ],
-   "O25": 0.534,
-   "btts": 0.559,
+   "O25": 0.539,
+   "btts": 0.556,
    "scores": [
     [
      "1-1",
-     0.125
+     0.122
     ],
     [
      "0-1",
-     0.097
+     0.098
     ],
     [
      "1-2",
-     0.095
+     0.096
     ],
     [
      "0-2",
-     0.085
+     0.088
     ],
     [
      "0-0",
-     0.064
+     0.062
     ],
     [
      "1-0",
-     0.062
+     0.059
     ]
    ]
   },
@@ -3937,19 +1921,19 @@
    "homeCountry": "TUR",
    "awayCountry": "CZE",
    "elo": [
-    1792,
-    1591
+    1797,
+    1603
    ],
-   "dr": 290,
-   "H": 0.72,
-   "D": 0.177,
-   "A": 0.103,
+   "dr": 284,
+   "H": 0.713,
+   "D": 0.181,
+   "A": 0.106,
    "xg": [
     2.4,
     0.8
    ],
-   "O25": 0.617,
-   "btts": 0.507,
+   "O25": 0.613,
+   "btts": 0.51,
    "scores": [
     [
      "2-0",
@@ -3960,20 +1944,20 @@
      0.094
     ],
     [
-     "3-0",
+     "2-1",
      0.093
     ],
     [
-     "2-1",
-     0.092
+     "3-0",
+     0.091
     ],
     [
      "1-1",
-     0.087
+     0.089
     ],
     [
      "3-1",
-     0.075
+     0.074
     ]
    ]
   },
@@ -3993,43 +1977,43 @@
    "homeCountry": "LVA",
    "awayCountry": "ITA",
    "elo": [
-    1458,
-    1808
+    1437,
+    1818
    ],
-   "dr": -260,
-   "H": 0.121,
-   "D": 0.193,
-   "A": 0.685,
+   "dr": -291,
+   "H": 0.102,
+   "D": 0.177,
+   "A": 0.721,
    "xg": [
-    0.9,
-    2.3
+    0.8,
+    2.4
    ],
-   "O25": 0.598,
-   "btts": 0.519,
+   "O25": 0.618,
+   "btts": 0.507,
    "scores": [
     [
      "0-2",
-     0.111
+     0.114
     ],
     [
      "0-1",
-     0.097
-    ],
-    [
-     "1-1",
-     0.095
-    ],
-    [
-     "1-2",
-     0.095
+     0.094
     ],
     [
      "0-3",
-     0.085
+     0.093
+    ],
+    [
+     "1-2",
+     0.092
+    ],
+    [
+     "1-1",
+     0.087
     ],
     [
      "1-3",
-     0.072
+     0.075
     ]
    ]
   },
@@ -4049,43 +2033,43 @@
    "homeCountry": "GEO",
    "awayCountry": "SRB",
    "elo": [
-    1298,
-    1666
+    1315,
+    1670
    ],
-   "dr": -278,
-   "H": 0.11,
-   "D": 0.184,
-   "A": 0.707,
+   "dr": -265,
+   "H": 0.118,
+   "D": 0.191,
+   "A": 0.691,
    "xg": [
     0.8,
-    2.4
+    2.3
    ],
-   "O25": 0.61,
-   "btts": 0.512,
+   "O25": 0.601,
+   "btts": 0.517,
    "scores": [
     [
      "0-2",
-     0.113
+     0.112
     ],
     [
      "0-1",
-     0.095
+     0.096
     ],
     [
      "1-2",
-     0.093
+     0.094
     ],
     [
      "1-1",
-     0.09
+     0.093
     ],
     [
      "0-3",
-     0.09
+     0.086
     ],
     [
      "1-3",
-     0.074
+     0.073
     ]
    ]
   },
@@ -4105,1072 +2089,8 @@
    "homeCountry": "GER",
    "awayCountry": "TUR",
    "elo": [
-    1962,
-    1846
-   ],
-   "dr": 206,
-   "H": 0.62,
-   "D": 0.22,
-   "A": 0.16,
-   "xg": [
-    2.1,
-    0.9
-   ],
-   "O25": 0.568,
-   "btts": 0.537,
-   "scores": [
-    [
-     "1-1",
-     0.108
-    ],
-    [
-     "2-0",
-     0.103
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.071
-    ],
-    [
-     "3-1",
-     0.067
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Benfica",
-   "away": "OFI Crete",
-   "homeName": "Benfica",
-   "awayName": "OFI",
-   "homeLeague": "primeira",
-   "awayLeague": "superleague",
-   "homeSlug": "benfica",
-   "awaySlug": "ofi-crete",
-   "homeCountry": "POR",
-   "awayCountry": "GRE",
-   "elo": [
-    2025,
-    1442
-   ],
-   "dr": 672,
-   "H": 0.975,
-   "D": 0.02,
-   "A": 0.005,
-   "xg": [
-    5,
-    0.4
-   ],
-   "O25": 0.904,
-   "btts": 0.321,
-   "scores": [
-    [
-     "5-0",
-     0.12
-    ],
-    [
-     "4-0",
-     0.119
-    ],
-    [
-     "3-0",
-     0.095
-    ],
-    [
-     "2-0",
-     0.057
-    ],
-    [
-     "5-1",
-     0.047
-    ],
-    [
-     "4-1",
-     0.046
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Milan",
-   "away": "Sunderland",
-   "homeName": "AC Milan",
-   "awayName": "Sunderland",
-   "homeLeague": "seriea",
-   "awayLeague": "pl",
-   "homeSlug": "milan",
-   "awaySlug": "sunderland",
-   "homeCountry": "ITA",
-   "awayCountry": "ENG",
-   "elo": [
-    1915,
-    1862
-   ],
-   "dr": 143,
-   "H": 0.541,
-   "D": 0.246,
-   "A": 0.213,
-   "xg": [
-    1.8,
-    1.1
-   ],
-   "O25": 0.542,
-   "btts": 0.554,
-   "scores": [
-    [
-     "1-1",
-     0.121
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "2-0",
-     0.09
-    ],
-    [
-     "0-0",
-     0.061
-    ],
-    [
-     "3-1",
-     0.059
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Lyon",
-   "away": "St. Gilloise",
-   "homeName": "Olympique Lyonnais",
-   "awayName": "Union Saint-Gilloise",
-   "homeLeague": "ligue1",
-   "awayLeague": "proleague",
-   "homeSlug": "lyon",
-   "awaySlug": "st-gilloise",
-   "homeCountry": "FRA",
-   "awayCountry": "BEL",
-   "elo": [
-    1827,
-    1879
-   ],
-   "dr": 38,
-   "H": 0.41,
-   "D": 0.27,
-   "A": 0.32,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "1-0",
-     0.089
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "0-1",
-     0.076
-    ],
-    [
-     "1-2",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sociedad",
-   "away": "Torreense (POR)",
-   "homeName": "Real Sociedad",
-   "awayName": "Torreense",
-   "homeLeague": "laliga",
-   "awayLeague": null,
-   "homeSlug": "sociedad",
-   "awaySlug": null,
-   "homeCountry": "ESP",
-   "awayCountry": "POR",
-   "elo": [
-    1826,
-    1432
-   ],
-   "dr": 484,
-   "H": 0.895,
-   "D": 0.078,
-   "A": 0.028,
-   "xg": [
-    3.5,
-    0.6
-   ],
-   "O25": 0.767,
-   "btts": 0.416,
-   "scores": [
-    [
-     "3-0",
-     0.122
-    ],
-    [
-     "4-0",
-     0.108
-    ],
-    [
-     "2-0",
-     0.104
-    ],
-    [
-     "5-0",
-     0.076
-    ],
-    [
-     "3-1",
-     0.068
-    ],
-    [
-     "4-1",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Salzburg",
-   "away": "Sparta Praha (CZE)",
-   "homeName": "Salzburg",
-   "awayName": "Sparta Praha",
-   "homeLeague": "austria",
-   "awayLeague": null,
-   "homeSlug": "salzburg",
-   "awaySlug": null,
-   "homeCountry": "AUT",
-   "awayCountry": "CZE",
-   "elo": [
-    1697,
-    1662
-   ],
-   "dr": 125,
-   "H": 0.519,
-   "D": 0.252,
-   "A": 0.229,
-   "xg": [
-    1.8,
-    1.1
-   ],
-   "O25": 0.536,
-   "btts": 0.558,
-   "scores": [
-    [
-     "1-1",
-     0.123
-    ],
-    [
-     "1-0",
-     0.097
-    ],
-    [
-     "2-1",
-     0.095
-    ],
-    [
-     "2-0",
-     0.087
-    ],
-    [
-     "0-0",
-     0.063
-    ],
-    [
-     "0-1",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Lech Poznan",
-   "away": "Ferencváros (HUN)",
-   "homeName": "Lech Poznan",
-   "awayName": "Ferencváros",
-   "homeLeague": "poland",
-   "awayLeague": null,
-   "homeSlug": "lech-poznan",
-   "awaySlug": null,
-   "homeCountry": "POL",
-   "awayCountry": "HUN",
-   "elo": [
-    1688,
-    1795
-   ],
-   "dr": -17,
-   "H": 0.344,
-   "D": 0.272,
-   "A": 0.384,
-   "xg": [
-    1.4,
-    1.4
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.085
-    ],
-    [
-     "1-2",
-     0.084
-    ],
-    [
-     "1-0",
-     0.08
-    ],
-    [
-     "2-1",
-     0.079
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Bournemouth",
-   "away": "Viktoria Plzeň (CZE)",
-   "homeName": "AFC Bournemouth",
-   "awayName": "Viktoria Plzeň",
-   "homeLeague": "pl",
-   "awayLeague": null,
-   "homeSlug": "bournemouth",
-   "awaySlug": null,
-   "homeCountry": "ENG",
-   "awayCountry": "CZE",
-   "elo": [
     1976,
-    1709
-   ],
-   "dr": 357,
-   "H": 0.79,
-   "D": 0.141,
-   "A": 0.069,
-   "xg": [
-    2.8,
-    0.7
-   ],
-   "O25": 0.665,
-   "btts": 0.479,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.108
-    ],
-    [
-     "1-0",
-     0.085
-    ],
-    [
-     "2-1",
-     0.083
-    ],
-    [
-     "3-1",
-     0.076
-    ],
-    [
-     "4-0",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Levski Sofia (BUL)",
-   "away": "Lillestrom",
-   "homeName": "Levski Sofia",
-   "awayName": "Lillestrom",
-   "homeLeague": null,
-   "awayLeague": "norway",
-   "homeSlug": null,
-   "awaySlug": "lillestrom",
-   "homeCountry": "BUL",
-   "awayCountry": "NOR",
-   "elo": [
-    1582,
-    1528
-   ],
-   "dr": 144,
-   "H": 0.543,
-   "D": 0.246,
-   "A": 0.212,
-   "xg": [
-    1.8,
-    1.1
-   ],
-   "O25": 0.542,
-   "btts": 0.554,
-   "scores": [
-    [
-     "1-1",
-     0.12
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "2-0",
-     0.091
-    ],
-    [
-     "0-0",
-     0.061
-    ],
-    [
-     "3-1",
-     0.059
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Brighton",
-   "away": "Monaco",
-   "homeName": "Brighton & Hove Albion",
-   "awayName": "Monaco",
-   "homeLeague": "pl",
-   "awayLeague": "ligue1",
-   "homeSlug": "brighton",
-   "awaySlug": "monaco",
-   "homeCountry": "ENG",
-   "awayCountry": "FRA",
-   "elo": [
-    2022,
-    1882
-   ],
-   "dr": 230,
-   "H": 0.65,
-   "D": 0.209,
-   "A": 0.142,
-   "xg": [
-    2.2,
-    0.9
-   ],
-   "O25": 0.581,
-   "btts": 0.53,
-   "scores": [
-    [
-     "2-0",
-     0.107
-    ],
-    [
-     "1-1",
-     0.102
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "3-0",
-     0.077
-    ],
-    [
-     "3-1",
-     0.07
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "St Truiden",
-   "away": "Ajax",
-   "homeName": "Sint-Truiden",
-   "awayName": "Ajax",
-   "homeLeague": "proleague",
-   "awayLeague": "eredivisie",
-   "homeSlug": "st-truiden",
-   "awaySlug": "ajax",
-   "homeCountry": "BEL",
-   "awayCountry": "NED",
-   "elo": [
-    1681,
-    1807
-   ],
-   "dr": -36,
-   "H": 0.322,
-   "D": 0.271,
-   "A": 0.407,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.088
-    ],
-    [
-     "1-2",
-     0.086
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Hearts",
-   "away": "Borac (BIH)",
-   "homeName": "Hearts",
-   "awayName": "Borac",
-   "homeLeague": "scotland",
-   "awayLeague": null,
-   "homeSlug": "hearts",
-   "awaySlug": null,
-   "homeCountry": "SCO",
-   "awayCountry": "BIH",
-   "elo": [
-    1511,
-    1412
-   ],
-   "dr": 189,
-   "H": 0.599,
-   "D": 0.228,
-   "A": 0.173,
-   "xg": [
-    2,
-    1
-   ],
-   "O25": 0.56,
-   "btts": 0.542,
-   "scores": [
-    [
-     "1-1",
-     0.112
-    ],
-    [
-     "2-0",
-     0.1
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.067
-    ],
-    [
-     "3-1",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Hajduk Split (CRO)",
-   "away": "Nordsjaelland",
-   "homeName": "Hajduk Split",
-   "awayName": "Nordsjaelland",
-   "homeLeague": null,
-   "awayLeague": "denmark",
-   "homeSlug": null,
-   "awaySlug": "nordsjaelland",
-   "homeCountry": "CRO",
-   "awayCountry": "DEN",
-   "elo": [
-    1555,
-    1716
-   ],
-   "dr": -71,
-   "H": 0.284,
-   "D": 0.266,
-   "A": 0.45,
-   "xg": [
-    1.2,
-    1.6
-   ],
-   "O25": 0.523,
-   "btts": 0.566,
-   "scores": [
-    [
-     "1-1",
-     0.13
-    ],
-    [
-     "0-1",
-     0.093
-    ],
-    [
-     "1-2",
-     0.091
-    ],
-    [
-     "0-2",
-     0.074
-    ],
-    [
-     "1-0",
-     0.071
-    ],
-    [
-     "2-1",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Aarhus",
-   "away": "Twente",
-   "homeName": "Aarhus",
-   "awayName": "Twente",
-   "homeLeague": "denmark",
-   "awayLeague": "eredivisie",
-   "homeSlug": "aarhus",
-   "awaySlug": "twente",
-   "homeCountry": "DEN",
-   "awayCountry": "NED",
-   "elo": [
-    1625,
-    1830
-   ],
-   "dr": -115,
-   "H": 0.239,
-   "D": 0.255,
-   "A": 0.505,
-   "xg": [
-    1.1,
-    1.7
-   ],
-   "O25": 0.533,
-   "btts": 0.56,
-   "scores": [
-    [
-     "1-1",
-     0.125
-    ],
-    [
-     "0-1",
-     0.097
-    ],
-    [
-     "1-2",
-     0.095
-    ],
-    [
-     "0-2",
-     0.084
-    ],
-    [
-     "0-0",
-     0.064
-    ],
-    [
-     "1-0",
-     0.062
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Thun",
-   "away": "Gent",
-   "homeName": "Thun",
-   "awayName": "Gent",
-   "homeLeague": "switzerland",
-   "awayLeague": "proleague",
-   "homeSlug": "thun",
-   "awaySlug": "gent",
-   "homeCountry": "SUI",
-   "awayCountry": "BEL",
-   "elo": [
-    1507,
-    1697
-   ],
-   "dr": -100,
-   "H": 0.254,
-   "D": 0.259,
-   "A": 0.486,
-   "xg": [
-    1.2,
-    1.7
-   ],
-   "O25": 0.529,
-   "btts": 0.562,
-   "scores": [
-    [
-     "1-1",
-     0.127
-    ],
-    [
-     "0-1",
-     0.095
-    ],
-    [
-     "1-2",
-     0.094
-    ],
-    [
-     "0-2",
-     0.081
-    ],
-    [
-     "1-0",
-     0.065
-    ],
-    [
-     "0-0",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Mjallby",
-   "away": "Pafos (CYP)",
-   "homeName": "Mjallby",
-   "awayName": "Pafos",
-   "homeLeague": "sweden",
-   "awayLeague": null,
-   "homeSlug": "mjallby",
-   "awaySlug": null,
-   "homeCountry": "SWE",
-   "awayCountry": "CYP",
-   "elo": [
-    1406,
-    1552
-   ],
-   "dr": -56,
-   "H": 0.3,
-   "D": 0.268,
-   "A": 0.432,
-   "xg": [
-    1.3,
-    1.6
-   ],
-   "O25": 0.521,
-   "btts": 0.568,
-   "scores": [
-    [
-     "1-1",
-     0.131
-    ],
-    [
-     "0-1",
-     0.091
-    ],
-    [
-     "1-2",
-     0.089
-    ],
-    [
-     "1-0",
-     0.073
-    ],
-    [
-     "2-1",
-     0.072
-    ],
-    [
-     "0-2",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-10T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Egnatia (ALB)",
-   "away": "Kauno Žalgiris (LTU)",
-   "homeName": "Egnatia",
-   "awayName": "Kauno Žalgiris",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "ALB",
-   "awayCountry": "LTU",
-   "elo": [
-    1459,
-    1286
-   ],
-   "dr": 263,
-   "H": 0.689,
-   "D": 0.192,
-   "A": 0.119,
-   "xg": [
-    2.3,
-    0.8
-   ],
-   "O25": 0.6,
-   "btts": 0.518,
-   "scores": [
-    [
-     "2-0",
-     0.111
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.094
-    ],
-    [
-     "3-0",
-     0.086
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Atalanta",
-   "away": "Mjallby",
-   "homeName": "Atalanta",
-   "awayName": "Mjallby",
-   "homeLeague": "seriea",
-   "awayLeague": "sweden",
-   "homeSlug": "atalanta",
-   "awaySlug": "mjallby",
-   "homeCountry": "ITA",
-   "awayCountry": "SWE",
-   "elo": [
-    1808,
-    1406
-   ],
-   "dr": 492,
-   "H": 0.9,
-   "D": 0.074,
-   "A": 0.026,
-   "xg": [
-    3.6,
-    0.5
-   ],
-   "O25": 0.774,
-   "btts": 0.412,
-   "scores": [
-    [
-     "3-0",
-     0.123
-    ],
-    [
-     "4-0",
-     0.11
-    ],
-    [
-     "2-0",
-     0.103
-    ],
-    [
-     "5-0",
-     0.078
-    ],
-    [
-     "3-1",
-     0.067
-    ],
-    [
-     "4-1",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Sp Braga",
-   "away": "Egnatia (ALB)",
-   "homeName": "Braga",
-   "awayName": "Egnatia",
-   "homeLeague": "primeira",
-   "awayLeague": null,
-   "homeSlug": "sp-braga",
-   "awaySlug": null,
-   "homeCountry": "POR",
-   "awayCountry": "ALB",
-   "elo": [
-    1782,
-    1459
-   ],
-   "dr": 412,
-   "H": 0.841,
-   "D": 0.112,
-   "A": 0.048,
-   "xg": [
-    3.1,
-    0.6
-   ],
-   "O25": 0.708,
-   "btts": 0.452,
-   "scores": [
-    [
-     "3-0",
-     0.117
-    ],
-    [
-     "2-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.09
-    ],
-    [
-     "3-1",
-     0.075
-    ],
-    [
-     "1-0",
-     0.074
-    ],
-    [
-     "2-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Ajax",
-   "away": "Getafe",
-   "homeName": "Ajax",
-   "awayName": "Getafe",
-   "homeLeague": "eredivisie",
-   "awayLeague": "laliga",
-   "homeSlug": "ajax",
-   "awaySlug": "getafe",
-   "homeCountry": "NED",
-   "awayCountry": "ESP",
-   "elo": [
-    1807,
-    1680
+    1849
    ],
    "dr": 217,
    "H": 0.634,
@@ -5210,79 +2130,471 @@
    ]
   },
   {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
    "round": "League Phase",
-   "home": "Monaco",
-   "away": "L. Red Imps (GIB)",
-   "homeName": "Monaco",
-   "awayName": "L. Red Imps",
-   "homeLeague": "ligue1",
-   "awayLeague": null,
-   "homeSlug": "monaco",
-   "awaySlug": null,
-   "homeCountry": "FRA",
-   "awayCountry": "GIB",
+   "home": "Benfica",
+   "away": "OFI Crete",
+   "homeName": "Benfica",
+   "awayName": "OFI",
+   "homeLeague": "primeira",
+   "awayLeague": "superleague",
+   "homeSlug": "benfica",
+   "awaySlug": "ofi-crete",
+   "homeCountry": "POR",
+   "awayCountry": "GRE",
    "elo": [
-    1882,
-    1274
+    1988,
+    1430
    ],
-   "dr": 697,
-   "H": 0.98,
-   "D": 0.016,
-   "A": 0.004,
+   "dr": 647,
+   "H": 0.968,
+   "D": 0.025,
+   "A": 0.006,
    "xg": [
-    5.3,
+    4.8,
     0.4
    ],
-   "O25": 0.918,
-   "btts": 0.309,
+   "O25": 0.889,
+   "btts": 0.333,
    "scores": [
     [
-     "5-0",
+     "4-0",
      0.122
     ],
     [
-     "4-0",
-     0.116
+     "5-0",
+     0.117
     ],
     [
      "3-0",
-     0.088
+     0.102
     ],
     [
      "2-0",
+     0.063
+    ],
+    [
+     "4-1",
      0.05
     ],
     [
      "5-1",
-     0.045
-    ],
-    [
-     "4-1",
-     0.043
+     0.048
     ]
    ]
   },
   {
-   "kickoff": "2026-12-17T20:00:00Z",
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Milan",
+   "away": "Sunderland",
+   "homeName": "AC Milan",
+   "awayName": "Sunderland",
+   "homeLeague": "seriea",
+   "awayLeague": "pl",
+   "homeSlug": "milan",
+   "awaySlug": "sunderland",
+   "homeCountry": "ITA",
+   "awayCountry": "ENG",
+   "elo": [
+    1934,
+    1858
+   ],
+   "dr": 166,
+   "H": 0.571,
+   "D": 0.237,
+   "A": 0.192,
+   "xg": [
+    1.9,
+    1
+   ],
+   "O25": 0.551,
+   "btts": 0.548,
+   "scores": [
+    [
+     "1-1",
+     0.116
+    ],
+    [
+     "1-0",
+     0.099
+    ],
+    [
+     "2-1",
+     0.097
+    ],
+    [
+     "2-0",
+     0.095
+    ],
+    [
+     "3-1",
+     0.062
+    ],
+    [
+     "3-0",
+     0.061
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Lyon",
+   "away": "St. Gilloise",
+   "homeName": "Olympique Lyonnais",
+   "awayName": "Union Saint-Gilloise",
+   "homeLeague": "ligue1",
+   "awayLeague": "proleague",
+   "homeSlug": "lyon",
+   "awaySlug": "st-gilloise",
+   "homeCountry": "FRA",
+   "awayCountry": "BEL",
+   "elo": [
+    1816,
+    1876
+   ],
+   "dr": 31,
+   "H": 0.4,
+   "D": 0.271,
+   "A": 0.328,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.518,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "1-0",
+     0.087
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.078
+    ],
+    [
+     "1-2",
+     0.076
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Sociedad",
+   "away": "Torreense (POR)",
+   "homeName": "Real Sociedad",
+   "awayName": "Torreense",
+   "homeLeague": "laliga",
+   "awayLeague": null,
+   "homeSlug": "sociedad",
+   "awaySlug": null,
+   "homeCountry": "ESP",
+   "awayCountry": "POR",
+   "elo": [
+    1810,
+    1427
+   ],
+   "dr": 473,
+   "H": 0.888,
+   "D": 0.082,
+   "A": 0.03,
+   "xg": [
+    3.4,
+    0.6
+   ],
+   "O25": 0.758,
+   "btts": 0.422,
+   "scores": [
+    [
+     "3-0",
+     0.122
+    ],
+    [
+     "2-0",
+     0.106
+    ],
+    [
+     "4-0",
+     0.105
+    ],
+    [
+     "5-0",
+     0.073
+    ],
+    [
+     "3-1",
+     0.069
+    ],
+    [
+     "1-0",
+     0.062
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Salzburg",
+   "away": "Sparta Praha (CZE)",
+   "homeName": "Salzburg",
+   "awayName": "Sparta Praha",
+   "homeLeague": "austria",
+   "awayLeague": null,
+   "homeSlug": "salzburg",
+   "awaySlug": null,
+   "homeCountry": "AUT",
+   "awayCountry": "CZE",
+   "elo": [
+    1700,
+    1655
+   ],
+   "dr": 135,
+   "H": 0.531,
+   "D": 0.249,
+   "A": 0.22,
+   "xg": [
+    1.8,
+    1.1
+   ],
+   "O25": 0.539,
+   "btts": 0.556,
+   "scores": [
+    [
+     "1-1",
+     0.122
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "2-0",
+     0.089
+    ],
+    [
+     "0-0",
+     0.062
+    ],
+    [
+     "0-1",
+     0.059
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Lech Poznan",
+   "away": "Ferencváros (HUN)",
+   "homeName": "Lech Poznan",
+   "awayName": "Ferencváros",
+   "homeLeague": "poland",
+   "awayLeague": null,
+   "homeSlug": "lech-poznan",
+   "awaySlug": null,
+   "homeCountry": "POL",
+   "awayCountry": "HUN",
+   "elo": [
+    1696,
+    1787
+   ],
+   "dr": -1,
+   "H": 0.363,
+   "D": 0.272,
+   "A": 0.365,
+   "xg": [
+    1.4,
+    1.4
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.083
+    ],
+    [
+     "1-0",
+     0.083
+    ],
+    [
+     "1-2",
+     0.081
+    ],
+    [
+     "2-1",
+     0.081
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Bournemouth",
+   "away": "Viktoria Plzeň (CZE)",
+   "homeName": "AFC Bournemouth",
+   "awayName": "Viktoria Plzeň",
+   "homeLeague": "pl",
+   "awayLeague": null,
+   "homeSlug": "bournemouth",
+   "awaySlug": null,
+   "homeCountry": "ENG",
+   "awayCountry": "CZE",
+   "elo": [
+    1984,
+    1745
+   ],
+   "dr": 329,
+   "H": 0.762,
+   "D": 0.156,
+   "A": 0.082,
+   "xg": [
+    2.6,
+    0.7
+   ],
+   "O25": 0.644,
+   "btts": 0.491,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.102
+    ],
+    [
+     "1-0",
+     0.089
+    ],
+    [
+     "2-1",
+     0.087
+    ],
+    [
+     "1-1",
+     0.076
+    ],
+    [
+     "3-1",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Levski Sofia (BUL)",
+   "away": "Lillestrom",
+   "homeName": "Levski Sofia",
+   "awayName": "Lillestrom",
+   "homeLeague": null,
+   "awayLeague": "norway",
+   "homeSlug": null,
+   "awaySlug": "lillestrom",
+   "homeCountry": "BUL",
+   "awayCountry": "NOR",
+   "elo": [
+    1579,
+    1532
+   ],
+   "dr": 137,
+   "H": 0.534,
+   "D": 0.248,
+   "A": 0.218,
+   "xg": [
+    1.8,
+    1.1
+   ],
+   "O25": 0.54,
+   "btts": 0.555,
+   "scores": [
+    [
+     "1-1",
+     0.122
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "2-0",
+     0.089
+    ],
+    [
+     "0-0",
+     0.062
+    ],
+    [
+     "3-1",
+     0.058
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
    "comp": "conf",
    "compName": "Conference League",
    "round": "League Phase",
-   "home": "Midtjylland",
-   "away": "Hajduk Split (CRO)",
-   "homeName": "Midtjylland",
-   "awayName": "Hajduk Split",
-   "homeLeague": "denmark",
-   "awayLeague": null,
-   "homeSlug": "midtjylland",
-   "awaySlug": null,
-   "homeCountry": "DEN",
-   "awayCountry": "CRO",
+   "home": "Brighton",
+   "away": "Monaco",
+   "homeName": "Brighton & Hove Albion",
+   "awayName": "Monaco",
+   "homeLeague": "pl",
+   "awayLeague": "ligue1",
+   "homeSlug": "brighton",
+   "awaySlug": "monaco",
+   "homeCountry": "ENG",
+   "awayCountry": "FRA",
    "elo": [
-    1703,
-    1555
+    2028,
+    1880
    ],
    "dr": 238,
    "H": 0.659,
@@ -5322,2375 +2634,23 @@
    ]
   },
   {
-   "kickoff": "2026-12-17T20:00:00Z",
+   "kickoff": "2026-12-10T20:00:00Z",
    "comp": "conf",
    "compName": "Conference League",
    "round": "League Phase",
-   "home": "Crvena Zvezda (SRB)",
-   "away": "Trabzonspor",
-   "homeName": "Crvena Zvezda",
-   "awayName": "Trabzonspor",
-   "homeLeague": null,
-   "awayLeague": "superlig",
-   "homeSlug": null,
-   "awaySlug": "trabzonspor",
-   "homeCountry": "SRB",
-   "awayCountry": "TUR",
-   "elo": [
-    1666,
-    1792
-   ],
-   "dr": -35,
-   "H": 0.323,
-   "D": 0.271,
-   "A": 0.406,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.088
-    ],
-    [
-     "1-2",
-     0.086
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Gent",
-   "away": "Brann",
-   "homeName": "Gent",
-   "awayName": "Brann",
+   "home": "St Truiden",
+   "away": "Ajax",
+   "homeName": "Sint-Truiden",
+   "awayName": "Ajax",
    "homeLeague": "proleague",
-   "awayLeague": "norway",
-   "homeSlug": "gent",
-   "awaySlug": "brann",
+   "awayLeague": "eredivisie",
+   "homeSlug": "st-truiden",
+   "awaySlug": "ajax",
    "homeCountry": "BEL",
-   "awayCountry": "NOR",
-   "elo": [
-    1697,
-    1575
-   ],
-   "dr": 212,
-   "H": 0.628,
-   "D": 0.217,
-   "A": 0.155,
-   "xg": [
-    2.1,
-    0.9
-   ],
-   "O25": 0.572,
-   "btts": 0.535,
-   "scores": [
-    [
-     "1-1",
-     0.106
-    ],
-    [
-     "2-0",
-     0.104
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.073
-    ],
-    [
-     "3-1",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Panathinaikos",
-   "away": "Brighton",
-   "homeName": "Panathinaikos",
-   "awayName": "Brighton & Hove Albion",
-   "homeLeague": "superleague",
-   "awayLeague": "pl",
-   "homeSlug": "panathinaikos",
-   "awaySlug": "brighton",
-   "homeCountry": "GRE",
-   "awayCountry": "ENG",
-   "elo": [
-    1801,
-    2022
-   ],
-   "dr": -131,
-   "H": 0.224,
-   "D": 0.25,
-   "A": 0.526,
-   "xg": [
-    1.1,
-    1.8
-   ],
-   "O25": 0.538,
-   "btts": 0.557,
-   "scores": [
-    [
-     "1-1",
-     0.123
-    ],
-    [
-     "0-1",
-     0.098
-    ],
-    [
-     "1-2",
-     0.096
-    ],
-    [
-     "0-2",
-     0.088
-    ],
-    [
-     "0-0",
-     0.063
-    ],
-    [
-     "1-0",
-     0.059
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Pafos (CYP)",
-   "away": "Hearts",
-   "homeName": "Pafos",
-   "awayName": "Hearts",
-   "homeLeague": null,
-   "awayLeague": "scotland",
-   "homeSlug": null,
-   "awaySlug": "hearts",
-   "homeCountry": "CYP",
-   "awayCountry": "SCO",
-   "elo": [
-    1552,
-    1511
-   ],
-   "dr": 131,
-   "H": 0.526,
-   "D": 0.25,
-   "A": 0.224,
-   "xg": [
-    1.8,
-    1.1
-   ],
-   "O25": 0.538,
-   "btts": 0.557,
-   "scores": [
-    [
-     "1-1",
-     0.123
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "2-0",
-     0.088
-    ],
-    [
-     "0-0",
-     0.063
-    ],
-    [
-     "0-1",
-     0.059
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Lugano",
-   "away": "St Truiden",
-   "homeName": "Lugano",
-   "awayName": "Sint-Truiden",
-   "homeLeague": "switzerland",
-   "awayLeague": "proleague",
-   "homeSlug": "lugano",
-   "awaySlug": "st-truiden",
-   "homeCountry": "SUI",
-   "awayCountry": "BEL",
-   "elo": [
-    1671,
-    1681
-   ],
-   "dr": 80,
-   "H": 0.461,
-   "D": 0.264,
-   "A": 0.275,
-   "xg": [
-    1.6,
-    1.2
-   ],
-   "O25": 0.525,
-   "btts": 0.565,
-   "scores": [
-    [
-     "1-1",
-     0.129
-    ],
-    [
-     "1-0",
-     0.094
-    ],
-    [
-     "2-1",
-     0.092
-    ],
-    [
-     "2-0",
-     0.076
-    ],
-    [
-     "0-1",
-     0.069
-    ],
-    [
-     "1-2",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Twente",
-   "away": "Kairat Almaty (KAZ)",
-   "homeName": "Twente",
-   "awayName": "Kairat Almaty",
-   "homeLeague": "eredivisie",
-   "awayLeague": null,
-   "homeSlug": "twente",
-   "awaySlug": null,
-   "homeCountry": "NED",
-   "awayCountry": "KAZ",
-   "elo": [
-    1830,
-    1430
-   ],
-   "dr": 491,
-   "H": 0.899,
-   "D": 0.075,
-   "A": 0.026,
-   "xg": [
-    3.6,
-    0.5
-   ],
-   "O25": 0.772,
-   "btts": 0.413,
-   "scores": [
-    [
-     "3-0",
-     0.123
-    ],
-    [
-     "4-0",
-     0.109
-    ],
-    [
-     "2-0",
-     0.103
-    ],
-    [
-     "5-0",
-     0.078
-    ],
-    [
-     "3-1",
-     0.067
-    ],
-    [
-     "4-1",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Borac (BIH)",
-   "away": "Riga (LVA)",
-   "homeName": "Borac",
-   "awayName": "Riga",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "BIH",
-   "awayCountry": "LVA",
-   "elo": [
-    1412,
-    1458
-   ],
-   "dr": 44,
-   "H": 0.416,
-   "D": 0.27,
-   "A": 0.314,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.519,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "1-0",
-     0.089
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "0-1",
-     0.076
-    ],
-    [
-     "1-2",
-     0.074
-    ],
-    [
-     "2-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Univ. Craiova",
-   "away": "FC Copenhagen",
-   "homeName": "Univ. Craiova",
-   "awayName": "FC Copenhagen",
-   "homeLeague": "romania",
-   "awayLeague": "denmark",
-   "homeSlug": "univ-craiova",
-   "awaySlug": "fc-copenhagen",
-   "homeCountry": "ROU",
-   "awayCountry": "DEN",
-   "elo": [
-    1731,
-    1765
-   ],
-   "dr": 56,
-   "H": 0.432,
-   "D": 0.268,
-   "A": 0.3,
-   "xg": [
-    1.6,
-    1.3
-   ],
-   "O25": 0.521,
-   "btts": 0.568,
-   "scores": [
-    [
-     "1-1",
-     0.131
-    ],
-    [
-     "1-0",
-     0.091
-    ],
-    [
-     "2-1",
-     0.089
-    ],
-    [
-     "0-1",
-     0.073
-    ],
-    [
-     "1-2",
-     0.072
-    ],
-    [
-     "2-0",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Jablonec (CZE)",
-   "away": "Iberia Tbilisi (GEO)",
-   "homeName": "Jablonec",
-   "awayName": "Iberia Tbilisi",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "CZE",
-   "awayCountry": "GEO",
-   "elo": [
-    1591,
-    1298
-   ],
-   "dr": 383,
-   "H": 0.815,
-   "D": 0.127,
-   "A": 0.058,
-   "xg": [
-    2.9,
-    0.7
-   ],
-   "O25": 0.685,
-   "btts": 0.466,
-   "scores": [
-    [
-     "2-0",
-     0.116
-    ],
-    [
-     "3-0",
-     0.113
-    ],
-    [
-     "4-0",
-     0.082
-    ],
-    [
-     "1-0",
-     0.08
-    ],
-    [
-     "2-1",
-     0.078
-    ],
-    [
-     "3-1",
-     0.076
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Nordsjaelland",
-   "away": "KuPS",
-   "homeName": "Nordsjaelland",
-   "awayName": "KuPS",
-   "homeLeague": "denmark",
-   "awayLeague": "finland",
-   "homeSlug": "nordsjaelland",
-   "awaySlug": "kups",
-   "homeCountry": "DEN",
-   "awayCountry": "FIN",
-   "elo": [
-    1716,
-    1389
-   ],
-   "dr": 417,
-   "H": 0.845,
-   "D": 0.109,
-   "A": 0.046,
-   "xg": [
-    3.1,
-    0.6
-   ],
-   "O25": 0.712,
-   "btts": 0.45,
-   "scores": [
-    [
-     "3-0",
-     0.118
-    ],
-    [
-     "2-0",
-     0.114
-    ],
-    [
-     "4-0",
-     0.091
-    ],
-    [
-     "3-1",
-     0.074
-    ],
-    [
-     "1-0",
-     0.074
-    ],
-    [
-     "2-1",
-     0.072
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Inter Escaldes (AND)",
-   "away": "Aarhus",
-   "homeName": "Inter Escaldes",
-   "awayName": "Aarhus",
-   "homeLeague": null,
-   "awayLeague": "denmark",
-   "homeSlug": null,
-   "awaySlug": "aarhus",
-   "homeCountry": "AND",
-   "awayCountry": "DEN",
-   "elo": [
-    1331,
-    1625
-   ],
-   "dr": -205,
-   "H": 0.161,
-   "D": 0.221,
-   "A": 0.619,
-   "xg": [
-    0.9,
-    2.1
-   ],
-   "O25": 0.568,
-   "btts": 0.538,
-   "scores": [
-    [
-     "1-1",
-     0.108
-    ],
-    [
-     "0-2",
-     0.103
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.071
-    ],
-    [
-     "1-3",
-     0.067
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "CSKA Sofia (BUL)",
-   "away": "Thun",
-   "homeName": "CSKA Sofia",
-   "awayName": "Thun",
-   "homeLeague": null,
-   "awayLeague": "switzerland",
-   "homeSlug": null,
-   "awaySlug": "thun",
-   "homeCountry": "BUL",
-   "awayCountry": "SUI",
-   "elo": [
-    1487,
-    1507
-   ],
-   "dr": 70,
-   "H": 0.449,
-   "D": 0.266,
-   "A": 0.285,
-   "xg": [
-    1.6,
-    1.2
-   ],
-   "O25": 0.523,
-   "btts": 0.566,
-   "scores": [
-    [
-     "1-1",
-     0.13
-    ],
-    [
-     "1-0",
-     0.092
-    ],
-    [
-     "2-1",
-     0.091
-    ],
-    [
-     "2-0",
-     0.074
-    ],
-    [
-     "0-1",
-     0.071
-    ],
-    [
-     "1-2",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2026-12-17T20:00:00Z",
-   "comp": "conf",
-   "compName": "Conference League",
-   "round": "League Phase",
-   "home": "Kauno Žalgiris (LTU)",
-   "away": "Freiburg",
-   "homeName": "Kauno Žalgiris",
-   "awayName": "SC Freiburg",
-   "homeLeague": null,
-   "awayLeague": "bundesliga",
-   "homeSlug": null,
-   "awaySlug": "freiburg",
-   "homeCountry": "LTU",
-   "awayCountry": "GER",
-   "elo": [
-    1286,
-    1828
-   ],
-   "dr": -452,
-   "H": 0.036,
-   "D": 0.092,
-   "A": 0.873,
-   "xg": [
-    0.6,
-    3.3
-   ],
-   "O25": 0.741,
-   "btts": 0.432,
-   "scores": [
-    [
-     "0-3",
-     0.121
-    ],
-    [
-     "0-2",
-     0.11
-    ],
-    [
-     "0-4",
-     0.1
-    ],
-    [
-     "1-3",
-     0.072
-    ],
-    [
-     "0-5",
-     0.067
-    ],
-    [
-     "0-1",
-     0.066
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T17:45:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Bodo/Glimt",
-   "away": "Ath Madrid",
-   "homeName": "Bodo/Glimt",
-   "awayName": "Atlético Madrid",
-   "homeLeague": "norway",
-   "awayLeague": "laliga",
-   "homeSlug": "bodo-glimt",
-   "awaySlug": "ath-madrid",
-   "homeCountry": "NOR",
-   "awayCountry": "ESP",
-   "elo": [
-    1877,
-    1992
-   ],
-   "dr": -25,
-   "H": 0.335,
-   "D": 0.272,
-   "A": 0.394,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.087
-    ],
-    [
-     "1-2",
-     0.085
-    ],
-    [
-     "1-0",
-     0.079
-    ],
-    [
-     "2-1",
-     0.077
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T17:45:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Galatasaray",
-   "away": "Feyenoord",
-   "homeName": "Galatasaray",
-   "awayName": "Feyenoord",
-   "homeLeague": "superlig",
-   "awayLeague": "eredivisie",
-   "homeSlug": "galatasaray",
-   "awaySlug": "feyenoord",
-   "homeCountry": "TUR",
    "awayCountry": "NED",
    "elo": [
-    1835,
-    1794
-   ],
-   "dr": 130,
-   "H": 0.525,
-   "D": 0.25,
-   "A": 0.224,
-   "xg": [
-    1.8,
-    1.1
-   ],
-   "O25": 0.538,
-   "btts": 0.557,
-   "scores": [
-    [
-     "1-1",
-     0.123
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "2-0",
-     0.088
-    ],
-    [
-     "0-0",
-     0.063
-    ],
-    [
-     "0-1",
-     0.059
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Real Madrid",
-   "away": "LASK",
-   "homeName": "Real Madrid",
-   "awayName": "LASK",
-   "homeLeague": "laliga",
-   "awayLeague": "austria",
-   "homeSlug": "real-madrid",
-   "awaySlug": "lask",
-   "homeCountry": "ESP",
-   "awayCountry": "AUT",
-   "elo": [
-    2135,
-    1717
-   ],
-   "dr": 509,
-   "H": 0.91,
-   "D": 0.067,
-   "A": 0.023,
-   "xg": [
-    3.7,
-    0.5
-   ],
-   "O25": 0.787,
-   "btts": 0.404,
-   "scores": [
-    [
-     "3-0",
-     0.122
-    ],
-    [
-     "4-0",
-     0.113
-    ],
-    [
-     "2-0",
-     0.1
-    ],
-    [
-     "5-0",
-     0.083
-    ],
-    [
-     "3-1",
-     0.065
-    ],
-    [
-     "4-1",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Inter",
-   "away": "Liverpool",
-   "homeName": "Inter",
-   "awayName": "Liverpool",
-   "homeLeague": "seriea",
-   "awayLeague": "pl",
-   "homeSlug": "inter",
-   "awaySlug": "liverpool",
-   "homeCountry": "ITA",
-   "awayCountry": "ENG",
-   "elo": [
-    2044,
-    2079
-   ],
-   "dr": 56,
-   "H": 0.431,
-   "D": 0.268,
-   "A": 0.3,
-   "xg": [
-    1.6,
-    1.3
-   ],
-   "O25": 0.52,
-   "btts": 0.568,
-   "scores": [
-    [
-     "1-1",
-     0.131
-    ],
-    [
-     "1-0",
-     0.091
-    ],
-    [
-     "2-1",
-     0.089
-    ],
-    [
-     "0-1",
-     0.073
-    ],
-    [
-     "1-2",
-     0.072
-    ],
-    [
-     "2-0",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Aston Villa",
-   "away": "Dortmund",
-   "homeName": "Aston Villa",
-   "awayName": "Borussia Dortmund",
-   "homeLeague": "pl",
-   "awayLeague": "bundesliga",
-   "homeSlug": "aston-villa",
-   "awaySlug": "dortmund",
-   "homeCountry": "ENG",
-   "awayCountry": "GER",
-   "elo": [
-    1933,
-    1931
-   ],
-   "dr": 93,
-   "H": 0.478,
-   "D": 0.261,
-   "A": 0.261,
-   "xg": [
-    1.7,
-    1.2
-   ],
-   "O25": 0.527,
-   "btts": 0.563,
-   "scores": [
-    [
-     "1-1",
-     0.128
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "2-0",
-     0.079
-    ],
-    [
-     "0-1",
-     0.067
-    ],
-    [
-     "0-0",
-     0.065
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Porto",
-   "away": "Slavia Praha (CZE)",
-   "homeName": "Porto",
-   "awayName": "Slavia Praha",
-   "homeLeague": "primeira",
-   "awayLeague": null,
-   "homeSlug": "porto",
-   "awaySlug": null,
-   "homeCountry": "POR",
-   "awayCountry": "CZE",
-   "elo": [
-    1967,
-    1648
-   ],
-   "dr": 409,
-   "H": 0.838,
-   "D": 0.113,
-   "A": 0.049,
-   "xg": [
-    3.1,
-    0.6
-   ],
-   "O25": 0.706,
-   "btts": 0.454,
-   "scores": [
-    [
-     "3-0",
-     0.117
-    ],
-    [
-     "2-0",
-     0.115
-    ],
-    [
-     "4-0",
-     0.089
-    ],
-    [
-     "1-0",
-     0.075
-    ],
-    [
-     "3-1",
-     0.075
-    ],
-    [
-     "2-1",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Lille",
-   "away": "S. Bratislava (SVK)",
-   "homeName": "Lille",
-   "awayName": "S. Bratislava",
-   "homeLeague": "ligue1",
-   "awayLeague": null,
-   "homeSlug": "lille",
-   "awaySlug": null,
-   "homeCountry": "FRA",
-   "awayCountry": "SVK",
-   "elo": [
-    1812,
-    1502
-   ],
-   "dr": 400,
-   "H": 0.83,
-   "D": 0.118,
-   "A": 0.052,
-   "xg": [
-    3,
-    0.7
-   ],
-   "O25": 0.698,
-   "btts": 0.458,
-   "scores": [
-    [
-     "3-0",
-     0.115
-    ],
-    [
-     "2-0",
-     0.115
-    ],
-    [
-     "4-0",
-     0.086
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "3-1",
-     0.075
-    ],
-    [
-     "2-1",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Stuttgart",
-   "away": "Club Brugge",
-   "homeName": "VfB Stuttgart",
-   "awayName": "Club Brugge",
-   "homeLeague": "bundesliga",
-   "awayLeague": "proleague",
-   "homeSlug": "stuttgart",
-   "awaySlug": "club-brugge",
-   "homeCountry": "GER",
-   "awayCountry": "BEL",
-   "elo": [
-    1854,
-    1913
-   ],
-   "dr": 30,
-   "H": 0.4,
-   "D": 0.271,
-   "A": 0.329,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.087
-    ],
-    [
-     "2-1",
-     0.086
-    ],
-    [
-     "0-1",
-     0.078
-    ],
-    [
-     "1-2",
-     0.076
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-19T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "AEK",
-   "away": "Roma",
-   "homeName": "AEK Athens",
-   "awayName": "AS Roma",
-   "homeLeague": "superleague",
-   "awayLeague": "seriea",
-   "homeSlug": "aek",
-   "awaySlug": "roma",
-   "homeCountry": "GRE",
-   "awayCountry": "ITA",
-   "elo": [
-    1763,
-    1970
-   ],
-   "dr": -117,
-   "H": 0.237,
-   "D": 0.255,
-   "A": 0.508,
-   "xg": [
-    1.1,
-    1.7
-   ],
-   "O25": 0.534,
-   "btts": 0.559,
-   "scores": [
-    [
-     "1-1",
-     0.125
-    ],
-    [
-     "0-1",
-     0.097
-    ],
-    [
-     "1-2",
-     0.095
-    ],
-    [
-     "0-2",
-     0.085
-    ],
-    [
-     "0-0",
-     0.064
-    ],
-    [
-     "1-0",
-     0.062
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T17:45:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Fenerbahce",
-   "away": "Villarreal",
-   "homeName": "Fenerbahçe",
-   "awayName": "Villarreal",
-   "homeLeague": "superlig",
-   "awayLeague": "laliga",
-   "homeSlug": "fenerbahce",
-   "awaySlug": "villarreal",
-   "homeCountry": "TUR",
-   "awayCountry": "ESP",
-   "elo": [
-    1812,
-    1858
-   ],
-   "dr": 44,
-   "H": 0.416,
-   "D": 0.27,
-   "A": 0.314,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.519,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "1-0",
-     0.089
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "0-1",
-     0.076
-    ],
-    [
-     "1-2",
-     0.074
-    ],
-    [
-     "2-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T17:45:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Sabah (AZE)",
-   "away": "Napoli",
-   "homeName": "Sabah",
-   "awayName": "Napoli",
-   "homeLeague": null,
-   "awayLeague": "seriea",
-   "homeSlug": null,
-   "awaySlug": "napoli",
-   "homeCountry": "AZE",
-   "awayCountry": "ITA",
-   "elo": [
-    1511,
-    1900
-   ],
-   "dr": -298,
-   "H": 0.098,
-   "D": 0.173,
-   "A": 0.729,
-   "xg": [
-    0.8,
-    2.5
-   ],
-   "O25": 0.623,
-   "btts": 0.504,
-   "scores": [
-    [
-     "0-2",
-     0.115
-    ],
-    [
-     "0-3",
-     0.095
-    ],
-    [
-     "0-1",
-     0.093
-    ],
-    [
-     "1-2",
-     0.091
-    ],
-    [
-     "1-1",
-     0.085
-    ],
-    [
-     "1-3",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Sp Lisbon",
-   "away": "Barcelona",
-   "homeName": "Sporting CP",
-   "awayName": "Barcelona",
-   "homeLeague": "primeira",
-   "awayLeague": "laliga",
-   "homeSlug": "sp-lisbon",
-   "awaySlug": "barcelona",
-   "homeCountry": "POR",
-   "awayCountry": "ESP",
-   "elo": [
-    1918,
-    2169
-   ],
-   "dr": -161,
-   "H": 0.196,
-   "D": 0.239,
-   "A": 0.564,
-   "xg": [
-    1,
-    1.9
-   ],
-   "O25": 0.549,
-   "btts": 0.55,
-   "scores": [
-    [
-     "1-1",
-     0.117
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-2",
-     0.094
-    ],
-    [
-     "1-3",
-     0.062
-    ],
-    [
-     "0-0",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Man United",
-   "away": "Bayern Munich",
-   "homeName": "Manchester United",
-   "awayName": "Bayern Munich",
-   "homeLeague": "pl",
-   "awayLeague": "bundesliga",
-   "homeSlug": "man-united",
-   "awaySlug": "bayern-munich",
-   "homeCountry": "ENG",
-   "awayCountry": "GER",
-   "elo": [
-    1963,
-    2162
-   ],
-   "dr": -109,
-   "H": 0.245,
-   "D": 0.257,
-   "A": 0.498,
-   "xg": [
-    1.1,
-    1.7
-   ],
-   "O25": 0.531,
-   "btts": 0.561,
-   "scores": [
-    [
-     "1-1",
-     0.126
-    ],
-    [
-     "0-1",
-     0.096
-    ],
-    [
-     "1-2",
-     0.094
-    ],
-    [
-     "0-2",
-     0.083
-    ],
-    [
-     "0-0",
-     0.064
-    ],
-    [
-     "1-0",
-     0.063
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Betis",
-   "away": "Arsenal",
-   "homeName": "Real Betis",
-   "awayName": "Arsenal",
-   "homeLeague": "laliga",
-   "awayLeague": "pl",
-   "homeSlug": "betis",
-   "awaySlug": "arsenal",
-   "homeCountry": "ESP",
-   "awayCountry": "ENG",
-   "elo": [
-    1886,
-    2157
-   ],
-   "dr": -181,
-   "H": 0.18,
-   "D": 0.231,
-   "A": 0.589,
-   "xg": [
-    1,
-    2
-   ],
-   "O25": 0.557,
-   "btts": 0.545,
-   "scores": [
-    [
-     "1-1",
-     0.113
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "0-2",
-     0.098
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-3",
-     0.065
-    ],
-    [
-     "1-3",
-     0.064
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "RB Leipzig",
-   "away": "Shakhtar (UKR)",
-   "homeName": "RB Leipzig",
-   "awayName": "Shakhtar",
-   "homeLeague": "bundesliga",
-   "awayLeague": null,
-   "homeSlug": "rb-leipzig",
-   "awaySlug": null,
-   "homeCountry": "GER",
-   "awayCountry": "UKR",
-   "elo": [
-    1921,
-    1738
-   ],
-   "dr": 273,
-   "H": 0.7,
-   "D": 0.187,
-   "A": 0.113,
-   "xg": [
-    2.4,
-    0.8
-   ],
-   "O25": 0.606,
-   "btts": 0.514,
-   "scores": [
-    [
-     "2-0",
-     0.112
-    ],
-    [
-     "1-0",
-     0.096
-    ],
-    [
-     "2-1",
-     0.094
-    ],
-    [
-     "1-1",
-     0.092
-    ],
-    [
-     "3-0",
-     0.088
-    ],
-    [
-     "3-1",
-     0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Como",
-   "away": "Paris SG",
-   "homeName": "Como",
-   "awayName": "Paris Saint-Germain",
-   "homeLeague": "seriea",
-   "awayLeague": "ligue1",
-   "homeSlug": "como",
-   "awaySlug": "paris-sg",
-   "homeCountry": "ITA",
-   "awayCountry": "FRA",
-   "elo": [
-    1973,
-    2100
-   ],
-   "dr": -37,
-   "H": 0.321,
-   "D": 0.271,
-   "A": 0.408,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.088
-    ],
-    [
-     "1-2",
-     0.087
-    ],
-    [
-     "1-0",
-     0.077
-    ],
-    [
-     "2-1",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Lens",
-   "away": "Man City",
-   "homeName": "Lens",
-   "awayName": "Manchester City",
-   "homeLeague": "ligue1",
-   "awayLeague": "pl",
-   "homeSlug": "lens",
-   "awaySlug": "man-city",
-   "homeCountry": "FRA",
-   "awayCountry": "ENG",
-   "elo": [
-    1792,
-    2122
-   ],
-   "dr": -239,
-   "H": 0.135,
-   "D": 0.204,
-   "A": 0.661,
-   "xg": [
-    0.9,
-    2.2
-   ],
-   "O25": 0.586,
-   "btts": 0.526,
-   "scores": [
-    [
-     "0-2",
-     0.108
-    ],
-    [
-     "1-1",
-     0.1
-    ],
-    [
-     "0-1",
-     0.098
-    ],
-    [
-     "1-2",
-     0.096
-    ],
-    [
-     "0-3",
-     0.08
-    ],
-    [
-     "1-3",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-20T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Viking",
-   "away": "PSV Eindhoven",
-   "homeName": "Viking",
-   "awayName": "PSV",
-   "homeLeague": "norway",
-   "awayLeague": "eredivisie",
-   "homeSlug": "viking",
-   "awaySlug": "psv-eindhoven",
-   "homeCountry": "NOR",
-   "awayCountry": "NED",
-   "elo": [
-    1714,
-    1848
-   ],
-   "dr": -44,
-   "H": 0.314,
-   "D": 0.27,
-   "A": 0.416,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.519,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "0-1",
-     0.089
-    ],
-    [
-     "1-2",
-     0.087
-    ],
-    [
-     "1-0",
-     0.076
-    ],
-    [
-     "2-1",
-     0.074
-    ],
-    [
-     "0-2",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Olympiakos",
-   "away": "Hoffenheim",
-   "homeName": "Olympiacos",
-   "awayName": "Hoffenheim",
-   "homeLeague": "superleague",
-   "awayLeague": "bundesliga",
-   "homeSlug": "olympiakos",
-   "awaySlug": "hoffenheim",
-   "homeCountry": "GRE",
-   "awayCountry": "GER",
-   "elo": [
-    1782,
-    1835
-   ],
-   "dr": 37,
-   "H": 0.408,
-   "D": 0.271,
-   "A": 0.321,
-   "xg": [
-    1.5,
-    1.3
-   ],
-   "O25": 0.518,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "1-0",
-     0.088
-    ],
-    [
-     "2-1",
-     0.087
-    ],
-    [
-     "0-1",
-     0.077
-    ],
-    [
-     "1-2",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sociedad",
-   "away": "Viktoria Plzeň (CZE)",
-   "homeName": "Real Sociedad",
-   "awayName": "Viktoria Plzeň",
-   "homeLeague": "laliga",
-   "awayLeague": null,
-   "homeSlug": "sociedad",
-   "awaySlug": null,
-   "homeCountry": "ESP",
-   "awayCountry": "CZE",
-   "elo": [
-    1826,
-    1709
-   ],
-   "dr": 207,
-   "H": 0.622,
-   "D": 0.22,
-   "A": 0.159,
-   "xg": [
-    2.1,
-    0.9
-   ],
-   "O25": 0.569,
-   "btts": 0.537,
-   "scores": [
-    [
-     "1-1",
-     0.108
-    ],
-    [
-     "2-0",
-     0.103
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.071
-    ],
-    [
-     "3-1",
-     0.067
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Ferencváros (HUN)",
-   "away": "Juventus",
-   "homeName": "Ferencváros",
-   "awayName": "Juventus",
-   "homeLeague": null,
-   "awayLeague": "seriea",
-   "homeSlug": null,
-   "awaySlug": "juventus",
-   "homeCountry": "HUN",
-   "awayCountry": "ITA",
-   "elo": [
-    1795,
-    1924
-   ],
-   "dr": -39,
-   "H": 0.319,
-   "D": 0.27,
-   "A": 0.411,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.519,
-   "btts": 0.569,
-   "scores": [
-    [
-     "1-1",
-     0.132
-    ],
-    [
-     "0-1",
-     0.089
-    ],
-    [
-     "1-2",
-     0.087
-    ],
-    [
-     "1-0",
-     0.076
-    ],
-    [
-     "2-1",
-     0.075
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Sturm Graz",
-   "away": "OFI Crete",
-   "homeName": "Sturm Graz",
-   "awayName": "OFI",
-   "homeLeague": "austria",
-   "awayLeague": "superleague",
-   "homeSlug": "sturm-graz",
-   "awaySlug": "ofi-crete",
-   "homeCountry": "AUT",
-   "awayCountry": "GRE",
-   "elo": [
-    1599,
-    1442
-   ],
-   "dr": 247,
-   "H": 0.67,
-   "D": 0.2,
-   "A": 0.13,
-   "xg": [
-    2.2,
-    0.9
-   ],
-   "O25": 0.59,
-   "btts": 0.524,
-   "scores": [
-    [
-     "2-0",
-     0.109
-    ],
-    [
-     "1-1",
-     0.098
-    ],
-    [
-     "1-0",
-     0.097
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "3-0",
-     0.082
-    ],
-    [
-     "3-1",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Jagiellonia",
-   "away": "Lyon",
-   "homeName": "Jagiellonia",
-   "awayName": "Olympique Lyonnais",
-   "homeLeague": "poland",
-   "awayLeague": "ligue1",
-   "homeSlug": "jagiellonia",
-   "awaySlug": "lyon",
-   "homeCountry": "POL",
-   "awayCountry": "FRA",
-   "elo": [
-    1590,
-    1827
-   ],
-   "dr": -148,
-   "H": 0.209,
-   "D": 0.244,
-   "A": 0.547,
-   "xg": [
-    1.1,
-    1.9
-   ],
-   "O25": 0.544,
-   "btts": 0.553,
-   "scores": [
-    [
-     "1-1",
-     0.12
-    ],
-    [
-     "0-1",
-     0.099
-    ],
-    [
-     "1-2",
-     0.097
-    ],
-    [
-     "0-2",
-     0.091
-    ],
-    [
-     "0-0",
-     0.061
-    ],
-    [
-     "1-3",
-     0.06
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Besiktas",
-   "away": "St. Gilloise",
-   "homeName": "Beşiktaş",
-   "awayName": "Union Saint-Gilloise",
-   "homeLeague": "superlig",
-   "awayLeague": "proleague",
-   "homeSlug": "besiktas",
-   "awaySlug": "st-gilloise",
-   "homeCountry": "TUR",
-   "awayCountry": "BEL",
-   "elo": [
-    1846,
-    1879
-   ],
-   "dr": 57,
-   "H": 0.433,
-   "D": 0.268,
-   "A": 0.299,
-   "xg": [
-    1.6,
-    1.3
-   ],
-   "O25": 0.521,
-   "btts": 0.568,
-   "scores": [
-    [
-     "1-1",
-     0.131
-    ],
-    [
-     "1-0",
-     0.091
-    ],
-    [
-     "2-1",
-     0.089
-    ],
-    [
-     "0-1",
-     0.073
-    ],
-    [
-     "1-2",
-     0.072
-    ],
-    [
-     "2-0",
-     0.071
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Nijmegen",
-   "away": "Benfica",
-   "homeName": "NEC",
-   "awayName": "Benfica",
-   "homeLeague": "eredivisie",
-   "awayLeague": "primeira",
-   "homeSlug": "nijmegen",
-   "awaySlug": "benfica",
-   "homeCountry": "NED",
-   "awayCountry": "POR",
-   "elo": [
-    1647,
-    2025
-   ],
-   "dr": -288,
-   "H": 0.104,
-   "D": 0.179,
-   "A": 0.717,
-   "xg": [
-    0.8,
-    2.4
-   ],
-   "O25": 0.616,
-   "btts": 0.508,
-   "scores": [
-    [
-     "0-2",
-     0.114
-    ],
-    [
-     "0-1",
-     0.094
-    ],
-    [
-     "1-2",
-     0.092
-    ],
-    [
-     "0-3",
-     0.092
-    ],
-    [
-     "1-1",
-     0.087
-    ],
-    [
-     "1-3",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Lillestrom",
-   "away": "Bournemouth",
-   "homeName": "Lillestrom",
-   "awayName": "AFC Bournemouth",
-   "homeLeague": "norway",
-   "awayLeague": "pl",
-   "homeSlug": "lillestrom",
-   "awaySlug": "bournemouth",
-   "homeCountry": "NOR",
-   "awayCountry": "ENG",
-   "elo": [
-    1528,
-    1976
-   ],
-   "dr": -358,
-   "H": 0.068,
-   "D": 0.14,
-   "A": 0.791,
-   "xg": [
-    0.7,
-    2.8
-   ],
-   "O25": 0.665,
-   "btts": 0.478,
-   "scores": [
-    [
-     "0-2",
-     0.117
-    ],
-    [
-     "0-3",
-     0.108
-    ],
-    [
-     "0-1",
-     0.084
-    ],
-    [
-     "1-2",
-     0.083
-    ],
-    [
-     "1-3",
-     0.076
-    ],
-    [
-     "0-4",
-     0.075
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T17:45:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Ararat-Armenia (ARM)",
-   "away": "Celje (SVN)",
-   "homeName": "Ararat-Armenia",
-   "awayName": "Celje",
-   "homeLeague": null,
-   "awayLeague": null,
-   "homeSlug": null,
-   "awaySlug": null,
-   "homeCountry": "ARM",
-   "awayCountry": "SVN",
-   "elo": [
-    1419,
-    1531
-   ],
-   "dr": -22,
-   "H": 0.338,
-   "D": 0.272,
-   "A": 0.39,
-   "xg": [
-    1.3,
-    1.5
-   ],
-   "O25": 0.517,
-   "btts": 0.57,
-   "scores": [
-    [
-     "1-1",
-     0.133
-    ],
-    [
-     "0-1",
-     0.086
-    ],
-    [
-     "1-2",
-     0.085
-    ],
-    [
-     "1-0",
-     0.079
-    ],
-    [
-     "2-1",
-     0.078
-    ],
-    [
-     "0-0",
-     0.068
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Leverkusen",
-   "away": "Salzburg",
-   "homeName": "Bayer Leverkusen",
-   "awayName": "Salzburg",
-   "homeLeague": "bundesliga",
-   "awayLeague": "austria",
-   "homeSlug": "leverkusen",
-   "awaySlug": "salzburg",
-   "homeCountry": "GER",
-   "awayCountry": "AUT",
-   "elo": [
-    1962,
-    1697
-   ],
-   "dr": 355,
-   "H": 0.788,
-   "D": 0.142,
-   "A": 0.07,
-   "xg": [
-    2.8,
-    0.7
-   ],
-   "O25": 0.663,
-   "btts": 0.48,
-   "scores": [
-    [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.107
-    ],
-    [
-     "1-0",
-     0.085
-    ],
-    [
-     "2-1",
-     0.083
-    ],
-    [
-     "3-1",
-     0.076
-    ],
-    [
-     "4-0",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "AZ Alkmaar",
-   "away": "GNK Dinamo (CRO)",
-   "homeName": "AZ",
-   "awayName": "GNK Dinamo",
-   "homeLeague": "eredivisie",
-   "awayLeague": null,
-   "homeSlug": "az-alkmaar",
-   "awaySlug": null,
-   "homeCountry": "NED",
-   "awayCountry": "CRO",
-   "elo": [
-    1770,
-    1729
-   ],
-   "dr": 131,
-   "H": 0.526,
-   "D": 0.25,
-   "A": 0.224,
-   "xg": [
-    1.8,
-    1.1
-   ],
-   "O25": 0.538,
-   "btts": 0.557,
-   "scores": [
-    [
-     "1-1",
-     0.123
-    ],
-    [
-     "1-0",
-     0.098
-    ],
-    [
-     "2-1",
-     0.096
-    ],
-    [
-     "2-0",
-     0.088
-    ],
-    [
-     "0-0",
-     0.063
-    ],
-    [
-     "0-1",
-     0.059
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "Celtic",
-   "away": "Marseille",
-   "homeName": "Celtic",
-   "awayName": "Olympique de Marseille",
-   "homeLeague": "scotland",
-   "awayLeague": "ligue1",
-   "homeSlug": "celtic",
-   "awaySlug": "marseille",
-   "homeCountry": "SCO",
-   "awayCountry": "FRA",
-   "elo": [
-    1690,
-    1812
+    1696,
+    1818
    ],
    "dr": -32,
    "H": 0.327,
@@ -7730,42 +2690,990 @@
    ]
   },
   {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
    "round": "League Phase",
-   "home": "Rennes",
-   "away": "Omonia (CYP)",
-   "homeName": "Rennes",
-   "awayName": "Omonia",
-   "homeLeague": "ligue1",
+   "home": "Hearts",
+   "away": "Borac (BIH)",
+   "homeName": "Hearts",
+   "awayName": "Borac",
+   "homeLeague": "scotland",
    "awayLeague": null,
-   "homeSlug": "rennes",
+   "homeSlug": "hearts",
    "awaySlug": null,
-   "homeCountry": "FRA",
+   "homeCountry": "SCO",
+   "awayCountry": "BIH",
+   "elo": [
+    1508,
+    1409
+   ],
+   "dr": 190,
+   "H": 0.6,
+   "D": 0.228,
+   "A": 0.173,
+   "xg": [
+    2,
+    1
+   ],
+   "O25": 0.561,
+   "btts": 0.542,
+   "scores": [
+    [
+     "1-1",
+     0.111
+    ],
+    [
+     "2-0",
+     0.1
+    ],
+    [
+     "1-0",
+     0.099
+    ],
+    [
+     "2-1",
+     0.097
+    ],
+    [
+     "3-0",
+     0.067
+    ],
+    [
+     "3-1",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Hajduk Split (CRO)",
+   "away": "Nordsjaelland",
+   "homeName": "Hajduk Split",
+   "awayName": "Nordsjaelland",
+   "homeLeague": null,
+   "awayLeague": "denmark",
+   "homeSlug": null,
+   "awaySlug": "nordsjaelland",
+   "homeCountry": "CRO",
+   "awayCountry": "DEN",
+   "elo": [
+    1538,
+    1728
+   ],
+   "dr": -99,
+   "H": 0.255,
+   "D": 0.259,
+   "A": 0.486,
+   "xg": [
+    1.2,
+    1.7
+   ],
+   "O25": 0.529,
+   "btts": 0.562,
+   "scores": [
+    [
+     "1-1",
+     0.127
+    ],
+    [
+     "0-1",
+     0.095
+    ],
+    [
+     "1-2",
+     0.093
+    ],
+    [
+     "0-2",
+     0.081
+    ],
+    [
+     "1-0",
+     0.065
+    ],
+    [
+     "0-0",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Aarhus",
+   "away": "Twente",
+   "homeName": "Aarhus",
+   "awayName": "Twente",
+   "homeLeague": "denmark",
+   "awayLeague": "eredivisie",
+   "homeSlug": "aarhus",
+   "awaySlug": "twente",
+   "homeCountry": "DEN",
+   "awayCountry": "NED",
+   "elo": [
+    1648,
+    1831
+   ],
+   "dr": -93,
+   "H": 0.261,
+   "D": 0.261,
+   "A": 0.478,
+   "xg": [
+    1.2,
+    1.7
+   ],
+   "O25": 0.527,
+   "btts": 0.563,
+   "scores": [
+    [
+     "1-1",
+     0.128
+    ],
+    [
+     "0-1",
+     0.095
+    ],
+    [
+     "1-2",
+     0.093
+    ],
+    [
+     "0-2",
+     0.079
+    ],
+    [
+     "1-0",
+     0.066
+    ],
+    [
+     "0-0",
+     0.065
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Thun",
+   "away": "Gent",
+   "homeName": "Thun",
+   "awayName": "Gent",
+   "homeLeague": "switzerland",
+   "awayLeague": "proleague",
+   "homeSlug": "thun",
+   "awaySlug": "gent",
+   "homeCountry": "SUI",
+   "awayCountry": "BEL",
+   "elo": [
+    1499,
+    1696
+   ],
+   "dr": -108,
+   "H": 0.247,
+   "D": 0.257,
+   "A": 0.496,
+   "xg": [
+    1.1,
+    1.7
+   ],
+   "O25": 0.531,
+   "btts": 0.561,
+   "scores": [
+    [
+     "1-1",
+     0.126
+    ],
+    [
+     "0-1",
+     0.096
+    ],
+    [
+     "1-2",
+     0.094
+    ],
+    [
+     "0-2",
+     0.083
+    ],
+    [
+     "0-0",
+     0.064
+    ],
+    [
+     "1-0",
+     0.064
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Mjallby",
+   "away": "Pafos (CYP)",
+   "homeName": "Mjallby",
+   "awayName": "Pafos",
+   "homeLeague": "sweden",
+   "awayLeague": null,
+   "homeSlug": "mjallby",
+   "awaySlug": null,
+   "homeCountry": "SWE",
    "awayCountry": "CYP",
    "elo": [
-    1814,
-    1597
+    1399,
+    1537
    ],
-   "dr": 308,
-   "H": 0.74,
-   "D": 0.168,
-   "A": 0.093,
+   "dr": -48,
+   "H": 0.309,
+   "D": 0.269,
+   "A": 0.422,
    "xg": [
-    2.5,
-    0.8
+    1.3,
+    1.5
    ],
-   "O25": 0.629,
-   "btts": 0.5,
+   "O25": 0.52,
+   "btts": 0.568,
    "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "0-1",
+     0.09
+    ],
+    [
+     "1-2",
+     0.088
+    ],
+    [
+     "1-0",
+     0.075
+    ],
+    [
+     "2-1",
+     0.073
+    ],
+    [
+     "0-2",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-10T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Egnatia (ALB)",
+   "away": "Kauno Žalgiris (LTU)",
+   "homeName": "Egnatia",
+   "awayName": "Kauno Žalgiris",
+   "homeLeague": null,
+   "awayLeague": null,
+   "homeSlug": null,
+   "awaySlug": null,
+   "homeCountry": "ALB",
+   "awayCountry": "LTU",
+   "elo": [
+    1463,
+    1307
+   ],
+   "dr": 246,
+   "H": 0.669,
+   "D": 0.201,
+   "A": 0.131,
+   "xg": [
+    2.2,
+    0.9
+   ],
+   "O25": 0.59,
+   "btts": 0.524,
+   "scores": [
+    [
+     "2-0",
+     0.109
+    ],
+    [
+     "1-1",
+     0.098
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "3-0",
+     0.081
+    ],
+    [
+     "3-1",
+     0.071
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Atalanta",
+   "away": "Mjallby",
+   "homeName": "Atalanta",
+   "awayName": "Mjallby",
+   "homeLeague": "seriea",
+   "awayLeague": "sweden",
+   "homeSlug": "atalanta",
+   "awaySlug": "mjallby",
+   "homeCountry": "ITA",
+   "awayCountry": "SWE",
+   "elo": [
+    1818,
+    1399
+   ],
+   "dr": 509,
+   "H": 0.91,
+   "D": 0.067,
+   "A": 0.023,
+   "xg": [
+    3.7,
+    0.5
+   ],
+   "O25": 0.787,
+   "btts": 0.403,
+   "scores": [
+    [
+     "3-0",
+     0.122
+    ],
+    [
+     "4-0",
+     0.113
+    ],
+    [
+     "2-0",
+     0.099
+    ],
+    [
+     "5-0",
+     0.083
+    ],
+    [
+     "3-1",
+     0.065
+    ],
+    [
+     "4-1",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Sp Braga",
+   "away": "Egnatia (ALB)",
+   "homeName": "Braga",
+   "awayName": "Egnatia",
+   "homeLeague": "primeira",
+   "awayLeague": null,
+   "homeSlug": "sp-braga",
+   "awaySlug": null,
+   "homeCountry": "POR",
+   "awayCountry": "ALB",
+   "elo": [
+    1777,
+    1463
+   ],
+   "dr": 404,
+   "H": 0.834,
+   "D": 0.116,
+   "A": 0.05,
+   "xg": [
+    3,
+    0.6
+   ],
+   "O25": 0.702,
+   "btts": 0.456,
+   "scores": [
+    [
+     "3-0",
+     0.116
+    ],
     [
      "2-0",
      0.115
     ],
     [
-     "3-0",
+     "4-0",
+     0.088
+    ],
+    [
+     "1-0",
+     0.076
+    ],
+    [
+     "3-1",
+     0.075
+    ],
+    [
+     "2-1",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Ajax",
+   "away": "Getafe",
+   "homeName": "Ajax",
+   "awayName": "Getafe",
+   "homeLeague": "eredivisie",
+   "awayLeague": "laliga",
+   "homeSlug": "ajax",
+   "awaySlug": "getafe",
+   "homeCountry": "NED",
+   "awayCountry": "ESP",
+   "elo": [
+    1818,
+    1657
+   ],
+   "dr": 250,
+   "H": 0.674,
+   "D": 0.198,
+   "A": 0.128,
+   "xg": [
+    2.3,
+    0.9
+   ],
+   "O25": 0.592,
+   "btts": 0.523,
+   "scores": [
+    [
+     "2-0",
+     0.11
+    ],
+    [
+     "1-0",
      0.097
+    ],
+    [
+     "1-1",
+     0.097
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "3-0",
+     0.082
+    ],
+    [
+     "3-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Monaco",
+   "away": "L. Red Imps (GIB)",
+   "homeName": "Monaco",
+   "awayName": "L. Red Imps",
+   "homeLeague": "ligue1",
+   "awayLeague": null,
+   "homeSlug": "monaco",
+   "awaySlug": null,
+   "homeCountry": "FRA",
+   "awayCountry": "GIB",
+   "elo": [
+    1880,
+    1271
+   ],
+   "dr": 699,
+   "H": 0.98,
+   "D": 0.016,
+   "A": 0.004,
+   "xg": [
+    5.3,
+    0.4
+   ],
+   "O25": 0.919,
+   "btts": 0.308,
+   "scores": [
+    [
+     "5-0",
+     0.122
+    ],
+    [
+     "4-0",
+     0.115
+    ],
+    [
+     "3-0",
+     0.087
+    ],
+    [
+     "2-0",
+     0.049
+    ],
+    [
+     "5-1",
+     0.045
+    ],
+    [
+     "4-1",
+     0.043
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Midtjylland",
+   "away": "Hajduk Split (CRO)",
+   "homeName": "Midtjylland",
+   "awayName": "Hajduk Split",
+   "homeLeague": "denmark",
+   "awayLeague": null,
+   "homeSlug": "midtjylland",
+   "awaySlug": null,
+   "homeCountry": "DEN",
+   "awayCountry": "CRO",
+   "elo": [
+    1718,
+    1538
+   ],
+   "dr": 270,
+   "H": 0.697,
+   "D": 0.188,
+   "A": 0.115,
+   "xg": [
+    2.3,
+    0.8
+   ],
+   "O25": 0.604,
+   "btts": 0.515,
+   "scores": [
+    [
+     "2-0",
+     0.112
+    ],
+    [
+     "1-0",
+     0.096
+    ],
+    [
+     "2-1",
+     0.094
+    ],
+    [
+     "1-1",
+     0.092
+    ],
+    [
+     "3-0",
+     0.087
+    ],
+    [
+     "3-1",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Crvena Zvezda (SRB)",
+   "away": "Trabzonspor",
+   "homeName": "Crvena Zvezda",
+   "awayName": "Trabzonspor",
+   "homeLeague": null,
+   "awayLeague": "superlig",
+   "homeSlug": null,
+   "awaySlug": "trabzonspor",
+   "homeCountry": "SRB",
+   "awayCountry": "TUR",
+   "elo": [
+    1670,
+    1797
+   ],
+   "dr": -37,
+   "H": 0.321,
+   "D": 0.271,
+   "A": 0.408,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.518,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.088
+    ],
+    [
+     "1-2",
+     0.087
+    ],
+    [
+     "1-0",
+     0.077
+    ],
+    [
+     "2-1",
+     0.075
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Gent",
+   "away": "Brann",
+   "homeName": "Gent",
+   "awayName": "Brann",
+   "homeLeague": "proleague",
+   "awayLeague": "norway",
+   "homeSlug": "gent",
+   "awaySlug": "brann",
+   "homeCountry": "BEL",
+   "awayCountry": "NOR",
+   "elo": [
+    1696,
+    1553
+   ],
+   "dr": 234,
+   "H": 0.654,
+   "D": 0.207,
+   "A": 0.139,
+   "xg": [
+    2.2,
+    0.9
+   ],
+   "O25": 0.583,
+   "btts": 0.528,
+   "scores": [
+    [
+     "2-0",
+     0.107
+    ],
+    [
+     "1-1",
+     0.101
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "3-0",
+     0.078
+    ],
+    [
+     "3-1",
+     0.07
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Panathinaikos",
+   "away": "Brighton",
+   "homeName": "Panathinaikos",
+   "awayName": "Brighton & Hove Albion",
+   "homeLeague": "superleague",
+   "awayLeague": "pl",
+   "homeSlug": "panathinaikos",
+   "awaySlug": "brighton",
+   "homeCountry": "GRE",
+   "awayCountry": "ENG",
+   "elo": [
+    1787,
+    2028
+   ],
+   "dr": -152,
+   "H": 0.205,
+   "D": 0.243,
+   "A": 0.552,
+   "xg": [
+    1,
+    1.9
+   ],
+   "O25": 0.545,
+   "btts": 0.552,
+   "scores": [
+    [
+     "1-1",
+     0.119
+    ],
+    [
+     "0-1",
+     0.099
+    ],
+    [
+     "1-2",
+     0.097
+    ],
+    [
+     "0-2",
+     0.092
+    ],
+    [
+     "0-0",
+     0.061
+    ],
+    [
+     "1-3",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Pafos (CYP)",
+   "away": "Hearts",
+   "homeName": "Pafos",
+   "awayName": "Hearts",
+   "homeLeague": null,
+   "awayLeague": "scotland",
+   "homeSlug": null,
+   "awaySlug": "hearts",
+   "homeCountry": "CYP",
+   "awayCountry": "SCO",
+   "elo": [
+    1537,
+    1508
+   ],
+   "dr": 119,
+   "H": 0.511,
+   "D": 0.254,
+   "A": 0.235,
+   "xg": [
+    1.8,
+    1.1
+   ],
+   "O25": 0.534,
+   "btts": 0.559,
+   "scores": [
+    [
+     "1-1",
+     0.124
+    ],
+    [
+     "1-0",
+     0.097
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "2-0",
+     0.085
+    ],
+    [
+     "0-0",
+     0.063
+    ],
+    [
+     "0-1",
+     0.062
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Lugano",
+   "away": "St Truiden",
+   "homeName": "Lugano",
+   "awayName": "Sint-Truiden",
+   "homeLeague": "switzerland",
+   "awayLeague": "proleague",
+   "homeSlug": "lugano",
+   "awaySlug": "st-truiden",
+   "homeCountry": "SUI",
+   "awayCountry": "BEL",
+   "elo": [
+    1653,
+    1696
+   ],
+   "dr": 48,
+   "H": 0.421,
+   "D": 0.269,
+   "A": 0.309,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.519,
+   "btts": 0.568,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "1-0",
+     0.09
+    ],
+    [
+     "2-1",
+     0.088
+    ],
+    [
+     "0-1",
+     0.075
+    ],
+    [
+     "1-2",
+     0.073
+    ],
+    [
+     "2-0",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Twente",
+   "away": "Kairat Almaty (KAZ)",
+   "homeName": "Twente",
+   "awayName": "Kairat Almaty",
+   "homeLeague": "eredivisie",
+   "awayLeague": null,
+   "homeSlug": "twente",
+   "awaySlug": null,
+   "homeCountry": "NED",
+   "awayCountry": "KAZ",
+   "elo": [
+    1831,
+    1437
+   ],
+   "dr": 485,
+   "H": 0.895,
+   "D": 0.077,
+   "A": 0.028,
+   "xg": [
+    3.5,
+    0.6
+   ],
+   "O25": 0.767,
+   "btts": 0.416,
+   "scores": [
+    [
+     "3-0",
+     0.123
+    ],
+    [
+     "4-0",
+     0.108
+    ],
+    [
+     "2-0",
+     0.104
+    ],
+    [
+     "5-0",
+     0.076
+    ],
+    [
+     "3-1",
+     0.068
+    ],
+    [
+     "4-1",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Borac (BIH)",
+   "away": "Riga (LVA)",
+   "homeName": "Borac",
+   "awayName": "Riga",
+   "homeLeague": null,
+   "awayLeague": null,
+   "homeSlug": null,
+   "awaySlug": null,
+   "homeCountry": "BIH",
+   "awayCountry": "LVA",
+   "elo": [
+    1409,
+    1437
+   ],
+   "dr": 62,
+   "H": 0.439,
+   "D": 0.267,
+   "A": 0.294,
+   "xg": [
+    1.6,
+    1.2
+   ],
+   "O25": 0.521,
+   "btts": 0.567,
+   "scores": [
+    [
+     "1-1",
+     0.131
     ],
     [
      "1-0",
@@ -7776,41 +3684,381 @@
      0.09
     ],
     [
-     "1-1",
-     0.082
+     "0-1",
+     0.072
     ],
     [
-     "3-1",
-     0.075
+     "2-0",
+     0.072
+    ],
+    [
+     "1-2",
+     0.071
     ]
    ]
   },
   {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
    "round": "League Phase",
-   "home": "Anderlecht",
-   "away": "Sunderland",
-   "homeName": "Anderlecht",
-   "awayName": "Sunderland",
-   "homeLeague": "proleague",
-   "awayLeague": "pl",
-   "homeSlug": "anderlecht",
-   "awaySlug": "sunderland",
-   "homeCountry": "BEL",
-   "awayCountry": "ENG",
+   "home": "Univ. Craiova",
+   "away": "FC Copenhagen",
+   "homeName": "Univ. Craiova",
+   "awayName": "FC Copenhagen",
+   "homeLeague": "romania",
+   "awayLeague": "denmark",
+   "homeSlug": "univ-craiova",
+   "awaySlug": "fc-copenhagen",
+   "homeCountry": "ROU",
+   "awayCountry": "DEN",
    "elo": [
-    1754,
-    1862
+    1726,
+    1744
    ],
-   "dr": -18,
-   "H": 0.343,
+   "dr": 72,
+   "H": 0.451,
+   "D": 0.266,
+   "A": 0.283,
+   "xg": [
+    1.6,
+    1.2
+   ],
+   "O25": 0.523,
+   "btts": 0.566,
+   "scores": [
+    [
+     "1-1",
+     0.13
+    ],
+    [
+     "1-0",
+     0.093
+    ],
+    [
+     "2-1",
+     0.091
+    ],
+    [
+     "2-0",
+     0.074
+    ],
+    [
+     "0-1",
+     0.07
+    ],
+    [
+     "1-2",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Jablonec (CZE)",
+   "away": "Iberia Tbilisi (GEO)",
+   "homeName": "Jablonec",
+   "awayName": "Iberia Tbilisi",
+   "homeLeague": null,
+   "awayLeague": null,
+   "homeSlug": null,
+   "awaySlug": null,
+   "homeCountry": "CZE",
+   "awayCountry": "GEO",
+   "elo": [
+    1603,
+    1315
+   ],
+   "dr": 378,
+   "H": 0.811,
+   "D": 0.129,
+   "A": 0.06,
+   "xg": [
+    2.9,
+    0.7
+   ],
+   "O25": 0.681,
+   "btts": 0.469,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.112
+    ],
+    [
+     "1-0",
+     0.081
+    ],
+    [
+     "4-0",
+     0.08
+    ],
+    [
+     "2-1",
+     0.079
+    ],
+    [
+     "3-1",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Nordsjaelland",
+   "away": "KuPS",
+   "homeName": "Nordsjaelland",
+   "awayName": "KuPS",
+   "homeLeague": "denmark",
+   "awayLeague": "finland",
+   "homeSlug": "nordsjaelland",
+   "awaySlug": "kups",
+   "homeCountry": "DEN",
+   "awayCountry": "FIN",
+   "elo": [
+    1728,
+    1387
+   ],
+   "dr": 431,
+   "H": 0.856,
+   "D": 0.102,
+   "A": 0.042,
+   "xg": [
+    3.2,
+    0.6
+   ],
+   "O25": 0.723,
+   "btts": 0.443,
+   "scores": [
+    [
+     "3-0",
+     0.119
+    ],
+    [
+     "2-0",
+     0.112
+    ],
+    [
+     "4-0",
+     0.095
+    ],
+    [
+     "3-1",
+     0.073
+    ],
+    [
+     "1-0",
+     0.071
+    ],
+    [
+     "2-1",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Inter Escaldes (AND)",
+   "away": "Aarhus",
+   "homeName": "Inter Escaldes",
+   "awayName": "Aarhus",
+   "homeLeague": null,
+   "awayLeague": "denmark",
+   "homeSlug": null,
+   "awaySlug": "aarhus",
+   "homeCountry": "AND",
+   "awayCountry": "DEN",
+   "elo": [
+    1361,
+    1648
+   ],
+   "dr": -197,
+   "H": 0.167,
+   "D": 0.224,
+   "A": 0.609,
+   "xg": [
+    1,
+    2
+   ],
+   "O25": 0.564,
+   "btts": 0.54,
+   "scores": [
+    [
+     "1-1",
+     0.11
+    ],
+    [
+     "0-2",
+     0.101
+    ],
+    [
+     "0-1",
+     0.099
+    ],
+    [
+     "1-2",
+     0.097
+    ],
+    [
+     "0-3",
+     0.069
+    ],
+    [
+     "1-3",
+     0.066
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "CSKA Sofia (BUL)",
+   "away": "Thun",
+   "homeName": "CSKA Sofia",
+   "awayName": "Thun",
+   "homeLeague": null,
+   "awayLeague": "switzerland",
+   "homeSlug": null,
+   "awaySlug": "thun",
+   "homeCountry": "BUL",
+   "awayCountry": "SUI",
+   "elo": [
+    1482,
+    1499
+   ],
+   "dr": 73,
+   "H": 0.452,
+   "D": 0.265,
+   "A": 0.282,
+   "xg": [
+    1.6,
+    1.2
+   ],
+   "O25": 0.523,
+   "btts": 0.566,
+   "scores": [
+    [
+     "1-1",
+     0.13
+    ],
+    [
+     "1-0",
+     0.093
+    ],
+    [
+     "2-1",
+     0.091
+    ],
+    [
+     "2-0",
+     0.075
+    ],
+    [
+     "0-1",
+     0.07
+    ],
+    [
+     "1-2",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-12-17T20:00:00Z",
+   "comp": "conf",
+   "compName": "Conference League",
+   "round": "League Phase",
+   "home": "Kauno Žalgiris (LTU)",
+   "away": "Freiburg",
+   "homeName": "Kauno Žalgiris",
+   "awayName": "SC Freiburg",
+   "homeLeague": null,
+   "awayLeague": "bundesliga",
+   "homeSlug": null,
+   "awaySlug": "freiburg",
+   "homeCountry": "LTU",
+   "awayCountry": "GER",
+   "elo": [
+    1307,
+    1841
+   ],
+   "dr": -444,
+   "H": 0.038,
+   "D": 0.096,
+   "A": 0.867,
+   "xg": [
+    0.6,
+    3.3
+   ],
+   "O25": 0.734,
+   "btts": 0.436,
+   "scores": [
+    [
+     "0-3",
+     0.121
+    ],
+    [
+     "0-2",
+     0.111
+    ],
+    [
+     "0-4",
+     0.098
+    ],
+    [
+     "1-3",
+     0.072
+    ],
+    [
+     "0-1",
+     0.068
+    ],
+    [
+     "1-2",
+     0.067
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-19T17:45:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Bodo/Glimt",
+   "away": "Ath Madrid",
+   "homeName": "Bodo/Glimt",
+   "awayName": "Atlético Madrid",
+   "homeLeague": "norway",
+   "awayLeague": "laliga",
+   "homeSlug": "bodo-glimt",
+   "awaySlug": "ath-madrid",
+   "homeCountry": "NOR",
+   "awayCountry": "ESP",
+   "elo": [
+    1874,
+    1983
+   ],
+   "dr": -19,
+   "H": 0.342,
    "D": 0.272,
-   "A": 0.385,
+   "A": 0.386,
    "xg": [
     1.4,
-    1.4
+    1.5
    ],
    "O25": 0.517,
    "btts": 0.57,
@@ -7842,150 +4090,430 @@
    ]
   },
   {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
+   "kickoff": "2027-01-19T17:45:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
    "round": "League Phase",
-   "home": "Lech Poznan",
-   "away": "Torreense (POR)",
-   "homeName": "Lech Poznan",
-   "awayName": "Torreense",
-   "homeLeague": "poland",
-   "awayLeague": null,
-   "homeSlug": "lech-poznan",
-   "awaySlug": null,
-   "homeCountry": "POL",
-   "awayCountry": "POR",
+   "home": "Galatasaray",
+   "away": "Feyenoord",
+   "homeName": "Galatasaray",
+   "awayName": "Feyenoord",
+   "homeLeague": "superlig",
+   "awayLeague": "eredivisie",
+   "homeSlug": "galatasaray",
+   "awaySlug": "feyenoord",
+   "homeCountry": "TUR",
+   "awayCountry": "NED",
    "elo": [
-    1688,
-    1432
+    1836,
+    1801
    ],
-   "dr": 345,
-   "H": 0.779,
-   "D": 0.147,
-   "A": 0.074,
+   "dr": 125,
+   "H": 0.518,
+   "D": 0.252,
+   "A": 0.23,
    "xg": [
-    2.7,
-    0.7
+    1.8,
+    1.1
    ],
-   "O25": 0.656,
-   "btts": 0.484,
+   "O25": 0.536,
+   "btts": 0.558,
    "scores": [
     [
-     "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.105
+     "1-1",
+     0.123
     ],
     [
      "1-0",
+     0.097
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "2-0",
      0.086
     ],
     [
-     "2-1",
-     0.085
+     "0-0",
+     0.063
     ],
     [
-     "3-1",
-     0.076
-    ],
-    [
-     "1-1",
-     0.072
+     "0-1",
+     0.06
     ]
    ]
   },
   {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
+   "kickoff": "2027-01-19T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
    "round": "League Phase",
-   "home": "Crystal Palace",
-   "away": "Sparta Praha (CZE)",
-   "homeName": "Crystal Palace",
-   "awayName": "Sparta Praha",
-   "homeLeague": "pl",
-   "awayLeague": null,
-   "homeSlug": "crystal-palace",
-   "awaySlug": null,
-   "homeCountry": "ENG",
-   "awayCountry": "CZE",
+   "home": "Real Madrid",
+   "away": "LASK",
+   "homeName": "Real Madrid",
+   "awayName": "LASK",
+   "homeLeague": "laliga",
+   "awayLeague": "austria",
+   "homeSlug": "real-madrid",
+   "awaySlug": "lask",
+   "homeCountry": "ESP",
+   "awayCountry": "AUT",
    "elo": [
-    1808,
-    1662
+    2125,
+    1717
    ],
-   "dr": 237,
-   "H": 0.658,
-   "D": 0.205,
-   "A": 0.137,
+   "dr": 498,
+   "H": 0.904,
+   "D": 0.072,
+   "A": 0.025,
    "xg": [
-    2.2,
-    0.9
+    3.6,
+    0.5
    ],
-   "O25": 0.585,
-   "btts": 0.527,
+   "O25": 0.778,
+   "btts": 0.409,
    "scores": [
     [
-     "2-0",
-     0.108
+     "3-0",
+     0.123
     ],
     [
+     "4-0",
+     0.111
+    ],
+    [
+     "2-0",
+     0.102
+    ],
+    [
+     "5-0",
+     0.08
+    ],
+    [
+     "3-1",
+     0.066
+    ],
+    [
+     "4-1",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-19T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Inter",
+   "away": "Liverpool",
+   "homeName": "Inter",
+   "awayName": "Liverpool",
+   "homeLeague": "seriea",
+   "awayLeague": "pl",
+   "homeSlug": "inter",
+   "awaySlug": "liverpool",
+   "homeCountry": "ITA",
+   "awayCountry": "ENG",
+   "elo": [
+    2052,
+    2081
+   ],
+   "dr": 61,
+   "H": 0.437,
+   "D": 0.268,
+   "A": 0.295,
+   "xg": [
+    1.6,
+    1.2
+   ],
+   "O25": 0.521,
+   "btts": 0.567,
+   "scores": [
+    [
      "1-1",
-     0.101
+     0.131
     ],
     [
      "1-0",
-     0.098
+     0.091
     ],
     [
      "2-1",
-     0.096
+     0.09
     ],
     [
-     "3-0",
-     0.079
+     "0-1",
+     0.073
     ],
     [
-     "3-1",
-     0.07
+     "2-0",
+     0.072
+    ],
+    [
+     "1-2",
+     0.071
     ]
    ]
   },
   {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
+   "kickoff": "2027-01-19T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
    "round": "League Phase",
-   "home": "H. Beer-Sheva (ISR)",
-   "away": "Celta",
-   "homeName": "H. Beer-Sheva",
-   "awayName": "Celta Vigo",
-   "homeLeague": null,
-   "awayLeague": "laliga",
-   "homeSlug": null,
-   "awaySlug": "celta",
-   "homeCountry": "ISR",
-   "awayCountry": "ESP",
+   "home": "Aston Villa",
+   "away": "Dortmund",
+   "homeName": "Aston Villa",
+   "awayName": "Borussia Dortmund",
+   "homeLeague": "pl",
+   "awayLeague": "bundesliga",
+   "homeSlug": "aston-villa",
+   "awaySlug": "dortmund",
+   "homeCountry": "ENG",
+   "awayCountry": "GER",
    "elo": [
-    1562,
-    1799
+    1936,
+    1937
    ],
-   "dr": -147,
-   "H": 0.209,
-   "D": 0.245,
-   "A": 0.546,
+   "dr": 89,
+   "H": 0.473,
+   "D": 0.262,
+   "A": 0.265,
    "xg": [
-    1.1,
-    1.9
+    1.7,
+    1.2
    ],
-   "O25": 0.543,
-   "btts": 0.553,
+   "O25": 0.526,
+   "btts": 0.564,
    "scores": [
     [
      "1-1",
-     0.12
+     0.128
+    ],
+    [
+     "1-0",
+     0.094
+    ],
+    [
+     "2-1",
+     0.093
+    ],
+    [
+     "2-0",
+     0.078
+    ],
+    [
+     "0-1",
+     0.067
+    ],
+    [
+     "1-2",
+     0.066
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-19T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Porto",
+   "away": "Slavia Praha (CZE)",
+   "homeName": "Porto",
+   "awayName": "Slavia Praha",
+   "homeLeague": "primeira",
+   "awayLeague": null,
+   "homeSlug": "porto",
+   "awaySlug": null,
+   "homeCountry": "POR",
+   "awayCountry": "CZE",
+   "elo": [
+    1961,
+    1654
+   ],
+   "dr": 397,
+   "H": 0.827,
+   "D": 0.12,
+   "A": 0.053,
+   "xg": [
+    3,
+    0.7
+   ],
+   "O25": 0.696,
+   "btts": 0.46,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.115
+    ],
+    [
+     "4-0",
+     0.086
+    ],
+    [
+     "1-0",
+     0.078
+    ],
+    [
+     "2-1",
+     0.076
+    ],
+    [
+     "3-1",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-19T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Lille",
+   "away": "S. Bratislava (SVK)",
+   "homeName": "Lille",
+   "awayName": "S. Bratislava",
+   "homeLeague": "ligue1",
+   "awayLeague": null,
+   "homeSlug": "lille",
+   "awaySlug": null,
+   "homeCountry": "FRA",
+   "awayCountry": "SVK",
+   "elo": [
+    1808,
+    1502
+   ],
+   "dr": 396,
+   "H": 0.827,
+   "D": 0.12,
+   "A": 0.053,
+   "xg": [
+    3,
+    0.7
+   ],
+   "O25": 0.695,
+   "btts": 0.46,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.115
+    ],
+    [
+     "4-0",
+     0.085
+    ],
+    [
+     "1-0",
+     0.078
+    ],
+    [
+     "2-1",
+     0.076
+    ],
+    [
+     "3-1",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-19T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Stuttgart",
+   "away": "Club Brugge",
+   "homeName": "VfB Stuttgart",
+   "awayName": "Club Brugge",
+   "homeLeague": "bundesliga",
+   "awayLeague": "proleague",
+   "homeSlug": "stuttgart",
+   "awaySlug": "club-brugge",
+   "homeCountry": "GER",
+   "awayCountry": "BEL",
+   "elo": [
+    1860,
+    1916
+   ],
+   "dr": 34,
+   "H": 0.405,
+   "D": 0.271,
+   "A": 0.324,
+   "xg": [
+    1.5,
+    1.3
+   ],
+   "O25": 0.518,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "1-0",
+     0.088
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.077
+    ],
+    [
+     "1-2",
+     0.076
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-19T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "AEK",
+   "away": "Roma",
+   "homeName": "AEK Athens",
+   "awayName": "AS Roma",
+   "homeLeague": "superleague",
+   "awayLeague": "seriea",
+   "homeSlug": "aek",
+   "awaySlug": "roma",
+   "homeCountry": "GRE",
+   "awayCountry": "ITA",
+   "elo": [
+    1757,
+    1978
+   ],
+   "dr": -131,
+   "H": 0.224,
+   "D": 0.25,
+   "A": 0.526,
+   "xg": [
+    1.1,
+    1.8
+   ],
+   "O25": 0.538,
+   "btts": 0.557,
+   "scores": [
+    [
+     "1-1",
+     0.123
     ],
     [
      "0-1",
@@ -7997,47 +4525,439 @@
     ],
     [
      "0-2",
-     0.091
+     0.088
     ],
     [
      "0-0",
-     0.061
+     0.063
+    ],
+    [
+     "1-0",
+     0.059
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-20T17:45:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Fenerbahce",
+   "away": "Villarreal",
+   "homeName": "Fenerbahçe",
+   "awayName": "Villarreal",
+   "homeLeague": "superlig",
+   "awayLeague": "laliga",
+   "homeSlug": "fenerbahce",
+   "awaySlug": "villarreal",
+   "homeCountry": "TUR",
+   "awayCountry": "ESP",
+   "elo": [
+    1813,
+    1849
+   ],
+   "dr": 54,
+   "H": 0.43,
+   "D": 0.268,
+   "A": 0.302,
+   "xg": [
+    1.6,
+    1.3
+   ],
+   "O25": 0.52,
+   "btts": 0.568,
+   "scores": [
+    [
+     "1-1",
+     0.132
+    ],
+    [
+     "1-0",
+     0.091
+    ],
+    [
+     "2-1",
+     0.089
+    ],
+    [
+     "0-1",
+     0.074
+    ],
+    [
+     "1-2",
+     0.072
+    ],
+    [
+     "2-0",
+     0.07
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-20T17:45:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Sabah (AZE)",
+   "away": "Napoli",
+   "homeName": "Sabah",
+   "awayName": "Napoli",
+   "homeLeague": null,
+   "awayLeague": "seriea",
+   "homeSlug": null,
+   "awaySlug": "napoli",
+   "homeCountry": "AZE",
+   "awayCountry": "ITA",
+   "elo": [
+    1511,
+    1908
+   ],
+   "dr": -307,
+   "H": 0.093,
+   "D": 0.168,
+   "A": 0.739,
+   "xg": [
+    0.8,
+    2.5
+   ],
+   "O25": 0.629,
+   "btts": 0.5,
+   "scores": [
+    [
+     "0-2",
+     0.115
+    ],
+    [
+     "0-3",
+     0.097
+    ],
+    [
+     "0-1",
+     0.092
+    ],
+    [
+     "1-2",
+     0.09
+    ],
+    [
+     "1-1",
+     0.082
     ],
     [
      "1-3",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-20T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Sp Lisbon",
+   "away": "Barcelona",
+   "homeName": "Sporting CP",
+   "awayName": "Barcelona",
+   "homeLeague": "primeira",
+   "awayLeague": "laliga",
+   "homeSlug": "sp-lisbon",
+   "awaySlug": "barcelona",
+   "homeCountry": "POR",
+   "awayCountry": "ESP",
+   "elo": [
+    1911,
+    2160
+   ],
+   "dr": -159,
+   "H": 0.199,
+   "D": 0.24,
+   "A": 0.561,
+   "xg": [
+    1,
+    1.9
+   ],
+   "O25": 0.548,
+   "btts": 0.55,
+   "scores": [
+    [
+     "1-1",
+     0.118
+    ],
+    [
+     "0-1",
+     0.099
+    ],
+    [
+     "1-2",
+     0.097
+    ],
+    [
+     "0-2",
+     0.094
+    ],
+    [
+     "1-3",
+     0.061
+    ],
+    [
+     "0-0",
      0.06
     ]
    ]
   },
   {
-   "kickoff": "2027-01-21T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
+   "kickoff": "2027-01-20T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
    "round": "League Phase",
-   "home": "Levski Sofia (BUL)",
-   "away": "Milan",
-   "homeName": "Levski Sofia",
-   "awayName": "AC Milan",
-   "homeLeague": null,
-   "awayLeague": "seriea",
-   "homeSlug": null,
-   "awaySlug": "milan",
-   "homeCountry": "BUL",
-   "awayCountry": "ITA",
+   "home": "Man United",
+   "away": "Bayern Munich",
+   "homeName": "Manchester United",
+   "awayName": "Bayern Munich",
+   "homeLeague": "pl",
+   "awayLeague": "bundesliga",
+   "homeSlug": "man-united",
+   "awaySlug": "bayern-munich",
+   "homeCountry": "ENG",
+   "awayCountry": "GER",
    "elo": [
-    1582,
-    1915
+    1965,
+    2168
    ],
-   "dr": -242,
-   "H": 0.133,
-   "D": 0.203,
-   "A": 0.664,
+   "dr": -113,
+   "H": 0.241,
+   "D": 0.256,
+   "A": 0.503,
+   "xg": [
+    1.1,
+    1.7
+   ],
+   "O25": 0.532,
+   "btts": 0.56,
+   "scores": [
+    [
+     "1-1",
+     0.125
+    ],
+    [
+     "0-1",
+     0.096
+    ],
+    [
+     "1-2",
+     0.095
+    ],
+    [
+     "0-2",
+     0.084
+    ],
+    [
+     "0-0",
+     0.064
+    ],
+    [
+     "1-0",
+     0.063
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-20T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Betis",
+   "away": "Arsenal",
+   "homeName": "Real Betis",
+   "awayName": "Arsenal",
+   "homeLeague": "laliga",
+   "awayLeague": "pl",
+   "homeSlug": "betis",
+   "awaySlug": "arsenal",
+   "homeCountry": "ESP",
+   "awayCountry": "ENG",
+   "elo": [
+    1875,
+    2160
+   ],
+   "dr": -194,
+   "H": 0.169,
+   "D": 0.225,
+   "A": 0.606,
+   "xg": [
+    1,
+    2
+   ],
+   "O25": 0.563,
+   "btts": 0.541,
+   "scores": [
+    [
+     "1-1",
+     0.11
+    ],
+    [
+     "0-2",
+     0.101
+    ],
+    [
+     "0-1",
+     0.099
+    ],
+    [
+     "1-2",
+     0.097
+    ],
+    [
+     "0-3",
+     0.068
+    ],
+    [
+     "1-3",
+     0.066
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-20T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "RB Leipzig",
+   "away": "Shakhtar (UKR)",
+   "homeName": "RB Leipzig",
+   "awayName": "Shakhtar",
+   "homeLeague": "bundesliga",
+   "awayLeague": null,
+   "homeSlug": "rb-leipzig",
+   "awaySlug": null,
+   "homeCountry": "GER",
+   "awayCountry": "UKR",
+   "elo": [
+    1927,
+    1738
+   ],
+   "dr": 279,
+   "H": 0.707,
+   "D": 0.183,
+   "A": 0.109,
+   "xg": [
+    2.4,
+    0.8
+   ],
+   "O25": 0.61,
+   "btts": 0.512,
+   "scores": [
+    [
+     "2-0",
+     0.113
+    ],
+    [
+     "1-0",
+     0.095
+    ],
+    [
+     "2-1",
+     0.093
+    ],
+    [
+     "1-1",
+     0.09
+    ],
+    [
+     "3-0",
+     0.09
+    ],
+    [
+     "3-1",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-20T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Como",
+   "away": "Paris SG",
+   "homeName": "Como",
+   "awayName": "Paris Saint-Germain",
+   "homeLeague": "seriea",
+   "awayLeague": "ligue1",
+   "homeSlug": "como",
+   "awaySlug": "paris-sg",
+   "homeCountry": "ITA",
+   "awayCountry": "FRA",
+   "elo": [
+    1981,
+    2096
+   ],
+   "dr": -25,
+   "H": 0.335,
+   "D": 0.272,
+   "A": 0.393,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.087
+    ],
+    [
+     "1-2",
+     0.085
+    ],
+    [
+     "1-0",
+     0.079
+    ],
+    [
+     "2-1",
+     0.077
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-20T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Lens",
+   "away": "Man City",
+   "homeName": "Lens",
+   "awayName": "Manchester City",
+   "homeLeague": "ligue1",
+   "awayLeague": "pl",
+   "homeSlug": "lens",
+   "awaySlug": "man-city",
+   "homeCountry": "FRA",
+   "awayCountry": "ENG",
+   "elo": [
+    1788,
+    2124
+   ],
+   "dr": -246,
+   "H": 0.13,
+   "D": 0.201,
+   "A": 0.669,
    "xg": [
     0.9,
     2.2
    ],
-   "O25": 0.588,
-   "btts": 0.525,
+   "O25": 0.59,
+   "btts": 0.524,
    "scores": [
     [
      "0-2",
@@ -8045,7 +4965,7 @@
     ],
     [
      "1-1",
-     0.099
+     0.098
     ],
     [
      "0-1",
@@ -8057,7 +4977,7 @@
     ],
     [
      "0-3",
-     0.08
+     0.081
     ],
     [
      "1-3",
@@ -8066,79 +4986,583 @@
    ]
   },
   {
-   "kickoff": "2027-01-27T20:00:00Z",
+   "kickoff": "2027-01-20T20:00:00Z",
    "comp": "cl",
    "compName": "Champions League",
    "round": "League Phase",
-   "home": "Paris SG",
-   "away": "Galatasaray",
-   "homeName": "Paris Saint-Germain",
-   "awayName": "Galatasaray",
-   "homeLeague": "ligue1",
-   "awayLeague": "superlig",
-   "homeSlug": "paris-sg",
-   "awaySlug": "galatasaray",
-   "homeCountry": "FRA",
-   "awayCountry": "TUR",
+   "home": "Viking",
+   "away": "PSV Eindhoven",
+   "homeName": "Viking",
+   "awayName": "PSV",
+   "homeLeague": "norway",
+   "awayLeague": "eredivisie",
+   "homeSlug": "viking",
+   "awaySlug": "psv-eindhoven",
+   "homeCountry": "NOR",
+   "awayCountry": "NED",
    "elo": [
-    2100,
-    1835
+    1711,
+    1854
    ],
-   "dr": 355,
-   "H": 0.789,
-   "D": 0.142,
-   "A": 0.069,
+   "dr": -53,
+   "H": 0.303,
+   "D": 0.269,
+   "A": 0.428,
    "xg": [
-    2.8,
-    0.7
+    1.3,
+    1.6
    ],
-   "O25": 0.664,
-   "btts": 0.479,
+   "O25": 0.52,
+   "btts": 0.568,
    "scores": [
     [
-     "2-0",
-     0.117
+     "1-1",
+     0.132
     ],
     [
-     "3-0",
-     0.107
+     "0-1",
+     0.09
+    ],
+    [
+     "1-2",
+     0.089
     ],
     [
      "1-0",
-     0.085
+     0.074
+    ],
+    [
+     "2-1",
+     0.072
+    ],
+    [
+     "0-2",
+     0.07
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Olympiakos",
+   "away": "Hoffenheim",
+   "homeName": "Olympiacos",
+   "awayName": "Hoffenheim",
+   "homeLeague": "superleague",
+   "awayLeague": "bundesliga",
+   "homeSlug": "olympiakos",
+   "awaySlug": "hoffenheim",
+   "homeCountry": "GRE",
+   "awayCountry": "GER",
+   "elo": [
+    1764,
+    1845
+   ],
+   "dr": 9,
+   "H": 0.375,
+   "D": 0.272,
+   "A": 0.353,
+   "xg": [
+    1.4,
+    1.4
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "1-0",
+     0.084
     ],
     [
      "2-1",
      0.083
     ],
     [
-     "3-1",
-     0.076
+     "0-1",
+     0.081
     ],
     [
-     "4-0",
-     0.074
+     "1-2",
+     0.08
+    ],
+    [
+     "0-0",
+     0.068
     ]
    ]
   },
   {
-   "kickoff": "2027-01-27T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
    "round": "League Phase",
-   "home": "Bayern Munich",
-   "away": "Betis",
-   "homeName": "Bayern Munich",
-   "awayName": "Real Betis",
-   "homeLeague": "bundesliga",
-   "awayLeague": "laliga",
-   "homeSlug": "bayern-munich",
-   "awaySlug": "betis",
-   "homeCountry": "GER",
-   "awayCountry": "ESP",
+   "home": "Sociedad",
+   "away": "Viktoria Plzeň (CZE)",
+   "homeName": "Real Sociedad",
+   "awayName": "Viktoria Plzeň",
+   "homeLeague": "laliga",
+   "awayLeague": null,
+   "homeSlug": "sociedad",
+   "awaySlug": null,
+   "homeCountry": "ESP",
+   "awayCountry": "CZE",
    "elo": [
-    2162,
-    1886
+    1810,
+    1745
+   ],
+   "dr": 155,
+   "H": 0.557,
+   "D": 0.242,
+   "A": 0.202,
+   "xg": [
+    1.9,
+    1
+   ],
+   "O25": 0.546,
+   "btts": 0.551,
+   "scores": [
+    [
+     "1-1",
+     0.118
+    ],
+    [
+     "1-0",
+     0.099
+    ],
+    [
+     "2-1",
+     0.097
+    ],
+    [
+     "2-0",
+     0.093
+    ],
+    [
+     "3-1",
+     0.061
+    ],
+    [
+     "0-0",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Ferencváros (HUN)",
+   "away": "Juventus",
+   "homeName": "Ferencváros",
+   "awayName": "Juventus",
+   "homeLeague": null,
+   "awayLeague": "seriea",
+   "homeSlug": null,
+   "awaySlug": "juventus",
+   "homeCountry": "HUN",
+   "awayCountry": "ITA",
+   "elo": [
+    1787,
+    1937
+   ],
+   "dr": -60,
+   "H": 0.296,
+   "D": 0.268,
+   "A": 0.436,
+   "xg": [
+    1.2,
+    1.6
+   ],
+   "O25": 0.521,
+   "btts": 0.567,
+   "scores": [
+    [
+     "1-1",
+     0.131
+    ],
+    [
+     "0-1",
+     0.091
+    ],
+    [
+     "1-2",
+     0.089
+    ],
+    [
+     "1-0",
+     0.073
+    ],
+    [
+     "0-2",
+     0.072
+    ],
+    [
+     "2-1",
+     0.071
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Sturm Graz",
+   "away": "OFI Crete",
+   "homeName": "Sturm Graz",
+   "awayName": "OFI",
+   "homeLeague": "austria",
+   "awayLeague": "superleague",
+   "homeSlug": "sturm-graz",
+   "awaySlug": "ofi-crete",
+   "homeCountry": "AUT",
+   "awayCountry": "GRE",
+   "elo": [
+    1596,
+    1430
+   ],
+   "dr": 255,
+   "H": 0.68,
+   "D": 0.196,
+   "A": 0.124,
+   "xg": [
+    2.3,
+    0.9
+   ],
+   "O25": 0.595,
+   "btts": 0.521,
+   "scores": [
+    [
+     "2-0",
+     0.11
+    ],
+    [
+     "1-0",
+     0.097
+    ],
+    [
+     "1-1",
+     0.096
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "3-0",
+     0.084
+    ],
+    [
+     "3-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Jagiellonia",
+   "away": "Lyon",
+   "homeName": "Jagiellonia",
+   "awayName": "Olympique Lyonnais",
+   "homeLeague": "poland",
+   "awayLeague": "ligue1",
+   "homeSlug": "jagiellonia",
+   "awaySlug": "lyon",
+   "homeCountry": "POL",
+   "awayCountry": "FRA",
+   "elo": [
+    1599,
+    1816
+   ],
+   "dr": -127,
+   "H": 0.227,
+   "D": 0.251,
+   "A": 0.522,
+   "xg": [
+    1.1,
+    1.8
+   ],
+   "O25": 0.537,
+   "btts": 0.557,
+   "scores": [
+    [
+     "1-1",
+     0.123
+    ],
+    [
+     "0-1",
+     0.097
+    ],
+    [
+     "1-2",
+     0.096
+    ],
+    [
+     "0-2",
+     0.087
+    ],
+    [
+     "0-0",
+     0.063
+    ],
+    [
+     "1-0",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Besiktas",
+   "away": "St. Gilloise",
+   "homeName": "Beşiktaş",
+   "awayName": "Union Saint-Gilloise",
+   "homeLeague": "superlig",
+   "awayLeague": "proleague",
+   "homeSlug": "besiktas",
+   "awaySlug": "st-gilloise",
+   "homeCountry": "TUR",
+   "awayCountry": "BEL",
+   "elo": [
+    1849,
+    1876
+   ],
+   "dr": 63,
+   "H": 0.44,
+   "D": 0.267,
+   "A": 0.293,
+   "xg": [
+    1.6,
+    1.2
+   ],
+   "O25": 0.522,
+   "btts": 0.567,
+   "scores": [
+    [
+     "1-1",
+     0.131
+    ],
+    [
+     "1-0",
+     0.092
+    ],
+    [
+     "2-1",
+     0.09
+    ],
+    [
+     "2-0",
+     0.072
+    ],
+    [
+     "0-1",
+     0.072
+    ],
+    [
+     "1-2",
+     0.071
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Nijmegen",
+   "away": "Benfica",
+   "homeName": "NEC",
+   "awayName": "Benfica",
+   "homeLeague": "eredivisie",
+   "awayLeague": "primeira",
+   "homeSlug": "nijmegen",
+   "awaySlug": "benfica",
+   "homeCountry": "NED",
+   "awayCountry": "POR",
+   "elo": [
+    1670,
+    1988
+   ],
+   "dr": -228,
+   "H": 0.143,
+   "D": 0.21,
+   "A": 0.647,
+   "xg": [
+    0.9,
+    2.2
+   ],
+   "O25": 0.58,
+   "btts": 0.53,
+   "scores": [
+    [
+     "0-2",
+     0.106
+    ],
+    [
+     "1-1",
+     0.103
+    ],
+    [
+     "0-1",
+     0.098
+    ],
+    [
+     "1-2",
+     0.097
+    ],
+    [
+     "0-3",
+     0.077
+    ],
+    [
+     "1-3",
+     0.069
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Lillestrom",
+   "away": "Bournemouth",
+   "homeName": "Lillestrom",
+   "awayName": "AFC Bournemouth",
+   "homeLeague": "norway",
+   "awayLeague": "pl",
+   "homeSlug": "lillestrom",
+   "awaySlug": "bournemouth",
+   "homeCountry": "NOR",
+   "awayCountry": "ENG",
+   "elo": [
+    1532,
+    1984
+   ],
+   "dr": -363,
+   "H": 0.066,
+   "D": 0.138,
+   "A": 0.796,
+   "xg": [
+    0.7,
+    2.8
+   ],
+   "O25": 0.669,
+   "btts": 0.476,
+   "scores": [
+    [
+     "0-2",
+     0.117
+    ],
+    [
+     "0-3",
+     0.109
+    ],
+    [
+     "0-1",
+     0.084
+    ],
+    [
+     "1-2",
+     0.082
+    ],
+    [
+     "1-3",
+     0.076
+    ],
+    [
+     "0-4",
+     0.076
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T17:45:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Ararat-Armenia (ARM)",
+   "away": "Celje (SVN)",
+   "homeName": "Ararat-Armenia",
+   "awayName": "Celje",
+   "homeLeague": null,
+   "awayLeague": null,
+   "homeSlug": null,
+   "awaySlug": null,
+   "homeCountry": "ARM",
+   "awayCountry": "SVN",
+   "elo": [
+    1416,
+    1539
+   ],
+   "dr": -34,
+   "H": 0.325,
+   "D": 0.271,
+   "A": 0.404,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.518,
+   "btts": 0.569,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.088
+    ],
+    [
+     "1-2",
+     0.086
+    ],
+    [
+     "1-0",
+     0.077
+    ],
+    [
+     "2-1",
+     0.076
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Leverkusen",
+   "away": "Salzburg",
+   "homeName": "Bayer Leverkusen",
+   "awayName": "Salzburg",
+   "homeLeague": "bundesliga",
+   "awayLeague": "austria",
+   "homeSlug": "leverkusen",
+   "awaySlug": "salzburg",
+   "homeCountry": "GER",
+   "awayCountry": "AUT",
+   "elo": [
+    1976,
+    1700
    ],
    "dr": 366,
    "H": 0.799,
@@ -8178,6 +5602,566 @@
    ]
   },
   {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "AZ Alkmaar",
+   "away": "GNK Dinamo (CRO)",
+   "homeName": "AZ",
+   "awayName": "GNK Dinamo",
+   "homeLeague": "eredivisie",
+   "awayLeague": null,
+   "homeSlug": "az-alkmaar",
+   "awaySlug": null,
+   "homeCountry": "NED",
+   "awayCountry": "CRO",
+   "elo": [
+    1790,
+    1716
+   ],
+   "dr": 164,
+   "H": 0.568,
+   "D": 0.238,
+   "A": 0.194,
+   "xg": [
+    1.9,
+    1
+   ],
+   "O25": 0.55,
+   "btts": 0.549,
+   "scores": [
+    [
+     "1-1",
+     0.117
+    ],
+    [
+     "1-0",
+     0.099
+    ],
+    [
+     "2-1",
+     0.097
+    ],
+    [
+     "2-0",
+     0.095
+    ],
+    [
+     "3-1",
+     0.062
+    ],
+    [
+     "3-0",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Celtic",
+   "away": "Marseille",
+   "homeName": "Celtic",
+   "awayName": "Olympique de Marseille",
+   "homeLeague": "scotland",
+   "awayLeague": "ligue1",
+   "homeSlug": "celtic",
+   "awaySlug": "marseille",
+   "homeCountry": "SCO",
+   "awayCountry": "FRA",
+   "elo": [
+    1695,
+    1810
+   ],
+   "dr": -25,
+   "H": 0.335,
+   "D": 0.272,
+   "A": 0.394,
+   "xg": [
+    1.3,
+    1.5
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.087
+    ],
+    [
+     "1-2",
+     0.085
+    ],
+    [
+     "1-0",
+     0.079
+    ],
+    [
+     "2-1",
+     0.077
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Rennes",
+   "away": "Omonia (CYP)",
+   "homeName": "Rennes",
+   "awayName": "Omonia",
+   "homeLeague": "ligue1",
+   "awayLeague": null,
+   "homeSlug": "rennes",
+   "awaySlug": null,
+   "homeCountry": "FRA",
+   "awayCountry": "CYP",
+   "elo": [
+    1794,
+    1590
+   ],
+   "dr": 293,
+   "H": 0.723,
+   "D": 0.176,
+   "A": 0.101,
+   "xg": [
+    2.4,
+    0.8
+   ],
+   "O25": 0.619,
+   "btts": 0.506,
+   "scores": [
+    [
+     "2-0",
+     0.114
+    ],
+    [
+     "1-0",
+     0.093
+    ],
+    [
+     "3-0",
+     0.093
+    ],
+    [
+     "2-1",
+     0.092
+    ],
+    [
+     "1-1",
+     0.086
+    ],
+    [
+     "3-1",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Anderlecht",
+   "away": "Sunderland",
+   "homeName": "Anderlecht",
+   "awayName": "Sunderland",
+   "homeLeague": "proleague",
+   "awayLeague": "pl",
+   "homeSlug": "anderlecht",
+   "awaySlug": "sunderland",
+   "homeCountry": "BEL",
+   "awayCountry": "ENG",
+   "elo": [
+    1762,
+    1858
+   ],
+   "dr": -6,
+   "H": 0.357,
+   "D": 0.272,
+   "A": 0.37,
+   "xg": [
+    1.4,
+    1.4
+   ],
+   "O25": 0.517,
+   "btts": 0.57,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "0-1",
+     0.084
+    ],
+    [
+     "1-2",
+     0.082
+    ],
+    [
+     "1-0",
+     0.082
+    ],
+    [
+     "2-1",
+     0.08
+    ],
+    [
+     "0-0",
+     0.068
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Lech Poznan",
+   "away": "Torreense (POR)",
+   "homeName": "Lech Poznan",
+   "awayName": "Torreense",
+   "homeLeague": "poland",
+   "awayLeague": null,
+   "homeSlug": "lech-poznan",
+   "awaySlug": null,
+   "homeCountry": "POL",
+   "awayCountry": "POR",
+   "elo": [
+    1696,
+    1427
+   ],
+   "dr": 359,
+   "H": 0.792,
+   "D": 0.14,
+   "A": 0.068,
+   "xg": [
+    2.8,
+    0.7
+   ],
+   "O25": 0.666,
+   "btts": 0.478,
+   "scores": [
+    [
+     "2-0",
+     0.117
+    ],
+    [
+     "3-0",
+     0.108
+    ],
+    [
+     "1-0",
+     0.084
+    ],
+    [
+     "2-1",
+     0.083
+    ],
+    [
+     "3-1",
+     0.076
+    ],
+    [
+     "4-0",
+     0.075
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Crystal Palace",
+   "away": "Sparta Praha (CZE)",
+   "homeName": "Crystal Palace",
+   "awayName": "Sparta Praha",
+   "homeLeague": "pl",
+   "awayLeague": null,
+   "homeSlug": "crystal-palace",
+   "awaySlug": null,
+   "homeCountry": "ENG",
+   "awayCountry": "CZE",
+   "elo": [
+    1817,
+    1655
+   ],
+   "dr": 252,
+   "H": 0.676,
+   "D": 0.197,
+   "A": 0.126,
+   "xg": [
+    2.3,
+    0.9
+   ],
+   "O25": 0.594,
+   "btts": 0.522,
+   "scores": [
+    [
+     "2-0",
+     0.11
+    ],
+    [
+     "1-0",
+     0.097
+    ],
+    [
+     "1-1",
+     0.097
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "3-0",
+     0.083
+    ],
+    [
+     "3-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "H. Beer-Sheva (ISR)",
+   "away": "Celta",
+   "homeName": "H. Beer-Sheva",
+   "awayName": "Celta Vigo",
+   "homeLeague": null,
+   "awayLeague": "laliga",
+   "homeSlug": null,
+   "awaySlug": "celta",
+   "homeCountry": "ISR",
+   "awayCountry": "ESP",
+   "elo": [
+    1560,
+    1778
+   ],
+   "dr": -128,
+   "H": 0.227,
+   "D": 0.251,
+   "A": 0.522,
+   "xg": [
+    1.1,
+    1.8
+   ],
+   "O25": 0.537,
+   "btts": 0.557,
+   "scores": [
+    [
+     "1-1",
+     0.123
+    ],
+    [
+     "0-1",
+     0.097
+    ],
+    [
+     "1-2",
+     0.096
+    ],
+    [
+     "0-2",
+     0.087
+    ],
+    [
+     "0-0",
+     0.063
+    ],
+    [
+     "1-0",
+     0.06
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-21T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "Levski Sofia (BUL)",
+   "away": "Milan",
+   "homeName": "Levski Sofia",
+   "awayName": "AC Milan",
+   "homeLeague": null,
+   "awayLeague": "seriea",
+   "homeSlug": null,
+   "awaySlug": "milan",
+   "homeCountry": "BUL",
+   "awayCountry": "ITA",
+   "elo": [
+    1579,
+    1934
+   ],
+   "dr": -265,
+   "H": 0.118,
+   "D": 0.191,
+   "A": 0.692,
+   "xg": [
+    0.8,
+    2.3
+   ],
+   "O25": 0.602,
+   "btts": 0.517,
+   "scores": [
+    [
+     "0-2",
+     0.112
+    ],
+    [
+     "0-1",
+     0.096
+    ],
+    [
+     "1-2",
+     0.094
+    ],
+    [
+     "1-1",
+     0.093
+    ],
+    [
+     "0-3",
+     0.086
+    ],
+    [
+     "1-3",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-27T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Paris SG",
+   "away": "Galatasaray",
+   "homeName": "Paris Saint-Germain",
+   "awayName": "Galatasaray",
+   "homeLeague": "ligue1",
+   "awayLeague": "superlig",
+   "homeSlug": "paris-sg",
+   "awaySlug": "galatasaray",
+   "homeCountry": "FRA",
+   "awayCountry": "TUR",
+   "elo": [
+    2096,
+    1836
+   ],
+   "dr": 350,
+   "H": 0.783,
+   "D": 0.145,
+   "A": 0.072,
+   "xg": [
+    2.7,
+    0.7
+   ],
+   "O25": 0.659,
+   "btts": 0.482,
+   "scores": [
+    [
+     "2-0",
+     0.117
+    ],
+    [
+     "3-0",
+     0.106
+    ],
+    [
+     "1-0",
+     0.086
+    ],
+    [
+     "2-1",
+     0.084
+    ],
+    [
+     "3-1",
+     0.076
+    ],
+    [
+     "4-0",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-27T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Bayern Munich",
+   "away": "Betis",
+   "homeName": "Bayern Munich",
+   "awayName": "Real Betis",
+   "homeLeague": "bundesliga",
+   "awayLeague": "laliga",
+   "homeSlug": "bayern-munich",
+   "awaySlug": "betis",
+   "homeCountry": "GER",
+   "awayCountry": "ESP",
+   "elo": [
+    2168,
+    1875
+   ],
+   "dr": 383,
+   "H": 0.815,
+   "D": 0.127,
+   "A": 0.058,
+   "xg": [
+    2.9,
+    0.7
+   ],
+   "O25": 0.685,
+   "btts": 0.466,
+   "scores": [
+    [
+     "2-0",
+     0.116
+    ],
+    [
+     "3-0",
+     0.113
+    ],
+    [
+     "4-0",
+     0.082
+    ],
+    [
+     "1-0",
+     0.08
+    ],
+    [
+     "2-1",
+     0.078
+    ],
+    [
+     "3-1",
+     0.076
+    ]
+   ]
+  },
+  {
    "kickoff": "2027-01-27T20:00:00Z",
    "comp": "cl",
    "compName": "Champions League",
@@ -8193,39 +6177,39 @@
    "homeCountry": "ENG",
    "awayCountry": "FRA",
    "elo": [
-    2079,
-    1792
+    2081,
+    1788
    ],
-   "dr": 376,
-   "H": 0.809,
-   "D": 0.131,
-   "A": 0.061,
+   "dr": 383,
+   "H": 0.815,
+   "D": 0.127,
+   "A": 0.058,
    "xg": [
     2.9,
     0.7
    ],
-   "O25": 0.68,
-   "btts": 0.47,
+   "O25": 0.685,
+   "btts": 0.466,
    "scores": [
     [
      "2-0",
-     0.117
+     0.116
     ],
     [
      "3-0",
-     0.111
-    ],
-    [
-     "1-0",
-     0.081
+     0.112
     ],
     [
      "4-0",
+     0.082
+    ],
+    [
+     "1-0",
      0.08
     ],
     [
      "2-1",
-     0.08
+     0.079
     ],
     [
      "3-1",
@@ -8249,39 +6233,39 @@
    "homeCountry": "ENG",
    "awayCountry": "POR",
    "elo": [
-    2122,
-    1918
+    2124,
+    1911
    ],
-   "dr": 294,
-   "H": 0.724,
-   "D": 0.175,
-   "A": 0.101,
+   "dr": 303,
+   "H": 0.734,
+   "D": 0.17,
+   "A": 0.095,
    "xg": [
     2.5,
     0.8
    ],
-   "O25": 0.62,
-   "btts": 0.506,
+   "O25": 0.626,
+   "btts": 0.502,
    "scores": [
     [
      "2-0",
-     0.114
+     0.115
     ],
     [
      "3-0",
-     0.093
+     0.096
     ],
     [
      "1-0",
-     0.093
-    ],
-    [
-     "2-1",
      0.092
     ],
     [
+     "2-1",
+     0.09
+    ],
+    [
      "1-1",
-     0.086
+     0.083
     ],
     [
      "3-1",
@@ -8305,19 +6289,19 @@
    "homeCountry": "ENG",
    "awayCountry": "AZE",
    "elo": [
-    2157,
+    2160,
     1511
    ],
-   "dr": 736,
-   "H": 0.986,
+   "dr": 738,
+   "H": 0.987,
    "D": 0.011,
    "A": 0.002,
    "xg": [
     5.7,
     0.3
    ],
-   "O25": 0.936,
-   "btts": 0.291,
+   "O25": 0.938,
+   "btts": 0.29,
    "scores": [
     [
      "5-0",
@@ -8325,11 +6309,11 @@
     ],
     [
      "4-0",
-     0.108
+     0.107
     ],
     [
      "3-0",
-     0.076
+     0.075
     ],
     [
      "5-1",
@@ -8337,7 +6321,7 @@
     ],
     [
      "2-0",
-     0.04
+     0.039
     ],
     [
      "4-1",
@@ -8361,43 +6345,43 @@
    "homeCountry": "ESP",
    "awayCountry": "ITA",
    "elo": [
-    2169,
-    1973
+    2160,
+    1981
    ],
-   "dr": 286,
-   "H": 0.715,
-   "D": 0.18,
-   "A": 0.105,
+   "dr": 269,
+   "H": 0.696,
+   "D": 0.189,
+   "A": 0.116,
    "xg": [
-    2.4,
+    2.3,
     0.8
    ],
-   "O25": 0.615,
-   "btts": 0.509,
+   "O25": 0.604,
+   "btts": 0.516,
    "scores": [
     [
      "2-0",
-     0.114
+     0.112
     ],
     [
      "1-0",
-     0.094
+     0.096
     ],
     [
      "2-1",
+     0.094
+    ],
+    [
+     "1-1",
      0.092
     ],
     [
      "3-0",
-     0.091
-    ],
-    [
-     "1-1",
-     0.088
+     0.087
     ],
     [
      "3-1",
-     0.074
+     0.073
     ]
    ]
   },
@@ -8417,18 +6401,74 @@
    "homeCountry": "ESP",
    "awayCountry": "TUR",
    "elo": [
-    1992,
-    1812
+    1983,
+    1813
    ],
-   "dr": 271,
-   "H": 0.698,
+   "dr": 260,
+   "H": 0.685,
+   "D": 0.193,
+   "A": 0.121,
+   "xg": [
+    2.3,
+    0.9
+   ],
+   "O25": 0.598,
+   "btts": 0.519,
+   "scores": [
+    [
+     "2-0",
+     0.111
+    ],
+    [
+     "1-0",
+     0.097
+    ],
+    [
+     "1-1",
+     0.095
+    ],
+    [
+     "2-1",
+     0.095
+    ],
+    [
+     "3-0",
+     0.085
+    ],
+    [
+     "3-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-27T20:00:00Z",
+   "comp": "cl",
+   "compName": "Champions League",
+   "round": "League Phase",
+   "home": "Dortmund",
+   "away": "AEK",
+   "homeName": "Borussia Dortmund",
+   "awayName": "AEK Athens",
+   "homeLeague": "bundesliga",
+   "awayLeague": "superleague",
+   "homeSlug": "dortmund",
+   "awaySlug": "aek",
+   "homeCountry": "GER",
+   "awayCountry": "GRE",
+   "elo": [
+    1937,
+    1757
+   ],
+   "dr": 270,
+   "H": 0.697,
    "D": 0.188,
-   "A": 0.114,
+   "A": 0.115,
    "xg": [
     2.3,
     0.8
    ],
-   "O25": 0.605,
+   "O25": 0.604,
    "btts": 0.515,
    "scores": [
     [
@@ -8449,67 +6489,11 @@
     ],
     [
      "3-0",
-     0.088
+     0.087
     ],
     [
      "3-1",
      0.073
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-27T20:00:00Z",
-   "comp": "cl",
-   "compName": "Champions League",
-   "round": "League Phase",
-   "home": "Dortmund",
-   "away": "AEK",
-   "homeName": "Borussia Dortmund",
-   "awayName": "AEK Athens",
-   "homeLeague": "bundesliga",
-   "awayLeague": "superleague",
-   "homeSlug": "dortmund",
-   "awaySlug": "aek",
-   "homeCountry": "GER",
-   "awayCountry": "GRE",
-   "elo": [
-    1931,
-    1763
-   ],
-   "dr": 258,
-   "H": 0.682,
-   "D": 0.195,
-   "A": 0.123,
-   "xg": [
-    2.3,
-    0.9
-   ],
-   "O25": 0.597,
-   "btts": 0.52,
-   "scores": [
-    [
-     "2-0",
-     0.111
-    ],
-    [
-     "1-0",
-     0.097
-    ],
-    [
-     "1-1",
-     0.095
-    ],
-    [
-     "2-1",
-     0.095
-    ],
-    [
-     "3-0",
-     0.084
-    ],
-    [
-     "3-1",
-     0.072
     ]
    ]
   },
@@ -8529,31 +6513,31 @@
    "homeCountry": "ITA",
    "awayCountry": "FRA",
    "elo": [
-    1970,
-    1812
+    1978,
+    1808
    ],
-   "dr": 248,
-   "H": 0.671,
-   "D": 0.2,
-   "A": 0.129,
+   "dr": 260,
+   "H": 0.686,
+   "D": 0.193,
+   "A": 0.121,
    "xg": [
-    2.2,
+    2.3,
     0.9
    ],
-   "O25": 0.591,
-   "btts": 0.523,
+   "O25": 0.598,
+   "btts": 0.519,
    "scores": [
     [
      "2-0",
-     0.109
-    ],
-    [
-     "1-1",
-     0.098
+     0.111
     ],
     [
      "1-0",
      0.097
+    ],
+    [
+     "1-1",
+     0.095
     ],
     [
      "2-1",
@@ -8561,11 +6545,11 @@
     ],
     [
      "3-0",
-     0.082
+     0.085
     ],
     [
      "3-1",
-     0.071
+     0.072
     ]
    ]
   },
@@ -8585,43 +6569,43 @@
    "homeCountry": "BEL",
    "awayCountry": "NOR",
    "elo": [
-    1913,
-    1877
+    1916,
+    1874
    ],
-   "dr": 126,
-   "H": 0.519,
-   "D": 0.252,
-   "A": 0.229,
+   "dr": 131,
+   "H": 0.526,
+   "D": 0.25,
+   "A": 0.224,
    "xg": [
     1.8,
     1.1
    ],
-   "O25": 0.536,
-   "btts": 0.558,
+   "O25": 0.538,
+   "btts": 0.556,
    "scores": [
     [
      "1-1",
-     0.123
+     0.122
     ],
     [
      "1-0",
-     0.097
+     0.098
     ],
     [
      "2-1",
-     0.095
+     0.096
     ],
     [
      "2-0",
-     0.087
+     0.088
     ],
     [
      "0-0",
-     0.063
+     0.062
     ],
     [
      "0-1",
-     0.06
+     0.059
     ]
    ]
   },
@@ -8641,10 +6625,10 @@
    "homeCountry": "NED",
    "awayCountry": "GER",
    "elo": [
-    1848,
-    1854
+    1854,
+    1860
    ],
-   "dr": 84,
+   "dr": 85,
    "H": 0.467,
    "D": 0.263,
    "A": 0.27,
@@ -8697,13 +6681,13 @@
    "homeCountry": "NED",
    "awayCountry": "GER",
    "elo": [
-    1794,
-    1921
+    1801,
+    1927
    ],
-   "dr": -37,
+   "dr": -36,
    "H": 0.322,
    "D": 0.271,
-   "A": 0.408,
+   "A": 0.407,
    "xg": [
     1.3,
     1.5
@@ -8721,7 +6705,7 @@
     ],
     [
      "1-2",
-     0.087
+     0.086
     ],
     [
      "1-0",
@@ -8753,39 +6737,39 @@
    "homeCountry": "ITA",
    "awayCountry": "NOR",
    "elo": [
-    1900,
-    1714
+    1908,
+    1711
    ],
-   "dr": 276,
-   "H": 0.703,
-   "D": 0.185,
-   "A": 0.111,
+   "dr": 287,
+   "H": 0.717,
+   "D": 0.179,
+   "A": 0.104,
    "xg": [
     2.4,
     0.8
    ],
-   "O25": 0.608,
-   "btts": 0.513,
+   "O25": 0.616,
+   "btts": 0.508,
    "scores": [
     [
      "2-0",
-     0.113
+     0.114
     ],
     [
      "1-0",
-     0.095
+     0.094
     ],
     [
      "2-1",
-     0.093
-    ],
-    [
-     "1-1",
-     0.091
+     0.092
     ],
     [
      "3-0",
-     0.089
+     0.092
+    ],
+    [
+     "1-1",
+     0.088
     ],
     [
      "3-1",
@@ -8809,16 +6793,16 @@
    "homeCountry": "ESP",
    "awayCountry": "ENG",
    "elo": [
-    1858,
-    1963
+    1849,
+    1965
    ],
-   "dr": -15,
-   "H": 0.346,
-   "D": 0.272,
-   "A": 0.381,
+   "dr": -27,
+   "H": 0.333,
+   "D": 0.271,
+   "A": 0.396,
    "xg": [
-    1.4,
-    1.4
+    1.3,
+    1.5
    ],
    "O25": 0.517,
    "btts": 0.57,
@@ -8829,19 +6813,19 @@
     ],
     [
      "0-1",
-     0.085
+     0.087
     ],
     [
      "1-2",
-     0.083
+     0.085
     ],
     [
      "1-0",
-     0.081
+     0.078
     ],
     [
      "2-1",
-     0.079
+     0.077
     ],
     [
      "0-0",
@@ -8866,18 +6850,18 @@
    "awayCountry": "ESP",
    "elo": [
     1738,
-    2135
+    2125
    ],
-   "dr": -307,
-   "H": 0.093,
-   "D": 0.168,
-   "A": 0.738,
+   "dr": -296,
+   "H": 0.099,
+   "D": 0.174,
+   "A": 0.727,
    "xg": [
     0.8,
     2.5
    ],
-   "O25": 0.629,
-   "btts": 0.5,
+   "O25": 0.621,
+   "btts": 0.505,
    "scores": [
     [
      "0-2",
@@ -8885,19 +6869,19 @@
     ],
     [
      "0-3",
-     0.097
+     0.094
     ],
     [
      "0-1",
-     0.092
+     0.093
     ],
     [
      "1-2",
-     0.09
+     0.091
     ],
     [
      "1-1",
-     0.082
+     0.085
     ],
     [
      "1-3",
@@ -8921,27 +6905,27 @@
    "homeCountry": "CZE",
    "awayCountry": "ENG",
    "elo": [
-    1648,
-    1933
+    1654,
+    1936
    ],
-   "dr": -195,
-   "H": 0.168,
-   "D": 0.225,
-   "A": 0.607,
+   "dr": -192,
+   "H": 0.171,
+   "D": 0.227,
+   "A": 0.603,
    "xg": [
     1,
     2
    ],
-   "O25": 0.563,
-   "btts": 0.541,
+   "O25": 0.562,
+   "btts": 0.542,
    "scores": [
     [
      "1-1",
-     0.11
+     0.111
     ],
     [
      "0-2",
-     0.101
+     0.1
     ],
     [
      "0-1",
@@ -8953,11 +6937,11 @@
     ],
     [
      "0-3",
-     0.068
+     0.067
     ],
     [
      "1-3",
-     0.066
+     0.065
     ]
    ]
   },
@@ -8978,42 +6962,42 @@
    "awayCountry": "ITA",
    "elo": [
     1502,
-    2044
+    2052
    ],
-   "dr": -453,
-   "H": 0.035,
-   "D": 0.092,
-   "A": 0.873,
+   "dr": -460,
+   "H": 0.034,
+   "D": 0.088,
+   "A": 0.878,
    "xg": [
     0.6,
-    3.3
+    3.4
    ],
-   "O25": 0.741,
-   "btts": 0.432,
+   "O25": 0.747,
+   "btts": 0.428,
    "scores": [
     [
      "0-3",
-     0.121
+     0.122
     ],
     [
      "0-2",
-     0.11
+     0.109
     ],
     [
      "0-4",
-     0.1
+     0.102
     ],
     [
      "1-3",
-     0.072
+     0.071
     ],
     [
      "0-5",
-     0.067
+     0.069
     ],
     [
      "0-1",
-     0.066
+     0.065
     ]
    ]
   },
@@ -9034,22 +7018,22 @@
    "awayCountry": "POR",
    "elo": [
     1717,
-    1967
+    1961
    ],
-   "dr": -161,
-   "H": 0.197,
-   "D": 0.24,
-   "A": 0.563,
+   "dr": -154,
+   "H": 0.203,
+   "D": 0.242,
+   "A": 0.555,
    "xg": [
     1,
     1.9
    ],
-   "O25": 0.548,
-   "btts": 0.55,
+   "O25": 0.546,
+   "btts": 0.551,
    "scores": [
     [
      "1-1",
-     0.117
+     0.119
     ],
     [
      "0-1",
@@ -9061,7 +7045,7 @@
     ],
     [
      "0-2",
-     0.094
+     0.093
     ],
     [
      "1-3",
@@ -9069,7 +7053,7 @@
     ],
     [
      "0-0",
-     0.06
+     0.061
     ]
    ]
   },
@@ -9089,43 +7073,43 @@
    "homeCountry": "POR",
    "awayCountry": "NED",
    "elo": [
-    2025,
-    1770
+    1988,
+    1790
    ],
-   "dr": 345,
-   "H": 0.778,
-   "D": 0.148,
-   "A": 0.074,
+   "dr": 288,
+   "H": 0.718,
+   "D": 0.179,
+   "A": 0.104,
    "xg": [
-    2.7,
-    0.7
+    2.4,
+    0.8
    ],
-   "O25": 0.656,
-   "btts": 0.484,
+   "O25": 0.616,
+   "btts": 0.508,
    "scores": [
     [
      "2-0",
-     0.117
-    ],
-    [
-     "3-0",
-     0.105
+     0.114
     ],
     [
      "1-0",
-     0.087
+     0.094
     ],
     [
      "2-1",
-     0.085
+     0.092
     ],
     [
-     "3-1",
-     0.076
+     "3-0",
+     0.092
     ],
     [
      "1-1",
-     0.072
+     0.087
+    ],
+    [
+     "3-1",
+     0.074
     ]
    ]
   },
@@ -9145,27 +7129,27 @@
    "homeCountry": "ITA",
    "awayCountry": "ESP",
    "elo": [
-    1924,
-    1826
+    1937,
+    1810
    ],
-   "dr": 188,
-   "H": 0.597,
-   "D": 0.228,
-   "A": 0.174,
+   "dr": 216,
+   "H": 0.633,
+   "D": 0.215,
+   "A": 0.152,
    "xg": [
-    2,
-    1
+    2.1,
+    0.9
    ],
-   "O25": 0.56,
-   "btts": 0.543,
+   "O25": 0.574,
+   "btts": 0.534,
    "scores": [
     [
      "1-1",
-     0.112
+     0.105
     ],
     [
      "2-0",
-     0.099
+     0.105
     ],
     [
      "1-0",
@@ -9177,11 +7161,11 @@
     ],
     [
      "3-0",
-     0.066
+     0.074
     ],
     [
      "3-1",
-     0.065
+     0.068
     ]
    ]
   },
@@ -9201,43 +7185,43 @@
    "homeCountry": "ITA",
    "awayCountry": "ARM",
    "elo": [
-    1915,
-    1419
+    1934,
+    1416
    ],
-   "dr": 585,
-   "H": 0.948,
-   "D": 0.041,
-   "A": 0.012,
+   "dr": 609,
+   "H": 0.956,
+   "D": 0.034,
+   "A": 0.009,
    "xg": [
-    4.3,
-    0.5
+    4.5,
+    0.4
    ],
-   "O25": 0.846,
-   "btts": 0.364,
+   "O25": 0.863,
+   "btts": 0.352,
    "scores": [
     [
      "4-0",
-     0.122
+     0.123
     ],
     [
      "3-0",
-     0.115
+     0.11
     ],
     [
      "5-0",
-     0.105
+     0.11
     ],
     [
      "2-0",
-     0.081
+     0.074
     ],
     [
      "4-1",
-     0.056
+     0.054
     ],
     [
      "3-1",
-     0.053
+     0.049
     ]
    ]
   },
@@ -9257,43 +7241,43 @@
    "homeCountry": "FRA",
    "awayCountry": "GER",
    "elo": [
-    1827,
-    1962
+    1816,
+    1976
    ],
-   "dr": -44,
-   "H": 0.313,
-   "D": 0.27,
-   "A": 0.417,
+   "dr": -70,
+   "H": 0.285,
+   "D": 0.266,
+   "A": 0.449,
    "xg": [
-    1.3,
-    1.5
+    1.2,
+    1.6
    ],
-   "O25": 0.519,
-   "btts": 0.569,
+   "O25": 0.523,
+   "btts": 0.566,
    "scores": [
     [
      "1-1",
-     0.132
+     0.13
     ],
     [
      "0-1",
-     0.089
+     0.092
     ],
     [
      "1-2",
-     0.088
-    ],
-    [
-     "1-0",
-     0.075
-    ],
-    [
-     "2-1",
-     0.074
+     0.091
     ],
     [
      "0-2",
-     0.068
+     0.074
+    ],
+    [
+     "1-0",
+     0.071
+    ],
+    [
+     "2-1",
+     0.069
     ]
    ]
   },
@@ -9313,43 +7297,43 @@
    "homeCountry": "FRA",
    "awayCountry": "BEL",
    "elo": [
-    1812,
-    1754
+    1810,
+    1762
    ],
-   "dr": 148,
-   "H": 0.548,
-   "D": 0.244,
-   "A": 0.208,
+   "dr": 138,
+   "H": 0.535,
+   "D": 0.248,
+   "A": 0.217,
    "xg": [
-    1.9,
+    1.8,
     1.1
    ],
-   "O25": 0.544,
-   "btts": 0.553,
+   "O25": 0.54,
+   "btts": 0.555,
    "scores": [
     [
      "1-1",
-     0.12
+     0.121
     ],
     [
      "1-0",
-     0.099
+     0.098
     ],
     [
      "2-1",
-     0.097
+     0.096
     ],
     [
      "2-0",
-     0.092
+     0.089
     ],
     [
      "0-0",
-     0.061
+     0.062
     ],
     [
      "3-1",
-     0.06
+     0.058
     ]
    ]
   },
@@ -9369,18 +7353,130 @@
    "homeCountry": "CZE",
    "awayCountry": "POL",
    "elo": [
-    1709,
-    1590
+    1745,
+    1599
    ],
-   "dr": 209,
-   "H": 0.625,
-   "D": 0.219,
-   "A": 0.157,
+   "dr": 236,
+   "H": 0.657,
+   "D": 0.206,
+   "A": 0.137,
+   "xg": [
+    2.2,
+    0.9
+   ],
+   "O25": 0.584,
+   "btts": 0.527,
+   "scores": [
+    [
+     "2-0",
+     0.108
+    ],
+    [
+     "1-1",
+     0.101
+    ],
+    [
+     "1-0",
+     0.098
+    ],
+    [
+     "2-1",
+     0.096
+    ],
+    [
+     "3-0",
+     0.079
+    ],
+    [
+     "3-1",
+     0.07
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-28T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "St. Gilloise",
+   "away": "Celtic",
+   "homeName": "Union Saint-Gilloise",
+   "awayName": "Celtic",
+   "homeLeague": "proleague",
+   "awayLeague": "scotland",
+   "homeSlug": "st-gilloise",
+   "awaySlug": "celtic",
+   "homeCountry": "BEL",
+   "awayCountry": "SCO",
+   "elo": [
+    1876,
+    1695
+   ],
+   "dr": 271,
+   "H": 0.698,
+   "D": 0.188,
+   "A": 0.114,
+   "xg": [
+    2.3,
+    0.8
+   ],
+   "O25": 0.605,
+   "btts": 0.515,
+   "scores": [
+    [
+     "2-0",
+     0.112
+    ],
+    [
+     "1-0",
+     0.096
+    ],
+    [
+     "2-1",
+     0.094
+    ],
+    [
+     "1-1",
+     0.092
+    ],
+    [
+     "3-0",
+     0.088
+    ],
+    [
+     "3-1",
+     0.073
+    ]
+   ]
+  },
+  {
+   "kickoff": "2027-01-28T20:00:00Z",
+   "comp": "el",
+   "compName": "Europa League",
+   "round": "League Phase",
+   "home": "GNK Dinamo (CRO)",
+   "away": "Sturm Graz",
+   "homeName": "GNK Dinamo",
+   "awayName": "Sturm Graz",
+   "homeLeague": null,
+   "awayLeague": "austria",
+   "homeSlug": null,
+   "awaySlug": "sturm-graz",
+   "homeCountry": "CRO",
+   "awayCountry": "AUT",
+   "elo": [
+    1716,
+    1596
+   ],
+   "dr": 210,
+   "H": 0.626,
+   "D": 0.218,
+   "A": 0.156,
    "xg": [
     2.1,
     0.9
    ],
-   "O25": 0.57,
+   "O25": 0.571,
    "btts": 0.536,
    "scores": [
     [
@@ -9389,7 +7485,7 @@
     ],
     [
      "2-0",
-     0.103
+     0.104
     ],
     [
      "1-0",
@@ -9414,118 +7510,6 @@
    "comp": "el",
    "compName": "Europa League",
    "round": "League Phase",
-   "home": "St. Gilloise",
-   "away": "Celtic",
-   "homeName": "Union Saint-Gilloise",
-   "awayName": "Celtic",
-   "homeLeague": "proleague",
-   "awayLeague": "scotland",
-   "homeSlug": "st-gilloise",
-   "awaySlug": "celtic",
-   "homeCountry": "BEL",
-   "awayCountry": "SCO",
-   "elo": [
-    1879,
-    1690
-   ],
-   "dr": 278,
-   "H": 0.707,
-   "D": 0.184,
-   "A": 0.11,
-   "xg": [
-    2.4,
-    0.8
-   ],
-   "O25": 0.61,
-   "btts": 0.512,
-   "scores": [
-    [
-     "2-0",
-     0.113
-    ],
-    [
-     "1-0",
-     0.095
-    ],
-    [
-     "2-1",
-     0.093
-    ],
-    [
-     "1-1",
-     0.09
-    ],
-    [
-     "3-0",
-     0.09
-    ],
-    [
-     "3-1",
-     0.074
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-28T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
-   "home": "GNK Dinamo (CRO)",
-   "away": "Sturm Graz",
-   "homeName": "GNK Dinamo",
-   "awayName": "Sturm Graz",
-   "homeLeague": null,
-   "awayLeague": "austria",
-   "homeSlug": null,
-   "awaySlug": "sturm-graz",
-   "homeCountry": "CRO",
-   "awayCountry": "AUT",
-   "elo": [
-    1729,
-    1599
-   ],
-   "dr": 220,
-   "H": 0.637,
-   "D": 0.214,
-   "A": 0.149,
-   "xg": [
-    2.1,
-    0.9
-   ],
-   "O25": 0.576,
-   "btts": 0.533,
-   "scores": [
-    [
-     "2-0",
-     0.105
-    ],
-    [
-     "1-1",
-     0.105
-    ],
-    [
-     "1-0",
-     0.099
-    ],
-    [
-     "2-1",
-     0.097
-    ],
-    [
-     "3-0",
-     0.075
-    ],
-    [
-     "3-1",
-     0.069
-    ]
-   ]
-  },
-  {
-   "kickoff": "2027-01-28T20:00:00Z",
-   "comp": "el",
-   "compName": "Europa League",
-   "round": "League Phase",
    "home": "Salzburg",
    "away": "Crystal Palace",
    "homeName": "Salzburg",
@@ -9537,18 +7521,18 @@
    "homeCountry": "AUT",
    "awayCountry": "ENG",
    "elo": [
-    1697,
-    1808
+    1700,
+    1817
    ],
-   "dr": -21,
-   "H": 0.339,
-   "D": 0.272,
-   "A": 0.389,
+   "dr": -27,
+   "H": 0.332,
+   "D": 0.271,
+   "A": 0.396,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.517,
+   "O25": 0.518,
    "btts": 0.57,
    "scores": [
     [
@@ -9557,19 +7541,19 @@
     ],
     [
      "0-1",
-     0.086
+     0.087
     ],
     [
      "1-2",
-     0.084
+     0.085
     ],
     [
      "1-0",
-     0.079
+     0.078
     ],
     [
      "2-1",
-     0.078
+     0.077
     ],
     [
      "0-0",
@@ -9593,43 +7577,43 @@
    "homeCountry": "CZE",
    "awayCountry": "FRA",
    "elo": [
-    1662,
-    1814
+    1655,
+    1794
    ],
-   "dr": -63,
-   "H": 0.293,
-   "D": 0.267,
-   "A": 0.44,
+   "dr": -49,
+   "H": 0.308,
+   "D": 0.269,
+   "A": 0.423,
    "xg": [
-    1.2,
-    1.6
+    1.3,
+    1.5
    ],
-   "O25": 0.522,
-   "btts": 0.567,
+   "O25": 0.52,
+   "btts": 0.568,
    "scores": [
     [
      "1-1",
-     0.131
+     0.132
     ],
     [
      "0-1",
-     0.092
-    ],
-    [
-     "1-2",
      0.09
     ],
     [
-     "0-2",
-     0.072
+     "1-2",
+     0.088
     ],
     [
      "1-0",
-     0.072
+     0.075
     ],
     [
      "2-1",
-     0.071
+     0.073
+    ],
+    [
+     "0-2",
+     0.069
     ]
    ]
   },
@@ -9649,19 +7633,19 @@
    "homeCountry": "ENG",
    "awayCountry": "ISR",
    "elo": [
-    1976,
-    1562
+    1984,
+    1560
    ],
-   "dr": 504,
-   "H": 0.907,
-   "D": 0.069,
-   "A": 0.024,
+   "dr": 514,
+   "H": 0.913,
+   "D": 0.065,
+   "A": 0.022,
    "xg": [
     3.7,
     0.5
    ],
-   "O25": 0.783,
-   "btts": 0.406,
+   "O25": 0.792,
+   "btts": 0.401,
    "scores": [
     [
      "3-0",
@@ -9669,19 +7653,19 @@
     ],
     [
      "4-0",
-     0.112
+     0.114
     ],
     [
      "2-0",
-     0.1
+     0.098
     ],
     [
      "5-0",
-     0.082
+     0.085
     ],
     [
      "3-1",
-     0.066
+     0.064
     ],
     [
      "4-1",
@@ -9705,8 +7689,8 @@
    "homeCountry": "ENG",
    "awayCountry": "BUL",
    "elo": [
-    1862,
-    1582
+    1858,
+    1579
    ],
    "dr": 369,
    "H": 0.802,
@@ -9761,39 +7745,39 @@
    "homeCountry": "SVN",
    "awayCountry": "NED",
    "elo": [
-    1531,
-    1647
+    1539,
+    1670
    ],
-   "dr": -25,
-   "H": 0.334,
-   "D": 0.272,
-   "A": 0.394,
+   "dr": -41,
+   "H": 0.317,
+   "D": 0.27,
+   "A": 0.413,
    "xg": [
     1.3,
     1.5
    ],
-   "O25": 0.517,
-   "btts": 0.57,
+   "O25": 0.519,
+   "btts": 0.569,
    "scores": [
     [
      "1-1",
-     0.133
+     0.132
     ],
     [
      "0-1",
-     0.087
+     0.089
     ],
     [
      "1-2",
-     0.085
+     0.087
     ],
     [
      "1-0",
-     0.079
+     0.076
     ],
     [
      "2-1",
-     0.077
+     0.075
     ],
     [
      "0-0",
@@ -9817,23 +7801,23 @@
    "homeCountry": "CYP",
    "awayCountry": "TUR",
    "elo": [
-    1597,
-    1846
+    1590,
+    1849
    ],
-   "dr": -159,
-   "H": 0.198,
-   "D": 0.24,
-   "A": 0.562,
+   "dr": -168,
+   "H": 0.19,
+   "D": 0.236,
+   "A": 0.573,
    "xg": [
     1,
     1.9
    ],
-   "O25": 0.548,
-   "btts": 0.55,
+   "O25": 0.552,
+   "btts": 0.548,
    "scores": [
     [
      "1-1",
-     0.118
+     0.116
     ],
     [
      "0-1",
@@ -9845,15 +7829,15 @@
     ],
     [
      "0-2",
-     0.094
+     0.096
     ],
     [
      "1-3",
-     0.061
+     0.062
     ],
     [
-     "0-0",
-     0.06
+     "0-3",
+     0.061
     ]
    ]
   },
@@ -9873,19 +7857,19 @@
    "homeCountry": "ESP",
    "awayCountry": "NOR",
    "elo": [
-    1799,
-    1528
+    1778,
+    1532
    ],
-   "dr": 360,
-   "H": 0.794,
-   "D": 0.139,
-   "A": 0.067,
+   "dr": 336,
+   "H": 0.769,
+   "D": 0.152,
+   "A": 0.078,
    "xg": [
-    2.8,
+    2.7,
     0.7
    ],
-   "O25": 0.667,
-   "btts": 0.477,
+   "O25": 0.649,
+   "btts": 0.488,
    "scores": [
     [
      "2-0",
@@ -9893,22 +7877,22 @@
     ],
     [
      "3-0",
-     0.108
+     0.103
     ],
     [
      "1-0",
-     0.084
+     0.088
     ],
     [
      "2-1",
-     0.082
+     0.086
     ],
     [
      "3-1",
      0.076
     ],
     [
-     "4-0",
+     "1-1",
      0.075
     ]
    ]
@@ -9929,43 +7913,43 @@
    "homeCountry": "GER",
    "awayCountry": "HUN",
    "elo": [
-    1835,
-    1795
+    1845,
+    1787
    ],
-   "dr": 131,
-   "H": 0.525,
-   "D": 0.25,
-   "A": 0.224,
+   "dr": 148,
+   "H": 0.547,
+   "D": 0.244,
+   "A": 0.208,
    "xg": [
-    1.8,
+    1.9,
     1.1
    ],
-   "O25": 0.538,
-   "btts": 0.557,
+   "O25": 0.544,
+   "btts": 0.553,
    "scores": [
     [
      "1-1",
-     0.123
+     0.12
     ],
     [
      "1-0",
-     0.098
+     0.099
     ],
     [
      "2-1",
-     0.096
+     0.097
     ],
     [
      "2-0",
-     0.088
+     0.091
     ],
     [
      "0-0",
-     0.063
+     0.061
     ],
     [
-     "0-1",
-     0.059
+     "3-1",
+     0.06
     ]
    ]
   },
@@ -9985,31 +7969,31 @@
    "homeCountry": "POR",
    "awayCountry": "GRE",
    "elo": [
-    1432,
-    1782
+    1427,
+    1764
    ],
-   "dr": -260,
-   "H": 0.121,
-   "D": 0.194,
-   "A": 0.685,
+   "dr": -247,
+   "H": 0.13,
+   "D": 0.2,
+   "A": 0.671,
    "xg": [
     0.9,
-    2.3
+    2.2
    ],
-   "O25": 0.598,
-   "btts": 0.519,
+   "O25": 0.591,
+   "btts": 0.524,
    "scores": [
     [
      "0-2",
-     0.111
+     0.109
+    ],
+    [
+     "1-1",
+     0.098
     ],
     [
      "0-1",
      0.097
-    ],
-    [
-     "1-1",
-     0.095
     ],
     [
      "1-2",
@@ -10017,11 +8001,11 @@
     ],
     [
      "0-3",
-     0.085
+     0.082
     ],
     [
      "1-3",
-     0.072
+     0.071
     ]
    ]
   },
@@ -10041,23 +8025,23 @@
    "homeCountry": "GRE",
    "awayCountry": "POL",
    "elo": [
-    1442,
-    1688
+    1430,
+    1696
    ],
-   "dr": -155,
-   "H": 0.202,
-   "D": 0.242,
-   "A": 0.557,
+   "dr": -176,
+   "H": 0.184,
+   "D": 0.233,
+   "A": 0.583,
    "xg": [
     1,
-    1.9
+    2
    ],
-   "O25": 0.546,
-   "btts": 0.551,
+   "O25": 0.555,
+   "btts": 0.546,
    "scores": [
     [
      "1-1",
-     0.118
+     0.114
     ],
     [
      "0-1",
@@ -10069,15 +8053,15 @@
     ],
     [
      "0-2",
-     0.093
+     0.097
     ],
     [
      "1-3",
-     0.061
+     0.063
     ],
     [
-     "0-0",
-     0.06
+     "0-3",
+     0.063
     ]
    ]
   }

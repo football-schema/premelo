@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "league": "Serie A",
  "from": "2000-01",
  "test": {
@@ -614,9 +614,9 @@
    "matches": 120,
    "withOdds": 120,
    "model": {
-    "logloss": 0.8955,
-    "rps": 0.1864,
-    "brier": 0.5206
+    "logloss": 0.8959,
+    "rps": 0.1865,
+    "brier": 0.5208
    },
    "market": {
     "logloss": 0.8937,
@@ -633,20 +633,20 @@
  "calibration": [
   {
    "bucket": "0-10%",
-   "matches": 156,
+   "matches": 157,
    "predicted": 0.078,
    "actual": 0.045
   },
   {
    "bucket": "10-20%",
-   "matches": 926,
+   "matches": 925,
    "predicted": 0.157,
    "actual": 0.138
   },
   {
    "bucket": "20-30%",
    "matches": 1353,
-   "predicted": 0.252,
+   "predicted": 0.251,
    "actual": 0.256
   },
   {
@@ -663,15 +663,15 @@
   },
   {
    "bucket": "50-60%",
-   "matches": 1456,
+   "matches": 1455,
    "predicted": 0.547,
    "actual": 0.566
   },
   {
    "bucket": "60-70%",
-   "matches": 1026,
+   "matches": 1027,
    "predicted": 0.65,
-   "actual": 0.662
+   "actual": 0.661
   },
   {
    "bucket": "70-80%",

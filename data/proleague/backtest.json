@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "league": "Pro League",
  "from": "2000-01",
  "test": {
@@ -616,7 +616,7 @@
    "model": {
     "logloss": 0.8882,
     "rps": 0.1832,
-    "brier": 0.5185
+    "brier": 0.5186
    },
    "market": {
     "logloss": 0.8975,

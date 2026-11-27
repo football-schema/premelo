@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:01:16.249Z",
+ "updated": "2026-11-27T07:01:13.641Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-11-23",
@@ -50,9 +50,9 @@
    "name": "FC Copenhagen",
    "slug": "fc-copenhagen",
    "div": "top",
-   "elo": 1765,
-   "change30": -22,
-   "played": 24,
+   "elo": 1744,
+   "change30": -43,
+   "played": 25,
    "form": [
     {
      "r": "D",
@@ -102,7 +102,6 @@
    ],
    "spark": [
     1742,
-    1742,
     1761,
     1754,
     1742,
@@ -120,7 +119,8 @@
     1792,
     1793,
     1782,
-    1765
+    1765,
+    1740
    ],
    "rank": 1,
    "table": {
@@ -139,9 +139,9 @@
    "name": "Nordsjaelland",
    "slug": "nordsjaelland",
    "div": "top",
-   "elo": 1716,
-   "change30": 22,
-   "played": 24,
+   "elo": 1728,
+   "change30": 34,
+   "played": 25,
    "form": [
     {
      "r": "D",
@@ -190,7 +190,6 @@
     }
    ],
    "spark": [
-    1667,
     1666,
     1666,
     1672,
@@ -209,7 +208,8 @@
     1694,
     1684,
     1699,
-    1716
+    1716,
+    1725
    ],
    "rank": 2,
    "table": {
@@ -228,9 +228,9 @@
    "name": "Midtjylland",
    "slug": "midtjylland",
    "div": "top",
-   "elo": 1703,
-   "change30": -5,
-   "played": 24,
+   "elo": 1718,
+   "change30": 10,
+   "played": 25,
    "form": [
     {
      "r": "W",
@@ -280,7 +280,6 @@
    ],
    "spark": [
     1732,
-    1732,
     1727,
     1733,
     1731,
@@ -298,7 +297,8 @@
     1712,
     1688,
     1683,
-    1703
+    1703,
+    1718
    ],
    "rank": 3,
    "table": {
@@ -317,8 +317,8 @@
    "name": "Brondby",
    "slug": "brondby",
    "div": "top",
-   "elo": 1679,
-   "change30": -11,
+   "elo": 1682,
+   "change30": -8,
    "played": 15,
    "form": [
     {
@@ -406,8 +406,8 @@
    "name": "Viborg",
    "slug": "viborg",
    "div": "top",
-   "elo": 1648,
-   "change30": -4,
+   "elo": 1652,
+   "change30": 0,
    "played": 15,
    "form": [
     {
@@ -495,9 +495,9 @@
    "name": "Aarhus",
    "slug": "aarhus",
    "div": "top",
-   "elo": 1625,
-   "change30": -25,
-   "played": 24,
+   "elo": 1648,
+   "change30": -2,
+   "played": 25,
    "form": [
     {
      "r": "D",
@@ -546,7 +546,6 @@
     }
    ],
    "spark": [
-    1673,
     1646,
     1631,
     1628,
@@ -565,7 +564,8 @@
     1636,
     1638,
     1617,
-    1625
+    1625,
+    1649
    ],
    "rank": 6,
    "table": {
@@ -584,8 +584,8 @@
    "name": "Odense",
    "slug": "odense",
    "div": "top",
-   "elo": 1580,
-   "change30": -17,
+   "elo": 1584,
+   "change30": -13,
    "played": 15,
    "form": [
     {
@@ -673,8 +673,8 @@
    "name": "Lyngby",
    "slug": "lyngby",
    "div": "top",
-   "elo": 1482,
-   "change30": -38,
+   "elo": 1486,
+   "change30": -34,
    "played": 15,
    "form": [
     {
@@ -762,8 +762,8 @@
    "name": "Silkeborg",
    "slug": "silkeborg",
    "div": "top",
-   "elo": 1481,
-   "change30": 5,
+   "elo": 1484,
+   "change30": 8,
    "played": 15,
    "form": [
     {
@@ -851,8 +851,8 @@
    "name": "Randers FC",
    "slug": "randers-fc",
    "div": "top",
-   "elo": 1475,
-   "change30": -30,
+   "elo": 1479,
+   "change30": -26,
    "played": 15,
    "form": [
     {
@@ -940,8 +940,8 @@
    "name": "Horsens",
    "slug": "horsens",
    "div": "top",
-   "elo": 1463,
-   "change30": 16,
+   "elo": 1467,
+   "change30": 20,
    "played": 15,
    "form": [
     {
@@ -1029,8 +1029,8 @@
    "name": "Sonderjyske",
    "slug": "sonderjyske",
    "div": "top",
-   "elo": 1454,
-   "change30": -29,
+   "elo": 1458,
+   "change30": -25,
    "played": 15,
    "form": [
     {
