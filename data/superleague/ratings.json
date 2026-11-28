@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:01:13.630Z",
+ "updated": "2026-11-28T07:01:15.654Z",
  "league": "superleague",
  "name": "Super League",
  "through": "2026-11-23",
@@ -123,6 +123,14 @@
     1791
    ],
    "rank": 1,
+   "next": {
+    "opp": "Atromitos",
+    "oppSlug": "atromitos",
+    "ha": "a",
+    "kickoff": "2026-11-29T15:00:00.000Z",
+    "win": 0.689,
+    "draw": 0.207
+   },
    "table": {
     "pos": 1,
     "p": 11,
@@ -212,6 +220,14 @@
     1764
    ],
    "rank": 2,
+   "next": {
+    "opp": "Aris Thessaloniki",
+    "oppSlug": "aris",
+    "ha": "a",
+    "kickoff": "2026-11-29T17:00:00.000Z",
+    "win": 0.545,
+    "draw": 0.271
+   },
    "table": {
     "pos": 2,
     "p": 11,
@@ -301,6 +317,14 @@
     1763
    ],
    "rank": 3,
+   "next": {
+    "opp": "PAOK",
+    "oppSlug": "paok",
+    "ha": "h",
+    "kickoff": "2026-11-29T19:00:00.000Z",
+    "win": 0.513,
+    "draw": 0.282
+   },
    "table": {
     "pos": 3,
     "p": 10,
@@ -390,6 +414,14 @@
     1671
    ],
    "rank": 4,
+   "next": {
+    "opp": "AEK Athens",
+    "oppSlug": "aek",
+    "ha": "a",
+    "kickoff": "2026-11-29T19:00:00.000Z",
+    "win": 0.205,
+    "draw": 0.282
+   },
    "table": {
     "pos": 4,
     "p": 11,
@@ -479,6 +511,14 @@
     1545
    ],
    "rank": 5,
+   "next": {
+    "opp": "Olympiacos",
+    "oppSlug": "olympiakos",
+    "ha": "h",
+    "kickoff": "2026-11-29T17:00:00.000Z",
+    "win": 0.185,
+    "draw": 0.271
+   },
    "table": {
     "pos": 5,
     "p": 11,
@@ -568,6 +608,14 @@
     1449
    ],
    "rank": 6,
+   "next": {
+    "opp": "Panathinaikos",
+    "oppSlug": "panathinaikos",
+    "ha": "h",
+    "kickoff": "2026-11-29T15:00:00.000Z",
+    "win": 0.104,
+    "draw": 0.207
+   },
    "table": {
     "pos": 11,
     "p": 10,
@@ -657,6 +705,14 @@
     1433
    ],
    "rank": 7,
+   "next": {
+    "opp": "Levadiakos",
+    "oppSlug": "levadiakos",
+    "ha": "h",
+    "kickoff": "2026-11-29T15:30:00.000Z",
+    "win": 0.45,
+    "draw": 0.286
+   },
    "table": {
     "pos": 6,
     "p": 11,
@@ -746,6 +802,14 @@
     1428
    ],
    "rank": 8,
+   "next": {
+    "opp": "Kalamata",
+    "oppSlug": "kalamata",
+    "ha": "h",
+    "kickoff": "2026-11-28T18:00:00.000Z",
+    "win": 0.495,
+    "draw": 0.278
+   },
    "table": {
     "pos": 7,
     "p": 11,
@@ -835,6 +899,14 @@
     1411
    ],
    "rank": 9,
+   "next": {
+    "opp": "Volos NFC",
+    "oppSlug": "volos-nfc",
+    "ha": "a",
+    "kickoff": "2026-11-28T15:00:00.000Z",
+    "win": 0.381,
+    "draw": 0.302
+   },
    "table": {
     "pos": 13,
     "p": 11,
@@ -924,6 +996,14 @@
     1398
    ],
    "rank": 10,
+   "next": {
+    "opp": "OFI",
+    "oppSlug": "ofi-crete",
+    "ha": "a",
+    "kickoff": "2026-11-29T15:30:00.000Z",
+    "win": 0.264,
+    "draw": 0.286
+   },
    "table": {
     "pos": 12,
     "p": 11,
@@ -1013,6 +1093,14 @@
     1363
    ],
    "rank": 11,
+   "next": {
+    "opp": "Panetolikos",
+    "oppSlug": "panetolikos",
+    "ha": "h",
+    "kickoff": "2026-11-28T15:00:00.000Z",
+    "win": 0.488,
+    "draw": 0.286
+   },
    "table": {
     "pos": 10,
     "p": 11,
@@ -1102,6 +1190,14 @@
     1357
    ],
    "rank": 12,
+   "next": {
+    "opp": "Kifisia",
+    "oppSlug": "kifisia",
+    "ha": "a",
+    "kickoff": "2026-11-28T18:00:00.000Z",
+    "win": 0.227,
+    "draw": 0.278
+   },
    "table": {
     "pos": 8,
     "p": 11,
@@ -1191,6 +1287,14 @@
     1320
    ],
    "rank": 13,
+   "next": {
+    "opp": "Asteras Tripolis",
+    "oppSlug": "asteras-tripolis",
+    "ha": "h",
+    "kickoff": "2026-11-28T15:00:00.000Z",
+    "win": 0.316,
+    "draw": 0.302
+   },
    "table": {
     "pos": 14,
     "p": 11,
@@ -1280,6 +1384,14 @@
     1314
    ],
    "rank": 14,
+   "next": {
+    "opp": "Iraklis",
+    "oppSlug": "iraklis",
+    "ha": "a",
+    "kickoff": "2026-11-28T15:00:00.000Z",
+    "win": 0.226,
+    "draw": 0.286
+   },
    "table": {
     "pos": 9,
     "p": 11,

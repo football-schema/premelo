@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:01:13.641Z",
+ "updated": "2026-11-28T07:01:15.665Z",
  "league": "denmark",
  "name": "Danish Superliga",
  "through": "2026-11-23",
@@ -123,6 +123,14 @@
     1740
    ],
    "rank": 1,
+   "next": {
+    "opp": "Midtjylland",
+    "oppSlug": "midtjylland",
+    "ha": "h",
+    "kickoff": "2026-11-29T15:00:00.000Z",
+    "win": 0.457,
+    "draw": 0.275
+   },
    "table": {
     "pos": 2,
     "p": 15,
@@ -212,6 +220,14 @@
     1725
    ],
    "rank": 2,
+   "next": {
+    "opp": "Odense",
+    "oppSlug": "odense",
+    "ha": "a",
+    "kickoff": "2026-11-30T18:00:00.000Z",
+    "win": 0.502,
+    "draw": 0.266
+   },
    "table": {
     "pos": 4,
     "p": 15,
@@ -301,6 +317,14 @@
     1718
    ],
    "rank": 3,
+   "next": {
+    "opp": "FC Copenhagen",
+    "oppSlug": "fc-copenhagen",
+    "ha": "a",
+    "kickoff": "2026-11-29T15:00:00.000Z",
+    "win": 0.267,
+    "draw": 0.275
+   },
    "table": {
     "pos": 1,
     "p": 15,
@@ -479,6 +503,14 @@
     1648
    ],
    "rank": 5,
+   "next": {
+    "opp": "Lyngby",
+    "oppSlug": "lyngby",
+    "ha": "a",
+    "kickoff": "2026-11-29T13:00:00.000Z",
+    "win": 0.481,
+    "draw": 0.271
+   },
    "table": {
     "pos": 3,
     "p": 15,
@@ -568,6 +600,14 @@
     1649
    ],
    "rank": 6,
+   "next": {
+    "opp": "Silkeborg",
+    "oppSlug": "silkeborg",
+    "ha": "a",
+    "kickoff": "2026-11-29T17:00:00.000Z",
+    "win": 0.513,
+    "draw": 0.263
+   },
    "table": {
     "pos": 8,
     "p": 15,
@@ -657,6 +697,14 @@
     1580
    ],
    "rank": 7,
+   "next": {
+    "opp": "Nordsjaelland",
+    "oppSlug": "nordsjaelland",
+    "ha": "h",
+    "kickoff": "2026-11-30T18:00:00.000Z",
+    "win": 0.232,
+    "draw": 0.266
+   },
    "table": {
     "pos": 6,
     "p": 15,
@@ -746,6 +794,14 @@
     1482
    ],
    "rank": 8,
+   "next": {
+    "opp": "Viborg",
+    "oppSlug": "viborg",
+    "ha": "h",
+    "kickoff": "2026-11-29T13:00:00.000Z",
+    "win": 0.248,
+    "draw": 0.271
+   },
    "table": {
     "pos": 11,
     "p": 15,
@@ -835,6 +891,14 @@
     1481
    ],
    "rank": 9,
+   "next": {
+    "opp": "Aarhus",
+    "oppSlug": "aarhus",
+    "ha": "h",
+    "kickoff": "2026-11-29T17:00:00.000Z",
+    "win": 0.224,
+    "draw": 0.263
+   },
    "table": {
     "pos": 9,
     "p": 15,
@@ -924,6 +988,14 @@
     1475
    ],
    "rank": 10,
+   "next": {
+    "opp": "Horsens",
+    "oppSlug": "horsens",
+    "ha": "h",
+    "kickoff": "2026-11-29T13:00:00.000Z",
+    "win": 0.442,
+    "draw": 0.278
+   },
    "table": {
     "pos": 10,
     "p": 15,
@@ -1013,6 +1085,14 @@
     1463
    ],
    "rank": 11,
+   "next": {
+    "opp": "Randers FC",
+    "oppSlug": "randers-fc",
+    "ha": "a",
+    "kickoff": "2026-11-29T13:00:00.000Z",
+    "win": 0.28,
+    "draw": 0.278
+   },
    "table": {
     "pos": 7,
     "p": 15,

@@ -1,6 +1,301 @@
 {
- "updated": "2026-11-27T07:01:14.208Z",
+ "updated": "2026-11-28T07:01:16.253Z",
  "league": "romania",
  "season": "2026-27",
- "fixtures": []
+ "fixtures": [
+  {
+   "kickoff": "2026-11-28T12:30:00.000Z",
+   "home": "FC Voluntari",
+   "away": "CFR Cluj",
+   "homeSlug": "fc-voluntari",
+   "awaySlug": "cfr-cluj",
+   "homeName": "FC Voluntari",
+   "awayName": "CFR Cluj",
+   "elo": [
+    1299,
+    1406
+   ],
+   "dr": -38,
+   "H": 0.31,
+   "D": 0.306,
+   "A": 0.384,
+   "xg": [
+    1.2,
+    1.3
+   ],
+   "O25": 0.427,
+   "btts": 0.505,
+   "scores": [
+    [
+     "1-1",
+     0.151
+    ],
+    [
+     "0-1",
+     0.106
+    ],
+    [
+     "0-0",
+     0.101
+    ],
+    [
+     "1-0",
+     0.093
+    ],
+    [
+     "1-2",
+     0.08
+    ],
+    [
+     "2-1",
+     0.07
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "Corvinul",
+   "away": "Farul Constanta",
+   "homeSlug": "corvinul",
+   "awaySlug": "farul-constanta",
+   "homeName": "Corvinul",
+   "awayName": "Farul Constanta",
+   "elo": [
+    1456,
+    1450
+   ],
+   "dr": 83,
+   "H": 0.437,
+   "D": 0.301,
+   "A": 0.263,
+   "xg": [
+    1.4,
+    1
+   ],
+   "O25": 0.427,
+   "btts": 0.497,
+   "scores": [
+    [
+     "1-1",
+     0.148
+    ],
+    [
+     "1-0",
+     0.115
+    ],
+    [
+     "0-0",
+     0.1
+    ],
+    [
+     "2-1",
+     0.086
+    ],
+    [
+     "0-1",
+     0.084
+    ],
+    [
+     "2-0",
+     0.082
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-28T18:00:00.000Z",
+   "home": "FCSB",
+   "away": "Csikszereda M. Ciuc",
+   "homeSlug": "fcsb",
+   "awaySlug": "csikszereda-m-ciuc",
+   "homeName": "FCSB",
+   "awayName": "Csikszereda M. Ciuc",
+   "elo": [
+    1580,
+    1223
+   ],
+   "dr": 408,
+   "H": 0.799,
+   "D": 0.147,
+   "A": 0.054,
+   "xg": [
+    2.6,
+    0.6
+   ],
+   "O25": 0.607,
+   "btts": 0.401,
+   "scores": [
+    [
+     "2-0",
+     0.139
+    ],
+    [
+     "3-0",
+     0.123
+    ],
+    [
+     "1-0",
+     0.105
+    ],
+    [
+     "4-0",
+     0.081
+    ],
+    [
+     "2-1",
+     0.077
+    ],
+    [
+     "1-1",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-29T13:00:00.000Z",
+   "home": "Otelul",
+   "away": "UTA Arad",
+   "homeSlug": "otelul",
+   "awaySlug": "uta-arad",
+   "homeName": "Otelul",
+   "awayName": "UTA Arad",
+   "elo": [
+    1405,
+    1453
+   ],
+   "dr": 19,
+   "H": 0.368,
+   "D": 0.309,
+   "A": 0.323,
+   "xg": [
+    1.3,
+    1.2
+   ],
+   "O25": 0.42,
+   "btts": 0.501,
+   "scores": [
+    [
+     "1-1",
+     0.152
+    ],
+    [
+     "1-0",
+     0.105
+    ],
+    [
+     "0-0",
+     0.103
+    ],
+    [
+     "0-1",
+     0.097
+    ],
+    [
+     "2-1",
+     0.078
+    ],
+    [
+     "1-2",
+     0.072
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-29T18:00:00.000Z",
+   "home": "FC Rapid Bucuresti",
+   "away": "FC Botosani",
+   "homeSlug": "fc-rapid-bucuresti",
+   "awaySlug": "fc-botosani",
+   "homeName": "FC Rapid Bucuresti",
+   "awayName": "FC Botosani",
+   "elo": [
+    1582,
+    1368
+   ],
+   "dr": 276,
+   "H": 0.661,
+   "D": 0.223,
+   "A": 0.116,
+   "xg": [
+    2.1,
+    0.7
+   ],
+   "O25": 0.506,
+   "btts": 0.453,
+   "scores": [
+    [
+     "2-0",
+     0.127
+    ],
+    [
+     "1-0",
+     0.123
+    ],
+    [
+     "1-1",
+     0.11
+    ],
+    [
+     "2-1",
+     0.091
+    ],
+    [
+     "3-0",
+     0.087
+    ],
+    [
+     "0-0",
+     0.074
+    ]
+   ]
+  },
+  {
+   "kickoff": "2026-11-30T18:00:00.000Z",
+   "home": "Univ. Craiova",
+   "away": "Dinamo Bucuresti",
+   "homeSlug": "univ-craiova",
+   "awaySlug": "dinamo-bucuresti",
+   "homeName": "Univ. Craiova",
+   "awayName": "Dinamo Bucuresti",
+   "elo": [
+    1726,
+    1623
+   ],
+   "dr": 178,
+   "H": 0.548,
+   "D": 0.271,
+   "A": 0.181,
+   "xg": [
+    1.7,
+    0.9
+   ],
+   "O25": 0.454,
+   "btts": 0.479,
+   "scores": [
+    [
+     "1-1",
+     0.133
+    ],
+    [
+     "1-0",
+     0.125
+    ],
+    [
+     "2-0",
+     0.106
+    ],
+    [
+     "2-1",
+     0.092
+    ],
+    [
+     "0-0",
+     0.09
+    ],
+    [
+     "0-1",
+     0.063
+    ]
+   ]
+  }
+ ]
 }

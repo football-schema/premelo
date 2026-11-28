@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:01:14.202Z",
+ "updated": "2026-11-28T07:01:16.247Z",
  "league": "poland",
  "name": "Ekstraklasa",
  "through": "2026-11-23",
@@ -244,6 +244,14 @@
     1694
    ],
    "rank": 2,
+   "next": {
+    "opp": "Pogon Szczecin",
+    "oppSlug": "pogon-szczecin",
+    "ha": "h",
+    "kickoff": "2026-11-29T13:45:00.000Z",
+    "win": 0.642,
+    "draw": 0.214
+   },
    "table": {
     "pos": 1,
     "p": 14,
@@ -359,6 +367,14 @@
     1631
    ],
    "rank": 3,
+   "next": {
+    "opp": "Wieczysta Krakow",
+    "oppSlug": "wieczysta-krakow",
+    "ha": "h",
+    "kickoff": "2026-11-29T16:30:00.000Z",
+    "win": 0.576,
+    "draw": 0.24
+   },
    "table": {
     "pos": 3,
     "p": 15,
@@ -474,6 +490,14 @@
     1618
    ],
    "rank": 4,
+   "next": {
+    "opp": "Motor Lublin",
+    "oppSlug": "motor-lublin",
+    "ha": "h",
+    "kickoff": "2026-11-28T19:15:00.000Z",
+    "win": 0.521,
+    "draw": 0.252
+   },
    "table": {
     "pos": 6,
     "p": 15,
@@ -589,6 +613,14 @@
     1599
    ],
    "rank": 5,
+   "next": {
+    "opp": "Radomiak Radom",
+    "oppSlug": "radomiak-radom",
+    "ha": "h",
+    "kickoff": "2026-11-29T19:15:00.000Z",
+    "win": 0.606,
+    "draw": 0.226
+   },
    "table": {
     "pos": 9,
     "p": 14,
@@ -819,6 +851,14 @@
     1567
    ],
    "rank": 7,
+   "next": {
+    "opp": "Wisla",
+    "oppSlug": "wisla",
+    "ha": "a",
+    "kickoff": "2026-11-28T19:15:00.000Z",
+    "win": 0.227,
+    "draw": 0.252
+   },
    "table": {
     "pos": 10,
     "p": 15,
@@ -934,6 +974,14 @@
     1562
    ],
    "rank": 8,
+   "next": {
+    "opp": "Slask Wroclaw",
+    "oppSlug": "slask-wroclaw",
+    "ha": "a",
+    "kickoff": "2026-11-28T16:30:00.000Z",
+    "win": 0.417,
+    "draw": 0.272
+   },
    "table": {
     "pos": 8,
     "p": 15,
@@ -1049,6 +1097,14 @@
     1559
    ],
    "rank": 9,
+   "next": {
+    "opp": "Zaglebie",
+    "oppSlug": "zaglebie",
+    "ha": "h",
+    "kickoff": "2026-11-28T13:45:00.000Z",
+    "win": 0.529,
+    "draw": 0.264
+   },
    "table": {
     "pos": 16,
     "p": 15,
@@ -1164,6 +1220,14 @@
     1553
    ],
    "rank": 10,
+   "next": {
+    "opp": "Cracovia",
+    "oppSlug": "cracovia",
+    "ha": "h",
+    "kickoff": "2026-11-30T18:00:00.000Z",
+    "win": 0.466,
+    "draw": 0.278
+   },
    "table": {
     "pos": 11,
     "p": 15,
@@ -1279,6 +1343,14 @@
     1534
    ],
    "rank": 11,
+   "next": {
+    "opp": "Korona Kielce",
+    "oppSlug": "korona-kielce",
+    "ha": "a",
+    "kickoff": "2026-11-30T18:00:00.000Z",
+    "win": 0.256,
+    "draw": 0.278
+   },
    "table": {
     "pos": 12,
     "p": 15,
@@ -1394,6 +1466,14 @@
     1527
    ],
    "rank": 12,
+   "next": {
+    "opp": "Lech Poznan",
+    "oppSlug": "lech-poznan",
+    "ha": "a",
+    "kickoff": "2026-11-29T13:45:00.000Z",
+    "win": 0.144,
+    "draw": 0.214
+   },
    "table": {
     "pos": 7,
     "p": 14,
@@ -1504,6 +1584,14 @@
     1515
    ],
    "rank": 13,
+   "next": {
+    "opp": "Legia",
+    "oppSlug": "legia",
+    "ha": "a",
+    "kickoff": "2026-11-29T16:30:00.000Z",
+    "win": 0.184,
+    "draw": 0.24
+   },
    "table": {
     "pos": 18,
     "p": 15,
@@ -1849,6 +1937,14 @@
     1482
    ],
    "rank": 16,
+   "next": {
+    "opp": "Widzew Lodz",
+    "oppSlug": "widzew-lodz",
+    "ha": "a",
+    "kickoff": "2026-11-28T13:45:00.000Z",
+    "win": 0.207,
+    "draw": 0.264
+   },
    "table": {
     "pos": 4,
     "p": 15,
@@ -1964,6 +2060,14 @@
     1467
    ],
    "rank": 17,
+   "next": {
+    "opp": "Jagiellonia",
+    "oppSlug": "jagiellonia",
+    "ha": "a",
+    "kickoff": "2026-11-29T19:15:00.000Z",
+    "win": 0.167,
+    "draw": 0.226
+   },
    "table": {
     "pos": 15,
     "p": 15,
@@ -2079,6 +2183,14 @@
     1431
    ],
    "rank": 18,
+   "next": {
+    "opp": "GKS Katowice",
+    "oppSlug": "gks-katowice",
+    "ha": "h",
+    "kickoff": "2026-11-28T16:30:00.000Z",
+    "win": 0.31,
+    "draw": 0.272
+   },
    "table": {
     "pos": 17,
     "p": 15,
